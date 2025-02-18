@@ -1,0 +1,11 @@
+
+Tue Feb 18 23:43:05 CET 2025
+
+dann scheint im aktuellen debian trixie grad das gedit komplett broken zu sein, mit einem deadlock und sandgrube
+
+und da scheinen auch grad irgendwelche triebtäter aus dem Umfeld von Urs Blum das zum suizid trigger ausweiten zu wollen
+
+
+Tue Feb 18 23:44:20 CET 2025
+
+6e1a66f5ad2b5765f39cd76691b4bddf64234049
