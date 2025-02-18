@@ -1,0 +1,6 @@
+link local
+static
+ppp
+dhcp ia na
+dhcp ia pd
+

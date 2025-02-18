@@ -1,0 +1,1 @@
+7z -v1000m a /media/marc/1BE7-0C1A/hcg2308.1 _hackerscardgame-notes-s23m08/

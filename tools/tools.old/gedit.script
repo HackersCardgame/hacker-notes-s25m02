@@ -1,0 +1,5 @@
+#!/bin/sh
+echo =============
+echo -n $(git rev-parse HEAD) -- $(date "+%Y%m%d %H:%m:%S") "\n"
+echo =============
+

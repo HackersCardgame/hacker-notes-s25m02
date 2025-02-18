@@ -1,0 +1,10 @@
+qemu-img resize / / / .qcow2 +30G
+
+apt-cache search growpart
+
+PATH=$PATH:/usr/bin growpart vda 1
+
+
+PATH=$PATH:/usr/bin /usr/sbin/resize2fs
+
+

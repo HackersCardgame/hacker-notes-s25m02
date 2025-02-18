@@ -1,0 +1,25 @@
+
+Host music 
+        Hostname github.com
+        IdentityFile=/home/marc/.ssh/id_rsa2
+
+Host github.com-hackerscardgame-notes
+        Hostname github.com
+        IdentityFile=/home/marc/.ssh/id_rsa
+
+Host github.com-pri
+        Hostname github.com
+        IdentityFile=/home/marc/.ssh/id_rsa3
+
+
+Host radar
+        Hostname github.com
+        IdentityFile=/home/marc/.ssh/id_rsa4
+
+Host ebooks
+        Hostname github.com
+        IdentityFile=/home/marc/.ssh/id_rsa5
+
+Host bourdieu
+        Hostname github.com
+        IdentityFile=/home/marc/.ssh/id_rsa6

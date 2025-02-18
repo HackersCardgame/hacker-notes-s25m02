@@ -1,0 +1,55 @@
+um UUID zu finden blkid
+
+um mehrere datenträger zu einem Raid 5 zu verbinden
+
+apt-get install mdadm
+
+mdadm --create --verbose /dev/md0 --level=5 --raid-devices=3 /dev/sdb /dev/sdc /dev/sdd
+ 
+blkid /dev/md0
+
+cat /proc/mdstat
+
+mdadm --detail --scan >/etc/mdadm/mdadm.conf ?????
+
+update-initramfs -u
+
+
+mdadm --create --verbose /dev/md0 --level=5 --raid-devices=4 --spare-devices=1 /dev/sdb /dev/sdc /dev/sdd /dev/sde /dev/sdf
+
+wenn kaputt
+
+mdadm --detail /dev/md0
+
+mdadm /dev/md0 --remove /dev/sdX (X für die platte die kaputt ist)
+
+mdadm /dev/md0 --add /dev/sdY (Y für die neue Platte)
+
+cat /proc/mdstat
+
+mdadm --detail /dev/md0
+
+
+config file:
+/etc/mdadm/mdadm.conf
+
+logs:
+cat /var/log/syslog |grep -e mdadm -e md -e raid
+ /var/log/syslog
+
+S.M.A.R.T.
+
+apt-get install smartmontools
+
+PRÜFEN:
+smartctl -a /dev/sda
+
+falls nicht aktiviert aktivieren mit 
+smartctl -s on /dev/sda
+
+error log:
+smartctl -l error /dev/sda
+
+dann zabbix modul installieren
+
+

@@ -1,0 +1,31 @@
+apt-get -y -o Acquire::ForceIPv4=true install gconf-editor
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install gimp
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt-get -y -o Acquire::ForceIPv4=true install valkyrie
+apt-get -y -o Acquire::ForceIPv4=true install blender
+apt-get -y -o Acquire::ForceIPv4=true install aeskulap
+apt-get -y -o Acquire::ForceIPv4=true install gconf-editor
+apt-get -y -o Acquire::ForceIPv4=true install mumble
+apt-get -y -o Acquire::ForceIPv4=true install spyder3
+apt-get -y install gimagereader-gtk
+pip install youtube-dl
+pip3 install music-dl
+pip install yt-dlp
+pip3 install pip_search
+pip install youtube-dl -U
+pip3 install music-dl -U
+pip install yt-dlp -U
+pip3 install pip_search -U
+apt-get -y -o Acquire::ForceIPv4=true install gconf-editor
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install gimp
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt-get -y -o Acquire::ForceIPv4=true install valkyrie
+apt-get -y -o Acquire::ForceIPv4=true install blender
+apt-get -y -o Acquire::ForceIPv4=true install gconf-editor
+apt-get -y -o Acquire::ForceIPv4=true install mumble
+apt-get -y -o Acquire::ForceIPv4=true install spyder3
+pip install youtube-dl
+pip3 install music-dl
+pip install yt-dlp

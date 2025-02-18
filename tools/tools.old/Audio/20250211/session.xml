@@ -1,0 +1,86 @@
+<!DOCTYPE qjackctlSession>
+<session name="20250211">
+ <client name="toslink 4">
+  <port type="out" name="capture_1">
+   <connect port="playback_1" client="system"/>
+   <connect port="playback_3" client="system"/>
+   <connect port="playback_5" client="system"/>
+   <connect port="playback_7" client="system"/>
+  </port>
+  <port type="out" name="capture_2">
+   <connect port="playback_2" client="system"/>
+   <connect port="playback_4" client="system"/>
+   <connect port="playback_6" client="system"/>
+   <connect port="playback_8" client="system"/>
+  </port>
+ </client>
+ <client name="system">
+  <port type="out" name="capture_1">
+   <connect port="playback_1" client="system"/>
+   <connect port="playback_3" client="system"/>
+   <connect port="playback_5" client="system"/>
+   <connect port="playback_7" client="system"/>
+  </port>
+  <port type="out" name="capture_2">
+   <connect port="playback_2" client="system"/>
+   <connect port="playback_4" client="system"/>
+   <connect port="playback_6" client="system"/>
+   <connect port="playback_8" client="system"/>
+  </port>
+  <port type="in" name="playback_1">
+   <connect port="capture_1" client="system"/>
+   <connect port="capture_1" client="toslink 3"/>
+   <connect port="capture_1" client="toslink 4"/>
+  </port>
+  <port type="in" name="playback_2">
+   <connect port="capture_2" client="system"/>
+   <connect port="capture_2" client="toslink 3"/>
+   <connect port="capture_2" client="toslink 4"/>
+  </port>
+  <port type="in" name="playback_3">
+   <connect port="capture_1" client="system"/>
+   <connect port="capture_1" client="toslink 3"/>
+   <connect port="capture_1" client="toslink 4"/>
+  </port>
+  <port type="in" name="playback_4">
+   <connect port="capture_2" client="system"/>
+   <connect port="capture_2" client="toslink 3"/>
+   <connect port="capture_2" client="toslink 4"/>
+  </port>
+  <port type="in" name="playback_5">
+   <connect port="capture_1" client="system"/>
+   <connect port="capture_1" client="toslink 3"/>
+   <connect port="capture_1" client="toslink 4"/>
+  </port>
+  <port type="in" name="playback_6">
+   <connect port="capture_2" client="system"/>
+   <connect port="capture_2" client="toslink 3"/>
+   <connect port="capture_2" client="toslink 4"/>
+  </port>
+  <port type="in" name="playback_7">
+   <connect port="capture_1" client="system"/>
+   <connect port="capture_1" client="toslink 3"/>
+   <connect port="capture_1" client="toslink 4"/>
+  </port>
+  <port type="in" name="playback_8">
+   <connect port="capture_2" client="system"/>
+   <connect port="capture_2" client="toslink 3"/>
+   <connect port="capture_2" client="toslink 4"/>
+  </port>
+ </client>
+ <client name="toslink 3">
+  <port type="out" name="capture_1">
+   <connect port="playback_1" client="system"/>
+   <connect port="playback_3" client="system"/>
+   <connect port="playback_5" client="system"/>
+   <connect port="playback_7" client="system"/>
+  </port>
+  <port type="out" name="capture_2">
+   <connect port="playback_2" client="system"/>
+   <connect port="playback_4" client="system"/>
+   <connect port="playback_6" client="system"/>
+   <connect port="playback_8" client="system"/>
+  </port>
+ </client>
+</session>
+

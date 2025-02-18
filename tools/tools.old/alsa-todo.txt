@@ -1,0 +1,12 @@
+ 614  pulseaudio -vvvv
+  615  vim .config/pulse/default.pa 
+  616  pactl set-default-sink alsa_output.usb-046d_G435_Wireless_Gaming_Headset_V001008005.1-01.iec958-stereo 
+  617  pactl load-module module-alsa-sink device=hw:4,0 sink_name=G4
+  618  pactl load-module module-alsa-sink device=hw:4,0 sink_name=G4 -vvv
+  619  pactl load-module module-alsa-sink device=hw:4,0 sink_name=G4 -v
+  620  pactl load-module module-alsa-sink device=hw:4,0 
+  621  pactl load-module module-alsa-sink device=hw:5,0 sink_name=usb
+  622  pactl load-module module-alsa-sink device=hw:4,0 sink_name=g4
+  623  history 
+
+pactl exit

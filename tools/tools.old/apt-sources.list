@@ -1,0 +1,10 @@
+#deb cdrom:[Debian GNU/Linux 12.5.0 _Bookworm_ - Official amd64 DVD Binary-1 with firmware 20240210-11:28]/ trixie contrib main non-free-firmware
+deb https://deb.debian.org/debian trixie main contrib non-free non-free-firmware
+deb-src https://deb.debian.org/debian trixie main contrib non-free non-free-firmware
+
+deb https://deb.debian.org/debian-security trixie-security main contrib non-free non-free-firmware
+deb-src https://deb.debian.org/debian-security trixie-security main contrib non-free non-free-firmware
+
+deb https://deb.debian.org/debian trixie-updates main contrib non-free non-free-firmware
+deb-src https://deb.debian.org/debian trixie-updates main contrib non-free non-free-firmware
+

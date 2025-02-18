@@ -1,0 +1,66 @@
+### Karte 4 ()
+pcm.card4 {
+    type hw
+    card 4
+}
+
+ctl.card4 {
+    type hw
+    card 4
+}
+
+### Karte ICUSBAUDIO7D ()
+pcm.cardICUSBAUDIO7D {
+    type hw
+    card ICUSBAUDIO7D
+}
+
+ctl.cardICUSBAUDIO7D {
+    type hw
+    card ICUSBAUDIO7D
+}
+
+### Karte 5 ()
+pcm.card5 {
+    type hw
+    card 5
+}
+
+ctl.card5 {
+    type hw
+    card 5
+}
+
+### Karte ICUSBAUDIO7D ()
+pcm.cardICUSBAUDIO7D {
+    type hw
+    card ICUSBAUDIO7D
+}
+
+ctl.cardICUSBAUDIO7D {
+    type hw
+    card ICUSBAUDIO7D
+}
+
+### Karte 6 ()
+pcm.card6 {
+    type hw
+    card 6
+}
+
+ctl.card6 {
+    type hw
+    card 6
+}
+
+### Karte ICUSBAUDIO7D ()
+pcm.cardICUSBAUDIO7D {
+    type hw
+    card ICUSBAUDIO7D
+}
+
+ctl.cardICUSBAUDIO7D {
+    type hw
+    card ICUSBAUDIO7D
+}
+

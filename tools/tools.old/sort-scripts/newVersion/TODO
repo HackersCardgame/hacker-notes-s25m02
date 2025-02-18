@@ -1,0 +1,8 @@
+
+
+find /m -type d -name "Ha* exec ..."  
+find /m -type d -name "hacker-no* exec ..."
+find /m -type d -name "ChatE* exec ..."   ->archive
+find /m -type d -name "ChatE* exec ..."
+
+rsync -aH  testen 

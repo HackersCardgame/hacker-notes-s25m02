@@ -1,0 +1,21 @@
+
+
+Mixxx.Playlist: += /Randomer - HATE Podcast 154 [695098540].mp3 seek to 0:48:27
+Mixxx.Playlist: += Techno Germany Podcast 039 [1234657765].mp seek to 0:57:27
+Live @ Tomorrowland Brasil 2023 [1641630252] 0:4x:xx
+Varya Karpova [977747578] seek to 0:28:40
+SSS podcast 261
+
+Bipolar Disorder Rec. Podcast 016 ⧸⧸ Frederic. [923717923] 15:00
+
+
+
+This Live (Extended Mix)
+
+STAY SAFE, RAVE AT HOME TANZEN AUF SUBSTANZEN PDCAST 9 Vzy262osyf0
+ab 2:42
+
+U86 -- der kommandant
+
+for i in $(seq 1 1000); do mpg123 -vCc -k 202000  /media/marc/771a9f36-8da1-4138-97c2-ec12ed9ef476/Music.merged/sort/sndc/SSS\ *b2b*; done
+# bei 1:26

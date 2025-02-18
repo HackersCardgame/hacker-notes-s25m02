@@ -1,0 +1,86 @@
+    1  exit
+    2  sudo apt-get install python-pip gedit ffmpeg
+    3  sudo apt-get install  gedit ffmpeg
+    4  sudo apt-get install gedit
+    5  sudo apt-get install gedit gnome-terminal
+    6  sudo apt-get update && sudo apt-get upgrade
+    7  sudo apt-get install gedit gnome-terminal git
+    8  ssh-keygen -t ed25519 
+    9  cat ~/.ssh/id_ed25519.pub 
+   10  cd hackerscardgame-notes-s21m09/
+   11  ls
+   12  ls tools/
+   13  cat tools/changeRemoteToGit.sh 
+   14  tools/changeRemoteToGit.sh 
+   15  git pull
+   16  echo test > test
+   17  sudo apt-get update && sudo apt-get upgrade
+   18  git add -A && git commit -m "test" && git push
+   19  sudo apt-get update && sudo apt-get upgrade
+   20  git add -A && git commit -m "test" && git push
+   21  gedit
+   22  ls
+   23  cd tools/
+   24  ls
+   25  cat *
+   26  fgrep
+   27  fgrep -ri export
+   28  cd
+   29  vim 
+   30  vim .profile 
+   31  exit
+   32  git
+   33  git clone https://github.com/HackersCardgame/hackerscardgame-notes-s21-m09
+   34  git clone https://github.com/HackersCardgame/hackerscardgame-notes-s21m09
+   35  gedit &
+   36  cat .profile 
+   37  echo "$(ipconfig.exe  |grep 192 |head -n1|cut -d: -f2 |cut -c 2-|tr -d '\r')"":0"
+   38  echo $DISPLAY
+   39  exit
+   40  gedit &
+   41  d hackerscardgame-notes-s21m09/
+   42  ls
+   43  cd hackerscardgame-notes-s21m09/
+   44  ls
+   45  find . |grep mixxx
+   46  cd FUN/
+   47  diff -r Mixxx.20210926 /mnt/c/Users/marc/AppData/Local/Mixxx
+   48  ls -la
+   49  ls *.mp3
+   50  cd ..
+   51  cd tools/
+   52  ls
+   53  find . |grep mount
+   54  cat mountUSB.sh 
+   55  gnome-terminal &
+   56  gedit 
+   57  ip addr
+   58  vim .profile 
+   59  exit
+   60  gedit 
+   61  ls
+   62  cd hackerscardgame-notes-s21m09/
+   63  ip addr
+   64  git add -A && git commit -m "test" && git push
+   65  cd
+   66  cp -rvu /mnt/c/Users/marc/hackerscardgame-notes-s21m09/* hackerscardgame-notes-s21m09/
+   67  cd hackerscardgame-notes-s21m09/
+   68  git add -A && git commit -m "test" && git push
+   69  gedit &
+   70  git add -A && git commit -m "test" && git push
+   71  cp -rvu /mnt/c/Users/marc/hackerscardgame-notes-s21m09/* hackerscardgame-notes-s21m09/
+   72  cd
+   73  cp -rvu /mnt/c/Users/marc/hackerscardgame-notes-s21m09/* hackerscardgame-notes-s21m09/
+   74  cd hackerscardgame-notes-s21m09/
+   75  git add -A && git commit -m "test" && git push
+   76  cd FUN/
+   77  pip 
+   78  sudo apt-get install python-pip
+   79  pip youtube-dl
+   80  pip install youtube-dl
+   81  sudo pip install youtube-dl
+   82  gnome-terminal &
+   83  apt-get install ffmpeg
+   84  sudo apt-get install ffmpeg
+   85  history 
+   86  history >../tools/install.sh

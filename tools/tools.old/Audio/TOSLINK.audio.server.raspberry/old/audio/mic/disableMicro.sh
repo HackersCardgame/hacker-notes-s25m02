@@ -1,0 +1,1 @@
+/target/hcg/hackerscardgame-notes-s24m01/tools/disableMicro.sh

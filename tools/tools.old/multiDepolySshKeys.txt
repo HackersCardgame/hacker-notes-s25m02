@@ -1,0 +1,35 @@
+marc@DESKTOP-SKIM7C3:~$ figlet multi deploy keys
+                 _ _   _       _            _               _
+ _ __ ___  _   _| | |_(_)   __| | ___ _ __ | | ___  _   _  | | _____ _   _ ___
+| '_ ` _ \| | | | | __| |  / _` |/ _ \ '_ \| |/ _ \| | | | | |/ / _ \ | | / __|
+| | | | | | |_| | | |_| | | (_| |  __/ |_) | | (_) | |_| | |   <  __/ |_| \__ \
+|_| |_| |_|\__,_|_|\__|_|  \__,_|\___| .__/|_|\___/ \__, | |_|\_\___|\__, |___/
+                                     |_|            |___/            |___/
+                                     
+                                     Now, while doing git clone, you should modify the above 
+git@ m_u_s_i_c :abc1234/demo.git
+
+
+
+marc@DESKTOP-SKIM7C3:~$
+
+If you use multiple repositories on one server, you will need to generate a dedicated key pair for each one. You can't reuse a deploy key for multiple repositories.
+
+In the server's SSH configuration file (usually ~/.ssh/config), add an alias entry for each repository. For example:
+
+Host github.com-repo-0
+        Hostname github.com
+        IdentityFile=/home/user/.ssh/repo-0_deploy_key
+
+Host github.com-repo-1
+        Hostname github.com
+        IdentityFile=/home/user/.ssh/repo-1_deploy_key
+
+    Host github.com-repo-0 - The repository's alias.
+    Hostname github.com - Configures the hostname to use with the alias.
+    IdentityFile=/home/user/.ssh/repo-0_deploy_key - Assigns a private key to the alias.
+
+You can then use the hostname's alias to interact with the repository using SSH, which will use the unique deploy key assigned to that alias. For example:
+
+$ git clone git@github.com-repo-1:OWNER/repo-1.git
+

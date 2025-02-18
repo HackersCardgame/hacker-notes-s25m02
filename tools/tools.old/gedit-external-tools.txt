@@ -1,0 +1,13 @@
+#!/bin/sh
+date
+wc $GEDIT_CURRENT_DOCUMENT_NAME
+git add -A
+git commit -m "save"
+sha512sum $GEDIT_CURRENT_DOCUMENT_NAME
+
+
+
+
+#https://addons.mozilla.org/de/firefox/addon/dark-background-light-text/
+
+#https://addons.mozilla.org/de/firefox/addon/read-aloud/
