@@ -1,0 +1,29 @@
+System log for account 962320 (icq) connected at 01.05.2007 13::58::08
+---- +++ 962320 hat sich angemeldet @ 2007-05-01 13:58:08 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-05-01 13:58:09 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-05-01 13:58:09 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-05-01 14:01:10 ----
+---- Dominik wurde untätig @ 2007-05-01 14:10:20 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-05-01 14:11:17 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-01 14:26:57 ----
+---- shrike wurde untätig @ 2007-05-01 14:26:58 ----
+---- tdr-timon hat den Status von Offline zu Verfügbar geändert @ 2007-05-01 14:36:17 ----
+---- tdr-timon hat den Status von Verfügbar zu Offline geändert @ 2007-05-01 14:45:18 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-01 14:49:55 ----
+---- shrike wurde tätig @ 2007-05-01 14:49:56 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-01 15:16:28 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-01 15:17:11 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-01 15:19:17 ----
+---- shrike wurde untätig @ 2007-05-01 15:19:17 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-05-01 15:28:14 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-05-01 15:28:15 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-05-01 15:30:59 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-05-01 15:31:00 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-01 15:33:27 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-01 15:38:23 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-01 15:38:43 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-05-01 15:40:34 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-05-01 15:40:35 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-05-01 16:01:45 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-05-01 16:28:32 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-05-01 16:38:43 ----

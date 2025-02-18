@@ -1,0 +1,65 @@
+Creating Headers and Footers in The Write Stuff
+
+by Dick Estel
+
+One of our members asked me about placing the following line of information on each page of a
+multiple-page document he was creating:
+
+Page 1 of 5
+
+This type of thing is called a header or footer. This involves placing the same information in the same
+place on each page. For example, you might have a list that consists of an artist, a song title, and the
+location, such as the following:
+
+Artist         Title                         Cassette Number
+
+If you want this to appear on each page, without re-typing it, you create it as a header. Every word
+processor has its own methods; these instructions are for The Write Stuff. Although the manual explains
+headers and footers, the explanation is a bit unclear, especially as to step by step specifics.
+
+The format is as follows (material in brackets [ ]must appear on the screen in REVERSE type):
+
+[he6;]Artist Title          Cassette Number
+
+The meaning is as follows:
+
+[he] = header
+[6] = number of lines from the top of the page (this number must be LESS than the top margin)
+[ ; ] = denotes that what follows is formatting codes or text to be printed as typed.
+
+The same format works for footer using a reverse [fo].
+
+If you want your footer to appear centered, or flush right or left, use the first letter of the desired
+position. For a flush right header the format is as follows:
+
+[he6;r]My Report
+
+Reverse # will cause a number to appear.
+
+[fo5;c#] would cause the page number to appear five lines from the bottom, centered on the page.
+
+To achieve the results described at the start of the article, Page 1 of 5:
+
+[fo5;Page # of 5]
+
+
+To have the header appear on the first page, it must be defined at the very top of the document, before
+even a [RETURN] is entered. If it is defined anywhere else, it will start on page 2.
+
+For a header or footer of more than one line, place a reverse [BACK ARROW] between the lines.
+
+To have two different footers, for example one on odd-numbered pages and one on even, enter the
+odd-page footer, then a reverse colon (:), then the even-page footer.
+
+[fo5;rPage #:lPage # ] will place the page number at the right side of odd-numbered pages and the left
+side of even (just like the Write Stuff manual).
+
+You can include formatting codes, such as bold or underline, in your headers and footers. Put the
+appropriate codes, in reverse type, AFTER the semi-colon and before the text.
+
+[fo5;ub]Monthly Report will place the words Monthly Report, bold and underlined, at the bottom of
+each page.
+
+Manual reference: Page 31 (C-64 version); Page 34-35 (C-128 version)
+
+From "The Interface," newsletter of Fresno Commodore User Group 

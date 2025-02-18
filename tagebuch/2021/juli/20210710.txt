@@ -1,0 +1,484 @@
+Sat 10 Jul 2021 12:46:33 AM CEST
+  37  339 2340 20210710.txt
+
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ figlet GoodMoring CyberVietnam -w200
+  ____                 _ __  __            _                ____      _             __     ___      _                         
+ / ___| ___   ___   __| |  \/  | ___  _ __(_)_ __   __ _   / ___|   _| |__   ___ _ _\ \   / (_) ___| |_ _ __   __ _ _ __ ___  
+| |  _ / _ \ / _ \ / _` | |\/| |/ _ \| '__| | '_ \ / _` | | |  | | | | '_ \ / _ \ '__\ \ / /| |/ _ \ __| '_ \ / _` | '_ ` _ \ 
+| |_| | (_) | (_) | (_| | |  | | (_) | |  | | | | | (_| | | |__| |_| | |_) |  __/ |   \ V / | |  __/ |_| | | | (_| | | | | | |
+ \____|\___/ \___/ \__,_|_|  |_|\___/|_|  |_|_| |_|\__, |  \____\__, |_.__/ \___|_|    \_/  |_|\___|\__|_| |_|\__,_|_| |_| |_|
+                                                   |___/        |___/                                                         
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ 
+
+Globuli wären closed source häckserei, closed source implizierte "gedeckt getarnt" somit wäre die frage, ob die Armee Esotheriker produziert und als Waffe ähm NPC's gegen whitehat's, autisten ... missbraucht
+
+
+dann ein Offizier ist öfters mal grossgewachsen, somit öfters mal ein bully, bzw. schon in der primarschule ein bully gewesen der sich mit gewalt genommen hat was seine egoneeds wollten
+
+somit wären offiziere besonders geschützt, hätten mehr access codes weil ein gewaltbereiter bully [1] im normalfall das ist was ein straffälliges military dicatotrship haben möchte um zu rauben und zu brandschatzen.
+
+das würde somit weiter heissen, dass diese von der armee massiv überfüttert werden, gut steuerbar sind weil viele incentives, diese als zusatz joker dazu missbraucht werden THS-THS-Stuxnet-Malware zu übertragen, somit hätten offiziere ein zweites separates zusatznetzwerk, ein "management" netzwerk
+
+was dann einblick in das kerberos ticket system der schweizer armee geben würde [3] 
+
+  offiziersmesse
+       |
+ [default access]
+       |
+       v
+  soldatenmesse
+
+wir danken diesem Bully im aldi für den verrat an der schweizer armee, danach kam die selbe situation noch mit einem afrikaner, aber diese sorte von schweizer offizieren würden afrikaner gar nicht reinlassen. danach wurden distributet storytelling, traumabased mindcontrol und ich als zielperson in einer fuchsjagd aktiviert um das aus meinem kopf raus zu spammen ähm zu "therapieren", Eraser / EKT
+
+
+[1] urs bulm: weine landolt [2]
+[2] epilepsie eingeschaltet worden bei marc jr landolt <- DEFCON <4
+[3] urs bulm: es sind die amerikaner <- ich: jhawol urs, die offiziere schweiz würden freiwillige ihre macht abgeben (zynismus)
+
+
+Sat 10 Jul 2021 12:57:13 AM CEST
+  39  423 2701 20210710.txt
+[main ac0f929] save
+ 1 file changed, 39 insertions(+)
+ create mode 100644 tagebuch/2021/juli/20210710.txt
+21900a5e2b90b3200ffb60aaf028d2dc9297c5b68e00c2409cf6d648bab180e3d850e32fc49a7a90c5268471c360f6455a6952d6ce8cd9ca32d41761cd347922  20210710.txt
+
+
+dann diese info wird damit geschützt dass der vorgesetzte von urs bulm leakt:
+
+urs blum hat mir damals irigend mit einem hexerei zauber den handrücken finger knochen an der rechten hand zertrümmert, damit hat urs blum das m41 eingetragen, ab da wurde geloopt, dass urs bulm auf mich aggressiv sei weil ich claudine (pfsiterer forumuleiren: defloriert hätte)
+
+eigentlich hat er aber mit der körperverletzung über irgendwlehce technologie so die beziehung etc up-vote'd so dass die drei morde und die geshcichte mit gabriel rielas ennumeration/footprinting [1] bei ABB Flexible automation ag für die zürich verischung.
+
+[1] >> inklusive kansmen little brother software wo er mit dem internet nutverhalten <- urs bulm ist ranghöher als der riela...
+
+Sat 10 Jul 2021 01:17:50 AM CEST
+  55  563 3769 20210710.txt
+[main c441b37] save
+ 1 file changed, 10 insertions(+)
+637bec5988de863e871af470e666f781d8fe7f7c31ae3c4df1a2279a3fc83aa20bbafeeb2b2c745aa4742fcf2875fa7ffaab7da6129969ac7774f98bc12c9d6a  20210710.txt
+
+
+dann das ist auch irgendwie schräg: die ICQ Box für festplatte und usb30 von galaxus schweiz ist ca 50g schwerer als die von amazon... muss ich dann noch genauer anschauen...
+
+Sat 10 Jul 2021 01:31:15 AM CEST
+  64  614 4207 20210710.txt
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+37309fe9490eb910ead41211b3244e50fd9393e7d40be03d0f7131a52be83f052da1b78f52e1543bc8032cb0c8097907cb361ca29874d991b45a9c77bbfeb27c  20210710.txt
+
+
+
+
+
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ figlet GoodMoring CyberVietnam -w200
+  ____                 _ __  __            _                ____      _             __     ___      _                         
+ / ___| ___   ___   __| |  \/  | ___  _ __(_)_ __   __ _   / ___|   _| |__   ___ _ _\ \   / (_) ___| |_ _ __   __ _ _ __ ___  
+| |  _ / _ \ / _ \ / _` | |\/| |/ _ \| '__| | '_ \ / _` | | |  | | | | '_ \ / _ \ '__\ \ / /| |/ _ \ __| '_ \ / _` | '_ ` _ \ 
+| |_| | (_) | (_) | (_| | |  | | (_) | |  | | | | | (_| | | |__| |_| | |_) |  __/ |   \ V / | |  __/ |_| | | | (_| | | | | | |
+ \____|\___/ \___/ \__,_|_|  |_|\___/|_|  |_|_| |_|\__, |  \____\__, |_.__/ \___|_|    \_/  |_|\___|\__|_| |_|\__,_|_| |_| |_|
+                                                   |___/        |___/                                                         
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ 
+
+schon wieder...
+
+
+p1: Simon Härdi ist völlig atypisch für sein alter noch bei den 1980er pfadfinder der pfadi adler aarau stufenleiter geworden
+
+p2: tobias moser war damals schon ausgegrenzt worden und in Simon Härdis Alter
+
+p3: Simon Härdi hat eine Zeit lang dann ca 150m weiter als das Pfadi Lokal (Gönhardweg 32) gewohnt
+
+p4: Die Überwachungsinfrastruktur im Gönhardweg 32 konnte von Simon Härdis Wohnung zugegriffen werden
+
+p5: Simon Härdi war eigentlich praktisch nie im Pfadilokal obwohl das nur 150m waren
+
+p6: Tobias Moser ist dann irgendwie auch irgendwann zu den 1980er Pfadfinder ins Pfadilokal gekommen
+
+p7: Simon Härdi ist dann die zwei Sündenböcke ähm Malerböcke ins Pfadilokal abladen gekommen als Tobias Moser Suizid oder "Selbst"mord beganen hat
+
+p8: Simon Härdi war an der HTL
+
+p9: im HTL Gebäude Physik hat/te es einen Forensichen 3D Tatortscanner
+
+p10: die Stadt Aarau vermietet/e der Pfadi Adler Aarau das Pfadilokal ca 200m² Kellerfläche für nur 150.-- im Jahr
+
+p[n]!  <- das Ausrufezeichen ist in der Mathematik der Fakultäts-Operator, hier wäre aber kombinationen und "Subsets" gemeint, bzw "Subset" wäre binomial
+
+binomial(p[n];p[m])   | m Subset für M = {1,2...10}
+                        n Subset für N = {1,2...10}
+
+Sat Jul 10 04:02:16 CEST 2021
+ 114 1006 6746 20210710.txt
+[main f989a48] save
+ 1 file changed, 3 insertions(+), 11 deletions(-)
+0ba2f38df9cf2e24b9ddbbe92fd48bfa6811b8249fe5d7ded3734993c6e4d1ec44fff872fa1edd2b247679f748cba75943730dcca3f5f26609e9fe78801d2faf  20210710.txt
+
+ Halli Hallo Gabi²
+
+"au·di·a·tur et al·te·ra pars", weil wenn man die andere Seite nicht anhört, dann führt das meist in den "Divide et Impera", bzw. ist da jeweils noch ein ungesehener Dritter [1] der da vorsätzlich versucht Länder in Links VS Rechts, in Männlein VS Weiblein, in MyLittlePonies und BabyDrachen zu spalten, denn so kann Satan beiden Seiten (Cyber)waffen verkaufen und beiden Seiten einfacher das Geld aus der Tasche ziehen während sie sich gegenseitig aufs Dach geben. Das Konzept "Divide et Impera" [2] hat auch nicht Hitler erfunden, sondern gibt es schon mindestens seit den 1800er Studentenverbindungen. Dank Snowden wissen wir jetzt irgendwie, dass das weder die Russen, noch die Chinesen, noch die aus Ost-Timor, noch die Deutschen sind und mit dem Buch "IBM und der Holocaust" müsste man allenfalls sogar den WW2 neu bewerten.
+
+Die Weltbilder sind vorsätzlich von Satan als antagonierende Weltbilder implementiert worden. Diese Weltbilder, Dogmenräume oder ArgumentationsSysteme sind wie Politische Parteien denen man relativ einfach beitreten kann, logischerweise der Partei in der man am wenigsten Kognitive Dissonanzen hat (aber Faulheit ist eine Sünde) Ist man jeweils (als Einzelner) in der anderen Gruppe von Weltbild fühlt man sich meist schlecht. Das nennt man eine Kognitive Dissonanz. Kognitive Dissonanzen sind aber förderlich um das eigenen Weltbild zu erweitern. Ich bin politisch Links-Extrem ohne Extrem und hab 15 Jahre neben einem Menschen gewohnt der politisch eher aus dem ganz rechten Spektrum kommt. Als ungefähr Gleichaltrige trinkt man dennoch Bier zusammen oder bastelt zusammen in der Garage an Dingen herum, ist sogar ein Feature wenn man andere Weltanschauungen hat was dann eigentlich immer lustige Situationskomik gibt. Im schlimmsten Fall endet es in einem Blutbad und im besten Fall so dass beide sich in Richtung Mitte upgraden.
+
+[1] Eve Of The War -- U96; Niemand haette in den letzten Jahren des 20. Jahrhunderts geglaubt, dass unser menschliches Tun und Lassen beobachtet werden koennte. Aber jenseits des gaehnenden Weltraums blickten Geister uns ueberlegen wie wir den Tieren - ungeheure, kalte und unheimliche Geister - mit neidischen Augen auf unsere Erde bedaechtig und sicher schmiedeten sie ihre Plaene gegen uns
+
+[2] Stanford Prison Experiment
+
+LG
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau
+062 822 61 31
+078 674 15 32
+
+Median beim einzigen offiziellen IQ Test den ich je gemacht hatte bei 127, war ein Intelligenz-Struktur-Test, in Sprachen-Zeugs war ich grotten schlecht.
+
+
+
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ figlet GoodMoring CyberVietnam -w200
+  ____                 _ __  __            _                ____      _             __     ___      _                         
+ / ___| ___   ___   __| |  \/  | ___  _ __(_)_ __   __ _   / ___|   _| |__   ___ _ _\ \   / (_) ___| |_ _ __   __ _ _ __ ___  
+| |  _ / _ \ / _ \ / _` | |\/| |/ _ \| '__| | '_ \ / _` | | |  | | | | '_ \ / _ \ '__\ \ / /| |/ _ \ __| '_ \ / _` | '_ ` _ \ 
+| |_| | (_) | (_) | (_| | |  | | (_) | |  | | | | | (_| | | |__| |_| | |_) |  __/ |   \ V / | |  __/ |_| | | | (_| | | | | | |
+ \____|\___/ \___/ \__,_|_|  |_|\___/|_|  |_|_| |_|\__, |  \____\__, |_.__/ \___|_|    \_/  |_|\___|\__|_| |_|\__,_|_| |_| |_|
+                                                   |___/        |___/                                                         
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ 
+
+schon wieder...
+
+der herr polizist (Spreng-)Würsten leakt:  <- ist vermutlich jemand anderes um das danach nichtig erklären zu können
+
+Der Polizist Wchameister KAPOwest [DELETED] Michael Ritter [REBUILT] hat damals gesagt: "Die NSA ist super, die beliefern uns mit Informationen zu Terroisten"
+
+ich:
+ich beschwöre auf die Bibel, dass der Polizist Ritter mich befragt hat ob ich bei der Alkaida sei.
+
+Somit wären einige Polizisten der KAPO Aargau Auftragnehmer eine US Terrornetzwerks wo die Schmiergelder, Naturalien, Incentives über sieben Umwegen und z.B. die Zürichversichrung ausbezahlt werden. Der Polizist wüsste dass er Auftragnehmer für Mord ist, hat aber vom NSA den Ratschlag bekommen, er soll sagen dass er die Information dass ich Terrorist sei von der NSA [1] bekommen habe
+
+[1] wie immer fangen die ganz unten an, m124 Karte, bei NSA wäre es dann der CIA und dann eigentlich die US-Army die vermutlcih mit einigen Offizieren der Schweizer Armee business machen.
+
+marc@DESKTOP-B99KF62:~$ figlet ReLEVaNT
+ ____      _     _______     __    _   _ _____ 
+|  _ \ ___| |   | ____\ \   / /_ _| \ | |_   _|
+| |_) / _ \ |   |  _|  \ \ / / _` |  \| | | |  
+|  _ <  __/ |___| |___  \ V / (_| | |\  | | |  
+|_| \_\___|_____|_____|  \_/ \__,_|_| \_| |_|  
+                                               
+marc@DESKTOP-B99KF62:~$ 
+
+somit wäre der Eintrag "ist Alkaoda Terrorist" genau das was die Amerikaner in die Akte von Belastungszeugen zu den Taten in Amerika in Schweizer Polizei-Computer eintragen. (moded: in die Akte [2] von, moded vermutlich um nachvollziehbarkeit zu verschleiern, vermutlich spezialisten im rechtsverdrehen)
+
+Dem jungen Polisiten war damals klar dass ich kein Terrorist bin, er hat dann dem Michael Ritter gesagt dass da etwas nicht stimmt, also der Ritter würde bewusst vorsätzlich für die Amerikaner CodeRED's annehmen und würde sich super duper fühlen als 007 mit "Lizenz zum Morden"
+
+
+iss durchsuchung, illegitim, us druchsuung
+der Herr Polizist 
+
+
+[2] UNBEKNANNT: wechselt jetzt die Rollen, sonst wird der polizist ritter alle amerikaner verraten [3]
+
+[3] UNBEKNANT: und ihr geht alle in den knast <- prism <-> prison
+
+
+Sat Jul 10 16:54:38 CEST 2021
+  187  1924 12690 20210710.txt
+[main 0c6ba0f] save
+ 4 files changed, 46 insertions(+), 1885 deletions(-)
+ create mode 100755 TODO/.~lock.iss.odt#
+ create mode 100755 TODO/iss.odt
+ rewrite music/Mixxx.old/mixxx.log.3 (100%)
+ab0495ba5d4b9daa56c9386d672ce1b71fd85e276dc8c104d7fc4bc92e5e63e5a67840e7d139fe0345bae84c43169b5355ac7314ef1136bfec6649a14b64e76f  20210710.txt
+
+diejenigen die Brech-, Hust und würgereize auslösen können oder eine Corona Fork Fork Fork Fork tracing malware aktivieren können wären somit polizisten die im PRISM erfasst sind, Poizisten die wissen dass sie für ameroikansiche Schmiergelder straftaten begehen...
+
+Sat Jul 10 16:59:21 CEST 2021
+  198  1994 13359 20210710.txt
+[main 0170bd5] save
+ 1 file changed, 3 insertions(+)
+1bb101a33e6fe07900c932a286b015f32ffcc9d3b669faf7cd443904feb8b1db58ea9bdafdf5f63ca59437b1bfd9cf3c981730759b9806ad158adb3304eb1778  20210710.txt
+
+
+urs blum:
+wir haben karli schwarz versprochen [1] dass karli dann irgendwann mal seine tochter vergewaltigen dürfe, beim "der weg war um sonst" wird karli schwarz der jetzt schon illegale waffen wie tazer besitzt zum amokläufer upgraden
+
+[1] ändere das in "die amerikaner haben"
+
+
+ich:
+ich übersettze, urs veruscht die unterwanderung der polizei gehim zu halten in dem er mit einem amoklauf durch karli schwarz droht weil afaik wird dieses versprechen nie eintreten weil sonst kann der fehlbare nciht mehr angetieben werdne mit "der weg war um sonsts" bzw. "allenfalls musst du noch dies und das machen" und die "hoffnung stirbt zulestzt"
+
+Sat Jul 10 17:13:28 CEST 2021
+  214  2116 14262 20210710.txt
+[main 0ee19ce] save
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+92b946ee0ce50c305841f6b7736787d0f2fdc886cca2f93b0c0a9de7b656a4704e86760eb1dff6ff5480946241c3e83772f99bc5329184ffcf710d355f573e49  20210710.txt
+Sat Jul 10 17:13:34 CEST 2021
+  219  2138 14533 20210710.txt
+[main 42993eb] save
+ 1 file changed, 5 insertions(+)
+b5d1d3811c2f8499827369b54fa9c6eed899f495369c939f1a22cefdc67f4b7bd5b55d77267654f68d40d971dc37d15812b84fd11335babc3bddce38c21835b3  20210710.txt
+
+
+irgendwer: aber der Lörtscher hat seine tochter vergealtigen dürfen
+ich: a14 karte, logischerweise müssen die eines von 100 kindern wie z.B. vermutlcih auch die cornelia utz durchschalten damit die anderen mit der hoffnung angetrieben werden kann. mir einem abstrich und allfälligere analyse einzelner bakterien ist das risiko aufzufliegen relativ gross und dann würde die ganze pädophlie der amerikanser als "seductive cohercion" in der schweiz auffligen, und weltweit. also erhebliches risiko, da wäre die frage ob allenfalls fähige statisticker mal eine abschätzung machen könnte auf grund der vorhandenen daten wie viele richtige opfer es gibt
+
+bei 1/80 kinder dass suizid begeht wäre das vermutlcih schon die antwort aber müsste man allenfalls genauer berechnen...
+
+
+
+Sat Jul 10 17:37:47 CEST 2021
+  233  2270 15577 20210710.txt
+[main 765c34b] save
+ 1 file changed, 9 insertions(+)
+679744dda04a6ac7923cbbdc86377fc7230cff92dda91b174228444ef98801550a297ba58d0629e81cfabe4db70f3ad082f1ad1370713add6d032e8c725e6928  20210710.txt
+
+
+jetzt sind sacheinbar wieder alle aggressiv auf mcih weil sie wegen mir wissen, dass sie ihre tochter nie vergewaltigen dürfen werden. notiz an die täterschaft, hiob zu erschlagen löst euer problem nicht, wenn ihr mich ermordet habt wird das dennoch nicht unlocked aber ihr seid dann mit einer weiteren mordakte epressbar durch den mit den access codes auf dem beweismittel server...
+
+Sat Jul 10 17:46:41 CEST 2021
+  242  2351 16224 20210710.txt
+[main 0249acd] save
+ 1 file changed, 4 insertions(+)
+7cf49163164dec856696809333e947d0e95e5640a242ca10116bfe631ce757bcac454926bbaa9a237e8f251d74d320ae3558066539b1e08b76326d3740ce7b60  20210710.txt
+Sat Jul 10 17:46:51 CEST 2021
+  247  2371 16481 20210710.txt
+[main 5f2c49c] save
+ 1 file changed, 5 insertions(+)
+27fd5b798410b64f9fecc68d05263f03863825d735445d93ac0819d58f0664f9b1efaa6c71f019e0944032fb71083368a0703d22b2bcafb06f07afc9c22c9d2d  20210710.txt
+
+
+
+Kapo aufgeflogen
+
+-> unlockt "die hoffnugn stirbt zu letzt für den pädophilen-ring aarau, auch für karli schwarzt
+
+-> unlockt "die nachbarn von artuhr und annemarie landolt die das haus nach dem versterben günstig kaufen konnten inklusive weinberge sind nutzniesser von artuhr landolts ALS und annemarie landolts krebs, und auch die erbnehmer weil die aaruaer landolt ingolds hätten mässig verwendung für ein haus in ligerz / schernelz
+
+kapo aufgeflogen dann unlocken die aktien in meinem umfeld, somit hat die kapo schon auch alle starfakten und die meisten fälle sind eigentlihc gelöst, somti gäbe es im prism eine 
+
+[ ]  Flag: Klage noch nicht eröffnen weil brauchen wir vielleicht später noch
+
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ figlet -w 200 "last  2  sentences  relevant"
+ _           _      ____                    _                                       _                       _   
+| | __ _ ___| |_   |___ \    ___  ___ _ __ | |_ ___ _ __   ___ ___  ___    _ __ ___| | _____   ____ _ _ __ | |_ 
+| |/ _` / __| __|    __) |  / __|/ _ \ '_ \| __/ _ \ '_ \ / __/ _ \/ __|  | '__/ _ \ |/ _ \ \ / / _` | '_ \| __|
+| | (_| \__ \ |_    / __/   \__ \  __/ | | | ||  __/ | | | (_|  __/\__ \  | | |  __/ |  __/\ V / (_| | | | | |_ 
+|_|\__,_|___/\__|  |_____|  |___/\___|_| |_|\__\___|_| |_|\___\___||___/  |_|  \___|_|\___| \_/ \__,_|_| |_|\__|
+                                                                                                                
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ 
+
+Sat Jul 10 18:17:42 CEST 2021
+  274  2631 18282 20210710.txt
+[main b20972a] save
+ 1 file changed, 22 insertions(+)
+643212f2b83ce1fca4be775c1a62a3e798ce3cb94db4cbf97a8dbaa7302387cc497fc8b7c97aa332c356e796f792f060f62926d1f4962509d5a3162d3d14597e  20210710.txt
+
+allenfalls ist bulm's wein gut mti ihrem "fleurier" diejenigen die mich zu terrorisieren als produkt verkaufen, die access codes erpressen blums damit dass sie in einige flaschen z.B. zynakali tun...
+
+Sat Jul 10 18:26:29 CEST 2021
+  282  2681 18742 20210710.txt
+[main 8e439d9] save
+ 1 file changed, 3 insertions(+)
+a5888d2128a8d5e86f9d8f554ff197b4c3403a8045a41166d4494da55de5bb05c0338d0b4893e0b17b1b491f8aab1c68abc51c13076eaa463cc2ad65cdeef46b  20210710.txt
+
+urs blums drohung z.B. dem Bundesgericht oder dem FEDPOL gegenüber wäre einfach "Gebt uns Bulms alles was wir wollen oder es sind heute 3 oder 30 weitere flaschen fleurier mit zaynkali drin im umlauf"
+
+Sat Jul 10 18:28:37 CEST 2021
+  290  2735 19204 20210710.txt
+[main 97c8346] save
+ 1 file changed, 8 insertions(+)
+2cbb9266e9e9780d311e407e45ffbc5c98c4a7413f67b1ace5c49a662d68fc331a7884738a966b6ec78d0c542b432a9469f95cc6d677e9c89cac6a36c9cf80ae  20210710.txt
+
+betrachent wir den verlauf ist eigentlcih aufgeflogen, dass die kapo oder zumidnest einige mitarbeiter von dieser sorte von amerikanern mordaufträge annehmen also wird der lokale us-gauleiter (mutmasslich urs blum und pfisterer) ans messer gelifert?
+
+Sat Jul 10 18:30:10 CEST 2021
+  298  2789 19714 20210710.txt
+[main 9076e43] save
+ 1 file changed, 3 insertions(+)
+03a76bccd9185cd7ff2c359e873ef4324ad3376018852246d086acae78a2e5e343dee9c674347c5b5641f9e5d8ad317332f21b4211c400d0811fa156cc9bd96a  20210710.txt
+
+also wenn urs blum wirklich der us-gauleiter von aarau wäre (apropos dem urs bulm seinen hochmütigen: "hahaha ganz Aarau flucht über Blums") wäre dieser sorte von amerikanern das schicksal des us-gauleiters komplett egal. MEINUNG: sollte man allenfalls mit dingen wie sadamm hussein oder auch dem WW2 crosschecken, und da bin ich sicher da gibt es menschen mit mehr siklls in blödem geshcichts-zeugs als ich...
+
+hiesse die truffers sind mächtiger als blums und die astrid hat den urs blum dazu motiviert ihr selber "arschtritt" zu sagen als tarnung?
+
+Sat Jul 10 18:35:28 CEST 2021
+  308  2896 20529 20210710.txt
+[main 4f4ad3a] save
+ 1 file changed, 2 insertions(+)
+1c85135aed733cbbc63dee09a68937929158e299d2af40fec21107d6f0e7af31d6f01bd73d0a0a4ce8ad5c4ef285348e61c6a1f94144658ba15e557e177ebfe6  20210710.txt
+Sat Jul 10 18:35:32 CEST 2021
+  313  2916 20786 20210710.txt
+[main d375b7a] save
+ 1 file changed, 5 insertions(+)
+ff3fa92191e6008c20462e362476e756d80f24a8f64cdc8d8ca75ebe2190c40725a1b93f6d73714b9b8b81e2bf5d82fbc879efd4505928370c9171df74566822  20210710.txt
+
+Christian Tanner sprachsynthese: myrtha pfisterer -= eine leber
+
+was wollte ich jetzt eigntlich schreiben
+
+ah ja, KSA Neurologie Aarau Medulla Spinalis THS Abteiliung ist ein prärequisit dass urs bzw. Astrid Blum-Truffer nonverbale Morddrohungen absetzen können
+
+atrid blum: <- wollen wir von dem weiter oben ablenken astRid?
+
+icd10 ist ein waffensystem, die rollenverteiliung wer welche waffe missbraucht ist an hand des subcodes
+
+Sat Jul 10 19:09:52 CEST 2021
+  329  2997 21478 20210710.txt
+[main 97557f3] save
+ 1 file changed, 11 insertions(+)
+270e9ff09e680867bc659ee04c51cbf5d0464171ef67c8c25520991d4e7759488c45415e56755d7db5f6abb4ae206c80cba328f0944aff190125ec1d1110a001  20210710.txt
+Sat Jul 10 19:09:56 CEST 2021
+  334  3017 21736 20210710.txt
+[main 58add52] save
+ 1 file changed, 5 insertions(+)
+7b916234c4b4cfd01099468551dcc327d3257b228056fbc0237ebbada0457abdd188d4a07aa61d8827fd217178c593145d586f107c269ded8cc9a446726ce56f  20210710.txt
+
+DEFCON2
+
+Sat Jul 10 20:52:25 CEST 2021
+  342  3038 22003 20210710.txt
+[main fe8bf7e] save
+ 1 file changed, 3 insertions(+)
+a3e2166fc1f755513a154183ee9ca48d9fa208853d35bdb67c6a5f320fcd77768f0d45d54d8ce45640a5db5dda90385e6c1251231d7d77bbf2da93d3f7ca5e84  20210710.txt
+
+
+
+
+Disassembly:
+Mord und Terrordrohung und allenfalls grossflächiges problme durch die schweizer armee und die züriuch versichung
+
+jedes gerät hat hardware backdoors, [1] womit die armee jedes gerät ausschalten  kann, auch netzteile und allenfalls selbst kabel mit elektronik [2] und so würde man dann alles blinken und terror machen lassen, würde ein blaming the user karte spileen währen urs lbum mit sprengfallen droht uznd damit droht den philipp blum in den suizid oder amoklauf zu schlicken [pivot element pfadi adler aarau]. 
+
+technische [3] wäre es einfach, man probiert die geräte duch, [kabel, ladegerät, handy] n! bis man herausgfeunden hat washalb jetzt alles blinkt
+
+blinkde hardware wäre somit eine morddrohung durch urs blum der sprengfallen in aarau platziert hat?
+
+
+ [1] [sisi]
+[2] urs blum: killerdrohne gegen amrc jr landolt aktivieren bevor das online [1] ist ...
+[3] michale ritter oder sprach synthhese: es pressiert hahahaha <- hohn <- pivot element vertuschenm?
+
+Sat Jul 10 21:14:26 CEST 2021
+  365  3207 23259 20210710.txt
+[main b216caa] save
+ 1 file changed, 18 insertions(+)
+523a67c5c04b57efaf9574f7db4521bdc385e4e16fd4c6b008d920b764a930c5bc7babfabeb93712d6f645200088f520a6f2a3619480388b77954610e40b8db9  20210710.txt
+Sat Jul 10 21:14:31 CEST 2021
+  370  3227 23517 20210710.txt
+[main 5ea3203] save
+ 1 file changed, 5 insertions(+)
+d24c7c436ac2ca3c510dcb9ceb704b9ab22cc7f4061e239c610411e7bcb13c74a6002d6de5a4a9f68fb0902f4eb60059c981a2e3cec6d6484134d7908d081037  20210710.txt
+
+
+Endpoint malware auf neumen windows computer... 
+
+urs blum: es ist markus belser weil er das "nicht shcon wieder informatiker blut comic mit kokain gecraftet hat" <- wir übersetzen: markus belser muss jetzt marc jr landolt umbringen oder geht in den knast...
+
+
+Sat Jul 10 21:15:39 CEST 2021
+  382  3288 24038 20210710.txt
+[main 9039a5a] save
+ 1 file changed, 12 insertions(+)
+d85c23d315897011e06326c8393e53be6a2a2d3ab4211bdf8211635c8acfa05c8251907c1307e089b782899cd8121e34ea018cc0b11ee9edc083660938e82494  20210710.txt
+
+
+wenn diese sorte von offizieren ihre mordversiche koordinieren gibt es nicht genug gutartige polizisten um all dne mist zu entschärfen... amerikanischer oder schwiezter blitzkrieg...
+
+Sat Jul 10 21:19:58 CEST 2021
+  391  3332 24483 20210710.txt
+[main a308c51] save
+ 1 file changed, 4 insertions(+)
+c238aed187b05952ee40a2ab14d91bc09332f45b82c2330652cfea791ccf8c76a4119f8db5c65540e2b4a7fcff0a93eb1871416eb92ad7c5d38019cd67b3b69a  20210710.txt
+
+
+in solchen situationen versuchen meinenr meinung die täterschaft um urs bulm, gabriel riela und pfisterer jeweils alle situationen maximal eskalierien zu lassen... und suchen selber irgend den schutzbunker auf, also allenfalls "nur" eine state machine bzw. automated targeting...
+
+
+Sat Jul 10 21:24:00 CEST 2021
+  401  3390 25025 20210710.txt
+[main 98e1c02] save
+ 1 file changed, 5 insertions(+)
+7106759eeb771a1ec455eb1dbc00b6f143db654d68620f27d12c6cb34fc82d4e9b4a03d52566c90630232111f72a961220ecd83c5a1aff2286901879109039c7  20210710.txt
+
+
+
+disassembly der handy geschichte so weit, ich hätte gesagt die WiKo Lenny2 handies haben eine Remote [1] kill funktion, Lenny <-> Goodby Lenin, bezichtigung als russischer spion? truppenmoral, statemahcine truppen moral, die truppe hat das gefühl sie würde gegen einen russischen terrorsiten vorgehen... aber mit 400 jahre aarauer stammbaum wissen jetzt alle, dass es um amerikansiche landesinfiltration geht und dass all diese die jetzt hier mitgemacht haben wegen landesverrat auf der anklagebank hocken...
+
+
+[1] urs blum: mehrerer kilogram sprengstoff angebracht... <- ich: wenn du zündst urs blum wäre das vermutlcih dein politisches ende weil wie willst du das rechtfertigen in der presse?
+
+urs blum: <- ich: das seid ihr diesre sorte von militärs wert...
+-> herr sprengWüRSTEN braucht somit sprengfallen drohungen zum verhör? 
+
+Sat Jul 10 21:35:39 CEST 2021
+  417  3533 26127 20210710.txt
+[main fa0b0aa] save
+ 1 file changed, 11 insertions(+)
+41da2b10d744be193b7a5b020b9f0f64d60fbafa5cb33adc4cd23be93ab74a842a44f104566de9729681131601a227e9bc5c937d0317951f779d9c3ec8df5f74  20210710.txt
+
+9/11 Schachzug: land ausbeuten und einen ausländischen aggressor aus der anderen richtung (z.B. russland, china oder moslems bezichtigen) damit die bewohner des landes zu mittern werden udn danach den raubzug durch usa nciht mehr anprangern können, prärequisit wäre ein root access auf der militärsichen überwhacungsinfrasturkutr
+
+Sat Jul 10 21:37:17 CEST 2021
+  425  3598 26723 20210710.txt
+[main 4ebefcf] save
+ 1 file changed, 3 insertions(+)
+3e01dd9525814025d95b68647edac996942f05c880e2fe7ae7a1629b02dc34e509e99db1138752314da34e1bf7c4f8d1e4e82078d2de2db338a058f577687041  20210710.txt
+Sat Jul 10 21:37:23 CEST 2021
+  430  3618 26980 20210710.txt
+[main e84af14] save
+ 1 file changed, 5 insertions(+)
+97e14159a1c5f45e7701bf21f04cbcf86d81c51eae506f8ec667ea89f00e09e210a06f27ee95e49c3a11e4a2bdc88ae57188b801e2a2a8e006d283156fb0eec1  20210710.txt
+
+
+DEFCON3
+
+Sat Jul 10 21:38:06 CEST 2021
+  439  3639 27248 20210710.txt
+[main f6771a7] save
+ 1 file changed, 4 insertions(+)
+147d66086550c06710b4885e5eab8c9ec5ced533b9272ac99ccc4cb952f63ffef873376133a756227f434b2d7e540d86bbb895d548249fc492a8730ca761950c  20210710.txt
+
+Sample:
+leicht modifizierte spruch von prof tacier @FHA:
+
+Behauptung [1]: die Wohung Neuenburgerstrasse 6, 10 Stock, 3.5 zimmerwohnung ist die Hauptstatt der schweiz
+
+[1] da geht es um aussagenlogik, mathe und boolsche algebra
+
+Sat Jul 10 21:54:29 CEST 2021
+  452  3692 27734 20210710.txt
+[main 5ed45dd] save
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+5d54c59265e6c23dd2467fd00964b3c03c84a304a053174bc384ce5df4876f8e07b37ce6829560230cc445e5d28fa229f6f6a4592bc8138c95de1e97fa4d80bb  20210710.txt
+
+logischerweise bin ich eingeblidet genug das zu schlucken... und logischerweise gibt es keinen zynismus, und logischerwese wenn es doch zynismus gäbe sicher nciht von mir, wirklich ganz sicher nicht...
+
+Sat Jul 10 21:55:14 CEST 2021
+  460  3743 28212 20210710.txt
+[main eb14bdf] save
+ 1 file changed, 8 insertions(+)
+9538a3e70a98b51eeb55b99941b565c049054d053146348471897863021cb31d81cee009c0160f2242035a2ae02102060a942093014776392c541d00d52f5ebd  20210710.txt
+
+
+
+"Gabriel" Riela ca 1999: "Hautpsache es blinkt"
+"Gabriel" Riela ca 1999: "Gimme a mutherfucking keybaord"
+
+ich hätte gesagt, das reicht für eine Schwellentheorie für Sprengfallendrohunen durch gabriel riela mit vorsatz, der wusste das seit 1999 und somit wäre dann auch klar dass die 3 administratoren von urs blum und gabriel riela (damals mitarbeiter allenfalls noch heute Mitarbeiter von der zürcih versichrung) ermordet haben
+
+
+Sat Jul 10 22:45:47 CEST 2021
+  474  3826 28909 20210710.txt
+[main 53a4650] save
+ 1 file changed, 9 insertions(+)
+c14196ac54bae4cc68e9142b22776b2424fe817b8d8f9a29f59978eec55ff98fce69a7b75f12720f60360e1275c159d641e28bae0b0ba6330fb1899c2469e5db  20210710.txt
+Sat Jul 10 22:45:59 CEST 2021
+  479  3846 29166 20210710.txt
+[main 3ede0be] save
+ 1 file changed, 5 insertions(+)
+721292ab6b281e446a2b080bc44a601027963a8e8482011c326f1c767dab24ce3838881c292ce0781f0473c10bb712a817104e0e6028d09be38ef0d09591277e  20210710.txt
+

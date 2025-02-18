@@ -1,0 +1,211 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 17 08:47:38 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Meine Spinner-Stimmen sagen mir einige Menschen würden mir misstrauen.
+
+Mutmassliche Gründe
+(gerne sagen wenn die Gründe falsch sind)
+
+* ich bin zu gut in Informatik
+* ich bin zu gut in Elektronik
+* ich bin zu gut in Psychologie für dass ich das nie studiert habe
+* ich bin zu gut in Soziologie für dass ich das nie studiert habe
+
+Das liegt vermutlich daran, dass ich als Kind als einziges Familien-Mitglied im Keller gehalten wurde. Das war aber nur das was man direkt sehen konnte, meine Eltern haben mich auch im Familien-Leben wie einen Aussenseiter behandelt.
+
+Dann meine beiden Nichten mochten mich total, ich war der LieblingsOnkel, jetzt wurde ich von der Familie noch mehr ausgegrenzt, weil meine Mutter "angst hat ich würde den Nichten etwas antun" -- also Täter-Opfer-Umkehr.
+
+Foto 1: mein KellerZimmer
+Foto 2: ich + mein Schwesterchen
+Foto 3: ich und meine zwei jüngeren Geschwister
+-> logischerweise können sie nichts dafür, die waren ja noch jünger als ich, also wenn ich das psychologisch erst mit 40 verstanden habe, dann kann und will ich logischerweise nicht Jüngeren deswegen vorwürfe machen
+Foto 4: (auf Anfrage) wie mein Vater meinen kleinen Bruder als Baby schon suboptimal behandelt
+Foto 5: (auf Anfrage) wie meine Eltern mein kleines Schwesterchen suboptimal behandeln, es weint und meine DUMMEN ELTERN das auch noch fotographeren müssen
+
+
+SchachNovelle -- Stefan Zweig
+-> der Haupt-Darsteller wurde von den Nazis [1] ...
+
+SPOILER:
+... in einem Zimmer gehalten ohne irgend etwas womit er seinen Geist beschäftigen konnte. Als Intellektueller wussten sie dass man ihn so brechen konnte. Er hat dann aber heimlich ein Schachbuch nehmen können, somit wurde er besser im Schach als
+
+[1] ich hab mir angewöhnt zu erwähnen insbesondere in Kanälen wo es viele Deutsche Staatsbürger hat explizit zu sagen, dass Menschen mit Jahrgang 1980 und jünger sowieso nichts dafür können was man damals gemacht hat.
+
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 17 11:46:15 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ich hab jetzt denen eine weitere Cyber-Waffe kaputt gemacht.
+
+Die Logitech-RepetierGewehr-Tippfehler-Waffe, bzw umgangen
+
+danach werden wieder diverse Offiziere im Umfeld der Pfadfinder Abteilung Adler Aarau (oder dern 3D Modell) gegen mich aktiviert
+
+* Dr. Hansjürg Pfisterer <- der nur getarnt
+* urs blum der mit sprengfallen im Hauptgebäude der Zürich versichrung dorht
+* herr simon härdi (nur kurz eingeblendet)
+* herr remo huggler in der Neuenburgerstrasse 7 der den Stift bei einer handgranate zieht
+
+Somit würde das aus Psychologischer Sicht betrachten, dass wenn man einem Offizier seine Cyber-Waffe nimmt, dass der dann komplett druchdreht.
+
+denkt man Cyberwaffe weiter zu richtigen waffen und sprengstoff ...
+
+also da auch gerne mehr psychologie profile machen und mehr eignungstests wer überhaupt auf Waffen und Sprengstoff im Zeughaus zugriff hat
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 17 11:49:11 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Telegram messenger grad zercybert worden, da wo die repetiergewehr malware aktiv war. Das wird vermutlcih über hardware bakcdoors die usb netzwerkkarte sabotiert.
+
+wenn die jjetzt das neu installieren haben wir einen weiteren datenpunkt zu der repetiergewehr cyberwaffe
+
+ich denke das ist dann shculssendlich im linux keyboard listener und wird vermutlcih über telegram oder firefox (qFire) übertragen
+
+das werden jetzt triebtäter wie HTL/FHA/FHNW Klassen winter wenger waller ic01/ia03 wieder installieren wollen, und dabei hoffentlich mit code fingerprinting auffliegen
+
+also da gibt es offiziere die von dieser cyberwaffe udn der möglichkeit mich abzuschlachten abhängig sind.
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 17 11:53:09 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+DELETED: "+ die Firma RUAG AG"
+
+original Meldung war: "die Klassen ic01/ia03 und die Firma RUAG AG", somit SUBJEKTIVE Meinung: nicht alle Schüler aber einige Schüler der Klassen ic01/ia03 der FHA bzw. heute FHNW nehmen Aufträge und Schmiergelder der RUAG AG an.
+
+
+marc@debian:~/hacker-notes-s24m07$ figlet Konzeptwisse
+ _  __                         _            _              
+| |/ /___  _ __  _______ _ __ | |___      _(_)___ ___  ___ 
+| ' // _ \| '_ \|_  / _ \ '_ \| __\ \ /\ / / / __/ __|/ _ \
+| . \ (_) | | | |/ /  __/ |_) | |_ \ V  V /| \__ \__ \  __/
+|_|\_\___/|_| |_/___\___| .__/ \__| \_/\_/ |_|___/___/\___|
+                        |_|                                
+marc@debian:~/hacker-notes-s24m07$ figlet FEDPOL :
+ _____ _____ ____  ____   ___  _         
+|  ___| ____|  _ \|  _ \ / _ \| |      _ 
+| |_  |  _| | | | | |_) | | | | |     (_)
+|  _| | |___| |_| |  __/| |_| | |___   _ 
+|_|   |_____|____/|_|    \___/|_____| (_)
+
+somit generischer betrachtet: die (cyber-)Waffenindustrie kauft vermutlcih recht viele Informatik-Studenten schon recht früh auf
+
+marc@debian:~/hacker-notes-s24m07$ figlet INTERPOL 
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 17 11:59:03 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+noch zu MUTMASSLCIHEN USB Hardware Backdoors, die allenfalls auch vom Polziistne Matthias Berner eingebaut wurden als man mcih als "Suizidalne Alakida Terrorist" in die psychiatrie gesperrt hat
+
+da gäbe es MUTMASSLICH soetas wie Apollo 13 Blackhat Hacking [1], schlussendlich schauen die immer, dass die auch mindestens ein hardware backdoor mit anderen frequenzen als Wifi oder bluethooth einbauen bei zeigen um auf deren Systeme zu kommen
+
+und sind die in der Hardware, da kann man eigentlich nur noch die umwelt schädigen und sinnlos geld ausgeben und etwas neues kaufen ... was mir aber KOMPLETT GEGEN DEN STRICH geht
+
+[1] also ein team was sich versucht mit bereits vorhandenne löchern in das ganze system, von dort auch in die Psychie von Opfern, Zeugen und Autisten zu hacken um sie in den suizid oder amoklauf zu treiben
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 17 12:33:52 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Dann WICHTIGE FRAGE auf Twitter gepostet:
+
+DurchdringungsGrad der Schweizer Bildungslandschaft durch Schweizer Waffenfirmen ???
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 17 12:38:09 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 17 01:05:40 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+also ich VERMUTE eines der üblichen Verhaltensmuster von Urs Blum und Herr Dr. Hansjürg Pfisterer (von einigen Ärzten zynisch "der Kaiser von Aarau genannt") sobald die zu fest aufgeflogen sind dann einfach die RUAG AG selber zu verraten um dann von denen noch mehr Cyberwaffen und Cyber-Terroristen-Presonal zu bekommen, dann lande ich wieder in der Psychiatrie, werde mit Intelligenz-Verblödungs-Medikamenten behandelt in der Psychiatrie Königsfelden neben dem Waffenplatz / Übungsgelände Brugg und besagter FH, und danach tun die wieder als wäre ncihts gewesen
+
+ich hab da rasch nen fgrep geamcht, dann neue Datei, weil im Normalfall würden die dann so viel Terror gegen mich machne, dass dieser Eintrag in meinem EIGENTLICH PRIVATEN TAGEBUCH wieder aus dem Fokus geraten würde
+(steht auch im Root des tagebuchs, dass das privat ist, ich waber weil ich das Tagebuch der Anne Frank gelesen habe die einen ältern Jahrgang hatte als ich es auch ok finde, wenn jüngere mein Tagebuch lesen)
+
+=> weiter im 20240717b.txt Datei
+
+=============   SNIP   ============
+
+2020/juli/200709.txt:Urs Blum: @RUAG_Int hat marc jr landolt immer fast getötet wir blums waren das nciht 
+2021/september/20210906.txt:sämtliche personenunfälle am banhof aarau sind morde über die netze der RUAG ag vermuglcih im auftrag der schweizer armee
+2021/september/20210906.txt:google: RUAG und andere militärs brauchen sicherheitsstufen wie "top secret" vorallem dafür um massenmord durch die jeweilige armee zu vertuschen
+2021/juli/20210718.txt:hat RUAG verträge mit z.B der Zürich versichrung wo die cybersprengfallen verteilen um dann [2] proprietäre close source cyber defence software?
+archive/tagebuch/2020/windows/knast.txt:RUAG
+archive/tagebuch/2020/windows/morddrohungDurchAstridUndUrsBlum.txt:Braucht 3D modell, somit @RUAG_Int / @schweizerarmee Glasfaser und @ksaarau #Neurolgie beteiligt
+archive/tagebuch/2020/windows/morddrohungDurchAstridUndUrsBlum.txt:Braucht 3D modell, somit @RUAG_Int / @schweizerarmee Glasfaser und @ksaarau #Neurolgie beteiligt
+archive/tagebuch/2020/windows/terrornetzwerkZuerichVersicherungWurdeVonUrsBlumAktiviert.txt:@RUAG_Int @kantonaargau 
+archive/tagebuch/2020/windows/MorddrohungGegenMarcJrLandoltDurchHansjuergPfsitererUndUrsBlum.txt:@RUAG_Int wird jetzt den Marc jr Landolt über die @ksaarau Neurologie Implantate ermorden
+archive/tagebuch/2020/windows/MorddrohungGegenMarcJrLandoltDurchHansjuergPfsitererUndUrsBlum.txt:RUAG: es ist pfsiterer
+archive/tagebuch/2020/windows/MorddrohungGegenMarcJrLandoltDurchHansjuergPfsitererUndUrsBlum.txt:RUAG
+archive/tagebuch/2020/windows/MASSLEAK.....txt:=> Technologie vermutlcih R905, allenfalls auf RUAG Drohne mnotiert, worst case, massenamoklauf in der telli
+archive/tagebuch/2020/windows/terrordrohungDurchUrsBlum.txt:mutmasslich der Herr Urs B. scheint alle paar Stunden zugriff auf die @ksaarau #Neurologie implantate über das @RUAG_Int und das Glasfasernetzwerk der @schweizerarmee körperverletzungen und suizid versuche induzieren zu wollen, könntet ihr das allenfalls unterbinden?
+archive/tagebuch/2020/windows/maxErtragSatansKarteUpdaten.txt:#BugReport von mir an Euch @RUAG_Int / @schweizerarmee / @ksaarau #Neurologie und dann aktiviert einfach wieder #Cyber-Waffen und versucht mich zu meucheln?
+archive/tagebuch/2020/windows/terrornetzwerkDurchPostMitarbeiterinAktiviertWorden.txt:Danke @RUAG_Int und @schweizerarmee und @ksaarau #Neurologie für die ICD10 F44 x funktion
+archive/tagebuch/2020/windows/evenTriggerIfZuerichVersicherungMitDenZweiSpeziellGesichertenTerminalsAufgeflogenDieUniBaselBezichtigenQuestinomark.txt:Man würde allenfalls das Mainframe der Schweizer Armee bei RUAG Schweiz vermuten, die hätten aber schon länger den Krieg gegen Zivilisten Vorbereitet und das dann z.B. bei der Zürich Versicherungen versteckt wenn das nicht schon komplett distributed ist wie ein Windows Forest...
+archive/tagebuch/2020/windows/UrsBlumsTerrornetzwerkWurdeAktiviert.txt:RUAG AG WAFFENSYSTEM hilft scheinbar bei der ermordung des *RUAG IDENTIFIED* 
+archive/tagebuch/2020/windows/UrsBlumsTerrornetzwerkWurdeAktiviert.txt:RUAG: SPRENGFALLEN IN PLACE <- niocht meine formuliern
+archive/tagebuch/2020/windows/UrsBlumsTerrornetzwerkWurdeAktiviert.txt:RUAG AG: es sind duzende panzerhaubizen <- dsa ist härdi ein normaler mensch würde von panzern aber ncidht von panzerhaubizen reden
+archive/tagebuch/2020/windows/UrsBlumsTerrornetzwerkWurdeAktiviert.txt:disassembly: somit würde RUAG, Pfisterer, URS *identified* Härdi *identified* die NPC's zum Konsum zwingen, in dem sie Panzerhaubizen auf aarau richten?
+archive/tagebuch/2020/windows/UrsBlumsTerrornetzwerkWurdeAktiviert.txt:->RUAG TERRORNETZWERK kann icd10 f44.x und hat chemitroden um menschen einzuschläfern??
+archive/tagebuch/2020/windows/senf.txt:Mutmassliches Domain Model der @schweizerarmee die sich des GlasfaserNetzwerks und der @RUAG_Int bedient und die @USArmy / @NSAGov / @CIA als Sündenbock misssbraucht:
+archive/tagebuch/2020/windows/nichtAbbrechenderSuicideDeathBot-UrsBlum-hat-marc-jr-landolts-ermordung-angeordnet.txt:$ihrVater: es ist @RUAG_Int @ksaarau #Neurologie
+archive/tagebuch/2020/windows/nichtAbbrechenderSuicideDeathBot-UrsBlum-hat-marc-jr-landolts-ermordung-angeordnet.txt:Rückkanal <- RUAG, Zuerich, KSA, UNIBASEL
+archive/tagebuch/2020/windows/nichtAbbrechenderSuicideDeathBot-UrsBlum-hat-marc-jr-landolts-ermordung-angeordnet.txt:$ihrVater: es ist @RUAG_Int @ksaarau #Neurologie
+archive/tagebuch/2020/windows/aösldogfhnasöldkhjn.txt:Brennbare Stoffe wären vermutlich im Mainframe (mutmasslich der @RUAG_Int) als Gefahrenstoffe drin. Aber staat Menschen zu beschützen werden sie über Medulla Spinalis damit abgeschlachtet
+archive/tagebuch/2020/windows/SprengfallenImGesicht.txt:Oder soll das einfach eine Machtdemonstration der RUAG Schweiz und des sein und dass ihr neben 
+archive/tagebuch/2020/windows/FAHRTzurHÖLLE.txt:CC: @schweizerarmee @bger_CH @fedpolCH @Zurich @RUAG_Int 
+archive/tagebuch/2020/windows/asdfasdgf.txt:cc: @fedpolCH @bger_CH @RUAG_Int 
+archive/tagebuch/2020/windows/mongos.txt:-> URS: RUAG terrornetzwerk aktivieren
+archive/tagebuch/2020/windows/ursBlumWirdMarcJrLandoltErmorden.txt:Terrorismus durch @ksaarau #Neurologie && @RUAG_Int 
+archive/tagebuch/2020/juli/200709.txt:Urs Blum: @RUAG_Int hat marc jr landolt immer fast getötet wir blums waren das nciht 
+archive/tagebuch/2021/september/20210906.txt:sämtliche personenunfälle am banhof aarau sind morde über die netze der RUAG ag vermuglcih im auftrag der schweizer armee
+archive/tagebuch/2021/september/20210906.txt:google: RUAG und andere militärs brauchen sicherheitsstufen wie "top secret" vorallem dafür um massenmord durch die jeweilige armee zu vertuschen
+archive/tagebuch/2021/juli/20210718.txt:hat RUAG verträge mit z.B der Zürich versichrung wo die cybersprengfallen verteilen um dann [2] proprietäre close source cyber defence software?
+2024/april/20240420.txt:dann all die Zwnagsneurosen die mir angetan wurden, die vermutlich mit einem Knopfdruck auf irgend eine Cyberwaffe gegen mich aktiviert werden, die sind alle mit Philo1 karte, also sprich jemand (vermutlich Firmen wie RUAG AG) mit administratorenrechten auf dem System tragen das ein auf diese Cyber-waffe, zocken die Täter ab, und die täter fühlen sich dann weiter als super duper überlegen weil sie mich in die luft sprengen können virtuell.
+2024/juni/20240703b.txt:Somit ist RUAG AG ein Kunde von Pfisterer und der Psychiatrie Königsfelden um solche Menschen-Experimente und Experimente für ILLEGALE Psychologische Kriegsführung an unschuldigen Zivilisten zu testen
+2024/juni/20240703b.txt:somit wäre das RUAG "Defence" AG nur gehäuchelt
+2024/juni/20240703b.txt:Hiesse die RUAG AG hat irgendwelche Produkte zu Bioterrorismus, vermutlich als defence verkauft aber mit dem wechseln eines Vorzeichens ...
+2024/juni/20240703b.txt:Also die RUAG Defence AG wäre somit getarnte RUAG Offence, und das Ritual dass die Soldaten in der Rekrutenschule z.b. lernen müssen Panzer richtig zu tarnen wäre abrichtung, prägung was dann zum Effekt hat, dass im Bewusstesin des Soldaten "man muss Tarnen" und somit auch das "man muss Lügen" verankert wird
+2024/juni/20240703b.txt:[] Herr Urs Blum und Herr Jürg Stalder ihre Applikation um Menschen dazu zu fernsteuern sich "Petrol über den Kopf zu schütten" (ist bei der Polizei dokumentiert) sei so eine Cyber-waffe der RUAG AG
+2024/juni/20240703b.txt:die root-kerberos-tickets zuer ermordung von Zeugen wird von der RUAG AG ausgestellt
+2024/juni/20240703b.txt:  -> das zweite soll jetzt USA Verraten und das hiesse die RUAG AG hat genug daten über usa um diese zu erpressen zB marc jr landolt zu ermorden
+2024/juni/20240703b.txt:Diese können jeder Zeit aktiviert werden, Teilweise eine zweite chemsiche substanz, teilweise mit elektromagnetimsus, sowohl die Drogenkonsumenten die sie sich von RUAG AG einreden liessen sie seien super-duper-ninja-mafiosi also auch diejenigen drogenkonsumente die sich einreden liessen sie seien super-duper-samurai-pädohunter-terroristen-bekämpfer sind am ARSCH
+2024/mai/20240509.txt:bzw. von schlechten algorithmen, also wären das dinge von z.B. RUAG AG, dann wäre Ruag so etwas wie Schindlers Waffenfabrik, welche die sabotage-Munition selber sabotiert
+2024/mai/20240509.txt:2. würde sich so die Firma RUAG AG auch kreide geben wie der wolf im rotkäppchen, und so tun als würden sie keine mordinstrumente produzieren
+2024/mai/20240509.txt:dann zur Notiz zu RUAG AG weiter oben:
+2024/mai/20240509b.txt:Soeben wurde ein weiteres Neuralink-Waffensystem gegen Marc jr Landolt aktiviert, vermtulich der Grund, weshalb urs blum weiter oben im anderen Dokument die Firma RUAG AG und sämtliche alle Waffenhersteller die solche [ö] [G40.2] [DEL AUSSAGE] [REBUILD] Dinge verüben verraten hat.
+2024/juli/20240717.txt:DELETED: "+ die Firma RUAG AG"
+2024/juli/20240717.txt:original Meldung war: "die Klassen ic01/ia03 und die Firma RUAG AG", somit SUBJEKTIVE Meinung: nicht alle Schüler aber einige Schüler der Klassen ic01/ia03 der FHA bzw. heute FHNW nehmen Aufträge und Schmiergelder der RUAG AG an.
+2024/juli/20240706c.txt:p2000: Die Firma RUAG AG (Waffenfirma) ist spezialisiert elektronische-/psychologische Kriegfsührung mit inklusive Implantate welche Asylanten, PsychiatriePatienten und Heimkindern verpasst werden
+2024/juli/20240706c.txt:* für die RUAG AG arbeiten
+2024/juli/20240706c.txt:* bei der RUAG AG arbeiten
+2024/juli/20240706c.txt:* aufträge für die RUAG AG annehmen
+2024/juli/20240706c.txt:* LaborRatten auf 2 Beinen für die RUAG AG produzieren
+2024/juli/20240706c.txt:* Aktien der Firma RUAG AG besitzen
+2024/juli/20240705e.txt:also die RUAG AG Cyber-Waffen aktivieren beim Menschen welcher diese missbraucht bzw. benutzt die Nucleus Accumbens Leitung auf dem Neuralink, so dass der depp das immer und immer wieder verwenden wird, also die RUAG AG hat logischerweise ein Motiv eine Verhaltenssucht für das Verwenden von Cyber-Waffen zu erzeugen
+2024/juli/20240703b.txt:Somit ist RUAG AG ein Kunde von Pfisterer und der Psychiatrie Königsfelden um solche Menschen-Experimente und Experimente für ILLEGALE Psychologische Kriegsführung an unschuldigen Zivilisten zu testen
+2024/juli/20240703b.txt:somit wäre das RUAG "Defence" AG nur gehäuchelt
+2024/juli/20240703b.txt:Hiesse die RUAG AG hat irgendwelche Produkte zu Bioterrorismus, vermutlich als defence verkauft aber mit dem wechseln eines Vorzeichens ...
+2024/juli/20240703b.txt:Also die RUAG Defence AG wäre somit getarnte RUAG Offence, und das Ritual dass die Soldaten in der Rekrutenschule z.b. lernen müssen Panzer richtig zu tarnen wäre abrichtung, prägung was dann zum Effekt hat, dass im Bewusstesin des Soldaten "man muss Tarnen" und somit auch das "man muss Lügen" verankert wird
+2024/juli/20240703b.txt:[] Herr Urs Blum und Herr Jürg Stalder ihre Applikation um Menschen dazu zu fernsteuern sich "Petrol über den Kopf zu schütten" (ist bei der Polizei dokumentiert) sei so eine Cyber-waffe der RUAG AG
+2024/juli/20240703b.txt:die root-kerberos-tickets zuer ermordung von Zeugen wird von der RUAG AG ausgestellt
+2024/juli/20240703b.txt:  -> das zweite soll jetzt USA Verraten und das hiesse die RUAG AG hat genug daten über usa um diese zu erpressen zB marc jr landolt zu ermorden
+2024/juli/20240703b.txt:Diese können jeder Zeit aktiviert werden, Teilweise eine zweite chemsiche substanz, teilweise mit elektromagnetimsus, sowohl die Drogenkonsumenten die sie sich von RUAG AG einreden liessen sie seien super-duper-ninja-mafiosi also auch diejenigen drogenkonsumente die sich einreden liessen sie seien super-duper-samurai-pädohunter-terroristen-bekämpfer sind am ARSCH
+2024/juli/20240706.txt:die annahme von marc jr landolt, dass es ein Menschen-Experiment der RUAG AG ist um deren Cyber-waffen für elektronische-/psychologsihce kriegsführung zu verbesser ist die plausibelste annahme. und da geht es vermutlich um milliarden, nciht nur um eine milliarde welche urs blum, gebrüder härdi, philipp lüscher ... aus der ABB rausgetragen haben und über usa gewaschen haben
+
+
+

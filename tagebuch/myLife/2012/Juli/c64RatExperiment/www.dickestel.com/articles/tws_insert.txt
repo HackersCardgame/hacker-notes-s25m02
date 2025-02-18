@@ -1,0 +1,16 @@
+TWS Insert Tip
+
+An article in Commodore World mentioned that text entry slows down when inserting near the top of a
+large Write Stuff or Speedscript document.
+
+If you have to insert text near the beginning of a large file (80 blocks or so), you may find that text entry
+is so slow it takes nearly a second for a character to show up. A fast typist can easily get ahead of the
+keyboard buffer. 
+
+In TWS there is a feature to alleviate this problem. Hold down the [COMMODORE] key and press
+[RUN/STOP], and six blank lines will be inserted. Then make sure insert mode is off (press
+[CONTROL] i). As you type, new text will be inserted instantly in the blank area. When you finish
+inserting, press [CONTROL] [SPACE] to eliminate any remaining blank space.
+
+(From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html)

@@ -1,0 +1,15 @@
+Halli Hallo Brändli
+
+Die Anschuldigung dass ihr Moser gemobbt habt ist jetzt auch einigermassen aufgeklärt. Das Problem (da gibts ein Foto in einem alten AdlerPfiff -- die ich damals alle gescant habe) wo man sieht, dass die ältere Generation den Zigan ausgegrenzt / gemobbt hat. Also der Zigan wäre nur zu uns ~1980er in den Club gekommen, weil er von seiner Generation 1975er(?) ausgegrenzt wurde. Ausserdem spielt da allenfalls auch seine Freundin noch eine Rolle. Ich hab Lernkärtchen gemacht um solche Situationen einfacher zu überschauen [0]. Falls die Webseite gesperrt wäre, wäre das ein weiteres Indiz, dass der (meiner Meinung nach) induzierte Suizid von Tobias Moser in den 1950er Generation zuzuschreiben wäre um dann alle beteiligten damit zu dissoziieren und fremd zu bestimmen, also ich denke da vorallem an die ~1975er, war auch mal bei Simon Härdi mal das besprechen, aber er wollte irgendwie nichts handfestes sagen, allenfalls dissoziiert bzw. schlechtes Gewissen.
+
+FRAGE:
+-----
+Wenn man nur Indizien hätte, dann könnte man ja keinen Rechtsfall machen, da gibt es aber Statistik-Gleichungen [1], mit denen man dann die "Signifikanz" von Indizien berechnen kann (da wird leider auch p-Hacking betrieben) wäre es nach schweizer Recht zulässig einen Beweis zu erbringen der nur auf Indizien beruht?
+
+
+[0] https://0x8.ch/HackersCardgame3/jpg/EN/#m46
+[1] https://de.wikipedia.org/wiki/Binomialtest
+
+
+Gruss
+Floppel

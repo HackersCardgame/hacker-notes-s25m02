@@ -1,0 +1,67 @@
+PrädikatenLogik zur KV Diagram Frage
+
+Prämissen:
+
+p1: ich wäre Autist
+p2: ich würde Logik auf zwei Beinen sein
+p3: würde ich mein Handeln mit Logik belegen
+p4: Carnaugh Dont Cares sind Variablen die keine Rolle spielen
+p5: Kinder (oder Jüngere) sind Zeitweise gemein
+
+p1 -> p2 -> p3
+
+p3 + (p4 <-> p5)
+
+@foobar299 Frage 1: 
+
+p1: Compiler
+p2: Befinden
+
+⊨ (p1=p2)
+ABER
+
+p3: globale Interaktive Überwachung
+
+p1 -> p3 -> p2
+
+
+
+82928
+16970
+64678
+29283
+81540
+69836
+10336
+97083
+54728
+35464
+53835
+16970
+26363
+70831
+37079
+25656
+14383
+82928
+16164
+63630
+82928
+38164
+55483
+82928
+15640
+58791
+25313
+82928
+39281
+69706
+46782
+92839
+28169
+70646
+78292
+83928
+16970
+64678
+292

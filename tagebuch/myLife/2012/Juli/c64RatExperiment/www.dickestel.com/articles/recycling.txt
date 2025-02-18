@@ -1,0 +1,49 @@
+Recycling Old Commodore Equipment
+
+By Gil Parrish
+
+I was in a thrift store in Oklahoma City a while back, and they had a number of computer items marked
+"as-is". These included a TRS-80 Model 4 computer (which has a built-in monochrome monitor and
+two disk drives) for $4.98, and a Commodore 8023p printer (complete with interface cable) for 99
+cents. Now, while all items are purchased from a thrift store "as-is", with no guarantee, items marked
+"as-is" are "known to be defective." As if to emphasize this point, the store had cut the electrical cords
+off the items, perhaps as a way of saying, "Don't even bother to try."
+
+Of course, non-working items can be a source of parts to fix something else, so I purchased these items
+and took them home. However, I needed to know exactly what was not working so I would know
+what good parts were available. I started with the Model 4, patching together an electrical cord and
+turning it on. Nothing displayed on the screen. But that is normal for a Model 4 because the computer
+puts no text on the screen until you insert a boot disk, and the brightness on the monitor is typically
+turned down so low that you can only see text and not a bright background or border. I happened to
+have a Model 4 boot disk so I inserted it and the computer proceeded to boot up normally The
+monitor, chip set, keyboard, both disk drives--everything worked just fine. Apparently, the thrift store
+had no boot disk and, upon switching on the computer and seeing nothing, concluded it wasn't working.
+
+I turned my attention to the Commodore printer. If you've never heard of an 8023p, it was designed for
+Commodore's old PET/CBM line of computers (not the VIC/64/128), and is a nice printer for those
+systems. Anyway, I patched together another electrical cord and turned it on. The carriage for the print
+head/ribbon stuttered an inch or two and came to a stop, instead of running back and forth the length of
+the print area as it is supposed to do. The carriage seemed to be having trouble sliding on its track
+Well, what do you do when something like a door hinge doesn't slide well? I pulled out some oil and
+started lubricating everything in sight then pushed the carriage back and forth manually to distribute the
+oil. It took a while, but by the end the carriage was sliding fine, and the printer was powering up
+normally. There was nothing broken on that item either.
+
+We have for some time been in an era when many people did not know anything about the old eight-bit
+systems. But we seem to have entered a different and more dangerous phase ("dangerous" from the
+standpoint of preserving the old eight-bits) in which people (a) not only don't understand the eight-bits,
+but don't even realize they don't understand, and (b) absolutely do not care in any way, shape or form.
+Computer-wise, they expect every system to act like a PC, booting from the hard drive when turned
+on. Any boot process that does not result in a DOS "A>" prompt or a Windows menu means the
+hardware must be defective. And, these people expend no effort whatsoever if the item does not seem
+to work immediately. Go to the trouble of turning up the brightness or dropping on a little oil??! You
+must be kidding!!! This seems to me to be the equivalent of junking a classic Model T Ford because it
+does not power up when you depress the starter, without even bothering to open its tool box and
+discover its hand crank.
+
+I shudder to think how many perfectly functional eight-bit items are hitting trash cans all over America
+right at this moment. I can only hope that, whenever that occurs, someone with a little more knowledge
+and motivation is standing next to the can.
+
+(From Tulsa Area Commodore Users Group, via Tri-City Commodore computer Club, December 1996, via the
+Commodore Information Center http://home.att.net/~rmestel/commodore.html)

@@ -1,0 +1,30 @@
+How to Write an Article for the Newsletter 
+
+by Doug Parsons
+
+Chances are you could write an article for the newsletter that readers would appreciate seeing. After
+all, everybody uses the computer in different ways; and everybody is looking for different ways to use
+the computer. So, writing about how you use your computer and the knowledge gained therefrom will
+have an audience.
+
+As to what to write about exactly, ask yourself some questions. What did you use the computer for
+yesterday or today? What are your favorite things to do on the computer? How do you do what you do
+on the computer? What new thing did you recently learn? What problem did you recently solve? What
+program do you like best and why? What program don't you like and why? What equipment do you
+like or dislike and why? And so forth. The answers provide what to write.
+
+As to how to write your article, write it the way you would say it. Write it like you are writing a letter.
+Write it so that when you read it, it makes sense to you. And don't worry about spelling, punctuation,
+formatting, or length. That is what editors are for.
+
+As for the medium in which to produce the writing, the obvious preference from the editor's standpoint
+is unformatted (except for paragraphs) word processing text on a disk. However, not all word
+processors can utilize the files produced by other word processors. Therefore, it is best to convert the
+text to ASCII and save it as a sequential file. Most word processors can utilize ASCII text files.
+
+In today's communication environment, disks aren't the only way to transmit text to an editor. An article
+can be sent to the editor via modem. Text can be uploaded to a BBS accessible by the editor.) Or, if
+the editor has an e-mail address, e-mailing an article is as easy as e-mailing any other communication.
+
+(from TVBUG via several other newsletters, via The Commodore Information Center web site
+(http://home.att.net/~rmestel/commodore.html) )

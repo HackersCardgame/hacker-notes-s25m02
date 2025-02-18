@@ -1,0 +1,70 @@
+Fix It Yourself
+
+by Robert Bernardo
+
+As a lad growing up in the 1960's, I was exposed to computers via the television medium. Going to the
+movies was out of the question, and so I sat close to the flickering TV screen, absorbing the way in
+which humans and computers interacted. One of my earliest recollections was watching the movie,
+Kronos. It was a movie produced in the early 1950's on a B-movie budget, but it was filled with
+wondrous sights for a kid like me-- a skyscraper-sized robot rampaging through the countryside; the
+heroes in pursuit of it through use of a helicopter; lots of showy, electrical effects; and the use of a
+building-sized computer. The computer displayed its readings via gauges on a wall and sent information
+to the humans by a paper (tickertape) printout. The scientist heroes would affectionately dub the
+behemoth computer some female name (Matilda, Jessie, Joanie?), speak to it in soothing tones, and
+receive vital information from it. When the computer became cantankerous, a few, gentle words and
+some twisting of the knobs would straighten it out.
+
+1967 and my parents had their first color television. I plopped myself in front of the set and watched the
+very first episode of Star Trek. I didn't understand why the alien planet sky was red; I fiddled with the
+TV's color controls, but I never did get the sky to be blue. However, I did understand when Mr. Spock
+used the computers on board the starship Enterprise every week. The computers gave answers to
+things which the crew members could not easily determine. To my innocent, 12-year old mind, the
+Enterprise computers had to be real; they were full of multi-colored blinking lights and buttons, they had
+visual readouts, they even spoke. When they broke down, Mr. Spock or Scotty would have to crawl
+underneath the consoles and open up access panels in order to repair computer boards. After a bit of
+thinking from Mr. Spock or a few choice words from Scotty, and after a bit of fiddling with the boards,
+the Enterprise computers would straighten themselves out in order to aide Captain Kirk and company
+in defeating the week's alien menace.
+
+1983 and I bought my first Commodore computer. No, it was not the size of an office building nor did
+it have multi-colored blinking lights and buttons. No, it would not give me information on how to
+destroy giant robots nor tell me how to solve matters of galactic import. But here was something
+tangible... something I could touch and affect, and it would affect me in the way it responded. And if the
+Commodore didn't want to act properly, all I had to do was to work with the connecting cables or
+correct an errant tape/disk, or at most, replace the power supply.
+
+My first major problem happened in 1986 with my C-128 computer and 1571 disk drive. I was using
+the new spreadsheet, Vizastar 128, to do grades, and a few nights before the grades were due, the
+1571 refused to read the grades disk. In fact, it refused to load or save to any disk. In a panic, I
+mail-ordered for a new C-128D and sent the 1571 to the nearest Commodore service center at the
+time. Massive failure! The entire disk mechanism had to be replaced.
+
+Since that time, I've slowly but surely become more self-reliant in repairs. It certainly helps to have a
+handy reference sheet, like the Commodore Diagnostician. I still solder, making big blobs of cold solder
+joints. However, if it's something that can be plugged in, like socketed integrated circuits, then there's
+no problem. Pop out the old IC, and plug in the new one. Speaking of IC's, it's good to have a few
+around or a source from which to buy the IC's. I have one or two C-64's that I use for parts. Most
+frequently, the 6581/8520 SID chips or the 6526 CIA chips fail in my machines. With no new
+production of the SID chips, prices are rising on remaining stock. Creative Micro Designs has them,
+Jameco Electronics in Los Angeles area may have them, and most Commodore clubs have a "technical
+expert" who usually has some used ones on hand.
+
+Finding a source for parts can be like a scavenger hunt; you'll never know where or what you'll find. A
+few weeks ago at school I received an Mendelson Electronic Co., Inc., (MECI) parts catalog. What
+was in it? Among the various close-out items were new Commodore-compatible joysticks and
+Commodore-adaptable printer buffers. Enthused at my find, I picked up the latest Nuts & Volts
+magazine from Barnes & Noble Bookstore. Nuts & Volts is a magazine for the electronic hobbyist who
+likes to build projects. The magazine also contains many advertisements for all kinds of electronic
+doodads from various electronic parts companies. Within its pages I was able to find more joysticks,
+Commodore-specific chips, and even Commodore SFD-1001 disk drive cases and mechanisms (but
+no controller boards). HSC Electronics in Sacramento is a veritable goldmine: bins of resistors, IC's,
+transistors, power supplies, and Commodore-specific or Commodore-adaptable parts, and much more
+(though these tend to be old PC boards, monitors, and even complete systems).
+
+With these sources out there and with some research, you too can fix your Commodore. Even if you
+can't lift a finger to replace a part, you can give your friendly service tech an idea of where to go to get
+a part. Then you can feel one with the old sci-fi heroes of the movies and TV. You can feel that you're
+fixing your computer.
+
+From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html

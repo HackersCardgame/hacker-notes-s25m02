@@ -1,0 +1,47 @@
+System log for account 962320 (icq) connected at 30.05.2007 20::54::16
+---- +++ 962320 hat sich angemeldet @ 2007-05-30 20:54:16 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 2007-05-30 20:54:17 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-05-30 20:54:17 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-05-30 20:54:17 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-05-30 20:54:17 ----
+---- FairyLady hat den Status von Offline zu Abwesend geändert @ 2007-05-30 20:54:17 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-30 20:54:43 ----
+---- shrike wurde untätig @ 2007-05-30 20:54:43 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-30 21:03:23 ----
+---- shrike wurde tätig @ 2007-05-30 21:03:23 ----
+---- FairyLady hat den Status von Abwesend zu Nicht verfügbar geändert @ 2007-05-30 21:04:12 ----
+---- +++ 962320 wurde untätig @ 2007-05-30 21:00:22 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-30 21:10:41 ----
+---- Schööfli wurde untätig @ 2007-05-30 21:10:41 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-30 21:10:52 ----
+---- Schööfli wurde tätig @ 2007-05-30 21:10:52 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-30 21:20:52 ----
+---- Schööfli wurde untätig @ 2007-05-30 21:20:52 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-30 21:20:59 ----
+---- shrike wurde untätig @ 2007-05-30 21:20:59 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-30 21:21:46 ----
+---- Schööfli wurde tätig @ 2007-05-30 21:21:46 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-30 21:26:49 ----
+---- shrike wurde tätig @ 2007-05-30 21:26:49 ----
+---- FairyLady hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-30 21:28:32 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-30 21:31:47 ----
+---- Schööfli wurde untätig @ 2007-05-30 21:31:47 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-30 21:37:01 ----
+---- Schööfli wurde tätig @ 2007-05-30 21:37:01 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-05-30 21:37:12 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-30 21:47:02 ----
+---- Schööfli wurde untätig @ 2007-05-30 21:47:02 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-30 21:47:03 ----
+---- Schööfli wurde tätig @ 2007-05-30 21:47:03 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-30 21:50:33 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-05-30 21:52:28 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-30 21:54:26 ----
+---- +++ 962320 wurde untätig @ 2007-05-30 21:44:32 ----
+---- Schööfli hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-30 21:57:51 ----
+---- Schööfli wurde untätig @ 2007-05-30 21:57:51 ----
+---- Schööfli hat den Status von Nicht verfügbar zu Offline geändert @ 2007-05-30 21:57:54 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-05-30 22:02:51 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-05-31 18:21:02 ----

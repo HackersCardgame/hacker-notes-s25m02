@@ -1,0 +1,29 @@
+System log for account 962320 (icq) connected at 30.03.2007 22::15::36
+---- +++ 962320 hat sich angemeldet @ 2007-03-30 22:15:36 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-03-30 22:15:36 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-03-30 22:15:36 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-30 22:24:59 ----
+---- Dominik wurde tätig @ 2007-03-30 22:24:59 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-30 22:37:51 ----
+---- FairyLady wurde untätig @ 2007-03-30 22:37:53 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-03-30 22:39:15 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-30 22:41:00 ----
+---- FairyLady wurde tätig @ 2007-03-30 22:41:02 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-30 23:05:33 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-30 23:09:43 ----
+---- shrike wurde untätig @ 2007-03-30 23:09:43 ----
+---- Dominik wurde untätig @ 2007-03-30 23:19:31 ----
+---- +++ 962320 wurde untätig @ 2007-03-30 23:11:14 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-03-30 23:31:36 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-30 23:43:59 ----
+---- shrike wurde tätig @ 2007-03-30 23:43:59 ----
+---- +++ 962320 wurde untätig @ 2007-03-30 23:37:30 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-03-31 00:08:03 ----
+---- stefan hat den Status von Verfügbar zu Offline geändert @ 2007-03-31 01:00:43 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-03-31 01:06:11 ----
+---- +++ 962320 wurde untätig @ 2007-03-31 01:34:41 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-03-31 10:12:03 ----

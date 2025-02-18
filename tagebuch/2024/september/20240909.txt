@@ -1,0 +1,282 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Sep 9 03:03:03 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Sep 9 05:05:56 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+assange part 1: jeremy: 1:12:11
+
+assange part 2: jeremy: 0:04:25
+                        0:11:11 3 basic freedoms
+                          13:55
+                          16:30 jake
+
+sharing of wissenschaftlichem knowledge macht das Weltbild der Esoterischen drogen oder medikamenten süchtigen kaputt
+
+also die sind alle story telling psychiatern wie pfisterer auf den leim gegangen und wenn die jetzt anfange mathe, logik ... zu lernen geht deren weltbild kaputt, triggern, hedonismus drogen und medis nehmen führt zu homöostase wissenschaft zu lerenen
+
+
+3568kr
+
+ddr4 1560
+
+clear eMMC
+rkdevelptool ef
+
+reset device
+rkdeveloptool rd 3
+
+then only minmal command works
+rkdeveloptool db rk3568_loader.bin
+
+info
+rkdeveloptool rfi
+
+
+
+dann der cyrevolt mit seinem Telegram Profil "free F***s"
+         ========                             ==========
+Egal ob es anprangernder Zynismus oder echt gemeint ist, das kann weg
+                                                         ============
+---> traumabased mindcontrol was einen agressiv machen würde wenn bei einer Fehlfunktion von fiedeka [1] Gleichzeitig die cyberwürgekette eingeschaltet wird und man keine Ahnung von manipulation und psychologie hat
+
+[1]  UND man kennt sein Telegramprofil 
+
+dann CI/CD vom fiedeka ist scheinbar installiert, KÖNNTE man ihn supporten und noch für redhat rpm ... auch noch eins machen, ausserdem mal wieder ein neues tag machen im Github repo dass das CI/CD wieder mal eine neuere version releasen würde, ABER allenfalls ist grad nohc nicth ein stable melenstein, code noch nicht so weit gesichtet...
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Sep 9 05:08:32 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+./compile.sh build BOARD=lubancat2 BRANCH=edge BUILD_DESKTOP=yes BUILD_MINIMAL=no DESKTOP_APPGROUPS_SELECTED='browsers chat desktop_tools editors email internet multimedia office programming remote_desktop' DESKTOP_ENVIRONMENT=i3-wm KERNEL_CONFIGURE=no PREFER_DOCKER=no RELEASE=noble VENDOR=Armbian
+
+
+
+./compile.sh build BOARD=lubancat2 BRANCH=edge BUILD_DESKTOP=no BUILD_MINIMAL=yes DESKTOP_APPGROUPS_SELECTED='editors' DESKTOP_ENVIRONMENT=i3-wm KERNEL_CONFIGURE=no PREFER_DOCKER=no RELEASE=noble VENDOR=Armbian
+
+dann wurde jetzt ein Overlay und zuspruch für die Täter-Truppen-moral als overlay über meine bildschirm gelegt. z.b auf das "be patient" [1] wird jetzt "hahaha sabotage forever ..." und solche dinge eingeblendet
+
+[1] bugs/Screenshot from 2024-09-09 18-17-29.png
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Sep 9 06:19:09 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+./compile.sh \
+BOARD=bananapim5 \
+BRANCH=current \
+RELEASE=bookworm \
+BUILD_MINIMAL=yes \
+BUILD_DESKTOP=no \
+KERNEL_CONFIGURE=no
+
+
+
+
+marc@debian:~/build$ ./compile.sh BOARD=lubancat2 BRANCH=current RELEASE=bookworm BUILD_MINIMAL=yes BUILD_DESKTOP=no KERNEL_CONFIGURE=no
+[🌿] Applying cmdline param [ 'BUILD_MINIMAL': '(unset)' --> 'yes' early ]
+[🌿] Applying cmdline param [ 'BUILD_DESKTOP': '(unset)' --> 'no' early ]
+[🌿] Applying cmdline param [ 'BRANCH': '(unset)' --> 'current' early ]
+[🌿] Applying cmdline param [ 'BOARD': '(unset)' --> 'lubancat2' early ]
+[🌿] Applying cmdline param [ 'RELEASE': '(unset)' --> 'bookworm' early ]
+[🌿] Applying cmdline param [ 'KERNEL_CONFIGURE': '(unset)' --> 'no' early ]
+[🚸] This script requires root privileges; Docker is unavailable [ trying to use sudo ]
+[🌿] Applying cmdline param [ 'PREFER_DOCKER': '(unset)' --> 'no' early ]
+[🌿] Applying cmdline param [ 'BUILD_MINIMAL': '(unset)' --> 'yes' early ]
+[🌿] Applying cmdline param [ 'BUILD_DESKTOP': '(unset)' --> 'no' early ]
+[🌱] Skip     cmdline param [ 'ARMBIAN_RELAUNCHED': already set to 'yes' early ]
+[🌿] Applying cmdline param [ 'BRANCH': '(unset)' --> 'current' early ]
+[🌿] Applying cmdline param [ 'BOARD': '(unset)' --> 'lubancat2' early ]
+[🌿] Applying cmdline param [ 'SET_OWNER_TO_UID': '(unset)' --> '1000' early ]
+[🌿] Applying cmdline param [ 'RELEASE': '(unset)' --> 'bookworm' early ]
+[🌿] Applying cmdline param [ 'KERNEL_CONFIGURE': '(unset)' --> 'no' early ]
+[🌱] Starting single build process [ lubancat2 ]
+[🌱] Checking [ basic host setup ]
+[🌱] Build host OS release [ bookworm ]
+[🌱] Build host architecture [ amd64 ]
+[🌱] Sourcing board configuration [ /home/marc/build/config/boards/lubancat2.csc ]
+[✅] change-tracking: after sourcing board file config/boards/lubancat2.csc [ BOARDFAMILY='rk35xx' ]
+[✅] change-tracking: after sourcing board file config/boards/lubancat2.csc [ BOOTCONFIG='lubancat-2-rk3568_defconfig' ]
+[✅] change-tracking: after defaulting LINUXFAMILY to BOARDFAMILY [ LINUXFAMILY='rk35xx' ]
+[🚸] BRANCH not found for board [ BRANCH='current' not valid for BOARD='lubancat2' - listed KERNEL_TARGET='edge' ]
+[🌱] Starting main configuration
+[🌱] Using REVISION from [ main VERSION file: '24.11.0-trunk' ]
+[🌱] Sourcing family configuration [ /home/marc/build/config/sources/families/rk35xx.conf ]
+[🌿] Enabling extension [ rkbin-tools ]
+[🌱] Determined BOOT_SOC from BOOTCONFIG [ BOOT_SOC: 'rk3568'; BOOTCONFIG: 'lubancat-2-rk3568_defconfig' ]
+[✅] change-tracking: after sourcing family config [ KERNEL_MAJOR_MINOR='6.6' ]
+[✅] change-tracking: after sourcing family config [ LINUXFAMILY='rockchip64'  # (was: 'rk35xx') ]
+[✅] change-tracking: after sourcing family config [ LINUXCONFIG='linux-rockchip64-current' ]
+[✅] change-tracking: after sourcing family config [ BOOTSOURCE='https://github.com/radxa/u-boot.git' ]
+[✅] change-tracking: after sourcing family config [ BOOTBRANCH='branch:next-dev-v2024.03' ]
+[✅] change-tracking: after sourcing family config [ BOOTPATCHDIR='legacy/u-boot-radxa-rk35xx' ]
+[✅] change-tracking: after sourcing family config [ NETWORKING_STACK='systemd-networkd' ]
+[🌱] Sourcing arch configuration [ arm64.conf ]
+[🌱] Using NETWORKING_STACK [ NETWORKING_STACK: systemd-networkd ]
+[🌱] Adding networking extensions [ net-systemd-networkd, net-systemd-timesyncd ]
+[🌿] Enabling extension [ net-systemd-networkd ]
+[🌿] Enabling extension [ net-systemd-timesyncd ]
+[🌱] Extension manager [ processed 12 Extension Methods calls and 18 Extension Method implementations ]
+[🌱] rockchip64_common: defaulting SERIALCON [ Setting SERIALCON to ttyS2 for BRANCH='current' ]
+[🌱] Extension: net-systemd-timesyncd: Adding extra packages to image [ systemd-timesyncd ]
+[🌱] Extension: net-systemd-networkd: Adding extra packages to image [ netplan.io ]
+[🌱] KERNELPATCHDIR is unset; using 'archive/rockchip64-6.6' [ common_defaults_for_mainline ]
+[🌱] mainline-kernel: default to branch / rolling stable version [ Using KERNELBRANCH='branch:linux-6.6.y' for KERNEL_MAJOR_MINOR='6.6' ]
+[✅] change-tracking: after late_family_config hooks [ KERNELSOURCE='https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git' ]
+[✅] change-tracking: after late_family_config hooks [ KERNELBRANCH='branch:linux-6.6.y' ]
+[✅] change-tracking: after late_family_config hooks [ KERNELPATCHDIR='archive/rockchip64-6.6' ]
+[✅] change-tracking: after late_family_config hooks [ KERNEL_PATCH_ARCHIVE_BASE='rockchip64' ]
+[✅] change-tracking: after late_family_config hooks [ BOOTDIR='u-boot' ]
+[✅] change-tracking: before handling KERNEL_MAJOR_MINOR in config_post_main [ BOOTSOURCEDIR='u-boot-worktree/u-boot/next-dev-v2024.03' ]
+[✅] change-tracking: before calling extension_finish_config [ LINUXSOURCEDIR='linux-kernel-worktree/6.6__rockchip64__arm64' ]
+[🌱] Configuration prepared for BOARD build [ lubancat2.csc ]
+[✨] Repeat Build Options (early) [ ./compile.sh build BOARD=lubancat2 BRANCH=current BUILD_DESKTOP=no BUILD_MINIMAL=yes KERNEL_CONFIGURE=no RELEASE=bookworm ]
+[🌱] Checked directory OK for mount options [ /home/marc/build/.tmp ('main temporary dir') ]
+[🌱] Preparing [ host ]
+[🌱] Python2 not available on host release 'bookworm' [ ancient u-boot versions might/will fail to build ]
+[🌱] Syncing clock [ host ]
+[🔨]   2024-09-09 18:29:55.556317 (+0200) +0.001374 +/- 0.010350 pool.ntp.org 84.16.67.12 s1 no-leap
+[🌱] Ignoring toolchains [ SKIP_EXTERNAL_TOOLCHAINS: yes ]
+[🌱] Aggregating packages [ rootfs ]
+[🌱] Python3 version [ 3.11.2 - 'Python 3.11.2' ]
+[🌱] pip3 version [ 23.0.1: 'pip 23.0.1 from /usr/lib/python3/dist-packages/pip (python 3.11)' ]
+[🌱] Using cached pip packages for Python tools [ 9682dfdc2177060f5e65e61836821649048adacd85d6fff3bfdaa67c5507ac70 ]
+[🔨]   Summary: Aggregation: debootstrap: 0; rootfs: 0; image: 3; desktop: 0; apt-sources: 0; hash: d41d8cd98f00b204
+[🌱] artifact [ uboot :: uboot() ]
+[🌱] Using cached [ GIT_INFO_UBOOT ]
+[🌱] Getting ORAS manifest [ ORAS manifest from ghcr.io/armbian/os/uboot-lubancat2-current:2017.09-S5aac-P9316-H8c72-V9550-Bda0a-R448a ]
+Error response from registry: failed to fetch the content of "ghcr.io/armbian/os/uboot-lubancat2-current:2017.09-S5aac-P9316-H8c72-V9550-Bda0a-R448a": GET "https://ghcr.io/v2/armbian/os/uboot-lubancat2-current/manifests/2017.09-S5aac-P9316-H8c72-V9550-Bda0a-R448a": denied: requested access to the resource is denied
+[🌱] Artifact is not available in remote cache [ ghcr.io/armbian/os/uboot-lubancat2-current:2017.09-S5aac-P9316-H8c72-V9550-Bda0a-R448a ]
+[🌱] Getting sources from Git [ rkbin-tools master ]
+[🌿] Fetching updates from remote repository [ rkbin-tools master ]
+[🔨]   From https://github.com/armbian/rkbin
+[🔨]    * branch            master     -> FETCH_HEAD
+[🌱] git: Fetch from remote completed, rev-parsing... [ 'rkbin-tools' 'master' 'FETCH_HEAD' ]
+[🌱] Installing [ rkbin-tools ]
+[🌱] Getting sources from Git [ u-boot next-dev-v2024.03 ]
+[🌿] Fetching updates from remote repository [ u-boot next-dev-v2024.03 ]
+POST git-upload-pack (357 bytes)
+From https://github.com/radxa/u-boot
+ * branch                    next-dev-v2024.03 -> FETCH_HEAD
+[🌱] git: Fetch from remote completed, rev-parsing... [ 'u-boot' 'next-dev-v2024.03' 'FETCH_HEAD' ]
+[🌿] Using u-boot revision SHA1 [ 5aac71ccba1e69016947a3cfa60d4de034b5e520 ]
+[🌱] Compiling u-boot [ 2017.09 /home/marc/build/cache/sources/u-boot-worktree/u-boot/next-dev-v2024.03 ]
+[🌱] Compiler version [ aarch64-linux-gnu-gcc '12.2.0' ]
+[🌿] {u-boot:1}  Checking out to clean sources SHA1 5aac71ccba1e69016947a3cfa60d4de034b5e520 [ {u-boot-worktree/u-boot/next-dev-v2024.03} for BL31=/home/marc/build/cache/sources/rkbin-tools/rk35/rk3568_bl31_v1.44.elf spl/u-boot-spl.bin u-boot.dtb u-boot.itb ]
+[🌱] Calling Python patching script for U-Boot: [ https://github.com/radxa/u-boot.git - branch:next-dev-v2024.03 ]
+[🌱] Using U-Boot patch dir: [ legacy/u-boot-radxa-rk35xx ]
+[🔨]   Found patching config file: '/home/marc/build/patch/u-boot/legacy/u-boot-radxa-rk35xx/0000.patching_config.yaml'
+[🔨]   Applying 1 patches from 1 files of which 1 patches in regular, sorted files...
+[🔨]   -> 1/1: rk3566-Add-rk3566-to-soc-name(:1) (+1/-0)[1M] {rkcommon.c}
+[🔨]   Summary: u-boot patching: 1 total patches; 1 applied; 0 with problems
+[🔨]                                                Summary of u-boot patches                                              
+[🔨]   ╭─────────────────────────────────┬─────────────────────────────────────┬──────────────────────────────────────────╮
+[🔨]   │ Patch / Status                  │ Diffstat / files                    │ Author / Subject                         │
+[🔨]   ├─────────────────────────────────┼─────────────────────────────────────┼──────────────────────────────────────────┤
+[🔨]   │ rk3566-Add-rk3566-to-soc-name   │ (+1/-0)[1M] rkcommon.c              │ Piotr Szczepanik: Add SoC based image    │
+[🔨]   │                                 │                                     │ name (rk3566) to rk35xx u-boot           │
+[🔨]   ├─────────────────────────────────┼─────────────────────────────────────┼──────────────────────────────────────────┤
+[🔨]   │ Armbian Bare OVERLAY auto-patch │ blade3_defconfig,                   │ Armbian Autopatcher: Armbian Bare        │
+[🔨]   │                                 │ orangepi-5-plus-rk3588_defconfig,   │ OVERLAY files for configs                │
+[🔨]   │                                 │ nanopc_cm3588_defconfig,            │                                          │
+[🔨]   │                                 │ armsom-sige7-rk3588_defconfig,      │                                          │
+[🔨]   │                                 │ orangepi-5b-rk3588s_defconfig,      │                                          │
+[🔨]   │                                 │ mekotronics_r58x-rk3588_defconfig,  │                                          │
+[🔨]   │                                 │ armsom-w3-rk3588_defconfig,         │                                          │
+[🔨]   │                                 │ armsom-aim7-io-rk3588_defconfig,    │                                          │
+[🔨]   │                                 │ nanopc_t6_defconfig,                │                                          │
+[🔨]   │                                 │ orangepi-5-sata-rk3588s_defconfig,  │                                          │
+[🔨]   │                                 │ blade3_sata_defconfig,              │                                          │
+[🔨]   │                                 │ hinlink_rk3528_defconfig,           │                                          │
+[🔨]   │                                 │ mekotronics_r58-rk3588_defconfig,   │                                          │
+[🔨]   │                                 │ nanopi-r6s-rk3588s_defconfig,       │                                          │
+[🔨]   │                                 │ orangepi-5-rk3588s_defconfig, and 1 │                                          │
+[🔨]   │                                 │ more                                │                                          │
+[🔨]   ├─────────────────────────────────┼─────────────────────────────────────┼──────────────────────────────────────────┤
+[🔨]   │ Armbian Bare OVERLAY auto-patch │ rk3588-blade3.dts,                  │ Armbian Autopatcher: Armbian Bare        │
+[🔨]   │                                 │ rk3588-nanopc-t6.dts,               │ OVERLAY files for arch/arm/dts           │
+[🔨]   │                                 │ rk3588-armsom-aim7-io.dts,          │                                          │
+[🔨]   │                                 │ rk3588s-orangepi-5b.dts,            │                                          │
+[🔨]   │                                 │ rk3588-armsom-w3.dts,               │                                          │
+[🔨]   │                                 │ rk3528-hinlink-h28k.dts,            │                                          │
+[🔨]   │                                 │ rk3588s-orangepi-5-sata.dts,        │                                          │
+[🔨]   │                                 │ rk3588s-retro-lite-cm5.dts,         │                                          │
+[🔨]   │                                 │ rk3588-orangepi-5-plus.dts,         │                                          │
+[🔨]   │                                 │ rk3588-blade3-sata.dts,             │                                          │
+[🔨]   │                                 │ rk3588s-orangepi-5.dts,             │                                          │
+[🔨]   │                                 │ rk3588-blueberry-edge-v12.dts,      │                                          │
+[🔨]   │                                 │ rk3588s-nanopi-r6s.dts,             │                                          │
+[🔨]   │                                 │ rk3588-nanopc-cm3588.dts,           │                                          │
+[🔨]   │                                 │ rk3588-armsom-sige7.dts             │                                          │
+[🔨]   ╰─────────────────────────────────┴─────────────────────────────────────┴──────────────────────────────────────────╯
+[🌱] {u-boot:1} Preparing u-boot config 'lubancat-2-rk3568_defconfig' [ 2017.09 BL31=/home/marc/build/cache/sources/rkbin-tools/rk35/rk3568_bl31_v1.44.elf spl/u-boot-spl.bin u-boot.dtb u-boot.itb ]
+[🔨]   ***
+[🔨]   *** Can't find default configuration "arch/../configs/lubancat-2-rk3568_defconfig"!
+[🔨]   ***
+[🔨]   make[1]: *** [scripts/kconfig/Makefile:121: lubancat-2-rk3568_defconfig] Error 1
+[🔨]   make: *** [Makefile:486: lubancat-2-rk3568_defconfig] Error 2
+[💥] Error 2 occurred in main shell [ at /home/marc/build/lib/functions/logging/runners.sh:211
+    run_host_command_logged_raw() --> lib/functions/logging/runners.sh:211
+        run_host_command_logged() --> lib/functions/logging/runners.sh:193
+           compile_uboot_target() --> lib/functions/compilation/uboot.sh:78
+   loop_over_uboot_targets_and_do() --> lib/functions/compilation/uboot.sh:287
+                  compile_uboot() --> lib/functions/compilation/uboot.sh:391
+                do_with_logging() --> lib/functions/logging/section-logging.sh:81
+   artifact_uboot_build_from_sources() --> lib/functions/artifacts/artifact-uboot.sh:175
+    artifact_build_from_sources() --> lib/functions/artifacts/artifacts-obtain.sh:34
+       obtain_complete_artifact() --> lib/functions/artifacts/artifacts-obtain.sh:280
+       build_artifact_for_image() --> lib/functions/artifacts/artifacts-obtain.sh:392
+    main_default_build_packages() --> lib/functions/main/build-packages.sh:108
+   full_build_packages_rootfs_and_image() --> lib/functions/main/default-build.sh:31
+          do_with_default_build() --> lib/functions/main/default-build.sh:42
+         cli_standard_build_run() --> lib/functions/cli/cli-build.sh:25
+        armbian_cli_run_command() --> lib/functions/cli/utils-cli.sh:136
+                 cli_entrypoint() --> lib/functions/cli/entrypoint.sh:176
+                           main() --> compile.sh:50
+ ]
+[💥] Error context msg [ {u-boot:1} Failed to configure u-boot 2017.09 lubancat-2-rk3568_defconfig BL31=/home/marc/build/cache/sources/rkbin-tools/rk35/rk3568_bl31_v1.44.elf spl/u-boot-spl.bin u-boot.dtb u-boot.itb ]
+[💥] Cleaning up [ please wait for cleanups to finish ]
+^C[🚸] Build interrupted [ Build interrupted by SIGINT ]
+[🌿] ANSI log file built; inspect it by running: [ less -RS output/logs/log-build-16df4e03-f68e-4550-b105-9933105a7035.log.ans ]
+[🌿] Share log manually (or SHARE_LOG=yes): [ curl --data-binary @output/logs/log-build-16df4e03-f68e-4550-b105-9933105a7035.log.ans https://paste.armbian.com/log ]
+marc@debian:~/build$ 
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Sep 9 06:40:42 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+./compile.sh BOARD=lubancat2 BRANCH=current RELEASE=bookworm BUILD_MINIMAL=yes BUILD_DESKTOP=no KERNEL_CONFIGURE=no
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Sep 9 06:40:56 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+dann wird alle 1 sek mein kurzzeitgedächtnis gelsöcht, vermutlich tätertrppenmoral für die unfähigeren damit ich auch unfähig wirke
+
+und diejenigen die lachen werden dann schlussendlich bei diesem Punkt weil sie jetzt lachen amok laufen weil "DU HAST AUCH GELACHT", was satan sagen wird weil er diese menschen auch in den amoklauf shcichen will, aber was auch die bibel sagt mit "auge um auge, zahn um zahn"
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Sep 9 06:42:15 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+also das begabteste kind zu sabotieren und den eltner hochmut medikamente und drogen zu geben soll gegen den tiefen selbstwert hlefen verkauft es pfisterer, aber genau das würde dann verhindern dass diese menschen ihre fähigkeiten auch verbessern
+
+NEHMT EURE MEDIKAMENTE <- disclamer für das Gerichtsprotokoll: das ist anprangernder Zynismus
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Sep 9 06:43:35 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+zu viele cyber-terroristen, treibtäter, offiziere und morder grad auf meiner raumüberwacnung und neuralink, dann kann man es vergessen irgnd überhaupt etwas sinnvoll zu erledigen
+
+ZZZzzz...
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Sep 9 06:44:22 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+

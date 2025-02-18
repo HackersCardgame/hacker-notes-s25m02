@@ -1,0 +1,38 @@
+TWS Extra Text Area
+
+by Dick Estel
+
+One useful, but often overlooked feature of The Write Stuff is the "extra text area." This permits you to
+have two documents in memory at once (or more in the 128 version). You can then switch between
+them.
+
+The most obvious use is for transferring portions of one document into another. You can "eat" sections
+of text from one document, and restore them in the other. Another use would be to compare two
+versions of the same document. I also use this feature when working with very long files, to transfer a
+small part of the file to the second area for previewing, etc, without having to wait for many pages of
+text to scroll by.
+
+To set up an additional text area, press [CONTROL] [SHIFT] +. In the 64 version, this immediately
+splits the text memory area into two equal parts (about 10,000 bytes each).
+
+In the 128 version you will see a horizontal bar with the numbers 1 through 9 across it. Pressing a
+number will divide the text memory area into two sections. The numbers represent the approximate
+percentage allotted to the original area. Pressing 3 would give you two areas, of about 19,000 bytes
+and 43,000 bytes respectively. Pressing 5 would give you two equal areas, about 31,000 bytes each.
+
+Pressing additional numbers creates additional text areas, so you could have up to 10 separate areas,
+but they would be limited to about 6,000 bytes each.
+
+You switch between areas by pressing [CONTROL] q. If you have more than two areas, pressing
+[CONTROL] [SHIFT] Q switches to the previous area, while [CONTROL] q moves to the next one.
+
+I have had one problem with this feature, which I have been unable to resolve. Whatever I did in one
+area happened to the other area also. If I cleared the text in area 2, the text disappeared in area 1 also.
+If I loaded a new document, it loaded into both areas. I would suggest saving the document in each
+area before loading a file or clearing text in another area.
+
+Overall this is a very useful feature which I use regularly--just another benefit of the world's greatest
+cheap word processor.
+
+(From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html)

@@ -1,0 +1,34 @@
+Using Tape for Write Protect Tabs
+
+Recently the editor had a conversation about technical matters with two of our club members who have
+expertise in this area, Larry Hawks and Del Contreras.
+
+I asked them about a suggestion a member had made regarding use of electrical tape for write tab
+protection.  In the past I have unwrapped some taped stereo connections and found my fingers covered
+with sticky, melted goo from the tape, so I was concerned about putting something like that in my disk
+drive.
+
+Del felt that it would not be a problem as long as good quality tape were used--avoid 39 cent
+supermarket bargain bins.  Larry was a little more hesitant, since he felt there would be a problem if the
+tape came loose.  Probably it would be a good idea to use this only for a disk that you expect to leave
+permanently protected, so you would not have a sticky spot if you had to remove the tab.
+
+We also discussed the age old question, to flip or not to flip your floppies.  (Disk sellers and
+manufacturers warn against this practice, for obvious reasons!)
+
+Del explained that as a disk spins, tiny particles of the magnetic material wear off and are carried
+around inside the disk cover.  When you flip the disk, the first side then spins in the opposite direction. 
+This has the effect of carrying the loose material back and forth when the two sides of the disk are used
+regularly, which can contribute to particles getting into the drive or damaging the disk.
+
+Del did not feel there is a problem with disks that are not used much, but for a regularly used one, he
+recommends spending the extra 40 cents for another disk.
+
+These two gentlemen have added a great deal to my still very limited technical knowledge.  This type of
+information sharing is what being a member of user group is all about.  They and other experienced
+computer users are more than willing to help out, so feel free to bring up your technical questions during
+the meetings.  Remember, if there's something you'd like to ask, probably several other people have the
+same question too.
+
+(Originally published in The Interface newsletter of Fresno Commodore User Group, November 1988;
+via the Commodore Information Center http://home.att.net/~rmestel/commodore.html)

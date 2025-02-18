@@ -1,0 +1,67 @@
+Fender Tucker Unplugged: My Day Job
+
+by Fender Tucker
+
+"Don't quit your day job." That's what you say to a guy who has a dream of making it big in some field,
+when you're not too optimistic about his chances. Would you believe I was a musician for 25 years and
+never heard that dreaded sentence? That's because I never had a day job.
+
+I knew a lot of musicians in my time and 98% of them wanted to make a hit record and be a star. They
+all worked during the day and somehow managed to play at night. They'd usually last three or four
+years in the music business and then disappear, probably staying home with their families.
+
+But my bands were always three or four guys who didn't give a damn about "making it big." All we
+wanted was to not have to get a day job. And we never did. We just played for decade after decade
+until our gravity failed and our negativity couldn't pull us through. I was 40 years old when my back
+said, "No mas!" to holding that guitar from 9 to 2 every night. Lucky for me, the LOADSTAR Tower
+was in need of a Mojo that year, 1987, and I got my first day job. Boy was I lucky!
+
+The 8-bit field is a little like the music business. There are some real good programmers out there, and
+understandably, most of them want to "make it big." Unfortunately, there's no such thing as "big" in the
+8-bit field. So the ambitious programmers move on to the IBM field, where they'd better have a day
+job. 
+
+But there are still that 2% who have no desire to do anything more than write fun programs for a fun
+computer. You'll meet these programmers on LOADSTAR. Okay, they probably have day jobs, but
+they don't spend their free time learning C++ and the latest Windows protocols. They write programs
+for LOADSTAR, and I for one appreciate them.
+
+Sometimes, a good programmer moves on gracefully. Nathan Fiedler, author of geoCanvas and Geos
+Utilities (reviewed on LS #124 and #129), has announced his departure into the IBM miasma. But
+instead of leaving his excellent programs as limboware, he has placed them into the Public Domain. You
+can probably download his stuff if you have a fast modem, lots of time and can find it online, but we're
+going to provide his best programs on LOADSTAR in the next couple of issues. Next month we'll have
+geoCanvas, the tool that geoPaint would like to be. Xxxxxxxwhere?
+
+We wish Nate the best of luck and success in his new job at Geoworks. He was one of the best
+all-time GEOS programmers and I'm sure he will help make Geoworks better.
+
+I had a point to make when I started this "day job" article and it's this: In order to have a quality
+magazine that publishes as much as LOADSTAR does, you need a guy who's dedicated (and
+unambitious) enough to devote 40+ hours a week to a job that has no future, no pension, and the salary
+of a typical LA cop. I'm that guy. Jeff is, too, although every now and then I detect a glimmer of
+ambition from him.
+
+Our job is to keep going and going, and offer a few hundred bucks a program to the loyal programmers
+who are getting better every year. We're the only company to spend up to $2000 a month to make sure
+that we get the best software written. Stay with us, tell your 8-bit friends about us, and buy our
+products when we come out with a good one, and we'll unambitiously amble on for years to come.
+That's all we're trying to do. Believe me, it's better for you that we don't want to get rich and set the
+world on fire.
+
+You wouldn't believe the pressure I get from all sorts of angles to get out of the "dead" Commodore
+field and into the IBM world, where "more people could enjoy my work." I think they think they're
+talking to an ambitious computer yuppie with decades of career ahead of him. I don't see myself that
+way at all.
+
+I just turned 50. I've done everything I wanted to do in life. I had a Huck Finn childhood, a John
+Lennon adolescence, a Jack Nicholson adulthood, and now I'm looking forward to a Timothy Leary
+old age. I want to work for ten more years and then get really serious about reading. I wouldn't be
+comfortable in a scene with testosterone-crazed junior capitalists whizzing by me on their way to some
+dubious success.
+
+(Fender Tucker is the Grand Exalted Mojo of LOADSTAR and the only person in the western hemisphere who
+communicates more slowly by Email than by Snail Mail. This phenomena has allowed us to claim with some degree
+of honesty that the above is used by permission, and should not be reprinted without his approval)
+
+via The Commodore Information Center web site (http://home.att.net/~rmestel/commodore.html)

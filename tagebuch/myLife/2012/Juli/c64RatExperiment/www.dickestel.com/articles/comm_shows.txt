@@ -1,0 +1,86 @@
+Three Approaches to a Commodore Computer Show
+
+by Robert Bernardo
+
+By the time this is read, two yearly events will have happened.  The Chicago Commodore Expo in
+Lansing, Illinois, and the Vintage Computer Festival 3.0 in Santa Clara, California.  The Chicago Expo
+is a Commodore-only celebration at the Day's Inn (formerly, Holiday Inn) on September 25.  The
+Vintage Computer Festival is a celebration of all vintage computers, held at the Santa Clara Convention
+Center on October 2-3.  These two autumn shows, along with the Lansing Area Commodore Club
+Expo (Okemos, Michigan) in May, comprise the best-known events which we Commodorians can
+attend here in the states.
+
+All three shows have a different flavor, a different style, and each complements the other.  The LACC
+Expo seems very local, like a big club activity.  The Chicago Expo gathers more people from afar, due
+to its more central location.  VCF is very California, Silicon Valley-based, and caters to archivists,
+historians, and collectors interested in the computer industry.  There is something in each which would
+please a Commodore fan.
+
+Need to feel a closeness and a personal touch in all the C= activities going on at a show? The LACC
+Expo I attended last year had about 50 people show up. Though the number was small in comparison
+to other computer shows (or large in comparison to other C= meetings), the attendees could really
+focus on the demonstrations and luminaries who appeared, such as Dale Sidebottom (president of
+Louisville Users of Commodore, Kentucky club) and Maurice Randall, GEOS programmer
+extrordinaire.  Dale showed what could be done with a Commodore and a Postscript printer, and
+Maurice officially introduced Wheels 64, the replacement/updated operating system for GEOS 64.  At
+this year's LACC Expo, Maurice introduced the beta version of GeoShell 3.0.  Size doesn't matter; the
+LACC Expo makes up for it by having big C= releases.
+
+Need a bigger C= Expo? The Chicago Expo I attended last year had about double the number of
+attendees with even more C= stars, Jason Compton (writer for CU Amiga magazine and Commodore
+World), Steve Judd, Mark Seelye, Nate Dannenberg, Todd Elliott, and Robin Harbron
+(programmers), Fender Tucker (LOADSTAR disk magazine and newsletter), Jim Butterfield
+(programmer/writer), Roger Lawhorn (GEOS programmer), Scott Parker (Centsible Software) and
+Dale Sidebottom and Maurice Randall again.  At that Chicago show, Maurice introduced Wheels 128,
+the replacement/updated operating system for GEOS 128.  Nate Dannenberg showed off his C128
+Tower and Quickcam interface/program.  Roger Lawhorn and Dale Sidebottom promoted their GEOS
+applications.  Jim Butterfield reminisced about Commodore programming in the 1980's.  Three
+Commodore C65's were shown; less than 200 of these prototypes were ever made by CBM.  Like the
+LACC Expo, these are the two shows to go to if you want your fill of Commodore.
+
+Need a show that's more general in nature? The Vintage Computer Festival may be the ticket.  At last
+year's VCF 2.0, many computer platforms from the 1980's and earlier were represented there, anything
+from parts for 1950's behemoths to IMSAI 8080's to Commodore PET's to Timex/Sinclair's to Apple
+II's to Tandy Color Computers to obscure, unknown computers.  The Computer Museum History
+Center had a large exhibit of historical computers, including many different Commodores.  These were
+usually hands-on displays; you actually got to work the computers.
+
+Larry Anderson, one of the exhibit docents and also SYSOP to the Silicon Realms BBS (209
+754-1363), was showing his collection of PET computers. Larry's 15 minutes of fame came when
+Desmond Crisis, TV reporter for the Sci-Fi cable show, CNet Central, interviewed him in front of the
+cameras. In fact, Desmond's entire report was on how people still used their vintage computers and
+attended a show such as VCF. (Unfortunately, I did not ever videotape the report from the program. 
+Desmond can be contacted at: CNet, 150 Chestnut St., San Francisco, CA 94111.  Phone: 415
+395-7805 ext. 1554.  FAX: 415 395-9205.  E-mail: desmondc@cnet.com)
+
+The VCF flea market had a wide variety of items for a wide variety of computers.  Commodore items
+were there for sale; from various vendors I was able to buy some Warpspeed and FastLoad cartridges,
+a Commodore Magic Voice cartridge; the programs, World Cup Soccer, Wizard of Oz, Alice in
+Wonderland, and Totl.Infomaster 3.6; an Animation Station drawing pad, a carrying bag for SX-64
+cables (the bag in mint condition!), and a few 1541 and 1571 disk drives (given for free, though I did
+make a donation).
+
+The featured speakers gave their talks in conference rooms, separate from the large flea market room. 
+At VCF 2.0 a lot of their talk went over my head as they spoke about the computing industry and
+programming in the 1960's or the 1970's.  Their insiders' jokes drew appreciative laughter from the
+programmers in the crowd, but because it was before my time in computers, I could only wonder.
+
+As you can see from the above, there is a type of show for most any Commodore fan.  To find out
+information about next year's shows, contact the following people:
+
+LACC Expo - Tim Lewis, president of LACC (lewist@arq.net), LACC, P.O. Box 1065, East
+Lansing, MI 48826, U.S.A.
+
+Chicago Commodore Expo - Randy Harris, president of the SouthWest Regional Association of
+Programmers (rgharris@aol.com), SWRAP User Group, Inc., P.O. Box 528232, Chicago, IL
+60652-8232, U.S.A..  Phone: 773 375-9017
+
+Vintage Computer Festival - Sam "Sellam" Ismail, organizer of VCF (siconic@jasmine.psyber.com),
+Vintage Computer Festival, 4275 Rosewood Dr. #29-161, Pleasanton, CA 94588, U.S.A.  Phone:
+888 SICONIC ext. 823.
+
+Without these people and their partners, we wouldn't have these fine shows in which we could
+celebrate Commodore.
+
+From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html

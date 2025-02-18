@@ -1,0 +1,71 @@
+CANON BJC-4000
+
+a Genie post by Maurice Randall via SWRAP, Oct 97
+
+
+Unlike the BJC-4100, the BJC-4000 does have dip switches and you can use it with your Commodore
+easier than you can the 4100. The dip switches are accessible from inside a cover on top of the printer.
+There are 13 switches numbered from 1 through 13. The main one is number 11. In the OFF position
+the printer is in BI mode and in the ON position it is in Epson mode. Here are the other settings while in
+BJ mode: 
+
+     1 OFF=letter width       ON=a4 width
+     2 OFF=normal        ON=text scale mode
+     3 OFF=11 inch length          ON=12 inch
+     4 OFF=character set 1    ON=character set 2
+     5,6,7 Set the character code page:
+     OFF,OFF,OFF
+     OFF,OFF,ON     850
+     OFF,ON,OFF     850
+     OFF,ON,ON      863
+     ON,OFF,OFF     865
+     ON,OFF,ON      850
+     ON,ON,OFF      850
+     ON,ON,ON       850
+     8 OFF=no auto linefeeds  ON=linefeeds
+     9 OFF=normal        ON=agm mode
+     10 OFF=64k buffer        ON=31k plus 41k download buffer
+     12 OFF=normal       ON=auto emulation switching mode
+     13 OFF=normal       ON=smoothing
+
+Now when you turn switch 11 ON, the printer is in Epson mode and the differences are as follows:
+
+     3 not used
+     4 OFF=italics set        ON=graphics set (characters)
+     5, 6, 7 international character set:
+     OFF,OFF,OFF    USA
+     OFF,OFF,ON     UK
+     OFF,ON,OFF     Germany
+     OFF,ON,ON      France
+     ON,OFF,OFF     Denmark
+     ON,OFF,ON      Sweden
+     ON,ON,OFF      Italy
+     ON,ON,ON       Spain
+8,9,10 sets the typeface
+     OFF,OFF,OFF    Roman
+     OFF,OFF,ON     Sans Serif
+     OFF,ON,OFF     Draft
+     OFF,ON,ON      Courier
+     ON,OFF,OFF     Prestige
+     ON,OFF,ON      Script
+     ON,ON,QFF      Orator
+     ON,ON,ON       Orator-S
+
+Changing the positions of the switches only takes effect the next time you turn the printer ON. So, if
+you make a change, nothing will happen until you turn the printer OFF and then back ON.   
+
+If you plan to use just text mode such as with Write Stuff, then Epson mode is recommended with
+switch 11 ON. Leave all other switches OFF unless you want to change the typeface with 8, 9, and 10.
+
+For programs that print graphics, try BJ mode with AGM turned ON. That would be all switches OFF
+except 9. This would help to simulate a 9-pin printer. If you have a printer driver that works with a 24
+pin Epson, then use the Epson mode with all switches OFF except 11.   In any mode you might want to
+experiment with switch 13 to turn the smoothing function ON. For some graphics that improves the
+appearance if the original is a low resolution image. For programs that can print in high resolution such
+as geoFAX, leave this turned OFF for best results.     
+
+Also for geoFAX, use the BJ mode with the Canon driver to get the best prints. It is far superior to the
+Epson driver. 
+
+From Bug Bytes, newsletter of the Treasure Valley/Boise User Group, January 1998, via The
+Commodore Information Center web site (http://home.att.net/~rmestel/commodore.html) 

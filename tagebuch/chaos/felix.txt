@@ -1,0 +1,27 @@
+
+
+Genialer Vortrag über Diselgate
+
+Wens nervt bitte mitteilen, dann nehme ich ihn aus dem (B)CC...
+
+
+TNX to tmbinc@elitedvb.net für diesen Genialen Vortrag :)
+
+https://media.ccc.de/v/33c3-7904-software_defined_emissions
+
+
+Frage an unsere beiden Physik-Hexen-Meister: gemäss dem kosmischen Mikrowellenspektroskopie [1] müssten ja Atome und Moleküle Energie reflektieren und absorbieren wenn man "zufällig" deren Schwingfrequenz trifft mit einem random SDR [2] und der Vortrag von Felix zeigt verdammt toll, wie closed source nach belieben an software rum-wurschteln ohne dass der Endkunde überhaupt eine Chance hat da mit zu bekommen was da wirklich im Hintergrnd pyhsikalisch abläuft, 
+
+...woher weiss ich jetzt, dass nicht mein Toaster oder TV noch irgend nen kleinen (weiteren) SDR drin hat (im Sinne eines eines Active Denial Systems; ) welches dann mein (Neuro-)Endokrines System komplett durcheinander bring und z.B. Morgens den Metabolismus für Melatonin zusätzlich anstösst oder abens den für Adrenalin oder Dopamin, oder wenn ich versuche Predikatenlogik zu "strebern" den für Oxytocin? (insbesondere eine Frage für die Endokrinologie Hächsen-Meister Level > 5 (im BCC weil Weiblein)?
+
+
+Gruss
+Marc Jr Landolt
+random nerviger Infromatiker HF
+Rombachtäli 13
+5022 Rombach
+CH-5022 Rombach
+
+
+[1] https://de.wikipedia.org/wiki/Mikrowellenspektroskopie
+[2] https://de.wikipedia.org/wiki/Software_Defined_Radio

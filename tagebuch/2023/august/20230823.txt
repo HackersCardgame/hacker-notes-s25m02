@@ -1,0 +1,68 @@
+habs nicht geschaut, nur die ersten paar Sekungen.
+
+Skoptic Syndrome ?
+
+Art:
+* real
+* fantasie
+* psyche
+
+Antrieb
+* intrinsisch
+* extrinsisch
+
+Motiv
+* Hilfeschrei
+* Rache (z.B. sich bei Untreue an ihrem/seinem Geburtstag umbringen)
+* die Hoffnung auf Blut-Magie (Neurologisch / Technisch / Neuralink-Technisch eher unwahrscheinlich, aber grundsätzlich könnte man einen EventTrigger auf so ein "Rital" auch in der militärischen 3D Überwachung implementieren mit Action Recognition Algorithmen. Dennoch gibt es meiner Meinung nach militärische overrides für Neuralink, womit dann die Blut-Magie auch irgendwie pointless wäre)
+* NICHT ABSCHLIESSEND
+
+Neuralink Overlays
+* Etwas s..uelles
+* "RawHammer Attack of the mind"
+(RawHammer Attack ist in der Informatik wenn man so häufig eine RAM Speicherstelle LIEST, dass dann das Bit gewechselt wird und man schreiben kann, mal ganz einfach ausgedrückt)
+Also auf der Leitung des Neuralink 3D Modell des "Rituals" einblenden 10000000x (Prägung), da gäbe es eine Prägungsphase, da gäbe es einen Entwickler, da gäbe es Source und somit die Option auf Code Fingerprinting
+* NICHT ABSCHLIESSEND
+
+Medulla Spinalis Neuralink
+* beteiligt
+* unbeteiligt
+
+Psychologie
+* Einwirkungsdauer (zB. ICD10 G40.2, zB Pegel nur 20%, Konditionierung / Algorithmen / Content) der Abrichtung falls extrinsisch
+* unter ICD10 F44.x
+* Versprechungen
+
+NICHT ABSCHLIESSEND
+* NICHT ABSCHLIESSEND
+* NICHT ABSCHLIESSEND
+
+zB. sich zu Ritzen, da unten mit Nadeln zu ... oder sich schwarze Brandflecke mit Strom zuzufügen hätte ich Erfahrung damit falls jemand mich als INHALTLICHE Laborratte zu dieser Thematik befragen möchte. Keine Angst, bei mir ist noch alles ganz bis auf eine Narbe auf meiner Stirn nach dem in einem Laden über die LadenKamera"Überwachung" (die nicht nur lesend zugreift) ICD10 G40.2 ausgelöst wurde. Das ist das was die Piraten ja immer sagen, Überwachung ist eher suboptimal.
+
+
+Persönliches Interesse: 
+n = ?
+
+
+Vorgehen um so etwas zu verhindern wenn man so etwas rechtzeitig erkennt mit überwachung, z.B. Action Recognition
+
+* Vertrauensperson (wo es sein kann dass es nur 1 oder gar keine mehr gibt)
+* Ablenkung (Telefon, Polizei, Nachbar der sich wegen Lärm beklagt...)
+
+
+Nach erfolgreichem Verhindern
+* Vermeidungsverhalten erzeugen, wie z.B. bei mir vor Hochhäusern
+-> wieder Action Recogition, bzw. wenn eine Kamera läuft Object recognition
+ —- nackt
+ —- Gegenstände
+ —- Location
+ —- NICHT ABSCHLIESSEND
+
+Anyway Problem: wenn es nur 1000 Arten von Objekten auf der Welt gäbe und man nur 3 davon nehmen würde, dann hätte man 166167000 [1] UseCases die man erkennen müsste, bei sagen wir NUR 10Mio betroffenen Bürgern in DE, RechenPower => FORGET IT
+
+binomial(1000,3) = 1.66167 × 10^8
+
+
+Also da habe ich irgendwie immer noch Fragen dazu.
+
+Juden zu ermorden, bzw. überhaupt irgendwen zu ermorden ist generell NICHT OK. Egal ob Hitler, Putin oder damals z.B. der Geogrge W. Bush, meine Frage Heute wäre, wie viel Einfluss hätte man mit damaliger Technologie auf Hitler nehmen können (Bild1) und als Christ kann ich zu 100% NICHT für die Juden sprechen, aber der Joseph Weizenbaum konnte das, und er hat gesagt "Richtigen Antisemitismus hätte er von seinem Vater erfahren"

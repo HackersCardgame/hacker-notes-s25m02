@@ -1,0 +1,66 @@
+How I Won Fame and Fortune as a Commodore Newsletter Editor
+
+by Dick Estel
+
+I have managed for most of my 60+ years to avoid joining organizations. I have belonged to two square
+dance clubs, the 4H Club, the YMCA Indian Maidens, and a computer club. Even when I joined, I
+managed to avoid being very active. I did not expect any change in this approach when I handed over
+$24 to become a member of the Fresno Commodore User Group/64UM in February, 1988.
+
+With only three months as a computer user behind me, I attended a couple of meetings, sat quietly and
+listened, copied disks from the library, and tried to learn as much as I could.
+
+Then came a fateful day when the editor of the newsletter announced that he could no longer continue
+the task. A volunteer was needed to take over. It would only take a few hours two nights a month. He
+would help the new editor get started. The silence was deafening. The president suggested that anyone
+who decided they might be interested could contact her later.
+
+Well, I was intrigued. I have been a newspaper editor or writer, mostly of amateur standing, since age
+13. I wrote and published a family newspaper on my Smith-Corona portable back then. I wrote for and
+edited my high school newspaper, wrote for the local weekly, and worked on my college paper, a fairly
+professional effort that came out three times a week. All this was of course far in the past, but it seemed
+like an appropriate opportunity to jump back into journalism. After the meeting I told the president that
+I would be willing to give it a try.
+
+Those of you who are my counterparts at other Commodore clubs can already imagine how extensive
+my training was. It consisted mostly of my predecessor delivering a box containing a stapler, glue stick,
+blank page forms, miscellaneous clip art, bulk mail forms and related items. He did patiently answer all
+my frantic questions by phone during the rocky first months. In fact, for several months he continued to
+print the newsletter text on his daisy wheel printer, while I printed headlines and graphics with Paperclip
+Publisher. This was followed by a lengthy session with the notorious glue stick, then the inevitable two
+trips to the print shop (drop off and pick up), several hours collating and stapling, and finally a visit to
+the bulk mail facility of the local post office.
+
+While I was happy with those early efforts, I also knew there could be something better. It seemed
+philosophically and morally wrong to produce a computer club newsletter with paste and an Xacto
+knife. I vowed to convert "my" newsletter to a true computer newsletter, despite the obvious limitations
+of Paperclip Publisher.
+
+Ultimately, of course, these limitations led me to decide that I would have to try geoPublish. I already
+owned GEOS 1.3, but had rarely used it. When the upgrade offer for GEOS 2.0 came out, I sent in my
+$29; and also ordered geoPublish and Desk Pack Plus. Graphics, words, and a way to put them all
+together--I was on my way to creating a real computer newsletter.
+
+In November, 1988, six of ten pages were created with geoPublish, and in December the first
+all-GEOS and all-computer issue of Tips, Pokes, Peeks & Jokes "hit the stands."
+
+In addition to the main part of the newsletter with Christmas graphics and special headings, I included a
+1989 calendar and a December calendar. The basic 1989 calendar was produced and printed with The
+Write Stuff word processor, with a border, heading and graphics created in geoPublish. The December
+calendar was done in a similar manner, using PrintMaster Plus for the dates and grid and geoPublish to
+jazz it up.
+
+Although the promised "two nights a month" were more like eight or ten, our newsletter (renamed the
+Interface in July) ultimately became 100% computer-made, and was something I was proud to have my
+name associated with.
+
+And the fortune? Well, admittedly that is still to come, and my fame is limited to occasional reprints of
+our articles (sometimes photocopied intact) in other user group publications. I have received quite a few
+compliments on the look of our newsletter from our own members as well as people I have heard from
+throughout the country.
+
+All in all doing the newsletter was the most fun thing I did with my Commodore, and I have never
+regretted taking that extra step that got me involved more deeply then I ever imagined in a computer
+club.
+
+From the Commodore Information Center, http://home.att.net/~rmestel/commodore.html

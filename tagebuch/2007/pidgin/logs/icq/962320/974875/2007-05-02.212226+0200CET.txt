@@ -1,0 +1,2 @@
+Conversation with 974875 at 02.05.2007 21::22::26 on 962320 (icq)
+(21:24:21) landev: ... ok jetzt frogi glich, weisch du wiso as es program wo nid i irgend em ne .../bin isch nur mit ./ vordra chasch starte? also weni es programm namens test1 schriibe und compileiere, dasis nur mit ./test1 chan starte usser i kopieres is z.B. /usr/bin, wos jo eigentli ned heghört

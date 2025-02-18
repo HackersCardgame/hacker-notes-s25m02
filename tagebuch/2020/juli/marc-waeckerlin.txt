@@ -1,0 +1,65 @@
+
+
+
+Marc Wäckerlin Marc Jr Landolt, erstens «Divide et Impera» bedingt, dass es etwas zu regieren gibt. Als Anarchist hingegen lehne ich Herrschaft ohnehin grundsätzlich ab und tue das, was ich für richtig halte. Dann solltest Du die Piraten (politische Partei) nicht mit der Digiges oder dem CCC (technische Orientierung) verwechseln.
+
+Dein PAM_USB tönt sehr interessant. Hast Du irgendwo eine Beschreibung, was technisch danihter steht und warum das fäschungssicher sein soll?
+
+Allerdings, digital ist mein aktuelles Freiheitsprojekt: https://pacta.cash → damit will ich den Menschen helfen, die sich wenig mit Kryptowährungen auskennen und ihnen einen einfachen Einstieg ermöglichen. Das schafft Freiheit und Unabhängigkeit dank weniger Überwachungs- und Kontrollmöglichkeit durch wen auch immer.
+
+Und mein anders Projekt ist https://pacta.vote → Sicheres Abstimmungsverfahren für jährliche Generalversammlungen mit manipulationssicherem Transaktionslog in der Blockchain.
+
+Weitere blockchain-/ kryptobasierte Projekte sind in Planung. Dafür habe ich sogar eigens eine Firma gegründet: https://pacta.ag, respektive Pacta AG.
+
+Was ich wieder auffrischen will, ist mein SafeChat (neu https://pacta.chat): Ein abhörsicheres Chat mit massiv reduzierten Metadaten. https://mrw.dev/webservices/safechat
+
+Somit bin ich freizeitmässig bereits mehr als ausgelastet…
+
+
+Marc Wäckerlin Allerdings könnte ich mir Dein PAM_USB unter Umständen zur Absicherung von Pacta.Cash (Wallets.Cash) vorstellen. Allerdings bräuchte ich dazu mehr technische Details, wie das umgesetzt wird.
+
+
+Um "Mr Burns" (aus Simpsons) zu Zitieren: pfff, diese Unwissenheit
+
+ACHTUNG: vieles hier wird mit dem Cyber-Zensurstift überlagert, einfach ausgedrückt, das Relevante wirst du "überlesen"
+
+Es gibt immer etwas zu regieren:
+Familie/Kinder
+Firma
+Parteien
+Polizei
+CISSP-Netzwerk
+Big-Data Datenbestände, bzw. die Gruppe der zulieferer und entwickler
+Justizen
+...
+
+das "Divide et Impera" ist ein scheiss Konzept dass leider fast überall Anwendung findet. Dann beim Wort Anarchie diskreditiert man sich gemäss der gängigen auslegung (die vom TV z.B. von so behinderten Filmen wie Mad Max geprägt wurden) meist selber
+
+Anarchie ist meiner Meinung nach nur dann eine legitime Einstellung wenn man als schweizer Bürger mit einem 400 Jährigen Aarauer Stammbaum und davor irgend einem noch längren Zürcher Stammbaum selbst versucht hat Misstände in Polizei, Justiz des Kanton Aargaus aufzudecken und zu korrigieren. Autisten haben so etwas wie einen Aufräum-Trieb und wollen Dinge korrekt eingeordnet haben. Da merkt man dann aber schnell, dass sobald man z.B. dem Polizist WM Michal Ritter Protokoll-Fälschung nachweisen kann oder dem Staatsanwalt Marco Spring dass er sich kaufen, schmieren oder erpressen lässt von reichen CISSP [DELETED: URS BLUM] pädokriminellen die ihre Töchter misshandeln und man das einfach nicht korrigieren kann weil ein Täternetzwerk (auch ein System) zwangsneurotisch versucht alle die davon Wissen zu kaufen, zu erpressen oder zu ermorden, bzw. heut zu Tage ist der Perfekte Mord ein induzierter Suizid, Bundesamt für Statistik: Selbstmord oder eben "Selbst"mord ist eine der häufigsten Todesursachen. 
+
+Dannoch kann man nicht Dinge wie ACAB, das ∀ ist definitiv falsch, denn z.B. junge Polizisten versuchen jeweils misstände auf ihrer Wache zu korrigieren. 20 Jährige erklären alles mit Filmen, da empfiehlt sich der "L.A. Crash" der genau das Theman behandelt, leider ein Drama. Den Film finde ich gut, weil ich bei der Kantonspolizei Aargau genau das beobachten konnte. Der junge Polizist merkt dass was schief läuft, versucht zu intervenieren und wird dann von Vorgesetzten runter gekanzelt. Ein schöner Euphemismus dafür verwendet er FEFE vom CCC: "Weisungsgebunden"
+
+Da eh immer und überall überwacht wird auch ohne eine Corona APP die gemäss Linuzifer vom CCC "nur" 20Mio gekostet hat in der Entwicklung (DE Variante). Vermutlich setzt sich das zusammen in 1Mio für die Überwachungsapp und 19Mio für "Code Obfuscation" und "Plausible Deniability", soweit aber nur Spekulation. Überwachungsdaten gibt es, sobald ein Polizist mal Scheisse gebaut hat hilft oft der Staat, der Staatsanwalt oder ein Vorgesetzter das zu vertuschen, "notiert" sich das aber und setzt es als Druckmittel ein um immer noch dümmeres Zeugs vom Polizisten zu verlangen. Sic Transit Gloria Mundi. Dann wenn es doch zu einem Gerichtsfall kommen würde weil das Opfer (ich) oder der Zeuge (ich) auch die Akten aufbewahrt hat wird z.B. ein Active Denial System aufgestellt (man mache das der US Army mit 500m Reichweite mal 10x kleiner und dann hat das die Grösse eines Toasters und natürlich auch nur noch 50m Reichweite). Schon kann man als Staat z.B. den Amtsarzt (der auch ein Preisschild an seiner "weissen" Weste hat) aktivieren und alles mit einem illegitimen StGB 59 vertuschen ähm "um dem Zeugen zu /helfen/".
+
+StGB Art. 59 kann grundsätlich unabhängig von Schuld ausgesprchen werden. Eines der grössten Löcher im Justizsystem, das wird rege missbraucht um Täter, Opfer und auch Zeugen an der Justiz vorbei zu schmuggeln. Dazu braucht man nur einen Psychiater und/oder einen Amtsarzt mit Preisschild der einen Wisch unterschreibt. Danach wird man mit intelligenzmindernder Psychopharamaka behandelt und ist spätestens nach 3 Monaten so dumm wie ein Stück #Toastbrot, und ja dann kann man auch gut die Gerichtsverhandlung noch nachholen, denn der Zeuge (ich) ist ja jetzt ge-headshot-et.
+
+Also aus so einer Lage hinaus zu sagen, der Staat ist eine Anarchie, das wäre dann wohl der richtige Use-Case für das Wort.
+
+Das PAM_USB ist nicht meins, das hat der afaik der Andrea Luzzardi entwickelt, es benutzt einerseits die Hardware ID des handelsüblichen USB Sticks die's ab 3.-- gibt, zweitens ein one-time-pad dass jedes mal gewechselet wird. Wenn man das Twitter Profil oder seine Github aktivität betrachtet merkt man dass er dann irgendwann wohl auch Ärger hatte, das Projekt Discontinued hat. Viele haben es geforkt als es dann vor 2 Debian Distros nicht mehr lief aber keiner hat es gefixt. Deshalb Cyber-Massengrab. Mein Fix läuft auf buster und bullseye, aber da fehlt eben noch das one-time-pad. Das einzige was das PAM_USB macht, ist dass es verhindert, dass jemand über i²c text injected oder den computer remote verwendet. um z.B. ein Script zu starten dass irgend zB nen FinSpy installiert oder so. Jacob Applebaum: "see for additional chips" ... "they do this up to 8 miles" (Findest Du im Transcript von To Protect and infect Part 2, dann musst du nicht das ganze video des technischen Begleiters der Snowden Leaks und jüdischen Informatik Professors Jacob Applebaum schauen) bzw. so etwas wie eine Kleine Verwahrung gibt es scheinbar in USA auch, die Mutter von Jake wurde in die Psychiatrie abgeräumt und permanent zu den Jouranlistischen Tätikeiten ihres Sohns befragt und auch mit Psychopharmaka voll gepumt, oder mit BZ oder irgend so einem Schiess.
+
+Die wollen das Projekt PAM_USB nicht, denn dadurch würde wieteres auffliegen. Kann man mit PAM_USB i²c Backdoors ausschliessen, dann müssten die was wie IntelME oder Equation Group verwenden
+Jacke: "Basically the NSA, they want to be able to spy on you, and if they have 10 different options for spying on you that you know about, they have 13 ways of doing it and they do all 13." intel ME bräuchte aber Internet Verbindung, also wenn man den Edge Router ausgeschlatet hat können die das auch nicht brauchen. Das selbe mit Equation Group, AUSSER die hätten in jedem Festplatten Controller noch etwas wie EyeFI eingebaut, bzw. Tempest / inverse Tempest. Als ich an der FHNW angefragt habe was es kosten würde das Elektronen Mikroskop zu brauche um mal so einen Festplatten Controller genauer anzuschauen haben die mich wieder mit einem "legitimen" StGB Art 59 (Kleine Verwahrung) abgeräumt. Die Frage blieb unbeantwortet, womit man dann auch ein grösseres HUMINT-Netzwerk in der Schweiz Rückschlüsse ziehen muss.
+
+Dann Dein Projekt: Prove of Work oder Prove of Share?
+ausserdem ist das sogar ein sehr CCC lastiges Thema: https://media.ccc.de/v/33c3-7824-einfuhrung_zu_blockchains (der Vimja ist bei den Bernern CCC, ein bisschen lampenscheu aber gute erklärt)
+
+ 
+Psychologische Ebene
+1. Machtmittel
+2. Machtmittel-Missbrauch
+3. Zwangsneurotischer Machterhalt -> goto 2.
+
+
+
+
+

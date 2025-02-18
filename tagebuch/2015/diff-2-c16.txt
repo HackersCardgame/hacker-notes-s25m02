@@ -1,0 +1,2 @@
+File /media/marc/f793f967-a323-415f-afeb-000bc29caade/Daten.2013/cups-sane/dev/log is a socket while file /home/marc/Daten.2013/cups-sane/dev/log is a socket
+File /media/marc/f793f967-a323-415f-afeb-000bc29caade/Daten.2013/cups-sane/dev/xconsole is a fifo while file /home/marc/Daten.2013/cups-sane/dev/xconsole is a fifo

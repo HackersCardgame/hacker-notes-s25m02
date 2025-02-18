@@ -1,0 +1,52 @@
+Fixing Keyboards
+
+by Rolf Miller
+
+I recently acquired a 128 from one who gave up Commodore use in favor of a bigger PC.  To be fair,
+switching in some instances is logical.  But it didn't make sense to me in this case.  The user is now
+wrestling with learning the new machine to accomplish exactly the same work previously done with the
+Commodore. 
+
+When I come to possess cast-off equipment, checking it out is the next order of business.  Hooking up
+this machine quickly revealed an all but nonfunctioning keyboard.  In other words, the previous user is
+now learning how to make that bigger PC do what he could no longer get done on his Commodore. 
+
+I don't know about you, but the joy of using my Commodores is directly related to how well the
+keyboard works.  So I can understand the frustration this keyboard must have caused.  What I don't
+understand is why the user didn't either clean it or install a replacement. Cleaning a keyboard is not
+particularly difficult.  Yes, it does involve some soldering and fussing with a zillion little tiny screws. But
+in spite of that, it can be accomplished in a couple of hours. 
+
+However, keyboard surgery is not the only choice available. Excellent working used C128 keyboards
+can be had for $29, including priority mail shipping to a U.S. address.  Likewise, a C64 keyboard is
+$19.  A C64C keyboard is $24 (note that a C64 keyboard with its dark keys can be used in place of
+the white C64C keyboard). 
+
+Cleaning or replacing a keyboard requires opening up the computer.  So flip it over and remove the
+securing screws (3 on the 64, 6 on the 128).  Turn it upright and separate the top case by lifting from
+the front (the C64C and 128 may need some careful prying, and the 128 has a grounding strap
+attached to the keyboard which needs to be removed from the motherboard).  
+
+Unplug the keyboard along with the power light.  Unscrew the keyboard (on the original 64 and 128, it
+is attached to the top case, and make note of how the power light on the 128 is secured.) If replacing
+the keyboard, just exchange it, plug things back in, and button up. To clean it, unsolder the shift lock
+key on the 64 and additionally the caps lock and 40/80 column switches on the 128 (or just cut the
+wires close to the solder).  Then remove all those little Phillips screws and lift the back off.  It looks like
+a printed circuit board with little pads.  
+
+A two-pronged carbonized rubber foot connected to the key shaft makes contact with these pads when
+pressed. If a key needs replacing, do it now.  The keys consists of a key cap, a small spring, and the
+afore mentioned key shaft with carbonized rubber foot attached.  To remove a key, pull the cap off (it
+may require a little carefully prying up) and remove the rest of it from the keyboard.  Replace the
+necessary parts and reassemble.  (Discarded keyboards are a good source for parts.) 
+
+Clean all of the pads on the board with a cotton cloth and 91% isopropyl alcohol (not rubbing alcohol
+-- it leaves a film).  On the 64, the pads should appear shiny.  On the 128, the pads are covered with
+carbonized rubber and should appear dull.  Then carefully wipe all the carbon feet on the keys till any
+shine is gone.  Do not use sand paper or other abrasives on either the pads or the key feet. Wisdom
+suggests testing the results before reassembling everything.  So, do enough screws to hold the board
+securely, and on the 128 resolder the 40/80 key.  Then plug the keyboard in, turn on, and press
+EVERY key.  Note any key that needs work.  If recleaning does not solve the problem, rub a little
+black pencil lead on both the contact pads and the two prongs of feet.
+
+(From Homestead Commodore http://cbm.videocam.net.au/homestead/)

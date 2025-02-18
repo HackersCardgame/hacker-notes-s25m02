@@ -1,0 +1,30 @@
+Fri Aug 27 08:58:02 CEST 2021
+0 0 0 20210827.txt
+
+Furby 1.0 - ModeChange("Meeeeee sleeeeeeeeep again")
+
+Fri Aug 27 08:58:28 CEST 2021
+  6  16 105 20210827.txt
+[main 9b9dd03] save
+ 1 file changed, 6 insertions(+)
+ create mode 100644 tagebuch/2021/august/20210827.txt
+518ac1f797b68dd75ccb250872804928f70b1b0f54cce132a2bc03524f7a486cbd672c443bd3f642dd8e993f39923109d6f1bfc655ebbdf925169474d234dd0c  20210827.txt
+
+es ist für die Eltern der 1980er Kinder einfacher die 
+
+- Juden
+- Kinder
+- Moslems
+- Christen / (Cyber)mönche 
+
+zu beschuldigen und zu terrorisieren, als sich damit auseinanderzusetzen, dass die eltern der 1980er Kinder beteiligt sind an massenmord für billiges öl, ramsch der "zaubern" kann ...
+
+
+die Lost-Generation(s) sind die menschen die vor 1970 geboren sind...
+
+Fri Aug 27 19:49:27 CEST 2021
+ 25  97 784 20210827.txt
+[main a3f1d74] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+9fdaa1b4e78294067733be7058c0fe0fa8c8dc0d03bd0c74be1c34c72fb5721a26d8cfa369b46e31a2e578467337356275853a934e5d827faed280dc7d2d8ef3  20210827.txt
+

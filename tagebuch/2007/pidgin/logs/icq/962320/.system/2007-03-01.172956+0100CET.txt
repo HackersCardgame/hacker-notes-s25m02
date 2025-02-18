@@ -1,0 +1,25 @@
+System log for account 962320 (icq) connected at 01.03.2007 17::29::56
+---- +++ 962320 hat sich angemeldet @ 2007-03-01 17:29:56 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-03-01 17:29:56 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-03-01 17:29:56 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-03-01 17:29:56 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-03-01 17:29:56 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-03-01 17:29:56 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-01 17:34:36 ----
+---- Schööfli wurde untätig @ 2007-03-01 17:34:39 ----
+---- +++ 962320 wurde untätig @ 2007-03-01 17:37:42 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-01 17:57:46 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-01 18:27:30 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-01 18:28:35 ----
+---- Schööfli hat den Status von Abwesend zu Offline geändert @ 2007-03-01 18:39:11 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-03-01 19:10:37 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-03-01 19:36:32 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-03-01 19:48:46 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-03-01 19:49:16 ----
+---- stefan hat den Status von Abwesend zu Offline geändert @ 2007-03-01 19:51:58 ----
+---- +++ 962320 wurde untätig @ 2007-03-01 19:46:49 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-03-02 06:23:00 ----

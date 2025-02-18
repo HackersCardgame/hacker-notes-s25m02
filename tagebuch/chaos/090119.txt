@@ -1,0 +1,101 @@
+Tagebuch Mon Jan 19 18:46:44 CET 2009 @ ns2.ignored.ch
+
+Hypothese
+---------
+jeder der Behauptet JSP Tags sein sinnlos ist am krampfen und sich nicht bewusst welche fähigkeiten er hat.
+designpattern informatiker: halt chlii und halt äng was sich wiiite cha... 
+
+naja ich will keine steine werfen, es ist viel besser als fabrik.
+
+
+Tagebuch Mon Jan 19 20:12:28 CET 2009 @ ns2.ignored.ch
+
+eigentlich war es ja gut gemeint: andreas wünscht mehr störungen zu machen, ich biete an einen monat die ganze kundenadministration zu machen
+
+das problem dabei ist, dass es (bewusst oder nciht) nicos designpattern Marketing/Verkauf, Kundenadministration, Technik sprengt.
+im idealfall, das war mein grundgedanke, bin ich danach super in kundenadministration und kenne auch die spezialfälle
+und andreas kann support und kennt dort auch die spezialfälle, debei (mein fehler) habe ich vergessen, dass ich schon seit ewigkeiten mich täglich
+weiterbilde was informatik angeht. 
+
+jetzt gibt es 2 möglichkeiten, andreas bekommt nur einfache probleme, mit einigen rückfragen an mich, die ich (das sollte ich vermutlich noch lernen) auf nicht rechthaberische art beantworten
+sollte.
+oder es kommen probleme die er nie lösen kann, dann wird er aber vermutlich frustriert resignieren, und das kann nciht ziel eines bildungssystems sein.
+
+
+
+
+(ich versuche das zu lösen und nciht steine zu werfen)
+
+lösung für mich ist zu üben, also war der monat tausch schon auch weil andreas explizit gewünscht hat mehr störungen zu machen, aber auch da ich hohe anforderungen an mich habe
+und das in den griff bekommen will. jetzt habe ich aber hohe erwartungen an mich, bzw, als ältestes geschwister hat die welt einfach hohe erwartungen an mich und so ist das problem folgendes:
+wenn ich jetzt sehen würde, dass andreas job, mal abgesehen von einer ersten januarhälfte, gemütlich ist, weniger sorgen kunden zu verlieren weil die leistung allenfalls nciht gut
+ist, usw... einfach routinearbeit, dann wurde mein (beschissenes) unterbewusstsein danach dies als weniger wert betrachten.
+
+ausserdem was sagt tommen eigentlich zu jobrotation, der sagt doch gut, gut für redundanz etc. aber wenn einer nun alle "spirits taken" ist er auch eine gefahr und 
+
+man erschlage mich mit einer bibel, wenn ich (abgesehen davon wenn ich es irgendwie erarbeitet oder verdient habe) mir zu viel herausnehme, aber mit eine ez wohnung und mit ohne auto besteht
+die gefahr wohl noch nicht....
+
+sinnvollerweise, wenn es andreas lernen will, dann müssen es baby schritte sein (siehe dofer film mit dem fisch im glas um den hals)
+
+dann wäre es durchaus sinnvoll es so zu machen: mach mal, ich kontrolliere es dann, wie es gpr heute gemacht hat.
+dann loben? 
+
+eben wie gesagt, anforderung, man setzt ein linux auf, redhat, danach löscht man es und setzt ein suse, danach ein ubuntu und dann ein debian  auf
+--> meine fachmänische meinung, ohne fleiss kein preis...., dann natürlcih auch ein windows und nochmals und nochmals... dann spiele man mit dns, bind, virtualhosts, php, ....
+compiliere mal irgendwas, schreibe ein bisschen javacode, oder c oder so... man einverleibe oop, mann das kann man gar nicht so schnell lernen.
+
+plan a:
+gescheite literatur finden wie:
+lamp in 21 tagen, z.B. .htaccess
+
+plan b:
+auf .htaccess hinweisen, aber ohne die fähigkeit die lösung selber zu finden...
+lernen lernen
+
+plan c:
+man ist nicht redundant, und dokumentiert aber fleissig, dann können nachfolger (man ich hoffe ich muss nicht schon wieder in nächste städtele) nachlesen können.
+--> einen monat ferien (diplomarbeit) am stück, so könnte man allenfalls schauen ob das knowhow vorhanden ist
+
+weshalb will ich mich eigentlich entbehrlich machen?
+naja es ist das gegenteil von unetbehrlich und filz. also ehre....
+wobei man sich fragen sollte ist unentbehrlich wirklich filz, in einer grossen firma bestimmt, aber in einer kleinen?
+
+moment, das wäre eigentlcih noch redundant, sie könnten witty zurücknehmen
+
+
+
+Mensch				Technik-Fähigkeiten
+
+
+gleichniss des sähmanns
+
+konvergenz oder besser nächstenliebe
+
+nachfolger vom nachfolger vom nachfolger
+
+nur der wechsel ist beständig
+
+also ist:
+nicht redundant
+
+soll:
+redundant, depmod kostengünstig, also intern
+
+
+typ a: will sich weiterenrwicken, auch wenn er nie mehr ferien hat
+
+typ b: will in den ausgang
+
+
+hypothese: treibende kraft bei andi ist keine kundenadmin mehr zu machen
+ps cs4 kurs, rpg
+netzwerkkurs: lam
+
+ich schlechte algebranote, gegenbeweis 6.0 in einem ts semester, ok ich habe ein jahr gekrampft....
+andreas, schlechte note im netzwerkzeug, gegenbeweis
+
+
+
+Tagebuch Mon Jan 19 22:42:22 CET 2009 @ ns2.ignored.ch
+

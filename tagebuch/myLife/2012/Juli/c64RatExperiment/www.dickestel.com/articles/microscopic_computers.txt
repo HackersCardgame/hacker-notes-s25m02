@@ -1,0 +1,61 @@
+Microscopic Computers
+
+The first computers utilized vacuum tubes.  Besides requiring a great deal of power to operate, they
+were bulky, which in turn made the processing speed slow. 
+
+The development of the transistor provided the first leg up toward the modern computer.  Besides
+requiring less power to operate, the transistor's smaller size increased processing speeds. 
+
+Then came the silicon chip.  This device allowed the creation of many transistors and other circuits in
+one small package.  And the more transistors that could be placed on a chip, the faster it could process
+data. 
+
+Miniaturization followed which allowed even more transistors and circuits to be placed on a chip. 
+Processing speeds doubled and quadrupled.  It also allowed development of smaller chips and
+components for truly compact equipment like laptops. 
+
+However, there is a limit to this silicon based technology.  And the methods used to make chips are
+rapidly reaching the point where further miniaturization will not be possible.  In other words, if computer
+power is to increase further, a replacement for silicon chips must be found. 
+
+According to news sources, the answer may already be more than just an idea.  One report speaks of
+researchers who are trying to make computers using molecular circuits.  They believe it is possible to
+chemically synthesized circuit components to create the electronics otherwise provided by the circuits
+on silicon chips.  In fact, there are reports that a basic element of computer circuitry, the logic gate, has
+already been accomplished, at least to some degree, using synthetic molecules. 
+
+A computer based on molecular technology would redefine what is now thought to be super-fast. 
+Furthermore, they would be very efficient.  For example, a laptop consisting of molecular circuits could
+run for years on nothing more than a hearing-aid battery.  After all, it only takes one electron to open or
+close a single molecule switch.  So, a molecular computer could perform trillions of operations per
+second on just one watt of power. 
+
+Besides being cheaper to operate, molecular circuits would cost less to manufacture.  The reasoning
+behind this conclusion may seem somewhat odd, but necessity is the mother of invention.  Anything
+made chemically will invariably contain defects.  Thus, in order to make a computer consisting of
+chemically synthesized components work, a means must be found to work around the defects.  It is
+thought that new software will provide the answer.  Indeed, such programming is already being
+developed.  For instance, a computer with deliberately installed defective components was made to
+work using software designed to detect the bad parts and reroute functions around them. Hence, the
+highly expensive manufacturing facilities needed to produce the needed near-perfect silicon chip would
+not be a factor in the fabrication of molecular circuitry. 
+
+The real benefit of molecular computers, though, would be size. Whereas computers today can be built
+into little packages, "little" hardly describes a computer the size of a bacterium.  Imagine a computer
+smaller than a blood cell! It is conceivable that such a device could be injected into a human body to
+perform medical diagnostics. 
+
+Microscopic computers, though, would not be limited to use in the medical field.  Intelligent roads
+created with computerized concrete could eliminate the driver.  Paint capable of changing color on
+command could be made.  Nanocomputers woven into fabrics would create "smart clothes." When
+computers become the size dust particles, there is little limit to what could be computerized. 
+
+Needless to say, the government is very much interested in the development of molecular electronics. 
+The success of "Smart" weaponry relies on sophisticated computer technology.  The space required by
+electronic components, along with the required power source is critical.  It is not surprising, then, to find
+a good deal of funding for research into low-power, ultraminiaturized electronic components coming
+from the Defense Department.  The projects are also of interest to NASA in both their space station
+and unmanned spacecraft research.
+
+(From CIVIC 64/128 Gazette, Oxnard-Ventura CA, October 1999, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html)

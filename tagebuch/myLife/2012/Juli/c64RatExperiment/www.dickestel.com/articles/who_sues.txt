@@ -1,0 +1,24 @@
+WHO'S SUING WHO
+
+The computer-related legal arena has been active lately.  According to an article in the December
+COMPUTE, the League for Programming Freedom  has been formed to protest the increase in "look
+and feel" lawsuits.
+
+The controversy got under way several years ago when Apple sued Microsoft, claiming that the latter's
+Windows infringed on the appearance of the user interface on the Macintosh.  Computer industry
+observers have pointed out that the "point and click" interface was actually first developed by Xerox,
+and indeed, Xerox later sued Apple.
+
+The LPF claims that such suits are comparable to someone filing a user-interface copyright on the
+steering wheel.
+
+The league recently picketed Lotus Development, makers of the leading PC spreadsheet, Lotus 1-2-3,
+carrying signs that read "Can Las Vegas Sue Atlantic City?"
+
+In a related development, news services recently reported that a judge has ruled that Ashton-Tate's
+DBase, the most widely used PC data base program, is based on a public domain program developed
+by programmers at Jet Propulsion Laboratories.  Industry observers said the ruling could topple the
+software giant if it is not reversed.
+
+(From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html, 2/9)

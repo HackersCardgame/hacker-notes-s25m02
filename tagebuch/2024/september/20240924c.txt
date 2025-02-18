@@ -1,0 +1,18 @@
+----=====  Tue Sep 24 19:07:38 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 8c507fbd2e524093017e8f2795f9a4c2c38c3b62 ====----
+[main 94856678] ... 8c507fbd2e524093017e8f2795f9a4c2c38c3b62
+ 1 file changed, 33 insertions(+)
+ create mode 100644 tagebuch/2024/september/20240924c.txt
+
+lieeebe doofe gleichaltrige AgePlAY Mami
+
+ich habe fuer Herrn Offizier UPC Docsis 3.1 Modem mit Wireless einen ganz TOLLEN Hut gebastelt, inklusive Lueftungsloch damit er im Kopf keinen Hitzestau bekommt
+
+Fotos: im selben git commit im FUN verzeichnis
+ich muss da unbedingt noch ein animiertes gif draus machen
+
+----=====  Tue Sep 24 19:10:18 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 948566788926ab1be18556e057bd9b15a8f30c23 ====----
+[main d9770d81] ... 948566788926ab1be18556e057bd9b15a8f30c23
+ 3 files changed, 8 insertions(+), 30 deletions(-)
+ create mode 100644 FUN/DSC05273.JPG
+ create mode 100644 FUN/DSC05274.JPG
+

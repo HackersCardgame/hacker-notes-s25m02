@@ -1,0 +1,64 @@
+DCMR REVIEW
+
+by Dick Estel
+
+There are probably a dozen or more usable programs for organizing disks. One that has been around
+for a long time is still one of the best: Disk Cataloguer/Manager/Reporter, commonly known as DCMR. 
+It's simple, easy-to-use and flexible.
+
+If you're like most computerists, you have a pile of disks on your computer desk, and several boxes
+containing some excellent programs you just might need and use, if you could only find them.
+
+DCMR allows the cataloguing of up to 2100 files, which can be sorted by ID number or alphabetically. 
+A sort by ID number places the files for each disk in alphabetical order in their grouping.  
+
+The file can be printed out in several formats.  The most compact is six columns of condensed type (if
+your printer supports this).  The entire catalog for the Disk of the Month from 9/88 to 8/90 takes up a
+little less than two pages in this format.
+
+Data can be entered from the keyboard, or read from the directory.  The normal way of starting a
+catalog would be to read in the file names from disk.  Once this is accomplished, there are a number of
+editing capabilities.  Many programs are made up of several files.  You would want to include only the
+main program name in your catalog, so you can remove the unwanted names simply by pressing
+[CONTROL] D.  [CONTROL] S selects a whole screen.  You can also make any desired changes
+from the keyboard.
+
+The system uses a four character ID (not the disk ID), which allows from some additional coding.  For
+example, I catalogued the Disks of the Month by date, using the format 9004 for April, 1990, 8909 for
+September, 1989, etc.  You could use a mnemonic beginning letter such as G for graphics, which
+would allow up to a thousand different ID numbers (G000 through G999).  Obviously you need to note
+this number on the disk label and file the disks in some sort of organized way for this system to be of
+any value.
+
+The program reads the directory very quickly, and unless you are doing a lot of editing, you can catalog
+a half dozen disks in five or ten minutes.
+
+My philosophy is that all Commodore programs should work with the 1581 disk drive.  DCMR was
+created well before the 1581 was released, but it works fine.  I file copied the program to a 1581, and
+have been able to load from it, save to it, and catalog 1581 disks. (1999 note: It also works perfectly
+with the CMD hard drive.)
+
+The 2100 file limit can be a drawback if you are trying to catalog a set of programs with a lot of file
+names.  For example, Lloyd Warren catalogued the new 64UM graphics collection, which has over
+6,000 graphics.  Since many of these were repetitions with only a number designator (i.e., Dog 1
+through Dog 88), he was able to get around this by listing Dog only once (all Dogs are on the same
+disk).  It would be a problem if your 88 Dog graphics were scattered over a dozen different disks.
+
+Another drawback is the fact that saving a file does not automatically scratch the old version, so you
+must either give the file a new name each time you update it, or use the DOS command option to
+scratch it.
+
+I thought this program was easier to use than the commercial program Supercat, which retails for about
+$25 (the author of DCMR requests a $5 shareware contribution).  Although there is a lot of disk
+swapping if you are cataloguing many disks, it works well with a two-drive system, in any combination
+of 1541, 1571, 1581 and/or hard drive.
+
+Overall I found this program to be an excellent one and as soon as I can find the disk it is on I am going
+to start cataloguing those piles and boxes of disks.
+
+From "The Interface," newsletter of Fresno Commodore User Group 
+
+POSTSCRIPT: After this article appeared in a 1999 Interface, the editor of the Louisville KY club
+newsletter got in touch with program author Ray Martin, who is a former member of that club and still
+lives in the area. Mr. Martin was pleased that his program is still in use, and released it to the public
+domain.

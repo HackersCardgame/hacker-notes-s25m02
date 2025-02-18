@@ -1,0 +1,98 @@
+.cc_banner-wrapper {
+    z-index: 9001;
+    position: relative;
+}
+.cc_container {
+    position: fixed;
+    overflow: hidden;
+    padding: 10px;
+    left: 0px;
+    right: 0px;
+    font-family: "Helvetica Neue Light","HelveticaNeue-Light","Helvetica Neue",Calibri,Helvetica,Arial;
+    font-size: 16px;
+    color: #fdfdfd;
+    background-color: rgba(0, 0, 0, 0.7);
+    box-sizing: border-box;
+}
+.cc_container : : -moz-selection {
+    color: #fff;
+    background: #ff5e99;
+    text-shadow: none;
+}
+.cc_container a,
+.cc_container a: visited {
+    text-decoration: none;
+    color: #31a8f0;
+    transition: 200ms color;
+}
+.cc_container a: hover,
+.cc_container a: active {
+    color: #b2f7ff;
+}
+.cc_container .cc_btn {
+    display: block;
+    float: right;
+    padding: 8px 10px;
+    width: 33%;
+    max-width: 120px;
+    font-size: 0.6em;
+    text-align: center;
+    line-height: 1em;
+    white-space: nowrap;
+    text-decoration: underline;
+    color: #000;
+    background-color: #f7f7f7;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.cc_container .cc_message {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    font-size: 0.6em;
+    line-height: 1.5em;
+    transition: font-size 200ms;
+}
+
+.cc_container .cc_message a{
+    color:#fff;
+    text-decoration:underline;
+}
+
+.cc_container .cc_message a:hover{
+    text-decoration:none;
+}
+
+@media screen and (min-width: 500px) {
+    .cc_container .cc_btn {
+        font-size: 0.8em;
+    }
+    .cc_container .cc_message {
+        margin-top: 0.5em;
+        font-size: 0.8em;
+    }
+}
+@media screen and (min-width: 768px) {
+    .cc_container {
+        padding: 15px 30px 15px;
+    }
+    .cc_container .cc_btn {
+        font-size: 1em;
+    }
+    .cc_container .cc_message {
+        font-size: 1em;
+        line-height: 1em;
+    }
+}
+@media screen and (min-width: 992px) {
+    .cc_container .cc_message {
+        font-size: 1em;
+    }
+}
+@media print {
+    .cc_banner-wrapper,
+    .cc_container {
+        display: none;
+    }
+}

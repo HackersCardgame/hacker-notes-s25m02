@@ -1,0 +1,97 @@
+Tagebuch Wed 17 Jun 2020 12:49:04 AM CEST @ debian
+
+
+schleusener lenkt ein und entschuldigt sich oder häuchelt es zumindest und nein ich traue ihm nicht weil er zuerst einen auf: ja man kann ohne medis und dann trotzdem zwangsmediziert, ist sicher nonverbal oder auch verbal eine lüge, ich hasse lügen
+
+unbeantwortete fragen:
+
+hat irgendwer am medikamenten-ausgabe-computer-system rumgefummelt? dies abzuklären hat für mich einfach hohe priorität weil so menschenleben gefährdet würden falls dem so ist
+müsste man die computersysteme forensisch untersuchen
+
+unknown:
+ich wolle dem schleusener nur eines reinbremsen
+
+ich:
+nein ich will eigentlich antworten, er hält viele infos zurück, in der informatik zumindest sollte man nicht security through obscurity betreiben, denn nur weil man z.B.
+einen crypto-algorithmus geheimhält ist er nicht sicherer. eigentlich sollte man den algorithmus sogar veröffentlichen und ein preisgeld ausschreiben für den der den
+crypto-algrithmus brechen kann. logsicherweise gibt man den schlüssel/key nicht raus, aber den algorithmus, und wenn der algorithmus der öffentlichkeit standhält
+wäre es eingntlich besser als eifnach den algorithmus geheim zu halten und zu hoffen, dass weil ihn niemand kennt er auch sicher sei.
+
+
+
+Dann beschäftigt und verfolgt mich logischerweise der Tod von Andree Brunner (afaik patient von dr. colambos), als ich sie dazu frage bietet sie den zahnder auf, ihren vorgesetzen
+statt zu helfen weshalb der Andree Brunner Rombachtäli 11/4 gestorben ist, ob das am Latuda war dass ihm verordnet wurde, ob der name latuda nicht so ein bisschen anklagend ist
+dass er ein larifari gewesen sein soll, und vielleihct war er das gerade nicht, da er bei seinem arbeitgeber (afaik ware er irgendwas mit buchhaltung) rausgeschmissen wurde
+und von meinem leben weiss ich, dass man meistens dann rausgeschmissen wird, wenn man berechtige kritik übt. dann ein medikament mit dem namen latuda das so nach lari fari tönt
+würde sicher stress induzieren, afaik ist er an einem herzinfarkt gestorben.
+
+Dann hören sagen von Reto Biland, die Frau eines Nachbarn von ihm wäre an einer überdosis Valium gestorben, wie ich gehört habe, kann man sich nicht mit valium unbringen (da bin
+ihc aber zu wenig bzw. gar nicht spezialist für pharmakologie) deshalb wäre wenn das Meikamenten-verwaltungs-computer-system gehackt ist das sicher etwas was man nicht
+unter den teppich kehren sollte. Aber als ich fr. dr. colambos dazu befragt habe hat sie auch einfach ihren chef den zahnder geholt und mir wurde so zu sagen wieder mal
+der mund verboten
+
+generell mag ich geheimhaltung nicht, weil sobald man geheimhalten darf wird man dieses Lehen auch zum vertuschen brauchen, das Konzept des Beichtens erachte ich als sinnvoller,
+was nicht heisst, dass man einer patientin die man z.B unter rohypnol vergewaltigt hat das sagen könnte, insbesondere wenn man massiv älter ist als sie, denn die chance dass
+sie sich deswegen umbringt zu gross. hat man so etwas gemacht wird man so verdammt ein lebenlang dinge zu vertuschen bzw. "geheim zu halten", bzw. liest man sich in den 
+Epstein fall ein sieht man, dass der Epstein explizit alte männer angestiftet hat 14 jährige mädchen zu vergewaltigen um sie dann damit zu erpressen....
+
+des weitern habe ich 13 Jahre vor snowden gesagt, "Das ABB firmennetzwerk der Flexiblen automation ag zh ist irgendwie unterwandert" kurz darauf kam ich ins psychiatriewesen
+und da gibt es shcöne protokolle wo so dinge drinn stehen wie "der marc jr landolt spinnt ja und hat das gefühl computer seine unterwandert", als dann aber 13 jahre später
+der snowden das aufdeckt will man einfach nicht darüber reden, hab nie eine entschuldigung gehört. des weiteren hätte man im 2000 auf mich gehört und das analysiert was ich 
+behauptet habe, wäre allenfalls die ABB nicht fast drauf gegangen. ich denke (quellenangabe: Hacking Exposed 1. Ausgabe) da wurde zu diesem zeitpunkt "Footprinting" und "Ennumeration"
+betrieben, also derjenige der da im Netz war und der halt doch ein paar indizien hinterlassen hatte was mein unterbewusstsein gemerkt hat aber ich als 20 jähriger
+noch nicht wissenschaftlich ausdrücken und belegen konnte. Ich wurde dann einfach abgeschossen, schizophren deklariert, habe durch die diagnose alles verloren, meine liebe,
+meine kollegen, meine familie. dann wurde ich im rombachtäli 13/5 15 Jahre lang permanent beschuldigt ich sei ein Vergewaltier, ein Terrorist, ein Dieb, ein ...
+also wie wenn jemand mit viel mehr macht und zugriff auf all meine informatik systeme hat versuchen würde mir etwas anzuhängen damit ich "meine Fresse halte"
+und sobald ich irgendwie einigermassen belegen konnte, dass und wer überwacht wurde ich wieder unter inrgend einem vorwand in die psychiatrie eingelifert und mit 
+intelligenzmidnernder Psychopharmaka (wie der Dr. Van Der Lem ja shcon einigermassen eingestanden hat dass das zuegs intelligenzmindernd ist) abgeschossen, habe 
+wieder den job verloren, worde davon abgehalten einspruch zu erheben wegen der illegitimen kündigung meiner wohnung wo ich schon den 2-3fachen zeitwert in form von 
+miete bezahlt habe...
+
+konkret ist die psychiatrie daran schuld dass ich kompett isoliert bin, ein PTBS habe, nur noch zu ganz wenigen menschen vertrauen habe...
+
+...und ich denke da hat der leser schon lange aufgehört mitzuschreiben. da man mir immer allen müll angehängt hat, dann dem umfeld gesagt hat ich sei schuld oder der täter
+   und sich so ein gemütliches leben gemacht hat statt zB. die Todesfälle genauer zu hinterfragen oder die Informatik-Systeme der psychiatrie erstens zu hinterfragen
+   und zweitens sicherheitslöcher zu stopfen, meines wissens hängt die psychiatrie am 10.0.0.0/24 Netzwerk des Kantons
+
+... ich gebs auf, bringt ja eh nichts, das problem ist institutionell, ein psychiater der 10-20 patienten behandelt, dabei bräuchte ein patient eine langfristige
+    bezugsperson. auch das konzept opfer einfach eine täterrolle unter zu schieben löst das problem der leichen im keller der psychiatrie nicht
+
+
+
+
+
+Tagebuch Wed 17 Jun 2020 09:32:50 AM CEST @ debian
+
+
+
+ich definiere meinen 42 geburtstag zum schlimmsten geburtstag meines lebens, siehe twitter
+
+
+Tagebuch Wed 17 Jun 2020 06:54:56 PM CEST @ debian
+
+
+Rohrer Landolts auf besuch
+
+dann fällt MIR ALLEIN auf, dass ich damals mit sonja ein gutes verhältnis hatte, zwar komplett psychohygienisch und hab glaub jeweils auch nicht hände geschüttelt 
+und angefasst. da ich mit sonja gut auskam "hätte das das /Kräftegleichgewicht/ bei den Landolts beeinflusst" (also übersetzt, meine mutter margrit landolt hätte
+nicht mehr hitler spielen können in der familie, also hat sie die beziehung von dominik und sonja vorsätzlich sabotiert, vermutlich mit der
+selben "Therapie"infrastruktur der studentenverbindnug, die mich grad in letzter zeit permanent nerft
+
+also die anschuldigung: Dominik Landolt hätte die Sonja Bachmann liquidiert ist somit vom Tisch.
+
+da wäre zu erwarten, dass das abwechselnd kopfweh haben von dominik und
+kathi induziert wäre, eine antagonierende situation die die zwei auseinander
+treiben soll und auf die kinder prägen, und das wäre vermutlich margrit
+die das über verbindungs access codes versucht...
+
+danach wären sie abhängig vom virutellen adrenochrome der kinder
+und könnten so später angetrieben werden die kinder (wie die behinderte
+margrit) mich über verbindungs-therapie infrastruktur zu stalken und zu
+terrorirsieren....
+
+
+
+
+
+

@@ -1,0 +1,53 @@
+Editing BB Macros in TWS 128
+
+by Dick Trissel
+
+The option is called macrotyping. The Write Stuff word processor makes typing easier by letting you
+define an abbreviation for a word, phrase, or section of text. This capability is turned on and off by
+pressing [CONTROL] m (it's a switch). This uses the definitions loaded from the "bb macros" on the
+program disk. In the C64 version of TWS, you can define a single temporary macro by pressing
+[CONTROL] [SHIFT] M. The C128 manual says it's the same thing as the C64, but it's not. It should
+properly be called "modifying the macros." 
+
+Here's what really happens, and some of the warnings that aren't stated too clearly in the manual:
+
+It's best to do the macro editing in a vacant extra text 1 area. But this isn't always convenient. If you are
+only going to add or change a macro temporarily (definition is not saved when you exit TWS), then you
+can have text in memory. When you press [CONTROL] [SHIFT] M the first time, the "bb macros" file
+in memory is put, in effect, in text 1 ahead of any text already there. Actually, it was already there. The
+end of the "bb macros" file is the beginning of the text area--kind of. There's a 232 byte space between
+them. What happens is that the internal pointers to the beginning of text 1 are changed to point to the
+beginning of the macros. Therefore, you see the bb macros on screen, and they can be edited pretty
+much like text.
+
+If you didn't have any text in text 1 when you switched to the bb macros, you have the option of saving
+this edited file back to disk, just like any text file. Just press [CONTROL] s and the auto-save feature
+will scratch and save "bb macros." Be careful! If you had text in text 1, it will get saved to disk as part
+of the "bb macros" file--not good. To get back to normal, you must press [CONTROL] [SHIFT] M.
+Remember, it's a switch.
+
+While you're editing the "bb macros" file, the same rules apply as any other text editing. But remember,
+no matter what you do to "bb macros", there MUST be three left arrows [RETURN]'s as the last three
+lines in the file--even if you don't save to disk. If you remove those arrows and then switch back to
+normal text, the computer will lock up. To recover, press [RUN/STOP] [RESTORE], type RUN and
+[RETURN]. Immediately switch to the bb macros area and put three [RETURN]'s at the end of the
+macro file. Now you can switch back to normal text.
+
+If you get lost--you don't know if you're in a blank bb macros area or a blank text area--press
+[CONTROL] = to get the text size. The bb macros area will be the largest.
+
+
+(Editor's note: Macro definitions can be added to the "bb macros" file in either C64 or C128 by
+selecting a one or two letter "shortcut" followed by = and the desired text. To create a macro of more
+than one line, you must place reverse [RETURN]'s at the end of each line. This is accomplished by
+pressing [CONTROL] 1 [BACK ARROW]. If you want a [RETURN] after the last line, you will need
+to put a normal return on the next line. 
+
+Be careful not to use a word for your one or two letter macro. You don't want to type "me" and have
+"Melvin Endsley" appear in your text! Using the occasional foreign word also has its pitfalls. Typing a
+street name which included the Spanish word de, I was surprised the first time to see my name appear
+instead! Our abbreviations for compass directions can also be a pitfall. I defined S to equal Sincerely,
+so I have to be careful when I want to say S Cedar Avenue.)
+
+(from the newsletter of the Central Coast Commodore User Group, June 1993, via the Commodore
+Information Center, http://home.att.net/~rmestel/commodore.html)

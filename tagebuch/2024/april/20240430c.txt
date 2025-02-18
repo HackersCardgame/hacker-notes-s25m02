@@ -1,0 +1,38 @@
+    ==============================
+-=[ Wed May 1 09:37:02 AM CEST 2024 ]=-
+    ==============================
+
+komplett spekulativ, aber z.B. die Zürich Verischrung oder die CH-Army hat sämtliche Hersteller von Write Blockern auf ihrer Schmiergeldliste oder kaufen die firmen auf und zerstören sie
+
+also z.B Wiebe Tech, CRU ....
+
+aufgefallen ist es mir, weil als ich gemerkt habe dass google den hersteller siyue der auch solche Dinge produziert wurde grad das sprachsample "ist ein Kartell" abgespielt, und ein kartell würde nicht zugeben ein kartell zu sein, wenn es nicht um wichtigeres geht wie .zB. Mordfälle ZANGSHEUROTISCH vertuschen zu können und somit immer überall wollen zugriff drauf haben...
+
+    ==============================
+-=[ Wed May 1 09:39:13 AM CEST 2024 ]=-
+    ==============================
+
+ich VERMUTE so etwas könnte man als Firma recht einfach bauen, schon nicht ganz so einfach wie ein USB Stick mit Schreibschutz-Schalter, da wäre es nur eine kabel-strom-signalling-leitung zum WE bzw ¬WE des Speicherchips, aber auch nicht so eine Hexerei [1]
+
+da würde man sich wenn das nicth so komplett überteuert wäre wie z.B. die genannten Firmen oben vermutlich noch reich werden, also nciht wenig überteuerte sondern wie die ICY boxen mit dem postfix WP für WriteProtect
+
+[1] sollte mal in USB Stick Zeugs Protokoll specs rasch wühlen
+
+ich vermute als Firma würde man ein USB-Stöpsel-Pariser für ca. 20€ hin bekommen. und ACHTUNG nicht Data-Blocker mit Write-Blocker verwelchseln, beim Data-Blocker sind einfach die D- und D+ getrennt [2], bisschen kooooomplizierter wäre das schon...
+
+[2] bzw. beim usb 3.0 müsste man noch SSTx+ SSTx- SSRx+ und SSRx- trennen
+
+
+... ChatGPT ist bisschen zu blöd dafür:
+/HackerCulture/HardwareWriteBlocker/hardware-write-blocker.png
+
+... und ich hab das mal im Wikipedia eingetragt:
+/HackerCulture/HardwareWriteBlocker/hardware-write-blocker-wikipedia.png
+
+und ja scheinbar mag jemand nicht wenn ich über solche Dinge nachdenke, bin grad wieder am mit der remote-Cyber-würge-kette am gewürgt werden, blöder möngeli-mongo-offizier der CH-Army der sich einredet dass er der super duper Darth-Vader Mongo HIMSELF sei
+
+    ==============================
+-=[ Wed May 1 11:03:40 AM CEST 2024 ]=-
+    ==============================
+
+

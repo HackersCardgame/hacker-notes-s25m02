@@ -1,0 +1,32 @@
+Conversation with 50590990 at 19.05.2007 18::34::52 on 962320 (icq)
+(18:36:58) landev: langsam hani jetzt denn ghueg, i glaube i wächsle zu swisscom adsl, jetzt funktioniert s yetnet scho wider nömme richtig... zum glöck hani jo jetzt en umts charte... damols händs nach minere diagnose es problem mit em bdp protokoll uf ihrne router wo nömme alli route us em internet bechont, das heisst gwüssi teil vom internet gänd eifach en "destination unreachable" message.... seit zumindescht min tracert.exe uf umts gohts ohni problem...
+(18:37:01) Dominik <AUTO-REPLY>: I am currently away from the computer.
+(19:07:52) Dominik: tztzt was machsch wider ?
+(19:08:11) Dominik: aber adsl goot nur mit analog aschluss
+(19:11:24) landev: hmmm....
+(19:12:17) landev: de typ het doch en rootkit installiert und jetzt isch er arbetslos und het nüt gschiiters ztue als das yetnet so lang z stresse bis er wider iigschtellt wird...
+(19:12:18) Dominik <AUTO-REPLY>: I am currently away from the computer.
+(19:16:40) Dominik: :-) meinsch
+(19:33:32) landev: irgend so öppis isch sicher, ich meine so ungschickt chan mer jo eifach ned sii, dass jede 2 Woche irgendöppis uusfallt....
+(19:35:00) Dominik: naja isch jetzte lang nüüt me gsii
+(19:35:12) landev: "lang" ???
+(19:35:21) landev: wenn hani di zu bett uusglüütet?
+(19:35:22) Dominik: vor em 1. usfall
+(19:35:36) Dominik: vorhär mei ich ..
+(19:35:40) landev: hehe...
+(19:35:45) Dominik: goots denne immer nonig ?
+(19:35:49) landev: was ?
+(19:35:54) Dominik: s inet
+(19:36:01) landev: weiss ned bi mit umts dinn...
+(19:36:15) Dominik: und was isch genau s problem ?
+(19:37:36) Dominik: hesch du s front page ?
+(19:38:10) landev: de router isch zueständig för das d ip päckli ihre wäg finde, de het en liischte dinn wo alli wäge dinne sind. ca 100'000 iiträg zu allne subentz im internet, jetzt chans sii, d router tüend die liischtene underenand abgliiche 1. i de definierte zoone, 2. nach usse ... schiinbar fählt jetzt dem router vo de yetnet d route zu www.netbeans.org...
+(19:38:19) landev: nei frontpage isch es frömdwort för mich...
+(19:38:30) landev: aber ich han en coole editor mit syntax highlighting...
+(19:38:46) Dominik: hmmm
+(19:38:56) Dominik: hesch kes nöime umeligge ?
+(19:39:30) landev: nei, han nor es small business office, isch nid uf dire ILLEGALE office cd es frontpage druff?
+(19:39:50) Dominik: hmm gläbs nid, ha nume legal 2003
+(19:40:14) landev: wiso was muesch mache?
+(19:40:50) Dominik: homepage
+(19:41:36) landev: wiso nimmsch nid eifach es cools template (voorlag) vo selfhtml.org und passisch das a?

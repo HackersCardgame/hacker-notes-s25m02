@@ -1,0 +1,5 @@
+System log for account 962320 (icq) connected at 21.04.2007 13::26::48
+---- +++ 962320 hat sich angemeldet @ 2007-04-21 13:26:48 ----
+---- tdr-timon hat den Status von Offline zu Verfügbar geändert @ 2007-04-21 13:26:49 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-04-21 13:26:49 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-04-21 13:30:06 ----

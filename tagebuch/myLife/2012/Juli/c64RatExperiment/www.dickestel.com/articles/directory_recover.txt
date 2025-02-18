@@ -1,0 +1,31 @@
+Recovering a Lost Directory
+
+by Dick Estel
+
+A couple of times I have made panic calls to more experienced members of the group seeking help in
+restoring a bad directory.  
+
+The first time, I did a short format of a disk, which does NOT erase any files, but clears the directory
+and makes the entire disk available for use.  I knew my files were intact, but I did not know how to get
+the directory back.  This sort of thing can be done with a track and sector editor, but use of this is fairly
+complicated and requires some knowledge that I did not have of how files are stored on a disk. 
+Ultimately I recreated this disk from various other sources.  
+
+Not long ago a 1581 disk with well over a hundred Doodle and Koala files took a dive.  I still do not
+know what happened, but the result of trying to read the directory or load the files was the same as
+doing it with a blank disk.
+
+I had just read that issue 82 of Loadstar would have a program to recover disk directories, so I waited
+impatiently for it to arrive.  When it finally came, I was dismayed to find it was only for 1541/1571
+disks, but the documentation mentioned that Maverick has a directory recovery program also.
+
+I promptly booted up Maverick and selected the Directory Recovery program from the menu.  I
+followed the very simple instructions, put in my bad disk, and did something else while the program did
+its work.  In a matter of a few minutes it was done, and when I tested the disk, everything was back to
+normal, with all my files accessible.
+
+If this ever happens to you, don't stomp the disk into the ground in frustration--just get out Loadstar or
+Maverick, or call for help from one of our members who has these programs if you don't have them.
+
+(From The Interface, newsletter of Fresno Commodore User Group May 1991, via the Commodore
+Information Center http://home.att.net/~rmestel/commodore.html)

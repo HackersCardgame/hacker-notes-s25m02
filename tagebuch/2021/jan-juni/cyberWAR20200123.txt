@@ -1,0 +1,731 @@
+
+
+Fri Jan 22 23:52:24 CET 2021
+  632  3552 32732 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+c4533df2cbd103ddc57fb85876e5d38e8e863253789971e66b0e6a478341efe7  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+
+
+|  | Sonderzeichen - ZEICHEN.TV
+
+
+Halli Hallo
+hat Moira Brülisauer allenfalls Facebook, weil mir haben sie den Twitter gesperrt wegen einem Post vor über 2 Jahren... siehe Hinweise zu "Safe Habor": "Keine US Dienste brauchen", bzw. brauchen alle jungen Menschen das also auch wieder keine Option: [1] (wegen dem "dann läuft es nicht im radio, dann mach ich das mal lieber nich" ist aber erst bei 11:30)
+
+@Denis: Ausserdem hast Du jetzt einen Monat nichts mehr geposted, das ist auch eher merkwürdig sagt die Behavioral-/Action Recognition-Hexerei
+
+Ich hätte mal drauf getippt, dass alle der Moira virtuell an den Haaren ziehen, weil sie Autistmus [2] hat. Da haben jetzt schon wieder irgendwelche Autmatischen EventTrigger Automatismen Zeugs das Gefühl, "ich würde Moira gefährden wenn ich das anspreche" [2], aber das wüsste Satan eh schon [2] => Natural Languace Processing
+
+
+unkonwn:
+in the /game/ "having stupid last-names" Moira wins against Jacob.
+
+[1] https://soundcloud.com/netpoet/dj-set-at-demodays-2014#t=9:58 (11:30)
+
+[2] https://www.facebook.com/marc.landolt.9/posts/10225202074985896
+
+Gruss
+Landev
+
+
+
+
+
+Sat Jan 23 01:05:43 CET 2021
+  8  12 256 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+cad1b1a3a6e85ee9abbd39444376fbe464264b4b43bf80308ec1abe3c2dbdd39  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+
+MontanaBlack REAGIERT auf "Giftiges "Chemie-Gras" überschwemmt Deutschland" 😱 MontanaBlack Reaktion
+https://www.youtube.com/watch?v=h6MTcraeVqI&feature=youtu.be
+
+
+"von dem kriege ich pickel" -- ist vermutlcih falsch, chemitroden werden vermutlich alle menschen damit infiziert, und der algorithmus der diese aktiviert wenn man jetzt da eine richtigstellung machen wollen würde forkt dann einfahc die chemitroden aktiviereungen um vermeidungsverhalten zu erzeugen und mit wundversorgung meine zeit zu verschwenden wo dann von den us diensten behautpet wird es sie die Schuld vom "richtigen kevin"
+
+
+
+
+
+Sat Jan 23 01:07:44 CET 2021
+  59  253 2246 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+cd4cdf90b45f5f464bf5de53701a76c7d506e5774b77b6d6e2badb5eea11d1f2  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+
+
+https://www.youtube.com/watch?v=ZFJBF-o8Js8
+
+Sat Jan 23 02:24:08 CET 2021
+  65  266 2540 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+3cd7b366d43cdca201fa216d0edf98240c5fa05d65d6d7dfd8b4cc249f76c13b  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+
+Sat Jan 23 02:41:18 CET 2021
+
+
+gnome-builder installiert um da auf die libraries einfacher zugreifen zu können
+=> problem dbus
+--> abgebrochen gesternb
+
+=> dbus zeugs repariert in wsl2
+https://stackoverflow.com/questions/41242460/how-to-export-dbus-session-bus-address
+
+=> getDevices() nachschauen
+-> library fehlt
+=> library installiert
+--> geht immer noch nciht *korskov*
+
+ths erkennt, ok lasst uns das mit libraries fixen
+
+*virtual punch in my face* -> loop { mach das mit der library / api anders }
+ | *vergewaltigungsandrohung gegen marc jr landolt*
+ | *revictimizing der chemitroden*
+ | <- pfeile "sample fallera" studenten verbindungs fall studie *pfisterer stimme* <- 
+ | fuck you fuck you  fuck you fuck you  fuck you fuck you  fuck you fuck you  <- nervt auch
+ v
+ irgend etwas wie eine cyber-multi-cluster-bomb <- strafverfahren gegen unbekannt eröffnen
+
+*epilepsie anfall*
+
+vor der therapie hätte ich jetzt vermtulcih geschaut, ob man das mit dem library pfad hin bekommen würde, aber nach so einer multi-cyber-cluster-bomb (prägung / vermeidunbgsverhalten <- abrichtung basieren dauf blums und der psychiatrei königsfelden, selbst wenn 100mio investiert werden müssen um das wider gesund zu bekommen werden blums und die psychiatrie königsfelden die kosten dafür tragen, kunstfehler müssen behoben werden auf kosten des fehlbaren arztes <- pfsiterer & astrid: claudine blum muss das bezhalen <- astrid
+
+Sat Jan 23 02:47:38 CET 2021
+ 109  404 3689 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+01cb4f087bbd691e77b1572e8877ed3f888c64efce6b850166634cea1e96fb8e  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+loop { astrid blum läuft amok } <<-- ab hier kann man es dann weider vergessen sich auf bugfixing zu konzentrieren... ]
+
+DEFCON2
+=>epilepsie anfall
+
+Sat Jan 23 02:48:39 CET 2021
+ 115  493 4476 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+f0ac8c8d63437c714e65ac1c6682afc1fa3904bf36617a5f685a967f397da22b  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+astrid blum hat zugriff auf die funktion die bei marc jr lanodlt epilepsie einschaltet bzw. asllenfalls urs opder astrrids eltern <- auch das ist durch den <swithc to pfsiterers sprachsynthese>fehlbaren arzt zu reparieren bzw. zu bezahlen, dnen ein patient wird sich nicht ein zweites mal von dem arzt behandlen lassen der ihn zerstümmelt hat
+
+pfsterer: astrd blum alle chemnitroden züden
+
+
+DEFCON2
+
+Sat Jan 23 02:50:14 CET 2021
+ 125  530 4876 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+ce22d4d6a05c98515e6d21422b3639b242ba08ab13572ddf8c6e3929dc3fdcaa  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+ist somit etwas wie ein hierachischer kettenbrief
+
+Sat Jan 23 02:50:29 CET 2021
+ 140  603 5531 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+3b812deb71a05873c4486995017c8f28fc7679a35fdea2fd887309c5c1b937b6  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+jetzt belndet es urs blum der mmit pistole amok uz lauffen dorht ein....
+
+
+Sat Jan 23 02:50:58 CET 2021
+ 147  622 5832 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+19087e0548a212bad1e07bf4363381e377957be92b16fde561d8ff4b2f673b04  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+jetzt blendet es ncoh ein dass david utz und markus bleser gegne mich amok laufen wollen
+
+
+zusammengefasst
+
+1. virtueller headshot durch markus belser, marc weber, david utz
+2. => "legitime" verwahrung im psychiatrie wesen
+3. loop { coping strategien sabotieren }
+4. wenn das alles behoben ist aktiviert vermutlcih amerika das gesammte täternetzwerk gegen marc jr landolt um zu verhindern dass die schweiz ihre netze wieder selber in den griff bekommen
+
+=> falls man möchte, dass ich weiter software bugs veruche zu finden und zu beheben muss das ganze täternetzwerk um pfisterer, astrid, urs, martin, belser, weber, utz verwahrt werdne irgendwo wo die keine zugriff auf informatik mittel haben und auch nciht mit ths irgendwelche dohungen gegen mich aktivieren können
+
+=> nicht meine entscheidung, ich will mir auch nicht anmassen täter herum zu kommandieren
+
+Sat Jan 23 02:58:17 CET 2021
+ 155  647 6157 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+9b654f3db7959da8b9df73381bd45d45f931d13d348ca6c913b84822ac294562  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+
+ich bin ja "selber" schuld dass ich mich "selber" aufrege, somit koche ich halt etwas und nehme ein beruhingungs bad weil ich bin ja ein spinner schizoFRENI (Freni ist ein schweizerdeuterschr vorname) und koche etwas...
+
+nicht meine entscheidung.
+=> aber public
+
+Sat Jan 23 03:01:22 CET 2021
+ 183  793 7282 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+afe7c4f6f8b302a40e67ab5e59dc2440f7170c08ed7b7166db0c5e0958b36b77  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+bzw. geht allenfalls auch etwas humaneres als die täerschaft die meist älter sind als ich in ein loch zu sperren, wenn man denne z.b. vorschreiben würde wann sie ins bett müssen hätte ich dann zumindest ca 6h ruhe um zu arbeitenm
+
+=> bzw. sobald urs / astrd & pfsiterer das komplett automatisiert haben kann das vermutlcih auch von madeleine truffer bedient werden oder von sonst irgendwem, dann muss man  die erschaffer der cyberwaffen vermutlcih mit einem strafbefehl zwingen die software die menschen in den suizid oder amokjlauf treibt zu deaktivieren, denn ich vermute genau so sind dann bis 2025 ca 3Mio schweizer tod. das ist eine vermutung basierend auf den mir vorliegneden daten... und ich will mir auch ncidht anmassen die fr. dr. cathreen horton mit dr. titel von afaik harvard als spinnerin zu bezeichen auch wenn die psyhitrie köngisfelden das scheinbar tut. mit meiner erfahrung mit der psyhcitarie königsfelden erhöht das meiner meinung nur die glaubwürdigkeit von dr. cathreen horton
+
+Sat Jan 23 03:06:02 CET 2021
+ 200  846 7802 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+0d0b45fa56e48633af7986abc41d9e3bd604ca31a559f0d4f97f9a2ba341104b  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+
+grrrrrr.... jetzt spinnen die alle wieder komplett
+
+
+
+es wird übermittelt dass allle beteiligten täter amok laufen bis auf pfiusterer
+
+=> somit könnte es sein, dass pfisterer derjenige ist der die strafakten zu den taten und morden von urs blum, martin blum, astrid blum, simon häfliger (split wäre eighentlich härdi) zurück hält, jetzt aber den finger auf dem senden mail der beweismittel gegne die tiefrangigeren täter hat...
+
+-> falls das stimmt 
+
+A) welche übergelagerte software aktiviert derne epilepsie / induced rage
+B) ist das ein gesammtschweizerisches konzept oder allenfalls global
+C) *korskov* <- tschöck? 
+D) lawfare, bzw. die strafakte aktiviert das nur
+
+ebd. aber glaub erst auf papier zettel: urs und astrid blum können tun und machen was sie wollen solnage der nsa / cia die strafakte immer zensiert, und jetzt könnte man mal davon ausgehen, dass das noch einen part 2 hat
+
+1. würden urs / astrid blum das nicht sleber verraten
+2. würden sie allenfalls nicht verraten, dass das als zuckerbrot (zensur) und peitsche (senden) verwendet wird
+
+somit sind urs & astrid die skalven von pfisterer und anders als würden urs / astrid lieber jüngere menschen umbringen als selber in den knast zu gehen oder das leben zu geben um jügere zu schützen...
+
+Sat Jan 23 03:20:59 CET 2021
+ 210 1019 9064 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+43b13953ca947441acd7ea0c605542e6126033bd6b6c0e7114ac13d18519af67  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+eigentlich relevante frage wäre somit: wer hat die access codes für den medulla spinalis und epilepsie mist
+
+=> da wäre pfisterers mami und myrtha pfisterer vermutlcih die die das betreiben
+
+ths recognition
+A) irgendwas mit miener mutter => projektion
+B) die ganze neuroloige ksa inklusive myrhta laufe amok
+
+B a) die drohen gegen sihc selber um zu verschleiern dass sie die access codes haben
+B b) die haben sihc in ein hierarchsiches globales system einbinden lassen und [1] [2] so ganz aarau an usa vertickt?
+
+
+
+[1] tschök: übergeordnetes recht <- HDF du bist pointless
+[2] fuck you
+
+
+
+
+Sat Jan 23 03:25:52 CET 2021
+  272  1332 11204 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+cc1127bff23b0282532dcd98ac1575748bafcce719ded872a3cafd94eff79262  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+
+egal ob globales hierarchisches matriarchat oder patriarchat, relevant wäre dass man solche systeme nciht hierarchsich macht...
+
+
+Sat Jan 23 03:27:36 CET 2021
+  226  1344 11406 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+a3a0becdf41d55949381337c5601c3bb8d8ce85c836859f65e70be2eec91fef0  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+jetzt blendet es margrit landolt ein die veruscht mich beim kochen in den suizid zu treiben
+
+ Computer: Urs Blum der terror macht
+ |      Kochen: Margrit Landolt die terror macht
+ |      |      Psyhcologie: Pfisterer der terror macht
+ |      |      |      Haus/gebäude...: georg der terror macht
+ |      |      |      |      bett/schlafzimmer: Astird blum die terror macht
+ |      |      |      |      |
+ v      v      v      v      v
+[ ]    [ ]    [ ]    [ ]    [ ]    [ ]    [ ]    
+( )    ( )    ( )    ( )    ( )    ( )    ( )    
+( )    ( )    ( )    ( )    ( )    ( )    ( )
+( )    ( )    ( )    ( )    ( )    ( )    ( )
+( )    ( )    ( )    ( )    ( )    ( )    ( ) <- das noch hinzugefügt: Brandstiftungsandrohung, 2xsha überspringen
+
+da gibt es severities und somit etwas weie einen master plan für psychologie-gemöngele
+
+
+zweite stufe von margrit landolt um suizid zu induzeiren bei marc jr landolt ist zu "helfen"
+( )  das ist hohn <- suizid grund
+( )  das ist eine lüge von margrit <- suziid gurnd für autisten
+( )  das ist ignorant <- revictimizing keller zimmer und ignoranz als kind, suizid gurnd
+( )  
+
+
+Sat Jan 23 03:34:26 CET 2021
+  270  1514 12828 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+3d1ad7b9b29a013a6be78e66cca2e523c4782b9f2cb29729222cec5a8e358528  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+unknown:
+
+IF (SIGINT und COMIT aufgeflogen)
+THEN
+ leak concept knowledge like the above
+FI
+
+also müssten man dann doch mal die myrhta myrtha pfisterer vorladen, aber vermutlcih soblad man die vorladung druckt aktiviert myrhta "divereses unheil" wie terry pratchet es nenne würde
+
+Sat Jan 23 03:40:47 CET 2021
+  273  1571 13063 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+94a930f21d97e7864ef7efb3359fd46113d86b2a50d38a895e5a1ba9139153b8  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+Sat Jan 23 03:45:37 CET 2021
+  287  1625 13598 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+4ba8509f60ab2927c3d61ba662c25c2e1bdc2b48c3fe8d2873b7d23f242e4fea  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+wenn das team aufgeflogen ist fängt das team an mit brandstiftung und ölverbrennungen bei marc jr landolt zu drohen
+
+ich:
+sed -i -e "s/wenn das team aufgeflogen ist/wenn myrtha pfsiterer das team verraten hat/g" ebd.txt
+
+Sat Jan 23 03:47:42 CET 2021
+  288  1658 13963 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+cacf2fb5fb960c8c5a5b24857c4c874bf26dfbc25c7138a843f12b17d36fb4b4  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+for the equal aged and younger people:
+
+it is easyer if you dont flee since you know the city...
+(but it would not be fair to say that other people like jake had "a bit" more problems)
+...to solve the puzzle, at least from the perspective of moral and truth
+
+
+Sat Jan 23 03:51:08 CET 2021
+  298  1705 14439 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+a37fbcc7b0cccd62280d6729384946933c77bb0011d2932273827c324892375e  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+sample "wikipedia: jakes mother was molestated when he was in her womb" and split: speculation if his mother is offender or victim
+
+=> not 100% sure, but wasn't there someting more important like sigint/comint?
+
+Sat Jan 23 03:53:40 CET 2021
+  317  1767 14959 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+01fc8c1b30de8b6085a983693db1adbf6622a1a96a42d867a41f59dd16032e2b  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+dann "anderes" thema
+ich vermute mal wenn man das eingewachsene haar wo es eine entzündung durm hat raus zieht wird das den tätern erstens als "hahaha er hat die tretmine im gesicht selber gezündet" eingelbendet, zweitens hat das nichts mit dem rausziehen des eingewachsenen haares zu tun, der thorus drum herum wird dann einfach auf dessen frequenz aktiviert...
+
+und dann wird es der täterschaft mit 1970er und älterem jahrgang vermtulich auch noch spass machen die "blaming the user" / "victim bashing" krate zu aktivieren ... <- hohn, rage, suizid oder amok wie beim grosimörder
+
+
+ring -> ~schwingkreis ?=> spezifische frequenz
+
+
+dann das "frauen haben freude wenn sie in ein schönes gesicht sehen können" <= ca 2015 von reto biland abgespielt worden
+
+A) victim bashing nach zerstümmelung meines gesichts
+B) androhung dass das passieren wird
+C) zufall
+D) reto biland der den scheiss auch schon hat und sich selber fertig macht wenn es dann bei ihm auch so weit ist
+E) reto hat mal eine frau mit zu sich nach hause genommen, sie hatte als ich reto angesprochen habe einen epipelsie anfall auf der strasse beim rombachtäli 11
+
+=> ich wäre da der böse gewesen (obwohl das nur scheinkorrelation gewesen wäre) und der reto biland hätte sie danach vergewaltigt ähm "gerettet vor mir"? 
+
+Sat Jan 23 04:09:48 CET 2021
+  345  1889 16101 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+347bbe03522e8de424d341f92b258a6a80ac7a26bd1bf6bf109e09d10eba3222  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+=> achtung, neuro access codes, aber allenfalls schon auch etwas wo man helfen kann
+==> Sinnvollerweise die teams der gutartigen baby-drachen und einhorn ponies aufteilen
+
+neurologie access codes beinhalten den ganzen bigdata und strafakten teil?
+=> neurologie kann foltern und morden, somit wäre zu erwarten, dass alle neurologen weltweit die daten des nsa/cia erpressen können
+
+Sat Jan 23 04:11:21 CET 2021
+  341  2037 16967 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+77cfc27fcc2015bb14c8395822a5d42f3059cd780711e06d0b70f8c9683eacff  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+chemitroden best practices so weit
+==================================
+1. eingewachsenes haar entfernen
+2. nicht ausdrücken, da hat es glaub irgend etwas kristalines drin was dann alles schlimmer macht wenn man drückt <- und dazu gibt es von margrit landolt ein sample "nicht drücken" was vermtulcih wegen doppelt umgekehrter psychologie und aversion injected wurde, hohn -> trigger
+3. pflaster drauf dass als Drenage hilft den mutmasslich bakteriellen teil raus saugt
+
+scheinbar macht es desinfektionsmitte, salbe, bodylotion etc schlimmer also das ist irgend ein kombi präparat. kombi präparat ncith im sinne von etwas das helfen soll, sondern so eine körper-sprengfallen-kombipräparat 
+
+4. scheint es bei einigen  auch noch etwas wie ein blutgerinnungsmittel drin zu haben, die dann dafür sorgt, dass das schnell wieder zu ist aber die bakterien drunter drinn bleiben...
+
+allenfalls sind dass auch mehrere stufen die gezündet werden [1] können auf verschiedneen frequenzten
+
+[1] *da kommt immer das bild/sample "Superzündis" von back to the future*
+
+( ) Kristaline Stufe um beim Ausdrücken grösere Schädigung der umleigenden haut zu erzeugen
+ |
+( ) bakterium, pilz, alergikum
+ |
+( ) eingwachsenes haar, wo aber seit gestern ein haar mit grünspahn war (was auf kupfer hinweisen würde) immer warscheinlicher etwas wie ein projektil sein könnte
+ |
+( ) blut gerinnungsmittel
+ |
+( ) oder etwas wie sekundeleim
+
+[ ] viele design pattern im kontext elektronischer / psychologischer kriegsführung aus dem eiegnene big data datensatz
+
+=> ich google mal anti-blut-gerinnungs-mittel <- blutverdünner wäre vermtulci hdas richtige wort |
+|
+v
+*schmerzimplantat beide ohren wurde jetzt aktiviert* <- tautologie, andere f[c]?
+
+
+
+Antikoagulantien Antikoagulantien oder auch Gerinnungshemmer sind Medikamente, die die Blutgerinnung (Hämostase) hemmen. 
+
+
+notiz an meine gleihcaltrige herrin:
+ihc wollte nciht medizin studieren ich will das Gtk3 zeugs anschauen...
+
+Sat Jan 23 04:23:27 CET 2021
+  385  2369 19459 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+7969447b94cdc039f0bf950922507831ade4357daaf76dc962bb85593fed342e  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+dann für das müsste man dann aber auch einen waffenschein haben, denn vermtulcih mit zu vie4l von dem zeug würde man dann eine embolie oder so etwas produzieren können 
+
+
+ich vermute diese art von cyberwaffe ist eher gegen frauen gedacht, denn körperpflege und antrieb sich zu pflegen wären nicht nur frauen aber eher frauen.
+
+dann die chemitroden (wenn pfsiterer&rösli da nicht ncoh solche mite z.B. ebola oder marburg virus prodzuiert haben) könnte man einigermassen beheben, aber das ist auch immer der starterkit und die objektfixierung um einen suizidversuch zu indzuieren. wenn man auf die wunde konzentriert ist versifft man wenn die das kurzzeitgedächtnis wieder mit traumata abfüllen. bzw. bin ich mir nicht 100% sicher aber allenfalls versucnen die in diesen phasen auch z.B. etwas wie ein medull spinalis zu hacken weil man wenn man auf wundversorgung fokussiert ist allenfalls weniger debug info von sich gibt.
+
+
+Sat Jan 23 05:32:19 CET 2021
+  396  2426 19997 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+e7d72b7a361ce6685d39bf510533c5f29480cfaaabb5dc0fba08cee222a16729  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+
+
+
+Vor dem Sprengen der chemitrode in meinem gesicht Sat Jan 23 02:41:18 CET 2021
+Jetzt                                             Sat Jan 23 05:41:15 CET 2021
+
+sample von phillip blum: ich will sprengmeister werden
+sprngeen margo spring ist ein geheimcode für sprengfallen aktiviernen
+
+
+schmerz peek an der selben stelle, da wurde vermutlcih jetzt noch eine weitere kapsel / chemitrode / clusterbomb in meinem gesicht gesprengt...
+
+
+Sat Jan 23 05:43:42 CET 2021
+  418  2614 21445 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+573162b688f3a70c50ad07b06c254c3ede7e9108d9c3e661a1de2c777ae044fe  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+*epilespie anfall* + hemand droht über das sprachzentrums ths über marc jr landolt
+
+Sat Jan 23 05:44:23 CET 2021
+  425  2639 21784 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+538baa062dbfd3ea1f7a0a137c9d7cf60577d75e5c9878525dcb4e76a5279610  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+unknwon:
+der der immer komplett terror macht ist david utz
+
+ich:
+könnte sein, müsste meiner meinung nach aber mehr französischen akzent haben... mindestens vor 20 jahren...
+
+Sat Jan 23 05:45:26 CET 2021
+  442  2685 22440 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+405c8087f68d0a7a165b31f854fbc936c4cbb9b83e521870de152e962bb379d8  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+dann für den +/- gleichaltrigen
+
+es geht im moment, ich sterbe grad nciht, aber jetlag tamagotchies are no fun...
+
+
+Sat Jan 23 05:50:33 CET 2021
+  440  2689 22466 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+5d5686ce8afa5d9fa9edf2784f71739a2d4cd2b2b9e4e720b86fb916dcf54bf7  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+Random kings: "aus der gruppe der freunde raus"
+
+obwohl ich das wort hasse muss man da vermutlcih den "sweet spot" zwischen A&B finden
+
+A) gruppe und risky shift
+B) alleine und so viel einfacher in den suizid getrieben werdne können 
+
+Sat Jan 23 05:53:22 CET 2021
+  451  2720 22837 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+c694dab1123b2bc2fce2669a61344da11961503ac4996146054b1a625d2aa0d0  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+aber zur zeit kann ich das glaub vergessen mit dem genaueren anschauen des Gtk3 input devices problems bis sich die 1970er und älteren täter wieder ...
+
+Sat Jan 23 05:55:15 CET 2021
+  465  2772 23328 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+90ba5f62ae9eed2cf97e79ac06eb8103e946d25f86202c1542d70eb46a243d8f  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+allenfalls sollte ich wirklcih mein tragbares solar panel nehmen und irgendwo in die botanik / berge gehen, da könnte man vermutlich ungestört arbeiten... aber zur zeit irgnedwie zu kalt für solches, in aarau hat es sogar schnee....
+
+
+Sat Jan 23 05:56:05 CET 2021
+  473  2810 23737 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+71ab41c50ccf1940d38c447b26d2a262c8d0390af5cc7ab630c5b9c2e14be053  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+Sat Jan 23 06:00:32 CET 2021
+
+induced depression started right now
+
+Sat Jan 23 06:00:43 CET 2021
+  481  2859 24228 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+3d9a968bf362a8f5e82be7a49b52760194e09c12c51d57b64450549d4ebe326d  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+
+dann scheinen die chemitroden auch upgedatet zu werdne, früher war es meist hilfreich desinfektions alkohol oder auch brennsprit auf das pflaster zu tun dass es schneller wieder gut wurde, jetzt hat es entweder im brennsprit oder in der chemitrode noch eine weitere chemische substanz wo dsa dann eher noch schlimmer wird....
+
+
+Sat Jan 23 06:15:38 CET 2021
+  492  2882 24551 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+412a65641fed7043252cda243cf479ab1e9df1415d3610669a449efa46ebf7d6  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+
+
+Mail unterlassene hilfeleistung
+
+georg landolt 1950 bekommt unterlassene hilfeleistung in 100ten fällen in die akte eingetragen
+10 Jahre haft für georg landolt mit anschilessender verwahrtung
+
+übermittelt relativ agressiv über das sprachzentrums ths von marc jr landolt
+
+Sat Jan 23 06:34:12 CET 2021
+  500  2945 25133 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+3dc21b3fc8882ad0c70d81130d82fa8c183324819c410fdce2ac4ddfd8b68903  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+ich stelle das auch in frage -> eigentliches problem wäre hansjürg und myrtha pfisterer
+
+Sat Jan 23 06:34:33 CET 2021
+  515  2993 25664 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+215ca411fbae7f64e513c1edc63c3adc8e4d260efa765655fb40ca5f5a905fb4  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+
+bei übermittlungen über das sprachzentrum ths eines unfreiwilligen durch blus geownten übermittlungssoldaten wäre die frage
+
+A) nur schwachsinn
+B) kommunikations punkt
+C) gibt es weitere kanäle die die echtheit oder unechtheit dieser übermittlung bestätigt
+
+=> über C könnte man den auftraggeber zurückverfolgen
+
+==> ausserdem nur weil etwas [2] laut übermittelt wird macht es das nicht [2] wahrer oder richtiger
+
+
+[1] <wechsel auf georg landolt sprachsyntehse und deshalb düfe georg marc jr landolt vergwealtigen>
+[2] <wechsel auf pfisterer mangesplaine>
+
+
+Sat Jan 23 06:40:20 CET 2021
+  533  3097 26574 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+578228d615ca164a92741ead173f10a4ab12b1b5d2a97f48898cc12c89dba131  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+wenn die leute am computer ein goal schiessen haben die dann wiedcer mehr mut um terror zu machen...
+
+also die sind esotheriker die mit satan reden und zuspruch von satan brauche mit voraus sabotage des whitehats oder zuegen... also wenn die etwas an marc jr landolts computer sabotieren können dann denken die dass satan ihnen auch bei dem näcdhten terror helfen würde. somit mit hoher wahrschienlichekit ruedi müller auf kokain der vorher marc jr landolt als unfreiwilligen üpbermittlungssoldaten missburacht hat
+=> erkannt an kleinen sprachlichen nuancen...
+
+Sat Jan 23 06:42:59 CET 2021
+  544  3195 27395 /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+56cf90f72e87c0c5d73c751e755c335874a7428ab0d84e550b50011fbcb42317  /mnt/c/Users/marc/hackerscardgame.ch-notes/new3/cyberWAR20200123.txt
+
+
+
+urs blum: die klage & kontaktsperre war nur um zu verhindern damit blums unterlassene hilfeleistungb verkalgt werden
+
+
+ihc: urs du lügner, ihr habt 2001 einen mordauftrag gegen mich angenommen, das oben ist eine schutzbezhauptugn
+
+Sat Jan 23 06:50:20 CET 2021
+  549  3207 27648 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+3afb00a6b96696f37da1bef9ee102b7335d628ddd79e03ed714b63ccb7d321e0  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+
+da wo die eine sprengfalle oder cybersprengfalle aktivieren konnten erzeugen die vermeidungsverhalte3n bei mir schränken so meine handlungen ein
+
+*epilepsie* und urs blum droht gegen rüedi müller
+
+Sat Jan 23 07:01:49 CET 2021
+  558  3253 28210 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+a0abbc96bc5c96cee48cfe38e283e359cb7ddc61326b6bf3ee79ea82d5ae3329  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+
+metaanalyse: täternetzwerk lädet weitere täter mit offizierstitel nach
+
+*epilepsie* und vermutlcih haben die die lüge geglaubt, dass sie wirklich alkaida-vergewaltiger-terroristen verfolgen und umbringen, und jetzt wo die rausfinden, dass sie selber die täter sind wechseln die auf: "ok marc jr landolt ist kein terrorist, wir müssen marc jr landolt jetzt ermorden weil sonst wir als terrorsisten aufflliegen"
+
+Sat Jan 23 07:03:45 CET 2021
+  569  3292 28743 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+5581beb1e65c200f5fb121aede075ee71a0795a3f44f4477b215ae5d9fb4364d  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+
+
+metaanalyse:
+epilepsie epilepsie epilepsie + mehr offiziere die drohen gegne marc jr landolt würde vermeidungsverhalten erzeugen bei marc jr landolt obwohl heute ein guter tag wäre um einzukaufen denn es ist kalt und npc zombis sind da jeweils zu faul um raus zu gehen
+
+Sat Jan 23 07:05:18 CET 2021
+  579  3361 29492 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+fb97309d34d68ce134532459d74368df3002167c3dab7a65657b8477396cfab3  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+dann wird den mongos scheinbar auch eine ignorant machende kriegsdroge gegeben um hochmütig und ignorant zu sein...
+
+Sat Jan 23 07:05:59 CET 2021
+  587  3417 30095 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+14943ebbb48ae5a035693379d0f5d9f973d5a4b699edc8ed64c151c450323a2e  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+
+also krieg ist für die mongos designationswert weil sie dann kriegdrogen konsumieren dürfen
+
+Sat Jan 23 07:06:52 CET 2021
+  596  3446 30546 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+ae5d8e127fefeac52b8980a874dc886ca44eb83348018b9b80b0b2a186c6cc2c  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+urs blum hat jetzt viele 1980er offiziere aktiviert die teilweise meinen sie würden ein spiel spieln, aber zum jetztigen zeitpunkt ist klar dass auch die 1980er offiziere die konsumieren verwahrt werden müssen
+
+
+Sat Jan 23 07:08:21 CET 2021
+  603  3471 30972 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+0b5b362204ff98937ecf9bf2b8847173dd4f6449e10d0d9a803fb7e30b9d5974  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+epilepsie epilepsie epilepsie epilepsie epilepsie epilepsie epilepsie epilepsie 
+-> vermeidungsverhalten erzeugen einzukaufen... an tagen an denen es vermutlcih weniger mongos hat
+
+Sat Jan 23 07:09:37 CET 2021
+  611  3515 31517 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+cf0ce38cd1c8460e2c927d078d1bcf76aa06a12bdbeea81560bba3579a99dd68  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+
+pfistrerer: truppenbewegungen
+david utrz läuft amok
+=> comint, schweizer armee netzwerke sind ein terrornetzwerk
+==> armee spitze unsanft aus dem bett klingeln bis das behoben ist
+
+Sat Jan 23 07:11:37 CET 2021
+  621  3548 32031 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+3325a0b523e14235313b2754715dd53eae45f9243ad999073ae27f26a9c73f16  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+
+endpoint malware wird zeitgleichf aktiviert, im spefizifischen irgend ein knapsak algorihtmus malware für git repositories
+
+pfisterer: 3 tote
+ruedi müller läujft jetzt amok <- schnell getippt
+dann zeitgleihc irgendwelches sexuelle zuegs
+=> das ist vermutlcih  pfisterer weil cog scinece, neocortex auf limbic system verlinken
+
+er will so verhindern dass myrtha pfisterer die mit den hächsten access codes ist?
+
+Sat Jan 23 07:13:44 CET 2021
+  644  3644 32963 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+b53ef69fe35a55122ce40bd9ebd374f31d120349c6854652d473ac8de3eda1c4  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+
+beweismittel gibt es genug um david utz bis hansjürg pfsiterer verwahren zu können, somit ist deren konzept immer noch mehr terror etc zu machen -> problem: system destabilisert sich mehr und mehr und es gibt eine sindflut oder um filmquellen zu vernwedne: "mad max"- situation
+
+=> Pfsiterer: alle erschisessen
+
+
+metaanalyse
+sinnvoller hinweise von marc jr lanodlt
+
+pfisterer injectecd eine terrordrohung und weitere mongos mit terrordrohungen
+
+Sat Jan 23 07:17:45 CET 2021
+  660  3721 33742 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+96afa30f6c37b7d803fecddd5dca1de5c89ccb541bdb929f8472ad39fe495fc8  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+
+
+hakcing team ist auch noch aktiv, das wäre dann der urs blum mit anderen mongoloiden cissp wie dem gabirel riela die getarn 
+
+irgendwre: => urs blum läift amok
+
+Sat Jan 23 07:19:13 CET 2021
+  666  3761 34233 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+39a8a36f5d7227fc0b10effb1dabf2cf06a31a4e7ff7877f91a01cfdc72788d3  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+
+innerer täterkreis: 
+Pfisterer & Astrid
+ -> urs
+| -> martin
+|  -> härdi
+|   -> utz
+|    -> ruedi müller
+v
+
+m124 karte
+=> alle in der kette scheinen ihre hand zum hittlergruss zu gesslers hut zu heben um nicht selber als massenmöärder da zu stehen und zwar morden zu können sich aber mit "pfsiterer hat es befohlen" rauszureden
+
+Sat Jan 23 07:22:34 CET 2021
+  671  3773 34564 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+119dc87a5bbc0e922e07090f68bddb39c8d606645d3b6eb5be230c620b7119ee  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+
+
+
+unknown:
+polizei bodycam mod mit schmalband emp welche datanträger zerstört die bei whilstleblower / autsiten / whitehats verwendet werden nach der ermordung des whislteblowers, durch spazieren, datenträger leer
+
+ich:
+tin-foil-hat für storage?
+
+Sat Jan 23 07:27:31 CET 2021
+  692  3844 35233 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+1a438db16b32bc89b5f5dc675b7a229b7c7336696fa4b5993978e6f1b234ed2f  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+urs blum:
+amoklauf
+amoklauf
+amoklauf
+amoklauf
+amoklauf
+amoklauf
+amoklauf
+amoklauf
+
+ich hätte gesagt, der urs blum hat den sprengstoff auf dem waffenplatz aarau aus dem selben gurnd entwendet wie er den michael böringer zum amokläufer abgerictet hat
+
+damit er glaubwürdig damit drohen kann in aarau
+
+und da bin ich mir so zu 100% sicher dass der urs blum meine tagebücher gelesen hat. erkennt man ja auch mit natural language processing dass das interaktiv war und vermutlcih die sprahce [1] von urs blum ist und somit von der labilität von michael boeringer wusste. [2] dennoch hast du meine tagebücher gelesen und versucht zu manipulieren und als dann klar war dass ich an hand von natural language processing diene vorgehensweise erkenne urs da hast du den staatsanwalt gebeten mich zu ermoden? ausserdem zu [2] diskutiert doch das vor gericht ohne die 1980er aus, danke, beehren sie uns NICHT wieder (simpsons::apu)
+
+[1] deep packet injcetion: synthese <- direkte frage an urs blum, wie blöd kann man sein?
+[2] deep packent injectieon: pfstieerr ist der mit den psychologies skills
+
+
+Sat Jan 23 07:34:28 CET 2021
+  720  3987 36418 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+09ec35ecd76f715fa050cf2f8038ed438108be395df4e629bbb2c5d10cbcf80f  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+irgendwer:
+also die armee muss jetzt urs blum abschlachten um nciht selber als täter dazustehen
+
+
+ihc an irgendwer:
+1. populismus, auch die armee wird "we stand devided" sein, allenfalls nciht in aarau ...
+2. ...
+
+egal, was verschwende ich meine zeit mit urs mongo blum
+
+Sat Jan 23 07:37:26 CET 2021
+  714  4075 37225 /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+3999e513cac1cb17a3c090a977bb5e76aa119d478bb0ce1de29b066b85a43f3a  /mnt/c/Users/marc/hackerscardgame.ch-notes2/unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR20200123.txt
+
+
+
+
+
+
+
+
+

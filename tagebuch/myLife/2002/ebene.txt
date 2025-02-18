@@ -1,0 +1,116 @@
+/*to use with jbuilder5
+/*Vektor.java
+
+package ic01land_test2;
+
+/**
+ * Überschrift:   test2_1
+ * Beschreibung:
+ * Copyright:     Copyright (c) 2002
+ * Organisation:  keine
+ * @author Marc Landolt
+ * @version 1.0
+ */
+
+public class Vektor {
+
+  double x,y,z;
+
+  public Vektor(double x, double y, double z){
+    this.x = x;
+    this.y = y;
+    this.z = z;
+  }
+
+  public Vektor(){
+    this.x = 0;
+    this.y = 0;
+    this.z = 0;
+  }
+
+  public Vektor( Vektor a){
+    this.x = a.x;
+    this.y = a.y;
+    this.z = a.z;
+  }
+
+}
+
+/* EOF
+
+
+/* Punkt3d.java
+package ic01land_test2;
+
+/**
+ * Überschrift:   test2_1
+ * Beschreibung:
+ * Copyright:     Copyright (c) 2002
+ * Organisation:  keine
+ * @author landev
+ * @version 1.0
+ */
+
+public class Punkt3D {
+
+  double x,y,z;
+
+  public Punkt3D(double x, double y, double z){
+    this.x = x;
+    this.y = y;
+    this.z = z;
+  }
+
+  public Punkt3D(){
+    this.x = 0;
+    this.y = 0;
+    this.z = 0;
+  }
+
+  public Punkt3D( Punkt3D a){
+    this.x = a.x;
+    this.y = a.y;
+    this.z = a.z;
+  }
+
+}
+
+/* EOF
+
+/* Punkt3d.java
+
+package ic01land_test2;
+
+/**
+ * Überschrift:   test2_1
+ * Beschreibung:
+ * Copyright:     Copyright (c) 2002
+ * Organisation:  keine
+ * @author landev
+ * @version 1.0
+ */
+
+public class ebene {
+
+  Punkt3D p;
+  Vektor x,y;
+
+  public ebene(Punkt3D p, Vektor x, Vektor y){
+    this.p = p;
+    this.x = x;
+    this.y = y;
+  }
+    public ebene(){
+    this.p = new Punkt3D();
+    this.x = new Vektor();
+    this.y = new Vektor();
+  }
+
+    public ebene(ebene e){
+    this.p = e.p;
+    this.x = e.x;
+    this.y = e.y;
+  }
+}
+
+/*EOF

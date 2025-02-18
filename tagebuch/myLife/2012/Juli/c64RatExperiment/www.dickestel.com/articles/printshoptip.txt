@@ -1,0 +1,20 @@
+Print Shop Tip: NO FLIPPING!
+
+(This comes from "The Monitor," an incomplete newsletter we had lying around; we think it's from the
+Commodore Users Group of Saskatchewan)
+
+When using a Star NX1000c printer with Print Shop, you can use the three block side A graphics if
+you set your dip switches 1, 2 and 5 (presumably to ON). If the line spacing is wrong, run this program
+before booting up Print Shop:
+
+10 OPEN 4,4
+20 PRINT#4,CHR$(27) "1"
+30 PRINT#4,CHR$(27) "E"
+40 PRINT#4,CHR$(27) "G"
+50 CLOSE 4
+
+Note: It's not clear if the final character is line 20 is the letter l or the number 1; try it both ways and let
+us know.
+
+
+From the Commodore Information Center http://home.att.net/~rmestel/commodore.html

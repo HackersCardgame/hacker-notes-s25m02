@@ -1,0 +1,14 @@
+System log for account 962320 (icq) connected at 20.05.2007 17::01::13
+---- +++ 962320 hat sich angemeldet @ 2007-05-20 17:01:13 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-05-20 17:01:14 ----
+---- michi hat den Status von Offline zu Abwesend geändert @ 2007-05-20 17:01:14 ----
+---- michi wurde untätig @ 2007-05-20 17:01:14 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-05-20 17:01:14 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-05-20 17:01:14 ----
+---- Dominik wurde untätig @ 2007-05-20 17:01:14 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-20 17:03:49 ----
+---- +++ 962320 wurde untätig @ 2007-05-20 17:12:41 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- FairyLady hat den Status von Abwesend zu Nicht verfügbar geändert @ 2007-05-20 17:25:08 ----
+---- FairyLady hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-20 17:29:24 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-05-20 17:29:43 ----

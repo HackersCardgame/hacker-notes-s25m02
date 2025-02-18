@@ -1,0 +1,66 @@
+
+asdkjhdesireasldkh
+
+
+
+marc:lLV4HvzqGKwN
+
+ssl.buzzernet.nte/mysql/
+
+Customer ID (Nichandle): lm33957-ovh
+New password: gDotyYxW
+
+nectarine
+
+landev::12345678
+
+mein blog
+
+foaidshf
+
+Switch
+10761179
+%************1 *:$(12)
+
+Hostpoint
+
+Eobkogads2
+geemkojNant5
+
+mail@marclandolt.ch
+
+MarcASDFJKL
+
+
+
+sun EE	server und sun account
+
+admin	123234345
+
+
+
+0101020203
+
+
+admin 1234
+war21
+
+mobility
+315500:114847
+
+
+filu.myftp.org marc 12
+
+#network={
+#	ssid="arris54g"
+#	#psk="ZiKnEtSuHr"
+#	psk=ed4a8f5c360d40728ac1d513255b0a21605a8e0fcb9a2ebecffea7de671bea57
+#}
+
+
+network={
+	ssid="landoltm"
+	#psk="qayxswedcvfrtgb"
+	psk=26854cefbd5e1f9f9f915b6ee2cb5492023f5cad9acfcc2756b90e21ba91881d
+}
+

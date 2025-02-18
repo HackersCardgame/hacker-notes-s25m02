@@ -1,0 +1,50 @@
+Color Bubble-jet Printing with the Commodore 
+
+by Donald A Weaver
+
+(Reprinted by permission from April-May 1996 GEOS Publication, c/o Willis C. Patton 7969 Woodcrest Drive
+Louisville KY 40219; E-mail wcpat@iglou.com)
+
+I am involved in a hobby that requires mailing out rather involved lists with a personalized heading that
+includes information and other data that all of us involved try to spruce up with graphics, word and
+border art. 
+
+I had owned a color printer for quite some time but did not realize at first that by using GEOS in the 40-
+column mode, I could faithfully reproduce what was on the color screen. The printer was a Citizen
+200GH 9-pin with color adapter, which I later augmented with a Star 24-pin NX2420. These were
+capable of fairly decent printing jobs using the NX1000 Rainbow driver but the dots and linefeed marks
+that faintly showed through the color graphics and larger type sizes left something to be desired.
+
+Than I started receiving mailings from some of the other members which showed considerable
+improvement in their color and black and white production. I learned they were using bubble-jet
+printers from various manufacturers. Most used MS-DOS or Macintosh computers, but I reasoned I
+should be able to do it with the C128. So after reading articles in The Underground, Twin Cities
+64/128 and Commodore World, and doing quite a bit of personal research via calls to various
+manufacturers of bubble-jet printers, I decided on a Canon BJC-4000, due to the fact it was one of the
+very few that had some sort of Epson emulation.
+
+I purchased one but told the salesman if I could not make it work with my Commodore, I would return
+it. I hooked it up to the printer port via a Xetec Super Graphix Jr. interface, still using the NX1000
+Rainbow driver, and without any further adjustments, the first copy was an absolutely brilliant color job.
+I went into production immediately, and was satisfied for a while, but the more I looked at the finished
+product, I realized something was not quite right. Then it occurred to me that while all the shades of
+blue and green were fine, the reds were just that--red! No orange, magenta, etc., ever showed up.
+
+The next move was to try different printer drives. I tried several different ones with no improvement, but
+finally tried the disk entitled "GEOS Printer Drivers & Extras" from Creative Micro Designs. I found
+two drivers--Epson 24-pin color and Epson 8-pin color. The 24-pin version worked fine, showing all
+the shades of color that you see on the GEOS 40-column screen, but was very slow. The 8-pin was
+faster and the quality was virtually as good; consequently that was the one I settled on for production
+runs.
+
+In an effort to speed up the printing process I obtained a GeoCable, which I found I could not use
+because I did not have a GC driver that would print shades of red. There may be one around
+somewhere, but I'm unaware of it.
+
+I kept the Canon bubble-jet printer, as I also found it would print simple BASIC and other word
+processor programs, and was very fast with black and white printing. I refill the ink cartridges with bulk
+ink to cut down on expenses, as color ink cartridges are a but more costly than most color ribbons.
+Incidentally, the 24- and 8-pin Epson drivers also work very will with the Citizen and Star printers.
+
+From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html

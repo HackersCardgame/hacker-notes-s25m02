@@ -1,0 +1,31 @@
+
+ich glaube ein TTS ist keine "low hanging fruit". Da gibt es ganz viele die mal etwas angefangen haben. sieht man ja auch in der /etc/speech-dispatcher/speechd.conf bei den Modulen.
+
+Damit das aber richtig gut wird muss man dann extrem viel Zeit investieren. Und das für jede einzelne Sprache.
+
+------------------
+
+
+
+naja für eine einzelne Sprache wie Deutsch würde ich einfach einen 
+
+* richtig guten Hacker/Programmierer 
+
+* richtig guten Germanisten
+
+* richtig guten Englsch-Studierer
+
+* richtig guten VST Programmierer
+
+zusammen in eine Gummi-Zelle sperren, brauchbares Equipment aber auch nicht gutes weil sonst programmiert man mit der Mentalität "CPU ressources dont matter" und die erst wieder raus lassen wenn "The Product" [1] perfekt ist, in einer Isolier-Zelle einsperren und anständiges Informatik Equipment dazu legen und die erst wieder raus lassen wenn das Produkt gut ist. Dann ein paar Pool-Nudel um Konflikte auszutragen falls es Unstimmigkeiten gibt.
+
+TTS kriegt man übrigens bereits mit einem C64 hin [2]. Und die mindestens zweite Sprache wäre zwingend damit man gezwungen würde die Engine auch gleich so zu designen dass sie Multi-Lang ist.
+
+Das Problem ist diese guten Menschen werden relativ früh als solche erkannt, dann versucht man die entweder mit einer Frau, mit Drogen oder mit ganz viel Geld zu ownen und für sich zu nutzen. Ich habe meine Jobs eigentlich meist verloren weil ich ansprüche an Moral hatte.
+
+
+[1] https://www.youtube.com/watch?v=1dcrV_7JpXQ#t=1m (1:00)
+
+[2] https://discordier.github.io/sam/
+(auf [ Say ] Knöpfli drücken)
+

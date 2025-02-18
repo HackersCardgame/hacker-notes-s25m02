@@ -1,0 +1,7 @@
+
+* F1-Taste drückt *
+Das ist doch so ein bisschen Dein Spezial-Fach-Gebiet
+
+Was ist im DETAIL der Unterschied zwischen Neuromorphic Platform und Tensor-Processing-Units?
+
+

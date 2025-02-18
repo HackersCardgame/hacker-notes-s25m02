@@ -1,0 +1,29 @@
+THE WRITE STUFF WORD COUNT FEATURE
+
+by Mark R. Miller
+
+The "word count" command counts the number of words in your document and tells you how much of
+the available memory you have used and how much is left.  This is very useful in figuring when you are
+going to need to break a large document into two or more files.
+To use this function:
+
+Press [CTRL] =
+
+At the bottom of the screen will appear a line stating the number of words in the text followed by an
+equation subtracting the number of bytes of memory used from the starting total, leaving the number of
+bytes of memory left in this text area.  (One byte equals one letter, one space, one punctuation mark,
+one return, one formatting command letter, etc.)
+
+If you have not split the text into two separate areas, you will start with 21,759 bytes of memory
+available.  This should give you four to five full pages of 80 column text.
+
+If you start run out of memory, end the document at a logical place, save it, then clear memory and
+continue your document, and save this next section under a different name.  The names can be very
+similar, and have a logical order.  For example, this newsletter was saved in three files, named
+"october", "oct two", and "oct three".  (See "File Linking to learn how to "link" these documents
+together, so during printing, when you get to the end of one, then next one will automatically be loaded
+and the printing continued.)
+
+(From The Interface, newsletter of Fresno Commodore User Group, 10/88, via the Commodore
+Information Center, http://home.att.net/~rmestel/commodore.html)
+

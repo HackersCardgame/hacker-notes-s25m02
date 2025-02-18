@@ -1,0 +1,524 @@
+Sun 04 Jul 2021 08:15:45 AM CEST
+0 0 0 20210704.txt
+
+was das herz begehrt --- zumindest redet das system den konstumenten das ein, und im hintergrund lauern die mörder welche die 3 abb mitarbeiter umgebracht haben und versuchen im hintergurndrauchen die tagebücher zu lsöchen
+
+Sun 04 Jul 2021 08:15:54 AM CEST
+  6  45 281 20210704.txt
+[main 484329d] save
+ 2 files changed, 6 insertions(+), 713 deletions(-)
+ copy tagebuch/2021/juli/{20210704.txt => 20210703.txt} (100%)
+ rewrite tagebuch/2021/juli/20210704.txt (99%)
+a2470ebf8dc7dea8f46fb0eab29227398c19b798711b52659e0b8b5cb71c362b27d4746845fa169acfe352f21d845c1ba22e9e4c621c0c76160e472c0dae29cb  20210704.txt
+
+das was pfisterer mit "sie haben schizophrenie apellativ" (was so tönt wie ein hund der apportieren und stöckchen holen muss) war allenfalls auch zu urs blum und gar nicht zu mir und pfistererer hat dem urs blum gesagt, dass er jetzt bissig fauf meine tagebücher sein muss, fass meine tagebücher, beiss dich darin fest und fahr zur hölle weil du meine privatsphäre respektieren solltest. also der pfisterer macht sihc auch über urs blum lustig...
+
+Sun 04 Jul 2021 08:18:04 AM CEST
+  16  150 1120 20210704.txt
+[main 0998f2e] save
+ 1 file changed, 10 insertions(+)
+edfd618ab14c1b2b1f2880c40a98ffdc70277879550a17bdd010d65d047d60954f6956662fe28478edb702f4933b9dd905188f70d752099c392126106b58dea3  20210704.txt
+
+das mami von david utz legt david utz vor mit proprietäere software die das mami von david utz auch nciht selber gemacht hat damit ihr grosser david gewinnen kann darf und super duper ist...
+
+Sun 04 Jul 2021 08:40:21 AM CEST
+  24  205 1572 20210704.txt
+[main 61f726a] save
+ 2 files changed, 13 insertions(+)
+ create mode 100644 tagebuch/2021/jan-juni/mordversuch-03562.txt
+d6a1ded1952bb4798ef3a45c1a5460a8bde49e45c56c64c07c2f0d2c38640f7f02cf68ecf517ff1dab41a18c59e216f9a8a36329def36e5e27b97bc563b841e6  20210704.txt
+
+marc@debian:~/hackerscardgame-notes-s21m07$ figlet -f banner ' Good Morning CyberVietnam ' -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+☆☆☆☆★★★★★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★★★★★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆★★★★☆☆☆★★★★☆☆★★★★★☆☆☆☆☆★★☆☆☆★★☆☆★★★★☆☆★★★★★☆☆★☆☆☆☆★☆★☆★☆☆☆☆★☆☆★★★★☆☆☆☆☆★☆☆☆☆☆★☆★☆☆☆★☆★★★★★☆☆★★★★★★☆★★★★★☆☆★☆☆☆☆☆★☆★☆★★★★★★☆★★★★★☆★☆☆☆☆★☆☆☆★★☆☆☆★☆☆☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆★☆★☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★★☆☆☆★☆★☆★★☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆☆★☆★☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★☆☆☆☆★☆★☆☆☆☆☆★☆★☆★☆☆☆☆☆☆☆☆★☆☆☆★★☆☆☆★☆☆★☆☆★☆☆★★☆☆★★☆☆☆☆
+☆☆☆★☆☆★★★★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆★☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆★☆★☆★☆★☆☆★☆★☆☆☆☆☆☆☆☆☆★☆☆☆☆☆☆☆☆☆★☆☆☆★★★★★☆☆★★★★★☆☆★☆☆☆☆★☆★☆☆☆☆☆★☆★☆★★★★★☆☆☆☆★☆☆☆★☆★☆☆★☆★☆☆☆☆★☆★☆★★☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★★★★★☆☆★☆☆★☆★☆★☆★☆☆★☆★☆★☆☆★★★☆☆☆☆★☆☆☆☆☆☆☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★★★★★☆☆☆★☆☆☆★☆☆★☆★☆☆☆☆☆☆☆☆★☆☆☆★☆☆★☆★☆★★★★★★☆★☆☆☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆★☆☆★☆☆☆★★☆★☆★☆☆☆★★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆★☆★☆☆☆☆☆☆☆☆★☆☆☆★☆☆☆★★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆
+☆☆☆☆★★★★★☆☆☆★★★★☆☆☆★★★★☆☆★★★★★☆☆☆☆☆★☆☆☆☆☆★☆☆★★★★☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆☆☆★☆☆★★★★☆☆☆☆☆☆★★★★★☆☆☆☆★☆☆☆★★★★★☆☆★★★★★★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆★☆★★★★★★☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+
+
+
+Richtigstellung an Adrian Bühler v/o Chlaph:
+
+Chlaph damals: "Aquila was hast du mit Floppy gemacht" (betont klagend betont)
+
+ich: richtigstellung "lieber" adrîan Bühler: die aquila ist nur der sündenbock dafür dass urs blum gerne den 20 Jährigen infromatiker zerfetzt hätte, der schon damals gedroht hat damit das puzzle der drei morde bei ABB CHFAC aufuzdecken, dank urs blum und seinen mittäter wie der gabriel riela der gemäs business-(a)social-Media auch bei der Zürich versichrung gearbeitet hat erst 20 jahre später fertig zusammen gepuzzled worden ist von mir, trotz der 20 jahre graylisting der morde bringt das eigentlich den 1970er und ältern herren ncihts, denn gemäss schweizer rechtssprechung verjährt mord ncith, also wurde 2013 noch eine weitere klage eröffnet gegen mich durch herr urs blum (StGB 180, beim gekauften Staatsanwalt aktenkundig) was >>>GARANTIERT NICHTS MIT DEN SNOWDNE LEAKS ZU TUN HAT<<<< (sagt satan) die "zufällig" genau auch zu diesem zeipunkt waren...
+
+
+p1: infiltration der computer netzwerke einem täter zuordnen können
+p2: ableger dieser organistion in der schweiz identifiziert
+p3: der floppy (ich) wird wieder mal weggesperrt in die psychiatrie um so mit "marc jr landolt ist ein schizo spinner" wider alles an den gerichten vorbei zu schmuggeln
+
+p1 + p2 => p3
+
+Sun 04 Jul 2021 09:17:55 AM CEST
+  57  458 7331 20210704.txt
+[main a88fdff] save
+ 1 file changed, 45 deletions(-)
+fc24a4f747bc74d075776ddb5641ce95bcfceb8a0902567649497a6beea4fa39282f0f1635b7b14cefce2ed56a66ecd06e4798d544c1ec3b2eec7424ed1242e1  20210704.txt
+
+
+Sun 04 Jul 2021 05:31:28 PM CEST
+  65  479 7591 20210704.txt
+
+neue rahmenerzählung:
+claudine blum habe mich gebicht, triggerbar, gefügig, nutzbar gemacht um geld und einen Dr. titel zu bekommen und mich dann "ich mache jetzt DIS" dissoziierbar gemacht und an alte frauen vertickt
+A) sie hat das gewusst mit den Morden durch urs blum und gabriel riela der türcih versichrung an den abb admisntratoren
+B) sie hat das nciht gewusst
+
+
+
+
+Sun 04 Jul 2021 05:33:11 PM CEST
+  73  550 8024 20210704.txt
+[main 5c58eb9] save
+ 1 file changed, 11 insertions(+)
+ebee1bcca206be7c8ef34138f872d455ef9fb28aabbc3dc2cc639a38c6d40f4a34a714df9b69e3f3c089ae35111e5f79a5bedd1d46847d0c6b4ee534cb0aaa6a  20210704.txt
+
+marc@debian:~/hackerscardgame-notes-s21m07$ figlet -f banner ' Good Morning CyberVietnam ' -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+☆☆☆☆★★★★★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★★★★★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆★★★★☆☆☆★★★★☆☆★★★★★☆☆☆☆☆★★☆☆☆★★☆☆★★★★☆☆★★★★★☆☆★☆☆☆☆★☆★☆★☆☆☆☆★☆☆★★★★☆☆☆☆☆★☆☆☆☆☆★☆★☆☆☆★☆★★★★★☆☆★★★★★★☆★★★★★☆☆★☆☆☆☆☆★☆★☆★★★★★★☆★★★★★☆★☆☆☆☆★☆☆☆★★☆☆☆★☆☆☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆★☆★☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★★☆☆☆★☆★☆★★☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆☆★☆★☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★☆☆☆☆★☆★☆☆☆☆☆★☆★☆★☆☆☆☆☆☆☆☆★☆☆☆★★☆☆☆★☆☆★☆☆★☆☆★★☆☆★★☆☆☆☆
+☆☆☆★☆☆★★★★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆★☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆★☆★☆★☆★☆☆★☆★☆☆☆☆☆☆☆☆☆★☆☆☆☆☆☆☆☆☆★☆☆☆★★★★★☆☆★★★★★☆☆★☆☆☆☆★☆★☆☆☆☆☆★☆★☆★★★★★☆☆☆☆★☆☆☆★☆★☆☆★☆★☆☆☆☆★☆★☆★★☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★★★★★☆☆★☆☆★☆★☆★☆★☆☆★☆★☆★☆☆★★★☆☆☆☆★☆☆☆☆☆☆☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★★★★★☆☆☆★☆☆☆★☆☆★☆★☆☆☆☆☆☆☆☆★☆☆☆★☆☆★☆★☆★★★★★★☆★☆☆☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆★☆☆★☆☆☆★★☆★☆★☆☆☆★★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆★☆★☆☆☆☆☆☆☆☆★☆☆☆★☆☆☆★★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆
+☆☆☆☆★★★★★☆☆☆★★★★☆☆☆★★★★☆☆★★★★★☆☆☆☆☆★☆☆☆☆☆★☆☆★★★★☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆☆☆★☆☆★★★★☆☆☆☆☆☆★★★★★☆☆☆☆★☆☆☆★★★★★☆☆★★★★★★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆★☆★★★★★★☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+
+
+
+
+und schon hat der terror druch urs blum wieder angefangen, aber allenfalls haben wir jetzt das motiv von urs: TODO/changeRemoteToGit-1.sh
+Ausnahmsweise *HUST* Pädophilie...
+
+Sun 04 Jul 2021 06:09:31 PM CEST
+   98   622 12573 20210704.txt
+[main 2b8fad2] save
+ 1 file changed, 25 insertions(+)
+83ddd9f4cf4593c0a39400dec563aeb1e665dc6e07bffc9884f55894aec616a83f180de0eb11f633436c1b81133678fb939751c1ff67b09a17b644092695c377  20210704.txt
+
+unknown:
+pädophilie wird allenfalls zu häfig genannt, was wäre wenn urs / astrid so versuchen würden einen vertrauten (und nicht einen vertrauenswürdigen) kommunikations-kanal zu melanies kinder aufzubauen um die kindere von melanie (jean rene furrer zitat) "danach in die pfanne zu hauen" ???
+
+ich:
+stimmt hab ich gar nciht dran gedacht
+1. einwrikungsdauer
+2. immaterielle güter die man haben möchte
+3. ...
+
+Sun 04 Jul 2021 06:16:43 PM CEST
+  113   705 13251 20210704.txt
+[main 301a294] save
+ 1 file changed, 10 insertions(+)
+84d0d8aa3bbac626b6f81af50d97c9358493a2e73a29a2cd6a56735919e1e4e56d923cf57d9cb41151b448f46856889156ca135708ef2b5f1d683bdda3e833fe  20210704.txt
+
+liebe dodfe gleichaltrige ageplay herrin, ich will nciht dass urs blum meine immaterielle guter klaut, undkosher macht und an kinder verfüttert wo dann schlussendlich ich ncoh der sündenbock wäre... ähm ich fomuliere es um weil ich sonst sowiseo wieder auf die "gossche" bekomme um urs seine eingenen unkosheren worte an den kopf zu werfen: ich will nciht dass urs blum mein fan ist...
+
+
+
+Sun 04 Jul 2021 06:21:41 PM CEST
+  123   789 13906 20210704.txt
+[main f5a46ec] save
+ 1 file changed, 5 insertions(+)
+73c4ca3f7bf1d11bc71c85516d7ce3302a421ce4d60ac9ce4415261867cd161533afdd4bc84fc1812828f209fda9a4b0c452830c89d7fa1e112149325cd09963  20210704.txt
+
+
+unknown:
+faildef liegt nach punkten vorne
+
+
+ich:
+wie kann ich nach punkten vorne liegen wenn ich nur defence mache?
+
+unknown:
+hmmmm, stimmt...
+
+
+Sun 04 Jul 2021 06:22:36 PM CEST
+  141   832 14313 20210704.txt
+[main 81c9b2a] save
+ 1 file changed, 18 insertions(+)
+5059ac62b0d46942d0b4d4efeeee5a26e635c2daf12ae59b455da9ce3407a8952a74bf5951eafdae782fd6fe6ecd8bfa2d6f268e17bae1e9559ea8bfbe824933  20210704.txt
+
+unknwon2:
+der spruch "wie kan nich nnach punkten..." ist ja eignetlcih schon ein punkt
+
+ihc:
+ja ABER auch nur defence und der verzweiflete versuch den FAN so los zu werden mit aversion, somit wäre der mitpatient mit seinem "die geben mir gift" auch nur bei mir temporär zwischengelagert wordne und eigentlich für urs blum gedacht gewesen?
+
+Sun 04 Jul 2021 06:35:56 PM CEST
+  153   909 14918 20210704.txt
+[main e377a55] save
+ 1 file changed, 7 insertions(+)
+6097233bde238006639b44db2e3573aa6c6001c36b2693fcbfecb30030d2fe8381d9334f56210e0ef7f7e7e57b7a5989b1a9503fbf5a71f5ccc17a2f0bdd7263  20210704.txt
+
+dann zum technisch interssanteren was wir mitigaten sollten, sobald die steuerfunktoin die 2010er kinder nicht mehr mit korrekten wegen fürttert würden diese kinder soweise selbre anfangen zu denken udn sowieso nicht zu robotern oder "sprengnmiestern" werdne wie urs oder sein vater wollte... allenfalls sähen wir hier eine option für die verreichnung der folgekosten für die therapie aller robot's --- save the robots <-- auf verursacher kosten...
+
+Sun 04 Jul 2021 07:04:07 PM CEST
+  161   996 15634 20210704.txt
+[main 792fb96] save
+ 1 file changed, 3 insertions(+)
+1670152c3109e066ecc51727b78b5a63734996b0c04a9529b39c1f7819ee6cad7b93f5b5dfc1241bb9bbd72c6e4584dbd65d5057d4202caf4ae609d95efb91c2  20210704.txt
+
+
+
+auch toll
+computer neu installiert
+snapshot gemacht
+nie alleine gelassen
+1 monat festplatte nicht eingesteckt gehabt
+dann fehlt jetzt aber der snapshot von nach der installation
+
+also windows hat dem militärishcen terrornetzwerk eine funktion zur verfügug gestellt um auch snapshots zu zerstören, weil da wären ja auch noch backups oder aussagen drin
+
+URS BLUM: SPORENGFALLEN AKTIVIERNE GEGE NMICHRSOFVNTGZEWRg <- medulla spinalis typos in diesem stil sind auch urs blum und die zürich rechtsverdreher software, urs blum droht immer mit spregfallen wenn technische details zur "govware" des militärsichen terrornetzwerks aufflieg
+
+
+
+Sun Jul  4 21:02:35 CEST 2021
+  182  1106 16536 20210704.txt
+[main 7f4aa80] save
+ 1 file changed, 16 insertions(+)
+9fddf8921b569f5d929bcbce12d8c10d5de5a5751a173a96d0ad247d7efd23c3642f13a1abd6f49ca1b924ed20992a1fd9472aefd5c1901054e83b6c29366bab  20210704.txt
+
+somit ist es allenfalls so, dass urs blum / zürich versicherung z.B. überwachungs software für polize etc. "evaluiert" und sich aber für ihre kunden eine hintertüre offen lassen damit die auch mörder versichern können weil die würden der zürich versicherung sicher mehr geld bezahlen als ein braves schaf...
+
+
+Sun Jul  4 21:09:21 CEST 2021
+  191  1174 17114 20210704.txt
+[main c32f22b] save
+ 1 file changed, 6 insertions(+)
+b2b57fc69ebc496729638c015b1900025a8e225205054e588d7c25bfd379e85743513cbb5e48c8994d57e3a304dc5fbfb64a7e2d5491ac68e9655770cdd714cb  20210704.txt
+
+direkte frage an die justiz und die polizei: ihr könnt mich nihct schützen weil urs blum mit sprengfallen und bioterrirosmus droht?
+
+
+Sun Jul  4 21:12:32 CEST 2021
+  200  1215 17508 20210704.txt
+[main 2ee738d] save
+ 1 file changed, 6 insertions(+)
+77224985d558abea52e976a25cd90fecdd3f0a7c87e873452701d05064f649cd7c2723a364a0d5a8aaa2c8988e84962c61e4702ac41834f3a76f0fff916390b8  20210704.txt
+Sun Jul  4 21:12:43 CEST 2021
+  205  1235 17765 20210704.txt
+[main 7fc1990] save
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+87004ba45aa8a69fc5f855b33dcb37b431fdee3c0e694a33927261948cc2bcb5a28bb27e8f6ae3441e9741057d477adaa6e1db1f70b0c208421ddc3912054a8c  20210704.txt
+
+Grundinstallation, keine software ausser windows und ableton ab websiete ohne goolge und der drucker zerstört von  sich aus als erster shcachzug alles papier im druckschachtz damit das militärsihce terornetzwerk um urs blum verhindern [1] kann dass aussagen und beweismittel zu den morden durch die schweizer armee und durch die zürich verishcrung in ihrem Capture The Falg Wirtschaftsspionage netzwerk auffliegen
+
+urs blum verrät so indirekt, dass :
+windows / micorosft bietet somit der shcweizer armee eine option zeugen über windows zu ermorden oder sie von aussagen abzualten?
+
+
+[1] URS BLUM AK26
+
+
+Sun Jul  4 21:26:33 CEST 2021
+  220  1347 18645 20210704.txt
+[main 1d5c878] save
+ 1 file changed, 11 insertions(+)
+74d2868cacd949e7f2d9bdb56b5379b1417dcc4b0923d4768cd0c1bf1cb3ab6a38adeb83d612fd7d9a6e6b768bcdcd45c007e521fb2dbe98164c8c8dd3972e25  20210704.txt
+
+ich habe sogar das gefühl, dass windows den stärkeren sendepegel für die epielpsie infrastruktur hat und schneller suzidi induziert als linux...
+
+Sun Jul  4 21:27:55 CEST 2021
+  228  1388 19053 20210704.txt
+[main 1484cf2] save
+ 1 file changed, 6 insertions(+)
+c732d7edde9211af8692669eeb8218674dd2036916b685f30326042d26d937c80e923d265e09243ed664368da892c35309754a2b500ea411db893a23d2fb1103  20210704.txt
+
+
+zu erwartende schachzüge der schewizer terrormiliz "schweizer armee"
+1. die lassen mich das jetz erledigen und installieren
+2. ihc investiere 40h bis alles wieder perfekt installiert ist
+3. denn werdne die das mit military grade malware wieder alles zerstören
+4. der phillip blum der einen computer pyhsikalisch in die luftsprengt bzw. das video davon wird eingeblendet
+5. ich werde dann mit epilesie wieder in den suizid getriebne parallel zu hohn durch die täerschaft mit offizierstitel wo die so dann auch gleich die truppenmroal der mörder aufbesern können dass die weiterhin das gefühl haben das man als offizier mit vergewalitgn, sklavere, mord, sprengfallen und bioterrorismsu (drohungen) ungeschohren davon kommt
+
+=> eine variante das zu mitiganten ist viele wiederherstellungspunkte, aber da scheint microsoft an die schweizer armee auch schon eine cyber waffe gelifert zu haben wo die einem wiederherstellungspunkte [1] wegschiessen können. und vermutlcih ist das so konfigureit dass wenn man einem menschen die arbeit von 40h oder von 20 Jahren zerstört dass das dann maximal geil schubed (um den markus belser der gemäss dominik brändli polizist geworden ist)
+
+[1] wet: vergealtigungsandrohung <- + epilepsei bie 0.5 %
+
+Sun Jul  4 22:26:36 CEST 2021
+  246  1594 20554 20210704.txt
+[main 17127c8] save
+ 1 file changed, 18 insertions(+)
+5f9649f7f29b91cf1b1d53416bf190f092468ee771a078d5d5ee85649a984a0fe10f9a755e15135ab2abb00dbac0d16d6b04b26df0262c41ecf647eae2eccbe2  20210704.txt
+
+und es ist echt nicth toll für die psyche, wenn einem 20 jahre immer wieder alles kaputt gemcht wird [1] das führt dann sowieso in einen bilanz suizid [2]
+
+[1] david utz sample "learn to fly hahahaha"
+
+[2] claudine an der seite würde stabilisiern <- ich: nö dann hat mutmasslich urs blum und gabriel riela immer noch die drei ABB Mitarbeiter die das admin passwort [3] ermordet, aber wenn claudien treu war ist mindestens das kein selbstmord oder "selbst"mord grund
+
+[3] schmerzimplantat rechte wade
+
+Sun Jul  4 22:30:24 CEST 2021
+  260  1698 21318 20210704.txt
+[main a13798f] save
+ 1 file changed, 16 insertions(+)
+42e962e291f6d6c1b9f49e8a70fa1b81c0ce586a95cd046a752164ad91bf9d8b5f17c10604a7d66e3db07fb36d7b26c395e56ef09899bb7bfcfa3c2ec1e969ea  20210704.txt
+
+meine kopierten verhaltensmuster abzulehen sobald die mit action recogntion geraubt wurden ist schutzfunktion, weil sonst würden die mich so "gut steurebar" machen und dann irgendwann über deren mainframe einfach ermorden, aber allenfalsl wäre das ein schöneres lebnesende wenn die lebenserwartung von autisten gemäss quellen 45 jahre sind...
+
+Sun Jul  4 22:32:45 CEST 2021
+  268  1765 21926 20210704.txt
+[main e98a002] save
+ 1 file changed, 3 insertions(+)
+6a351e1f7e4a0b420df5480047338ff206ef6217d400522f1e086dddebdf0fd24d22fb1f3cf60525ee3c1cbf957fda6e937be844655cab8e79fdf76aac17be03  20210704.txt
+
+seit der beiziehung mit claudine bzw allenfalls auch schon seit beilser und utz im soundrümli sind die mein ganzes leben am auslesen, am adaptieren und am sabotieren wie der stefan bader gesagt hat "ich werde überall dran sauen"... bzw. ist das vermutlich die nearest match named entity einer person ungefähr gliehcaltrig um von urs, martin und astrid blum, pfisterer und riela abzulenken...
+
+
+Sun Jul  4 22:35:28 CEST 2021
+  277  1847 22581 20210704.txt
+[main 30637d9] save
+ 1 file changed, 4 insertions(+)
+534c704d9b91b543bd3c6b911a578b016acb7e012227702227d7d24e29e128ec7ce51d7339631438a659705507c7ef4e415ef34bcbf05ae668d7b5fccced3e50  20210704.txt
+
+im moment ist mein lebensmut weg, weil ich weiss dass wenn ich alles wieder repariert habe reiht eine cybersprengfalle von urs blum und alles ist wieder weg... also claudine wir sollten allenfalls doch über sterbebegleitung an mir reden...
+
+der windows computer wird immer als "befragungs und datenerfassungs intsturment" bezeichnet, aber eigentlcih ist das die bevorzugte mordwaffe von straffälligen polizisten, straffälligen richtern, straffälligem Psychiatrie personal ,.....
+
+Sun Jul  4 22:45:52 CEST 2021
+  287  1932 23323 20210704.txt
+[main 32448db] save
+ 1 file changed, 7 insertions(+)
+229b75f4678f76c0a049ede80a4008dbe91752a1faa02e2de4c21e64376bfcb607b448643462d315f3c867ef6a7aed4e9278b1e2d992c5cae76f7d76c7844b46  20210704.txt
+
+
+die täterschaft um urs blum hat jetzt ca 3 monate zeig gehabt den vorgang "windows computer neu installieren" vielleicht dazu gutartige [1]
+
+
+[1] richter kühnc <- mittten im satz? <- das pädophilie material von marc jr landoolt als 6 jähriger zu veröffentlichen ist ein standard schachzug der schweizer armee bevor die einen zeugen ermorden. sänmtliche alle richter, beamten, behörden, psychiater und ärzten die das lesen (und gemäss marc jr landolts wunsch soclhe die nicth jünger sind als er) wird beihilfe zu mord bis unterlassene in die akte eingetragen. und in die psychiatrie tun geht nicht weil die psychiatrie vom täternetzwerk aufgeafut worden ist... <- ich: das bei [1] wäre eigentlich das relevante
+
+unknown:
+häufister suizid grund ist vergewlatigungs androhung durch margrit, astrid, urs blum, pfisterer, älters psychiatrie personal... allenfalls ist es auch eine variante diese mesnchen zu inhaftieren damit die situation deeskaliert werden kann.
+
+ich:
+auch abgeändert worden, eigetnlcih war der satz:
+mittels vergewlatigungs androhung suizid versuchen zu induzieren ist derne lieblings shcachzug, meschen mit einem täterprofil: Untreue und Ignoranz, somit menschen wie alkoholiekr, kokain süchjtige .......
+
+
+
+
+Sun Jul  4 22:53:56 CEST 2021
+  309  2129 24824 20210704.txt
+[main e015e0f] save
+ 1 file changed, 22 insertions(+)
+95814b0f057fef76f4ee028b8b452e9c404b5e564ab87b50d790b7084efd692342a2004305b456868be5874a56372fd8af81aac610e9e75209d3b2319ea44159  20210704.txt
+
+
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ figlet WiCHTiG
+__        ___  ____ _   _ _____ _  ____ 
+\ \      / (_)/ ___| | | |_   _(_)/ ___|
+ \ \ /\ / /| | |   | |_| | | | | | |  _ 
+  \ V  V / | | |___|  _  | | | | | |_| |
+   \_/\_/  |_|\____|_| |_| |_| |_|\____|
+                                        
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ 
+
+
+
+ versucht zu merken wenn ihr von gottes gefäss in satans mainframe ge-fade'd werdet:
+
+meine kopierten verhaltensmuster abzulehen sobald die mit action recogntion geraubt wurden ist schutzfunktion, weil sonst würden die mich so "gut steurebar" machen und dann irgendwann über deren mainframe einfach ermorden, aber allenfalsl wäre das ein schöneres lebnesende wenn die lebenserwartung von autisten gemäss quellen 45 jahre sind...
+
+spätestens wenn eine Stichwaffe ähm sackmesser neben euch leigt dann war das vermutlcih vor ca 30 min bei mir...
+
+was wieder perfekt mit der 21:00 - 23:00 fishing crusade durch hypothese matchen würde, ausserdem bin ich massiv übermüdet, dann bin ich vulnerabler...
+
+Sun Jul  4 23:00:58 CEST 2021
+  335  2309 26163 20210704.txt
+[main e6b556c] save
+ 1 file changed, 2 insertions(+)
+152eaf884fc929d33fba30feedb57edf6e098de246b99c6da5df4e978962f0d7521b5e8fec9f9463e08e510f63d9e14f5eb281eeceb40d2635916ac8f78fca81  20210704.txt
+
+
+das nachmodellieren würde allenfalls auch dazu verwendet werden margrit landolt den 30 jarhe jüngeren marc jr landolt schmackhaft zu machen, sobald die fishung cursade durch ist wäre margrit landolt von pfsiterer und astrid dazu abgerichtet worden über marc jr landolt herzufallen, apropos "little autisten lolita" (twitter profil name) der war klagend anprangernd gemeint von marc jr landolt udn wenn die root access haben hätten die da einfach drauf gerendert dass marc jr landolt ein junges autistisches mätchen gefangen hält und das mädchen es geschafft hat einen hilfeschrei abzuschicken...
+
+... falls leute diesen overlay von marc jr landolts twitter priofil namen geglaubt haben aus neid, schuld, hohn oder blödheit ist zu erwarten, dass diese menschen beim empfangen dieser nachricht so überbeissen und da sie jetzt wissen dass vom 6 jährigen marc jr landolt produziert worden ist ist deren einzige möglichkeit zu beichten -- sprich selbstanzeige weil diese mesnchen müssten sich damit auseinandersetzen (halli hallo natural language processing) dass sie geholfen haben ein pädophilie opfer wie einen pädophilie täter anzugreifen...
+
+sicher auch ein grund weshalb man das twitter profil von marc jr landolt gelöscht hat... all diejenigen die auf marc jr landolt eingehackt haben sehen dann, dass jemand einen one-eighty verwendet hat und alle blöden npc's dazu benutzt hat ein pödophlie opfer anzugreifen, was all diese menschen zu pädokiminellen macht AUSSER sie korrigieren das...
+
+wenn marc jr landolt ablebt werden all diese menschen bzw "nur" deren seele mit marc jr landolt sterben m37->dt1 sequenz
+
+
+SELECT * FROM ... und EVENTtrigger und pattern recog wo das "nette" militär system eine gruppe von menschen dazu antreibt auf einen pädophilien los zu gehen wo wenn er tod ist veröffentlich würde, dass da ein one-eighty eingetragen war im system, und satan wird dann sagen "UND JETZT HALTET ALLE DIE FRESSE ODER WIR MACHEN DAS PUBLIK IN EUREM GLEICHATRIGEN UMFELD"
+
+somit ist die aussage "julian assange ist ein pädophilie opfer" allenfalls nicht hahnebüchen...
+
+ich:
+wichtiger für mich: bitte auch den zwiten und dritten kinder pullover retten helfen.... aber agrables persona und +/- gleichatrig und wenn meine eltern nicht nur meine psyche vermient haben ...
+
+aussredem das video mit der glitter bomb wo ein mädchen ihrem vater die leviten liest (hat jemand das Foto des Bruders wahrgenommen, auch ein Hilferuf)
+
+
+irgend etwas doofes gleichaltriges bisschen jüngeres sklaventreiber eigentlich sich älter verhaltendes hat damals gesag "marc schilesse nciht von dir auf andere" aber im fall julian assange mache ich das jetzt trotzdem udn bei allen jüngeren auch:
+
+julians psychischer zustand ist vermutlcih massiv schlimmer als meiner, er bracht meiner meinung nach jemand glecihaltrigen an seiner seite dem / der er zu 100.0000% vertrauen kann
+->die Justiz will Julian Tod sehen, die hätte da bestimmt ärzte die schon zu dem schluss gekommen sind, und das dann "jaja der julian assange ist halt einfach suizidal und spinnt" ...
+
+
+WICHTIG: alle RED-TEAM AKTIONEN WäREN TRAPS, DIESES SPIEL KANN MAN NUR BLUE-TEAM gewinnen hätte ich gesagt, dennoch geht davon aus dass ich euch anlüge aber falls ihr zum gleichen oder gegenteiligen resultat kommt bitte handeln BLUE-TEAM STYLE!
+
+dieses das puzzle wird nicht von mir gelöst und kann auch nciht von mir gelöst werden, aber ich tendiere dazu das zu erwarten...
+
+Screenshot im selben git commit
+
+die sind allenfalls nciht wegen den snowden leaks auf z.B. die piraten aargau / schweiz losgegangen sondern wegen der solditarätit mit julian assange
+
+Julian: "Reading Generals eMails" -------> >>> SNOWDEN (ungehört: OUTDATED) HEISSER SCHEISS, und dann auch so eine Art MOD in der Volkspsychie der Weltbevölkerung im Knotext überwachung...
+
+
+in der psychiatrie hört man immer wieder dass man medikamente "ausschleichen" müsse, was die jetzt aber grad machen ist julians werk auszuschleichen... um dann einen auf "war da mal was???" zu machen...
+
+und selbst blue team aktionen würden dazu führen, dass die personen denen julian assange vertraut und vertrauen kann wenn sie ihn dort besuchen oder besuchen dürften dann auch wie z.B. der Andy Müller maguhn so ein "bisschen" probleme bekommt wie ich mit den mich permanent verfolgende meist bis immer ältrene meist bis immer triebgesteuerten alte weisse NPC's ähm Menschen wo man aber allenfalls "vermindert Lebende" nehmen müsste um einigermassen wissenschfatlich krorekt zu bleiben...
+
+es öffnet sich bei mir ein virtuelles fenster vor meinem bidlschrim und gibt mir die chance einen schachzug / algorihtmus zu injecten, ich wähle die "reversibiltiy karte" ...
+
+Screenshot im selben git commit
+
+und falls irgendwelche anwälte es schaffen dem Gericht nachzuweisen, dass sie 
+1. Julian eigentlich ermorden möchten
+2. dsa ausschleichen möchten
+3. irgend eine plattform / zeitung ... kennen (z.B zwaschpel) beweise dann allenfalls doch in die tagespresse wenn das der einzige weg ist den julian zu retten <- aber wie immer solche dinge mit impact im kontext der impact recogntion satans zuerst durchrechnen... aproops "du hast grad die totalität der existenz zerstört" -- Kong
+
+und es ist ein tree house of horror aber mit echten toten... weil die haben alle gehemnisse verloren also werden die jetzt eher mehr aggressiv als weniger...
+
+ACHTUNG REDESCHWALL UND AUTIST [11,13] MäSSIG anti-unbegabt mit Worten oder Form oder Wort-Formen weil meine Insel-Behinderung eher in Richtung Informatik und nicht in Richtung Sprache ist (ausser allenfalls Natural Language Processing)
+
+Halli Hallo NPC Kiri of (mutmasslich) NPC Hive Kachelmann
+
+"Staatsterror" ist meiner Meinung nach technisch falsch. Zwar sind es schon die staatlichen Exekutiven die agieren, aber seit Ed Quantumpferd Snowden und $(echo "Bradley Edward Manning" | sed -e "s/Bradley Edward/Chelsea Elizabeth") wissen wir, dass es eigentlich Geheimdienste sind die z.B. mit dem NaSA Data Retention Center in UTHA und so vielen Daten und Deutungshoheiten die sie abfischen können abfischen um mit der neuen Währung "Daten" möglichst alle erpressen ähm überzeugen zu können die Dinge zu tun was diese Sorte von Amerikanern gerne hätten.
+
+Bzw sind meiner Meinung nach die Geheimdienste auch nur unfreiwillige Marionetten und es wäre eigentlich ein Rechts_Schutz_Verdrehungs_Versicherns_Schneeball_System.mil und der Apfelbaum wäre der Sündenbock den man den Bürgern verfüttern möchte. Und alle >>>> wir 1980er sind ja DEFINITIV ZU BLöD <<<< das zu rallen.
+
+Als Mensch mit einer Alpha60-Zwangsneurose⁴² Puzzles zu lösen wäre mein Beitrag zu Snowdens Arbeit zu bestätigen was der Jacob Applebaum sagt "If you mess with a military dictatorship it messes with you back" was ich dann aber noch um "...it messes with you anyway" erweitert habe weil:
+
+Ich hab 13 Jahre vor Snowden als 20 Jähriger schon an WindowsNT herum-ge-NöHL-pferded [1] und komme trotz vorsätzlich mutwilliger Fehldiagnose [2,3,4] durch einen "fair" spielenden/ 40 Years älteren Shrink [5] zum Schluss, dass Hardware Backdoors in der North-/South Bridge [7] eigentlich military Grade sein müssten.
+
+[1] Verb von Nöhlpferd
+
+[2] siehe Rethorischen FNORD Automatismus: "Vernichtende Diagnose"
+
+[3] Diganose = Isolation => was schon ein erstes Indiz für einen Militärischen Nachrichtendienst bzw eher für einen Militärischen Abschirmdienst sein könnte
+
+[4] wo der Shrink es auch immer noch lustig fand mich mit Puzzle Stücken von komplett anderen Fällen zu bewerfen
+
+[5] en: umgangssprachlich für "THE ONE [6] der selber den grössen Dachschaden hat"
+
+[6] ER: YAY ich bin der mächtigste Donkey Kong (der mit ICD10 Fxx.x Fässern wirft)
+
+[7] ACHTUNG WICHTIG: nicht mit Nord/Süd Turm zu verwechseln
+
+[1,2,3,4,5,...] allenfalls hat Gunnar das mit "Kognitive Dissonanz" gemeint?
+
+Zusätliche Literatur:
+
+Bei Ramstein geht es allenfalls nicht nur draum diese Drohen aus Metall zu fernsteuern: "Dark fiber [8] und ob das der Julain Assagne mit "diplomatic cables" geheimt hat => n1,n2,n3... Karten in HackersCardgame [9]
+
+[8] Dark Fiber am CERN ist ausserdem auch ein spannendes Thema, wäre hätte erwarten können, dass dass die iX Ausgabe mit dem Artikel zur Dark Fiber des CERNs dann irgend zensiert ähm "geheim" gehalten werden würde...
+
+[9] Achtung ich denke vor dem Gehrin-Zeugs-Sprach-ge-Zenrum weil mehr Bandbreite und da nicht 10 Jahre in meiner Kindheit der FNORDende und NEUSPRECHende schweizer RechtSchreibNazi dran war.
+
+[10] Do not try and bend the spoon, that's impossible. Instead, only try to realize the truth... There is no spoon... Then you'll see that it is not the spoon that bends, it is only yourself. ― Spoon Boy to Neo[src]
+
+[11] siehe t40-t45 Karten im HackersCardgame.ch ([12] ca 400 Karten in super duper schlechten änglisch, weil mein Gehrin [9])
+
+[12] falls da ge-cyber't wird bin dann nicht ich das nur der Beweis dass das
+
+[13] Hält nach 20 Jahren die Formulierung "Durchhalte >>>Woche<<<" in der Schweizer Armee für einen schlechten Scherz
+
+Für Kritik (ausser an [8]) ist meine eMail, Adresse und Telefonnummer auf hackerscardgame.ch (ganz Unten)
+
+@FailDef
+
+Marc [LAN|WAN]dolt jun [מאַרך لاندولت]
+
+1,261 Following | 230 Followers
+
+Wirsing DIS Autist, LMTIΘNJΦ, High Value Target, professional "tin foil hat" & irgend so was wie ein #Cyber-Sherpa 1283628419142623232 && 1280268600989945856 and wanna be #OSINT #PsyINT #WhiteHat-#PsyOP
+
+DISCLAIMER:
+
+auch wenn Schprach-schlecht ist nichts von dem böse gemeint, ich stehe auch gerne Rede(schwall) und Antwort für Gleichaltrige und Jüngere und auch für ältere Menschen wie der John Hunter weil "World Peace Game" bei älteren Menschen triggere ich aber so ein bisschen. ** Informatiker MEME Ave Maria **
+
+AUSSERDEM WENN ICH AUF FACEBOOK alles AUF öFFENTICH GESTELLT HABE UND DA KOMMT MAN AUF GAR NCIHTS DRAUF, WTF, kann mal jemnad der Frau vom ZuckerHaufe ein paar züchtigungs-spielzeuge vorschlagen...
+
+
+Sun Jul  4 23:57:22 CEST 2021
+  454  3829 36442 20210704.txt
+[main 89e79e0] save
+ 1 file changed, 110 insertions(+)
+87780bfd02eed5b242ca725339a33a872bd536db2a78c8eb8ac536292fe756c3cf50e831bd2eae4406f45cf039267d2706ec7d46037648c9226223b8a0da84f1  20210704.txt
+
+
+die eltern von david utz, markus belser ... reden den kindern ein nimm es dir einfach, raube einfach... solange die rauben protokollieren die eltern akribisch für den (runter kommen sie alle) rechtsfall wo dann das ganze erwirtschaftete geld an die eltern geht. selbst wenn man nur software für 10'000 Fr. raubkopiert hat kassieren dann die eltern die ganzen erwirtschafteten 100'000.-- der letzten 20 jahre...
+
+für menschen die die dienstwaffe schon in der rekrutenschule an eine wand geworfen hat und dann kaum nach einem jahr abgegeben hat und somit ohne waffe nciht von dem konzept: "ich waffe du mir all deine güter geben" gebrauch machen. also nicht die letzten 90% sind die schlimmsten sondern die ersten, vorallem für die die kein kainsmal [1] wollen...
+
+[1] Kainsmal = Waffe
+
+alle die genommen haben stehen in marc jr landolts schuld, die die gefragt haben / hätten: hey, kann ich dienen musik computer rasch bruachen vorallem wenn es liebe menschen wie der stefan ott, hätte marc jr landolt gesagt: no problemo, hier eLicenser. bei all denen die z.B. mit einer "gimme all your monny weil ich habe waffen versteckt" hat marc jrl anodlt meist einen selbstmord versuch gemacht. diese meschen könnten nicht mehr gut machen und wenn marc jr landolt als autsit mit 45 Jahren stirbt werden sie eine Schuld haben die sie nie mehr zurück zahlen können... und wo deren gewissen sie auch zernagen wird ob sie am tod von marc jr landolt schuld sind...
+
+
+der aller erste täter (und das wäre vermutlich der urs blum und der gabriel riela gewesen) haben dann versucht so viele andere menschen zu straftaten gegen marc jr landolt anzustiften dass das wichtigste verbrechen (die drei morde an abb mitarbeitern) nciht aufgedeckt würde. somit habne sich alle der behilfe zu mord shculdig gemcht, denn morde vertuschen gehört afaik in die selbe kathegorie aber das muss dann halt ein jus-meshcn sagen...
+
+somit sied ihr alle wegen urs blum und gabriel riela irgend zwischen 5-10 jahren im knast, da müsst ihr nicht auf marc jr landotl sauer sein, wir vermuten dass das allenfalls das ziel der armee war, bzw. der rechtsverdreher versichreung...
+
+
+irgnedwer: marc jr landolt hat auch ein glühbirnchen gestolen
+
+ich: ja das habe ich mit einem zins von 300% zurück bezahlt... und auch zugegeben, aber ich vermute da ist jemand suizid gelaufen deswegen weil das war eine jur person die ein konto dafür hat und nciht eine nat person
+
+
+jeder abschuss mit einer virtuelle pisolen kill aktivierte körperverletungen bei marc jr landolt, oft auch selbstmordversuche, somit auch nochmals irgend zwischen 5-15 jahren haft für diejenigen die sich mit der pistole erpressen was sie wollen -> einblendung kasten <- verteidigung apropos pädophilie content mit marc jr landolt als er 6 jahre alt war, [fader paralell universe] marc jr hat nciht mal auf jemanden gezielt u <- rechsverdreher software
+
+pistole verteidigung    VS     pistole und give me all your stuff or immaterial stuff
+
+also die täter erpressen mit der pistole die access codes auf das rechtsinformatik system und benutzen es um opfer in schach zu halten, und sagen sich "nach mir die sindflut", bzw. die sindflut wird vermutlich 2025 kommen und für den fall dass die präambel in der bundesverfassung kein witz ist ...
+
+Mon Jul  5 01:15:29 CEST 2021
+  486  4382 39987 20210704.txt
+[main 3040e0a] save
+ 1 file changed, 23 insertions(+), 5 deletions(-)
+8f16ddc456be8d7e65a9c4355db9718ea3746a2e50dd8c5239d01dad1cefe69efed17850926c481583643df35711f9ef95408906b5eee123dac7288be7bf5e00  20210704.txt
+
+
+kontext / brodmann areal mafia, gepfalnzt von david utz und markus belser während man marc jr landolt einen chemischen kampfstoff verabreicht hat
+=> resuliterende 10 jahre suidiversuche bei marc jr landolt
+==> auch wenn der auftrags kanal verscheliert wurde ist zu erwarten, dass der auftraggeber urs blum und gabiel riela von der zürich versichrung war
+
+das eigentliche probelm ist, dass all die täter mit der strafakte die die zürich versichrung immer wieder angetriebne werdne marc jr landolt anzugreifen oder zu ermorde, bzw. auch andere menschen, somit wäre eine konstruktive frage, wie man das problem wo ihr dann wegen beihilfe zu mord alle zur hölle fahrt ugene kann?
+
+
+
+zusammenfassend
+
+1. 20 jahre als einziges familien-mitglied im keller
+2. isolation -> coping strategie -> technik lernen
+3. es fallen mir dinge auf
+4. werde im auftrag von urs blum und gabriel riela mit einem chemitshcen kampfstoff nach 3 Monate einwirkung auf mich ge-headshottet
+(damals hatte ich das puzzle noch nicht so weit zusammen dass ich das im kontext der drei todesfälle bei abb gesehen habe)
+5. 1 jahr richtiges leben mit claudine
+- abrichtung
+- triggerbarkeit
+- steuerbarkeit
+- hörigkeit
+6. wieder 20 jahre isolation und jedes mal wenn ich das puzzle zu lösen drohte wurde weiterer terror gegne mich aktiviert
+7. mein psychischer zustand wird immer mehr verschlimmert, vermtulcih vorsätlich um mich als zuegen komplett unbrauchbar zu machen oder um mich in en suizid zu treiben
+8. wenn claudien ihr treueversprechen nciht gehalten hat gibt es nichts mehr wofür ich leben soll bzw. mein tod medienwriksam würde dann vielleicht sogar verhindern, dass das jüngeren kindern angetan wird.
+
+bzw. wenn der terror aufhört und nicht erfahren müsste wenn cluadine untreu war dann geht es allenfalls
+
+Mon Jul  5 01:55:46 CEST 2021
+  519  4687 42060 20210704.txt
+[main d5dd0ea] save
+ 1 file changed, 35 insertions(+)
+a40a78904ae5a6638d7c80d26484102aa692c14392ff74f17e8daf6ffef2502a2a3b9012f1aa3823a738bd047d7476fdf1ef839f03e39baa19b20363f2873a1f  20210704.txt
+

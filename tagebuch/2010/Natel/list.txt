@@ -1,0 +1,7 @@
+.
+./claudine.txt
+./derHalbeTrip.txt
+./hirte.txt
+./list.txt
+./matahari.txt
+./regeln.txt

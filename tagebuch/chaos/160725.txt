@@ -1,0 +1,39 @@
+Tagebuch Mon Jul 25 02:23:31 CEST 2016 @
+
+Schachnovelle Teil 2 ( die PC Variante )
+<mansplain>
+
+
+
+ ASCII
+
+  219  	█ █
+
+  178  	▒ █
+
+  220  	▄ ▓ 
+
+  220  	▄ ▄
+
+  _
+
+
+
+       ASCII
+
+        219  	█ █
+
+        178  	▓ ▓  
+
+        220  	▄ ▓ 
+
+         95  	_ ▄
+
+         95  	_ _
+
+
+
+
+
+  
+  

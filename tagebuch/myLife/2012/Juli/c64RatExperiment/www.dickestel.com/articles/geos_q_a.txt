@@ -1,0 +1,75 @@
+GEOS Q & A
+
+by Dick Estel
+
+Because I have had the time, patience and inclination to load the program and explore its capabilities
+with the manual open at my side, I am considered knowledgeable in GEOS. Some of the questions I
+am asked require a fuller explanation than I may have given, so here's the complete answer:
+
+1. What is GEOS and what can I do with it?
+
+GEOS is an operating system and a collection of programs that work in a unified way and follow
+certain conventions. Commodore BASIC is a command line interface, where you type the commands
+to load and run programs and carry out other actions. GEOS is a graphical interface, Window 1988 for
+the Commodore if you will, where you click on various icons to carry out certain actions. The different
+programs that run under GEOS all behave in a certain way, and have certain standard characteristics.
+This makes it possible for a user familiar with one program to use another program with a limited
+amount of study.
+
+You can do anything you would do with non-GEOS programs on your Commodore--word processing,
+maintaining a data base, creating and manipulating graphics, spread sheet computations, etc. However,
+you can transfer certain types of pictures and text files between programs more readily than with a
+group of unrelated programs. GEOS' strongest point is its ability to combine text and graphics in
+various ways, with a great deal more flexibility than many other programs. As an example, Label
+Wizard allows you to use a Print Shop graphic on one side or another of a label. GeoLabel allows you
+to place any graphic that will fit and text in a variety of sizes and fonts on a label.
+
+2. Do I need two drives to use GEOS? 
+
+Yes. I will have some hedging and however's and maybes elsewhere. But if you want to use GEOS,
+you must have two drives (see #3 for a semi-hedge). Only a serious masochist would attempt to do
+anything fun or serious with GEOS with one drive. And if you have the time and patience to do it with
+one drive, you have the time and patience to study the manual and you don't need my help.
+
+3. Do I need a RAM expander to use GEOS?
+
+It's better that way. However, every time I have added hardware to my system, I have said, "How did
+I ever use GEOS without my (fill in new toy name here)?" If I could select only one add-on hardware
+item to a basic one drive system, it would be a RAM expander. Note: This does not conflict with #2,
+because the REU becomes your second drive. 
+
+Because of the necessary complexity of a graphical operating system, nearly every part of a GEOS
+program exceeds the memory of a C-64. It works by temporarily saving part of the program on the
+disk and swapping in other parts as needed. With a 1541 this is a slow process. It gets better and faster
+with each step up in hardware: 1571, 1581, hard drive. But only with RAM expansion is it nearly
+instantaneous.
+
+4. What's the difference between the 64 version and the 128 version?
+
+The 128 version holds your printer driver in memory. The 64 version requires the printer driver to be
+on the work disk with your program (this means it has to be copied to any number of work disks).
+GeoWrite is 80 columns, which means no flipping from side to side like the 40 column version. In
+geoPaint you can turn the tool bar off to increase the size of the drawing window. GeoPaint also comes
+in 80 columns (with a 40 column option). (An interesting note: Except for a few very rare situations, I
+prefer to use geoPaint in 40 column mode, but lots of users love the 80 column.)
+
+Less important to most users: You can copy files while using the "view by name" mode; the 64 only
+copies in icon mode. You can select a group of icons by holding down the mouse button and drawing a
+rectangle around them; when you release the button the icons will be selected.
+
+5. I have an early version 1.xx. Should I get version 2.0? 
+
+Yes. Anything new for GEOS in the last four or five years has either required 2.0, or been designed to
+work will only with 2.0. Wheels, the new operating system upgrade from Maurice Randall requires 2.0
+(and some type of RAM expansion). The menu features and other changes make it difficult for a 2.0
+user to explain how to do things in an earlier version...they will inevitably instruct you to do something
+that seems natural to them, but is not available on the older versions.
+
+6. Where can I get GEOS?
+
+You will often find users selling their copy, especially if they are moving from Commodore to some
+other platform. Remember that each set of GEOS programs is keyed to a specific serial number. You
+can't purchase the basic program from one user, and geoPublish from someone else, and expect them
+to work together. CMD sells all the major GEOS programs.
+
+From The Commodore Information Center web site (http://home.att.net/~rmestel/commodore.html) 

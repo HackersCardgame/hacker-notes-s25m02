@@ -1,0 +1,21 @@
+Who Sues Who
+
+(With the government busily suing Microsoft and Intel (the latter settled; the former still in progress as of
+2/2000), it might be a good time to look back at this article that was published several years ago:)
+
+According to an article distributed by the Associated Press, Apple Computer's long standing lawsuit
+against Microsoft Corporation and Hewlett-Packard over the use of "point and click" displays such as
+those used on the Macintosh has been dismissed.
+
+U.S. District Judge Vaughn Walker ruled that most of the screen symbols were covered by a 1985
+license Apple granted to Microsoft, were generic ideas that could not be copyrighted, or were derived
+from previous displays invented by Xerox Corporation and others.
+
+Observers have long questioned the wisdom of the suit when it was generally acknowledged that the
+Xerox Star computer system was the first with the "point and click" display.  Xerox never fully
+developed and marketed the system.
+
+Similar displays are used by the Commodore Amiga and by the GEOS operating systems developed
+by GeoWorks for Commodore 64 and 128, Apple, and PC.
+
+From "The Interface," newsletter of Fresno Commodore User Group

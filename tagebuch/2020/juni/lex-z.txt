@@ -1,0 +1,47 @@
+Ergebnisse für ein ein viertel unicode
+Stattdessen suchen nach: ein einzweitel unicode
+Suchergebnisse
+Webergebnisse
+
+„¼“ U+00BC Gewöhnlicher Bruch ein Viertel Unicode-Zeichen
+www.compart.com › unicode
+
+Name: Gewöhnlicher Bruch ein Viertel. Name (englisch):, Vulgar Fraction One Quarter. Zahlenwert: 1. Unicode-Version: 1.1 (Juni 1993). Block: Lateinisch ...
+
+„¾“ U+00BE Gewöhnlicher Bruch drei Viertel Unicode-Zeichen
+www.compart.com › unicode
+
+Name: Gewöhnlicher Bruch drei Viertel. Name (englisch):, Vulgar Fraction Three Quarters. Zahlenwert: 3. Unicode-Version: 1.1 (Juni 1993). Block: Lateinisch ...
+
+¼ – Wikipedia
+de.wikipedia.org › wiki
+
+In Unicode befindet sich das Zeichen am Codepoint U+00BC (VULGAR FRACTION ONE QUARTER, Bruchzahl ein Viertel), und gehört zum Unicodeblock ...
+
+ein Viertel - html: &frac14; - Unicode: U+00BC
+www.sonderzeichen.de › Latein-1 › Unicode-00BC
+
+Details. Der Buchstabe VULGAR FRACTION ONE QUARTER ist seit Unicodeversion 1.1 Bestandteil der Unicode Tabelle.
+
+Bruchzahlen anlegen mit dem ‚Unicode' | edv training ~ tipps ...
+edvtraining.wordpress.com › 2014/03/20 › bruchzahle...
+
+20.03.2014 - Nachdem Sie die [Alt]-Taste los gelassen haben, wird der Bruch angezeigt. Zahlenkombination, Ergebnis. 0188, ¼, ein-viertel. 0189, ½, ein-halb.
+Zahlenkombination‎: ‎Ergebnis
+
+Bruchzahlen – Mathematische Zeichen
+infothek.rotkel.de › tastaturkuerzel › bruchzahlen
+
+... für Sie zusammengestellt. Windows; macOS; Linux; LaTeX; HTML; Unicode ... ¾, Gemeiner Bruch drei Viertel, —, 4 DEMD, 00be 4c. ⅕, Gemeiner Bruch ein ...
+
+Sonderzeichen (
+
+
+Woher ist eigentlich der spruch @azschokke, der Spruch ist zwar maximal geil, aber legt grad 3+ falsche Spuren
+
+1. @Microsoft 
+2. @IBM / Hardware Backdoors
+3. @NSAGov / @CIA ...
+4. alte Studentenverbindungen die seit "Edwin Black" wissen dass EDV ein Machtmittel ist.
+
+4/4 

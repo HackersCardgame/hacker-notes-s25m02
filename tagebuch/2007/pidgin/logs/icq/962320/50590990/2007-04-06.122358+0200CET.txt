@@ -1,0 +1,134 @@
+Conversation with 50590990 at 06.04.2007 12::23::58 on 962320 (icq)
+(12:24:02) Dominik: möglich
+(12:24:36) Dominik: aber wisoo geht das mail nicht
+(12:25:35) Dominik: ich hab den neusten browser auf meinem xp und das geht
+(12:39:30) landev: allefalls will d päckli im tcp/ip stack vom vista andersch zämebout wärded....
+(12:39:46) Dominik: aha
+(12:39:50) Dominik: so doof
+(12:40:17) landev: ihr händ en neue firewall instalilert oder?
+(12:40:24) landev: also die vo de vision it?
+(12:41:03) Dominik: isch aber gläbs scho es ziitli här
+(12:41:37) Dominik: www.vision-it.ch  goot aber ??
+(12:41:45) landev: also de typ isch en profi... i wörd mol de wo de firewall konfigueriert het froge... 
+(12:43:08) landev: chasch mer säge was er för eiene händ, denn chönti mol im internet sueche...
+(12:43:21) Dominik: ich weiss nid
+(12:43:29) landev: chasch mol froge?
+(12:43:42) Dominik: jo chan i scho, wiso isch denne so speziell ?
+(12:46:36) landev: http://www.heuer.org/TS/.48/netzwerktechnologien/05.02_ip_header.pdf siite 2, es chan sii, dass de firewall uf irgend ein wert wo det s vista ineschriibt allergisch isch....
+(12:47:06) landev: und das chasch allefalls iistelle...
+(12:47:19) landev: aber so ohni z wüsse was för en firewall isches allwäg no schwirig...
+(12:52:44) Dominik: aber hesch du mol probiert öb anderi siite gönd ?
+(12:53:18) landev: wo?
+(12:53:39) Dominik: nach em firewall
+(12:54:06) landev: vision-it goht, hesch ned gläse, de typ het dene ihre router konfigueriert... die sind demmfall bi de cyberlink oder?
+(12:55:02) Dominik: cha siii... 
+(12:55:13) landev: das woni zerscht gschickt han isch s mali vo mim dozent...
+(12:55:19) Dominik: si händ einisch mol gwächslet
+(12:55:51) landev: guet, das findet me jo a de ip's use, was händ er för ips vo away und visionit
+(12:56:17) landev: ok findi au selber use...
+(12:56:28) Dominik: si händ eigni ip's
+(12:57:05) Dominik: tracert goot über cybernet
+(12:57:11) Dominik: dämfall schoo
+(12:57:35) landev: jo, und das isch DE fachma vo de cybernet, drum git er au näbebii no schuel...
+(12:57:47) Dominik: aha :-)
+(12:58:48) landev: und du chonsch nor wörkli eigeni providerunabhängig ips über wenn 2 provider hesch, das heisst, wenn du en firma hesch wo providerunabhängig wott si, aber das isch vision ned, id ip's ghöred au de cyberlink....
+(12:59:04) landev: also wärd dur cyberlink vergeh...
+(12:59:18) Dominik: bisch der sicher
+(12:59:26) landev: http://www.heuer.org/TS/.48/netzwerktechnologien/05.01_ip.pdf siite 41
+(12:59:33) Dominik: i bi mer ziemli sicher das si eigeti händ
+(12:59:45) landev: klar, eigeni vo de cyberlink
+(13:00:02) landev: aber nid direkt vo de ripe
+(13:00:45) Dominik: IP Whois Results: 
+ 
+Connecting to whois.arin.net... 
+ 
+Deferred to specific whois server: whois.ripe.net... 
+ 
+% This is the RIPE Whois query server #2. 
+% The objects are in RPSL format. 
+% 
+% Rights restricted by copyright. 
+% See http://www.ripe.net/db/copyright.html 
+ 
+% Note: This output has been filtered. 
+%       To receive output for a database update, use the "-B" flag 
+ 
+% Information related to '195.170.175.0 - 195.170.175.255' 
+ 
+inetnum:        195.170.175.0 - 195.170.175.255 
+netname:        VISION-IT-CH 
+descr:          Vision Information Transaction AG 
+country:        CH 
+org:            ORG-VIT1-RIPE 
+admin-c:        BJ922-RIPE 
+tech-c:         TB2973-RIPE 
+rev-srv:        ns1.vision-it.ch 
+rev-srv:        ns2.vision-it.ch 
+rev-srv:        ns3.vision-it.ch 
+status:         ASSIGNED PI 
+mnt-by:         RIPE-NCC-HM-PI-MNT 
+mnt-by:         CYBERLINK-MNT 
+mnt-by:         VIT-MNT 
+mnt-lower:      RIPE-NCC-HM-PI-MNT 
+mnt-routes:     CYBERLINK-MNT 
+mnt-routes:     VIT-MNT 
+mnt-domains:    CYBERLINK-MNT 
+mnt-domains:    VIT-MNT 
+source:         RIPE # Filtered 
+ 
+organisation:   ORG-VIT1-RIPE 
+org-name:       Vision Information Transaction AG 
+org-type:       OTHER 
+address:        Bahnhofstrasse 102 
+address:        5000 Aarau 
+phone:          +41 62 836 40 40 
+fax-no:         +41 62 836 40 44 
+abuse-mailbox:  abuse@vision-it.com 
+admin-c:        BJ922-RIPE 
+tech-c:         TB2973-RIPE 
+mnt-ref:        VIT-MNT 
+mnt-by:         VIT-MNT 
+source:         RIPE # Filtered 
+ 
+person:         Bruno Jehle 
+address:        Vision Information Transaction AG 
+address:        Bahnhofstrasse 102 
+address:        5000 Aarau 
+phone:          +41 62 836 40 40 
+fax-no:         +41 62 836 40 44 
+mnt-by:         VIT-MNT 
+nic-hdl:        BJ922-RIPE 
+source:         RIPE # Filtered 
+ 
+person:         Thomas Bader 
+address:        Vision Information Transaction AG 
+address:        Bahnhofstrasse 102 
+address:        5000 Aarau 
+phone:          +41 62 836 40 40 
+fax-no:         +41 62 836 40 44 
+mnt-by:         VIT-MNT 
+nic-hdl:        TB2973-RIPE 
+source:         RIPE # Filtered 
+ 
+% Information related to '195.170.175.0/24AS39865' 
+ 
+route:          195.170.175.0/24 
+descr:          Vision Information Transaction AG 
+origin:         AS39865 
+mnt-by:         CYBERLINK-MNT 
+mnt-by:         VIT-MNT 
+source:         RIPE # Filtered 
+ 
+
+(13:00:48) landev: IANA git si as RIR (in europa RIPE) die an Provider und de Provider ad chunde...
+(13:01:19) landev: mnt-by CYBERLINK-MNT
+(13:01:24) landev: det gsehsches....
+(13:01:34) landev: de name isch nur die verantwortlich person...
+(13:01:49) landev: http://www.heuer.org/TS/.48/netzwerktechnologien/05.01_ip.pdf (siite 38 ff)
+(13:02:07) Dominik: ok .. so s ässe wartet
+(13:02:17) landev: en guete...
+(13:02:17) Dominik: goosch du no uf ligerz
+(13:02:21) Dominik: merci
+(13:02:36) landev: han no nüt ghört...
+(13:02:39) Dominik: ok
+(13:02:57) landev: gruess de sonja

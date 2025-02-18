@@ -1,0 +1,62 @@
+Those Other Publishing Programs
+
+by Val F. DeCot
+
+You know which ones they are. You've actually used them, and many still do. Those other personal
+publishing programs, in addition to GEOS, that are available for your use on the Commodore
+computer.
+
+It all started with the Print Shop, by Broderbund. The Print Shop could be used to design greeting
+cards, banners, stationary and signs. This was the very first program to really popularize home
+publishing. You see the results everywhere today; there is a Print Shop program for just about
+every computer platform. The program is simple to use, foolproof, and we have an immense
+collection of additional graphics available for use with it. In addition to the Print Shop there is the
+Print Shop Companion, which allows you to edit and create graphics, borders, and fonts, and even
+design and make your own monthly calendar.
+
+PrintMaster and PrintMaster+ are two programs from Unison that are very similar to Print Shop
+and offer many of the same features. PrintMaster lets you add multiple fonts to a page and includes
+an on screen preview of your finished work. With either PrintMaster or PrintMaster + you can also
+view your graphics on screen. A large collection of graphics are available, along with programs to
+convert the graphics between Print Shop and PrintMaster format.
+
+The Newsroom from Springboard lets you create you own newsletter and include graphics of your
+own design or from the Newsroom's extensive library of graphics disk. This program is very easy
+to use. Text will fit and flow around your graphics, and you can add headlines and just about any
+other touches you might find in a regular news paper.
+
+Certificate Maker is another product by Springboard and it can be used to make any one of over
+200 different awards. Each certificate can be customized by selecting different borders and fonts of
+various sizes. Your creations can be saved as a file on a disk for future use.
+
+Awardware by Hi-Tech Expressions will do everything that Certificate Maker will do and more.
+You can create award ribbons, tickets, coupons checks, and more. Hi-Tech Expressions also
+produces Print Power which is another Print Shop clone that will help you create and print signs,
+cards, stationary, and banners. This company is also responsible for a series of personal publishing
+programs such as Partyware, which will print out banners, party hats, ribbons, place mats, cards,
+and more. It will also maintain a data base of names and phone numbers, birth dates and other
+important information. Heartware is used to produce friendship cards and love notes. While
+Cardware, well! you guessed it, creates greeting cards.
+
+There are two other desktop publishing programs that deserve mention, but both need articles of
+their own to explain their many uses and features. The first is Outrageous Pages by Batteries
+Included. Outrageous Pages can be used to create and print invitations, calendars, name tags,
+certificates, and newsletters. The other program by Batteries Included is Paperclip Publisher. This
+program is for the serious Desktop Publisher. It comes with its own utilities, demo, hints, and tons
+of clip art. 
+
+There are many other programs out there that do many of the publishing and printing jobs that I've
+already written about. Some of them are Let's Make Greeting Cards, Let's Make Signs and
+Banners, and Let's Make Stationary and Calendars by Melody Hall (remember them?). There's
+Button and Badge Maker by IntraCorp. For our younger members we have the Muppets Print Kit,
+Looney Tune Print Kit, Sesame Street Print Kit, and the Jetsons / Flintstones Print Kit, all by Hi-
+Tech Expressions.
+
+Believe me when I say that I've just scratched the surface when it comes to great
+publishing/productivity programs for our venerable C-64's and C-128's. As you can see, there are
+some good to excellent non-GEOS publishing programs still available for our machines and many
+are available from individuals and even businesses which still carry Commodore products.
+
+(From The Interface, newsletter of Fresno Commodore User Group via Input Output, newsletter of the Arizona
+Commodore Users Group, 11/96, via the Commodore Information Center
+http://home.att.net/~rmestel/commodore.html)

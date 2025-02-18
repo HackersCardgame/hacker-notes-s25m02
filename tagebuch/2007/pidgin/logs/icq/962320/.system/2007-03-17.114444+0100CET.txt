@@ -1,0 +1,5 @@
+System log for account 962320 (icq) connected at 17.03.2007 11::44::44
+---- +++ 962320 hat sich angemeldet @ 2007-03-17 11:44:44 ----
+---- +++ 962320 wurde untätig @ 2007-03-17 11:47:07 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-03-17 12:18:35 ----

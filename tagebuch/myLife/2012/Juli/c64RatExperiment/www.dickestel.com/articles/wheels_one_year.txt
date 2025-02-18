@@ -1,0 +1,127 @@
+WHEELS One Year Down the Road
+
+by Bruce Thomas
+
+Wow! It doesn't seem like it was just over a year ago that a package arrived in the mail containing
+Version 4.0 of Wheels 64. A lot has happened in that year, and a lot has changed as far as the
+condition of my Wheels today.  It's hard to determine where to start.  I guess the best place to start is at
+the beginning.
+
+When Wheels 64 arrived, there were a lot of features that had not yet been implemented.  To be exact,
+Maurice included a list of 12 features that were not in the initial release of Wheels.  Also missing were
+what he referred to as `other features that I can't think of right now.'
+
+(Editors Note: Why did he release the product before it was completely finished? Two reasons...first he
+wanted people to start 'playing with it' so that he could get other perspectives than his own regarding
+future improvements.  Secondly, I and others begged him to release it immediately. We didn't want to
+wait a year for a "perfect" product to evolve.  We wanted it ASAP! ---K.D.S.)
+
+While all features were not available in the original Wheels 64, it was still an amazing piece of software. 
+The system opened up all kinds of possibilities for Commodore Power Users.  If you owned any CMD
+Storage devices, it was now possible to start using them as you never could before. It added
+functionality to the core of the system making it easier to get things done.
+
+
+An Oil Change
+
+A little over 7 months passed and another package arrived in my mailbox. This package contained
+Wheels 128 V4.1 - the first new version of this GEOS enhancement to run on the 128.  Running
+Wheels 128 at 20 MHz would be a natural thing to do, but it would have to wait.  The package
+happened to arrive the day before we were to leave for a one week Christmas vacation to
+California...Disneyland! YaHoo!!!
+
+While I did not get the chance to fire up my new Wheels prior to leaving, I knew I would have time to
+at least read the manual on the plane or at poolside while we were away.  This proved to be very
+interesting as I compared the original Wheels 64 manual with the new combined Wheels 64/128
+manual.  I got very familiar with all of the new features, the added functionality, and the feel of the
+system.  When we got back I was ready to dig in.
+
+
+LIGHT 'EM UP!
+
+A very big difference to this release of Wheels was the fact that the disk I received from Maurice was
+now bootable.  While I needed my original GEOS 128 boot disk during the install process, I didn't
+have to load GEOS 128 first. On top of that, it was no longer necessary to own GEOS V2.0 to install
+Wheels as this version would also accept a GEOS V1.4 boot disk during installation.
+
+The entire installation procedure was much smoother.  There was no need to juggle hardware or
+disable any piece of equipment.  I was on the road very quickly.
+
+
+Whew! 80 Columns! 20 MHz! So long GEOS 64...
+
+All of the nagging little inconsistencies in version 4.0 of Wheels 64 were gone.  There was now a printer
+icon on the screen.  The disk names didn't overlap the drive windows and mess up the display.
+
+The drive windows even had a new look.  It was now easier to tell the difference between your active
+window and any non-active window (a thin line appears under the close box in the top left corner). 
+System Windows also had a different look by displaying a non-filled close box.  These features were
+necessary due to the Color Memory differences between different versions of the 128.  By adding little
+touches like these, Maurice made it possible to run Wheels without a Color Monitor and be able to
+work just as well as if you had one.
+
+Best of all there were no more annoying 'not implemented' message boxes. Everything worked! There
+were, however, still some little things missing and Maurice was still working on them.
+
+
+Final Oil Change
+
+March 30, 1999 brought the final package in the mail from Maurice.  This one contained two disks. 
+Wheels 64 V4.2 and Wheels 128 V4.2.  The first improvement was that all the known bugs were
+gone!
+
+The really nice thing about Wheels is that the boot disk that loads on my SCPU-powered 20 MHz
+system will still load and run on my 1 MHz system.  This is a first for GEOS.  I used to own a 4 MHz
+TurboMaster Accelerator and, if I disconnected the Accelerator, I needed a different boot disk to get
+GEOS going.  You often needed a different GEOS boot disk (made possible by Jim Collette's
+program, geoMakeBoot) each time you changed the configuration of your hardware.  No longer!
+Wheels 64/128 has the ability to "see" what is connected to your system and access it accordingly!
+
+Wheels allows multiple drive windows from up to 4 drives to be open at the same time.  In GEOS you
+could only have one open and only two active drives. With all of the windows open it is nice to be able
+to re-size the windows to see some of each.  Up until V4.2 came out, the re-size feature of Wheels was
+limited.  We can now re-size windows and still see all of the icons in the window.  Since there are no
+horizontal scroll arrows on a Wheels window, the number of icons in a row now changes from the
+maximum of four down to one if you make the window narrow enough.
+
+Wheels V4.2 now features an application called the Detail Shop.  It is here that you can customize all of
+the neat things like screen colors, mouse pointers and the screen saver.  Also found in the Detail Shop
+is the ability to customize your mouse and keyboard input.
+
+Adjusting your Mouse Driver can give your computer a huge performance boost. Maurice explains the
+timing and that 1/8 of the time Wheels is running is spent waiting for switches to pass the signals from
+the mouse to move your pointer.  By adjusting this value (I ran mine right down to zero on my 128D),
+you gain more time for the processor to make your applications work.
+
+It is also possible to speed things up by adjusting the Keyboard Repeat timing.  In GEOS this was set
+to a value of 15 (the Wheels default) and that means that you will get four letters on the screen every
+second if you held a key down continuously.  By adjusting the three values available, you can improve
+the time you spend typing (and isn't slow geoWrite performance the reason why so many GEOS users
+do their writing with The Write Stuff?).
+
+All settings that you configure in The Detail Shop can be saved to a file that is automatically loaded
+when you boot Wheels. Wheels 64 V4.2 still has some difficulty with loading custom pointer shapes
+automatically, but you can load them manually by going into the Detail Shop and Loading Details from
+the File menu.
+
+Maurice has improved the File Copying ability of Wheels, and the added Drive SWAP function of the
+Dashboard makes it easy to arrange your drives however you want.  We definitely want to have as
+many drives working as possible, and they are all active and accessible, but if you have less than four
+you can still put them into any drive position you want regardless of their device number when you
+powered up.
+
+I'll wrap this up for now, although I know there are lots of other features of Wheels I could talk about. 
+I think I have covered the major new ones that have arrived since that first version was released last
+year.  In any case, you will be very pleased with the new-found freedom these 'Wheels' can give you
+and your Commodore.
+
+Since a RAM expansion unit of some kind is a requirement to running Wheels, you are well on your
+way to becoming a 'Power User'.  Once you experience the freedom of Wheels, you will likely want to
+get some more hardware for your system.  Whether that means getting a second 1541 drive or whether
+you want to go for a Hard Drive and SuperCPU, you will find that all of this integrates smoothly into
+your WHEELS environment, and you will just keep rolling along! After all, isn't that what Wheels are
+for?
+
+Via the Commodore Information Center, http://home.att.net/~rmestel/commodore.html; originally
+published in the July 1999 issue of the LUCKY REPORT (newsletter of the Louisville Users of
+Commodore of KentuckY published by K. Dale Sidebottom)

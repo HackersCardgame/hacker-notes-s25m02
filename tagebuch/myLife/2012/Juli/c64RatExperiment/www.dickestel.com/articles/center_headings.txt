@@ -1,0 +1,96 @@
+(Note: this article will not look on screen the way it looks on paper due to the use of various font sizes.
+Text control codes have been removed in this version.)
+
+Centering Headings in Documents
+
+by Sandy Dippollet
+
+For normal-size printing, centering of headings is easiest with use of the centering toggle, [CONTROL]
+1 c in The Write Stuff. If perchance your word processor doesn't have a centering toggle, trial and
+error is time consuming and wasteful. Following is an alternative for printers and programs not using
+proportional printing.
+
+The first step is to determine the text width you are using. This is the page width minus the margins.
+Only three paper widths are in common use: 8.5", 5.5" and 7".  We usually use the same margins for a
+particular size paper, so, once determined, record your text widths for future use. 
+
+The Star printer we used has four pitches available: pica, elite, condensed pica, and condensed elite.
+
+Let's say we're formatting for standard paper, pica print (80 columns) with a one inch left margin (lm10)
+and a right margin of 7. This means our text width is 63. Count the letters and spaces in your heading.
+"CENTERING HEADINGS" has 18. 
+
+For a PICA print heading, subtract the number of letters/spaces in the heading from the text width,
+divide by two, rounding up if it is a half. For our example this would be: 63 - 18 = 45/2 = 22.5 = 23.
+                      CENTERING HEADINGS
+xxxxxxxxx1xxxxxxxxx2xxxxxxxxx3xCxxxxxxx4xxxxxxxxx5xxxxxxxxx6xxx
+
+Let's use ELITE print. Our page width is now 96, the left margin 12 and the right margin 8, making the
+text width 76. (Remember that these margins are subject to your choice, in which case refigure the text
+width. Using the same heading: 76 - 18 = 58/2 = 29.
+                            CENTERING HEADINGS
+xxxxxxxxx1xxxxxxxxx2xxxxxxxxx3xxxxxxxCC4xxxxxxxxx5xxxxxxxxx6xxxxxxxxx7xxxxxx
+
+For CONDENSED PICA: Using a page width of 135, left margin 17, right margin 10: 108 - 18 = 90/2
+= 45.
+
+                                            CENTERING HEADINGS
+xxxxxxxxx1xxxxxxxxx2xxxxxxxxx3xxxxxxxxx4xxxxxxxxx5xxxCCxxxx6xxxxxxxxx7xxxxxxxx8xxxxxxx
+xx9xxxxxxxx10xxxxxxxx
+
+
+And for the last of our pitch options, CONDENSED ELITE, we can use a page width of 160, left
+margin 20, right margin 14: 126 - 18 = 108/2 = 54.
+
+                                                     CENTERING HEADINGS
+
+xxxxxxxxx1xxxxxxxxx2xxxxxxxxx3xxxxxxxxx4xxxxxxxxx5xxxxxxxxx6xxCCxxxxx7xxxxxxxxx8xxxxxx
+xxx9xxxxxxxx10xxxxxxxx11xxxxxxxx12xxxxxx
+
+
+So far, we've demonstrated centering using different pitches and normal print size. How about
+DOUBLE WIDE or DOUBLE SIZE?  The centering toggle doesn't work for oversize print, so
+calculating is a must. Use the same formula, except count two for each letter/space in the heading.
+
+Using the same example as above, pica print, page width 80, left margin 10, right margin 7: 63 - 36 =
+27/2 = 13.5 = 14.
+normal:               CENTERING HEADINGS
+
+xxxxxxxxx1xxxxxxxxx2xxxxxxxxx3xCxxxxxxx4xxxxxxxxx5xxxxxxxxx6xxx
+
+2XY:         CENTERING HEADINGS
+
+2X:          CENTERING HEADINGS
+
+
+For QUADRUPLE SIZE, multiply the heading count by 4. Using a 7-letter heading: 63 - 28 = 35/2 =
+17.5 = 18.
+
+4X               HEADING
+
+
+
+xxxxxxxxx1xxxxxxxxx2xxxxxxxxx3xCxxxxxxx4xxxxxxxxx5xxxxxxxxx6xxx
+
+
+In summary:
+
+Once you have figured your text width for your preferred margins and page size, record it so that you
+won't have to figure it each time.
+
+To find the column on which to start your heading:
+
+For single width headings: use the centering toggle with the heading starting in column 1 or figure the
+text width minus heading count and divide by 2
+
+For double width headings: text width minus twice heading count and divide by 2
+
+For quadruple width headings: text width minus four times heading count and divide by 2
+
+
+(Editor's note: In TWS, the centering toggle does work with double wide type if you toggle double
+width ON first and OFF last: [CONTROL] 2 d c (centered text) [CONTROL] 2 c d. I have not tested
+it with other oversize print.)
+
+(From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html)

@@ -1,0 +1,91 @@
+TRAVELS WITH BERNARDO: FUNHUG March 1997
+
+by Bob Bernardo
+
+Last July I was fortunate to finally visit the Fremont-Union City- Newark-Hayward User Group
+(FUNHUG). I first telephoned the president, Ed Hart, to find the directions to the meeting place, the
+Newark branch of the Alameda County Library. The library branch was located in the Newark Civic
+Center, off of Freeway 880. Meetings were held on the third Wednesday of every month. 
+
+I arrived in the area 3 hours before the 7 p.m. meeting in order to beat the rush-hour traffic and have
+enough time to find the Civic Center. After a bit of circling and asking for directions, I found the library,
+and with the extra time remaining, I went off to the nearest Taco Bell to have dinner. By six, I was back
+at the library, reading magazines and waiting for the club members to show up at the meeting room.
+About 20 minutes before the start time, they started to trickle in. I introduced myself to Ed Hart,
+reminding him that we had met many months back at a Commodore Hayward User Group (CHUG)
+meeting. I put on my FCUG badge, signed the guest list, and was greeted by the other members,
+including a person from Oakland who had contacted the FCUG home page and whom I steered
+toward FUNHUG. 
+
+After finding out that I was from FCUG, Vern Viani, librarian of the group, asked me who was
+responsible for writing the article about Jack Vander White, editor of CEE Alive disk magazine. I told
+him, "You're looking at him." Momentarily surprised, Vern recovered and said that they had taken my
+article and republished it in their newsletter but with a "buyer beware" warning at the end. It seems that
+Vander White had not fulfilled a month or two of the disk subscription FUNHUG had ordered. Now it
+was my turn to be surprised. In my interview with Vander White, he seemed honest and forthright. I
+promised Vern that I would see Vander White later in the summer to buy some computer hardware
+from him, and I would mention the FUNHUG problem to him. (Little did I know that I wouldn't be able
+to keep my promise. Jack Vander White moved and left the Commodore scene. Whereabouts
+unknown.) 
+
+A flat C128, 1571 disk drive, and Commodore monitor were set up at front of the room while we
+waited for the demonstrator, Mark Murphy, to arrive. Mark finally showed up--quite a feat considering
+that he lived in Hercules which is on the distant north side of the bay. Mark was editor of the
+FUNHUG newsletter, and a person with whom I e-mailed information on FCUG happenings. He
+asked those present to help him unload his car; his tiny car was stuffed to the walls with Commodore
+materials. He announced his intention to stop being newsletter editor and to rid himself of all his
+Commodore possessions. To the shocked crowd, he explained that he and his wife just didn't have any
+more room in their little 2-bedroom apartment for two computer systems. The PC would stay; the
+Commodore would go. We placed the many cardboard crates in the back of the meeting room and
+proceeded on with the meeting. Including myself, there were 14 people present--a large number which
+bolstered the spirits of Ed. He had earlier told me that due to low turn-out, he was considering merging
+his club with CHUG located a few miles away. Ed had brought to the meeting a large number of plastic
+5 1/4" disk boxes and said that anyone could take them. We did! He also brought to the meeting
+several dozen 5 1/4" and 3 1/2" double-sided, double-density floppies to be sold--20 for $1. (He runs
+a side business and obtains closeout disks from Silicon Valley computer companies. He mentioned that
+he had to trash 25,000 disks earlier, because he didn't have any more room.) 
+
+Mark then went on with the demonstration--logging onto the Internet and browsing through it. He
+connected a 14.4K external modem via Swiftlink cartridge into the back of the C128 and used the
+Desterm 2.0 terminal program. He got onto West Coast On-Line, a Bay Area Internet service provider
+(ISP) which offers shell accounts. With a shell account, a Commodore person can use a terminal
+program to connect onto the ISP's main computer and with the use of Lynx, a text browser on the main
+computer, a Commodore can cruise through the world-wide web. In effect, the Commodore becomes
+a terminal to the main computer. I had never seen a Swiftlink cartridge that close before, and I had
+many questions about how Mark had configured Desterm to work with it. However, a member
+canceled my questions; he didn't want to know the specifics; he wanted to get on the Internet. Because
+I was a visitor, I deferred to what he wanted, and Mark continued. Murphy's Law reared its ugly head;
+for some reason Desterm didn't want to stay at its highest speed--9600 baud--and it jumped down to
+300 baud. After several tries to cure the problem, Mark resigned himself to slow browsing. No
+matter--the members were keenly interested. He showed the basic commands of Lynx and then asked
+for web sites to look through. The members didn't have any in mind, and so I mentioned that Mark
+could look through the FCUG home page. Using the "go" command of Lynx, Mark keyed in the
+address of the home page and connected. The members then read the home page description of Fresno
+Commodore User Group. 
+
+Midway through, Mark opened the meeting to his sale/giveaway. What a sale it was! Monitors,
+printers, joysticks, printer interfaces, and hundreds of neatly-organized programs and instructions--all
+for a few dollars or free! This was no time for being shy, but I was a visitor and not a member. I felt
+that I shouldn't have first dibs. Consequently, a lot of bargains slipped through my fingers--an entire
+library of Loadstar 128 disks, a Commodore monitor, an Epson-compatible printer. Mark assured me
+that my status didn't matter. In the end I came away with several regular and remote-controlled
+joysticks, a mint Micro R & D printer interface, several graphics programs, a couple of JiffyDOS chips,
+a typing tutor, an extra copy of the Vizastar 128 spreadsheet, and a golf program. I felt guilty; I couldn't
+get all of this free, and though I had little cash, Mark trusted that I would send him a check later. The
+meeting ended around 9:30, and I helped Ed bring his materials back to his car. He was pleased that it
+was a productive meeting. Mark came out into the parking lot and remarked to us that he thought the
+demo could have gone better. I reassured him that he had done an excellent job and that what he had
+done was a training session for me to do a similar demo for FCUG. 
+
+We talked a bit more about Commodore matters, and then I asked about the best way to head back to
+the valley. Ed told me to follow his car and then I'd turn off at a certain point. I shook their hands, and
+we jumped into our respective cars. As I followed Ed's car into the night, I thought that this was a good
+group and that I should come to visit again.
+
+Fremont, Union City, Newark, & Hayward Users Group (FUNHUG) P.O. Box 404 Fremont, CA
+94537-404 (Note: This is also the address for the Commodore Hayward Users Group (CHUG))
+
+Ed's Disks c/o Ed Hart 560 N. Abbott Ave. Milpitas, CA 95035 Phone: (408) 262-2389 
+
+(From The Interface, newsletter of Fresno Commodore User Group via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html)

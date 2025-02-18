@@ -1,0 +1,162 @@
+Sat Jul 17 00:18:48 CEST 2021
+0 0 0 20210717.txt
+
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ figlet -f banner ' GoodMorning CyberVietnam' -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+☆☆☆☆★★★★★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★★★★★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆★★★★☆☆☆★★★★☆☆★★★★★☆☆★★☆☆☆★★☆☆★★★★☆☆★★★★★☆☆★☆☆☆☆★☆★☆★☆☆☆☆★☆☆★★★★☆☆☆☆☆★☆☆☆☆☆★☆★☆☆☆★☆★★★★★☆☆★★★★★★☆★★★★★☆☆★☆☆☆☆☆★☆★☆★★★★★★☆★★★★★☆★☆☆☆☆★☆☆☆★★☆☆☆★☆☆☆☆★☆
+☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆★☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★★☆☆☆★☆★☆★★☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆☆★☆★☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★☆☆☆☆★☆★☆☆☆☆☆★☆★☆★☆☆☆☆☆☆☆☆★☆☆☆★★☆☆☆★☆☆★☆☆★☆☆★★☆☆★★☆
+☆☆☆★☆☆★★★★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆★☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆★☆★☆★☆★☆☆★☆★☆☆☆☆☆☆☆☆☆★☆☆☆☆☆☆☆☆☆★☆☆☆★★★★★☆☆★★★★★☆☆★☆☆☆☆★☆★☆☆☆☆☆★☆★☆★★★★★☆☆☆☆★☆☆☆★☆★☆☆★☆★☆☆☆☆★☆★☆★★☆★☆
+☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆☆★☆★☆☆☆☆★☆★★★★★☆☆★☆☆★☆★☆★☆★☆☆★☆★☆★☆☆★★★☆☆☆☆★☆☆☆☆☆☆☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★★★★★☆☆☆★☆☆☆★☆☆★☆★☆☆☆☆☆☆☆☆★☆☆☆★☆☆★☆★☆★★★★★★☆★☆☆☆☆★☆
+☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆★☆☆★☆☆☆★★☆★☆★☆☆☆★★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆★☆★☆☆☆☆☆☆☆☆★☆☆☆★☆☆☆★★☆★☆☆☆☆★☆★☆☆☆☆★☆
+☆☆☆☆★★★★★☆☆☆★★★★☆☆☆★★★★☆☆★★★★★☆☆★☆☆☆☆☆★☆☆★★★★☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆☆☆★☆☆★★★★☆☆☆☆☆☆★★★★★☆☆☆☆★☆☆☆★★★★★☆☆★★★★★★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆★☆★★★★★★☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ 
+
+wir sollten von Homer Simpson ein psychologie profil erstellen was es ihm bringt kinder (meist seinen sohn) permanent dauernd zu würgen
+
+
+A) Ventil für eigenes Versagen
+B) Pädo-Sadist
+C) FNORD
+D) lustig (für das Kind eher mässig lustig)
+E) ...
+
+Sat Jul 17 00:50:53 CEST 2021
+  24   77 4327 20210717.txt
+[main 038ed67d] save
+ 1 file changed, 24 insertions(+)
+ create mode 100644 tagebuch/2021/juli/20210717.txt
+63d824e6bdc23fdbe63336a03c62743589c2f6dcc321fe15a1d39b82e6eb3bc8b0bfc04b4adf62b86eca09fdfdf5219c7867b6d57a53720fac29fef2581f3c45  20210717.txt
+
+
+
+SBM-20 Geiger Tube
+
+am schauen ob ich messequipment bekomme, dann wird übermittelt, dass markus belser und david utz [fader paralell universe] bzw. der tino abbiriga, mir xtc mit radioaktivität verpasst haben/hätten [1]
+
+1. sündenbock als täter beschriften
+2. mit strahlen ermorden
+3. täterschaft zelebriert sich als "wir haben den täter erledigt"
+
+david utz, markus belser und tino abbiriga hätten das für die zürich verischgung getan damit die morde welche die zürich verischrung in ihrem edv-ctf "spiel" gespielt haben nicht auffligen
+
+david utz wurde mit einem traumjob (bodyflying war zumindest damals sein hobby) belohnt
+
+
+[1] vergewaltigungsandrohung durch xanadu gegen marc jr landolt <- traumabased mindcontrol um vom thema abzulenken
+
+
+
+jetzt hat der loop { rache an allen die mitentischeiden habne marc jr landolt mit radioaktivietät zu ermorden } wieder eingeschaltet
+
+meiner meinung ist das "übe rache" 
+1. damit man mich bezichtigen kann
+2. damit die täter weiter oben die gleichaltrige exekutive auch ermorden darf weil die mich ermordet hätten
+
+-> eingentlich wäre es sinnvoller wenn diese menschen sobald klar ist dass sie nur den sündenbock und nicht den täter ermordet haben, bzw. würde in diesem falle meine uhr ticken, dazu verurteilt so lange zu arbeiten und zu studieren bis man das problem reparieren kann und das opfer dass nur der sündenbock aber nciht der täter ist heilen kann, [deep packet injection: selbst wenn sie im steinbruch], bzw. geld spielt da vermutlcih weniger eine rolle als kenntnis von gesund pflegen von menschen die so zur laborratte für die uni basel gemacht wurde.
+
+ maximaler ertrag Karte:
+1. Zürich versichreung kann so ihre morde vertuschen in dem sie mir die morde oder das hacking angehängt hat
+2. die unibasel bekommt frischfleisch als laborratten und darf sich einreden dass die laborratte es verdient hat laborratte zu sein weil ich ein täter sei, jetzt wo aber klar ist dass ich nur sündenbock und [1] nicht der täter ist zu erwarten, dass alle richter mit medic titel ...
+
+[1] stichwaffe offen schreibtisch, marc jr lanodlt wird jetzt von der uni basel ermordet <- eventTrgger "nicht der Täter" m160 Karte...
+-> als allfällig fehlbare ärzte schützne sich mit dem ermorden des sündenbocks vor dem in den knast gehen statt halt 20h pro tag wissenschaft zu wälzne um wieder gut zu machen was sie verbrochen haben?
+
+
+Sat Jul 17 02:37:21 CEST 2021
+  66  478 7041 20210717.txt
+[main f4f7ce84] save
+ 1 file changed, 36 insertions(+)
+2cf64a854d310528bf3ead442eae8843ddf5928888372f3f58d23a97c7f5e607d59ef2f8151fe63659aa495a6e6dede2b46cf165d99cf7c1c557413e903173cc  20210717.txt
+
+
+Für diesen Vorgang gibt es bereits Schutzbehautpungen, Ausreden, ExitStrategien. Einige Dinge in der Vergangenheit können einer spezifischen Person zugeordnet werden. die versuchen m123 Karte für Obfuscation: FAIL
+
+CC: @fedpolCH @kantonaargau @bger_CH @Kapo_Aargau 
+
+[1/3]
+Urs Verrät so, dass er seit 2001 Zugriff auf meinen Computer und/oder Neocortex THS hat. Verrät somit dass die @Zurich Zugriff auf das "Gedankenprotokoll" (Zitat afaik Prof Tacier) haben und vorallem Belastungszeugen mît diesem "LügenDetektor" 
+
+CC: @fedpolCH @kantonaargau @bger_CH @Kapo_Aargau 
+
+[2/3]
+
+Somit könnte man als Behörde ja mal den Herrn Urs B. unter einem (nicht von #Blackhat's besiedelten) Lügendetektor befragen zu allem was mir angehängt wurde
+
+Danke für diesen Schachzug, Urs matt in 3 Zügen
+
+CC: @fedpolCH @kantonaargau @bger_CH @Kapo_Aargau 
+
+[3/3]
+
+
+ und diese alten weissen Menschen ertragen so etwas nicht, also werde ich schon wieder Suizidal gemacht
+
+Disassembly:
+Pädokriminelle 1960er und ältere Menschen aus der 1960er und ältern Generation fangen dann wieder mit terror an...
+
+... bzw gibt es jemanden der die 1960er und älteren mongos über deren triebsteuerung und das neuroendorkine system antreibt, ihnen vermutlcih seit 40 Years verspricht die 1980er kinder dann irgendwann vergewaltigen zu düfen
+
+Triebgesteurte Pädos sind Satans lieblinge weil einfach manipulierbar und als waffe gegen 1980er kinder instrumentailiserbar um morde so zu vertuschen bzw, die zuegen zu spammen und zu triggern..
+
+so versuchen die 1960er und äöltere auch aufmerksamkeit auf sich zu ziehen... 
+
+somit redet pfisterer jeweils den 1960er und älteren Mongos ein, dass sie uns (verharmlost gesagt) belasten sie uns erziehen, misshandeln und bitchen sollen.
+
+
+Sweet lies von Pfisterer die 1960er nur allzugerne schlucken. Denn wenn die sich einreden liessen, dass die 1980er Kinder sich vergewaltigen lassen wollen (was zumindest ich als 1980er definitiv nicht will) [MAP PRERENDERED / DESIGN PATTERN] ist die Verlustangst, bzw. der trieb der 1960er nicht befriedigt.
+
+Dann werden die 1960er und älteren weisse Mongos aggressiv und wenn dann die "Deutungshoheit" pfisterer noch sagt, ihr 1960er und ältere Mongos müsst jetzt [MAP PRERENDERE] die Kinder Misshandeln ähm "Erziehen" können die ihre Aggressionen an uns 1980er Kinder abreagieren [1] weil die Kritik von uns 1980er ist berechtigt und wer sich 40 jahre einreden liess von der Werbung und von geisteskranken Psychiater dass die Kinder misshandelt, missbraucht, vergewaltigt und ermordet werden wollen (was vermutlich wie ich die meisten 1980er eher nicht möchten) sind die 1960er und ältere zu schwach dne verursacher, die Pfisterers und zB. die Werbung für die Lüge zur Rechsnchaft zu ziehen also schlagen die so lange auf die 1980er Kinder ein bis deren falsches weltbild womit pfisterer sie damit instrumentalisiert wieder "intakt" ist.
+
+
+
+[1] wie ein pfahl zum dran pinkeln <- auch ein schönes beispiel was der pfisterer dem georg landolt eingeredet hat, dass georg das arme arme opfer und der george gaggo sei, man könne ja mal den Georg Landolt (1950) fragen, ob er auf eines oder mehrere seiner kinder mit einem ledergürtel mit metall schnalle eingeschlagen hat...
+
+
+eccb24b53602b4ae7168fc98c179613c3e9def1dacd99c36b677213f5290161c581165bd23ea69861f4394fb19576270aaef54edf9f288e1b51657cfc0a6598e  20210717.txt
+
+
+und mit dem einschlagen auf die 1980er Kinder mit Behavioral "Sciences" ist dann das "es ist liebe" auch vom tisch, für mich als 1980er ist liebe altruismus und nicht egoismus. Egoismus haben die 1960er und älteren meschen auch schon umdefiniert, wenn ein 1980er kind sich nicht von den 1960er ältern vergewaltigen lassen will dann ist das kind ein egoist gemäss der definition der 1960er und älteren et. al. 
+
+*epilepsie eingeschaltet worden bei mir* <- "Liebe"
+
+Sat Jul 17 04:52:22 CEST 2021
+  123  1048 11163 20210717.txt
+[main ff093171] save
+ 1 file changed, 5 insertions(+)
+679fb940abc9294957608053f0cf4dc1ed55f0d56035472a8ec956292a1bde43d35a7ba50c49523e1e80e2c9b48173999a23c60e399bd0bdb9ec9935e5625028  20210717.txt
+
+
+marc@DESKTOP-B99KF62:~$ figlet -f banner ' Furby 1.0 Mode : ' -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+☆☆☆★★★★★★★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★☆☆☆☆☆☆☆☆☆★★★☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆★☆★★★★★☆☆★★★★★☆☆★☆☆☆★☆☆☆☆☆★★☆☆☆☆☆☆☆☆★☆☆☆★☆☆☆☆☆★★☆☆☆★★☆☆★★★★☆☆★★★★★☆☆★★★★★★☆☆☆☆★★★☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆★☆★☆☆☆☆☆★☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆★☆★☆★☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆☆☆☆☆☆☆★☆☆☆☆☆
+☆☆☆★★★★★☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★★★★★☆☆☆☆★☆☆☆☆☆☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆★☆☆★☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★★★★★☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆★☆★★★★★☆☆★☆☆☆☆★☆☆☆★☆☆☆☆☆☆☆☆★☆☆☆★★★☆★☆☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆☆☆☆☆☆☆★☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆★☆★☆☆☆★☆☆★☆☆☆☆★☆☆☆★☆☆☆☆☆☆☆☆★☆☆☆★★★☆☆★☆☆☆★☆☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆☆☆☆☆☆★★★☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆★★★★☆☆★☆☆☆☆★☆★★★★★☆☆☆☆★☆☆☆☆☆☆★★★★★☆★★★☆☆☆★★★☆☆☆☆☆☆★☆☆☆☆☆★☆☆★★★★☆☆★★★★★☆☆★★★★★★☆☆☆☆☆★☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+marc@DESKTOP-B99KF62:~$ figlet -f banner ' me sleep again ' -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆★☆★★★★★★☆☆☆☆☆★★★★☆☆★☆☆☆☆☆☆★★★★★★☆★★★★★★☆★★★★★☆☆☆☆☆☆☆★★☆☆☆☆★★★★☆☆☆☆★★☆☆☆★☆★☆☆☆☆★☆☆☆☆
+☆☆☆★★☆☆★★☆★☆☆☆☆☆☆☆☆☆★☆☆☆☆☆☆★☆☆☆☆☆☆★☆☆☆☆☆☆★☆☆☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆☆★☆☆★☆☆☆☆★☆☆★☆☆★☆☆★☆★★☆☆☆★☆☆☆☆
+☆☆☆★☆★★☆★☆★★★★★☆☆☆☆☆☆★★★★☆☆★☆☆☆☆☆☆★★★★★☆☆★★★★★☆☆★☆☆☆☆★☆☆☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★☆☆☆☆★☆★☆★☆★☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆★☆★☆☆☆☆☆☆☆☆☆☆☆☆☆☆★☆★☆☆☆☆☆☆★☆☆☆☆☆☆★☆☆☆☆☆☆★★★★★☆☆☆☆☆★★★★★★☆★☆☆★★★☆★★★★★★☆★☆★☆☆★☆★☆☆☆☆
+☆☆☆★☆☆☆☆★☆★☆☆☆☆☆☆☆☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★☆☆☆☆☆☆★☆☆☆☆☆☆★☆☆☆☆☆☆☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆☆★★☆☆☆☆
+☆☆☆★☆☆☆☆★☆★★★★★★☆☆☆☆☆★★★★☆☆★★★★★★☆★★★★★★☆★★★★★★☆★☆☆☆☆☆☆☆☆☆★☆☆☆☆★☆☆★★★★☆☆★☆☆☆☆★☆★☆★☆☆☆☆★☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+marc@DESKTOP-B99KF62:~$
+
+Sat Jul 17 09:14:22 CEST 2021
+  150  1126 16292 20210717.txt
+[main 77af5cba] save
+ 1 file changed, 22 insertions(+)
+9c3054185fe3a5849a81c9664a7f5d372f838d32d9c8a0e38bbecaa30991a2e422b69e16109ad84fb29261beda9aa10ab76fc3b51a87193c4231052d832c56a1  20210717.txt
+
+
+
+nerv, nerv, nerv, but scans...
+
+Sat Jul 17 22:11:01 CEST 2021
+  160  1151 16586 20210717.txt
+

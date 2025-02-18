@@ -1,0 +1,276 @@
+Conversation with 1521590 at 28.05.2007 12::14::11 on 962320 (icq)
+(12:14:13) michi: nöd würkli
+(12:14:29) michi: java tutorial hät vilicht öppis...
+(12:14:52) landev: ok, nor dänkt wenn du so öppis hätsch chönti mer stonde vo läse erspahre...
+(12:15:10) michi: http://java.sun.com/docs/books/tutorial/
+(12:15:20) michi: lol, wofür bruchsch das?
+(12:16:15) landev: ich bin so vom ne Theolog / Psycholog agfrogt worde, öbi allefalls ihm chönnt es tool schriibe för analyse vo patiente... und date sötte ire db ligge und d froge sind scho als xml vorhande...
+(12:16:33) landev: also so xml frogeböge...
+(12:17:25) michi: naja, denke nöd das Java do die schnällschti lösig isch...
+(12:17:32) landev: sondern?
+(12:17:32) michi: eher php :-(
+(12:17:38) landev: kenni äbe gar ned...
+(12:17:40) michi: oder e anderi scriptsproch
+(12:17:48) michi: Ich au nöd
+(12:17:50) landev: hehe...
+(12:17:56) landev: was de buur ned kennt... .hehe
+(12:18:02) michi: was mösti das tool denn gnau mache?
+(12:20:49) landev: uf http://www.xpsy.eu/ chasch das ding abelade, aber es isch grotte schlächt programmiert, d serial nummere wird glaub als char  berächnet, und bi jedem buechstabe wod iigisch berächnet... d.h. d chance stönt 1/256 * anzahl buechstabe wod iigsch, dass irgendeinisch en gültige key hesch... naja, im prinzip hesch eifach en frog und z.b. 5 möglechi antworte, die werded denn mehrmohls, z.b. all wuche duregfüehrt und ire db abgleit, so das me denn chan z.b. de gnesigsprozäss verfolge....
+(12:22:04) michi: hm, ha leider nöd gross zit do drizluege
+(12:22:09) michi: aber was wär gnau dini ufgob denn?
+(12:22:25) michi: oder möstisch du das tool neu schribe?
+(12:22:29) landev: das isch en delphi awändig und i söll das ding als webteil schriibe...
+(12:22:39) michi: ahh.. ok
+(12:22:41) landev: c/s
+(12:22:50) michi: c/s?
+(12:23:02) landev: Client  / Server
+(12:23:22) michi: naja, client/server oder webapplikation?
+(12:23:39) landev: i han an c/s dänkt, aber scho en web applikation... 
+(12:24:09) landev: aber du bisch sicher meh de spezi, wenn du s gfüel hesch php seg eifacher, machis mit php...
+(12:24:16) michi: :-)
+(12:24:24) michi: naja, d'frog isch was das ganze chöne mues... 
+(12:25:03) landev: s problem won ich ebe han, isch, das z.b. mänglisch 3 oder 5 antworte hesch .... das heisst das ding mues dynamisch chönne d antworte azeige...
+(12:25:07) michi: php wär jo eifach e webapplikation
+(12:26:42) michi: naja, für mich tönt das ganze nochere eifache webapplikation - e paar generierti html site mitere form die denn d'date zruck an server schickt wo sie denn gspeicheret werdet... vilich vostoni s'ganze aber au falsch
+(12:27:05) landev: du hesch scho rächt...
+(12:27:40) michi: und do isch jetzt eifach dfrog, loht sich das ganze mit java zmache... und ich tippe mol uf nei :-)
+(12:27:40) landev: ok, i frog mol min kolleg wo php im griff het... denn chont me nämlich au ums installiere vo re JRE und so wiiter ume...
+(12:27:47) landev: ok...
+(12:28:05) michi: naja, du häsch gmeint e cleint/server applikation
+(12:28:13) michi: wobi client es applet oder e java applikation isch?
+(12:28:30) landev: beides öppe gllich uufwändig...
+(12:28:37) michi: tönt für mich noch overkill... de einzig vorteil wäri das nöd immer internetverbindig ha musch
+(12:28:37) michi: genau
+(12:28:41) landev: aber i han scho an es eifachs form dänkt...
+(12:28:55) landev: moment, form isch glaub .net
+(12:28:56) michi: naja, mit Java wör ich au e normali webapplikation mache -> JSP/servlet, etc
+(12:29:22) michi: nei, ich meine normali html form... und vilich javascript und ajax :-)
+(12:29:41) landev: ok, das wär geil, aber do müesti no mega vill lehre...
+(12:29:58) michi: naja, wenns mit java machsch wohrschinli au
+(12:30:13) landev: s problem bi re webapi, chöntsch z.b. keini date importiere und exportiere...
+(12:30:27) landev: det wär java die besser lösig...
+(12:30:29) michi: hm, wieso nöd?
+(12:30:32) landev: oder .net...
+(12:30:48) michi: import = file upload, export = file generierig
+(12:31:19) landev: jo, ok, serialisierig (binär oder xml)
+(12:31:25) landev: wär kei grossi sach...
+(12:31:42) landev: zumindest im .net...
+(12:31:45) michi: hm, wie meinsch das jetzt?
+(12:32:08) michi: wieso söll date import/export eifacher si wenn e c/s applikation häsch?
+(12:33:00) landev: im dot net öppe so:
+        [XmlElementAttribute("Liegenschaft")] public LiegenschaftDT Liegenschaft;
+        [XmlElementAttribute("Eigentuemer")]public EigentuemerDT Eigentuemer;
+        [XmlElementAttribute("Auftragsdaten")]public AuftragsdatenDT Auftragsdaten;
+        [XmlElementAttribute("Liegenschaftsbeschrieb")]public LiegenschaftsbeschriebDT Liegenschaftsbeschrieb;
+        [XmlElementAttribute("Bauteil")]public BauteilDT[] Bauteil;
+        [XmlElementAttribute("Landwert")]public LandwertDT Landwert;
+(12:34:07) landev: denn speichere: 
+
+     private void DateiSpeichern_Click(System.Object sender, System.EventArgs e)
+        {
+            if (ofd != null)
+                if (ofd.FileName != "")
+                {
+                    lbw.Auftragsdaten.LetzteBearbeitung = System.DateTime.Today; //TODO UPDATE FROM OBJECT
+                    System.Xml.Serialization.XmlSerializer s = new System.Xml.Serialization.XmlSerializer(typeof(Model));
+
+                    System.IO.TextWriter w = new System.IO.StreamWriter(ofd.FileName);
+                    s.Serialize(w, lbw);
+                    w.Close();
+                    return;
+                }
+            DateiSpeichernUnter_Click(sender, e);
+        }
+
+(12:34:09) michi: aha, das meinsch mit eifacher import/explort)
+(12:34:43) landev: wobi das lbw eifach s model vom ne model-view-control isch... zumindest weni das richtig vertande han...
+(12:34:56) michi: naja, nume deswäge uf .net/ java c/s applikations zgo isch overkill
+(12:34:56) landev: (1. code)
+(12:35:18) michi: import/export isch jo nöd de hauptnutze vo de applikation, oder?
+(12:35:33) landev: nei... respekt du dänksch rächt wiit...
+(12:35:53) michi: usserdem isch das nöd grad portabel, irgendwenn chömet no es paar xml fälder dezue und denn, wie machsch import vo 2 verscheidene versione?
+(12:36:43) landev: jo guet, die mached det äbe neui so "frogeböge" und wänd die allefalls a anderi psychiatrie wiiter geh, denn wörd sechs velech scho lohne...
+(12:37:06) michi: naja, du meinsch eifach d'xml dateie witerge, oder?
+(12:37:18) michi: aso xml mit php z'generiere isch kei grossi sach, imho...
+(12:37:33) landev: also eis weisi, gäge dich würd glaub en partie schach nid sehr spassig uusfalle... 
+(12:37:43) landev: hehe...
+(12:37:58) landev: guet, epfl isch demmfall recht cool...
+(12:38:05) michi: lol, glaub au nöd, i cha kei schach :-) 
+(12:38:20) michi: epfl... nöd würkli... mache das zeugs aber scho ziteme ziitli
+(12:38:21) michi: :-)
+(12:38:26) landev: ok...
+(12:38:41) landev: ts = kotz. kennsch java-kara... ZZZzzz...
+(12:38:44) landev: naja...
+(12:38:50) landev: i glaub i luege mol php a....
+(12:38:51) michi: . Besides a clearly structured data management it can present any questionnaire at the screen and analyse the results on the levels of items, scales and normalizations. It is also possible to query checklists (for diagnosis for instance) and display the result according to the specific algorithm. Finally XPsy possesses an export function into SPSS.
+(12:38:59) michi: naja, ich ha eiffel und ada mache dröfe
+(12:39:07) michi: dörfe
+(12:39:19) landev: eiffel? ada = expo 01 poschte?
+(12:39:34) michi: nöd würkli, das sind scheiss programmiersproche
+(12:39:44) michi: ich vosto sganze immer nonig so ganz
+(12:39:56) michi: was hät sichs mitem xml uf sich - und was mit de datebank?
+(12:40:50) landev: <?xml version='1.0' encoding="ISO-8859-1"?>
+
+<!--
+Dieses Beispiel zeigt die einfachsten Grundlagen eines Moduls.
+
+Das Wurzelelement <XPsy-modul> muss ein Element <items> enthalten, das wiederum beliebig viele Elemente <item> enthalten kann. Jedes Element <item> ist über das Attribut id eindeutig gekennzeichnet.
+
+Jedes Element <item> wird durch XPsy auf einer Bildschirmseite dargestellt. Dabei gibt es drei Elemente:
+<info> enthält in der Regel einen Hinweis zur Fragestellung.
+<text> enthält den Text des Items.
+<answer> beinhaltet eine Antwortmöglichkeit, die mit der Maus angeklickt werden kann. Das Attribut value enthält den Wert (eine ganze Zahl), der in der Datenbank gespeichert wird. Das Attribut text enthält den Text, mit dem die Schaltfäche beschriftet ist.
+-->
+
+<XPsy-modul name="Beispiel 1">
+ <items>
+  <item id="i-01">
+   <info>Wie oft fühlten Sie sich gestern</info>
+   <text>traurig</text>
+   <answer value="0" text="nie"/>
+   <answer value="1" text="selten"/>
+   <answer value="2" text="häufig"/>
+   <answer value="3" text="fast den ganzen Tag"/>
+  </item>
+  <item id="i-02">
+   <info>Wie oft fühlten Sie sich gestern</info>
+   <text>glücklich</text>
+   <answer value="0" text="nie"/>
+   <answer value="1" text="selten"/>
+   <answer value="2" text="häufig"/>
+   <answer value="3" text="fast den ganzen Tag"/>
+  </item>
+  <item id="i-03">
+   <info>Wie oft fühlten Sie sich gestern</info>
+   <text>wütend</text>
+   <answer value="0" text="nie"/>
+   <answer value="1" text="selten"/>
+   <answer value="2" text="häufig"/>
+   <answer value="3" text="fast den ganzen Tag"/>
+  </item>
+  <item id="i-04">
+   <info>Wie oft fühlten Sie sich gestern</info>
+   <text>dankbar</text>
+   <answer value="0" text="nie"/>
+   <answer value="1" text="selten"/>
+   <answer value="2" text="häufig"/>
+   <answer value="3" text="fast den ganzen Tag"/>
+  </item>
+  <item id="i-05">
+   <info>Wie oft fühlten Sie sich gestern</info>
+   <text>froh</text>
+   <answer value="0" text="nie"/>
+   <answer value="1" text="selten"/>
+   <answer value="2" text="häufig"/>
+   <answer value="3" text="fast den ganzen Tag"/>
+  </item>
+  <item id="i-06">
+   <info>Wie oft fühlten Sie sich gestern</info>
+   <text>zornig</text>
+   <answer value="0" text="nie"/>
+   <answer value="1" text="selten"/>
+   <answer value="2" text="häufig"/>
+   <answer value="3" text="fast den ganzen Tag"/>
+  </item>
+ </items>
+</XPsy-modul>
+
+(12:40:50) Kann die Nachricht nicht senden: Abgelehnt vom Client
+(12:41:01) michi: lol, messages sind zlang
+(12:41:05) landev: denn chömed die uuswärtige i ne datebank..
+(12:41:07) michi: (12:40:50) You missed 2 messages from 962320 because they were too large.
+(12:41:17) landev: also isch garnüt cho?
+(12:41:22) michi: nö
+(12:41:25) landev: super...
+(12:41:30) landev: 
+<XPsy-modul name="Beispiel 1">
+ <items>
+  <item id="i-01">
+   <info>Wie oft fühlten Sie sich gestern</info>
+   <text>traurig</text>
+   <answer value="0" text="nie"/>
+   <answer value="1" text="selten"/>
+   <answer value="2" text="häufig"/>
+   <answer value="3" text="fast den ganzen Tag"/>
+  </item>
+  <item id="i-02">
+(12:41:36) landev: ...
+(12:41:44) michi: ok, das isch de frogeboge
+(12:41:48) landev: genau...
+(12:41:54) michi: und d'antworte werdet i de datebank gspeicheret?
+(12:41:57) michi: pro person?
+(12:42:07) landev: isch planet, jo pro person, 
+(12:42:08) michi: und die datebank existiert scho nimi mol a
+(12:42:12) landev: nei ...
+(12:42:15) michi: a das ganze zeugts gits no gar nöd?!?
+(12:42:33) landev: defacto gets nüt bruuchbars...
+(12:42:49) michi: aso sprogramm brucht no niemert?
+(12:43:32) landev: doch es git scho so es delphi teil, aber das funktioniert ned wörkli guet, das het en psycholog gschribe und so wien ich das gseh het er chli en ahnig aber en rächte programmierer isch er ned...
+(12:43:48) michi: und wo wärdet bi dem d'date gschpeichert?
+(12:43:53) landev: xml
+(12:43:54) michi: und was macht mer nochene mit de date?
+(12:44:14) landev: uuswärte, z.b. (mini idee) in schöne kurve darstelle...
+(12:44:31) michi: aber die uswärtige gits nonig?
+(12:44:44) landev: das xml wo der gschickt han isch nor es biischbiil, psychologisch heter scho no rächt im griff, 
+(12:44:56) landev: moment...
+(12:46:10) landev: ich nime ah, das maches denn mit dem spss...
+(12:46:21) landev: kei ahnig... s git en export funktion...
+(12:46:49) michi: naja, wieso mus das jetzt überhaupt e c/s applikation si und nöd eifach witer e standalone applikation?
+(12:47:07) michi: falls es mitere db mache wötsch chasch au hsql oder so ne - bruchsch kei zuesätzlichi installation$
+(12:47:23) landev: naja, de wott das so, vermuetli zwecks empirischer prüefig vo de uusage vo de patiente...
+(12:47:37) landev: hsql?
+(12:48:25) michi: isch achli schwierig dir do gueti tipps zge, mösste viel me über das ganze wüsse...
+(12:48:52) landev: weiss ebe au noni vell meh...
+(12:49:38) landev: aber so wie asi d datestruktur gseh han wärs scho öppis förs sql entity-relationship modell usserdemm wärs en gueti glägeheit das chli z üebe...
+(12:50:45) michi: hmm.. du meinsch orm lösig (object-relational-mapper)?
+(12:50:51) landev: Tabelle: Patienten PK:Patientennummer, daten eintritsdatum  etc
+Tabelle: Abfrage: PK: Patientennummer, datum der abfrage...
+(12:51:08) landev: object relation mapper? neus wort för mich... 
+(12:51:11) landev: moment$
+(12:51:15) landev: wiki...
+(12:51:17) michi: was meinsch mit "sql entity-relationship modell"
+(12:51:23) michi: weiss nöd öbi das richtig vostone
+(12:51:38) landev: das eifach mit joins schaffsch und nid date dopplet hesch...
+(12:51:48) michi: aha, naja, das musch eh mache :-)
+(12:52:04) michi: alles i 1 einzigi tabelle kippe wird nie richtig funktioniere...
+(12:52:12) michi: und isch au nöd "managable"
+(12:52:14) landev: isch au ned min plan...
+(12:52:47) landev: aber i chome ebe ersch fang chil i de theorie druss, aber praxis fehlt mer no...
+(12:53:13) michi: mit datebanke hani au nöd viel am huet :-)
+(12:54:46) landev: naja, ich machs eifach wie immer ich programmier mol eifach druf los... hehe...
+(12:55:02) michi: isch au en wäg s'zlärne *g*
+(12:55:15) landev: lörni bei duing...
+(12:55:37) michi: genau
+(12:56:01) landev: ok merci... hesch no paar gueti hiiwiis geh...
+(12:56:24) michi: gärn gscheh
+(12:57:25) landev: wer weis vilech chan der de jo mol in c/c++ .net oder directX wiiterhälfe...
+(12:57:44) michi: *g* hoffe nöd ;-)
+(12:57:52) landev: sälber gross....
+(12:58:26) michi: eigentli würdi mi gärn achli vom java/backend zeugs wäg hin zu frontend development (php, html, css, ui design) he bewegä :-)
+(12:58:52) michi: weni denn bi c++ wär denn wäri voll i die falschi richtig gange hehehe
+(12:58:54) landev: naja, ich lieber i di ander richtig... desigh, ugh... det wäri voll en fläsche...
+(12:59:05) michi: nüt gäge c/c++, nöd das mi falsch voschtogsch
+(12:59:23) michi: naja, ich bi au e fläsche im design, würds aber gärn lerne hihihi
+(12:59:45) landev: luegsch mol öb irgend en polygraf im kollegekreis hesch...
+(13:00:01) landev: die rütsche jo galub massewiis is webdesign ine...
+(13:01:32) michi: naja, momentan fähled im it bereich lüt - un designer sind echt gsuecht
+(13:02:32) landev: mir fallt grad no ii ich kenne en polygraph wo praktisch nur no ui's designt und er het mer mol welle zeige wie das funktioniert, allefalls würdi froge öb au chasch mitcho... gieng jo i eim zue... 
+(13:03:20) michi: wär interessant, nume hani die nögschte paar woche/mönet leider echt für nix ziit :-(
+(13:03:42) landev: bisch nid de einzig...
+(13:03:42) michi: sötte glichzitig wüsse wie server clustering got und javascript programmiere...
+(13:03:54) landev: uf java..?
+(13:04:10) landev: kenne nur loadbalancing vo ms...
+(13:04:13) michi: jboss
+(13:04:22) landev: ok, kenni ned...
+(13:04:47) michi: naja, macht eigentli alles vo eleige, was no fählt isch synchronisierig vo ehcache (datebank results cache)
+(13:05:00) michi: naja, nume zum säge, mache momentan achli en grosse spagat :-)
+(13:06:15) landev: bi ms loadbalancing hesch eifach n server per glasfaser zämeghänkt und denn wird 1/n vo de dienscht uf jedem rächner gstartet, bruche sgliche raid, wenn ein server stirbt started de dienscht uf em ne andere server, naja , wenns raid stirbt isch doof... 
+(13:06:39) landev: spagat müend glaub all informatiekr mache...
+(13:06:49) michi: naja, bi ois fählet momentan d'lüt.
+(13:06:59) michi: jetzt machi de job wos eigentli 2-3 lüt brüchti...
+(13:07:14) michi: nöd grad befriedigend, vor allem bringt mer nüt schnäll und in hoher qualität fertig
+(13:07:32) landev: das isch de vorteil a fabrikarbet, so 8h gschaffet, ich mach firobe, ahmen...
+(13:07:36) michi: git nume no "good enough", nüme "done" bi mir hehehe
+(13:07:46) michi: jep
+(13:07:59) landev: deför chasch dini fähigkeite ned iisetze...
+(13:08:11) landev: drum machi jetzt d ts...

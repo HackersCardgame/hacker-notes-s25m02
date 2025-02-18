@@ -1,0 +1,120 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Aug 12 05:52:46 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Aug 12 06:28:11 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Sagen wir mal REIN HYPOTHETISCH, die Militärs hätten mit dem Neuralink- und WaffenTracking- GlasfaserNetzwerk die Möglichkeit jeden Menschen zu stalken
+
+dann wüssten die, dass ich alles was ich rausfinde verpetze, also z.B. dass nachts z.B. die Firmware/Software des Neuralinks (die "Neuralink-Marschbefehle") sabotiert werden.
+
+zB zum Zeitpunkt 2024-04-01 würde ich das verpetzen
+       ====================
+
+S     |-----s->      |---s->
+T |------------------------------------------>
+S    |-s--s>      |--s-----s--sss->
+
+T: Timeline
+S: Sub-Task
+s: sabotage
+
+
+das wird dann ab dem Zeitpunkt 2024-08-01 geändert
+                     ====================
+
+                    S     |-----s->      |---s->
+ |--X---------->    T |------------------------------------------>
+                    S    |-s--s>      |--s-----s--sss->
+
+                    T: Timeline
+                    S: Sub-Task
+                    s: sabotage
+
+
+X: Sabotage die so gestaltet ist, dass man "selber" schuld ist
+   also z.B. einen Teller in die Spühle legen,
+   dann kommt man da dran, dann ist das
+   "hätte-könnte-bioterrorismus-infiziert-worden-sein",
+   und von da forkt dann wieder alles
+
+
+                    s: sabotage
+                       die sabotagen wären immer noch in der Neuralink-Firmware
+                       aber jetzt würde jedes mal der "selbst"verschuldete Fehler
+                       der wähnrend einer phase der Harmonie wo grad kein Terror war
+                       eingefügt und dann wird bei jeder sabotage die sowieso 
+                       eingetragen worden wäre noch "Selbstverschuldet" (X) dran geheftet
+
+
+also aus s wird Xs
+
+                   Xs: Sabotage mit vore dran gebastelt-geklebter suggestion, dass es
+                       selbstverschulden sei
+
+dann würde man denken "ja mein fehler, meine Verursachung, und das hat sicher auswirkung
+auf die hexere-zauberei des tagesablaufs ... aber ist einfach betrug durch Triebtäter mit 
+offiziers-Titel und zu viel Zugriff auf die Raumüberwachung und Neuralink
+
+und nur ein kleiner Fehler ist schon super doof, denn als skalven wie ich müssen abläufe optimieren sonst bleiben dinge liegen und dann würde man fürs leigen lassen bestraft werden
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Mon Aug 12 06:39:05 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+lets write that in JAVA-PSEUDO-CODE
+
+
+bis 2024-08-01
+
+TOPSECRET abstract class sabotage
+{
+
+  public timeline T;
+  public subTask S;
+  public sabotage s;
+
+
+  fn main() {
+    for i in subTasks
+    {
+      S.add(s);
+    }
+    
+}
+
+
+
+From the 2024-08-01
+
+TOPSECRET abstract class sabotage
+{
+
+  public timeline T;
+  public subTask S;
+  public sabotage s;
+
+  fn main()
+  {
+
+    X = force_me_to_do_something_that_will_later_have_nagative_consequences_to_blame_me_the_user();
+         // would imply that the neuralink and weapon-tracking-system of CH-Army has an SLA / uptime of 100.00%
+  
+    for i in subTasks
+    {
+      s += "... and it's your OWN FAULT";
+      S.add(s);
+    }    
+  }
+    
+}
+
+
+
+
+
+
+
+

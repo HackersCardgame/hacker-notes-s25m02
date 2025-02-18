@@ -1,0 +1,3040 @@
+
+
+Behavioral Sciences Malware:
+neuinstallation ab orignal teuerm stick von brack
+
+versucht suizid zu induzieren bei neustart
+
+fliegt als microsoft auf weil unitelligent
+
+häuchelt einzulenken
+
+verscht nächsten mordversuch
+
+behavioral sciences:
+
+
+https://praxistipps.focus.de/windows-10-startmenue-geht-nicht-so-beheben-sie-das-problem_101804
+
+
+
+dann wird { andreas kipfer } geloopt
+
+und klar hat kipfi das geld genommen, aber das problem ist ein globales und kipfi wäre zu blöd für behavioral sciences
+
+20:18 30.01.2021
+
+screenshot funktion wurde auch deaktiviert bei einer original isntallation <- micorsoft als mörder und terrorist markieren
+
+URS BLUM: sprengfallen bei kipfer aktiviewnre4 <- neu installiert und der herr blum ist schon wieder drauf
+
+hisse microsoft macht ausser den mordaufträgen die sie annimmt business mit zugriff auf kinder zu geben für $ deshalb ist die sereinnummer eineindeutig...
+
+
+vermutlich gibt es duzende oder hunderte solcher reinstallations suicide death bots, deshalb wurde der drucker deaktiviert, dass man das nciht dokuemnteioern könnte
+
+mitigation, auf stick kopieren, dann drucken...
+
+ExitStrategie:
+Microsoft wolle mich nur zwingen powershell syntax zu lernen ähm ist nur ausbildung <- ....
+
+
+
+indows PowerShell
+Copyright (C) Microsoft Corporation. Alle Rechte vorbehalten.
+
+Lernen Sie das neue plattformübergreifende PowerShell kennen – https://aka.ms/pscore6
+
+PS C:\WINDOWS\system32> Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+Add-AppxPackage : Es wurde kein Parameter gefunden, der dem Parameternamen "DisableFDevelopmentMode" entspricht.
+In Zeile:1 Zeichen:54
++ ... -AllUsers | Foreach {Add-AppxPackage -DisableFDevelopmentMode -Regist ...
++                                          ~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Add-AppxPackage], ParameterBindingException
+    + FullyQualifiedErrorId : NamedParameterNotFound,Microsoft.Windows.Appx.PackageManager.Commands.AddAppxPackageComm
+   and
+
+PS C:\WINDOWS\system32>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

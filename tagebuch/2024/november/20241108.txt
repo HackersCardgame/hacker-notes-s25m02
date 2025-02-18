@@ -1,0 +1,70 @@
+-----------------------
+Fri Nov  8 10:10:35 AM CET 2024
+09a6478e7620da815e2e5004f6ac539ca01e467e
+0662ee6698ca5ae0ebc3cf060e84fd98b0891acb
+-----------------------
+
+seit ca 30 Minuten scheinen high value cyber-terroristen (vermutlcih sogar von der CH-Army) auf mich meiner raumüberwahcung, neuralink udn computer zzuzugreifen
+
+das ist allenfalls auch im interesse der zivibevölkerung diese zu finden und zu verhaften
+
+ACHTUING: wenn die vor die DOUBLESTANDARD militärjustiz kommen, dann werden die einfach zur hintertür rausgelassen udn morden weiter
+
+-----------------------
+Fri Nov  8 10:12:03 AM CET 2024
+09a6478e7620da815e2e5004f6ac539ca01e467e
+0662ee6698ca5ae0ebc3cf060e84fd98b0891acb
+-----------------------
+
+
+
+-----------------------
+Fri Nov  8 02:47:56 PM CET 2024
+09a6478e7620da815e2e5004f6ac539ca01e467e
+0662ee6698ca5ae0ebc3cf060e84fd98b0891acb
+-----------------------
+
+dann auch grad sehr interessant, ich hab an hacker-notes-s24m11/tools/readPDF_with_jump.sh geändert, dass es keine grossen pausen mehr gibt zwsichen den sätzen, das wurde jetzt on the fly wieder sabotiert und mein computer ist nicht am netz
+
+also hardware remot debugger wo irgend ein triebtäter seinem grossen offizier vorlegt damit der ödipus offizier besser chancen hat
+
+also das ist etwas was VERMUTLICH binaries austasucht, schaut dass der timestamp gleich bleibt [1] und wenn die binary grad nicht benögtigt wird wird sie gewechselt
+
+konkret die Zeilen:
+    speak-ng -v en -s 399 "$sentence" --stdout |aplay
+    #aplay <(speak-ng -v en -s 399 "$sentence" --stdout)
+
+spek-ng selber hat die pausen gemacht, aber mit dem umweg über aplay hatte es keine zu langen pausen zwischen den sätzen
+
+[1] ich sollte echt wieder tripwire installieren
+
+
+dann reden die mamis der offiziere ihren super duper offizieren ein sie hätten gewonnen und sie seinen besser als der Zeuge udn könnten weiter rauben, vergewaltigen und morden... aber die mamis von denen legen feige über hardware backdoors vor ... also so wie die Lucy aus peanuts, aber genau das gegenteil. also wenn das vorgelegt wird, dann ist es logishcerweise deren eigenes mami, weil eine gleichaltrige partnerin-frau hätte ähnlich hohe access codes auf dem globalhen SHITTY Netzwerk wie der OFfizier
+
+-----------------------
+Fri Nov  8 02:53:29 PM CET 2024
+09a6478e7620da815e2e5004f6ac539ca01e467e
+0662ee6698ca5ae0ebc3cf060e84fd98b0891acb
+-----------------------
+
+aber weg von den super duper ÖÖÖÖÖÖÖÖdipus offizieren mit ihren milf mamis, und zurück zum relevanten, apropos "the wikileaks files" was ich mit espeak am lesen bin...
+
+... irgnedwie ernüchternd das buch.
+
+-----------------------
+Fri Nov  8 02:56:41 PM CET 2024
+65793babf3bfc3705936ef4c0f5ada0d02f47fb3
+09a6478e7620da815e2e5004f6ac539ca01e467e
+-----------------------
+
+dann caliber ebook reader als anternative, aber dorr haben die VERMUTLICH schon eine komplette riesen kratermap mit sprengfallen vorbereitet vermute ich und dass ich es mit einem script umgehe mögen die vermutlich nicht
+
+-----------------------
+Fri Nov  8 03:07:05 PM CET 2024
+a07525d4872b1af9029296fbc2515d4b15f93d5f
+65793babf3bfc3705936ef4c0f5ada0d02f47fb3
+-----------------------
+
+
+
+

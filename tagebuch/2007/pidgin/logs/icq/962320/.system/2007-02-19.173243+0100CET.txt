@@ -1,0 +1,87 @@
+System log for account 962320 (icq) connected at 19.02.2007 17::32::43
+---- +++ 962320 hat sich angemeldet @ 2007-02-19 17:32:43 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-02-19 17:32:44 ----
+---- Dominik wurde untätig @ 2007-02-19 17:32:44 ----
+---- vortex hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 17:32:44 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 17:32:44 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 17:32:44 ----
+---- vortex hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 17:35:24 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 17:41:47 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-19 17:43:08 ----
+---- shrike wurde untätig @ 2007-02-19 17:43:08 ----
+---- +++ 962320 wurde untätig @ 2007-02-19 17:39:43 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-19 17:52:37 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-19 17:52:42 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-19 17:53:16 ----
+---- shrike wurde tätig @ 2007-02-19 17:53:16 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 17:55:52 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-19 18:09:00 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-19 18:11:10 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-19 18:12:06 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-19 18:14:01 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 18:23:54 ----
+---- Schööfli wurde tätig @ 2007-02-19 18:23:54 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-19 18:24:54 ----
+---- Schööfli wurde untätig @ 2007-02-19 18:24:55 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 18:28:47 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 18:29:34 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-02-19 18:34:32 ----
+---- dikyangel wurde untätig @ 2007-02-19 18:34:32 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 18:36:06 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-19 18:41:16 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-19 18:41:31 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-19 18:52:41 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 18:54:40 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 18:54:44 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 18:55:37 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 18:58:10 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-19 19:02:41 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 19:07:57 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 19:07:59 ----
+---- shrike hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 19:13:19 ----
+---- stefan hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 19:18:24 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 19:20:25 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 19:23:36 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 19:23:49 ----
+---- stefan hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 19:31:34 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-02-19 19:33:19 ----
+---- dikyangel wurde tätig @ 2007-02-19 19:33:20 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-02-19 19:33:49 ----
+---- dikyangel wurde untätig @ 2007-02-19 19:33:56 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-02-19 19:34:46 ----
+---- dikyangel wurde tätig @ 2007-02-19 19:34:47 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-02-19 19:34:56 ----
+---- dikyangel wurde untätig @ 2007-02-19 19:34:56 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-02-19 19:38:34 ----
+---- dikyangel wurde tätig @ 2007-02-19 19:38:34 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 19:46:36 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 19:58:54 ----
+---- Schööfli hat den Status von Abwesend zu Offline geändert @ 2007-02-19 20:04:04 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 20:04:29 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 20:04:34 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 20:07:06 ----
+---- Schööfli wurde tätig @ 2007-02-19 20:07:06 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-19 20:08:36 ----
+---- Schööfli wurde untätig @ 2007-02-19 20:08:37 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-19 20:19:05 ----
+---- Dominik wurde tätig @ 2007-02-19 20:19:05 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-19 20:23:20 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-19 20:24:55 ----
+---- +++ 962320 wurde untätig @ 2007-02-19 20:22:03 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-19 20:45:21 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 20:48:05 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 20:48:09 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 20:48:53 ----
+---- Dominik wurde untätig @ 2007-02-19 20:59:20 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 21:05:09 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 21:15:16 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 21:15:20 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 21:15:52 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-19 21:20:41 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-19 21:20:49 ----
+---- +++ 962320 wurde untätig @ 2007-02-19 21:12:10 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-02-20 19:34:04 ----

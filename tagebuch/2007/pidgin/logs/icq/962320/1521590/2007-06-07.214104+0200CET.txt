@@ -1,0 +1,14 @@
+Conversation with 1521590 at 07.06.2007 21::41::04 on 962320 (icq)
+(21:41:04) michi: naja, eifach östlichi zeicheunterstütig installiere und denn chinesischi taschatur hinzuefüege
+(21:42:08) michi: keyboard: Chinese (simplified) . Microsoft Pinyin IME 3.0
+(21:42:59) michi: Under "Regional and language options" -> languages > install files for East Asian languages
+(21:43:07) landev: ah und denn chan me eifach umschalte und das närfige ding isch wider wägg...?
+(21:43:21) michi: klar. isch wie englischi und dütschi taschtatur...
+(21:43:31) michi: häsch eifach chinesisch denn
+(21:43:39) landev: ok, cool, merci...
+(21:45:04) michi: naja, ums denn würkli sinnvoll mache müestisch d'language bar azeige, und für chinesisch no under de properties uf "candidate option" > list style + prompt step by step
+(21:45:26) michi: aber das mus eh öppert kapiere wo au chinesisch cha, isch achli schwierig für dich :-)
+(21:45:33) michi: weisch jo nöd was das gnau bringt..
+(21:45:44) michi: anyway, bi do grad über swisscom hotspot dinne, zale per minute
+(21:45:48) michi: mues reiceh für hüt :-)
+(21:45:54) landev: ok merci...

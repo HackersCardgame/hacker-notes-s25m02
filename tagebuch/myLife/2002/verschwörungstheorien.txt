@@ -1,0 +1,40 @@
+TODO:
+
+sensor
+kurven
+
+integrated
+emp sensor for pcmcia
+emf sensor for pcmcia
+
+
+
+ff=muss man nicht wissen
+60 bis 100 Hz
+
+16 2/3 Hz durchs Eisenbahn-Netz ZZZzzz... roboter   (bk)
+
+messgeräte: exponentieller anstieg der empfindlichkeit?
+
+hochfrequente elektromagnetische Felder, wie sie beispielsweise bei der drahtlosen Telekommunikation --> L x y z achse
+
+erste biologische Effekte schon bei Flußdichten unter 200 nT
+
+Bei elektrischen Feldern sollte nach dem Ergebnis einer neuen großangelegten Studie der amerikanischen Umweltbehörde EPA 10 Volt pro Meter (V/m) nicht überschritten werden.
+
+bei 500 V/m zu messen beginnt.
+Denjenigen, die sich in den heißen Sommermonaten mehr um die Ozonkonzentrationen als um Elektrosmog sorgen, 
+
+c.
+Da UV-Meßgeräte die individuell unterschiedliche Pigmentierung einzelner Hautpartien nicht berücksichtigen können und die eigene Erfahrung - zumindest in unseren Breitengraden - in der Regel verläßlicher ist, halten wir solche Produkte sowieso für überflüssig und deswegen bestenfalls "eingeschränkt empfehlenswert". Von den untersuchten UV-Testern erhielt nur das Sunwatch II von Conrad dieses Urteil, da es das einzige Gerät war, das im Labor wie unter mittäglicher Frühjahrssonne brauchbare Werte anzeigte.
+
+
+utor: Marcus Brian
+
+
+
+
+
+berechnen welche auflösung und welches "radiowellen-teleskop" um mit 3 sateliten ein 3-dimensionales raumbild von einem haus machen kann (1cm) resolution
+prinzip wie computertommograph <--
+

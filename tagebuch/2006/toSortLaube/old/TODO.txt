@@ -1,0 +1,8 @@
+Abnormal Program Termination:
+-Grundstrecke leereingabe absturz
+
+-Beschreibung fixe einträge *
+
+Klasse Message Streichen
+
+Marc durch Marc, Romino, Pascal ersetzen

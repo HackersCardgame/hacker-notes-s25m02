@@ -1,0 +1,225 @@
+A Visit from Wired Magazine
+
+by Robert Bernardo
+
+"O.K., I want you to lie in the middle of the road."
+
+I looked incredulously at Chris Beck, the Wired photographer who had come from New York City. 
+"O.K.!" I replied, and I obeyed his order.  From my sitting position on the asphalt, I lay down
+full-length upon the cold, slightly damp asphalt of the street.  Ah, the things I do to promote
+Commodore!
+
+It all started back on October 2 and 3 at the Santa Clara Convention Center in Santa Clara, California. 
+I was attending the Vintage Computer Festival, manning a table there for the Fresno Commodore User
+Group.  With me on that first day were Ed Hart, president of the Fremont-Union
+City-Newark-Hayward User Group, and Todd Elliott, programmer of demos, utilities, and GEOS
+enhancements.  It was the first time that we had a table at the show, and I had come with many things
+to demonstrate in front of the crowd -- Wheels, the SuperCPU, Loadstar, various European demos,
+and various magazines/newsletters, like GO64!, Commodore Scene, Commodore Zone, the Interface,
+and C= Voyages.  I had brought a C128D set-up, a C64 set-up, a European Plus/4 set-up, and a
+European C128D. Todd had brought his high-powered C128D system, complete with CMD HD,
+FD-4000, RAMLink, and SuperCPU, while Ed had brought various disks and a SX-64.
+
+Morning discussion sessions were held in the meeting rooms upstairs, and when they were over, then
+the doors of our "flea market" room would be opened.  When the doors finally opened at 2 p.m., to our
+surprise, hundreds of people poured through.  We had the enviable position of being the first table by
+the door, and everyone seemed to stop at ours first. Overwhelmed, Todd, Ed, and I tried to answer all
+of the questions of the people who were lining up.
+
+"What's that?"
+
+"That's a SuperCPU.  It's a 20 mhz. accelerator for the Commodore."
+
+"Could I buy one here?"
+
+"Uh, sorry... you'll have to buy it from Creative Micro Designs.  We're just a demonstration table. 
+...But here's their catalog, and here's a membership application for our club."
+
+"What's that?"
+
+"It's a hard drive for the Commodore."
+
+"I didn't know there were hard drives for the Commodore.  Can I buy it?"
+
+"Uh, sorry... you'll have to buy it from Creative Micro Designs.  We're just a demonstration table. 
+...But here's their catalog, and here's a membership application for our club."
+
+"What's that? It looks like the Amiga desktop or Atari desktop."
+
+"It's Wheels for the Commodore 64/128. It's the operating system upgrade for GEOS 64/128."
+
+"Could I buy it here?"
+
+"Uh, sorry... you'll have to buy it from Maurice Randall, the creator of it.  We're just a demonstration
+table.  ...But here's his address, and here's a membership application for our club."
+
+"What's that?"
+
+"That's a SX-64.  It's a transportable C64, disk drive, and monitor."
+
+"We didn't know that was made.  Can we buy it?"
+
+"You'll have to talk to Ed over there.  That's his machine."
+
+"What's that?"
+
+"That's CAD-M, a multi-color CAD program for the Commodore 64."
+
+"Is it for sale here?"
+
+"Uh, sorry... you'll have to buy it from Loadstar.  It was on issue #150. We're just a demonstration
+table.  ...But here's Fender Tucker's address, and here's a membership application for our club."
+
+Along with the slew of interested new and veteran fans came the reporters. A reporter and video
+cameraman from the magazine, Dr. Dobb's Journal.  A reporter and photographer from Shift magazine. 
+A reporter from Wired magazine.  Dr. Dobb's was first up...
+
+"Look straight at the camera.  What made you come to the Vintage Computer Festival?"
+
+"We came to promote Commodore 8-bit computing to the public.  ...That we're still around.  ...That
+our club is the strongest in the South San Joaquin Valley."
+
+"No, don't look at me.  Look at the camera.  Why do you still use a Commodore?"
+
+The questions kept coming.  Then a little while later came the Shift reporter.
+
+"Why did you come to the Vintage Computer Festival?"
+
+I gave the same answer that was given to Dr. Dobb's Journal.
+
+"Why are you still into Commodore gaming?"
+
+Huh, a new question! And one that I wasn't prepared for.
+
+"Well, it brings back a time when things were more innocent, when all you had to do was..."
+
+I was reaching for answers off the top of my head.  I wasn't really an intense gamer, but the reporter
+kept asking me gaming questions.  Looking for a way out, I finally sent her off to Ed.  (Sorry, Ed!) The
+Shift photographer took out his Hasseblad and wanted a few pictures of me. Well, at least, I thought it
+was going to be a few.
+
+"Put your arms down to the side.  Look at the camera.  O.K., good.  Now look over the camera. 
+O.K..  Now look to the left.  Good.  Now look to the right.  O.K..  Don't smile.  Look serious.  Good. 
+Now cross your arms.  Look straight at the camera..."
+
+Ay-yi-yi, he took more and more.  Finally, he finished and went on his way to photograph other
+attendees at the show.
+
+The Wired reporter was last.  Basically, he had the same questions as the other reporters, and I gave
+him the same answers, well-practiced by now. Satisfied, he departed, and I breathed a sigh of relief
+that the reporters had gone.  Now I go back to demoing the software/hardware to the crowd and talk a
+bit more to Ed and Todd before they left for the day.
+
+Sunday was quieter.  About half as many people came into the flea market room as the previous day. 
+Clark Murphy from FUNHUG had come to help me out that day, Ed having gone to attend some other
+computer show and Todd having to return to Southern California.  The Shift photographer was still
+buzzing around.
+
+"Haven't I seen you before?" he joked with me, but he didn't stay and went in search of fresh fodder. 
+The other newspeople were long gone.
+
+After that weekend, I thought I was finished with being in the limelight. I had given my answers to the
+reporters.  I would be troubled no more.
+
+Wrong! A few weeks later a Shift editor called all the way from Toronto, Canada in order to confirm a
+few things, e.g., how was my name exactly spelled, how many members were in the club, what was the
+motto of the club? I duly answered all the questions and again thought that was the end of that.
+
+Wrong! Mark Frauenfelder, the Wired reporter who had gone to VCF, e-mailed, saying that he
+wanted to come to one of our meetings to do a follow-up.  Well, this was a big deal, and I telephoned
+as many members as possible to come to the December meeting so that we show our Commodore
+solidarity.  I planned an exciting, jam-packed meeting in order to show him the interesting things we did. 
+Mark was a no-show.  I thought that was the end of that.
+
+Wrong! Wired called again, this time wanting verification of certain points (how do you spell your
+name, how many members in the club, what is the motto of the club, etc.) and wanting a time to set up
+a photo shoot.  Skeptical, I voiced my complaints about Mark not showing up at our meeting and my
+doubts whether such a shoot was really true.  Carolyn, the editor, assured me that this was true and that
+they wanted to photograph me the first week of January.  Well, that would be after my Christmas
+vacation; I'd be back to work by then.  We mutually agreed on Friday, January 7, 3:30 p.m., after
+school let out.
+
+I had some Commodores in the classroom, but I wanted to show off the home C128D with multiple
+drives, SuperCPU, and 20-inch monitor.  I decided I would set up the home system in the classroom. 
+The photographer would have to be satisfied with that.
+
+January 7 arrived.  The classroom was ready.  The equipment was set up. The photographer was late. 
+From his cell phone, he confirmed the directions to the school, and I told him that he was still an hour
+away. Finally, he rolled in, a bit before 5 o'clock.
+
+Chris and his assistant, Kyoko, immediately started pulling equipment out of the Ford Explorer.
+
+"We're losing the light," he told me.  "Is there a sign on the road that says 'school' around here?"
+
+"There's one by Fremont School a couple of blocks from here."
+
+"Great.  Let's go."
+
+Surprised that he wasn't going to film me in the classroom, I obediently walked with him and K yoko,
+showing him where the word, school, had been painted in yellow on the street.  Looking at the site, he
+took a minute to scan the scene with his photographer's eyes.  Then he knew what to do.
+
+"I want you to sit on the street, right there by where it says school."
+
+Here I was in my good school clothes... and he wanted me to sit in the street? Without protest, I did
+what he said.  He took out a Mamiya RZ67 and adjusted the focus while Kyoko took the light
+readings.
+
+"O.K., cross your legs and look at the camera.  O.K., purse your lips but smile.  Purse them tighter. 
+Oh, you can give a better smile than that. O.K., now just put your legs out straight.  Look at the
+camera.  Look over here to the side."
+
+Roll after roll was shot.  Car after car passed by.  Fortunately, Kyoko diverted the traffic while the
+shoot was going on.
+
+"Bernardo!" screamed some former student as he drove by.  Another teacher and his wife drove by
+and parked at their house just a few doors away, all the time staring at the activity going on in their
+street.  I thought, "Oh, boy!"
+
+Nearly 6 o'clock... daylight was nearly gone.  Streetlights glinted through the trees.  We'd have to go
+indoors by now, right? Wrong!
+
+"Hmm, o.k., sit up now and look directly into the headlights of the my car."
+
+This was Chris' idea? I stared at the lights just 10 feet away from me as he set up the camera, as
+Kyoko took the light readings, and as he starting firing away again.  At last, he was finished.
+
+"Let's go back to the classroom and take some more shots."
+
+The day wasn't over for me yet!
+
+"No, I don't like the computer there.  Can you move it?"
+
+I moved the entire system to another table.
+
+"I don't like the photos on the wall.  Can you cover them with those posters there?"
+
+I hid the student photos.
+
+"O.K., increase the brightness of the screen."
+
+I turned up the brightness and contrast of the monitor until it was glaringly bright.
+
+"Put a game on the computer and play with it."
+
+I disappointingly removed Wheels and loaded up Super Mario Bros..
+
+Many shots later, he was finished.  While he and Kyoko packed away their equipment and helped me
+with my equipment, I told them the way to some restaurants.
+
+"Aren't there any good, non-chain restaurants in this town?"
+
+"Uh, not here in Corcoran.  Why don't you follow me to Visalia? There are some trendy restaurants
+along Main Street."
+
+We drove off with me leading the way in my car.  We found a nice California/Italian restaurant, and
+Chris treated me to dinner, while we talked about computers, photography, and travel.  ...And he had
+called me, "Baby", only once during the entire photo shoot...
+
+(The above news articles mentioned can be found in the November 1999 issue of Shift magazine
+(www.shift.com) and in the March 2000 issue of Wired magazine (www.wired.com).  Commodore is
+also mentioned in the December 1999 issue of Maximum PC magazine (www.maximumpc.com) in the
+article concerning platform emulation.  Contact these magazine companies for ordering back issues.)
+
+(Originally published in The Interface newsletter of Fresno Commodore User Group; via the
+Commodore Information Center http://home.att.net/~rmestel/commodore.html) 

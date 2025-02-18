@@ -1,0 +1,154 @@
+BITS, BYTES, BINARY, AND BOOLEAN ALGEBRA
+
+by Brian Heyboer
+
+(San Diego Commodore Users Group, COMMPUTOY CULT, February 1988, VIA: JIMMY K)
+
+(C) 1985 Brian Heyboer
+
+
+This article may be reprinted in any publication that is distributed free of charge to the general public or members of an organization, providing that the copyright statement and this distribution statement are included.
+
+[Editor's Note: In this article the author uses the "up arrow" symbol to indicate "power of"; i.e. 10(up arrow)2 means 10 to the 2nd power, or 10 squared.  The up arrow symbol does not print to the screen with this program, so I have taken the liberty of inserting the \ symbol, since it will not appear in any of his formulas.  I hope this is not too confusing.]
+
+
+Introduction:  In this article, I hope to present information that is useful to both the novice and the intermediate computer user.  My emphasis will be on applications in BASIC, but all concepts apply equally to other languages.
+
+
+PART 1 - Definitions
+
+Here are some definitions of terms that will be used in this article and some other related "buzz words."  Where there are multiple definitions of a word, I have given the definition I will use as well as others.
+
+Binary - A numbering system which uses a base number of two.  (All 1's & 0's)
+
+Bit - Short for Binary Digit, this is the smallest piece of information that can be stored in binary.  A bit can have one of two states: one (also called set or on) or zero (also called reset or off).
+
+Byte - 8 bits.
+
+Nybble (sometimes nibble) - 4 bits.
+
+Kilobyte (K) - 1024 (2 10) bytes
+
+Megabyte (Meg or M) - 1048576 bytes (a kilo-kilobyte)
+
+Word - A group of bits operated on as a single unit (by the processor, data bus, etc.)  On the C-64 and VIC, it is 8 bits (a byte).
+
+Most Significant Bit (MSB) - That bit within a word that conveys the greatest amount of information, here it will always be the leftmost.
+
+Least Significant Bit - The bit which conveys the smallest amount of information; here, the rightmost.
+
+Boolean Algebra - Mathematics using the "logical operators" (AND, OR, and NOT <and EXCLUSIVE OR on other systems and in Simon's Basic>); very closely related to set theory.  This definition is sometimes expanded to include the conditional (IF, THEN and/or the relational (<, >, =, etc.) operators with which the Boolean functions are often used.  Here it will refer to logical only.
+
+Decimal - The Decimal System refers to the base ten numbering system you learned as a child (0,1,2,3...9).  Don't get confused with a Decimal Point.
+
+Hexadecimal (Hex) - A number system with a base of 16 (0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F)
+
+Octal - A base eight system (0-7).
+
+Integer - Mathematics which deals in whole numbers only, no fractions.  An integer number is one that has no fractional part (no decimal point).
+
+Floating Point - Mathematics that deals with fractional parts of numbers.  A floating point number has a decimal point, although the fractional part may be 0 (e.g. 123.0).
+
+USAGE CONVENTIONS:
+
+Mathematics usually designate the base of a number with a subscript, with 10 being implied if there is no subscript.  Because most computer terminals lack subscript capability, computer scientists have adopted the convention of preceding numbers with the "$" sign to designate hexadecimal numbers and the "#" sign to designate decimal numbers.  Binary numbers are not preceded by any designator.  I will use this convention within this article when dealing with numbers of different bases.  I will also be using the BASIC conventions for mathematic symbols, "*" designates multiplication, "/" designates division, and "\" designates an exponent. [Ed Note - \ standing in for the up arrow--remember?]
+
+
+PART 2 - Binary and Hex.
+
+The numbering system most familiar to all of us is the Decimal, or base ten, system.  There are ten distinct values (or states) a digit can take - zero through nine.  There is no magic to this system, though; it was adopted by our ancestors for one very simple reason: we have ten fingers which can represent the ten values.  Digital computers use the binary system (base 2) because the two states of 0 and 1 can be represented by the states of a switch or circuit, off or on.  After all, a digital computer is really nothing but a very complicated network of electronic switches.
+
+Here is a comparison of numbers in the decimal and binary system:
+
+     #217 =  2 100's (2*10\2)
+            +1  10's (1*10\1)
+            +7   1's (7*10\0)
+
+                multiple
+                       base
+                         power
+
+11011001  =  1 128's  (1*2\7)
+            +1  64's  (1*2\6)
+            +0  32's  (0*2\5)
+            +1  16's  (1*2\4)
+            +1   8's  (1*2\3)
+            +0   4's  (0*2\2)
+            +0   2's  (0*2\1)
+            +1   1's  (1*2\0)
+
+               multiple
+                    base
+                      power
+
+Each system represents numbers as a sequence of digits corresponding to the number (additive multiples) of each successive power of the base.  If I lost you with the definition, go back and look at the numbers; the numbers say it all.  By the way, #217 = 11011001.
+
+Now, what about hex?  Since computers "think" in binary, what is all this hex stuff?  Simply put, it is just a shorthand notation for binary that is easier for the human brain to comprehend.  Here is #217 in hex:
+
+$D9 = D (or 13) 16's (13*16\1)
+      9          1's  (9*16\0)
+
+So, why not just stick with the decimal system we all know and love?  Because a nybble can be represented by a single hex digit; a byte by two digits.  Splitting our number into two nybbles gives:
+
+In Binary     1101    1001
+In hex           D       9
+In Decimal      13       9
+
+Finally, here are some examples of how to convert from one numbering system to another:
+
+Decimal to Binary - #193=?????
+
+    193/2 = 96  remainder 1
+     96/2 = 48          r 1
+     48/2 = 24          r 0
+     24/2 = 12          r 0
+     12/2 =  6          r 0
+      6/2 =  3          r 0
+      3/2 =  1          r 1
+      1/2 =  0          r 1
+
+Read up - the answer is 11000011
+
+
+Binary to Decimal - 110101=#77
+
+                    1 * 32 = 32
+                    1 * 16 = 16
+                    0 *  8 =  8
+                    1 *  4 =  4
+                    0 *  2 =  0
+                    1 *  1 =  1
+                            ----
+Add them up, the answer is  #53
+
+Decimal to Hex - #205=$???
+
+     205/16 = 12 r 13     #13=$D
+      12/16 =  0 r 12     #12=$C
+
+               The answer is $CD
+
+Hex to Decimal - $A6 #???
+
+     A*16 = 10 * 16 = 160
+     6* 1           =   6
+                     -----
+                     #166
+
+Hex to binary - $2F=????
+
+     $2 = #2     =0010
+          Use Decimal to binary
+     $F = #15    =1111
+
+Put two nybbles together = 0010111
+
+Binary to Hex - 10101100=$???
+
+     High byte = 1010 = #10 = $A
+     Low  byte = 1100 = #13 = $C
+                  Answer is  $AC
+
+That is all for this installment, the next month's article will cover Boolean Algebra and "bit manipulation".
+
+ABOUT THE AUTHOR:  Brian Heyboer is a resident of Pinellas Park, Florida, and a member of the Clearwater Commodore Club.  He has a Bachelor of Science degree in Electrical Engineering and is employed as a Guidance and Navigation Systems Engineer by Honeywell Military Avionics Division.

@@ -1,0 +1,12 @@
+
+für das überwachende system programmiere man eine Delete funktion
+die nicht gebraucht werden darf und wenn man sie braucht gibt es 
+einen alarm.
+
+PRÄDIKATENLOGIK:
+A=Es gibt mindestens einen Toten
+B=Du sollst dir kein bildnis machen
+C=Du sollst nciht töten
+
+wir korrigieren den toten und machen uns ein bildnis.
+

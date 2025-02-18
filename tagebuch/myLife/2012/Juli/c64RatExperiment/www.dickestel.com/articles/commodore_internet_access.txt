@@ -1,0 +1,129 @@
+Shaky Future for Commodore Internet Access?
+
+Recently a number of Commodore users have found themselves shut out of the Internet and even
+convenient Email usage, as a number if Internet Service Providers (ISP's) have discontinued their
+support for text-based systems. A member of the Oxnard Commodore club who uses the Los Angeles
+Freenet service was told that their software was not Y2K compliant and they would be stopping text
+based service by the end of the year. They also told him that this would probably be true of most other
+Freenets throughout the country; however there is at least a possibility that this is just a way to get rid of
+an unprofitable segment of the business. 
+
+This prompted an Email exchange on the subject on the Commodore MaiLink exchange list.
+
+Three links were provided that supposedly list Internet Service Providers:
+
+http://www.primus.com/staff/peggy/provider.html - This one produce a "site not found" message.
+
+http://www.consumerworld.org - This lists thousands of services, not just computer stuff; it includes the
+following "yellow pages" link): http://www.superpages.com/ (This still requires a good deal of
+searching).
+
+http://duke.usask.ca/~scottp/free.html - This one lists Freenets around the world. It does produce an
+extensive world-wide list, but for many U.S. based providers there is no way to determine the location
+without linking to the service, a process that could prove tedious. 
+
+To the best of our knowledge, there is no Freenet service in the Fresno area. In some cases, a service
+that is not too far away may be cost-effective even with long-distance charges. The closest that can be
+identified from the list is in the San Jose area. We contacted Silicon Valley Public Access Link, where
+we found the following:
+
+"Our Classic Internet Service is designed for users with limited incomes, older computers, or for those
+for whom pictures are of little value. This service works well with most any terminal or PC, and a
+modem. We recommend this service for those using DOS, or running a 286 (IBM PC/AT) or older
+computers."
+
+The price is $40 per year. By limiting one's usage, and reading and preparing Email off-line, it should
+not be difficult to use a service like this from Fresno and stay well under the typical $20 per month that
+most ISP's charge for full service. (SV-PAL, 1777 Hamilton Ave, Suite 208A, San Jose, CA 95125;
+Web site: http://www.svpal.org/services/classic.html
+Email: support@svpal.org 
+Voice Mail: 408-448-3072
+
+Two popular free Email services, hotmail.com and juno.com were reported to require a PC, but one
+user at least was able to access the sites with his Commodore by going through his state library.
+Commodore telecommunications expert Gaelyne R. Gasson of Australia provided this information:
+
+Juno uses proprietary software that they give away free--and make up for it by showing advertising to
+their users.  In some ways they could be related to what AOL was to Qlink, as AOL still requires their
+own software, designed to run only on specific platforms.  This by itself excludes Commodore. Juno
+made the decision that they would only create software to use their service for specific computer
+platforms.  Unlike AOL/Q-Link, Juno didn't close doors to us, they simply didn't open any to begin
+with.
+
+Not long ago, hotmail.com started using secure pages for access to keep people's passwords safe. 
+This in turn caused problems for several Lynx/Commodore users as most ISP's don't as a rule set up
+Lynx so it can access secure web sites.  
+
+It CAN be done (ours is set up this way), but it requires that Lynx be patched and some systems
+administrators don't like taking this extra step. This is why a lot of Commodore users have assumed
+that it can only be accessed with Windows/IBM.  
+
+I don't really recommend hotmail.com though, as they really don't support text users in any way. At
+least friendlyemail.com uses alternative text, offers non-frames type pages, and best of all, they actually
+listened when I explained how they might improve their system so people who use Lynx can access
+their services. 
+
+The web is a part of the whole of the Internet.  As in yes, you can make cheese from milk, and cheese
+is a dairy product, but cheese is not milk. 
+
+Over the years, we have heard various formats of: 
+
+"It won't work because I'm using a Commodore computer." 
+
+In place of the word "It", pick any of the following:
+
+1. The modem; 2. The BBS; 3. The Internet Provider; 4. The download (ymodem, zmodem, xmodem);
+5. The upload (ymodem, zmodem, xmodem); 6. The fax machine on the other end of the phone line; 7.
+Some Web sites.
+
+Actually, none of these things can tell what's connecting to it. There are times when there are some
+reasons why something won't work that might at first glance seem like it's related to the computer type
+in use, but when investigated or looked at logically, it turns not the fault of using a Commodore.  It's
+easy to blame the computer. And even easier to blame our beloved C='s as they're such an easy (and
+often unfair) target. 
+
+For example, the problem with using Hotmail relates to an update they made to the way their web
+server works when accepting passwords.  They now use encryption and this requires a web browser
+that can handle encryption. Lynx CAN handle this, but has to be specially set up to do so, and we need
+to ask our systems administrators if they would do this for us. The question to ask is "Can you please
+update Lynx so it uses SSL or Secure Socket Layers? The information about it is at:
+http://www.slcc.edu/lynx/release2-8-2/ssl.html" 
+
+To come to a point, I was just able, with my Commodore, access my Hotmail account using Lynx--the
+one I've set up to handle secure connections.  It wasn't at all easy; there were a dozen offers of
+cookies and such, but I did get to a mail box and I was able to read my mail.  Oh, I also got a screen
+telling me that my browser wasn't very "good" and I should "update" to either Explorer or Netscape
+and was given a link to download Explorer (for those who don't know, Hotmail is owned by
+Microsoft).  However, the next link was to access my mail and I used that one. To prove I could also
+reply to mail, I replied to one of the Spam messages (that's all I ever get at that account) but sent it to
+my Email address here. 
+
+Unfortunately, some web designers have decided they don't want to deal with Lynx users at all and so
+actually check to see what browser is being used and exclude us.  I use it in the opposite way and
+make sure our pages are friendly for Lynx--especially when using something that displays great for
+other users but not in Lynx; for instance side by side type table displays.  I check if a user is visiting with
+Lynx, and if so, display the same information pre-formatted especially for Lynx but show it differently
+for other users.  
+
+But, Lynx can be used on many different computer types. If something won't work with Lynx, it's not
+the fault of our beloved Commodores, it's because Lynx either isn't set up, or the web master has
+decided to exclude us from their sites.
+
+The other thing to note is that with Lynx and other browsers you can actually change what type of
+browser yours is logged as.  For Lynx, this is in the options menu.  It is not a good idea though,
+because for instance, my pages would look horrible with Lynx if you took out that identifier and believe
+it or not, I'm sure there are others out there too.  There's even a list of Lynx friendly web sites at
+http://www.crl.com/%7Esubir/lynx.html 
+
+As to SLIP, this is software on both sides of the modem (at the Internet provider and on the home
+computer). SLIP is available for the Commodore but only in demo format at this point.  It and probably
+PPP too is coming though.  I just don't know how soon.  
+
+Contact Gaelyne at gaelyne@videocam.net.au or visit her Web site at http://videocam.net.au/
+
+Note: This article was written in mid-1999. As of February 2000 Maurice Randall is finishing a graphic
+browser for Commodore (The Wave); and there still seem to be plenty of text-based options
+available.)
+
+From "The Interface," newsletter of Fresno Commodore User Group via The Commodore Information
+Center web site (http://home.att.net/~rmestel/commodore.html) 

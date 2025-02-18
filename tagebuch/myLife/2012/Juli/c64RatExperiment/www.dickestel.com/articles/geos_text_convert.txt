@@ -1,0 +1,19 @@
+Commodore user Mark Murphy of CUCUG, in an article appearing in the September, 1995
+Keywords (Commodore Users Group of St. Louis) wrote about trying to convert text files on
+LOADSTAR to GEOS format.
+
+He reported that the Text Grabber on GEOS 2.0 64, used with the Generic III word processor
+module, worked perfectly. The 128 version of GEOS does not include Generic III.
+
+However, I have found that LOADSTAR text files can be loaded into The Write Stuff as SEQ text files
+(page 17 in the C128 manual and page 16 for the C64). A couple of unwanted characters appear at
+the top of the file, and can easily be deleted. At this point the text can be saved as a regular Write Stuff
+file, which can be converted with the Generic II module in GEOS 128.
+
+An even easier method (which worked in my test) is to use the GEOS program Wrong Is Write to
+convert LOADSTAR files directly to geoWrite (use PETASCII as the source). This applies to
+Loadstar files having the t. prefix.
+
+--Dick Estel
+
+From "The Interface," newsletter of Fresno Commodore User Group 

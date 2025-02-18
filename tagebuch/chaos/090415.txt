@@ -1,0 +1,84 @@
+Tagebuch Mit Apr 15 12:36:48 CEST 2009 @ ns2.ignored.ch
+
+was wollte ich schreiben?
+
+ach ja, eine aufgabe für unsere statistiker, 
+
+Wie gross ist die Chance, dass ich Martin Blum einige Jahre nicht sehe
+und er dann fast zeitgleich mit Quala dt=1h ins ziknet reintrampelt
+
+also 8000h/jahr
+
+2h 2leute
+
+00
+01
+10
+11
+-->50%
+1/2
+
+
+3h 2 leute
+a: 1 2 3
+b: 1 2 3
+
+11
+12
+13
+21
+22
+23
+31
+32
+33
+
+3/9
+
+4h 2 leute
+a: 1 2 3 4
+b: 1 2 3 4
+
+11
+12
+13
+14
+21
+22
+23
+24
+31
+32
+33
+34
+41
+42
+43
+44
+
+4/16=1/4
+
+also die wahrscheinlickeit sollte bei etwa 1/8000 sein, vermutlich zufall.
+
+vermutlich habe ich aber vergessen, dass ich mich auch in die gleichung
+einbeziehen müsste, ich muss ja auch da sein, naja es ist vermutlich komplett
+falsch... vermutlich muss noch einberechnet werden, wie oft man zufälligerweise
+auf bekannte leute trifft, --> aber warscheinlich grösser als man meint
+-_> Geburtstagsparadoxon....
+
+man müsste die möglichen aufenthaltsorte einbeziehen. mathematiker unter euch
+WIE RECHNET MAN SOWAS?
+
+
+2h 3leute
+
+
+
+
+
+
+
+Tagebuch Mit Apr 15 12:45:34 CEST 2009 @ ns2.ignored.ch
+
+Tagebuch Mit Apr 15 18:01:34 CEST 2009 @ ns2.ignored.ch
+

@@ -1,0 +1,9 @@
+System log for account 962320 (icq) connected at 06.05.2007 18::34::35
+---- +++ 962320 hat sich angemeldet @ 2007-05-06 18:34:35 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-05-06 18:34:36 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-05-06 18:34:36 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-05-06 18:34:36 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-06 18:35:16 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 2007-05-06 18:38:11 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 2007-05-06 18:54:53 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-05-06 18:57:07 ----

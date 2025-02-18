@@ -1,0 +1,19 @@
+Conversation with 50590990 at 31.03.2007 14::35::33 on 962320 (icq)
+(14:35:43) Dominik: aber telnet han ich gar nid offe !
+(14:36:26) landev: telnet www.away.ch 80 
+bedütet port 80 also http, denn musch "GET /" und enter schriibe und denn gsesch was passiert
+(14:38:09) Dominik: waqs mues ich iigää?
+(14:39:02) landev: "telnet www.away.ch 80"
+>denn chont en schwarte bildschirm denn
+"GET /" und Enter
+(14:39:10) Dominik: goot nid
+(14:39:19) landev: ebe...
+(14:39:41) landev: also bi mir gohts...
+(14:39:56) landev:  au bi away... aber irgendwie glaubi das mit em routing öppis nid stimmt...
+(14:41:23) Dominik: bi mer chunt eifach das es en falsche parameter isch, aber d ferbindig stoot
+(14:41:40) landev: chaschs rasch inekopiere?
+(14:42:04) Dominik: ah sorry , goot ha ke space wüsche get und / gmacht
+(14:42:37) landev: ok, und das goht schinbar au uf linux mit ipv6 triiber ned... was wohl heisst, das allefalls öppis am router falsch isch...
+(14:42:50) landev: hesch de typ scho gfrogt wo das macht?
+(14:44:23) Dominik: nei verwütsch ne nid
+(14:44:52) landev: me müest jetzt no usefinde was bi der uschi chont...

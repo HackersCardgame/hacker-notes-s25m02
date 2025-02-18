@@ -1,0 +1,20 @@
+Disk Drive Tip
+
+Always keep a disk in your 1571 and close the latch.
+
+When the latch is up, the upper read/write head is lifted away from the disk by a spring. Eventually that
+spring weakens and disks will not work correctly.
+
+When you close the latch the pressure on the spring is released and the read/write head can rest against
+the disk.
+
+1541 disk drives do not have the upper read/write head, so this is not a concern for them.
+
+(From Tri-City Commodore Computer Club newsletter, May 1997)
+
+EDITOR'S NOTE: Fresno Commodore User Group technical expert Del Contreras recommends
+following this practice for the 1541 drives also. Even better than a disk is the head protector card that
+originally came with the drive if you have one. You can make extras by tracing around the original on a
+piece of light cardboard and cutting it out with an Xacto knife.
+
+Via The Commodore Information Center web site (http://home.att.net/~rmestel/commodore.html) 

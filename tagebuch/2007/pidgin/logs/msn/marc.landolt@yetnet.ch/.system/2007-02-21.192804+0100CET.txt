@@ -1,0 +1,11 @@
+System log for account marc.landolt@yetnet.ch (msn) connected at 21.02.2007 19::28::04
+---- +++ marc.landolt@yetnet.ch hat sich angemeldet @ 2007-02-21 19:28:04 ----
+---- Fabian hat den Status von Offline zu Verfügbar geändert @ 2007-02-21 19:28:05 ----
+---- Fabian hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-21 19:35:24 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-02-21 19:28:06 ----
+---- Fabian hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-21 19:40:14 ----
+---- Fabian hat den Status von Verfügbar zu Offline geändert @ 2007-02-21 19:41:46 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-02-21 20:00:59 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch hat sich abgemeldet @ 2007-02-22 17:26:26 ----

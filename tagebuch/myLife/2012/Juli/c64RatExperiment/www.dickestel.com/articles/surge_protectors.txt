@@ -1,0 +1,94 @@
+Surge Protectors (SP) and Uninterruptable Power Supplies (UPS): Their Differences; and What
+Protection to Expect From Each of Them.
+
+by Myron N. Daniels
+
+This article is primarily concerned with our C64/128 computers and connected peripherals, such as
+drives. printer, modem, and etc. This article is also applicable to other computers and related
+equipment.
+
+Only quality surge protector (SP) and uninterruptible power supply (UPS) units are considered in
+this article. Too many units on the market claim to be what the name implies; however, they're not
+very good at really doing it.
+
+Price should not be the factor used to determine the quality of either unit. We usually say, "You only
+get what you pay for."
+
+The basic differences between the units are:
+
+1. An SP is a portable protective device that plugs into an electrical receptacle in your home or
+office. Then, you plug equipment to be protected into one of the several outlets provided, including
+a modem's telephone line.
+
+The SP protects your computer from an electrical power surge containing spikes of higher than
+normal line voltage. Commonly referred to as Transient Voltage Spikes, they last about 1 to 2
+millionths of a second and can be as great as 5,000 to 6,000 volts. The SP clamps the spikes down
+to a non-destructive value.
+
+Think of a power surge like when a dam breaks. A sudden rush of water surges down a normally
+running stream. Think of spikes as big rocks, having a shape of upside down garden carrots. being
+pushed along at great speed & force.
+
+When a power surge hits the input of the SP, the components inside it are designed to CLAMP
+DOWN and suppress that surge and spike. If a surge is too great, an internal fusible link will melt,
+opening the electric circuit to the SP, and power to the connected devices will stop immediately.
+
+AN SP should be considered an expendable sacrificial device. Its only purpose is to save your
+equipment from catastrophic destruction. If it lasts past one hit, that's gravy!
+
+The cost of the SP to that of the protected equipment is considered negligible.
+
+The SP must then be returned to the manufacturer for repair. It has done it's job.
+
+In the event that a surge is too great, and your equipment does get damaged from a power surge &
+spike, the manufacturer of a quality SP will replace your damaged equipment, up to the value of
+your losses. This guaranty will be stated someplace on the box, SP, or on a separate document.
+Important, keep that sales receipt; you will need it should you ever have a need to file a claim.
+
+A high quality SP having good quality internal components. will also have a couple of indicating
+lights on it indicating its operational status as having electrical power to it and, is in normal,
+protective, working order
+
+My SP is made by American Power Conversion (APC), model NET71, $43 plus shipping and
+handling. APC provides up to $25,000 lifetime warranty with this SP, should it fail to protect the
+equipment connected to it.
+
+About the UPS unit. First, the UPS unit is not considered an expendable sacrificial device. The
+internal battery & unit is intended to be continuously usable for many years
+
+One very good reason for having a UPS unit: When you experience a power outage for whatever
+the reason, the computer and peripherals shut down. You've lost your work. You sit there crying
+with frustration, uttering many nasty words to yourself.
+
+Oh yes,  you're grateful that the SP has saved the equipment from possible damage, but you had a
+deadline to meet, or to go fishing.
+
+Salvation cometh via the UPS. It continues to provide electrical power to the computer an devices
+plugged into it, allowing you to save your work and shut down safely. Whew!
+
+On loss of normal power, the battery in it automatically powers up a built in inverter. The inverter
+converts battery DC power to a simulated AC current. Some quality units even have a limited SP
+circuit built in.
+
+Why I bought both units: two incidents caused me to become a believer.
+
+1. A contractor digging a trench for a waterline severed an underground power line, causing an
+electrical outage. I lost some data but the spike in the surge cost me a Star XB 2425 color printer--
+$449 plus shipping and handling.
+
+2. Shortly after incident #1, we had a heavy windstorm in the Koolau mountains. High voltage
+power lines touched and knocked out the electric power to the area where I live.
+
+All lights went out, and my C-128 computer shut down. All data not saved was lost.
+
+That did it! Never again was I going to be a victim of an electrical power outage!
+
+As club members know, my home is on the windward side of Oahu, in Haiku Village in a valley.
+We have, and still do experience frequent long lasting power outages. Until the two experiences
+noted above, I had lucked out with only loss of data and time.
+
+My UPS unit is an APC mode, Back UPS Pro-650. Its capacity is 650 volt amps (VA); cost $289
+plus shipping and handling. I'm very happy now.
+
+(From Hawaii On-Line, July-August 1997, via the Commodore Information Center,
+http://home.att.net/~rmestel/commodore.html)

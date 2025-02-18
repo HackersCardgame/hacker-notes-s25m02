@@ -1,0 +1,258 @@
+The Interface
+Fresno CA, October/November 2000
+Contents
+Commodore and EBay 
+Is JiffyDOS There? 
+Microscopic Computers
+LYNX Problems
+Vintage Computer Festival
+Ancient History of Computers  
+In Memorium: Marie Terry, Ruth Hackley
+
+"Hardware: the parts of a computer that can be kicked."
+--Jeff Pesis
+
+Annual Picnic
+
+Saturday September 16
+Dippollet residence
+5656 Indianola Ave
+Clovis, CA 93611
+ 
+Members bring dessert or a salad; main course provided by the club.
+(Map on Page 8)
+
+Getting on eBay With Your Commodore
+
+By Marge Weller
+
+If you want to use your C-64/C-128 to get on the World Wide Web to see the eBay auction and its Commodore listings, maybe I can offer some helpful tips to get you there in six easy steps. These suggestions are for Commodore users with shell accounts which have online access to the Lynx (text-only web browser).
+
+Before you start, you can open a capture buffer and later, off-line, review where you've been. If your results are anything like I get using Desterm, it won't be a lot of help. Still, I would suggest you go ahead and open a big buffer in your term program. Then proceed as follows:
+
+1. Log onto your ISP and from any menu select or type: "!lynx" and RETURN. (Type only the things inside the quotes, not the quotes themselves.) This gets you onto the Web. (Ed. note: Some ISPs will have a menu selection for Web access.) While browsing, you will see things like "[INLINE]" and other non-familiar prompts, but they are not for Commodore users, so just ignore them. The several lines of commands at the bottom of the screen are the Lynx text browser commands.
+
+2. To access any web site using Lynx, type go or just "g" and you will see, highlighted: URL to open: Enter the site address and RETURN. In this case it is, http://www.ebay.com (all lowercase). This will bring up the eBay auction, with a list of categories, beginning with antiques. Cursor down to Computers (#####) and press RETURN.
+
+3. You will then have a chance to search for a sub-category. Type "commodore" on the blank line and RETURN. (Lynx isn't very case-sensitive, so lowercase for everything usually works.) Below that will be a couple of options to search only in computers, or search titles and descriptions. For now ignore these options and just press RETURN when the highlight is on Search. This will bring up the first group of 50 or so Commodore items.
+
+4. At the upper right corner of the screen you'll see (page 1 of xx). Each page contains a group of listings. The listings may not start on the first page. You may see Search Results and some headers for the listings near the bottom of page one: i.e., Item# Item Price Bids Ends. Jot down or keep these headers in mind as you use the space bar to go to the 2nd page, where the listings will begin. (There may be several hundred Commodore items listed, so expect to see a lot of them!) At the end of each group of listings, you will see these options: Go to top of page gets you to the beginning of that group, and Next brings up the next group. Highlight your choice and press RETURN. 
+
+5. Generally, you can use the following keys for browsing: Up and Down cursors to get around on the screen and move the highlight bar. Use RETURN or Right Cursor to select a highlighted item. Lower keyboard cursors work fine. The minus key (-) lets you go back to previous page when you're reading beyond page one of a multi-page section. Space bar to go to the next page. Sometimes there's a prompt at the bottom of the screen to remind you of this, but not always. There is no need to cursor, or move the highlight, to the bottom of a page before going to the next page. Inst/Del key to bring up your History page, which helps if you get lost while browsing. This will show every link you've used to get where you are, and lets you go back to any previous branching place just by highlighting it and pressing RETURN. It is a very useful feature.
+
+Type "q" at any time to quit Lynx and the WWW, and get back to your ISP's main menu.
+
+Happy browsing and good luck on the Web! 
+
+(from Colorado Commodore Computer Club, via ?Syntax, Commodore Houston Users Group, June-July 2000)
+
+
+Is JiffyDOS in There?
+
+Say you picked up a 1571 or maybe a 1581 disk drive at a rummage or wherever, to go with your 128 system with JiffyDOS installed, but you don't want to open it just to see if it has a JiffyDOS chip in it. Forget the stopwatch idea. On start up in 128, 80 or 40 column, just type in: PRINTS$ and a message will come up saying either: 73 CBM DOS and what version of DOS it is and the type of drive you are using, or, 73 JiffyDOS and what version of DOS, maybe a date and the kind of drive you have. 
+
+If you have JiffyDOS in your computer, you can just hit the @ sign and press RETURN.
+
+So, what does JiffyDOS do? JiffyDOS is installed in your 64 (or 128) when you replace a ROM in your 64 and drive (or 2 in a 128 and one in the drive). This involves opening the case and probably soldering, too. With JiffyDOS in place, one or two keystrokes can do a lot. You get increased speed in all your disk functions (load, save, read, write and verify) working with all file types. Users report a significant difference in speed (we see it at club meetings). The only thing needed is the proper keyboard combinations (i.e. Fl = display directory, F8 = LIST basic program, F5 = LOAD and RUN a program, and so on). JiffyDOS is manufactured by Creative Micro Designs, Inc. (CMD), P.O. Box 789, Wilbraham, MA 01095.
+
+(From C=HUG Gazette, Commodore Hayward Users Group, September 1999)
+
+
+Resolving Problems with LYNX
+
+(The following is a summary of Email exchanges on the Commodore MaiLink exchange list, edited for this 
+article.)
+
+Question: 
+
+Richard: When using LYNX, when I go to certain web sites, I get the following message:
+
+"Alert!: This client does not contain support for HTTPS URLs."
+
+Any idea what this means, and is there anything I can do about it to gain access to the site?
+
+Answers: 
+
+Ed: HTTPS denotes a secure site. Unless you're using Billy's Bonus package (or similar) you won't be able to access it.  In fact, the other day I hit such a site and couldn't get in. (Probably didn't pay my dues.)
+
+Gaelyne: What it means is that the version of Lynx you're using doesn't have the added ability to visit secure web pages (as Ed stated).
+
+Lynx can be compiled so that it will let you visit secure pages, but it involves having an additional library online (Open SSL), and patching Lynx before compiling it.  Every time I update Lynx I do this for our users, and while it used to seem quite involved, the people making Lynx keep making this part easier and easier.
+
+To access the pages, you'll either need to ask your system administrator to update Lynx so it will work with secure pages, or find a provider that offers Lynx in this format. (Of course, you could also use either Netscape or MS Internet Explorer, but I'm assuming you want to access the pages with your Commodore, not with another computer).
+
+It was because not all browsers have this ability that I set up our web store so instead of only offering secure orders, it has two buttons -one for normal orders, and one for secure. That way if the secure doesn't work, there's always something to fall back on. 
+
+
+Microscopic Computers
+
+The first computers utilized vacuum tubes.  Besides requiring a great deal of power to operate, they were bulky, which in turn made the processing speed slow. 
+
+The development of the transistor provided the first leg up toward the modern computer.  Besides requiring less power to operate, the transistor's smaller size increased processing speeds. 
+
+Then came the silicon chip.  This device allowed the creation of many transistors and other circuits in one small package.  And the more transistors that could be placed on a chip, the faster it could process data. 
+
+Miniaturization followed which allowed even more transistors and circuits to be placed on a chip.  Processing speeds doubled and quadrupled.  It also allowed development of smaller chips and components for truly compact equipment like laptops. 
+
+However, there is a limit to this silicon based technology.  And the methods used to make chips are rapidly reaching the point where further miniaturization will not be possible.  In other words, if computer power is to increase further, a replacement for silicon chips must be found. 
+
+According to news sources, the answer may already be more than just an idea.  One report speaks of researchers who are trying to make computers using molecular circuits.  They believe it is possible to chemically synthesize circuit components to create the electronics otherwise provided by the circuits on silicon chips.  In fact, there are reports that a basic element of computer circuitry, the logic gate, has already been accomplished, at least to some degree, using synthetic molecules. 
+
+A computer based on molecular technology would redefine what is now thought to be super-fast.  Furthermore, they would be very efficient.  For example, a laptop consisting of molecular circuits could run for years on nothing more than a hearing-aid battery.  After all, it only takes one electron to open or close a single molecule switch.  So, a molecular computer could perform trillions of operations per second on just one watt of power. 
+
+Besides being cheaper to operate, molecular circuits would cost less to manufacture.  The reasoning behind this conclusion may seem somewhat odd, but necessity is the mother of invention.  Anything made chemically will invariably contain defects.  Thus, in order to make a computer consisting of chemically synthesized components work, a means must be found to work around the defects.  It is thought that new software will provide the answer.  Indeed, such programming is already being developed.  For instance, a computer with deliberately installed defective components was made to work using software designed to detect the bad parts and reroute functions around them. Hence, the highly expensive manufacturing facilities needed to produce the needed near-perfect silicon chip would not be a factor in the fabrication of molecular circuitry. 
+
+The real benefit of molecular computers, though, would be size. Whereas computers today can be built into little packages, "little" hardly describes a computer the size of a bacterium.  Imagine a computer smaller than a blood cell! It is conceivable that such a device could be injected into a human body to perform medical diagnostics. 
+
+Microscopic computers, though, would not be limited to use in the medical field.  Intelligent roads created with computerized concrete could eliminate the driver.  Paint capable of changing color on command could be made.  Nanocomputers woven into fabrics would create "smart clothes." When computers become the size dust particles, there is little limit to what could be computerized. 
+
+Needless to say, the government is very much interested in the development of molecular electronics.  The success of "Smart" weaponry relies on sophisticated computer technology.  The space required by electronic components, along with the required power source is critical.  It is not surprising, then, to find a good deal of funding for research into low-power, ultraminiaturized electronic components coming from the Defense Department.  The projects are also of interest to NASA in both their space station and unmanned spacecraft research.
+
+(From CIVIC 64/128 Gazette, Oxnard-Ventura CA, 
+October 1999)
+
+
+C=Scape
+By Robert Bernardo
+
+Calling all good Commodore users! Once again, the Fresno Commodore User Group is going to have a table at the Vintage Computer Festival. In conjunction with the Commodore Hayward Users Group, we will have a better and more action-packed table to present to the hundreds of people who will flood the VCF marketplace. We'll be demonstrating the best of all things Commodore --Wheels 64/128, The Wave 64/128, the SuperCPU, Loadstar, the JPY/JPZ jpeg viewer, European demos, SID music, classic games, Commodore magazines like GO64!, Commodore Scene, Commodore Zone, and the GEOS Publication; and newsletters from our group and other groups.
+
+Not only are we demonstrating this year but we are also selling. I've been speaking to Maurice Randall of Wheels/GEOFax, Fender Tucker of Loadstar, and Charlie Christianson, Sr., of Creative Micro Designs, and all seemed positive in selling their wares at our table. However, I can't leave out the members of our club; if you have C= items that you wish to sell at our table, just contact me for more information. If you want to come along to VCF, just contact me. Just remember that my 4-door Ford Crown Victoria can only hold so much!
+
+Also we look forward to meeting various C= guests --Larry Anderson, sysop of the Silicon Realms BBS, Cameron Kaiser of HyperLink 2.0, and others. Others?! Why, everyone is invited to hang out at our table. I promise to have chairs for our visitors, and we'll have refreshments.
+
+All in all, this is the closest we'll come to a West Coast Commodore Expo. And even if you're not into Commodore, there will be plenty of exhibits and tables of vintage computers and software/hardware. For Amiga users, Dale Luck will be bringing the Lorraine prototype of the Amiga (imagine lots of breadboards with wires hanging out). Below is the updated VCF announcement, direct from Sellam "Sam" Ismail, organizer of VCF 4.0. (My thanks to Sam for including a link from his website to our FCUG home page.) Boy, am I excited! See you at VCF 4.0!
+
+
+Vintage Computer Festival 4.0 September 30 through October 1, 2000 10-5 p.m. daily (marketplace open 2-5 p.m. daily) San Jose Convention Center Parkside Hall San Jose, California http://www.vintage.org
+
+Mark your calendar! The fourth annual Vintage Computer Festival is scheduled for Saturday, September 30th though Sunday, October 1st at the San Jose Convention Center in San Jose, California.
+
+The Vintage Computer Festival is a celebration of computers and their history. The event features speakers, a vintage computer exhibition, a vintage computer marketplace, and contests like The Nerd Trivia Challenge. We showcase all different types of computers for all different kinds of platforms in all different shapes and sizes.
+
+REGISTER EARLY AND SAVE!
+
+Register by September 20th and pay only $25 per person for the entire weekend! $15 per day at the door. Kids 17 and under free. Parking free. Your registration includes complete event access, including speakers, the exhibition, and the marketplace. And just like last year, the first 32 registrants will receive a VCF t-shirt! Act fast to secure your early registration and a free VCF T-shirt.
+
+We've made it easier than ever for you to register online as we are now accepting credit card payments. Visit the VCF website for complete details!
+
+Vintage Computer Festival 4275 Rosewood Drive Pleasanton, California 94588 U.S.A.
+
+VCF AND CAEX2000 TOGETHER IN ONE VENUE!
+
+The VCF is proud to announce it is being held in conjunction with California Extreme 2000, the world's premier classic arcade game extravaganza! Hundreds of classic arcade and pinball games beeping, buzzing, and booming. The VCF and CAEX2000 share the same venue, making it easy to attend both events. Even better, admission is reduced for those who do come to both events (details at the door)! For complete details on California Extreme 2000 see: http://www.caextreme.org
+
+SPEAKERS AND WORKSHOPS Every year, the VCF assembles an amazing line-up of talks and workshops. This gives attendees an opportunity to interact with the people who laid the foundation for computing today, as well as those who are helping to document and preserve it. Our speaker roster so far includes:
+
+Bill Godbout: Bill was the King of S-100 for well over a decade, providing kits, boards and complete systems for the hobbyist and businesses worldwide. Godbout and CompuPro products were a basic staple for computer hobbyist's throughout the late-70's and 80's.
+
+Jim Warren: Jim was responsible for bringing about the West Coast Computer Faire, the seminal computing event of the 70's and 80's. Jim will be waxing poetic about the political activism that transmogrified into the microcomputer revolution of the 70's. Jim will be engaging in a roundtable discussion with fellow revolutionary Larry Tesler.
+
+Larry Tesler: Larry has left his mark at two of the Silicon Valley's most hallowed institutions: Xerox PARC and Apple. But Larry's vision began well before he went on to help create the foundations of modern day computing. Larry will join Jim Warren in a roundtable discsussion.
+
+Paul Freiberger & Mike Swaine: Sixteen years ago, Paul and Mike surveyed the Silicon Valley and then wrote about it. Their tome, "Fire in the Valley," has become a legend in its own right. Paul and Mike will be sharing what they learned in writing this biography of the center of the high tech world. Bring your own copy to have it signed!
+
+Christine Finn: Christine is an archaeologist. So how did her research lead her to vintage computing? Christine is studying the Silicon Valley and the effects it has had in bringing about a global transformation in the way we live. Christine will tell us why it happened in the Santa Clara valley of California.
+
+Curt Vendel: Curt is the founder of the Atari Historical Society. On his website (http://www.atari-history.com/) he documents the amazing ups and downs of one of computing's most celebrated and innovative companies. Curt will also be bringing along a great interactive Atari exhibit.
+
+Jim Willing: Jim, our Official VCF Celebrity, is back to wow you with more amazing words of wisdom, incantations of innuendo, and sentences of sarcasm. This year in two separate talks he takes on the topics of computer collecting and computer preservation; one is not exclusive of the other!
+
+Dwight Elvey: Dwight has achieved the ultimate in computer restoration. He acquired a relatively unknown mini-computer from the early 70's, the Nicolet 1080, resurrected it, wrote a cross-compiler for it, and brought it back to life. This talk is perfect for those wishing to take on their own restoration projects but don't know where to start.
+
+More speakers to be announced soon! Check the VCF website for the latest updates: http://www.vintage.org/2000/speakers.html
+
+EXHIBIT YOUR VINTAGE COMPUTER
+
+Vintage Computer Collectors: we want you! Exhibit your favorite computer in the Vintage Computer Exhibition. Prizes will be awarded in 12 different categories, as well as a Best of Show prize which includes $50 cash!
+
+For complete details on the VCF Exhibition, visit: http://www.vintage.org/2000/exhibit.html
+To see the exhibits from VCF 3.0 go to: http://www.vintage.org/exhibit99.html
+
+BUY/SELL/TRADE AT THE VINTAGE COMPUTER MARKETPLACE
+
+Do you have some vintage computer items you'd like to sell? Whether you rent a booth or sell on consignment, the Vintage Computer Marketplace is the premier venue for selling old computers and related items. If you would like to rent a booth or inquire about consignment rates, please send e-mail to vendor@vintage.org for more information or visit: http://www.vintage.org/2000/vendor.html
+
+CHECK OUT THE NEW SITE!
+
+If you haven't visited the VCF website in a while, come on over and have a look at the completely new design. You'll find it easier to navigate and easier to find the information you're looking for. We've got plenty of good stuff to read and hundreds of new links to explore vintage computing on the web. We're constantly adding new content. Stop on by for a visit!
+
+TELL A FRIEND! TELL A NEIGHBOR! TELL A STRANGER! We really hope to see you at VCF 4.0! And remember, tell everyone you bump into about the Vintage Computer Festival!
+
+
+It's Saturday Night
+
+It took two spins to get a winner in August. Zella Mallard left too early and lost out on the big money; Del Contreras came up a winner, a reward for his first visit to a meeting since January.
+
+(See Member Drawing, Page 10)
+
+Member Drawing (continued from Page 7)
+
+We draw names till there's a winner, stopping after the third name, and if none of them is present, the pot goes up to $10 the next meeting.
+
+
+In Memorium:
+Marie Terry
+The club extends our sympathies to Bill Terry, whose mother Marie passed away February 28 at age 82.
+
+Marie regularly accompanied Bill to meetings and joined us at the annual picnic most years. She was born in Boise ID and came to the Visalia area as a teenager. She was active in the local genealogy society and an art league.
+
+Bill is the only surviving child.
+
+
+Ruth Hackley
+
+The Commodore community has lost another member. Ruth Hackley passed away suddenly July 27 at age 77 in Roseburg Oregon. Ruth's husband Ron Hackley is the author of the Fun Graphics Machine graphics manipulation program for the C64.
+
+Her ashes were scattered over the Umpqua River near the Hackley home.
+
+As well as participating in many Commodore mailing lists and the comp.sys.cbm newsgroup, Ruth and Ron are also members of their local Commodore/Amiga user group and Meeting Commodore C64/128 Users through the Mail.
+
+Ruth was born June 21, 1923 in Battle Creek, Michigan to Emil and Emma (Miller) Yohpe. She served in the U.S. Coast Guard during World War II.  Ruth received her Bachelor of Arts degree in education from the University of Washington in 1966, then went on to teach in the Kent, Washington primary school system until her retirement. 
+
+Ruth earned her amateur radio (ham) license as KD7JQV, and was a member of the Umpqua Valley Amateur Radio Club. Her interests and knowledge were vast and included many subjects; she knew tools (fixing things), flowers, sewing, music, computer programming, art, classics, history, and so much more. 
+
+In addition to her husband, she is survived by three children, a grandson, two brothers, and numerous relatives and many friends world wide, and her cats.
+
+
+The Ancient History 
+of Computers
+
+by Richard Axtell
+
+Let's go back in time about two thousand years to the time when the first computing device was invented. Do you know what this device was called? The answer is the ABACUS. This device is still in use to this day in Japan and China. These use equally spaced wires or rods with beads to represent digits.
+
+Now we move forward in time and meet the man who invited the first adding/subtracting device. His name was Blaise Pascal (1623-1662). At the age of 19, he constructed this device and gave Louis XIV, King of France, a copy. This device used gears, rods and dials for computing answers to problems. Most people introduced to this device refused to use it because they feared it would eliminate the need for human calculators someday (sound familiar?) 
+
+The first commercially used adding machines appeared nearly 200 years later, in about 1820. In 1822 Charles Babbage (1792-1871), a British mathematician, designed and built a prototype of the difference machine. This machine was to generate mathematical tables and could perform repetitive calculations to make these tables. In 1833 Babbage redesigned the machine radically, calling his new design the analytical engine. Babbage never built this machine, but the design used a steam engine and cogged cylinders to perform calculations. The engine would use punched cards for inputting data and instructions. The Countess of Lovelace (Lord Byron's daughter), who was a mathematician, called Babbage's analytical engine a machine that would weave algebraic patterns just as a Jacquard loom weaves flowers and leaves. The countess was considered the first to write computer programming for this machine.
+In 1890, Herman Hollerith (1860-1929) developed the first electric machine that could read punched cards. At this time he worked for the U.S. Census Bureau and his device was used to help with census information. The machine was used in other countries, like Canada and Russia, for the same purpose. Hollerith formed a company in 1896 called Tabulating Machine Company. This company was one of the companies that later joined to form the company familiar to us all as IBM in 1924. 
+
+In 1928 astronomers Wallace J. Eckert from the U.S. and John Cromie of England devised punch card machines for calculating astronomical and nautical tables.
+
+Moving to 1943, J. Presper Eckert and John W. Mauchly and associates designed a machine called Electrical Numerical Integrator and Calculator (ENIAC). The machine was built in 1944. It used 18,000 vacuum tubes and 180,000 watts of electricity. It also required space equal to a two bedroom house. This machine could calculate in 20 seconds ballistic problems that would take one person 20 hours using a desk calculator. ENIAC was also used for calculations to develop the first atomic bomb.
+
+Also in 1944, the Harvard Mark I was finished. This electro-mechanical device could perform the calculations planned for the analytical engine by Babbage some 111 years before. The Mark I was designed by Howard Aiken and Associates. This machine was 8 feet tall by 55 feet long and had around 750,000 parts. The Mark I could handle numbers with 23 digits and do all arithmetic operations along with logarithms and trigonometric functions.
+
+By 1945, John von Neumann proposed the idea of stored memory and designed his EDVAC (Electronic Discrete Variable Automatic Computer). The design was completed in 1952. Von Neumann is considered the father of the modern electronic computer.
+Construction of UNIVAC was ordered in 1947 for use by the U.S. Census Bureau. Eckert and Mauchly completed the work in 1951. This and other computers similar in design to UNIVAC used delay-line memory and performed multiplication by repetitive addition.
+
+The decade of the 50's was a time of great change for computers. The use of ferrite core memory began and the transistor was to replace the vacuum tube.
+
+Technological development was not the only thing to take leaps in the 50's. The idea of assembly language to translate the binary codes used by computers to more easily understood instructions was introduced in that decade. Some of the higher-level languages that more closely resemble terminology, such as COBOL, ALGOL and FORTRAN, were developed in the 50's and early 60's.
+
+The early 60's focused on building larger memories and more functions into computers. Photo printing of circuits to make computers smaller and faster was started in the early 60's. The LARC computer from Sperry-Rand Corp, and Sterch, built by IBM, were two of the new computers of the early 60's.
+
+Business started using computers at that time also. In 1963, The Daily Oklahoman in Oklahoma City became the first newspaper to use computers to set all classified and editorial text. One year later American Airlines and IBM joined forces to build the first airlines reservation system, called SABRE. The APOLLO lunar project is another example of use of computers in science and engineering. Without the computer it would not have been possible to land men on the moon.
+
+This brings us to the decade of the 1970's which was when size and cost of computers took a leap forward and backward too. Hand held calculators became an item in the 70's. Their prices and size began to decrease and their popularity began to grow in leaps and bounds. This was the decade of the super computer, where we saw huge computers that affected our lives in ways that are still all around us today. Super computers were used for forecasting weather, astrophysics, nuclear engineering and oceanographic research.
+
+Onward to the good old 80's and we see home computers that for a short time had sky high price tags come down in price so much they would give them to you. Texas Instruments closed out the TI-99 computers at $50 and they would give you a rebate of $50 when you bought them. Now hand-held calculators are hand-held computers and desk-top computers are becoming laptop computers. In the 60's they set text for newspapers with computers. Now we print pictures generated with computers. The 180,000 tubes of a few years ago have been replaced by silicon chips with a million transistors in the space of a quarter inch by quarter inch square as thin as a piece of paper.
+
+In the next decade we will see computers like the one dreamed up called TABLET that will read your handwriting and convert it to text--as well as a few other nice things our fathers didn't even dream of.
+
+Will it be a 19-year old person who brings us into a new era of these machines which started out using gears, rods and dials? Don't wait too long to answer that question--it may happen before you finish reading this sentence!
+
+(from Greater Oklahoma Commodore Club Newsletter, 10/88; reprinted from an earlier issue of The Interface)
+
+
+

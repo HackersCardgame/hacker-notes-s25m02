@@ -1,0 +1,96 @@
+Halli Hallo @Shitmaster
+
+* Richtige Gefühle, Richtiges Bewusstsein -- Was ist Bewusstsein überhaupt. Definieren wir in der Philosophie nicht einfach Bewusstsein falsch und Bewusstsein ist nicht mehr als eine Sammlung von Rethorischen Automatismen die ein Mensch auf ein gegebenes Stimuli zum besten geben? 
+
+* Neuron mit Transistoren gleichsetzen ist mässig toll, weil für ein Neuron bräuchte man vermutlich mindestens 100 Transistoren.
+
+Du: "Die Transhumanisten gehen von unendlichem Wachstum aus", Wissenschaftler würden aber vermutlich von endlichem Wachstum asgehen weil für eine bestimmte Denkleistung wird eine bestimmte Menge von Energie benötigt und die Energie ist begrenzt auf die Sonnen-Energie welche wir im besten Fall vielleicht irgendwann in der Zukunft mit einer DysonSphäre maximal ausbeuten könnten.
+
+* Vielleicht hast Du schon mal etwas von "explainable AI" gehört, das ist eine AI die erklären kann weshalb sie eine bestimmte Entscheidung getroffen hat. Viele Menschen können dir nicht erklären weshalb sie jetzt etwas so entschieden haben wie sie entschieden haben, zB.meine Eltern würden den Turing Test vermutlich nicht bestehen.
+
+* Beim Ping-Pong vergleich machst Du einen Denkfehler, das wird mittels EEG gesteuert und EEG ist keine direkte Verbindung oder Leitung zum Gehirn, es ist allenfalls eine Metainformation über den aktuellen Zustand des Gesammtsystems "Gehirn". Zweiter Denkfehler: Das muss man trainieren weil man eine Middle-Ware trainieren muss welche EEG-Metadaten zu einer diskreten (abzählbaren) Menge von Ausgängen übersetzt. Nimmt man den C. Elegans Wurm (Wurm mit 302 Neuronen) dann gibt es da laut neuster Forschung genau eine Gehirnzelle die "Vorwärts" bedeutet. Also könnte man im Gehirn auch genau diese Gehirnzelle finden und Anzapfen würde das Trainieren einer Middleware wegfallen.
+
+Du: "...Verstehen wir die Sprache des Gehrins nicht..." 
+ich: ja das ist das Problem. Bei der Untersuchung des C.Elegans hat man herausgefunden, dass es einige Verschaltungen von Gehirnzellen gibt die immer wieder vorkommen, wie man aus ein paar Transistoren ein AND-Gate, OR-Gate oder ein Flip-Flop bauen kann. Das ist bei 100Mia Gehirnzellen vermutlich relativ schwierig, AUSSER man findet eine für Menschen einfach durchschaubare Darstellungsweise oder kann diese automatisch generieren oder mit Trial and Error finden. Also Darstellungsweise wie man in der Elektronik ein Flip-Flop als Transistoren darstellen könnte oder eben als Flip-Flop Symbol, ein Viereck mit vier Anschlüssen.
+
+* Ich denke am Schluss werden es zu einem Gesammtnetzwerk aggregierte Deep Learning Netzwerke sein, Also die Daten gehen dann an alle Eingange und wird priorisiert an Hand dessen welcher Teil sich am besten mit den spezifischen Eingangsdaten auskennt was setzt dann logischerweise wieder eine Explainable AI voraus.
+
+Du: "Die transhumanisten gehen ja davon aus, das wenn man genug Schaltstellen verknüpft, tja, dann kommt irgendwann und irgendwo ein Bewusstseinen zum Vorschein"
+ich: schick mir den Link wo Du das gefunden hast, ich will diese Leute auslachen. Übelste Komplexitätsreduktion.
+
+Du: "...Quanteneffekte..."
+ich: lassen wir das mal mit der Quantum-Mind-Hypotese, erstens weil es nicht bewisesn ist und zweitens weil es nur eine Hypothese ist und sich ja der C.Elegans Wurm auch einigermassen nachbauen lässt ohne Quanten. Ob der schon Bewusstsein hat?
+
+Du: "Fehlerraten im Gehirn sind ein Anzeichen für Verfall"
+ich: so wie ich das gelesen habe ist das falsch, das Gehirn hat ein massives Rauschen und macht massiv viele Fehler, die Verschaltung der Neuronen führt aber dazu dass das Gehirn Tolerant ist für dieses Hintergrundrauschen.
+
+Du: geht um Fördermittel
+ich: Kombination aus Arzt und KI erzielt viel bessere Erkennungsraten z.B. bei Krebs als das der Arzt alleine oder die KI alleine könnte. Also da zu investieren rettet dann auch den einen oder anderen Menschen.
+
+
+@ Hast du das vorhin geschaut?
+
+https://www.twitch.tv/videos/1510106327
+
+
+1:32:00 AI Test nicth bestehen. Florian gibt an um allenfalls unwissneheit zu verbergen. generell geben menschen die nicth reflektiert sind an. also er hat mit der aussage "menschen die den turing test nicth bestehen" selber grad seinen Touringtest verkackt
+
+
+
+
+[X]:
+Jupp... Jenau sieht's aus... KI wird uns in Zukunft, sicherlich gute Dienste erwiesen, und wird sein berechtigten Platz einnehmen, keine Frage...
+
+Aber richtiges Bewusstsein, mit verstand, Emotionalität/Gefühle usw... Halte ich für ausgeschlossen... Die transhumanisten Liga sieht das ganze anders... Sie geht von ein unendlichen technischen Entwicklung aus, und das sehe ich ganz anders... Wir können zwar schon CPUs mit 35 Milliarden Transistoren herstellen (Gehirn bis zu 100 Milliarden Neuronen), aber eine CPU würde ich niemals gleichsetzen, mit einem Hirn so wie es die transhumanisten machen... Das Hirn läuft nicht binär... Wir können zwar schon mit den brain, Pingpong uffen Rechner spielen, trotzdem verstehen wir die Sprache des Hirns bis heute noch nicht... Das was immer präsentiert wird, mit den Pingpong mit den brain zocken, wird einfach durch EEG- Aktivierungsmuster des Hirns kontrolliert, das hat imgrunde nichts mit Gedankenkontrolle, oder mit durch lesen der Gedanken Pingpong zu spielen zu tun... Erstmal muss es bei jedem Menschen justiert werden. Qausi funzt das nicht bei jedem der dit Netz über den Kopf gezogen bekommt... Im Gegenteil, der Proband setzt sich das Ding auf, und muss dann den linken Arm zigmal auf und ab Bewegung und das gleiche mit den Rechten auch... Dann werden die EEG Aktivierungsmuster gespeichert... Und im Einklang gebracht, und erst dann kann's losgehen, indem man sich vorstellt, das man den Link oder rechten Arm hebt... Dit hat aber überhaupt nix mit Gedankenlesen, oder die Sprache des Gehirns verstehen zu tun... Wie es immer propagiert wird... Die Sprache/Programmiersprache des Hirns ist bisher immer noch ein Rätsel...   
+
+(Ach dit ist auch in Thema für @FailDef )
+
+Die transhumanisten gehen ja davon aus, das wenn man genug Schaltstellen verknüpft, tja, dann kommt irgendwann und irgendwo ein Bewusstseinen zum Vorschein... Ick sage es ist viel komplexer... Und wie gesagt trotz modernster tech, ist die Programmiersprache bis dato immer noch ein Rätsel... Sonst wäre Lügen vor Gericht, heute schon nichtmehr möglich...
+
+Und dann wäre dann noch die ideologie, der unendlichen technischen Entwicklung... Unendlich gibs erstmal sowieso nicht, oder würde bisher nie bewiesen...  Und wir stoßen in den nächsten Jahren sowieso schon an den Bereich des technisch machbaren an. Also wir fertigen jetzt schon CPUs im 7-4nm (Nanometer Bereich) laut Theorie 👇👇👇 ist ab 2,5nm Schluss... Weil dann Quantentunnel Effekte einsetzen... Und die fehlerrate exponentiell ansteigt... CPUs der heutigen Generation haben auch schon diverse fehlerraten bzw. Alle CPUs... So wie Programme... Es wird halt bloß immer geguckt, welche fehlerraten sind tolerierbar und beinträchtigen nicht das System als ganzes... Wie gesagt, es gibt keine CPU oder Programm was fehlerfrei läuft... Dit ist allgemein bekannt... Jetzt ist die Frage bei Bewusstsein, bzw. Dem Gehirn... Wieviel Fehler kompensiert das brain... Keiner weiß es... Und normalerweise sind fehlerraten im brain, eigentlich immer ein Anzeichen für Verfall... Da stellt sich mir die Frage, wenn es hypothetisch möglich wäre... Sollten wir dann, auf ein von Grundauf  fehleranfällig Technologie ein Bewusstsein kreieren??? Wäre das Clever???
+
+Ach... Und Quantencomputer, sind erstmal sowieso monströs, die leistungsstärkste Variante, muss auf nahezu dem Nullpunkt gekühlt werden, damit die Supraleiter funktionieren. Da wurden aber auch schon Fortschritte gemacht, mit Verbundmetallen... Aber der Quantencomputer ist nur für spezielle Problemfälle geeignet, hauptsächlich Simulationen... Und seitdem Grover Algorithmus... Gab's da auch nicht wirklich Fortschritte...
+
+Und zu dem was du geschrieben hast... Ja... Wenn man sich dazu informiert, kommt man zu den Schluss, das heutige KI's nichts weiter als Super-Bot's sind mit na Masse von verschiedenen algos... Der Bereich wird halt tierisch gehypt... Geht ja auch um Fördermittel, Investoren und Co!!
+
+
+
+
+
+
+Halli Hallo [X]
+
+Du: "Richtige Gefühle, Richtiges Bewusstsein wird es nicht geben"
+ich: Was ist Bewusstsein überhaupt. Definieren wir in der Philosophie nicht einfach Bewusstsein falsch und Bewusstsein ist nicht mehr als eine Sammlung von Rethorischen Automatismen die ein Mensch auf ein gegebenes Stimuli zum besten geben? 
+
+* Vielleicht hast Du schon mal etwas von "explainable AI" gehört, das ist eine AI die erklären kann weshalb sie eine bestimmte Entscheidung getroffen hat. Viele Menschen können dir nicht erklären weshalb sie jetzt etwas so entschieden haben wie sie entschieden haben, zB.meine Eltern würden den Turing Test vermutlich nicht bestehen.
+
+* Neuron mit Transistoren gleichsetzen ist mässig toll, weil für ein Neuron bräuchte man vermutlich mindestens 100 Transistoren.
+
+Du: "Die Transhumanisten gehen von unendlichem Wachstum aus"
+ich: Wissenschaftler würden aber vermutlich von endlichem Wachstum ausgehen weil für eine bestimmte Denkleistung wird eine bestimmte Menge von Energie benötigt und die Energie ist begrenzt auf auf ca. die Sonnen-Energie welche wir im besten Fall vielleicht irgendwann in der Zukunft mit einer DysonSphäre maximal ausbeuten könnten.
+
+* Beim "Ping-Pong über EEG spielen"-Vergleich machst Du einen Denkfehler, das wird mittels EEG gesteuert und EEG ist keine direkte Verbindung oder Leitung zum Gehirn, es ist allenfalls eine Metainformation über den aktuellen Zustand des Gesammtsystem "Gehirn". Zweiter Denkfehler: Das muss man trainieren weil man eine Middle-Ware trainieren muss welche EEG-Metadaten zu einer diskreten (abzählbaren) Menge von Ausgängen übersetzt. Nimmt man den C. Elegans Wurm (Wurm mit 302 Neuronen) dann gibt es da laut neuster Forschung genau eine Gehirnzelle die "Vorwärts" bedeutet. Also könnte man im Gehirn auch genau diese Gehirnzelle finden und Anzapfen würde das Trainieren einer Middleware wegfallen.
+
+Du: "...Verstehen wir die Sprache des Gehirns nicht..." 
+ich: ja das ist das Problem. Bei der Untersuchung des C.Elegans hat man herausgefunden, dass es einige Verschaltungen von Gehirnzellen gibt die immer wieder vorkommen, wie man aus ein paar Transistoren ein AND-Gate, OR-Gate oder ein Flip-Flop bauen kann. Das ist bei 100Mia Gehirnzellen vermutlich relativ schwierig, AUSSER man findet eine für Menschen einfach durchschaubare Darstellungsweise oder kann diese automatisch generieren oder mit Trial and Error finden. Also Darstellungsweise wie man in der Elektronik ein Flip-Flop als Transistoren darstellen könnte oder eben als Flip-Flop Symbol, ein Viereck mit vier Anschlüssen. Die Menschheit hat es ja auch geschafft aus einem einzelnen Transistor einen ganzen CPU zu bauen.
+
+* Ich denke am Schluss werden es zu einem Gesammtnetzwerk aggregierte Deep Learning Netzwerke sein, Also die Daten gehen dann an alle Eingange und wird priorisiert an Hand dessen welcher Teil sich am besten mit den spezifischen Eingangsdaten auskennt was setzt dann logischerweise wieder eine Explainable AI voraus.
+
+Du: "Die transhumanisten gehen ja davon aus, das wenn man genug Schaltstellen verknüpft, tja, dann kommt irgendwann und irgendwo ein Bewusstseinen zum Vorschein"
+ich: schick mir den Link wo Du das gefunden hast, ich will diese Leute auslachen. Übelste Komplexitätsreduktion.
+
+Du: "...Quanteneffekte..."
+ich: lassen wir das mal mit der Quantum-Mind-Hypotese, erstens weil es nicht bewiesn ist und zweitens weil es nur eine Hypothese ist und sich ja der C.Elegans Wurm auch einigermassen nachbauen lässt ohne Quanten. Ob der Wurm schon Bewusstsein hat?
+
+Du: "Fehlerraten im Gehirn sind ein Anzeichen für Verfall"
+ich: so wie ich das gelesen habe ist das falsch, das Gehirn hat ein massives Rauschen und macht massiv viele Fehler, die Verschaltung der Neuronen führt aber dazu dass das Gehirn Tolerant ist für dieses Hintergrundrauschen.
+
+Du: "es geht um Fördermittel"
+ich: Kombination aus Arzt und KI erzielt viel bessere Erkennungsraten z.B. bei Krebs als das der Arzt alleine oder die KI alleine könnte. Also da zu investieren rettet dann auch den einen oder anderen Menschen.
+
+
+[Y] Hast Du das vorhin geschaut?
+
+https://www.twitch.tv/videos/1510106327
+

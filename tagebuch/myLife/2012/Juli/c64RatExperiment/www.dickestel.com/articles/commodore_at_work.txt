@@ -1,0 +1,16 @@
+Commodores Still Doing Significant Work
+
+A University of Arizona research astronomer is aboard an aged C-141 jet, soaring 41,000 feet above
+Nevada. Sticking out a forward compartment is a 1 meter telescope aimed at a battered piece of rock
+called Mercury - 50 million miles away. A Commodore 64, an old computer made originally for
+electronic games, controls and fine-tunes data collected from the telescope. Fred Witteneborne, who
+directed the operation of the instruments connected to the telescope, says, "It works."
+
+And here's more proof our old standby is still in there pitching: A year or so ago, several members of
+RVUG (Rancocoas Valley Users Group, NJ) visited a local radio station and saw the old C-64
+controlling several remote transmitters via telephone lines for the station's extended transmitting points.
+The station also used a 1541 drive and a 1702 monitor. The station manager wrote all the programs he
+uses for control and data input commands.
+
+from CEBUG Chronicle, via The Commodore Information Center web site
+(http://home.att.net/~rmestel/commodore.html)

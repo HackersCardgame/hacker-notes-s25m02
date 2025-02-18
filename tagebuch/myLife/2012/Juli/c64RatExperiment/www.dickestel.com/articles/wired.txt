@@ -1,0 +1,59 @@
+Wired Looks to the Past (for a change)
+
+By Dick Estel
+
+Wired magazine started out, to the best of this writer's recollection, as a magazine about the Internet.
+Whether this memory is foggy or not, the magazine has grown from an ordinary 1/8 inch thick
+publication to a half-inch thick monthly that focuses largely on the future, and the movers and shakers
+who are leading us there.
+
+On its web site, Wired declares:
+
+"Wired magazine is the journal of record for the future. It's daring. Compelling. Innovative.
+Courageous. Insightful. It speaks not just to high-tech professionals and the business savvy, but also to
+the forward-looking, the culturally astute, and the simply curious."
+
+How the Commodore fits into this vision only the editors of Wired can know. Nonetheless, a visit last
+fall to the Vintage Computer Faire in Santa Clara by a free lance author who frequently contributes to
+Wired led to the strange events in Corcoran described by Robert Bernardo in his column this month. 
+
+Overall the tone of the article is respectful. Those who continue to stick with the computing technology
+of the 1980's are described a "retroactivists." The article recognizes several subgroups. Many people
+continue to use their Commodore (Amiga, Osborne, TRS80, whatever) because it still does what they
+need it to do.
+
+Others could be more appropriately called collectors or archivists. They have computers that they don't
+use (and sometimes can't use, due to malfunctions). But they're cool because they're from the old
+days, like a classic car.
+
+Another approach is that of NewDeal, a company that provides upgraded software that will run on
+pre-Pentium PC's. As new programs require more computing horsepower, many users are "stuck on
+an upgrade merry-go-round that forces them to shell out $2500 or so very couple of years for a new
+machine." As NewDeal's CEO, Clive Smith says, "The fact is that those older machines work fine.
+You don't need a Ferari to go to the supermarket."
+
+Here's another quote from the Wired article, on their encounter with president of our user group:
+
+"Why struggle with a machine that has no graphical Web browser? 
+
+'Because it's an old friend,' says Robert Bernardo, patting the monitor of his C64. I've encountered
+Bernardo, president of the Fresno Commodore User Group, at the Vintage Computer Festival in Santa
+Clara, California. The club's motto, Bernardo tells me, is "Taking 8 Bits to the 21st Century," and the
+majority of its members use the C64 as their primary computer. 
+
+Lots of diehards are like Bernardo: They use orphaned platforms no longer supported by the original
+manufacturer, and they depend on a network of tiny third-party software and hardware developers to
+keep their machines going."
+
+Finally, here's Wired's summary of the history of Commodore: 
+
+"Commodore VIC20/C64 Introduced: 1981 Died: 1992 
+Resurrection Hot Spots: Commodore 8-bit server www.hut.fi/Misc/cbm Vast listing of Commodore
+links, history, and resources C=Ring www.ncf.carleton.ca/~ag090/cbmring.htm Webring of 170
+revivalist sites 
+
+Many teenage hackers in the early '80s got their first exposure to computers with the Vic20 or its
+successor, the Commodore 64. Based on the 8-bit 6510 chip, both computers featured high-quality
+sound capabilities, sprite-based graphics, and the ability to load and save programs on tape."
+
+You can find the entire article on the web at http://www.wired.com/wired/archive/8.03/diehards.html.

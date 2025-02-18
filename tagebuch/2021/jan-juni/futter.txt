@@ -1,0 +1,49 @@
+
+
+Fokus auf Psychologie
+ => das wollten die vermutlich mit der Diagnose erreichen
+
+
+pam_usb massengrab, die gehen über das beziehungsnetzwerk
+
+
+
+ 
+Besser => Fokus auf HackerJeopardy
+ => Grundkurs Elektronik
+ 
+ uart 16550 VS uart 8250 <- vorgänger von USB, Vintage computing
+ 
+ Sound karte <=> Parallel Port
+ 
+ schieberegister
+ 
+ flipflop
+ 
+ c/c++
+ 
+ asm
+ 
+ nach 1 Jahr windows hab ich's aufgegeben, obwohl 90% der Kinder windows verwenden lässt das sich scheinbar nicht retten
+ 
+ - such mal irgend ein software produkt auf google für windows
+   - Kostenpflichtig
+   - Kostenpflichtig
+   - Kostenpflichtig
+   
+ - linux
+   - free
+   - free
+   - free
+   - free
+ 
+Richard Stallmann war mal in Buchs bei Aarau, hab dem typen sogar die hand gegeben
+
+
+andi hackerheopardy
+
+studium auch wenn man FAILt wie ich dennoch toll
+
+
+
+

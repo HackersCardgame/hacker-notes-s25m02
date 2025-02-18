@@ -1,0 +1,645 @@
+The Interface
+Fresno, California; February/March 2000
+Taking 8 Bits to the 21st Century
+
+"There is a price we pay for having everything we ever wanted to 
+know at our fingertips--and that price is that we have everything 
+we ever wanted to know at our fingertips."
+-Fender Tucker
+
+Contents:
+
+
+History of Wheels 
+Club Bylaws
+Viruses and Commodore 
+Nine Lives of Commodore
+Editor: Paperless Society?
+Member Drawing Results
+Treasurer's Report
+President: The State of On-Line Service for Commodore
+
+
+The Genesis of Wheels: 
+A Look At How It All Came About
+
+Once upon a time, Maurice Randall bought a Commodore 64, and it came with a graphical 
+operating system called GEOS. At first he had little to do with it. It seemed cumbersome and slow, 
+and he didn't have much use for it. Of course, like most people early on, he only had one disk drive! 
+GEOS is awful to use with a single drive. There really isn't much point in it. 
+
+Soon, he acquired a second drive, a 1581, and then he got a Commodore 1700 REU and found out 
+that he could increase the capacity of this 128K ram expansion unit to 512K. He bought the chips 
+and performed the operation. He began to take another look at that GEOS system and got so 
+interested in it that he upgraded to GEOS 2.0. Soon afterward, he got a 128 and had to have GEOS 
+for that. He was hooked. 
+
+Over the next several years, Maurice learned how to write GEOS programs, and he got quite 
+familiar with the system. Back when he sent in his GEOS registration card, he filled out the little 
+questionnaire that came with it. It asked what type of applications you would like to see developed 
+for GEOS. He filled in a suggestion about a fax program. They probably had a good laugh back at 
+Berkeley Softworks when they saw that one! Little did he know that he would someday create that 
+piece of software himself. 
+
+A few years back, Maurice realized a need for something better in the way of disk drivers for 
+GEOS. Sure, that was already done, Configure had disk drivers, and gateWay had disk drivers. But 
+there was just something there that was missing. For one, the native driver support on the CMD 
+devices was never perfected. The RAMLink was supported, but not really like it should be. There 
+were RAMdisk drivers, but they could also be improved. 
+Maurice jumped in and started a new project. He began to study a couple of the existing drivers to 
+see what there was that he didn't like. He saw there was room for improvement. So, he wrote his 
+own variation of the drivers and adapted them to work on the CMD Hard Drive in the native 
+partitions. Previously, only gateWay supported this type of driver. But Maurice had already created 
+a user interface known as geoSHELL, and it was flexible enough to be used with any GEOS driver. 
+Soon, Maurice had his own version of the native driver that he could use with geoSHELL and did 
+not need gateWay to use it. GeoSHELL had the ability to install the drivers during bootup. He had 
+to avoid using the Desktop, though, as it was written in such a way that it would only work with 
+1541, 1571, and 1581 type devices. And it was really a cobble job making it work with 1581 drives. 
+The Desktop failed to follow certain GEOS programming rules, which caused it to not work with 
+the native driver. 
+
+Using the native drivers was nice, since subdirectories allowed better organization of files as well 
+as making better use of the available space. Pretty soon Maurice did a version of the driver for the 
+FD drive and then the RAMLink. But these drivers still were not perfect. Using native partitions 
+within GEOS was difficult, not from a user standpoint, but from the actual design of the operating 
+system. The biggest problem was that the block allocation map (BAM) couldn't be stored in 
+memory, like GEOS has always done it. A native BAM can be as big as 8K. The BAM is what 
+keeps track of the sectors that are in use on the disk. 
+
+Eventually, Maurice got the idea of replacing Configure. This only seemed logical since he had a 
+small collection of disk drivers and it was Configure that has always stored and installed the drivers 
+during bootup. But that also meant coming up with drivers for the other types of disk devices. This 
+included the 41, 71, 81, and drivers for the FD, HD, and RAMLink using 1581 partitions. Then 
+there was the 41, 71, and 81 RAMdisks too. Maurice took the drivers he had created and modified 
+certain parts that were specific to the type of device that the driver was to be used with. 
+
+Then a wild idea popped in his head. OK, now we've got a new Configure, but we could really use 
+a new Desktop. Sure there's geoSHELL, but a good Desktop was still needed. He had started on 
+something like that a few years ago and never finished it. It was called Dashboard and was to be 
+released for the 128. Maurice dug out the source code to it and started modifying it and changing 
+things until he came up with something even better. 
+
+One thing led to another, and another, and another. Before you knew it, Maurice was working on 
+upgrading the whole darn operating system. So, what began as a rather simple project of studying 
+the problems in one disk driver, led up to a rather major undertaking. Maurice created an operating 
+system with the feel of the old GEOS in many ways, but with a whole fresh new look to it and 
+many new possibilities buried within. 
+
+This material is Copyright 1997 by Maurice Randall. It may be reproduced without permission by 
+any recognized Commodore User Group.
+
+
+Fresno Commodore User Group Bylaws
+
+Some revisions in the bylaws are in order. Following is the last revision, from December 1992):
+
+Article I.  PURPOSE:  The purpose of the Fresno Commodore User Group/SixtyFourum is to serve 
+the members who are users of Commodore micro-computers.
+
+Article II.  MEMBERSHIP:  The membership shall be open to all persons interested in Commodore 
+micro-computers, and who are interested in developing its use through an exchange of ideas.
+
+Article III.  DUES:  Dues shall be twenty-four dollars ($24.00) per year, per family, 
+non-refundable.  Each change in dues shall be approved in the month prior to the effective date of 
+the change.  Notice of the change shall be printed in the club newsletter and announced at least one 
+month prior to the club vote.
+
+Article IV.  MEMBERSHIP YEAR:  The membership covers twelve (12) months starting with the 
+month joined.
+
+Article V.  MEETINGS:  Regular meetings of the Fresno Commodore User Group/SixtyFourum 
+shall be held as determined by the Executive Committee, with input from members. Special 
+meetings may be called by the Executive Committee or the members present at any regular 
+meeting.
+
+Article VI.  OFFICERS:  The officers shall consist of a President, Vice President, Secretary, 
+Treasurer and three (3) to six (6) Board Members.  One or more positions may be combined at the 
+discretion of the Executive Committee.  These officers shall comprise the Executive Committee.  
+All officers shall serve without compensation.
+
+   A.  Terms of Office:  All terms shall be one (1) year.
+
+   B.  PRESIDENT:  Shall preside at all meetings of the Fresno Commodore User 
+Group/SixtyFourum including the Executive Committee.
+
+   C.  VICE PRESIDENT:  shall preside in the absence of the President and shall serve as program 
+chairperson.
+
+   D.  TREASURER:  shall keep all books, receive and disperse all funds, and shall report at least 
+annually to the membership on the financial health of the Fresno Commodore User 
+Group/SixtyFourum.
+
+   E.  SECRETARY:  shall keep minutes of the Executive Committee, a record of the activities of 
+the Fresno Commodore User Group/SixtyFourum, and oversee the historical files.
+
+   F.  BOARD MEMBERS:  shall attend all Executive Committee meetings and with the other 
+officers oversee the business affairs of the Fresno Commodore User Group/SixtyFourum.
+
+   G.  STAFF MEMBERS: shall be voluntary and appointed, and shall be allowed to participate in 
+the decisions of the Executive Committee.
+
+Article VII.  EXECUTIVE COMMITTEE:  The Executive Committee shall oversee the business 
+affairs of the Fresno Commodore User Group/SixtyFourum.  It shall meet regularly to conduct 
+business.  A quorum shall consist of four (4) members.
+
+Article VIII.  NOMINATING COMMITTEE:  The President shall appoint a nominating committee 
+to present a slate of officers by the October regular meetings.
+
+Article IX.  ELECTIONS:  Election of officers shall take place at the November meetings.  At this 
+time the report of the Nominating Committee shall be heard.  Nominations may be made from the 
+floor provided the person being nominated has agreed to the nomination in advance.
+
+Article X.  VACANCIES:  Vacancies will occur thirty (30) days following notice received by the 
+Executive Committee.  Vacancies will be filled by the membership at the next regular meeting.
+
+Article XI.  FINANCES  All checks shall be signed by two (2) members of the Executive 
+Committee, at least one of which shall be the Treasurer or the President.  No check shall exceed the 
+sum of $250.00 except by a vote of 2/3 of the membership attending the regular meetings.
+
+Article XII.  QUORUM:  A quorum shall consist of those members present.
+
+Article XIII.  AMENDMENTS:  These Bylaws may be amended or altered by a two-thirds majority 
+of the members present at both of the regular meetings under the quorum provisions of Article XII.
+
+Article XIV.  COPYRIGHTS:  The Fresno Commodore User Group/SixtyFourum has taken the 
+position that it is illegal to sell or otherwise distribute copies of copyrighted software or 
+publications without the express permission of the author or publisher.  Under this position the 
+Fresno Commodore User Group/SixtyFourum specifically prohibits the sale or distribution of said 
+copies during a meeting over which the Club has responsibility.
+
+Article XV.  DISSOLUTION:  Fresno Commodore User Group/SixtyFourum shall use its funds to 
+accomplish the objectives and purposes specified in these Bylaws, and no part of said funds shall 
+inure, or be distributed to the members of the group.  On dissolution of Fresno Commodore User 
+Group/SixtyFourum, any funds or property remaining shall be distributed to a non-profit 
+organization toward the furthering of computer education.
+ 
+
+
+Viruses and Commodore 
+
+Virus checking is becoming a must-do activity at every turn on for those in the megacomputer 
+world. To fail to check for viruses is to risk the entire contents of the hard drive. And since 
+megacomputers rely on the hard drive for every aspect of their operation, an infected hard drive 
+passes the organism to the whole system.
+
+For that reason, it is becoming common practice to install a virus checking program that boots 
+along with the Disk Operating System (DOS). This germ detector searches through the entire Disk 
+Operating System and other data on the hard drive, looking for what shouldn't be there. If it finds 
+any microbes, it eradicates them.
+
+This process, of course, is time consuming. And when added to the time it takes to boot the Disk 
+Operating System in the first place, it can leave the user waiting for what seems an eternity on these 
+otherwise lighting-fast machines. This interminable startup delay prompted one who forsook what 
+he called the "slow-as-a-slug" Commodore to utter an unprintable remark.
+
+A computer virus, naturally, is not organic. It is a little bit of virulent program code that wedges 
+itself into the Disk Operating System and spreads itself throughout the infected disk to cause 
+whatever chaos it is programmed to do. Most viruses are coded to lie dormant until a specific event 
+occurs, like a date, time, or other computer related activity. The number of different computer 
+viruses now count in the thousands. 
+
+There is an interesting parallel between the real world of microorganisms and this world of 
+computer diseases. Filthy environments provide the breeding ground for both. Just as the one 
+plagues those who share needles, so does the other curse those who share copyrighted software. As 
+one said, pirated software is nothing more than a painted woman offering herself as the real thing, 
+carrying the scourge of all those who pass her around.
+
+Viruses, as such, are not a problem for Commodore 8-bit machines. This is mainly due to the fact 
+that the disk drives used, including hard drives, rely on a ROM-based Disk Operating System. 
+ROM, being Read Only Memory on a chip, cannot be changed. Therefore, Commodore's Disk 
+Operating System cannot be infected.
+
+MS-DOS, Windows, etc., on the other hand, are themselves programs. They reside on the hard 
+disk. Hence, infecting the Disk Operating System with the nefarious coding not only affects the 
+whole machine, but allows its spreading to everything coming into or going out of the machine. 
+
+However, there are a few dirty tricks to which Commodore users are susceptible. One such nasty is 
+a countdown routine hidden in a program that causes the disk to be unexpectedly reformatted. But 
+these mean-spirited shenanigans are limited to the programs in which they reside and imperil only 
+disk in the drive. 
+
+Other malevolent schemes designed to wipe out files or corrupt data do exist. And some of these do 
+have the ability to copy themselves to any disks used in conjunction with the disk containing them. 
+Again, though, that is the limit of their viability. The spurious coding dies at turn off, and it cannot 
+resurrect itself until the disk containing it is again used. 
+
+The foregoing should not alarm anyone in the Commodore community. Besides the built-in 
+immunities inherent with the Commodore Disk Operating System, the reprobates given to 
+inventing such maladies no longer find any satisfaction afflicting the beggarly world of 
+Commodore. They have mega-fish to fry! Hence, most of their dirty work has long since seen the 
+light of day and been eradicated. 
+
+A related benefit is that during the same time users uncovered the mischievous deeds, the bugs that 
+invariably accompany initial program development and new equipment designs also came to light. 
+As a result, the critters whose tracks and droppings make for messy use are all but nonexistent in 
+today's popular programs. To a slightly lesser extent, the insects crawling around inside 
+Commodore equipment have also been exterminated. And as for the surviving bugs, today's 
+programs for the most part avoid them, making them of little consequence. Commodore users, 
+therefore, operate in a relatively virus-free and bug-free environment. That makes for a generally 
+healthy computer experience. And, like good health, the worth of this blessing is fully appreciated 
+only by those who don't have it.
+
+(Compiled from various sources; reprinted from The Gazette, newsletter of CIVIC 64/128 User 
+Group, Oxnard CA)
+
+
+The Nine Lives of Commodore
+
+by Dick Estel
+
+You'll find this does not cover all nine of the lives mentioned in the title--because Commodore has 
+not yet reached it's final life.
+
+First Commodore was a "low cost" home computer, priced around $600, well below the thousand 
+or more required for a Radio Shack or Apple product about the same time.
+
+Next the price dropped substantially, with the bottom retail store price in the neighborhood of $150 
+to $200 for the C-64. During this incarnation over ten million C-64's were sold worldwide. At the 
+same time the disrespect that Commodore has suffered ever since began, with the epithet of the day 
+being "game machine." Part of this was due to the fact that Commodore was in fact the best game 
+machine around. IBM had crude graphics and no sound other than a pitiful "beep."
+
+Then came the decline of Commodore the company, which stayed away from the pattern of 
+innovation, advancement, and obsolescence marking the rest of the PC world. In its final years the 
+company gave birth to another excellent, non-compatible machine, the Amiga. With the demise of 
+the company, Commodore entered the "orphan" phase.
+
+But there were plenty of "foster parents" willing to continue to care for their machines. User groups 
+became the primary method of support. 
+
+Soon Windows arose as the primary force in the PC world (borrowing liberally from Apple who 
+had borrowed from Xerox). At this time Commodore became "obsolete."
+
+This seems to have been the status for the last five or six years, even as unsung heros labored to 
+drag the Commodore into the 21st century with RAM expansion, hard drives and processor speed-
+up hardware like the Super CPU.
+
+Now Commodore seems to have entered a new life era. I'm not sure what to call it, but possibilities 
+include "venerated classic," "historic curio," and "tool of unrepentant neanderthals." This phase is 
+marked by a strange interest in these "archaic" machines by the popular mass media. Last summer 
+a positive and respectful article appeared in the New York Times. At the Vintage Computer Show 
+in Santa Clara, Robert Bernardo made contact with people from several publications, which has led 
+to some activity by Wired magazine, which usually has its compass pointed unwaveringly to the 
+future. Wireless has interviewed Robert, programmer Maurice Randall and others, and conducted a 
+photo session with Robert in early January.
+
+At the January meeting Robert showed us a Canadian magazine, Shift, which is kind of a Wireless 
+for the great white north. It had an article on the Vintage Computer Show and featured Robert's 
+photo in the table of contents as well as the article, along with a half dozen other pictures from the 
+show.
+
+I myself received a call from The Fresno Bee to ask about "people who use old computers." This 
+culminated in an article in The Bee's "Neighbors" section, which is sort of an attempt to print a 
+folksy small town newspaper for various regions of our metropolis. The article featured a photo of 
+an Amiga (Commodore's "other" brand) and its proud owner, along with comments from Amiga 
+users, a brief nod to Atari, and my own comments on the state of Commodore.
+
+Let's see, that's about five lives. So I guess we have at least four more to look forward to as we 
+plunge headlong into a new century. A good time to keep this in mind: If you never change your 
+style, it's bound to come back again. 
+
+
+What the Editor Said
+By Dick Estel
+
+A Paperless Society?
+
+We are now nearly three decades into the home computer era. Yet the paperless, cashless, 
+electronic society this "revolution" promised seems nearly as far away as ever.
+
+For example: I have a dozen or so bills that I pay monthly, semi-monthly, quarterly, semi-annually 
+or annually. Only about half of these are done by some form of automatic funds transfer. One of 
+these was the phone bill, which used a pay-by-phone system. This required a phone call each month 
+that took as long as writing and mailing a check, but it did eliminate the licking and sticking and the 
+33 cent postage cost. Now this bill is deducted directly from my bank account.
+
+I pay my car insurance bill via the Internet. When I started a few months ago, I had to enter all the 
+numbers on my check, with characters such as # @ and & replacing the computer symbols that are 
+part of the routing number. I had to look at a key to determine which character to enter. When I 
+made my first payment after the latest renewal, this requirement had been eliminated. So there is 
+progress.
+
+I have a first and second mortgage on my home, both negotiated with my employee credit union. 
+The first one was transferred to a third party, and is paid by payroll deduction. The credit union will 
+not accept payroll deduction for the other one. Instead I must write a check each month and mail it 
+to the credit union where my payroll check is deposited. Go figure.
+                   -Dick Estel
+
+
+
+I've Got Five Dollars and
+It's Saturday Night
+
+It's getting easier to give money away again; we only had to draw two names in December to find a 
+winner. Dan Rowland lost out, then Doug Cunningham's name came up, rewarding him richly for 
+one of his rare visits to our meeting. In the new year, it was even quicker--Chester Sohm won on 
+the first spin of the wheel.
+
+
+FCUG Financial Report
+January to December 1999
+
+Balance as of 12/1/98: 	$1234.50
+
+Income in 1999
+
+Dues		$264.00
+Raffle	 	99.00
+Miscellaneous Sales		7.30
+Disk of the Quarter		4.00
+Donation		10.00
+Auction		42.00
+
+TOTAL		$426.30
+
+Expenses in 1999
+
+Interface (print & mail)	$372.46
+Member drawing (cash)	40.00
+Postage (cash)	52.84
+Miscellaneous (cash)	10.00
+Picnic: Food & Supplies	45.88
+Door Prizes	51.74
+Commodore World	32.95
+Computerfest Fee	100.00
+
+TOTAL		$705.87
+
+Bank balance: 	$919.86
+
+-Zella Mallard, Treasurer
+
+
+C=Scape
+By Robert Bernardo
+
+I was in the same boat as a lot of Commodore online users at the end of 1999. In October Delphi 
+announced that they were pulling the plug on all text access to their online service via local phone 
+numbers or dial-ups. By December 31 the nationwide dial-ups through Sprintnet or Tymet would 
+disappear. After December 31 the only way to get into all the text services of Delphi would be to 
+telnet in through another independent service provider (ISP). The only consolation for losing my 
+local dial-up was that Delphi would reduce its rates; previously I had been paying $10 a month for 
+4 hours of time; now Delphi would offer telnet members a yearly rate of $34.95 with unlimited 
+time.
+
+I wanted Delphi in order to access their Commodore Forum bulletin board (which had important 
+messages from the likes of Maurice Randall, Wheels programmer), to utilize their small C= library 
+of 3,000+ files, and to read the Usenet group, comp.sys.cbm, with their news reader (which I 
+preferred to others).
+
+Though other users would have trouble finding a local ISP which supported a Commodore 
+telnetting into Delphi, I thought I wouldn't have any problems. I also belonged to the Genie online 
+service, and I would be able to telnet into Delphi through Genie. At the C= Forum, the members 
+complained about not being able to easily access the service anymore. If they couldn't get to 
+Delphi, they'd have to drop out.
+
+However, my smugness disappeared when Genie announced at the beginning of December that 
+they would do away with their "old" service in favor of  "new" service. The old service was 
+especially for text-based computers, like the Commodore. There was the Commodore Roundtable 
+with its own bulletin board, discussion (chat) groups, and download library of 17,000+ files. The 
+new service would be more friendly toward computers with graphical browsers, like PC, Mac, and 
+Amiga, though Commodore would still be able to access it. However, the fly in the ointment was 
+that Genie would discontinue most of their nationwide dial-ups; most Genie phone numbers would 
+disappear as would their alternate connections via Sprintnet. Supposed reasons ranged from 
+needing to use faster lines to Sprintnet not being Y2K compliant. Here in California, the only local 
+Genie numbers would be centered around the Los Angeles and San Francisco areas--not good for 
+users in the rest of the state and especially not good for me.
+
+Genie was my main service. I received nearly all of my e-mail through Genie. I made good use of 
+the download library to get files to fill up the disks-of-the-quarter for the Fresno Commodore User 
+Group. I surfed the Internet through the Lynx text browser at Genie. I chatted online with fellow 
+Commodorians who were serious about the use of our fine computers.
+
+All of this was to change on December 27. At first I thought I could stay with the new Genie. Long 
+distance phoning to the nearest Genie dial-up would cost me five cents a minute in addition to the 
+new $19.95 a month fee with unlimited time. However, as the fateful day approached, I became 
+more and more disenchanted.
+
+I personally telephoned a Genie service tech and asked him about the new service. He assured me 
+that I would be able to still use my Commodore with Genie. The e-mail program would be 
+different. My e-mail address would be different. Then I asked the important question. Would the 
+Commodore download library be transferred to the new Genie? His reply: "We're still thinking 
+about it."
+
+Huh?! The new service had been in use for the last two years... and still no plan to bring the library 
+over? The fates of the other download libraries of other computers were probably still in the air, too 
+--the Apple II library, the Amiga library. All of these to be lost! It was a replay of the bad memories 
+of the QuantumLink library of 40,000+ C= files and the Compuserve C= library disappearing. 
+"Still thinking"? Shocking!
+
+After this bad news, I thought that I could hang onto the service for at least three months to give 
+them a chance to transfer the library. I still wanted to sign up for the new service, but Genie threw 
+another monkey wrench into the process. Because I didn't have a local Genie number, they wanted 
+me to sign up through their long distance service at nine cents a minute and dial into only one 
+phone number. I travel around California, and I needed access to my service wherever I went. That 
+meant I needed to use any Genie number that was closest to me. In that case, they wanted me to 
+sign a waiver, absolving Genie of all long distance charges I may incur. Only when the waiver was 
+signed could I finish the sign-up process.
+
+This was a strange way of doing business, but I duly waited for the form to arrive in the mail. The 
+extra days of waiting gave me extra time to think about what I was doing. At the Saturday night 
+chats at the Genie Roundtable, my e-friends were incredulous and anxious. They had the same 
+feelings as those members at Delphi. If they couldn't access the new Genie easily, they'd drop out. 
+If they couldn't easily get together to chat, they'd drop out. If the download library were not in 
+place, they'd drop out. Cincinatti would have a local number but not Muskegon. Canada would be 
+left out entirely.
+
+At every chat prior to December 27, the talk was the same. Any new news? Any more local access 
+numbers? We exchanged alternate e-mail addresses several times, some complaining that the 
+alternate would have to be accessed with a non-Commodore computer. I was still holding out hope. 
+I had sent in my waiver, and December 24 I called Genie to finally finish signing up. Customer 
+service had left early for the day. Tech support was still there, but they couldn't do anything and 
+advised me to call Monday. That was lousy! The final chat on Christmas night brought more bad 
+news. Even the new phone numbers for the new Genie weren't working right. People would key in 
+their user name and password and would still be locked out of the system.
+
+That did it. I gave up on Genie. I called JPS Net; they advertised text-based, shell accounts for 
+older computers, good rates, and dial-ups throughout California and other western states. With 
+Gaelyne Gasson's book, The Internet for Commodore 64/128 Users, in hand I quizzed one of their 
+support technicians on the intricacies of their system. Though he had to put me on hold several 
+times (probably to find the answers to my questions), I was satisfied and signed up. My worries 
+were over. I'd have e-mail, Internet access, and news reader functions. Beeeep, wrong! When I 
+dialed into their system, I keyed in my user name and password and then received a startling 
+message, "PPP dialer starting..." No! Commodores currently don't understand what to do with this 
+protocol; PC's, Macs, and Amigas do. I tried several times and received the same response several 
+times. I finally called the techs at JPS and asked what was going on. They sheepishly admitted that 
+I could get to the shell only after logging on through the PPP dialer. I reminded them that my older 
+computer didn't understand PPP and that I'd have to access the shell directly when I logged on. 
+They responded that wasn't how their system worked. Needless to say, I dropped their service 
+immediately and was not charged.
+
+I had one other chance. Bill Webster, Genie e-friend of the South Bay (San Francisco) region, told 
+me that ValueNet had text-based shell accounts, and he gave me a phone number to call. December 
+27 I called, and to my surprise, the sales representative was sympathetic and supportive. I asked 
+him if they offered shell accounts. Yes. I asked him if I had to cross any strange PPP barrier. 
+Definitely no. He asked me what computer was I going to use with their system. A C-128D. He 
+was excited and amazed that Commodores would be using their system. He wanted to know more 
+about the capabilities of our machines. I briefly explained about CMD hard drives, JPEG viewers, 
+the SuperCPU, and the upcoming Wave graphical web browser from Maurice Randall and partners. 
+He was fascinated and explained that when the Wave was ready, I could sign on for a "combo" 
+account which would give me a text-based shell and a graphical account for one low price. He 
+transferred me to their tech, C.J., who was versed in older computers and ValueNet's shell accounts. 
+C.J. knew his stuff. He answered all of my specific questions, and he remarked that they had older 
+PC DOS, Ataris, and Commodores using their shell account.
+
+I signed on. Out of their various payment plans, I accepted the 3-month plan for $55, and that gave 
+me unlimited time and a 10 mb. online workspace. ValueNet has local dial-ups throughout 
+California but not in other states. At the end of 3 months, if I'm fully pleased with their service, I'll 
+choose either the 6-month plan for $100 or the 12-month plan for $150.
+
+Though it took a day for them to work out the bugs in signing me up into their shell account, my 
+phone calls to the sales reps were always very courteous and helpful. In fact, it was far easier to 
+reach the reps than C.J.
+
+With my new service, I've been learning the ways of the Pine e-mail, the Tin news reader, a more 
+modern Lynx text web browser, FTP (File Transfer Protocol), and other details. The text-based 
+account with ValueNet is not totally a shell. With a shell you might be given an input prompt and 
+nothing else. Then you'd have to give commands on that command line. Upon logging into 
+ValueNet, you're given a menu with choices like e-mail, news reader, Internet tools, file transfers, 
+file system functions, and a shell. Fairly easy but even more so with Gaelyne Gasson's book to 
+guide me.
+
+Every day I become more proficient in using the system. My Genie e-friends are now being 
+directed to a Sunday night chat on the Internet, and for the most part, we're back together again. 
+And all the Genie C= files are not totally lost; David Witmer (a.k.a. Snogpitch), president of the 
+Cincinnati Commodore Computer Club and former Genie chat host, saved them all to floppy and 
+ZIP disks, the only problem being that they are not accessible online. The new millennium dawns, 
+and I'm still online with my Commodore. Things are looking up!
+
+Value Net Internetwork Services, Inc., 2855 Mitchell Dr., Suite 105, Walnut Creek, California 
+94598, U.S.A.. Phone: 925 943-5769 E-mail: info@value.net Website: www.value.net
+
+The Internet for Commodore 64/128 Users, available from: VideoCam Services, 90 Hilliers Rd., 
+Reynella, SA 5161, Australia. Phone: 61 8 8322-2716 FAX: 61 8 8387-5810 or 707 897-0676 
+(USA) E-mail: videocam@videocam.net.au Website: http://videocam.net.au
+
+Also available from Loadstar, J & F Publishing, Inc., 443 Gladstone Blvd., Shreveport, LA 71104, 
+U.S.A.. Phone: 318 868-8727 E-mail: fender@loadstar.com Website: www.loadstar.com
+
+David Witmer -e-mail: snogpitch@prodigy.net
+
+
+
+
+OFFICERS and KEYPERSONS
+(Area Code 559)
+
+President:	Robert Bernardo 627-2438
+Vice President:	Helen Silvas 227-8005
+Secretary-Treasurer  Zella Mallard 291-2452
+Past President:	Ralph Parrott 229-9912
+
+Board of Trustees:
+	Del Contreras 227-5375
+	Sandy Dippollet 299-1275
+	Chester Sohm 855-8543
+	Bill Gilbert 439-8202
+	Henry Fry 291-0581
+
+The Interface Editor: Dick Estel 224-4163
+Contributing Editors:
+Bob Bernardo
+Mailing List:	Sandy Dippollet	
+Technicians:	Del Contreras, Doug Cunningham
+Librarian:	Dick Estel
+Programs:	Ralph Parrott
+Demo Coordinator:	Helen Silvas
+Club Equipment:	Helen Silvas
+Store:	Dick Estel
+Meeting Place Reservation, Setup & Cleanup: 
+	Dick Estel, Zella Mallard & Del Contreras
+Ribbon Reinking:	Robert Bernardo
+
+On-Line Contacts:
+
+FCUG home page-- is http://videocam.net.au/fcug/
+or http://home.att.net/~rmestel/fcug.html
+Robert Bernardo rbernardo@value.net
+
+Editor's Internet Exchange Offer
+
+We'll be happy to send any of the articles in our newsletter to other clubs via 
+E-mail, to save the hassle of typing. 
+And we'd appreciate the same from those clubs that have access to Internet E-
+mail. Send requests to: 
+dickestel@att.net.
+
+
+
+
+Fresno PC Users Group
+Meetings 1st Monday of each month, 7:30 p.m. at Ramada Inn, Shaw & Fresno.
+Recorded information phone: 496 3974
+Membership: 434 0941 or 225 8824
+6751 N Blackstone # 395
+Fresno CA 93710
+
+
+
+THE SMALL PRINT
+
+The Fresno Commodore User Group/Sixty-Fourum is a club whose members share an 
+interest in Commodore 8-bit 
+computers. Our mailing address is 3487 E Terrace Ave, Fresno, CA 93703. We meet 
+at 10 a.m., the first Saturday of the 
+month,  in the Sarah McCardle Room of the main library, 2420 Mariposa, between N 
+& O St.  See the back page for a map. 
+The Board of Directors meets immediately following the general meeting. The 
+meetings generally include demonstrations, 
+discussion, drawings, and individual help.
+
+Dues are $12 for 12 months. New members receive a "New Member Disk" containing a 
+number of useful utilities. 
+Members receive a subscription to this newsletter, access to a public domain 
+disk library, technical assistance, and reduced 
+prices on selected software.
+
+The Interface is sent to our members and other Commodore Clubs on an exchange 
+basis. Clubs publishing newsletters with 
+informative content are encouraged to add us to their mailing list. Permission 
+to reproduce content from The Interface is 
+granted provided credit is given to the source and, when identified, the author. 
+Club members are encouraged to submit 
+articles, tips or ideas for articles. To insure inclusion, any material should 
+be submitted prior to the 15th.
+
+Disclaimer: The club, its officers, members, and authors are not responsible for 
+the accuracy of the contents of The 
+Interface or the results of actions based on its contents.
+
+Our disk library contains over 2000 public domain programs for the C64 and C128. 
+Members are entitled to copies of these 
+disks at no cost if a blank disk is provided. We do not deal with pirated, 
+violent or obscene programs. Please call our 
+attention to any programs found in our library which may violate these 
+standards. 
+
+Sales and Services:
+Disk Notchers $5
+Disk drive trouble diagnosis and minor repair: $10 (members only)
+Computer Reset switches: $7 (members only)
+Ribbon reinking: $1 (members only, 2 per month max)
+31 graphics disks: $3 each, $50 for all, plus $1 per disk if to be mailed.
+Blank disks: $.50 each, 25 for $10
+The Write Stuff 64: $12 ($14 for non-members)
+The Write Stuff 128 $16 ($18 for non-members)
+The Write Stuff Spell Checker 64/128: $8 ($10 for 
+non-members)
+Postage & Handling for mail orders: $1.25
+
+
+Next meeting
+June 3 10 a.m.
+Fresno County Library
+2420 Mariposa, 
+between N & O St.
+(Sarah McCardle Room - Upstairs)
+(for elevator, use main entrance on Mariposa St.)
+
+
+Fresno Commodore Users Group
+3487 E Terrace Ave
+Fresno CA 93703
+
+
+

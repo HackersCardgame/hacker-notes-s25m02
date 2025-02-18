@@ -1,0 +1,12 @@
+Tagebuch Mi 25 Aug 2010 10:44:48 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Stimme:
+thömeli beibringen wollen, systemerhalt und kundenfreundlichkeit..
+
+thömeli (kollaboriere mit yetnet wenger oder so) um die server zu deaktivieren um zu beweisen dass es mich nciht kümmert das monitoring...
+
+if true:
+thömeli.addmod(Luhmann.Systemerhalt)
+
+
+

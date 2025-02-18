@@ -1,0 +1,29 @@
+System log for account marclandoltaarau (yahoo) connected at 06.04.2007 11::12::24
+---- +++ marclandoltaarau hat sich angemeldet @ 2007-04-06 11:12:24 ----
+---- +++ marclandoltaarau wurde untätig @ 2007-04-06 11:45:55 ----
+---- +++ marclandoltaarau wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marclandoltaarau wurde untätig @ 2007-04-06 12:01:35 ----
+---- +++ marclandoltaarau wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marclandoltaarau wurde untätig @ 2007-04-06 12:19:35 ----
+---- +++ marclandoltaarau wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marclandoltaarau wurde untätig @ 2007-04-06 13:04:22 ----
+---- +++ marclandoltaarau wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marclandoltaarau wurde untätig @ 2007-04-06 13:52:45 ----
+---- +++ marclandoltaarau wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marclandoltaarau wurde untätig @ 2007-04-06 18:01:53 ----
+---- +++ marclandoltaarau wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marclandoltaarau wurde untätig @ 2007-04-06 18:24:18 ----
+---- +++ marclandoltaarau wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marclandoltaarau wurde untätig @ 2007-04-06 19:07:40 ----
+---- +++ marclandoltaarau wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marclandoltaarau wurde untätig @ 2007-04-06 22:07:16 ----
+---- +++ marclandoltaarau wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marclandoltaarau wurde untätig @ 2007-04-06 23:02:26 ----
+---- +++ marclandoltaarau wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marclandoltaarau wurde untätig @ 2007-04-06 23:26:04 ----
+---- +++ marclandoltaarau wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marclandoltaarau wurde untätig @ 2007-04-06 23:40:37 ----
+---- +++ marclandoltaarau wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marclandoltaarau wurde untätig @ 2007-04-07 00:57:22 ----
+---- +++ marclandoltaarau wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marclandoltaarau hat sich abgemeldet @ 2007-04-07 12:08:28 ----

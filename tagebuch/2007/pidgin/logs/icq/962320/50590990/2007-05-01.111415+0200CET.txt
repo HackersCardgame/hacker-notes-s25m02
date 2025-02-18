@@ -1,0 +1,69 @@
+Conversation with 50590990 at 01.05.2007 11::14::15 on 962320 (icq)
+(11:14:22) landev: so hesch au erschte mai?
+(11:14:30) Dominik: nei
+(11:14:40) landev: picet...
+(11:14:42) Dominik: bi üs ir telli isch 31. Aprill
+(11:14:47) landev: oder wie mer das au immer schriibt...
+(11:15:21) Dominik: ich glaubs ir ganze schwitz isch hütt 1. Mai
+(11:15:32) landev: het d migros und so ned offe?
+(11:15:38) Dominik: mol
+(11:15:47) landev: ebe, die händ ned erschte mai...
+(11:15:59) Dominik: aber ir migros stoot au 1.Mai uf em kaländer
+(11:16:13) landev: ok...
+(11:16:31) Dominik: säg mer mol en ort ir schwiiz wo nid 1.Mai isch ?
+(11:16:38) Dominik: :-)
+(11:17:02) landev: het d schwiiz keini kolonie oder wiit wägg liggendi exklave...
+(11:17:11) Dominik: :-)
+(11:17:13) Dominik: weis nid
+(11:17:16) landev: oder z.b. irgend en botschaft wos scho 2. oder no 30. händ...
+(11:17:23) Dominik: :-)
+(11:17:27) landev: botschafte sind jo au schwiizer grund oder?
+(11:17:35) Dominik: nei glaub nid
+(11:17:46) Dominik: es isch dete eifach rächtslose ort
+(11:18:06) landev: also bi de amerikaner isches uf jedefall amerikanische grund...
+(11:18:13) Dominik: jo
+(11:18:22) landev: denn wird das bi de schwiizer sicher au so si, JUHUI i ha gunne...
+(11:18:30) landev: :-)
+(11:18:41) Dominik: du findsch du irgendwo im internet s Funktionsprinzip vo nnagravision
+(11:18:50) Dominik: aso nid das wo im wikipedia stoot
+(11:18:56) landev: nnagravision?
+(11:19:06) landev: weni wösst was suechsch vilech scho...
+(11:19:10) Dominik: nagravision
+(11:19:31) Dominik: Pay-TV verschlüsselig
+(11:20:48) landev: finde das bi de wiki no guet beschribe, was muesch du jetzt wüsse?
+(11:21:51) Dominik: wie die ganz verschlüsslig und vorallem s sperre vo einzelen sänder funktioniert
+(11:23:03) landev: ich nime jetzt mol ah, das es för jede chond en charte git, und die het schlüssel druff und die chan mer einzeln sperre, also das de schlüssel för din schlüssel nümme bechonsch...
+(11:23:09) landev: dopplet verschlüsslet
+(11:24:04) landev: also müestisch de hauptschlüssel ha... aber de chönes warschinli au automatisch wächsle...
+(11:24:47) Dominik: schiinbar händs en Datekanal vo si einzelni sänder freigänd oder sperre
+(11:25:13) Dominik: de key für d entschlüsslig isch uf allne sänder glich
+(11:25:54) landev: also de chondeschlüsse, wörd ich säge, aber im hintergrund hets warschinli för jede sänder en 2. schlüssel, aber uf das hesch kei zuegriff...
+(11:26:04) landev: so hani de text auf jedefall verstande...
+(11:27:07) Dominik: jo ich han au 2 schlüssle
+(11:27:22) Dominik: und mit dnene chsch diräkt de sänder decodiere
+(11:27:28) Dominik: alli sänder
+(11:28:05) landev: guet, denn müest me jetzt es blockschema vom verschlüssligsalgorithmus ha, mol luege...
+(11:28:50) Dominik: mich nimmt eifach wunder wie si einzeli sänder sperre
+(11:29:05) Dominik: will teoretisch sind alli sänder glich verschlüsslet
+(11:29:24) Dominik: also wenn eine chasch luege chasch teoretisch alli luege
+(11:29:26) landev: http://www.4freeboard.to/board/thread.php?postid=144563
+(11:31:17) landev: As you may see, both commands are simply a "rehusking" of the information  recieved.
+
+Smartcard will decrypt CMD$02 with the RSA keys presend @ datatype7->0. The relevant info it provides is that a certain virtual internal buffer of 256 bytes should be loaded with "A51EF9793DB16977F4B44AE8868D8B4E" at offset 0xE0.
+
+CMD$03, instead, is decrypted with the operational keys, in this case, K0. The information it provides is:
+CW1 = CBBBBF6C31A64790
+CW2 = F54356FD3369F3A8
+... BUT, it also says that CW1 should be XORed with that internal virtual buffer @ position 0xE4 and CW2 with position 0xE2.
+
+(11:32:39) landev: also das isch tatsächlech so
+(11:32:51) landev: dass de key vo de smartcard etnschlüsslet wird...
+(11:33:09) Dominik: chume nid ganz drus
+(11:33:24) landev: jetzt wenn du de hauptschlüssel hesch müesst eigentlich d dreambox eirgend en möglechkeit ha de hauptschlüssel i'ztöggele...
+(11:33:45) Dominik: jo das isch kes problem
+(11:33:49) Dominik: han ich jo au
+(11:33:57) landev: und das funktioniert ned?
+(11:34:04) Dominik: mich nimmt eifach wunder wie das ganze im hintergrund funktioniert
+(11:34:21) Dominik: vorallem mit de einzelne sänder
+(11:34:38) Dominik: momol funktioniert alles
+(11:35:53) landev: also uf dire charte hets en tabälle mit sänder wo darfsch luege, die chasi entschlüssle, d charte chan remote umprogrammiert werde, so dass sie anderi sänder au no chan umprogrammiere, und d d dreambox chont vo de charte d schlüssel vo de sänder über wo si darf entschlüssle...

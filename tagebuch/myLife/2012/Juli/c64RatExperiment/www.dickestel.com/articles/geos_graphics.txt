@@ -1,0 +1,40 @@
+More Graphics for GEOS
+
+by Randy Hams
+
+Once you begin to get a handle on GEOS, you begin to look for more clip art to add to your creations.
+If I remember correctly, geoPublish is the only GEOS application that came with any Photo Albums of
+clip art to use with GEOS. Some commercially available clip art was produced over the years, but is
+hard to find these days. There are a lot of geoPaint files that can be downloaded from BBS's and
+networks, but converting them to clip art is not always easy or possible.
+
+First of all what is GEOS clip art? GEOS clip art is Photo Scraps that have been pasted into GEOS
+Photo Albums. Artwork in this format can be cut, copied, and pasted into and out of GEOS
+Application Data Files (e.g. geoWrite, geoPaint, geoPublish files, etc.). 
+
+Thankfully, GEOS came out with an Application (program) called GRAPHICS GRABBER, available
+on the Desk Pack Plus disk. I already wrote an article about GRAPHICS GRABBER. I won't repeat
+everything in that article, but in a nutshell, it lets you convert Print Shop, Print Master, and Newsroom
+graphics into GEOS clip art! While there are literally thousands of the Print Shop and Print Master
+graphics available, they are very small. While that is perfectly fine for some uses, when you want to
+stretch them to a larger size, they lose a lot of resolution. I find that the Newsroom clip art is an
+excellent source of GEOS clip art mainly because it comes in all different sizes! There is everything from
+tiny to large graphics for use as clip art. And by using GRAPHICS GRABBER, you can easily copy
+each individual graphic in GEOS Photo Albums. 
+
+What is available? First, the Newsroom Program came with an entire disk of Newsroom clip art. This
+was followed by three volumes of Clip Art Collection disks, each sold separately. Thankfully, the
+manual that comes with each disk provides a hard copy of each graphic. The program clip art disk and
+the Volume I disk, provide 600+ graphics each in a wide variety of topics. Volume 2 contains 800+
+business-related graphics.  Volume 3 contains 600+ Sports and Recreation graphics. These were
+available from Software Support International. Occasionally, they may be found on the used market.
+
+Newsroom graphics are stored in categories, much like GEOS Photo Albums.  Also, for copy
+protection reasons, the graphic files are hidden on the disk.  So importing Newsroom graphics into
+GEOS Photo Albums requires the GRAPHICS GRABBER. 
+
+The bottom line? By using the GRAPHICS GRABBER to import Newsroom graphics to GEOS Photo
+Albums, you will have a large library of medium to high quality graphics for use as clip art.
+
+(From The Commodore Compendium, newsletter of Basic Bits Computer Group, Cleveland OH, 10/96, via The
+Commodore Information Center web site (http://home.att.net/~rmestel/commodore.html) )

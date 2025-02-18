@@ -1,0 +1,409 @@
+Tagebuch Sa 15 Okt 2011 19:11:38 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+Martin Geissbühler scheint auf dem Clustersever das "Microfogt Customer experience involvement program" aktiviret zu haben
+eine innere stimme sagt mir, dass da vertraglich etwas geregelt ist, dass microsoft mitarbeiter so zugriff auf den entsprechenden
+server bekommen um "zu helfen" bzw. dieses netz zu übernehmen. setzt das der mitarbetier ein könnte das illegal sein
+
+a) es ist danach eine basis für (MS) marketing zwecke
+b) es ist eine basis für kriegerische aktionen
+c) es ist eine basis um probleme im system und allenfalls auch in der gesellschaft zu lösen  <-- das wäre gut
+d) allenfalls anmeldung an einem illegalen Botnetz mit zugriff auf den Command und Control server
+
+-->auf die entdeckugn und notierung dieses umstandes wird cAPI::delC() aufgerufen (Auf deutsch, im neurointerface wird gesagt, ich würde nun claudine immer verlieren und auch die verbindung werde gelöscht, oder es sei nur eine
+   simulation gewesen cAPI::VirtualC()
+
+--->ich notiere, der systemerhalt ist wichtiger als meine liebe zu claudine, aber autsch.
+
+im fall von a) würde das bedeuten, dass martin ein ich bin knuddelig und nett und lieb avatar hat damit man ihm freie laufbahn lässt --> in tat und warheit würde er aber für den teufel arbeiten.
+
+
+    o           (1)  Möchte Aufgabe lösen die Konzentration braucht
+   -|-          (3 ml)  Stecke mir Oropax in die Ohren (bzw. meine abdichtenden Kopfhörer)
+    ^           (3 mb)  Schreie den Mitarbeiter an damit dieser danach 4h eingeschüchtert und unproduktiv ist damit ich selber meine arbeit lösen kann
+   / \
+   ich
+
+    o       o   (2)  Plaudern "zufällig" gerade dann sehr laut 
+   -|-     -|-
+    ^       ^
+   / \     / \
+    MB     MT
+
+klage: ich würde lernen wollen statt zu arbeiten: zettel: war gerade mit WMI beschäftigt das bei uns im geschäft ein problem hatte
+klage: ich sei lermempfindlich, ja bin ich, aber der chef ist scheinbar noch mehr empfindlich
+
+now-zettel:
+MT oder sein Avatar will nicht dass ich monitoring installiere, allenfalls in relation zu martins Customer involvement experience programm
+->erstens, ich muss die clients überwachen, z.B. das ich sehe wenn der virenscanner etc down ist und andere komponenten einen fehler melden, allenfalls merkt man es so auch besser ob allenfalls ein troianer den weg
+  auf diesen rechner gefunden hat, muss nicht zwingend sein (in abhänigkeit der qualität des trojaners) aber kann allenfalls nützlich sein
+  -->allenfalls ist wenn die hypothese mit dem Customer involvement programm stimmt, microsoft froh, wenn auch z.B. Marc Torretti als sündenbock da steht, mit überwachung des rechners (nicht des mitarbetiers)
+     kommt allenfalls so etwas ans tageslicht
+
+MS PARTNER ---> basis für zielgerichtete soziale / finanzielle interaktionen von Microsoft???????
+
+notiz, jeweils active directory sync probleme und scheinbar disconnected z.B. Mäni sein privatnetz mit dem backup server jeweils vom firmennetz <--
+-->auch sowas findet man ohne monitoring nicht raus, aber man verbraucht stunden um herauszufinden was dsa problem ist.
+
+
+terrorstunden: all at once / all over me
+-probleme mit login
+-testserver 5 spinnt
+-computer ist "zufällig" sehr langsam <-- instrumentelle konditionierung
+-Frontend gibt "zufällig" den geist auf --> allenfalls mit timing in der bootsequenz nimmt das embedet windos schaden wenn man es zu einem kurzen spezifischen zeitpunkt beim booten auszieht
+---------------------
+das alles wärend ca. einer stunde, meinermeinung nach recht weit aussen in der normalverteilung
+
+
+
+Herr Häfliger der Alteco:
+freundlich, ABER
+wenn er wirklich SafeCom verantwortlicher werden will, dann müsste er meiner meinung nach diverse sachen lernen
+-Abstrakte Klasse einer Baumstruktur <-- häufig verwendet in der heutigen Informatik
+-CSV
+-Active directory    \
+-DHCP server von MS   -- MS Kurs   --> z.B. fachhörer bei dätwiler an der ABBTS --> aber kontraproduktiv in bestehende klasse von jungen, da wäre er mit dem Ausgegrenzt sein beschäftigt statt mit lernen
+-DNS Server von MS   /
+--->schätzungsweise 5000h zeit investieren, denn ihm fehlen meiner meinung nach die aktuellen windows basics
+wenn er will sollte man ihn unterstüzten, wenn er nciht will (also auch nciht mal in der Freizeit etwas machen) dann macht es keinen sinn ->dann müsste man ihn aber zu "nicht fähig" für safecom installationen deklarieren.
+-->gewisse berührungsängste --> testinstallation wo nichts kaputt gehen kann, am besten selber aufgesetzt.
+-->stupides auf ok klicken bei fehlermeldungen (was ich auch zwischendurch mache)
+
+dazu passend: das bild (TV) des ehrenwehrten (fettbäuchigen) richters kommt diesem menschen zu gute
+
+demokratie bedeute: wenn 100 menschen bestimmen dass ein mutmasslicher Mörder/Vergewaltiger/... getötet werden soll, dann könne dieser getötet werden
+-->KONTER: es haben mal hunderttausende menschen beschlossen (Verfassung) dass man keine todesstrafe hat <-- ergo haben die 100 leute genau dieses recht nicht
+das selbe gelte für punishment, das ist nämlich so weit ich weiss auch nicht vorgesehen, kriege dennoch immer auf den sack über...
+claudine stimme: super Teutsch, ich: aus dem kontext verständlich und ich liebe dich claudine :=)
+
+
+
+Designpattern Paranoia (Totenköpfchen)
+Mafia füttert drogen an
+Mafia sagt dem opfer es sei der geheimdienst
+Mafia zeigt das opfer beim geheimdienst und bei z.B. den Bundesbehörten an, so dass diese auf ihn aufmerksam werden
+Mafia zieht sich zurück im wissen, dass diese person sehr lange beschäftigt sein wird und dreht das nächste krumme ding
+...
+Mafia kommt zurück und hat auch ncoh die justiz in der hand, denn der angebliche täter war ein opfer
+
+
+Notiz für mein gehirn: bei MS SBS Server können keine Trustrelationships eingerichtet werden scheinbar, wäre es ein linux müsste ich mir über sowas nicht den kopf zerbrechen <-- aber lustigerweise war es gard gut
+                       dass dsa kein trust war
+
+
+Brüstungskonzepte, chronologisch (von sich brüsten damit)
+ich bin super weil ich für 100 leute die clients installiere
+ich bin super weil ich einen windows (WOOOOW) Server installieren kann
+ich bin super weil ich einen (ich bin der beste und kann veröffentlichen) SHARE POINT installiert habe <-- generalisierung, microsoft legt wert auf produkte benennung
+ich bin super weil ich ein MICROSOFT CLUSTER SERVICE installiert habe, wow cluster (häää, was ist ein http://de.wikipedia.org/wiki/Message_Passing_Interface???) never heard of....
+etc...
+knuddel prozillo stimme: ein produkt müsse ein gutes gefühl geben wenn man /finanziell/ erfolg haben wolle
+
+
+dann nerve ich mich über strukturelle / gestaltungspsychologische position von mänis ablage fach, die ist genau hinter meinem rücken und da steht er jeweils 5 minuten nach dem er ins geschäft gekommen ist,
+ das treibt mich in den whansinn... --> kann man dsa bitte wo anders hin tun?
+
+
+now-zettel:
+MB und MT stecken unter einer decke, haben 3 jahre vorsprung in nonverbalen und verbalen codes, und nemen so einfluss auf die mitarbeiter --> der einfluss könnte positiver sein!
+
+now-zette:
+datenbestand über software piraterie sünden und man könne mit diesem menschen alles tun was man wolle, piraten, zu hülf
+in short: backlog database, für gutes, für profit, für schlechtes
+
+
+designpattern für arbeit zu hause zu erledigen
+1. vorwurf
+2. bestrahlung auf adrenalin frequenz
+3. notiz machen |---> bestrahlung wird deaktiviert <-- schon recht straftatbeständig für den der das macht
+4. ...
+5. ich arbeite das zuhause gratis ab
+  a) für gutes und systemerhalt, GPL (hypokratisch)
+  b) für den profit einer jur oder nat person, rechnung
+
+now-zettel:
+mir wars als wäre ich kurz ohnmächtig gewesen ohne um zu kippen --> kann ich bitte mal endgültig wissen ob das technisch machbar ist? -> z.B. narkose oder sekundenschlaf durch bestrahlung auf bestimmter frequenz ???
+
+
+now-zettel:
+mäni stimme L8: ja es hätte es gegeben, dass militaristen (junge) ihre zugänge missbraucht hätten
+-->aber es sei ganz schlecht dies zuzugeben (für das system militär)
+wild stimme: et voila
+
+rüegg stimme: somit müsse das militär denjenigen mit zugängen periodisch einen "sündenapfel" anbieten und wenn der militarist ihn anknabbert fliegt er für kurz oder lang
+
+now-zettel:
+mäni fuchtlet mit sienen händen eine spirale von mir zu hr häfliger andreas, und nun sein meine seele / identity theft die ich mir erarbeitet habe auf den häfliger übergegangen, +adrenalin
+re() mind blocker
+
+now-zettel:
+schon wieder: ob mäni meine zurückhaltende art (ihm gegenüber) (zurückhaltend sei in frage gestellt) als schuldbekenntnis interpretiere
+
+now-zettel:
+MÄNI es heisst sEVEREty und nicht SERVETY du nuss
+--->und das vor dem kunden, und man müsse (zitat von ihm) vor dem kunden einen guten eindruck machen
+----->wenig später sagt (s)eine stimme, das sei dazu da um heraus zu finden ob jemand schon in den höheren rängen der informatik sei.
+
+now-zettel:
+networkign international zwischen informatikern füre dazu, dass diese mehr macht haben/hätten als die regierung eines landes
+a) die regierung ist rechtschaffend => dann geht das gar nicht
+b) die regierung hat dreck am stecken => miteinander lösen
+c) die regierung hat viel dreck am stecken => super habt ihr die regierung entmachtet
+
+annonymous bild: if your gouvernment shuts down your internet, shut down your government
+
+now-zettel:
+let me into heaven, i have a weapon and can take what i want
+-->lasst ihn rein ihr engel und zieht in einen anderen himmel :) <-- sonst werdet ihr noch erschossen :(  (ich meine natürlich nciht, dass ihr euch vergewaltigen oder "knallen" lassen sollt deswegen)
+---->gelte für materielle wie imaterielle waffen
+
+klage gegen mich: cih bedrohte die leute mit immateriellen waffen, sec.. grepping my diary  --> aufwand nutzen, irgendwo da steht ich wolle keine berechtigungen zum töten (no kill permission) und keine permission zum peinigen von leuten und dass ich wolle, dass man aus einsicht lernt, lernen durch einsicht
+
+->irgendwo steht das schon ein paar mal und ich habe es auch einige male gesagt
+
+now-zettel:
+marc torretti weiss sehr schnell eine antwort auf die frage ob es "in der schweiz auch amerikanische basen gebe" (so wie es in deutschland gegeben habe)
+-->da kommt ein sehr sehr schnelles nein --> in relation mit dem buch MKULTRA das er liest irgendwie verdächtig
+a) lüge weil er seine seele den amis verkauft hat
+wild stimme: der torretti werde in die pfanne gehauen -> und danach würde er wohl mich in die pfanne hauen <-- wie ist das jetzt mit den nicht attack permissions ?
+b) er hat sich zufälligerweise? ausgiebig damit beschäftigt
+c) er ist blind
+d) es gibt keine amerikanischen basen (definitionsfrage)
+
+--> fragen ob es amerikanische agenten gebe in der schweiz, was wohl zwingend mit ja beantwortet werden müsste
+===>weshalb sonst (visual schnelle band überspielung über funk und aufnahme schnell und wieder abspielen, dann consolidation funciton) hätte es die CIA überflüge gegeben
+
+1. Drogen anfüttern
+2. Play the game
+3. aus spiel wird ernst
+4. man fügt eine waffe hinzu  <-- nicht zwingend nötig, aber auch irgendwie eher schlecht (ja ich meine das milit$är)
+5. es gibt tote 
+
+den langjährigen mitarbeitern ein "spiel" anbieten, der neue sei der feind, man müsse ihn spielerisch ins matt setzen
+->herdentiere tun das weil alpha das gesagt hat und sie ihm gehorchen (weil sie memmen sind <-- so sollte man nciht über schafe reden)
+danach hat der mitarbeiter schädigungen und die herde sünden und so kann alpha diese besser fremdbestimmen... 
+
+von den höheren rängen wird man immer wieder in die pfanne gehauen
+
+----------------------
+
+
+----------------------
+
+       save             <-- geht gar nicht, wer den bezug zur basis verliert ist wohl kein guter hirte
+----------------------
+
+ game bis krieg
+
+
+Buchtitel: der Locher von Marc Torretti
+-->personal sigma   (leute die nicht richtig hacken, aber z.B. die Caps Taste drücken wenn der computer nicht gelockt ist zum beweisen, dass man zugriff darauf hätte und das spiel gibt einem dann zugriff, sigma von rechnen/simulieren)
+-->Caps <-- tautologie
+
+danach wird jeweils der locher (visual eines goals) gedrückt
+a) löst akkustisch allenfalls etwas im onyx aus
+b) löst akkustisch beim opfer etwas aus
+
+
+now-zettel:
+stimmung ist schlechter wenn martin geissbühler als einziger nicht da ist <-- lob an martin
+-->gegenbeweis, dann einige stunden auch ohne geissbühler friedlich
+
+
+now-zettel:
+1. MT sünde
+2. ML --[HALT, benimm dich]-- MT
+3. MT --[HILFE]--> MB
+4. MB --[PAIN]--> ML
+5. ML --[HALT]--> MB
+(6. ML --[PAIN RE:]--> MB)
+7. MT --[Siehst du ML ist böse]--> MB
+8. MT&MB --[PAIN]--> ML
+9. ML --[REVOKE ACCESS]--> MT&MB
+10. MB --[SHUT MT Gesture]--> ML
+11. ML --[ist kind]--> MB
+mäni stimme: er würde es korrigieren <-- das sei nämlich genau das was er auch beobachtet hätte
+-->MT war gruppenführer bei der letzten firma, hat einige sozialskills
+
+klage -> gegenklage -> gegengegenklage ->gegen^3klage <-- allenfalls muss man nur herausfinden wo das missverständins aufgetreten ist oder was der eine (z.B. ich) oder der andere falsch verstanden hat
+--->denn grundsätzlcih sollte man wegen den vielen kitschigen ami filmen durchaus davon ausgehen können, dass alle menschen gutartig sind.
+--->allenfalls war da auch noch der teufel oder dämonen im spiel, denn freitag bin ich gut mit ihm ausgekommen...
+
+ich bin nur nachtragend, wenn ich akkut das gefühl habe ich müsse wegen irgend etwas falschem DOM spielen
+
+beispiel: ich habe irgendwas recht gemeines zu jasmin gesagt, und ich glaub unsere blicke haben genau gewusst, dass ich eigentlich genau das gegenteil meine
+-->schienbar haben die leute das rundherum falsch verstanden und mich dan angegriffen
+
+wild:
+-->regel 1. zuerst genug fakten sammeln
+-->regel 2. die leute darauf ansprechen
+-->regel 3. zweitmeinung 
+
+
+designpattern schlechter consultant
+1. anfrage von kunde/partner
+2. schlechte schulung machen
+3. dem kunden vorwerfen er hätte ja eine schulung gehabt und rechnungsandrohung
+4. der kunde versucht zuerst selber
+
+a) gut weil so der kunde sich weiter entwickelt
+b) schlecht, ganz fieses konzept zur gewinn maximierung einseitig zu lasten des kunden
+c) weiteres
+
+->ein exterm nciht gut
+->anderes extrem nicht gut
+
+==>ich bin gerne hilfsbereit und getraue mich nciht forderungen zu stellen
+
+
+developpment
+a) normal und fokussierfähig ohne promiscious mode --> programmieren im grossraum büro
+b) schizo (promiscious mode) kann sich in einem grossraumbüro nicht konzenrieren
+
+florio stimme:
+konzept von steffen informatik, zuhause arbeiten, da hat man ruhe
+-->finde ich gut da wo es geht...
+
+leute die immer gewinnen und nie klein bei geben
+a) ∑M=0 schlecht
+b) attitüde und gute ideen
+c) weiteres
+
+1 Dom sagt Kusch zu sub
+2 sub kuscht
+3 dom wird von seinem dom gekuscht
+--->da fehlt noch irgenwas
+
+Getarnter Hippi
+Militärkopf --> darauf haben teile der gesellschaft wohl einen "instinktiven" abwehrmechanismus
+Verbrecherkopf --> darauf hat allenfalls genau der andere teil der gesellschaft einen "instinktiven" abwehrmechanismus
+--->confidential, allenfalls grenzt das diese leute aus, so dass geheimnisse geheimisse (des systems) bleiben
+
+now-zettel: bundestrojaner
+-->ja das hat die presse schon abgehandelt
+
+
+opfer die vom staat vergewaltigt oder gefoltert werden/wurden werden sich diesem wohl nie mehr unterwerfen --> was wäre die nächst höhere instanz <-- wild stimme: geheimdienst
+->dann werde der staat vom geheimdienst aufgeräumt und danach könne das opfer sich auch wieder dem staat unterordnen
+
+now-zettel:
+pietätloser zettel im angesicht der geschichte
+man schreibe den juden mit "neonazi" an so dass er gepeinigt werde
+-->somit denkt der jude von den mitmenschen, ihr verdammten nazis
+und die normalen denken, du verdammter neonazi
+Mac::iCall::Meldung::Memento  --> mahnung
+im sinne einer mahnung, dass sowas nicht wieder passiert, könnte so etwas aber durchaus sinn machen.
+
+stimme: hierarchisches militärkonzept (oder 88)
+man könne den müll einfach nach unten abtreten
+-->im normalfall müsste man allenfalls noch eine anleitung für die müllbeseitigung beilegen
+
+
+
+now-zettel:
+der uninstaller von safecom deinstalliert die datenbank (datanbankfiles nicht)
+->bei erneuter installation gibt es probleme
+->3 von 4 datenbanken fliegen raus, eine bleibt
+--->allenfalls noch fehler in datenbankerstellungsscript oder tracking datenbank wird absichtlich nicht auf "IF EXISTS" geprüft
+
+Die Daseinsberechtigung für einen DBA (Database Administrator) sei, dass wenn das Passwort des SA verloren sei die datenbank futsch sei
+das ist aber nicht so, man kann auch einen MSSQL im single user mode booten und das passwort resetten
+-->die leute die das aber glabuten würden dann in brave schafe verwandelt und fremdbestimmt werden können udn jeweils noch eins aufs dach bekommen weil sie andere götter haben
+
+
+
+
+IFPI leute wissen ncihts vom geldeintreiben durch schweizer leute
+-->ev. geheimdienst
+
+
+stimme: ich sei straftäter weil ich dem kleinen kenny die leider die er herunter geladen hat zahlen will <-- hallo wie schizophren ist das mir wegen nächstenliebe eine klage anzuhängen?
+-->verursacher direkt der geheimdienst, weil er mich immer mit solchen klagen foltert und ich nicht will dass es dem kleinen kenny auch so geht
+
+
+equitrac
+ -->eventtrigger strassenverkehr, backlog strassenverkehr, auto backlog generator
+-->abhandlugn über die technische machbarkeit von robotik im strassenferkehr um aus dem körperlichen robotter auch noch einen seeln roboter zu machen
+
+Designpattern: Scientology OTA-Level
+-->ich bin schon lange auf der ebene der vergleichenden Systeme, somit kann man mich eigentlihc nicht einem bestimmten system zuordnen
+--->ausserdem wäre ja das konzept des audits (wartung am nächten / nächstenliebe) durchaus sinnvoll
+
+abhandlung über filesharing
+-->gott, es entsteht ja kein direkter schaden und es wird angefüttert, backlog generator zur fremdbestimmung des opfers / subjekts
+
+Planspiele der reichen
+womit sind die reichen beschäftigt?
+a) planspiele treiben
+b) kolateralschaden aus planspielen zu beheben
+c) systemerhalt
+d) alles in dieser reihenfolge
+
+
+stimme:ich sei ein straftäter weil ich meine tagebücher frei im internet frei geben würde
+ -->ich habe die tagebücher nicht freigegeben, ich habe einzig stefan ott ein backup einrichten lassen um im falle meines ablebens die tagebücher meiner familie zukommen zu lassen
+  ->aber irgendwie scheinen schon gewisse leute (zum teil auch von leuten bei denen es mir gar nicht passt) zugriff darauf zu haben.
+
+
+
+    hüpfburg        adoleszenz
+|--------------->|--------------> ♚	♛	♜	♝	♞	♟
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

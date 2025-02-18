@@ -1,0 +1,33 @@
+----=====  Tue Sep 24 14:06:18 CEST 2024 ====----
+
+zusammenfassend haette ich mal vorsichtig spekuliert und gesagt
+
+
+SOBALD irgendwelche (vorsichtig ausgedrueckt) Krummen Dinge der Militars in zivilen Netzwerken [1] wie der UPC auffliegen faent urs blum, martin blum, astrid blum, hansjuerg pfisterer und walter brigger [3] damit an
+
+* suizidalitaet bei juengeren zu aktivieren wie bei marc jr landolt welche nachweislich bei blums am walter merz weg 6 ankonditioniert, und ausgetestet wurde
+* mit genitalverstuemmelunge LIGHT an juengeren
+* bei anderen menschen wie lara aus deutschland suizidalitaet zu aktivieren
+* mit sprengfallen zu drohen
+* feuerwehrmanner wie gautschi dazu zu steuern mutter mit kind im kleinwagen zu toeten
+* mit bioterrorismus zu drohen
+* ...
+
+FALLS irgend eine UNI, FEDPOL, Bundesamt fuer Statistik, INTERPOL, OSINT moeglichkeit hat solche dinge statistisch mit ueberwachungsdaten auszuwerten wuerde das vermutlich als schnittmengen und mit graphen-theorie (mathematik, personen-netzwerken) oft ein groesseres militaerisches terrornetzwerk zu tage foerdern
+
+
+JakShaving, automatisiert werden die juengeren offiziere grad ins sequenz verraten:
+
+[1] unbekannt: der offizier ruedi mueller hatte schon ca 1999 einen kommando kurs der schweizer armee wo er gelernt hat zivile telefone anzuzapfen und logischerweise marc jr landolt gegenueber damit angeben musste, denn ruedi mueller war sich [2] immer bewusst, dass marc jr landolt mindestens 10x besser ist in informatik oder elektronik als er, also hat rued die armee verraten um so seinen tiefen selbstwert im kontext informatik und elektronik fachwissen gegenueber marc jr lanodlt zu kompensieren
+
+[2] unbekannt 2: wie remo huggler
+
+jakshaving, gegenbeweis, also stalkt wieder jemand marc jr landolts bildschirm
+
+(der professor war oder ist in der ABBTS wo auch urs blum seine erste infromatik ausbildung hatte)
+
+----=====  Tue Sep 24 14:24:58 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 6bc82efb4ac12dec2ceff6c2a8e0eb97c003b738 ====----
+[main c305c498] ... 6bc82efb4ac12dec2ceff6c2a8e0eb97c003b738
+ 1 file changed, 7 insertions(+)
+ create mode 100644 tools/ged.sh
+

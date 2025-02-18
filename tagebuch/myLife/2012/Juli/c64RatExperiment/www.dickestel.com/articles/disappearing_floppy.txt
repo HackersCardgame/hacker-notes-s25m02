@@ -1,0 +1,42 @@
+The Disappearing Floppy Disk
+
+by Dick Estel
+
+Experiments with sun, microwave and freezing have shown that the floppy disk is pretty sturdy--as long
+as you have one. But the continued advances in the PC world do not bode well for users of antiquated
+media. It is getting harder and harder to find double-sided, double-density 5.25 inch floppies. 
+
+I have not seen them in stores for some time (in fact, 5.25 disks of any type are becoming a thing of the
+past, as current model PC's use only 3.5" disks).
+
+LOADSTAR, surely the last major user of 5.25 disks, recently lost their last supplier, and had to resort
+to recycled disks (not used in the sense that they had been loaded and handled, but not new in the
+sense that they were unsold program disks). Not long ago I saw an ad for disks for 19 cents each from
+a Commodore user in Canada with whom I've corresponded for several years. When I contacted him
+by Email, he had sold all his disks--to LOADSTAR! 
+
+Another supplier is Ed Hart in the Bay Area, who acquired a large number of disks of both sizes a
+couple of years ago. When I talked to him in early May, he was down to about 1,000 disks. He was
+charging 10 cents at that time. If LOADSTAR hears of this, how long do you think that supply will last?
+(I purchased 100 of each size, the 3.5's for myself and the others for the club). 
+
+Most of us have acquired oodles of programs and files we don't use, and have dozens or hundreds of
+floppy disks that are carefully (or not so carefully) stored somewhere. Recycling these may well be the
+best and possibly only source of disks in the not-so-distant future.
+
+The 3.5 format may not be around all that long either. Double-density disks can be used on PC's but
+are no longer the standard. And even the high-density disks which have 1.44 megabytes are falling out
+of favor, with newer programs creating ever larger files. A 3" by 4" photo, scanned at 150 dots per inch
+and saved in a high quality format on the PC can run over one megabyte. No one wants to store files
+one to a disk. So PC users are turning to newer disk formats that start with a 100-megabyte capacity.
+
+There should be quite a few 3.5 DD disks, and a huge supply of 3.5 HD disks for some time to come.
+The latter can be used on CMD's FD 2000 drive; this may be a good way to go if you anticipate a
+long-term need for significant storage capacity. If you are using your Commodore at the basic level for
+a bit of word processing and playing around with GEOS, you probably have your own stock in the
+form of disks you haven't touched for years.
+
+From "The Interface," newsletter of Fresno Commodore User Group 
+
+(Recommended companion article: "The Indestructible Floppy Disk," available in the Commodore
+Information Center Article Index)

@@ -1,0 +1,117 @@
+System log for account 962320 (icq) connected at 04.03.2007 13::30::26
+---- +++ 962320 hat sich angemeldet @ 2007-03-04 13:30:26 ----
+---- michi hat den Status von Offline zu Abwesend geändert @ 2007-03-04 13:30:27 ----
+---- michi wurde untätig @ 2007-03-04 13:30:27 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-03-04 13:30:27 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-03-04 13:30:27 ----
+---- Dominik wurde untätig @ 2007-03-04 13:30:27 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 13:39:00 ----
+---- michi wurde tätig @ 2007-03-04 13:39:00 ----
+---- +++ 962320 wurde untätig @ 2007-03-04 13:30:25 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 13:48:45 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 13:52:10 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 14:00:59 ----
+---- Dominik wurde tätig @ 2007-03-04 14:00:59 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 14:09:27 ----
+---- Dominik wurde untätig @ 2007-03-04 14:23:26 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-03-04 14:42:06 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-03-04 14:53:37 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-03-04 14:58:15 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-03-04 14:58:16 ----
+---- vortex hat den Status von Offline zu Verfügbar geändert @ 2007-03-04 15:00:55 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 15:02:09 ----
+---- shrike wurde untätig @ 2007-03-04 15:02:09 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-03-04 15:24:04 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- vortex hat den Status von Verfügbar zu Offline geändert @ 2007-03-04 15:36:38 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 15:46:35 ----
+---- shrike wurde tätig @ 2007-03-04 15:46:35 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 15:57:37 ----
+---- shrike wurde untätig @ 2007-03-04 15:57:37 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 16:05:11 ----
+---- Dominik wurde tätig @ 2007-03-04 16:05:11 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 16:06:15 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 16:06:31 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 16:12:19 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 16:16:02 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 16:17:37 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 16:17:40 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 16:18:00 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 16:18:51 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 16:18:58 ----
+---- michi wurde untätig @ 2007-03-04 16:22:55 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 16:30:08 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 16:31:11 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 16:32:39 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 16:32:43 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 16:33:43 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 16:34:00 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 16:36:59 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 16:50:35 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 16:51:40 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 16:51:46 ----
+---- vortex hat den Status von Offline zu Verfügbar geändert @ 2007-03-04 16:56:06 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 17:03:03 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 17:03:17 ----
+---- Dominik hat den Status von Verfügbar zu Offline geändert @ 2007-03-04 17:13:12 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 2007-03-04 17:13:24 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-03-04 17:14:03 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 17:16:49 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 17:17:46 ----
+---- Dominik hat den Status von Verfügbar zu Offline geändert @ 2007-03-04 17:18:30 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 2007-03-04 17:23:50 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 17:26:28 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 17:26:44 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 17:39:51 ----
+---- shrike wurde tätig @ 2007-03-04 17:39:51 ----
+---- vortex hat den Status von Verfügbar zu Offline geändert @ 2007-03-04 17:56:09 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 18:01:29 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 18:02:52 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 18:07:12 ----
+---- michi wurde tätig @ 2007-03-04 18:07:12 ----
+---- +++ 962320 wurde untätig @ 2007-03-04 17:57:52 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 18:09:43 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 2007-03-04 18:15:23 ----
+---- Dominik wurde untätig @ 2007-03-04 18:23:15 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 18:26:21 ----
+---- Schööfli wurde untätig @ 2007-03-04 18:26:22 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 18:29:26 ----
+---- shrike wurde untätig @ 2007-03-04 18:29:26 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 18:33:20 ----
+---- shrike wurde tätig @ 2007-03-04 18:33:21 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-03-04 18:59:20 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-03-04 18:59:21 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 2007-03-04 19:02:03 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-03-04 19:02:37 ----
+---- +++ 962320 wurde untätig @ 2007-03-04 18:55:19 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-03-04 19:06:56 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-03-04 19:10:19 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-03-04 19:10:21 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 19:10:24 ----
+---- Dominik wurde tätig @ 2007-03-04 19:10:24 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 19:10:50 ----
+---- shrike wurde untätig @ 2007-03-04 19:10:50 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 19:12:38 ----
+---- shrike wurde tätig @ 2007-03-04 19:12:38 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 19:26:07 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 19:27:09 ----
+---- +++ 962320 wurde untätig @ 2007-03-04 19:18:46 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 19:29:54 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 19:29:56 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 19:32:15 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 19:32:17 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 19:36:34 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-04 19:38:07 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 19:45:26 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik wurde untätig @ 2007-03-04 19:59:24 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-04 20:04:38 ----
+---- +++ 962320 wurde untätig @ 2007-03-04 19:55:10 ----
+---- michi wurde untätig @ 2007-03-04 20:09:38 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-03-04 20:38:45 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-03-05 18:12:21 ----

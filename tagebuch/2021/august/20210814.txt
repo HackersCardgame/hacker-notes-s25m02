@@ -1,0 +1,178 @@
+
+Sat Aug 14 06:37:59 CEST 2021
+2 0 2 20210814.txt
+
+eigentlich wollte ich einkaufen gehen, aber scheinbar macht die täterschaft mit richter und polisziten und neurologen amt wieder terror...
+
+siehe bilder
+
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m08/PRIO$ find -mtime -0.003
+.
+./wennDasVorherigeStimmtDannHatDerStaatsanwaltMilitaerischeAccessCodesUmAlleComputerImKantonSperrenZuLassenQuestionmark.PNG
+./oderTerminiertEsAufDannSomitKannDerStaatsanwaltInfosZurueckHaltenMussDieAberIrgendwannWeitergebe.PNG
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m08/PRIO$ 
+
+arc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m08/PRIO$ find -mtime -0.005
+.
+./mordeWeltweiteAusSpassAmMordenDurchSchweizerOffiziereMitBlackhatHacks.PNG
+./list.PNG
+./retinaCCDqrcode.PNG
+./schweizerArmeeBesitztEinRichtigGrossesAresnalVonCyberWaffenUndErmordetDamit10jaehrigeJungsInDeutschland.PNG
+./eigentlichWollteIchEinkaufenGehen.PNG
+./fishing-crusade-map.svg
+./julainAssangeWirdInDenSuizidGetrieben.PNG
+./glubsch....PNG
+./wenns-stimmt-bekomm-ich-dafuer-vermutlich-wieder-richtig-viel-aerger-asservate.PNG
+./230913813_123441883335803_4047999891734669000_n.jpg
+./KTAG_hack_der_polizei_gemeldet.mp3
+./README.md
+./apple-datei-irgendwie-schraeg.PNG
+./neuralink-vulnerability-second-order.png
+./isfies-klebeband.png
+./gutSteuerbarUndMilitaerAusbildungWortRECHERCHEARBEITEN--Natural-Lang-processing.PNG
+./pamenEtCircensesUndDrogenQuestionmark.PNG
+./urs-blum--david-utz-befoerderungZuOffizier--verschleierung-morde-der-zuerich-versciherung-druch-david-utz-im-auftrag-der-armee.PNG
+./wennDasVorherigeStimmtDannHatDerStaatsanwaltMilitaerischeAccessCodesUmAlleComputerImKantonSperrenZuLassenQuestionmark.PNG
+./neuralink-vulnerability-second-order-debuging-device-infected.PNG
+./beihilfe-zu-mord-und-mordvertuschung-fuer-einen-job-seinem-hobby-bodyflying-entsprechend-questionmark.PNG
+./zensurAktiviertWordenQuestionmark.txt
+./urs-blum-morddrohung-durch-die.PNG
+./hoomer-kocht.PNG
+./urs-blum--david-utz-befoerderungZuOffizier--verschleierung-morde-der-zuerich-versciherung-druch-david-utz-im-auftrag-der-armee.91.PNG
+./hmmmm---skype.PNG
+./oderTerminiertEsAufDannSomitKannDerStaatsanwaltInfosZurueckHaltenMussDieAberIrgendwannWeitergebe.PNG
+./bam-ist-somit-ein-stgb-180-der-mir-verschluesselt-ubermittelt-wird-den-nur-informatiker-finden-wuerden.PNG
+./vstsInstalliert.PNG
+./wenns-stimmt-bekomm-ich-dafuer-vermutlich-wieder-richtig-viel-aerger.PNG
+./Eien kurze Geschichte der Inbformatik-Zeit seit 1998.pdf
+./gitCommit-kaputt-auf-neuem-windows.PNG
+./gmmmm-reason-zero-day-fuer-rage-quitting-bzw-installer-sabotage-questionmark.PNG
+./fishing-crusade-map.svg.png
+./morddrohung-durch-die-schweizer-armee-ist-aber-verallgemeinernd-und-ein-schachzug-des-us-ablegers-zuerich-versicherung.PNG
+./ersterSuicideDeathBotDurchDenPaedophilenRingAarauGegenMichAktiviertWorden.PNG
+./wiedererkennungswert-fuer-orlando-martin-orlando-steht-somit-auf-der-gehalts-liste-der-zurich-versichrung.PNG
+./planspileJustizSchachmattUndFloppyTod/conterTrommelSprengfalle.PNG
+./planspileJustizSchachmattUndFloppyTod/02.PNG
+./planspileJustizSchachmattUndFloppyTod/herzlichenDank.PNG
+./planspileJustizSchachmattUndFloppyTod/reed.PNG
+./planspileJustizSchachmattUndFloppyTod/wenn_man_es_dem_opfer_sagt_springt_es_vielen_herzlichen_dank_und_ich_marc_jr_landolt_fordere_einen_humanen_tod.PNG
+./planspileJustizSchachmattUndFloppyTod/01.PNG
+./planspileJustizSchachmattUndFloppyTod/03.PNG
+./invitedMyself.jfif
+./vermutlcih-jemand-am-user-prfil-herumgebastelt.PNG
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m08/PRIO$ 
+
+dann wissen wir jetzt weshabl windows random timestamps abändert, das eigentlihc relevante dokument wird so gespammt
+
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+das relevante wäre: ./eigentlichWollteIchEinkaufenGehen.PNG
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+
+-> das würde auch nur sinn machen wenn die übermittlung stimmt
+==> dann hat man allenfalls ein logfile was der staatswalt so die letzte stunde gesagt / getan hat, weil irgendwie müsste dre staatsanwalt oder sein mami das ja auslösen
+
+und das sind schon auch menschen dabei die sich mit unix auskennen...
+
+Sat Aug 14 06:44:00 CEST 2021
+  76  231 4162 20210814.txt
+[main 45b9fa2] save
+ 1 file changed, 76 insertions(+)
+ create mode 100644 tagebuch/2021/august/20210814.txt
+8ab18f503584891d9eb5d6ea0ae4c19c53e820c6cf62647c572f09fbfa44f46dbc8c4d79a3048bcc6d84681509e2d4fad6348b236aa2a25a45e565ee96ddf0f2  20210814.txt
+
+
+dann scan funktioneirt nciht mehr richtig, random datum, auch timestamp attack, das soll(te) verschleiern dass die scans gelöscht wurden...
+
+
+Sat Aug 14 06:57:27 CEST 2021
+  87  274 4616 20210814.txt
+[main f393270] save
+ 1 file changed, 5 insertions(+)
+58ff0b749e03f4f893bffe16db017a88ee52b358ace86c34b125d65d4a83f4f2f1f8974cea1a11a34d13dfc2f2276d2aa3e7413d1d37139a18720b93b4962af6  20210814.txt
+
+da gabs doch mal so eine schräge JOOP Parfum werbung am detuschen TV, irgendwie seiht das bei mir so ähnlich aus
+=> Bild: chemitrode-20210814-01.PNG bis chemitrode-20210814-03.PNG 
+
+dann wird behauptet wir 1980er hätten das unseren gleichaltrigen Mädchen auch angetan, Karma ... aber ich erinnere da an die szene, wo philipp lüscher und ich etwas bei uns im keller an der rainstrasse 13 holen wollten und dann Marc-Georg Landolt da abgeschlossen hatte und ... also die 1980er Jungs wären einfach die sündenböcke für den Konsum der eltern der 1980er Kinder...
+
+Sat Aug 14 10:37:24 CEST 2021
+  98  382 5440 20210814.txt
+[main 7111f53] save
+ 4 files changed, 6 insertions(+)
+ create mode 100755 1977undJuenger__HERE_BE_DRAGONS/koerperverletzungenAnMarcJr/chemitrode-20210814-01.PNG
+ create mode 100755 1977undJuenger__HERE_BE_DRAGONS/koerperverletzungenAnMarcJr/chemitrode-20210814-02.PNG
+ create mode 100755 1977undJuenger__HERE_BE_DRAGONS/koerperverletzungenAnMarcJr/chemitrode-20210814-03.jpg
+deb5c1d9f5feccc2eb4044a93930502e33a86e023e305e303f3b15beeb6a8e143ef0ec60b4fb91fa52aa9dac1a397d58e3a3b75dcdb187f7128734f2bb8b3164  20210814.txt
+
+bzw Väter sind lieb sagen sie und würden so etwas nicht machen, und das "der gentleman geniesst und schweigt" wäre zynismus gewesen, vorwurfsvoll dem sohn gegenüber um von sich selber abzulenken?
+
+Sat Aug 14 10:38:47 CEST 2021
+ 109  445 6218 20210814.txt
+[main 6a666a4] save
+ 1 file changed, 3 insertions(+)
+54535a4e6f668c167d78a88b66e70d493569dba10018162925f8a8d275854eb09f1e22d28fea504dbb32c88365a9dd2614ecb8a1a1bb48029cbc678072f5314a  20210814.txt
+
+
+achtung an alle gleichaltrigen die das lesen, sagt das allenfalls den gleichaltrigen und jüngeren nihct die immer noch auf den gleichaltrigen sauer sind. 
+
+allenfalls ist ein gleichtltriger cyber-vergewaltiger weniger schlimm als wenn es die Eltern waren, bzw. wer sigint/comint kann, das muss DRIGNEND redirected werden, also wenn ein Vater auf seine kleine tochter und so im cyber wäre es irgendwie gerecht, wenn das an die mutter des vaters redirected wurde, und vermutlich htäte die mutter des vaters da nicht so viel einwände ...
+
+Sat Aug 14 10:41:28 CEST 2021
+ 120  548 7014 20210814.txt
+[main 6f23daa] save
+ 1 file changed, 6 insertions(+)
+f9b9f903995e69f35ff4b832ddc5c2557d3e7162c8dc50de1ca98e4abea5c37af3f2711b3334beddea0dfcfc229a15c138c15a37f8154f43114b4d50326c63ef  20210814.txt
+
+und wers gemerkt hat, sobald die drei morde durch mutmasslich urs blum und gabriel riela [1] an den ABB mitarbeitern thematisiesrt werden schalten die beweismittle frei die dann den fukus auf den Täter Marc-Georg Landolt (1950) legen und wieder die 3 Morde übertüncht...
+
+[1] zum zweiten mal injected: im auftrag der zürich versicherung
+
+Sat Aug 14 10:44:21 CEST 2021
+ 130  621 7611 20210814.txt
+[main 353f43f] save
+ 1 file changed, 5 insertions(+)
+5758dc5afca833a34eb61daaf42b65cfd9ee4ad672c06411d6882694f314a01fbe1a1e1e5cab5a8ff5fc7ad5f6d7d397ec055bfe8141abfae97a515ae859c10d  20210814.txt
+
+
+stimmt meine Herleitung && und das konzept generell einen auf gleichltrigen vergewaliter terrorsts zu machen ein Globaler Schachzug (euphemismus) ist DANN
+
+ist jacob applebaum ein zeuge für mord, massenmord und hat allenfalls auch eine Firma mti Rechtsverdrehersoftware am Hals
+
+Sat Aug 14 10:48:08 CEST 2021
+ 141  680 8147 20210814.txt
+[main 69b01fe] save
+ 1 file changed, 6 insertions(+)
+a63ea1f7403a34d26ed61fb459321010898f79835b4f0ecdc5d8565c1ee045d55ea9be781d55284e4634a444fc72f7b2e7319a3d7997dbadf2fcac582a9fe546  20210814.txt
+
+
+dann für den moment grad wieder keine mord und terrordrohungen gegen mich:
+
+für die kleineren: falls ihr auch von Satan mit so Chemitroden-Projektilen "gesegnet" werdet && auch triggert beim beheben:
+
+ich hätte gesagt eine Coping-Strategie wäre
+
+1. dann machen wenn nicht zu viele menschen wach sind aus dem täternetzwerk dass euch am meisten psychischen schaden zugefügt hat
+2. auf neuro-funktionen fokussieren
+ - Tool Center Point (siehe zB ABB Robotik Buch) recognition "Richtiger Greifwinkel" -[EventTrigger]-> muskel-tremor
+   -> der muskel-tremor soll bei mir scheinbar den richtigen greifwinkel weg-therapiern ähm austreiben 
+
+3. meist geht es satan darum die einwirkungsdauer zu maximieren, also da wäre dann auch klar dass es so etwas wie die Morpheus EEG Szene in Matrix sein soll, und somit wäre Morpheus ein Euphemisus, der kann zumindest bequem hocken...
+
+
+Sat Aug 14 16:16:21 CEST 2021
+ 162  828 9282 20210814.txt
+[main 5f0adb6] save
+ 1 file changed, 16 insertions(+)
+f43285acf3e230869b734694389ac35652c2d3846463937a00d5a2f99d8a9641baa64fc86432ea2af493d0f275b4fa21de63d38586641a1efc28b755b0ba19f3  20210814.txt
+
+
+ich bin definitiv spezialist für diesen scheiss, aber ich könnte mir noch vorstellen dass das irgend ein bio-dings ist dass mal angebracht so wie eine basis in einem game sich aufbaut bis maximal mühsam
+
+miniatur machanik oder auch z.B. etwas dass eine dna hat und die entwickeln das vermutlcih an mir als unfreiwilige laborratte weiter und da eher frauen diejenigen sind welhce barthaare nicht rasieren sondern zupfen ist der entwickler vermutlich ein frauenhasser...
+
+Sat Aug 14 17:29:52 CEST 2021
+  173   921 10012 20210814.txt
+[main 77de75d] save
+ 1 file changed, 6 insertions(+)
+e4d7c1be786c7a3f9352b77c3b4567ebf2cd06cdc23700e7c97fa057a58bd949646cda84e406c5a482037e30c7a536b551e173fc4789816d362428fc4ccb2dd6  20210814.txt
+

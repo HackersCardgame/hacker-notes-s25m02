@@ -1,0 +1,8 @@
+    ==============================
+-=[ Tue Apr 2 10:24:34 PM CEST 2024 ]=-
+    ==============================
+kann es sein, dass Microsoft Github die Daten in Echtzeit an qFire liefern muss wenn jemand z.B. HackersCardgame klonen möchte wegen dem patriot act?
+
+so sieht es aus, als wäre es nicht github selber gewesen
+
+und der benutzer der das pflegt soll aber zugriff drauf haben, weil sonst wäre ich schon vor 4 Jahren misstrauisch geworden???

@@ -1,0 +1,78 @@
+Vintage Computer Show 1997 (Part I)
+
+by Robert Bernardo
+
+Rewind to the past...1992--my best friend and I travel to Washington, D.C., in celebration of our
+knowing each other for 25 years. Ostensibly, one of our major objectives is to get to the Smithsonian
+Air and Space Museum and view the massive 25th anniversary Star Trek exhibit. For a day and a half
+we wander through the miniature and full-size displays of prop-driven biplanes and monoplanes,
+jetcraft, Mercury and Apollo capsules, and Enterprise and Klingon starships. In our remaining time, we
+try to hit the other Smithsonian Museums. We move fast; in one, which I will dub the Science and
+Technology Museum, we come across an exhibit of computing history. There are photographs of
+Babbage's calculating machine of the 1840's and the ENIAC computer of the 1950's, an actual (but
+older version of the) Cray computer of modern times, various interactive games which demonstrate
+how a computer works, and for me, the piece de resistance--a line-up of the machines which started
+the home computer trend.
+
+There is Steve Job's homemade Apple I computer, complete with handmade, varnished, wood case
+covering the electronics. There is a Tandy TRS-80 computer. Next to it is an Atari 400 computer.
+However, the one that attracts my attention is the brown, "breadbox" Commodore 64! The C-64...
+part of the Smithsonian collection! I whip out my camera and snap a picture as it lays proudly on its
+display stand.
+
+Fast forward to 1997...I'm cruising through comp.sys.cbm on the Internet, and an October
+announcement attracts my attention . The first annual Vintage Computer Festival will be at the Alameda
+County fairgrounds in Pleasanton in a few days. Not only will there be a flea market and historical
+exhibition but also guest speakers talking about hardware and software preservation, bulletin board
+systems, older operating systems, and computer history here on the West Coast.
+
+There is not much lead time. Though the emphasis at the festival this time is to be on Apple II's, I
+reason that Commodore users should be a presence. I e-mail the organizer, asking that if there is
+second annual festival, he should consider an emphasis on Commodore computers. I telephone the
+presidents of the Commodore Hayward Users Group (CHUG) and the Fremont-Union City-Newark,
+Hayward User Group (FUNHUG). I only get the answering machine of FUNHUG president, Ed Hart;
+I leave a message telling of the festival but never receive a call back. CHUG president, George Palmer,
+is at home, but he reasons that his members won't have the time to make it there.
+
+O.K., if the Bay Area groups can't make it there, then I as a representative of FCUG will attend. After
+a Friday night at my parent's house in Stockton, I drive off to Pleasanton, a little more than an hour
+away. I arrive in the area and circle the fairgrounds, looking for the correct entrance. Finally, I find the
+entrance and head for the buildings. I'm surprised; the festival has rented two large buildings-- one for
+the exhibit/flea market and the other for the guest speakers. Another surprise--though the building for
+the guest speakers has seats for hundreds of audience members, I count at most 50 people wandering
+around the festival. I pay my $10 to attend all activities, and I walk into the exhibit/flea market building.
+There is plenty to see; as mentioned in the VCF web page, "all items will be a minimum of 10 years old.
+No modern PC clones here...just good old classic computers."
+
+A few tables down I see my friend, Larry Anderson, and his wife, Diane Hare. Larry runs the Silicon
+Realms BBS (209 754-1363), a board devoted to Commodore. He shows me around the room, his
+table, and the computers on exhibit. There are quite a few; from the Commodore viewpoint, VIC-20,
+various PET's, SX-64, C-128, Amiga 500, and Amiga 1000 systems are on display. Oh, yes, there are
+Apples, Ataris, Bally, Callan, Compaqs, CompuPros, and other well-known and unknown platforms.
+
+I buy some Commodore software from Larry and another gentleman, but the guest speakers are the
+most interesting. James Willing speaks about how he began one of the first BBS's, Marvin Johnston tells
+about Santa Barbara and the microcomputer revolution of the 1970's, Bill Fernandez relates the birth of
+Apple, and Edwin El-Kareh talks about his organization, the Computer History Association of
+California (CHAC). Edwin is especially fervent in furthering the "excavation, conservation,
+preservation, renovation, and fenestration" of vintage computers. He bemoans the fact that society
+doesn't value older technology, that the history of individuals and companies in the computer industry is
+being forgotten. He says that California has no central museum, no central repository to hold these
+computers, these stories, these memories. Right now CHAC has several buildings which hold historical
+computing hardware, but they are not climate-controlled. He does have a few tips for us
+individuals--archive your items in those large, "tupperware-style" boxes, and remove the paper
+packaging (such packaging promotes infestation).
+
+What is the connection between Commodore at the Smithsonian Institution and Commodore at the
+Vintage Computer Festival? It's the matter of perspective. We Commodore users can be considered
+collectors in the hobby of classic computer collecting. We Commodore users can be considered
+preservationists who retain the history of the past computer generation. When we use our
+Commodores, we are using historical items. Our Commodores have a history, from the early days
+when Commodore made business machines through the successful, heady days of the 1980's to the
+grass-roots efforts of nowadays. It would be a shame to destroy history by dumping our machines into
+a wastebin. It would be a shame to forget our computer heritage by trashing our Commodores. I for
+one have no intention in forgetting my heritage; this year marks my fifteenth year in using
+Commodores...and I will use them for many more to come.
+
+From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html

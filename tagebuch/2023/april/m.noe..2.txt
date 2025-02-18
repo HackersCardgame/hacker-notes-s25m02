@@ -1,0 +1,70 @@
+M`nö ~♤~, [16.04.2023 11:51]
+Darf man behaupten das der Metzger im Dorf noch Mensch ist? 
+
+Wenn er das ist, könnte man bei aller wie auch immer gearteten Ideologischen Haltung / Ansicht über „Status“ einer „Arbeitergruppe“ dann auch behaupten das selber auch Mann, Vater, Nachbar, Freizeithelfer, Schneeräumer im Winter für die Oma nebenan, Gesprächspartner etc. ist?
+
+Wenn ja kann man das auch über o. g.  „Beamte“ behaupten?
+
+Falls ja. Könnte man ja auf die Idee kommen sich mal selbst zu fragen ob der eigene Standpunkt eventuell etwas getrübt ist und man eventuell etwas voreingenommen rüberkommt wenn man Beamte so unter generalverdacht stellt und mit pauschalisierten Aussagen abkanzelt.
+
+Ich habe sehr gute Gründe bestimmte Menschen in ihrer „fehl-Funktion“ als Beamte in diesen vergangenen Situation derart zu hassen weil Sie Ihre Aufgabe nicht erfüllt haben, das ich Ihnen die Rübe abhacken wollen würde. 
+
+Dennoch versuche ich die Person als Mensch zu betrachten denn von Hass haben wir meiner Meinung nach genug auf der Welt.  
+
+Aufklärung und Menschlichkeit kann das im kleinen heilen, so meine jedenfalls Erfahrung. 
+
+Wenn dich ein Beamter anbrüllt kann das viele Gründe haben. Aber zurückschlagen/Brüllen ändert NICHTS. Außer das du die Schläge des Schlagstocks im Gesicht nur härter spürst…
+
+Schönen Sonntag ihr Lieben.
+
+✌️
+
+M`nö ~♤~, [16.04.2023 11:52]
+Ich kann freundlich darauf hinweisen das ich mich geistig wiedersetzen werde den Forderungen folge leiste und nicht damit einverstanden bin. Lächeln und entspannt bleiben. 😎
+
+M`nö ~♤~, [16.04.2023 11:54]
+Alles andere ist sein Karma 😚
+
+
+Eine Interessante Frage ob der "Metzer ein Mensch" ist
+
+
+Der Schlachter ein Gleichnis für einen Psychiater
+
+Platon hatte Recht mit seiner Einschätzung des Sokrate genau dann, wenn Sokrates kein grosser Philosoph war. Wenn Sokrates ein grosser Philosoph war, dann hatte Aristoteles Recht mit seiner Einschätzung des Platon. Aristoteles hatte nur dann Recht mit seiner Einschätzung des Platon, falls Platon recth hatte mit seiner Einschätzung des Sokrates.
+
+1) Festlegung der Abkürzungen:
+
+S = "Sokrates war ein grosser Philosoph."
+A = "Aristoteles hat Recht mit seiner Einschätzung des Platon."
+P = Platon hatte Recht mit seiner Einschätzung des Sokrates."
+
+2)  Übersetzung der Aussagen:
+
+- "Platon hatte Recht mit seiner Einschätzung des Sokrates genau dann, wenn Sokrates kein grosser Philosoph war."
+
+F[1] = (P ⇔ ¬S)
+
+- "Wenn Sokrates ein grosser Philosoph war, dann hatte Aristoteles Recht mit seiner Einschätzung des Platon."
+
+F[2] = (S ⇨ A) = (¬S ∨ A)
+
+- "Aristoteles hatte nur dann Recht mit seiner Einschätzung des Platon, falls Platon Recht hatte mit seiner Einschätzung des Sokrates."
+
+F[3] = (A ⇨ P) = (¬A ∨ P)
+
+- Alle Aussagen zusammen werden beschrieben durch die Formel
+
+F = (F[1] ∧ F[2]) ∧ F[3]
+
+Legende:
+∧: Logisches UND
+∨: Logisches ODER
+¬: Logisches NICHT
+⇨: Implikation (... daraus folgt ...)
+
+Das ist aus "Logik für Informatiker" -- Martin Kreuzer / Stefan Kühling
+(Damit Quält man Infomratik-Sutdenten im 5. Semester)
+ISBN13 978-3-8273-7215-4
+
+

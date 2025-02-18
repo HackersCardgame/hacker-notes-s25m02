@@ -1,0 +1,45 @@
+
+
+ich würde es nicht als Binary in die dantenbank ablegen, wenn du irgend etwas debuggen möchtest erschwert das alles, wenn das als HEX da in der Datenbank ist kann das ein User/Admin realtiv gut nachvollziehen ohne lange Binary to HEX castings zu machen beim Debuggen.
+
+Dann wäre spannend weshalb Du in der Software mit dem Binary Wert arbeitest, kannst ja einfach hexdigest in der ganzen software verwenden.
+
+bei diesem Hex sind es 4 Bytes, wenn Du diese jetzt als varchar in 8 bytes speicherst hast Du nicht massiv mehr daten was die Performance einreisst
+
+Dann wäre auch weitere Frage, der "name" kann sich ja wechseln, z.B. Heirat, also muss dann da auch jeweils noch einen Update geamcht werden also "UPDATE X SET name 'verheirateter Name'? Also da wäre die Frage, wechselt der Hash auch, weil dann würde ich eine "Wrapper" klasse machen die von sich aus allenfalls schon merkt ob sie jetzt ein INSERT oder ein UPDATE machen muss. Das braucht dann einen zusätzlichen SQL Query um zu schauen ob das schon in der Datenbank ist, aber wenn es nicht performance kritisch ist dann ist das ja komplett wurscht und vereinfacht vieles.
+
+
+Falls Du jetzt einfach den String in richtigex HEX speichern möchtest könntest Du literal_eval verwenden und den HEX zB als 0xaffe0815 in der datenbank speichern, dann sieht man auch grad am Inhalt der Datenbank, dass das ein Hex ist.
+
+from ast import literal_eval  # converter klasse
+
+Also drei Varianten
+* Binär speichern
+=> das würde ich nicht machen, das ist für die Pflege der DB eher zum Kotzen
+
+* als String in der DB speichern
+=> mindestens Menschen-lesbar
+
+* mit leading 0x als String in der DB Speichern
+=> finde ich noch besser, bzw. übersichtlicher
+
+
+
+name = "somename"
+t = now()
+hash = hashlib.sha256().hexdigest()               # "affe0815"
+sql = "Insert into x values (%s, %s, %s)"
+val = (name, t, hash)
+dbdings.execute(sql, val)
+
+mysql> INSERT INTO X VALUES("somename", [Zeitstempel dingsi], affe0815);
+
+from ast import literal_eval
+def get_hex(value):
+    convert_string = literal_eval(value)
+    convert_hex = hex(convert_string)
+    return convert_hex, convert_string
+userstring = "0xabc"
+convert_hex, convert_string = get_hex(userstring)
+print("String to Integer:",convert_string)
+print("Integer to Hex:",convert_hex)

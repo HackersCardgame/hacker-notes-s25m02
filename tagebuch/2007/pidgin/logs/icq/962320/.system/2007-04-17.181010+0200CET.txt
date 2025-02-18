@@ -1,0 +1,63 @@
+System log for account 962320 (icq) connected at 17.04.2007 18::10::10
+---- +++ 962320 hat sich angemeldet @ 2007-04-17 18:10:10 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-04-17 18:10:10 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-04-17 18:10:10 ----
+---- michi wurde tätig @ 2007-04-17 18:10:10 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-04-17 18:10:10 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 2007-04-17 18:10:10 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-04-17 18:10:10 ----
+---- Dominik wurde untätig @ 2007-04-17 18:10:10 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-17 18:10:19 ----
+---- Schööfli wurde untätig @ 2007-04-17 18:10:19 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-17 18:10:26 ----
+---- Schööfli wurde tätig @ 2007-04-17 18:10:26 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-17 18:20:29 ----
+---- Schööfli wurde untätig @ 2007-04-17 18:20:29 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-17 18:22:23 ----
+---- Schööfli wurde tätig @ 2007-04-17 18:22:23 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-17 18:25:37 ----
+---- Schööfli wurde untätig @ 2007-04-17 18:25:40 ----
+---- +++ 962320 wurde untätig @ 2007-04-17 18:28:06 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-04-17 18:58:41 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-17 19:02:58 ----
+---- Dominik wurde tätig @ 2007-04-17 19:02:58 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 2007-04-17 19:09:42 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 2007-04-17 19:13:24 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-17 19:27:07 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-17 19:27:09 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-17 19:28:15 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-17 19:28:17 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-17 19:29:21 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-04-17 19:34:26 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-04-17 19:35:03 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-17 19:38:40 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-17 19:53:20 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-17 20:00:56 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-17 20:00:58 ----
+---- +++ 962320 wurde untätig @ 2007-04-17 19:52:57 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-17 20:10:21 ----
+---- Schööfli hat den Status von Abwesend zu Nicht verfügbar geändert @ 2007-04-17 20:19:08 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-17 20:23:05 ----
+---- +++ 962320 wurde untätig @ 2007-04-17 20:13:07 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-04-17 20:24:19 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-17 20:41:11 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-17 20:41:15 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-17 20:43:38 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-17 20:43:40 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-17 21:06:22 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-17 21:06:24 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-17 21:07:25 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-17 21:07:26 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Schööfli hat den Status von Nicht verfügbar zu Abwesend geändert @ 2007-04-17 21:20:46 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 2007-04-17 21:26:05 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 2007-04-17 21:45:44 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-17 22:19:01 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-04-17 22:24:26 ----
+---- Schööfli hat den Status von Abwesend zu Offline geändert @ 2007-04-17 22:30:19 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-17 23:23:00 ----
+---- +++ 962320 wurde untätig @ 2007-04-17 23:33:40 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-04-18 00:04:18 ----

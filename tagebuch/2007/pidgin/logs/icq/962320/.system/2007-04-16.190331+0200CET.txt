@@ -1,0 +1,26 @@
+System log for account 962320 (icq) connected at 16.04.2007 19::03::31
+---- +++ 962320 hat sich angemeldet @ 2007-04-16 19:03:31 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-04-16 19:03:31 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-04-16 19:03:31 ----
+---- Dominik wurde untätig @ 2007-04-16 19:03:31 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-04-16 19:03:31 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 2007-04-16 19:03:31 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-16 19:03:47 ----
+---- Dominik wurde tätig @ 2007-04-16 19:03:47 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 2007-04-16 19:03:58 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-16 19:04:56 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-04-16 19:07:58 ----
+---- dikyangel wurde untätig @ 2007-04-16 19:07:58 ----
+---- +++ 962320 wurde untätig @ 2007-04-16 19:15:13 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-04-16 19:54:17 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-16 20:17:08 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-16 20:25:15 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-16 20:30:07 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-16 20:33:50 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-04-16 20:34:39 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-16 20:35:26 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-16 20:38:34 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-16 20:38:36 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-04-16 20:45:12 ----

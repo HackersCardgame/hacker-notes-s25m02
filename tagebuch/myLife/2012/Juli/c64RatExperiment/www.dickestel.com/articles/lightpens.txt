@@ -1,0 +1,80 @@
+C-64/128 Light Pens
+
+by Tom Haslehurst 
+
+Light Pens, another alternative input device for the C 64/128, only become a serious contender to the
+input device contest when they are being used with graphics programs. All light pens work on the same
+basic principles, but you will find that not all light pens are created equal. Light pens send out an
+electron beam which hits the phosphor coating (the coating on the inside surface of the monitor) which
+then sends the signal back to the computer through the joystick port. The sensitivity of the light pen
+determines how well the computer recognizes the signal. 
+
+I had three different light pens to compare, and each of them was activated in a different manner. The
+Madison Computer McPen was attached through a pen stand which had a sensitivity control dial on the
+stand. There was also the Tech Sketch Inc. light pen, which used a button attached to the pen itself.
+The button had to be depressed to activate the light pen. Last of all was the Inkwell Systems Flexidraw
+light pen which uses a pressure sensitive pen tip that compresses when pushed against the monitor
+screen to activate the light pen. Each of the light pens come with some form of graphics program and
+demo software. 
+
+McPen: The McPen light pen looks very impressive with its stand and the holder where you can place
+the pen when not in use. The software for the pen is the major letdown. The graphics drawing program
+is very simple and unsophisticated in design. This program would be useful for young children to use but
+would not be beneficial to an adult beyond the very basic level of drawing. Anyone with a talent for
+good computer graphics, would be disappointed with this program. 
+
+Even for a child the program may be somewhat difficult to use. The pen has to be placed to the screen
+before an operation of the program can be selected. Also the pen was a little too sensitive and would
+begin the screen manipulations as soon as the pen started to move. This would create imaging where it
+was not wanted. The sensitivity dial on the stand did not seem able to control this problem. 
+
+The McPen's demo programs such as Hangman and TicTacToe worked quite well with the light pen.
+Again the children found Hangman fun and easy to play. The TicTacToe was good as well but the
+children got bored with it very quickly because playing against the computer was less of a challenge
+than if they had been able to play against each other. The other major drawback with this light pen is its
+inability to function with GEOS. This will probably be the biggest deterrent to anyone wishing to use this
+light pen. 
+
+Tech Sketch Inc.: The Tech Sketch light pen works differently from the McPen. The Tech Sketch pen
+uses a button on the pen to activate and deactivate it. As with all light pens this one also comes with a
+graphics program. This program is similar in design to the Koala Pad drawing program. The menu is
+separate from the drawing screen. Even with the button control, this pen seems to be a bit too sensitive
+when used on the screen, which makes it difficult to control. 
+
+The drawing program is more functional than the McPen program, but is still rather limited in its
+usefulness. There are some good demo pictures with the program but I believe it would take a fair bit of
+experience to achieve this level of work with the software. For printing purposes the software supports
+the CBM 1525 printer. This is obviously not going to be sufficient for most people especially if you
+have a color printer. I might recommend a Super Snapshot cartridge, so you can do a screen dump and
+then print your graphic out in color. 
+
+The Tech Sketch pen has some other drawbacks as well. For example the program will not work with
+JiffyDOS activated. This is not necessarily a problem but it is an inconvenience. Also the light pen
+cannot be recognized by GEOS. Again this may not be a prime deterrent to anyone wishing to use this
+program for its limited graphics software only. 
+
+Flexidraw: The Flexidraw 5.5 from Inkwell Systems is the only light pen for the Commodore still on the
+market today. It can be purchased from J P PBM Products by mail in Toronto at (416) 240- 8993 or
+from CMD, Inc., in East Longmeadow, MA 01028. Luckily for anyone interested in a light pen, the
+Flexidraw light pen is the most advanced of the three pens that were tested. The Flexidraw pen itself
+handles very well, and the pressure sensitive tip that collapses when pushed against the monitor screen
+works flawlessly. The pen comes with some good software as well. The demo programs have good
+graphics using color and sound. For example the memory teaser game called Follow Me will hold your
+interest for quite some time, and the Piano Keyboard demo works very nicely. 
+
+The drawing program is also the best of the three tested. It will allow the use of other input devices such
+as the Koala Pad, the mouse, or the joystick, as well as the light pen. The program allows the use of the
+function keys also, for rotating, flipping, and disk operations. 
+
+The only drawback with the program may be in the fact that the color must be added to the graphic
+after it has been drawn, but considering how good the program is, this is a very minor problem. The
+program also has a little larger learning curve than the other programs tested, and may be a bit more
+difficult or kids to use but it will benefit people with talent a great deal more 
+
+Other pluses of the Flexidraw light pen are its ability to be fully functional with GEOS programs. It
+works flawlessly with them, and in some ways, actually excels over the mouse. With the light pen you
+just point to the function and click, instead of having to drag the cursor around with the mouse.
+
+(From TPUG, Spring 1998 newsletter via June 98 Computer Compendum of Basic Bits BG via
+Random Bits, newsletter of NOVACOM, via The Commodore Information Center web site
+(http://home.att.net/~rmestel/commodore.html) )

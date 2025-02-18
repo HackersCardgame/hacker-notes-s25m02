@@ -1,0 +1,128 @@
+
+Tue 22 Jun 2021 12:54:16 AM CEST
+2 0 2 cyberWAR20210622.txt
+
+david utz hat grad alle verraten um nciht aufzufligen dass er die sabrina lüthi mit einer kombination von icd10 f44x, rohypnol und drogen gefügig und hörig gemacht hat, heiratsversprechen und somit hat david utz die sabrina lüthi in enen weiblchen triggerDUDE umgewandelt
+
+Tue 22 Jun 2021 12:55:19 AM CEST
+  7  53 340 cyberWAR20210622.txt
+[main 54c7597] save
+ Committer: marc <marc@debian>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 4 files changed, 7 insertions(+)
+ create mode 100644 TODO/BRN3C2AF421298E_013059.pdf
+ create mode 100644 TODO/BRN3C2AF421298E_013107.pdf
+ create mode 100644 TODO/BRN3C2AF421298E_013161.pdf
+ create mode 100644 tagebuch/cyberWAR20210622.txt
+abb9225e0e00a3edd1a840bab892d937e4607a6cac294bcf08dc3880497ab8254bfbd04de10c3b091d39587c2e5732961d80f6fc54ba1f8098f07465890c1d4d  cyberWAR20210622.txt
+
+
+introspektion in das drogen system
+
+das hat zugriff auf festplatten remote kills, dürfen die aber nicht häufig brauchen weil sonst der server / malware auffliegt, ich gluabe der david utz hat jetzt so etwas aktiviert. hopefully someone could capture that...
+
+
+Tue 22 Jun 2021 12:56:30 AM CEST
+  36  199 1547 cyberWAR20210622.txt
+[main cd6adae] save
+ Committer: marc <marc@debian>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 7 insertions(+)
+8a84ba8865e847f68be93450e67073c167b760c555298ea8d896275ec3dc9dfab419ff7392534a9771d61e6709c36c36e570cbadb72993ea208a584659d3b186  cyberWAR20210622.txt
+
+Tue 22 Jun 2021 06:01:56 AM CEST
+  56  295 2326 cyberWAR20210622.txt
+
+dann die malware die backup verhindert oder sabotiert scheint
+
+- autonomes system zu sein
+- scheint einem dazu zu motivieren immer mehrere rsync... befehle auf die gleiche platte (was bei ssd egal wäre)
+- allenfalls etwas wie stuxnet, was aber irgendwie akiviert werden müsste
+- scheint je länger man schreibt langsamer zu werden (gibt es scheinbar bei einer gewissen ssd sorten platte auch)
+- viel kleine files sind langsam, aber langsamer als das normale langsam, txt files...
+- dann scheint das stuxnet ähnliche ding allefalls zu merken dass es zu effizient ist, und treit einem dazu wieder dinge zu ändern
+
+
+whitehat-whistlebower-autist-nervensäge in der 1979 BEZ klasse grad bisschen viel von satans taten am verpetzen
+Satans schachzug: alle anderne überfüttern und vollbeschäftigung <- heisst jemand mit richtig viel kohle und richtig viel macht
+
+
+
+dann die malware die backup verhindert oder sabotiert scheint
+
+- autonomes system zu sein
+- scheint einem dazu zu motivieren immer mehrere rsync... befehle auf die gleiche platte (was bei ssd egal wäre)
+- allenfalls etwas wie stuxnet, was aber irgendwie akiviert werden müsste
+- scheint je länger man schreibt langsamer zu werden (gibt es scheinbar bei einer gewissen ssd sorten platte auch)
+- viel kleine files sind langsam, aber langsamer als das normale langsam, txt files...
+- dann scheint das stuxnet ähnliche ding allefalls zu merken dass es zu effizient ist, und treit einem dazu wieder dinge zu ändern
+- oder einfach eine ge-slowdown'te FSTAB weil egal ob 10k oder 100M file geht undgefähr gleichlang
+
+
+
+Tue 22 Jun 2021 10:43:39 PM CEST
+  85  548 3939 cyberWAR20210622.txt
+
+dann hätte ich gesagt, dass ist so eine art stuxnet der parametrisiert wird, solange die die GUID der platte / partition ncoh nicht haben ist das ding pointless
+
+aber das scheint ein "gehe jetzt online" funktion zu haben welche mich motivieren soll jetzt den computer ans netz zu schliessen, udn dann hätte ich das dann auch auf den datenträgern...
+
+intelME <- bin ich mri nicht sicher, ich benutze nicht die eingebaute netzwerkkarte sondern eine separate am pci bus, bzw. sonst am usb
+
+Tue 22 Jun 2021 10:45:56 PM CEST
+  94  641 4499 cyberWAR20210622.txt
+[main 89166e4] save
+ 3 files changed, 25 insertions(+), 7 deletions(-)
+ create mode 100755 tagebuch/old/cyberWarDurchKSAarau.odt
+fc11685b53caac6f41d2261e7ed5c5cfedd6845c8f41a04ed06b74307e385d2b894b0dc3de97a1a6a2d21be5f00487a5bd9780c3eb2e1bf6b9b6008c9f4b9027  cyberWAR20210622.txt
+
+
+Wed 23 Jun 2021 12:04:43 AM CEST
+ 102  668 4850 cyberWAR20210622.txt
+
+unknown:
+
+software für dna analysen die alle so manipuliert sind/sein könnten, dass sie zB. pfisterers dna nicht ausweiset (bzw. den blob z.B. auf marc jr landolt wechselt)
+
+evil twin --- 
+
+-> so etwas muss gepatcht werden falls das stimmt...
+
+
+
+Wed 23 Jun 2021 02:10:49 AM CEST
+ 115  718 5168 cyberWAR20210622.txt
+On branch main
+Your branch is ahead of 'origin/main' by 7 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+18a1293a10eb94a464c34223ff6f1cc02b9aa00a80f23c6d56feb65725b383988367d40fe92b8219d25f8360b6b830d77d110b0f3c04df2c3ce46ed586172992  cyberWAR20210622.txt
+Wed 23 Jun 2021 02:10:51 AM CEST
+ 123  757 5543 cyberWAR20210622.txt
+[main 8a0a619] save
+ 1 file changed, 8 insertions(+)
+63a79e902f404f1bf9002c7ebcfb73c7a9bbcc7c71d232dfbcc274a1661e0286368adf52748fd709ac4f96122d40dd0e1ff414f614a66007ce79fb070e100fad  cyberWAR20210622.txt
+

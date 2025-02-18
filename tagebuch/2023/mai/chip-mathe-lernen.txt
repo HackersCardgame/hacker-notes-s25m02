@@ -1,0 +1,17 @@
+
+
+Rein theoretisch hätte ich mich als Kind sowieso nicht für Matke-Kurven-Diskussion interessiert, obwohl ich recht gut in Mathe war. Aber wenn man jetzt eine Zeitmaschine hätte und mir als Kind sagen würde:
+
+"Du willst jetzt unbedingt wissen wie ein ...
+
+* 6581er SID-Chip
+* Yamaha OPL3-Chipp
+
+oder ein
+
+* 8250 UART-Chip
+* 16550er - Chip
+
+... funktioniert und begreiffen was der Unterschied zwischen dem 8250er und dem 16550er ist"
+
+... dann wäre ich dem zu 100% als Kind auf den Leim gegangen und hätte dann komplett im Vergessen freiwillig Mathe, Informatik und Elektronik gelernt

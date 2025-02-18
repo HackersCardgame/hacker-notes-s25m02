@@ -1,0 +1,12 @@
+System log for account marc.landolt@yetnet.ch (msn) connected at 27.01.2007 17::29::47
+---- +++ marc.landolt@yetnet.ch hat sich angemeldet @ 27.01.2007 17::29::47 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 27.01.2007 17::41::31 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 27.01.2007 18::50::26 ----
+---- Çanlar kimin için çalıyor? hat den Status von Offline zu Verfügbar geändert @ 27.01.2007 19::02::39 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 01.01.1970 01::00::00 ----
+---- Çanlar kimin için çalıyor? hat den Status von Verfügbar zu Offline geändert @ 27.01.2007 19::06::43 ----
+---- Çanlar kimin için çalıyor? hat den Status von Offline zu Verfügbar geändert @ 27.01.2007 19::08::50 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 27.01.2007 19::27::55 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ marc.landolt@yetnet.ch hat sich abgemeldet @ 28.01.2007 02::45::24 ----

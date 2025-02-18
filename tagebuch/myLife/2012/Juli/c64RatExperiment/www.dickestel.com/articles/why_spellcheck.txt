@@ -1,0 +1,27 @@
+A Good Reason to Spellcheck the Old-fashioned (Commodore) Way
+
+Before computers came on the scene, word processing consisted of pen or typewriter on paper. The
+prudent followed with proofreading all but the most casual work. And more often than not, the needed
+corrections required redoing the work.
+
+The advent of word processors brought a lot of relief to that methodology. Instead of retyping an entire
+effort after the proofreading, merely making needed changes in the text finished the work. This in turn
+brought about improved composition. The ease with which corrections could be made encouraged the
+writer to focus on creation rather than the mechanics of spelling, etc.
+
+Next came spellcheckers. The computers of the day (including Commodore) lacked sufficient memory
+to hold a large dictionary. So spellchecking was performed as a separate task following the writing
+effort. This proved faster than looking words up manually and had the advantage of catching errors
+overlooked by the eye.
+
+Today, though, the newest computers perform spellchecking as the document is typed. That is, if a
+word is typed that is not contained in the program's spelling dictionary, it is immediately flagged, often
+highlighted with a red line under it.
+
+At first thought, this instant spellcheck may sound like a good idea. However, many users find that it
+interrupts the flow of thought, prompting some to turn off the feature. But then they don't bother to
+spellcheck the finished work. On the other hand, those who do use the feature tend to forgo
+proofreading completed work. As a consequence, omitted words, lapses in grammar, and typo's witch
+otherwise from correctly spilled wards escape detection.
+
+(From the Civic 64/128 Gazette, Oxnard/Ventura CA, April 2000)

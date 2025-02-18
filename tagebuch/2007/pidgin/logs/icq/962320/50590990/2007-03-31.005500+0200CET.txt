@@ -1,0 +1,22 @@
+Conversation with 50590990 at 31.03.2007 00::55::00 on 962320 (icq)
+(01:03:14) landev: von meinem Server aus komme ich nicht auf www.away.ch:
+largo:$ telnet www.away.ch 80
+Trying 195.170.175.20...
+Connected to away.ch.
+Escape character is '^]'.
+GET /
+
+
+
+^]
+telnet> cl
+Connection closed.
+
+Das deutet auf ein Serverproblem hin und die Ursache wird kaum beim Windows-client liegen.
+
+
+Ein schönes Wochenende
+ Ueli Heuer
+
+(01:03:16) Dominik <AUTO-REPLY>: I am currently away from the computer.
+(01:06:47) landev: i vermuete wenn er en neue firewall/router bi euch händ, dass es allefalls en iistellig för ipv6 het uf em router aber nid bi dir uf em server, das wörd heisse, dass es allefalls goht, wenn du ipv6 installiersch uf dim server, oder das de typ wo de router konfigueriert het die iistellig use nimmt... das isch zumindescht mini vermuetig... 

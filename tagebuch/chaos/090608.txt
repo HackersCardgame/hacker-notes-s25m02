@@ -1,0 +1,38 @@
+Tagebuch Mo 8 Jun 2009 19:45:12 CEST @ marc-landolts-macbook-3.local
+
+wieder einmal ein stressiger tag. wieder einmal die frage, will ich das
+wirklich für den rest meines lebens?
+
+immer der stress kombiniert mit meiner ich-kann-es-nicht-auf-die-leichte-schulter-nehmen art.
+
+sobald etwas nicht mehr funktioniert im netz fühle ich mich doch recht verantwortilch.
+mein herz rast jewieils
+
+wenn es doch mein netz wäre und ich es aufgebaut hätte und ich jeden winkel kennen würde, doch so ist es nicht
+es ist wie ein zimmer dass mit becherchen vollgestellt ist, die bis zum rand mit wasser gefüllt sind.
+
+wenn ich es selber im griff hätte, dann könnte ich es leichter nehmen, ich würde sauber backup machen und wüsste 
+ich kann irgend ein backup zurückspielen. doch das kann ich nicht, da ich nciht mal einen leserecht shell habe...
+
+dann muss man -sagt die vernunft- der imp melden, dass wir was gemacht hätten, weil duchaus die möglichkeit besteht
+dass das der grund für das problem ist. und dann ist es halt doch scheinbar so, dass es gleichzeitigkeit von ereignissen ist
+
+das geburtstagsparadoxon lässt grüssen. 
+
+ich hätte auch die passworte wohl besesr nicht rausgegeben.
+vertrauen. ich meine das sind profis, mit inklusive mcse. kann ja auch gut sein, dass es ein ungeschick war, wie allen
+schon mal passiert ist.
+
+und dann war das problem, dass es auf irgendeinem host gehostet war und niemand die IP wusste. das war wohl das eigentliche
+problem. und dann kommt noch dazu, dass der support der seite das telefon nicht abnahm.
+
+massnahmen
+1. Schulung DNS oder imp und allenfalls ich bearbeite zonen
+2. Dokumentation der Domänen
+
+wie auch immer, chatten mit rana, das ist irgendwie entspannend....
+
+
+
+
+

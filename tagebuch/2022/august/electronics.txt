@@ -1,0 +1,58 @@
+Halli Hallo @Pixtxa und für @foobar299 Rabi könnte das auch noch spannend sein
+
+Mir fällt es schwer, zwischen fördern und fordern den richtigen Mittelweg zu finden. Ich hoffe ich habe Dich nicht überfordert. Ich denke mir aber Dich könnte das interessieren also erkläre ich das noch mit den Bus'sen:
+
+Adress Bus:
+Da wird gesagt welcher Stelle im Ram adressiert werden soll
+
+Datenbus:
+Da wird gesagt was in diese Speicherstelle geschrieben/gelesen werden soll
+
+Steuerbus:
+Da wird gesagt ob lesen oder schreiben
+
+Three-State-Latches:
+sind Element die 0, 1 oder Hochohmig sein können.
+-> So kann man mehrere Geräte an einem Bus System haben ohne dass sie sich gegenseitig in die Quere kommen. Also immer nur die beteiligten Geräte am Bus haben 0 oder 1, alle anderen sind auf Hochohmig gestellt
+
+Dieses Wissen lernt man nicht beim Arduino, da ist alles auf einem einzelnen Chip (System on Chip, SoC), wenn man das genauer verstehen möchte lernt man das am besten mit dem Schema eines #C64 und schaut sich dort mal an wie das mit dem C64 #Assembler geht. Wenn man Lust hat. Ich füge unten noch meine Notizen von damals dazu. Darum geht es eigentlich bei #VintageComputing und nicht wie Reini einfach das Gehäuse wieder schön zu machen, aber sag ihm das nicht, ich will ihn nicht beleidigen und er macht das ja für gute Zwecke.
+
+Falls es Dich interessiert musst Du auch nicht tiefen Selbstwert entwickeln weil das soooooo viel ist. Ich hatte dazu 1 Semester in der ABB TechnikerSchule zeit dafür. So 2h in der Woche bis ich das begriffen habe. Der Lehrer hat das eigentlich gut erklärt, aber die anderen der Klasse haben es nicht begriffen. Parallel zur Vorlesung welche die grundlegenden Dinge erklärt ist es alternativlos dann auch z.B. das C64 Schemata anzuschauen. Ich war der einzige in der Klasse der selber zuhause diese Eigenleistung erbracht hat. Der Lehrer hat die 
+
+Dinge im selben Kontext wären auch diese hier [1,2,3,4] 
+
+
+[1] https://hackaday.com/2016/04/30/megaprocessor-is-a-macro-microprocessor/
+[2] https://www.youtube.com/watch?v=lNa9bQRPMB8
+[3] https://monster6502.com/
+[4] https://eater.net/vga
+
+
+
+Mal eine richtig piratige FRAGE AN MARKUS:
+(so wie die Partei vor 10 Jahren war)
+
+Gibt es im #PiratenWesen jemanden, der einem erklären kann, wie #Datenbus,#Adressbus & #Steuerbus zusammen hängen & weshalb man nen 3-State-Latch braucht?
+
+Nicht weil ich es nicht wüsste aber weil einem @Arduino dieser Erfahrung beraubt-> #VintageComputing zB #C64
+
+https://twitter.com/PinkyDef/status/1554336831646449664
+
+sowiso kein budget, aber dafür kann ich mich mehr und länger freuen auf das nächste mal aarau
+
+3-state-latch ist eine schaltung um an bus-systemen teil zu nehmen. An einem Bus hängen ja mehrere devices / chips. Wenn man binär nur 0 oder 1 hätte würde es ja auf allen 8 Leitungen einen Kurzschluss geben wenn das eine Bus-Gerät 00000000 und das andere 1111111 senden würde. Also kann man entweder eine 0 oder 1 senden, oder nur zuhören (Hochohmig) -- ok ich sehe da definitiv ein busines modell für mich den Wikipedia Artikel zu Adressbus, Datenbus und Steuerbus richtig zu machen. Zeit und Lust zum Korrekturlesen wenn/falls ich es schaffe?
+
+
+Diskussion:Systembus
+Zur Navigation springen
+Zur Suche springen
+Hands-On
+
+Der Artikel erklärt meiner Meinung alles richtig. Was man aber noch hinzufügen könnte, um sich ein besseres Bild der elektronischen Details machen zu können, wäre der Hinweis auf Retrocomputing. Retrocomputing "zur Sicherung des Wissens". An einem C64 ist alles noch so einfach, dass man es gut verstehen kann nach z.B. einem Semester Rechnerarchitektur. Auch sieht man auf dem Schaltplan eines C64, wie gleichzeitig mehrere Dinge am Bus hängen, RAM, ROM, etc. Die Grafik im Artikel zum Bus System finde ich gut, aber ein Hinweis darauf, dass man dann in diese Grafik weiter hinein "zoomen" kann um zu vestehen wie es sich mit auf WriteEnable [WE], ChipSelect [CS] oder Clock [Clk] im Detail verhält. Dazu eignet sich wie bereits erwähnt z.B. der Schaltplan des C64.
+
+Dann im selben Kontext dürfte man auch darauf hinweisen, dass ein System-on-a-Chip bzw. ein Mikrocontroller wie der Arduino_(Plattform) einem das oft ab nimmt. Da Datenbus, Adressbus und Steuerbus direkt im Chip vergossen sind besteht von aussen keine Zugriffsmöglichkeit. Das ist bei Arduino insofern Didaktisch schlecht, weil so der Enduser das Gefühl hat alles begriffen zu haben. Heutige Computer komplett zu begreifen ist praktisch nicht mehr möglich für Laien, aber einen C64 und somit die grundsätzliche Funktionsweise kann man noch verstehen.
+
+Beim C64 ist auch die Assembler (Informatik) Sprache vergleichsweise einfach, so dass man sich gemäss der Hackerethik im "Hands on" üben kann, Hardware und Software im Zusammenhang verstehen lernt.
+
+46.126.16.87 09:11, 2. Aug. 2022 (CEST) Landev
+

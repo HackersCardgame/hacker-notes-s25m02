@@ -1,0 +1,29 @@
+Sat 01 May 2021 07:40:39 AM CEST
+nach dem ich jetzt 10h mein zercybertes netzwerk repariert habe geht einigermassen wieder alles... oder das wichtigste
+
+also muss ich petzen
+
+COOP <=> COP <=> MND und der Militärische Abschirmdienst ist vorallem dazu da Zeugen von der Öffentlichkeit abzuschirmen, dass diese nicht so dinge wie Targeting über Coop überwachungs infrastruktur verpetzen... "theoretisch"
+
+Sat 01 May 2021 07:42:19 AM CEST
+  8  59 407 cyberWAR20210501.txt
+66a53aafcb60ade452fea5575921b816f7d2b9e7454b51a38c57c1d02a1a2bd091eb9b8697fb57c4741af937d65cb415f880dd0dec3c6fedfb82b2fc83f9262a  cyberWAR20210501.txt
+[master 7db0e60] save
+ 2 files changed, 18 insertions(+)
+ create mode 100644 tagebuch/cyberWAR20210501.txt
+ create mode 100644 triggerDuke-state-machine-home-network.txt
+
+
+2 + 2 = 5 => 2 Jahre nicht in den Coop gehen dürfen um die Nummer 2 auf etwas anderes zu prägen
+
+- zuspruch für die Täterscahft
+- traumabased mindcontorl für das einhorn (mich)
+
+ABER, dummerweise ist jetzt für die Körperverletzung über die coop überwachungsinfrastruktur noch mehr aufgeflogen... also das ist vermutlich nach hinten losgegangen...
+
+Sat 01 May 2021 11:06:12 PM CEST
+  24  144 1153 cyberWAR20210501.txt
+b4bacd1dfc38d6120a20c45119c1e61eee0a54743d964dfd77faac9d5d614232c988aa94c7795af8f96e53647939c149f204ba7a15248a02da66cb851f1def8c  cyberWAR20210501.txt
+[master 6f8008d] save
+ 1 file changed, 2 insertions(+)
+

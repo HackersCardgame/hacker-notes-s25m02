@@ -1,0 +1,16 @@
+System log for account 962320 (icq) connected at 17.05.2007 11::35::43
+---- +++ 962320 hat sich angemeldet @ 2007-05-17 11:35:43 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 2007-05-17 11:35:44 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-05-17 11:35:44 ----
+---- Dominik wurde untätig @ 2007-05-17 11:48:58 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-17 11:52:19 ----
+---- Dominik wurde tätig @ 2007-05-17 11:52:19 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-17 11:57:13 ----
+---- stefan hat den Status von Abwesend zu Offline geändert @ 2007-05-17 12:09:41 ----
+---- Dominik wurde untätig @ 2007-05-17 12:11:12 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-17 12:21:49 ----
+---- Dominik wurde tätig @ 2007-05-17 12:21:49 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-17 12:22:51 ----
+---- tdr-timon hat den Status von Offline zu Bereit zum Chatten geändert @ 2007-05-17 12:25:38 ----
+---- Dominik wurde untätig @ 2007-05-17 12:36:50 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-05-17 12:38:04 ----

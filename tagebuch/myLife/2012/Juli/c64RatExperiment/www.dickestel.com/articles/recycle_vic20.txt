@@ -1,0 +1,23 @@
+Recycle the VIC-20
+
+Why? What use is it? Salvage!
+
+The easiest VIC-20 item to salvage is the power supply. Did you know that it is the same power supply
+used by the C64? 'Nuff said.
+
+The VIC-20 keyboard is an exact replacement for the C64, physically, mechanically, and
+electronically. The transplant operation is fairly simple: 3 screws to open the case, another 8 screws to
+remove the keyboard. Just take care removing the plug that connects it to the motherboard. Use the
+same procedure removing the "dead" keyboard from the C64 and swap 'em.
+
+Missing one of those little rubber pads from the bottom of your 64? Roll over VIC, you old dog! What
+else?
+
+Chips? Dip into the VIC-20 for a pair of 6522's and 6502--all used in the 1541 disk drive.
+
+With a soldering iron, you might want the joystick port, the DIN power, serial and video ports, and
+chip sockets. I witnessed a C-128 come back to life with an on/off switch carefully removed from
+a...Well, by now, I hope you've gotten the point! 
+
+(From Novacom Random Bits, March 1996, via the LCCUG February 1996 Newsletter, Eugene, OR; with credit to Bill
+Southam, HACG via the Commodore Information Center http://home.att.net/~rmestel/commodore.html)

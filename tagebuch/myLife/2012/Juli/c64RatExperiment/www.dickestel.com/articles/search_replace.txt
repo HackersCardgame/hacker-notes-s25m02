@@ -1,0 +1,62 @@
+Search and Replace
+
+by Rolf Miller
+
+As I have before extolled, I continue to use a Commodore 64 because it does everything I ask of it,
+and what I ask of it is most of what I do with computers, and it does it easier than I could do it on a
+more powerful machine. 
+
+And I know the latter is true because acquaintances of mine with bigger PC's have attempted to show
+me how they could do it easier. I suspect that these folks ganged up on me the other day because I
+received a document via e-mail which contained a rather complex bunch of lines, boxes, etc. It existed
+in legal size. They wanted it reduced to letter size. And they said they couldn't do it. 
+
+Well, that's silly. If nothing else, the document could be printed, then reduced at a copy shop. But I
+think they thought that because the document existed in the Windows environment, it would be beyond
+the Commodore's ability. So, I accepted the challenge. Saving a Windows document as a text file is
+easily done, as is transporting it to the Commodore platform. Then came the real challenge: recreating
+the boxes, etc. These, naturally, appeared as garbage characters on the screen because the
+Commodore character set doesn't contain them. 
+
+Much of what I do involves producing text in one form or another. For this I use The Write Stuff
+(TWS) word processing program. I realize not everyone uses TWS, but most word processors have a
+SEARCH and REPLACE function. This allows searching for a character, word, or phrase and
+replacing it with a character, word, or phrase. 
+
+In addition to the normal alpha-numeric characters, TWS also allows use of the graphic characters
+available from the keyboard on the @ * + - keys and all those obtained with use of the Commodore
+key. This provides for creating various items, including lines and boxes. 
+
+Examining the garbage characters determined which keyboard graphics would create the lines and
+boxes they represents. Then began the searching and replace process. This easily accomplished some
+of the conversions, but it didn't take long to figure out that a fair amount of work lay ahead. This
+prompted another course. 
+
+One of the reasons things are easier to do on the 64 is its affinity to programming, and writing little
+routines to accomplish tasks such as this is one activity that requires little prodding at this desk. In this
+case, though, a routine already existed, previously written to perform a similar task. A little revising fit it
+to this job. This program called for a sequential text file, and each line of text had to contain just one
+leading space in order to accommodate the logic that determined which graphic character to substitute. 
+
+With normal text this is easily accomplished by printing to disk with the left margin set to 1. However,
+the garbage contained characters which TWS uses as formatting codes. Thus, printing to disk would
+destroy the format. 
+
+SEARCH and REPLACE came to the rescue. Doing a search for a carriage return and replacing it with
+a carriage return and a space provide the leading space. Then switching to ASCII and saving the
+document as a sequential file maintained that format. After running the program, loading the resulting file
+back found the graphics perfectly formed. 
+
+Doing a search for a carriage return and a space and replacing it with a carriage return removed the
+leading space. Then, doing a search for a carriage return and replacing it with the printer code for
+graphic linefeed, a carriage return, and the printer code for text printing provided for printing the graphic
+characters to appear joined when printed. 
+
+It's noted in this that using a graphic linefeed for printing text prints lines without any space between
+them. To allow for this, a carriage return with the appropriate graphic is added to lines which involve
+both text and graphics. This produces text with about 1 1/2 line spacing. (And, I suppose, this is where
+GEOS users can come in.) As for the challengers, they thanked me for the document without further
+comment.
+
+From Homestead Commodore Internet Mail List, via the Commodore Information Center,
+http://home.att.net/~rmestel/commodore.html

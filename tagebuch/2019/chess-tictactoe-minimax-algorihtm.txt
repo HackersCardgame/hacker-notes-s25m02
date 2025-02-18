@@ -1,0 +1,17 @@
+
+gespielt? Ich verliere zu ca 97% gegen mein eigenes Programm 😭😭😭😭😭
+Kollege von mir (Präsident bei der Piraten Partei Aargau) schlägt es fast jedes mal, er war aber als Kind im Schach-Club und hat dort gelernt wie man Schachcomputer schlägt
+
+Grundsätzlich nennt sich der Algorihtmus "MiniMax-Algorihtmus" [1]. Der rechtnet z.B. 5 Züge voraus. Schaut was kann ich für meine Seite am besten machen, dafür braucht man eine Auswertung, z.B. wieviele von den eigenen Figuren noch am leben sind [BILD1] und der Algorithmus selber ist in der Datei minimax.js [BILD2]
+
+Ein Schachprogramm wollte ich 20 Jahre lang programmieren, habe dann aber immer gedacht "das schaffe ich sowieso nie" und dann habe ich mich vor 3 Jahren mal hin gesetzt und es innerhalb von 12h am Stück doch geschafft bis das mal funktioniert hat.
+
+Da kannst Du auch schauen wie ich vorgegangen bin [BILD3]. Dann gibt es noch einen Trick um das mit dem Algorihtmus zu begreifen. Man kann zuerst ein Tic-Tac-Toe Programmieren [2] das den selben Algorithmus braucht aber das ist viel einfacher um das Konzept zu verstehen.
+
+[1] https://de.wikipedia.org/wiki/Minimax-Algorithmus
+Ermittlung der optimalen Spielstrategie für endliche Zwei-Personen-Nullsummenspiele
+(Das ist Mathematik, sollte man auch lernen)
+
+[2] https://0x8.ch/tictactoe.js/
+Link zum Github repository mit dem Source ist auch wieder ganz unten
+

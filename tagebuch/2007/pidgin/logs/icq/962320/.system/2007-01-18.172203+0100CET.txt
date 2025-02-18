@@ -1,0 +1,42 @@
+System log for account 962320 (icq) connected at 18.01.2007 17::22::03
+---- +++ 962320 hat sich angemeldet @ 18.01.2007 17::22::03 ----
+---- shrike hat den Status von Offline zu Abwesend geändert @ 18.01.2007 17::22::04 ----
+---- shrike hat den Status von Abwesend zu Abwesend geändert @ 18.01.2007 17::22::04 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 18.01.2007 17::22::04 ----
+---- Dominik wurde untätig @ 18.01.2007 17::22::04 ----
+---- Dominik hat den Status von Abwesend zu Abwesend geändert @ 18.01.2007 17::22::04 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 18.01.2007 18::05::30 ----
+---- shrike wurde tätig @ 18.01.2007 18::05::30 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 18.01.2007 18::07::16 ----
+---- Dominik wurde tätig @ 18.01.2007 18::07::16 ----
+---- Dominik hat den Status von Verfügbar zu Verfügbar geändert @ 18.01.2007 18::07::17 ----
+---- shrike hat den Status von Verfügbar zu Verfügbar geändert @ 18.01.2007 18::09::50 ----
+---- Dominik hat den Status von Verfügbar zu Verfügbar geändert @ 18.01.2007 18::09::50 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 18.01.2007 18::26::10 ----
+---- +++ 962320 wurde untätig @ 18.01.2007 18::24::46 ----
+---- vortex hat den Status von Offline zu Verfügbar geändert @ 18.01.2007 18::39::00 ----
+---- vortex hat den Status von Verfügbar zu Verfügbar geändert @ 18.01.2007 18::39::00 ----
+---- vortex hat den Status von Verfügbar zu Verfügbar geändert @ 18.01.2007 18::39::03 ----
+---- vortex hat den Status von Verfügbar zu Verfügbar geändert @ 18.01.2007 18::39::10 ----
+---- vortex hat den Status von Verfügbar zu Verfügbar geändert @ 18.01.2007 18::39::10 ----
+---- vortex hat den Status von Verfügbar zu Verfügbar geändert @ 18.01.2007 18::39::19 ----
+---- Dominik hat den Status von Abwesend zu Abwesend geändert @ 18.01.2007 18::40::09 ----
+---- Dominik wurde untätig @ 18.01.2007 18::40::09 ----
+---- vortex hat den Status von Verfügbar zu Verfügbar geändert @ 18.01.2007 18::55::35 ----
+---- Dominik hat den Status von Abwesend zu Abwesend geändert @ 18.01.2007 18::55::35 ----
+---- shrike hat den Status von Verfügbar zu Verfügbar geändert @ 18.01.2007 18::55::35 ----
+---- vortex hat den Status von Verfügbar zu Offline geändert @ 18.01.2007 19::02::35 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 18.01.2007 19::18::11 ----
+---- Schööfli wurde tätig @ 18.01.2007 19::18::11 ----
+---- Schööfli hat den Status von Verfügbar zu Verfügbar geändert @ 18.01.2007 19::18::43 ----
+---- Schööfli hat den Status von Verfügbar zu Verfügbar geändert @ 18.01.2007 19::18::48 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 18.01.2007 19::19::55 ----
+---- Schööfli hat den Status von Abwesend zu Abwesend geändert @ 18.01.2007 19::19::57 ----
+---- Schööfli wurde untätig @ 18.01.2007 19::19::57 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- Schööfli hat den Status von Abwesend zu Abwesend geändert @ 18.01.2007 19::41::39 ----
+---- shrike hat den Status von Verfügbar zu Verfügbar geändert @ 18.01.2007 19::41::39 ----
+---- Dominik hat den Status von Abwesend zu Abwesend geändert @ 18.01.2007 19::41::39 ----
+---- +++ 962320 wurde untätig @ 18.01.2007 19::47::53 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ 962320 hat sich abgemeldet @ 19.01.2007 05::27::46 ----

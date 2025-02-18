@@ -1,0 +1,48 @@
+Conversation with 50590990 at 27.05.2007 20::48::50 on 962320 (icq)
+(20:48:50) Dominik: jetzte verschicke si scho vire als Ricardo email :
+(20:48:57) Dominik: Sehr geehrte Recardo.ch Kunde, 
+ 
+in diesem Mail erhalten Sie ihr aktuelles Kontoübersicht. 
+ 
+Noch nicht verrechnet CHF 420.60 
+Kontosaldo CHF 270.90 
+Total zu Gunsten ricardo.ch CHF 700.50 
+ 
+Das ausführliche Kontoübersicht ist dieser Email als PDF-Datei in Attachment angehängt. 
+ 
+Schönen Tag noch, 
+Wünscht Ihnen ihr Recardo Team 
+
+(20:49:18) landev: chasch mer das wiiterleite, ich sammle drum so dinger...
+(20:49:24) landev: so als voorlag
+(20:49:44) Dominik: inklusive xxx.pdf.exe
+(20:49:54) landev: genau...
+(20:50:14) Dominik: doof outlook wot de ahang nid wiiterleite
+(20:50:25) landev: chasch jo per webmail druuf...
+(20:50:40) Dominik: gueti idee
+(20:51:16) Dominik: uf weli mailadrässe ?
+(20:52:07) landev: landev@away.ch
+(20:52:09) Dominik: verdammt dä wot de ahang au nid mitschikke
+(20:52:30) landev: abelade und per söscht öppisem schicke?
+(20:52:43) Dominik: ich kopier ders schnäll i dis mailboxfile
+(20:52:50) landev: ah das goht?
+(20:52:59) Dominik: jo
+(20:53:11) landev: so vell zum thema prvatsphäre...
+(20:53:36) Dominik: jo daf i dis mailboxfile nid ufmache ? muesch es säge ?
+(20:53:44) landev: natürli...
+(20:53:49) Dominik: ok
+(20:54:08) landev: normaler wiis sind drum d mailprogramm hütt glaub so, dass au de admin nömme cha luege...
+(20:54:40) Dominik: sicher nid
+(20:54:46) landev: glaub scho...
+(20:54:50) Dominik: das sind normalerwiis normali txt files
+(20:54:51) landev: zumindescht lotus notes....
+(20:54:57) landev: im exchange...
+(20:54:58) landev: sicher ned...
+(20:55:28) Dominik: verdammt wiiiiiisoo mach min server 1 Files us allne mails
+(20:55:33) Dominik: das machts verdammt lahm
+(20:55:43) landev: was?
+(20:55:48) landev: chome nid drus...
+(20:55:50) Dominik: vorallem bis i das file mit em editor ufgmacht han
+(20:56:06) landev: i wörd das jo nid mache...
+(20:56:16) landev: denn lauft nächer sicher din mailserver nömme....
+(20:56:43) landev: also pro user 1 file oder pro server 1 mail...

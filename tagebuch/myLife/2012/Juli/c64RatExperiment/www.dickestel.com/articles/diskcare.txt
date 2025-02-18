@@ -1,0 +1,36 @@
+Floppy Disk Handling and Storage
+
+1. Do not touch disk surface.  It is easily contaminated, which causes errors.
+
+2. Do not use alcohol, thinners, or freon to clean disk.
+
+3. Do not use magnets or magnetized objects near the disk.
+
+4. Do not bend or fold the disk.
+
+5. Do not place heavy objects on the disk.
+
+6. Do not use rubber bands or paper clips on the disk.
+
+7. Do not write on disk label with pencil or ball-point pen.  Use felt-tip pen only.
+
+8. Do not use erasers on disk.
+
+9. Apply index label to the right of brand label.
+
+10. Insert carefully by grasping upper edge and placing it into the drive.
+
+11. Keep disk in its protective envelope when not in use.
+
+12. Disks not being used should be stored vertically in their box.
+
+13. Do not expose the disk to excessive heat and or sunlight.
+
+16. While in transit the disk should be in its envelope in a protective box.
+
+
+Numbers 14 and 15 referred to temperature to which disks should be submitted.  Summarized, the
+operating and storage environment for disks should be in the range of 50-122 degrees Fahrenheit.
+
+(from "Syntax Error" newsletter 2/86, via The Commodore Information Center web site
+(http://home.att.net/~rmestel/commodore.html) )

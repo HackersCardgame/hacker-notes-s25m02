@@ -1,0 +1,60 @@
+Moinsen
+
+@fhainalex redet ja davon dass "der Gerät sagt dass ...". Ich hab mich ja mal bisschen mit Natural Language Processing beschäftigt und auch ein bisschen mit Deep Learning.
+
+Minkorrekt spricht im letzten Podcast zwar von GPT3 aber nicht wie das funktioniert.
+
+Da denkt man ja anfänglich oft, dass das Hexenwerk ist und dass man das nie verstehen würde, aber so schwierig ist das gar nicht.
+
+Man nimmt tausende Sätze zB aus dem Internet sätze, z.B aus einer Kindergeschichte:
+
+"Der Koenig ist ein Mann der ein Koenigreich regiert. Die Koenigin kocht fuer ihn einen Apfel Kuchen"
+  1    2    3   4    5   6   7      8         9      10   11      12   13  14   15    16    17
+  
+"In ein Birchermüesli gehören Äpfel, Birnen, Bananen, Haferflocken, Joghurt ..."
+ 1   2       3           4      5      6        7          8           9
+
+Man gibt jedem Wort im #VektorRaum eine Richtung. Im 3D Raum haben wir nur drei Richtungen oder Dimensionen die man verwenden kann, in der Mathematik kann man aber auch 1'000'000 Dimensionen verwenden auch wenn man sich das nicht vorstellen kann bildlich.
+
+Man berechnet jetzt den Abstand der Wörter:
+
+der <-> König        : 1
+der <-> ist          : 2
+der <-> ein          : 3
+...
+der <-> regiert      : 9
+...
+König <-> Mann       : 2
+...
+König <-> Königreich : 7
+König <-> Königin    : 9
+Königin <-> kocht    : 1
+König <-> kocht      : 10
+Mann <-> kocht       : 7
+
+Apfel <-> Banane     : 1
+
+Man sieht schon in der Tabelle, dass Begriffe mit ähnlicher Bedeutung näher beieinander sind als Wörter die nichts miteinander zu tun haben.
+
+Man sieht aber auch grad, dass dann Vorurteile wie "Die Frau muss kochen" auch schon grad einprogrammiert wird.
+
+Also der Gerät hat keine Gefühle, das ist einfach Statistik, wenn auch sehr intelligente Statistik. Das Birgt auch gefahren, wenn ich jetzt tausend Texte wie "in Birchermüesli gehört Zyankali" ins Trainingsdatenset von OpenAI schmuggeln kann, oder einfach in der Vektor Tabelle beim Schnittpunkt von Birchermüesli und Zyankali eine 1 Mache wird der Gerät zwanghaft immer Zyankali ins Birchermüesli tun wollen.
+
+Dann nach dem die Puzzleteile gefunden wurden wird das einfach noch in einen korrekten Satz umgewandelt. Das ganze ist schon viel komplizierter, aber da Minkorrekt das eher nicht so erklärt hat fühle ich mich genötigt das nachzuliefern.
+
+Quelle der Bilder: https://towardsdatascience.com/deep-learning-for-nlp-word-embeddings-4f5c90bcdab5
+(da ist es noch ein bisschen detaillierter erklärt)
+
+
+
+tsp, grafikkkarte NVIDIA Server
+
+
+
+ist statistik nicht intelligenz, das Ding hat keine Gefühle
+
+dann ist das wort König auch öfters in der nähe von Mann als frau, z.B. aus einem Kinderbuch "Der König ist ein Mann der ein Königreich regiert" als Apfel
+
+
+
+SRC der Grafiken: https://towardsdatascience.com/deep-learning-for-nlp-word-embeddings-4f5c90bcdab5

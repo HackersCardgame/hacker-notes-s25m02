@@ -1,0 +1,63 @@
+System log for account marc.landolt@yetnet.ch (msn) connected at 06.04.2007 11::12::28
+---- +++ marc.landolt@yetnet.ch hat sich angemeldet @ 2007-04-06 11:12:28 ----
+---- Sonja hat den Status von Offline zu Abwesend geändert @ 2007-04-06 11:12:29 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-06 11:45:56 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-06 12:01:36 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-06 12:19:35 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- Sonja hat den Status von Abwesend zu Offline geändert @ 2007-04-06 13:05:59 ----
+---- Sonja hat den Status von Offline zu Abwesend geändert @ 2007-04-06 13:06:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-06 13:04:22 ----
+---- gizembakgor@hotmail.com hat den Status von Offline zu Verfügbar geändert @ 2007-04-06 13:35:19 ----
+---- gizembakgor@hotmail.com hat den Status von Verfügbar zu Beschäftigt geändert @ 2007-04-06 13:35:27 ----
+---- gizembakgor@hotmail.com hat den Status von Beschäftigt zu Offline geändert @ 2007-04-06 13:36:47 ----
+---- missisipi hat den Status von Offline zu Verfügbar geändert @ 2007-04-06 13:37:28 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- gizembakgor@hotmail.com hat den Status von Verfügbar zu Beschäftigt geändert @ 2007-04-06 13:56:48 ----
+---- gizembakgor@hotmail.com hat den Status von Beschäftigt zu Verfügbar geändert @ 2007-04-06 13:57:51 ----
+---- gizembakgor@hotmail.com hat den Status von Verfügbar zu Offline geändert @ 2007-04-06 13:58:46 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-06 13:52:45 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- gizembakgor@hotmail.com hat den Status von Offline zu Verfügbar geändert @ 2007-04-06 14:08:11 ----
+---- gizembakgor@hotmail.com hat den Status von Verfügbar zu Offline geändert @ 2007-04-06 14:09:46 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-06 18:01:53 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-06 18:24:18 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-06 19:07:40 ----
+---- Sonja hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-06 20:50:12 ----
+---- Sonja wurde untätig @ 2007-04-06 20:57:12 ----
+---- Sonja wurde tätig @ 2007-04-06 21:01:31 ----
+---- Sonja wurde untätig @ 2007-04-06 21:06:33 ----
+---- Sonja wurde tätig @ 2007-04-06 21:06:58 ----
+---- Sonja wurde untätig @ 2007-04-06 21:12:01 ----
+---- Sonja hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-06 21:27:08 ----
+---- Sonja wurde tätig @ 2007-04-06 21:27:08 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-06 22:07:16 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- Sonja hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-06 22:39:12 ----
+---- Sonja wurde untätig @ 2007-04-06 22:39:12 ----
+---- gizembakgor@hotmail.com hat den Status von Offline zu Verfügbar geändert @ 2007-04-06 22:47:31 ----
+---- Sonja wurde tätig @ 2007-04-06 22:48:48 ----
+---- gizembakgor@hotmail.com hat den Status von Verfügbar zu Beschäftigt geändert @ 2007-04-06 22:51:22 ----
+---- gizembakgor@hotmail.com hat den Status von Beschäftigt zu Verfügbar geändert @ 2007-04-06 22:53:11 ----
+---- gizembakgor@hotmail.com hat den Status von Verfügbar zu Beschäftigt geändert @ 2007-04-06 22:53:41 ----
+---- Sonja wurde untätig @ 2007-04-06 22:53:51 ----
+---- gizembakgor@hotmail.com hat den Status von Beschäftigt zu Verfügbar geändert @ 2007-04-06 22:54:45 ----
+---- gizembakgor@hotmail.com hat den Status von Verfügbar zu Beschäftigt geändert @ 2007-04-06 22:55:17 ----
+---- gizembakgor@hotmail.com hat den Status von Beschäftigt zu Verfügbar geändert @ 2007-04-06 22:57:02 ----
+---- Sonja hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-06 23:08:51 ----
+---- Sonja wurde tätig @ 2007-04-06 23:08:51 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-06 23:02:26 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-06 23:26:04 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-06 23:40:37 ----
+---- HEDONİST'İM hat den Status von Verfügbar zu Offline geändert @ 2007-04-07 00:15:34 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-07 00:57:22 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch hat sich abgemeldet @ 2007-04-07 12:08:25 ----

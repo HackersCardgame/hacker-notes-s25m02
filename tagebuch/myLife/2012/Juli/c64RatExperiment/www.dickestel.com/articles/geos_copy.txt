@@ -1,0 +1,17 @@
+GEOS Copying Tip
+
+By William E. Robblets
+
+If you have files on Drive A that you are going to copy to drive B, instead of dragging the "Multi-File"
+to Drive B and clicking, you can copy the files as intended by simply pressing the F2 (shift F1) function
+key.
+
+This works if you want to copy a single marked file or several marked files from Drive A to Drive B.
+
+To reverse this and copy from Drive B to Drive A press the F1 function key.
+
+I have tested and used the above tip for copying files only on the regular Desk Top of GEOS  128
+version 2.0. No other GEOS versions have been tested as of this writing including C-64 versions.
+
+(From GEOS Publication, February 1997; copyright 1997 William E. Robblets, used by permission; via The Commodore
+Information Center web site (http://home.att.net/~rmestel/commodore.html) )

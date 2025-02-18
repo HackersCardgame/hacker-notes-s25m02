@@ -1,0 +1,31 @@
+After 5h of annoyance i could find the big picture:
+
+Psychological dimension:
+1. input devices are in contact with the body, therefore they have stronger influence on the psyche [1] than just content shown on screen
+2. it's some sort of an additonal selector, satan can just motivate the user to draw a painting
+3. the user is then normally in creative mode, therefore the target falls deeper (dy/dt of mood)
+
+technical dimension:
+it's not just a single malware, it's some sort of state machine [2] that conatins multiple malwares that also includes the homefield surveillance [3] and more less friendly [4] things.
+
+This state machine recognizes if one solved a one of the problems
+
+
+for younger people
+- having good frustration tolerance really helps
+- multiple problems at the same time makes the problem more complex and they seem to enjoy to annoy younger people with that concept, so they updated "Basically the NSA, they want to be able to spy on you, and if they have 10 different options for spying on you that you know about, they have 13 ways of doing it and they do all 13." from Jacob Applebaums Talk "To protect and infect part 2", the 13 ways are now linked together to a state machine that recognizes [5] if a problem is solved nearly 80%, then the state machine switches to next problem, while they annoy you with problem no.2 they rollback problem no.1 that was solved 80% to 10%. Maybe you know that from repairing tanks with the repair tool (wrench) in BFBC2, it depends if you use it for tanks of your team or of the other team.
+
+
+[1] ![koerpertherapie](/uploads/805c452cc433dab7284ce1fdaf5789e0/koerpertherapie.PNG)
+https://de.wikipedia.org/wiki/K%C3%B6rperpsychotherapie#Zugang_zum_Unbewussten
+(there is also a English article and maybe we should not blame wilhelm reich, i think he is just the guy that leaked that principle)
+
+[2] ![co1](/uploads/ffa6df86697e0ae060b2303cca9d25e3/co1.jpg)
+
+[3] ![m98](/uploads/70a20a61ae6272d545f55de9f61c0362/m98.jpg)
+
+[4] ![m99](/uploads/8e1872fc1f267478036683782d4418f1/m99.jpg)
+
+[5] ![a28](/uploads/543453b00d23f6fa64d375b80802d614/a28.jpg)
+
+[6] ![a17](/uploads/9651c4b8f509831ebeae08708c47e420/a17.jpg)

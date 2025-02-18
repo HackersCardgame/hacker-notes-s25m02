@@ -1,0 +1,6 @@
+System log for account 962320 (icq) connected at 08.03.2007 22::01::15
+---- +++ 962320 hat sich angemeldet @ 2007-03-08 22:01:15 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-03-08 22:01:16 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-03-08 22:01:16 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-03-08 22:01:16 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-03-08 22:03:27 ----

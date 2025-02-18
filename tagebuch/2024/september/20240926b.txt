@@ -1,0 +1,130 @@
+----=====  Thu Sep 26 07:38:21 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 0f45b8a80e90c72ee7a58b62aa42b0a0e31595fa ====----
+[main ce892eed] ... 0f45b8a80e90c72ee7a58b62aa42b0a0e31595fa
+ 1 file changed, 163 insertions(+)
+ create mode 100644 tagebuch/2024/september/20240926b.txt
+
+also das was man mir nachts um 01:00 verpasst haette ware etwas was die Nozizeption verschlimmert
+
+der regelkreis kopfschmerzen ist immer noch aktiv, also sendeinfrastruktur irgendwo in der nachbarschaft verbunden mit den daten zu meiem EEG oder Raumueberwachung. auch als ich das grad hier protkollieren moechte wird wieder ein Schmerzstoss aktiviert um mich vorm protokollieren abzuhalten.
+
+z.B action recognition "Den Editor GEDIT geoeffnet"
+
+dann solange diese sende-infrastruktur nicht ausgeschaltet werden kann messer meine aussagen 2x kontrollieren
+
+
+z.B vorher wurde mit einer angeberischen Walter Brigger stimme uebermittelt: Der Manimatter mit dem Lied "Bundestereasse" dass er das Bundeshaus in die luft sprengen koenne sei die Luftwaffe der schweizer armee selber und offiziere wuerden sich ubers paralament lustig machen weil viele von denen das bundeshaus irgendwie in die luft sprengen koentten
+
+
+dann der assange: most efficient way to torture people ist zB auftrags rechtsschutzversichrungen wie der zuerich versichreung.
+
+die zuerich versichrung kann marc jr landolt nur schlecht direkt ermorden, weil wenn marc jr landolt nach seiner aussage:
+
+Zusammengefasst:
+Urs Blum (aarau und zuerich versicherung) hat Philipp Blum (aarau) damit beauftragt die 3 ABB Administatoren (zurich) in einer Lavine zu ermorden damit Urs Blum (zurich Versichrung) und Gabriel Riela (zurich versichrung) footprinting und ennumeration betreiben koennen um danach 1 Milliarde von ABB Geldern abfliessen zu lassen udn ueber usa zu wschen
+
+
+also weisse folter ist um zeugen die man schlecht ermorden kann weil es dann die taeter noch mehr verdaechtig machen wuerde dazu zu bewegen weder vor Gericht, noch vor Interpol, Fedpol ... auszusagen
+
+
+Borhammer aktiviert worden = offene Morddrohung gegen marc jr landolt
+----=====  Thu Sep 26 07:42:13 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september ce892eed3df8c83a18b938a933196bbc7b7517e7 ====----
+[main 0c897c5d] ... ce892eed3df8c83a18b938a933196bbc7b7517e7
+ 1 file changed, 10 insertions(+), 155 deletions(-)
+
+
+marc@debian:~/hacker-notes-s24m09$ figlet most efficient way -w200
+                     _           __  __ _      _            _                         
+ _ __ ___   ___  ___| |_    ___ / _|/ _(_) ___(_) ___ _ __ | |_  __      ____ _ _   _ 
+| '_ ` _ \ / _ \/ __| __|  / _ \ |_| |_| |/ __| |/ _ \ '_ \| __| \ \ /\ / / _` | | | |
+| | | | | | (_) \__ \ |_  |  __/  _|  _| | (__| |  __/ | | | |_   \ V  V / (_| | |_| |
+|_| |_| |_|\___/|___/\__|  \___|_| |_| |_|\___|_|\___|_| |_|\__|   \_/\_/ \__,_|\__, |
+                                                                                |___/ 
+
+marc@debian:~/hacker-notes-s24m09$ figlet to torture people
+ _          _             _                                           _      
+| |_ ___   | |_ ___  _ __| |_ _   _ _ __ ___   _ __   ___  ___  _ __ | | ___ 
+| __/ _ \  | __/ _ \| '__| __| | | | '__/ _ \ | '_ \ / _ \/ _ \| '_ \| |/ _ \
+| || (_) | | || (_) | |  | |_| |_| | | |  __/ | |_) |  __/ (_) | |_) | |  __/
+ \__\___/   \__\___/|_|   \__|\__,_|_|  \___| | .__/ \___|\___/| .__/|_|\___|
+                                              |_|              |_|           
+                                              
+marc@debian:~/hacker-notes-s24m09$ figlet Auftrags zuerich
+    _          __ _                                             _      _     
+   / \  _   _ / _| |_ _ __ __ _  __ _ ___   _____   _  ___ _ __(_) ___| |__  
+  / _ \| | | | |_| __| '__/ _` |/ _` / __| |_  / | | |/ _ \ '__| |/ __| '_ \ 
+ / ___ \ |_| |  _| |_| | | (_| | (_| \__ \  / /| |_| |  __/ |  | | (__| | | |
+/_/   \_\__,_|_|  \__|_|  \__,_|\__, |___/ /___|\__,_|\___|_|  |_|\___|_| |_|
+                                |___/                                        
+marc@debian:~/hacker-notes-s24m09$ figlet Versicherung 
+__     __            _      _                                 
+\ \   / /__ _ __ ___(_) ___| |__   ___ _ __ _   _ _ __   __ _ 
+ \ \ / / _ \ '__/ __| |/ __| '_ \ / _ \ '__| | | | '_ \ / _` |
+  \ V /  __/ |  \__ \ | (__| | | |  __/ |  | |_| | | | | (_| |
+   \_/ \___|_|  |___/_|\___|_| |_|\___|_|   \__,_|_| |_|\__, |
+                                                        |___/ 
+marc@debian:~/hacker-notes-s24m09$ figlet '?????????'
+ ___ ___ ___ ___ ___ ___ ___ ___ ___ 
+|__ \__ \__ \__ \__ \__ \__ \__ \__ \
+  / / / / / / / / / / / / / / / / / /
+ |_| |_| |_| |_| |_| |_| |_| |_| |_| 
+ (_) (_) (_) (_) (_) (_) (_) (_) (_) 
+                                     
+
+
+Also buchen wir das heute nacht mal auf GESCHEITERTE HdF [1] Therapie
+
+
+[1] HdF heisst in der CH-Army: Halt die Fresse
+
+
+
+----=====  Thu Sep 26 08:40:23 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september bcc92a87dd3e673b3a383501abe83ae094a6d731 ====----
+[main 85925b2a] ... bcc92a87dd3e673b3a383501abe83ae094a6d731
+ 1 file changed, 4 insertions(+)
+ 
+ 
+Dann das "... will become a faster and stronger hunter ..." um nicht Beissreflex der Schni-Schna-Schappi Krokodile mit Offizers-Titel der CH-Army sagen zu muessen ware zB kokain, dann waeren kokain konsumenten einfach fast driven high priority Zombi-NPC's der CH-Army apropos meinen > gestrigen < UNFREIWILLIGEN Beobachtungen in der Stadt Aarau
+
+----=====  Thu Sep 26 09:13:08 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 7576760f6e016a2e03a90cfd0393f70f4c48968b ====----
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+----=====  Thu Sep 26 13:57:55 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september b89d5749da2c8df4c76eed62b70ea64277d12980 ====----
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+
+weckung nach 40 minuten schlafen -- REM Phase sabotierend
+
+dann uerbermittlung:
+
+Walther Brigger hat in den UPC Logfiles oder in den Enahnced Logfiles beweise welche den Abrichtenden Psychater von
+Hapte A (blick.ch: gleismoerder)
+Michael Boeringer: grosimoerder)
+
+abgerichtet hat
+
+ich: plausibiltaetscheck: gar nicht mal unglaubwuerdig
+
+urs blum wuesste das und will ueber mich als unfreiwilliger lautsprecher sich so UPC einverleiben wie er ABB einverleibt hat
+
+----=====  Thu Sep 26 14:00:04 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 56c51e2d4e3014af530873c0b1cad73b95602643 ====----
+[main a385df56] ... 56c51e2d4e3014af530873c0b1cad73b95602643
+ 1 file changed, 2 insertions(+), 4 deletions(-)
+
+somit gaebe es auch eine applikation fuer EEG Daten, oder Therapie daten, das hiesse es gaebe einen zentralserver der pszchiatrie welcher zugriff auf eeg daten von patienten hat z.B. pro kanton und brigger weiss welcher benutzer (zb pfisterter hansjuerg oder myrtha) wann auf den Grosimeorder oder gleismeorder zugegriffen hat
+
+----=====  Thu Sep 26 14:02:57 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september af8d42a2cd6b8d772f4b7f25e5009ac6d69347eb ====----
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+das ist mindestens aus meiner technischen perspektive [1] sogar eher 51% korrekt als 49%
+
+
+ 
+[1] da macht scheinbar jemand aus meinem satz "aus meiner technischen warte"

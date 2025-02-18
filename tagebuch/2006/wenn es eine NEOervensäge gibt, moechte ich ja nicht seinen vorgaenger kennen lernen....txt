@@ -1,0 +1,19 @@
+Arbeiten bei S. Laube
+
+Erledigt:
+-Routerpasswort auf Standardpasswort gewechselt und bei S. Laube Deponiert
+-Securitiy Considerations (Windows, Doors)
+
+
+Pendent:
+-Fehlermeldung Outlook betreffs lokalem(?) Sicherheitszertifikat weitergemailt, hatte leider noch keine Zeit dies weiter zu verfolgen
+-Schlüssel des Systems absenken ? bzw. den Radio auf 256bit anpassen, vertrauensstelle unbekannt (laut Aussage S. Laube, Romi irgendwer, laut alex {können wir dafür nicht bitte columbo anstellen?} nicht unbedingt gegeben... NEUMANN PRINZIP"?)
+
+
+es3
+traybackup
+
+Hauptnetzbackup und immer noch zeit zum snipern...
+
+äääääääääähhhhh er steht schon wieder hinter mir...
+

@@ -1,0 +1,74 @@
+COMMODORE COMPUTERS: NOT READY FOR THE ORPHANAGE
+
+by Lee Pasborg
+
+Editor's Note: This was one of the most widely reprinted articles I have seen in any Commodore
+newsletter. I think we can agree that things are even better eight years after Lee's optimistic predictions.
+
+
+At some point it is time to wake up and smell the coffee. The sad fact is the 8-bit computer world is
+shuffling off to the orphanage. Yes, I know that the 64 and Apple II aren't orphans yet, but the
+manufacturers have got them in the basket and are ready to ring the doorbell and run. The magazines
+that features our machines have either folded up or are withering away. Software is getting harder and
+harder to find, and little that is new is being introduced.
+
+Our choices as users are simple. Either bail out, get a new machine and start over; or try to make the
+most of what we have, knowing that new hardware and software is going to be harder to find as the
+years pass. How you decide depends on what you want to do with your machine.
+
+If you are primarily a game player, get an Amiga or fancy clone and play away. I have trouble with the
+idea of investing thousands of dollars to play games, but if you have the money to spare, have fun.
+
+If you are a high-tech junkie, you are probably already in the 16/32 bit world, unless you are poor. If
+that's the case, I guess you are stuck with 8-bits for the time being. You can soup up your machine until
+it rivals the performance of the fancier models.
+
+However, if you are a home computer user, you could stick with your orphan as I intend to do. Let's
+face it, the 64, 128 and Apple II are going to be orphans unlike any others. The Sinclair had only 1 or 2
+K of memory--not enough to load in a decent program. The VIC 20 had 16 K but a 22 column screen.
+The Apple III, Lisa, and Plus4 never got off the ground, so there is little software that was written for
+them. The PC Jr. had that awful keyboard. When these machines became orphans there was little their
+owners could do with them. It is important to realize, however, that some of these machines are still
+being used today. User groups have sustained their owners over the years.
+
+Apple and Commodore users do not have the same kinds of problems that the owners of other orphans
+had. The machines are well developed and well thought out. The 64 is capable of loading fairly
+sophisticated programs, including word processors and data bases capable of servicing a small
+business. Expanded Apples and the 128 have even more features. There is nearly an unlimited supply
+of software still available for your machine. Millions have been sold, and they are not going to
+disappear. The 128 and the 80 column Apples have nearly all the features that most people need in a
+home computer. If you plan to stick with your machine, you might consider doing some of the following:
+
+
+1. Start accumulating the software you need now while it is still readily available. It's true that in the
+years to come you'll be able to get a lot of software for next to nothing, but you can't count on getting
+what you need this way. If you don't already have a good quality word processor, copy utility, etc., get
+one, preferably with all documentation.
+
+2. If you run across hardware at a bargain price, consider buying it. Even dead machines serve a
+purpose--parts. Again, as time goes by, the prices for Commodore and Apple hardware should drop
+to next to nothing. An extra disk drive is always nice to have anyway.
+
+3. Pick up books that cover your machine, especially programming reference guides. These are getting
+harder to find in the bookstores now, but a used one will do just as good a job as new--may even
+better, since the previous owner has probably marked the most useful pages already. Get the book
+even if you don't program or even understand most of what the book says; someday you may want to
+learn.
+
+4. Join and support your local users' group. There you will find other hard-core enthusiasts who will be
+glad to share solutions to your problems. Someone will know how to get a program to run, or where
+you can get repairs done.
+
+5. Don't despair! Orphans may have a harder time than others, but as long as they stay healthy, they
+can be just as productive as anyone else. The way I figure it, by the time the last 8-bit goes south for
+the last time, today's computers will look ancient. Consider the advances that have occurred in the last
+five years. If you and your orphan can hang on until 1995, it's likely that you'll see Amigas at yard
+sales.
+
+So when the orphanage door opens for our favorite machines, it will be sad--becoming an orphan is not
+a happy event. But it need not be the end. After all, an orphanage is not a graveyard. As long as we
+keep using these useful, productive machines, their being orphans will really be irrelevant.
+
+(from The Town Cryer, Heartland Users Group, Cape Girardeau MO, 6/90; reprinted in The
+Interface, 9/90; and again in 1998; via the Commodore Information Center
+http://home.att.net/~rmestel/commodore.html)

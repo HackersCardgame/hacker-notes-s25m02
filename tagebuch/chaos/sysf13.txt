@@ -1,0 +1,1241 @@
+   ______________   _______________________________/  ___________    \________
+   \__    _____//___|  .   ____    __________  _____    _______\   ..    __/
+  ___/____    \     |      /___/____  .. \  //   \  /   _____|___    |  |   \
+ /   .. |     \    |     /        |      \/   . \/    |  .. //    |  |    \
+//____________________/  _________________________________________   |__|_____\
+:::::: ______________/  / :: _________ :::::: /  / :: ___________/  / ::: :: :
+:_____/_______________//_____\_     //_______/__/____/  ___________/__________
+/__   _________     __________/ .  /______    |    ___ . ,   ____ . _______\
+:// . ______/ /  |    \  /   \     /      /    |    \      | ___\ //  _____|___
+/        \___//        \/     \    \     //    ' .. \     ,    \/    |       /
+_________________|  .. ___________________________________|  .. __________//
+:// /____________|_______\   /  ___________/    // _______________\
+/______________  \ :::::::: /  / ::::: ________/  / ::::::::::::::::: ::: :: :
+::: jp!cia ... \  \________/_//_______/..________/  system failure ::
+:::........:::  \______________________// .........................::
+                         _|  |_
+                         \ . //
+                          \ ./
+                           \/
+.----------------------------------------------------------------------------.
+|                         System Failure: Issue #13                          |
+`----------------------------------------------------------------------------'
+Whew. Finally, issue 13. We've been delayed for about a month now, partially
+due (okay, MOSTLY due) to the fact that I'm lazy and my schedule's been rather
+broken lately, and partially due to the fact that I've been far too generous
+in the amount of time I've given certain people (they know who they are) to
+get their articles to me. Anyway, this is our last issue before DefCon 6, and
+issue 14 (our second annual Spiffy Con Review Issue) should be out shortly
+thereafter. Thanks to Jack Phlash for this issue's opening ascii and .diz
+file.
+                                                        --Logic Box [7/16/98]
+.----------------------------------------------------------------------------.
+|                           http://www.sysfail.org/                          |
+|                            [sysfail@syfail.org]                            |
+`----------------------------------------------------------------------------'
+                 <phelix> damnit. my screen is blue. BARKODE.
+                 <barkode> what? I didn't do it.
+.----------------------------------------------------------------------------.
+|                                  CONTENTS                                  |
+| SysInfoTrade                                              by SysFail Staff |
+| WIPO: The Government's Stranglehold                            by Velocity |
+| Calling Number Delivery                                       by Keystroke |
+| IP Masquerading for Dummies                      by Saint skullY the Dazed |
+| ARP: Your Ethernet Card's Best Friend                           by BarKode |
+| Private Branch Exchanges                                 by The PBX Phreak |
+| Group Ethics and Morals                                       by Logic Box |
+| SysFail Mailbox                                           by SysFail Staff |
+`----------------------------------------------------------------------------'
+
+<-------+
+        | SysInfoTrade
+        +----------------> staff@sysfail.org
+
+--System Failure shirts are in stock, get them now! sysshirt.jpg in the
+System Failure #13 zip show what they look like. Send $25 (s/h included)
+to Penguin Palace PO Box 836853 Richardson, TX 75083
+http://www.sysfail.org/products.htm
+Get them now, because we'll only be bringing a limited supply to DefCon.
+--Penguin Palace's TORI DO: THE EPIC CD should be available for DefCon. Bring 
+$20 to buy a copy at the con, and get it signed by pinguino. Jungle/Dark
+Ambient soundtrack by Re: (part of Consciousness Lab of Sacramento), Miguel Q,
+and Solo Jr. http://www.penguinpalace.com/torido
+--DefCon is July 31-August 2, 1998. It's at the Plaza Hotel and Casino,
+1-800-634-6575  (refer to the Network Security Solutions convention when 
+booking a hotel room) www.defcon.org
+--System Failure will be hosting contests during the convention; a scavenger hunt
+(friday) and a frequency hunt (saturday, bring a scanner). There will be prizes,
+if you have anything (ram, dox, payphone, little sister, pet goldfish, ANYTHING)
+you want to donate as a prize, email pinguino@sysfail.org or bring it by the
+table on Friday of the con. Come by the table for a flyer about the current
+contest. No information will be given out the day prior to the contest.
+--On July 1, 1998, law enforcement officials including local police, state
+police, and the FBI served search warrants at a Harwich, MA business and a
+16 year-old Eastham boy's home and confiscated multiple computer systems
+from both places, but no arrests were made at either location. These
+raids were the result of a five month probe looking into alleged computer
+crimes against Cape Internet and clients of Cape Internet. The Harwich
+Business, Doctor PC, is the location of a Cape Internet POP, which serves
+lower Cape Cod customers with dialup lines. They are also investigating
+a half-dozen other teenage associates of the Eastham boy. (submitted by spee)
+--On June 24, 1998, American Telephone and Telegraph (AT&T) that it will 
+merge with TCI, a cable based telecommunications and Internet provider.
+AT&T plans on merging its long distance, wireless, and Internet services
+with TCI's cable, telecommunications and Internet services to create what
+will be called AT&T Consumer Services. This new company will provide
+local, long distance, wireless, cable, and dialup and high speed internet
+access which will all be under the AT&T name. This merger allows AT&T to
+be able to offer local phone service, of which TCI has a network already.
+It also allows AT&T to offer cable modem services around the U.S. as well.
+AT&T hopes that this will allow them to offer a variety of services
+directly into consumer's homes.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                     WIPO: The Government's Stranglehold
+                      by Velocity (velocity@ionsys.com)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+WIPO is an acronym for the 'World Intellectual Propery Organization'
+
+1.1: Brief Introduction
+  I was inspired to write this article after hearing about the controversial
+new WIPO bill (controversial to the computer literate actually, I imagine
+non-computer users couldn't care less about it). At the time I wrote this, the
+WIPO bill had been passed by the senate and was on its way to congress. If
+you haven't heard or read anything about the WIPO bill, oh well, that's not my
+problem, you just suck. Go do a netsearch on it or something because I don't
+want to discuss it in detail; I will however say that loosely translated, the
+WIPO bill dictates that the reverse engineering of software shall be illegal.
+For those of you who are less gifted and are having trouble with the big
+words, this basically means that it will be illegal to take end-user software
+packages and search for bugs within the program.
+
+1.2: But Why?
+  Now I imagine right now at this exact second you are saying to yourself,
+"Hey! I'm an elite hacker, I can do whatever I want, I can reverse engineer
+software until I turn purple and the government can't do anything because they
+won't know! Ha!". Well thats fine and dandy for you, I'm happy for you, and
+the whole world is happy for you. What about people who actually make a living
+doing this though? What about security consultants?  Well, unlike you, they do
+what they do as a profession. They can't very well continue with their career
+if it is illegal. In the government's eyes, it would probably be equivalent to
+working for the mafia. I'm not sure how that equation works out, but it just
+does, so live with it. For the few of you who are thinking, "why would the 
+government do something as downright nutty as this?", well seeing as how my
+telepathic skills aren't at their full potential at the moment, it being so
+late at night and all, I will just give you my personal opinion. If my opinion
+is not good enough for you, e-mail me and we can schedule and appointment for
+me to perform a Vulcan Mind Meld on you. That way you can see all the
+information I have stolen from the unsuspecting brains of government workers
+first hand! But for those of you too impatient to wait for the appointment,
+here is my opinion. My opinion is very simple, and probably very common among
+other people. THEY ARE SCARED! They are afraid, plain and simple. They know
+that malicious security-knowledgable individuals may be a greater threat to
+the civilized world then Iraq is. Perhaps they are afraid because they are
+ignorant, and they have no idea how to secure a system, so they just outlaw
+the process of actions which go into finding a security flaw. Or maybe they're
+not ignorant, they're just pricks. Who knows? But either way, the government
+is trying to put a stranglehold on hackers and computer users in general.
+
+1.3: What If It's Passed?
+  Let's briefly think about the after-effects (If the WIPO bill is passed).
+First of all, as mentioned earlier, poor unsuspecting security consultants
+will have their jobs flushed down the toilet, because technically their jobs
+would be illegal. Second of all, mailing lists like BUGTRAQ will become
+illegal, and probably will be forcefully shut down. Also, about a trillion
+hack/phreak web pages will suddenly become illegal, and be forcefully removed
+from web servers. What's next? Will the government start putting packet
+sniffers on IRC servers just to see if we're discussing exploits and such? I
+know using a packet sniffer is beyond the realms of most federal exployees'
+abilites, but still, they could fluke it. And eventually in the end, every
+computer user (with the exception of AOL users) will have a federal officer
+handcuffed to him, at all times, just to make sure he doesn't say anything to
+anybody about software bugs.
+
+1.4: Other Threats
+  WIPO isn't the only action of its kind being taken. I'm not sure if this is
+correct, but I recall reading a news article about the government's plan to
+make it law that crypto developers have to put a backdoor in all their
+programs, just in case the feds need to decrypt something (such as the mafia's
+e-mail). Well that's lovely. How safe would you feel using PGP if you knew the
+feds could decrypt it in 5 seconds? Probably not very god damned safe. What
+would probably happen is people would stop developing crypto-type stuff,
+because what's the use if the government can decrypt it anyway? That seems
+kind of like cleaning up your house just before you're about to move out. Well
+I guess it's not like that at all, but what kind of sicko cleans up his house
+before he moves out? I'm sure the government has a billion of these little
+laws waiting to be passed, but there isn't a whole lot we can do about it.
+You could write to your local congressman so he can wipo his ass with your
+letter. I bet as soon as he hears that you're upset about this law he'll do
+his best to make sure it's never passed!
+
+1.5: Who Will Suffer?
+  I think large corporations will suffer a lot from WIPO. The government may
+be able to stop some poor schmoe of a security consultant, but they can't stop
+every hacker in the world from developing exploits. Since the big corporations
+don't have any outside experts to fix their security bugs, they will be
+completely vulnerable. I guess that's kind of funny, because the government is
+trying to protect people from hackers. But I guess if hackers will still be
+writing exploits after WIPO, then there will probably be a handful of security
+consultants who care little of the government's wrath, and will continue with
+their work. And for every consultant brave enough to disobey the government,
+there will be a corporation pleased as punch to pay this consultant an
+enormous amount of money for him to work his magic on their network.
+Corporations are about as concerned with the law as your average serial
+killer, they just want to stop the 17-year-old kids from rebooting their
+webservers every day. However, like most things in life, the people to suffer
+the most will be the little guys. Read section 1.8 for information on how we
+will suffer.
+
+1.6: Description of Following Paragraph
+  The following paragraph was written a day after the rest of the article. All
+the information here probably belongs in various other places around the
+article, but I'm not about to go looking for places to put all this stuff, it
+consists mostly of my ramblings and opinions.
+
+1.7: Personal Opinions Mostly
+  Have you ever bought a table that had a big red sign on the top of it
+warning you to "not tinker with this table under penalty of death!". Of course
+you haven't. What manufacturer really gives a damn if you try to attach an
+extra leg to his table design?  But this in essence is what WIPO is. Software
+being the table, and computer users being the would-be carpenters adding an
+extra leg to the table. Now if you live outside the United States (as I do),
+you may believe that WIPO doesn't affect you at all. WRONG! The WIPO treaty
+was signed by 96 countries last December (or last last December, I'm not
+sure). The chances are pretty good that unless you live in Biafra, you are
+affected by WIPO.
+
+1.8: More WIPO Implications
+  The treaty is actually meant to protect databases of all kinds. Wait, a
+phone book is a database. What if phone companies decided to disallow
+telemarketing agencies to use phone books? Well, I bet the telemarketers would
+have fun dialing up random numbers all day and praying they get an answer. Not
+that I would miss those nutty telemarketers, but still, there go another few
+million people in the unemployment line with all those security consultants.
+Also, with this nifty new treaty, software developers may decide to say that
+you can not make backups of software. Now I'm not talking about warez here,
+I'm talking about legit software backups. So what happens if you buy a $600
+office suite software bundle, and accidently scratch the hell out of the cds?
+Well, you don't have any backups because it's now illegal, so you're out $600.
+WIPO also allows database developers to limit utilization of a database. What
+this means is that maybe the phone company will let you use a phone book, but
+by no means may you make your phone book available to any of your friends.
+It is impossible for me to even begin to mention the impact this treaty will
+have on us. I'm just trying to get across the fact that is is a very real
+threat, and we should all be worried. To understand the full implications of
+this treaty, you should really visit http://www.eff.org/, they have alot of
+great links with transcripts and whatnot.
+
+1.9: Final Opinions
+  This article contains very little facts, and several opionions! If I have
+any facts wrong, don't bother contacting me about the, I really don't care. I
+never asked you to read it, so if you don't like it and want to bitch at me
+about it, why don't you go play in traffic? However, if you do have any
+constructive criticism for me, you can send me telepathic messages anytime
+between 7am and 11pm (my waking hours). And for all you other weirdos who want
+to send me death threats, send them to velocity@ionsys.com.
+
+1.10: More final opinions
+  If you would like to read some official documents on this subject, there are
+several legislation transcripts available at http://www.eff.org/. I don't know
+the exact URL, but it's somewhere on eff.org. Or you can go to
+http://www.wipo.org/, which is roughly equivalent to asking Joe Camel if
+smoking is bad for you. I say this because in WIPO members' opinion,
+copyrights only "help the flow of information flow smoothly". Damn skippy,
+wait, nevermind...
+
+As a final thought I would like to quote a friend of mine, because I think
+what he said really fits this treaty. He describes it as being "security
+through obscurity". That is exactly what it is. When does copyrighting
+interrupt the flow of information? Well, it starts with this bill.
+
+	Greetz to MrFly for editing my gay grammar.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                           Calling Number Delivery
+                   by Keystroke (keystroke@thepentagon.com)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+In the PCIE (Post Caller-ID Era), caller information (name, number, etc.) was
+only available to the telcos through ANI. Customers had no way of knowing who
+was calling them. To fix this problem (and make more money), AT&T Bell
+Laboratories designed a service which made it possible for 'average' customers
+to receive information about the calling party. On April 15, 1986, "Calling
+Number Delivery" was patented in the United States Patent And Trademark
+Office. It was assigned Patent Number 4,582,956.
+
+Calling Number Delivery is on a subscription basis. The customer must pay
+their local RBOC to have the Calling Number's Information (we'll call this
+CNI) sent to them. If the customer being called subscribes to Caller ID, the
+Terminating Central Office sends the CNI during the final 3100ms of the 4000ms
+silent interval between the 1st and 2nd rings. Prior to the CNI being
+transmitted, a Channel Seizure Signal and Mark Signal are sent (first 900ms)
+to let the Caller ID Box (Customer Premises Equipment) know that CNI is about
+to be sent. The CNI is then sent in either Single Data Message Format (SDMF)
+or Multiple Data Message Format (MDMF). Both SDMF and MDMF contain the date,
+time, and calling number; however, MDMF also contains the name associated with
+the number. The data is then interpreted by the Customer Premises Equipment.
+For more information on Calling Number Delivery protocols, read BellCore
+articles:
+
+   TR-TSY-000030, "SPCS Customer Premises Equipment Data Interface",
+   TR-NWT-001273, "SPCS to Customer Premises Equipment Data Interface for
+                  Analog Display Services, Generic Requirements for an",
+   TR-TSY-000031, "CLASS(sm) Feature: Calling Number Delivery",
+   TA-NWT-001188, "CLASS(sm) Calling Name Delivery and Related Features",
+   TR-NWT-000575, "CLASS(sm) Feature: Calling Identity Delivery on Call
+                  Waiting (LSSGR)".
+
+You can order them by calling 1-800-521-CORE.
+
+Okay, now for the 0day exploits.
+
+The Customer Premises Equipment sits dormant until the first ringing pattern.
+After the change in voltage, it listens for the Channel Seizure Signal and
+Mark Signal and finally the CNI. If no data is sent, or the data is corrupt
+(it doesn't correspond to the checksum), it displays an error message, which
+is determined by the particular CPE manufacturer.
+
+If the phone only rings once and no data is sent, a timer in the CPE will
+reset after several seconds, so the CPE knows that the next voltage change
+will be the FIRST ring and that it should look for data. If the timer is not
+reset, the CPE displays the caller's info and ignores the next few rings
+because data is only sent after the first ring. While I haven't seen any specs
+for CPEs, this timer thing seems logical, so we'll pretend it's true.
+
+Anyone starting to see a possible exploit here? Hint: It's lame.
+
+If you could somehow increase the voltage in the customer's loop, and then
+place your actual call, the CPE will error because no data is sent after the
+first (fake) "ring." The data will still be sent, but after the 2nd ring (as
+the caller ID box sees it, actually it would really be the 1st ring) but
+during this time, the caller ID isn't looking for info and has already errored
+and is ignoring future ringing patterns. The only problem now is making the
+trojan (first) "ring".
+
+Well, it isn't really too big of a problem. Since the Caller ID data is sent
+only after the 1st ring, you can call and hang up quickly without your info
+being dumped by the Terminating Central Office. Unfortunately, you can't
+communicate with the party on the other end unless they answer their phones
+lightning quick. Unless...
+
+0-day Exploit
+-------------
+Requirements - 2 phone lines, speedy fingers
+
+1) Call victim on phone line #1; hang up after 1st ring
+2) Quickly call them back on phone line #2
+
+Sometimes you get a busy signal, but with practice you'll be calling people
+Caller ID free in no time. This is a bug in the CPE, as the data is still
+transmitted, so if they block people who do *67s, you'll still get through
+(*67 block is at the switch). Unfortunately, *69 still works, but maybe during
+the course of the call you can tell them you've hax0red their Caller ID and if
+they type *69 it'll blow up and kill them or something. Then again, maybe not.
+
+P.S. Contrary to the beliefs of some conspiracy theorists, when *67 is used to
+block your number, it is not sent to the called-party. A "P" is sent instead.
+You may have heard otherwise from some crazies, but I'm telling the truth.
+Really.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                         IP Masquerading for Dummies
+                by Saint skullY the Dazed (skully@sysfail.org)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Well, since a few issues back Dr. Seuss was going to write an article on
+firewalling your Linux boxen but didn't write a very complete part 3, I'm
+going to (try) to cover that a little more fully here. It assumes you have a
+basic knowledge of configuration, compiling, and booting a kernel, some basic
+knowledge about ipfwadm, and TCP/IP in general. If you have little or no
+knowledge of the above, read the following HOWTO's, available at
+ftp://sunsite.unc.edu/pub/Linux/docs/HOWTO/
+
+1. Kernel-HOWTO
+2. NET-3-HOWTO
+3. PPP-HOWTO (If applicable)
+4. ISP-Hookup-HOWTO (If applicable)
+5. Diald mini-howto (See above)
+6. Ethernet-HOWTO
+7. Firewall-HOWTO
+8. IP-Masquerade mini-howto
+
+Before I continue, I'd like to thank Logic and Pinguino for starting a kickass
+'zine, Linus for writing a kickass kernel, the people at Walnut Creek for
+putting together what is IMO the best distribution available, Dr. Pepper for
+making a kickass soda, and the people working in the sweatshops in Asia for
+making my clothes cheap.
+
+This article will entail 3 parts:
+I. What is Required
+II. Setting Up the Basics
+III. More Advanced Stuff
+
+
+I. What is Required
+-------------------
+To masquerade, you need some basic components: an internal network, A Linux
+box with two interfaces (one to the internal network the other to the external
+network--the internet), a connection to the internet, and some time and
+willingness to learn.
+
+The Linux box can be as small as a 386/SX with 8MB of RAM, although a
+486/DX-66 with at least 16MB of RAM would be preferred, depending on what else
+the Linux box is expected to do. If you expect it to also handle mail and/or
+web, you will need to adjust your CPU and RAM accordingly.
+
+The connection to the internet can be anything from a PPP connection to a
+cable modem or an ethernet connection in a dorm. In my case, it's a wireless
+ethernet connection to my ISP (connected to eth0).
+
+
+II. Setting Up the Basics
+-------------------------
+First, you should have your localnet setup. Each machine should have its own
+IP, preferrably in one of the reserved IP blocks used especially for internal
+(non-connecting) networks. There are 3three blocks setup, one for networks
+requiring a class A, one for networks requiring a class B, and one for
+networks requiring a class C. From RFC 1597:
+
+       Section 3: Private Address Space
+
+       The Internet Assigned Numbers Authority (IANA) has reserved the
+       following three blocks of the IP address space for private networks:
+
+                     10.0.0.0        -   10.255.255.255
+                     172.16.0.0      -   172.31.255.255
+                     192.168.0.0     -   192.168.255.255
+
+You will most likely use just a class C, and the most common to use is
+192.168.1.0, although 192.168.0.0 works just as well.
+
+For our purposes, we will assume a 4-node network using 192.168.1.0. So our
+network will appear something like this:
+
+192.168.1.1             Linux Router that will Masquerade
+192.168.1.2             Workstation #1 running Windows 95
+192.168.1.3		Workstation #2 running MacOS
+192.168.1.4             Linux box that controls web and mail
+
+They are all networked via 10b2 (Coax, since it doesn't require a hub). Each
+machine is able to ping the other machines and can create connections as
+necessary.
+
+Our next task will be to set up the router to masquerade. Our box in this case
+is a freshly installed Slackware 3.5 system running Linux 2.0.34. The first
+thing we will want to do is to create a startup script called rc.firewall, and
+place it with the other startup scripts (most likely /etc/rc.d/ or /etc/rc/).
+A good basis for this is something like the following:
+
+#!/bin/bash
+
+# Clear all firewall entries and start fresh.
+ipfwadm -A -f
+ipfwadm -I -f
+ipfwadm -O -f
+ipfwadm -F -f
+
+This will flush all entries for any firewall stuff so you avoid duplicate or
+outdated entries. Next you will add any entries for blocking any ICMP, UDP and
+TCP packets you want/need (a common example is to block 139 to the outside
+world, since many versions of Samba have bugs and only your internal network
+needs to connect to the Linux box for this purpose). I recommend commenting
+all entries so that in 6 months' time when you need to change things, you
+remember what does what. Refer to ipfwadm(8) for how to do this.
+
+Next, we need to tell the Linux box to forward all connections from the
+internal network to the Internet and masquerade them. This is done with these
+two lines:
+
+ipfwadm -F -p deny
+ipfwadm -F -a m -S 192.168.1.0/24 -D 0.0.0.0/0
+
+The first line tells the system to deny all forwarding requests by default.
+Otherwise, anyone who can control their routing (Read: anyone who runs any
+type of *ix system) can easily gain access to your internal network. The
+second line tells it to forward all requests from 192.168.1.0 to anywhere, and
+to masquerade the requests. This is all that's needed to have a working setup,
+but remember that we also have a machine inside the LAN that is going to
+handle all mail and web connections. Enter in two more important programs:
+datapipe and tcplogger, both available at ftp://ftp.sysfail.org/pub/Linux/.
+
+Tcplogger is a program which will log all connection attempts from remote
+hosts. It doesn't matter if you are listening on that port or not. This is
+handy if someone tries to portscan you. For our purposes, it also allows us to
+see who connects to your machine for web and mail. Datapipe listens on a
+specified port and forwards all packets from the host machine to another
+machine. This allows us to forward all connections to port 80 and port 25 over
+to the Linux box handling web and mail. You need tcplog so that you can see
+who connects, since all the mail/web server will log is "192.168.1.1". With
+tcplogger and datapipe setup, our network is complete and functioning how we
+want it. If this is all you're after, skip the rest of this document.
+
+
+III. More Advanced Stuff
+------------------------
+Ok, now that we have our network set up, we may need a few more things. This
+will deal with things related to having a subnet and wanting some machines to
+be masqueraded and others to not be. So we must modify our network a bit.
+We'll assume you have an 8 IP (6 usable IPs) subnet, and 10 machines to be
+connected. The machines we want to be visible to the outside will be using
+172.16.1.192 with a netmask of 255.255.255.248 and a broadcast of
+172.16.1.199. The machines on the internal network will be using the class C
+192.168.1.0. So our IP Table now looks something like the following:
+
+Non-Masqueraded
+---------------
+172.16.1.193 - Router
+172.16.1.194 - Web
+172.16.1.195 - web2
+172.16.1.196 - web3
+172.16.1.197 - mail
+172.16.1.198 - NT Box
+
+Masqueraded
+-----------
+192.168.1.1 - Router
+192.168.1.2-5 - Workstations
+
+Now I'm going to assume that you want all connections originating from the
+internal network to be masqueraded (for security concerns) no matter which
+subnet it's on. So instead of the rather small script we had before, you will
+need to modify it a bit. Here's a sample script:
+
+# Clear all firewall entries and start fresh.
+/sbin/ipfwadm -A -f
+/sbin/ipfwadm -I -f
+/sbin/ipfwadm -O -f
+/sbin/ipfwadm -F -f
+
+# Add entries for IP Masquerading
+/sbin/ipfwadm -F -p deny
+# Subnet
+/sbin/ipfwadm -F -a m -S 172.16.1.192/28 -D 0.0.0.0/0
+# Workstations
+/sbin/ipfwadm -F -a m -S 192.168.1.0/24 -D 0.0.0.0/0
+
+This will masquerade all connections, but what good is our subnet if we are
+still masquerading. So we next add lines to allow hosts to connect into the
+subnet. This is done with a line similar to the following:
+
+/sbin/ipfwadm -F -a accept -S 0.0.0.0/0 -D 172.16.1.192/28
+
+But what if we want to do that on a host-by-host basis? Say, web1 will allow
+all connections, but web2 and web3 should only allow certain IPs to connect?
+We will then want to not use the lines above, and use something like this:
+
+# This is to allow all connections to web1
+/sbin/ipfwadm -F -a accept -S 0.0.0.0/0 -D 172.16.1.194/32
+# This is to allow only 10.1.1.0 to connect to web2
+/sbin/ipfwadm -F -a accept -S 10.1.1.0/24 -D 172.16.1.195/32
+# This is to allow only 10.1.2.0 to connect to web3
+/sbin/ipfwadm -F -a accept -S 10.1.2.0/24 -D 172.16.1.196/32
+
+And for mail, we need to forward all connections to our mail server.
+
+# This is for mail connections
+/sbin/ipfwadm -F -a accept -S 0.0.0.0/0 -D 172.16.1.197/32
+
+And finally, the NT box should allow all connections. This will require two
+lines, one for input and one for output. We will use something like the
+following:
+
+# Allow the NT box to have any connections it wants.
+/sbin/ipfwadm -F -a accept -S 0.0.0.0/0 -D 172.16.1.198/32
+/sbin/ipfwadm -F -a accept -S 172.16.1.198/32 -D 0.0.0.0/0
+
+Now, we have a network set up to our original specifications. Providing you
+keep your Linux box secure, your machines inside the firewall should also be
+secure. If you wanted, you could limit the lines above even further by having
+the router only forward certain TCP ports rather then any traffic bound for
+the Linux box. For example, to allow only TCP packets destined for port 25 to
+connect to the Linux box, you would scrap the line above and use something
+like this:
+
+/sbin/ipfwadm -F -a accept -P tcp -S 0.0.0.0/0 25 -D 172.16.1.197/32
+
+That will forward all port 25 connections to 172.16.1.197 on to the mail
+machine, yet deny all other connections.
+
+If you've made it this far, you're probably thinking one of two things: "This
+shit is way over my head," or "This seems rather simple, what about filtering
+ports to the router and specifying interfaces?" Well, my response is that this
+was a followup to Dr. Seuss's last article (part 3 in "Firewalling your Linux
+Boxen") which he did not have time to make into the comprehensive guide he
+would have liked. So I wrote this, since I had to learn much of it myself and
+was getting tired of answering people's questions regarding some of the more
+advanced stuff. So now I can just say "Read my damn article" and not worry
+about it. :=)
+
+***** Just a quick note not related to the article in any way *****
+<note>
+As I sit here and write this in vi, I can't help but be reminded of the many
+religious wars, e.g., elm vs. pine, vi vs. emacs, Linux vs. BSD, ad nauseum,
+I can't help but laugh. True, I myself have been guilty of entering into (and
+even starting) these wars. What they usually boil down to is personal
+preference, and whatever works for you is what's best. However, you should not
+force your personal preference. You can use whatever you like without having
+to worry about someone else forcing you to use another program. Hell, if it's
+what's right for you, you may even use Win95, although I would question your
+sanity. ;=) At any rate, I still love to get into these religious wars,
+however I do know that no matter how much I may argue, I still can't force
+anyone to use vi/elm/bash. You should realize the same, and maybe point out
+good features of each, but don't try to insult someone based on their personal
+preference.
+</note>
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                    ARP: Your Ethernet Card's Best Friend
+                  by BarKode (barkode@geekbox.slackware.org)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+This document is meant to be an introduction to the ARP protocol. It assumes
+that you are somewhat familiar with TCP/IP networking.
+
+On the Link Layer of the 7-Layer OSI Network Model, you'll find ARP, standing
+by itself off in a corner. This seemingly out-of-the-way protocol is actually
+essential for most network communication to take place, as it translates
+logical addresses (in this case, IP) to Hardware Addresses.
+
+ARP stands for Address Resolution Protocol, and for this document, we'll speak
+of ARP as it applies to a standard IPv4 TCP/IP network.
+
+ARP is responsible for resolving the 48-bit ethernet address associated with
+your 32-bit IP address. Your ethernet card doesn't care, nor does it even know
+what its IP address is. It just has a 48-bit address assigned to it, most
+often hard coded into the firmware. Your IP address however, can change any
+time, while your ethernet address stays the same. Hence, your IP-based network
+needs to know how to find which machine to send its IP packets to. ARP is the
+way.
+
+Let's say for this document your ethernet card has a hardware address
+of 00:00:2b:04:a9:11 and your IP address is 198.162.1.1, and you are on
+a class C network.
+
+When a machine on the network wants to initiate an IP-based connection, it
+first needs to find out the hardware address of the remote machine. ARP steps
+in and sends an ARP REQUEST, asking the network who has the IP address it's
+looking for. Let's say you are trying to connect to 192.168.1.2.
+
+Running tcpdump you might see this:
+
+00:00:2b:04:a9:11 ff:ff:ff:ff:ff:ff arp 60:
+arp who-has 192.168.1.2 tell 192.168.1.1
+
+Let's look at this packet.
+
+The first section is our hardware address.
+
+The second section is the broadcast hardware address of the network. This
+packet is sent to every machine listening asking each where this IP is.
+
+The third identifies the packet as being an ARP packet.
+
+The fourth is the size of the ethernet frame, padded to its minimum 60 bytes.
+
+The rest is fairly straightforward, asking "Which machine on this network has
+192.168.1.2 assigned to them? Please tell 192.168.1.1 your hardware address."
+
+Now let's look at what this packet looks like on the network.
+
+        Ethernet Header
+.-------------------------------.
+|Ethernet Dst|Ethernet Src|Frame|
+|  Address   |  Address   |Type |
+|            |            |     |
+`-------------------------------'
+   6 bytes      6 bytes    2 bytes
+
+
+.--------------------------------------------------------------.
+| Hard|Prot|Hard|Prot|Op|Sender Eth|Sender|Target Eth|Target IP|
+| Type|Type|Size|Size|  | Address  |  IP  | Address  | Address |
+|     |    |    |    |  |          |      |          |         |
+`--------------------------------------------------------------'
+   2     2    1    1   2     6         4        6         4
+
+The numbers below the fields represent the number of bytes in the field. This
+ARP request is 28 bytes in length.
+
+The Ethernet header contains the 48-bit ethernet address of the sender and
+the recipient, in this case, the recipient being the broadcast address. The
+2-byte Frame Type field specifies that this is an ARP request or reply with
+the value 0x0806.
+
+The Hardware Type and Protocol Type fields specify the type of hardware
+address and type of protocol address, respectively. This would be a 1 for
+ethernet in this case, and an 0x0800 for for IP addresses, again respectively.
+
+Hard Size and Prot Size are related information, containing the size of the
+hardware address and protocol address contained in the following fields. In
+this case we have a 48-bit ethernet address (6 bytes) and a 32-bit IP address
+(4 bytes).
+
+The OP field specifies what type of service this packet is. It can be any of
+the following:
+
+1 - ARP Request
+2 - ARP Reply
+3 - RARP Request (Reverse ARP, not covered in this article)
+4 - RARP Reply
+
+For now assume Reverse ARP is a machine asking other machines for it's own IP.
+
+Since this field is a request, the target ethernet address is not included, as
+that is the information we are looking for.
+
+When the remote host recieved the broadcast request, it recognizes the IP as
+being its own, and replies:
+
+00:00:4b:2a:01:04 00:00:2b:04:a9:11 arp 60:
+arp reply 192.168.1.2 is-at 00:00:4b:2a:01:04
+
+When the machine requesting the information gets this packet, it can now open
+the connection to the remote machine. This entire process on a 10Mbit network
+may take about 3ms.
+
+The packet sent back is formatted as the first packet, with different values
+in the fields.
+
+1. The Ethernet header is formed with its own information.
+2. The OP type is changed to 2, ARP reply.
+3. The source and destination fields are completed with the information as
+   expected, i.e. its own IP and hardware addresses.
+4. The packet contains the hardware address of the machine with the IP address
+   originally asked for in the request.
+
+But what about machines on other networks accessed through gateways? Well, ARP
+requests will not be made for machines not located on the local network.
+Instead, packets will be forwarded to a next-hop router (gateway) for delivery
+to another network.
+
+I hope you learned something reading this article. Next issue, we should be
+talking about RARP, ProxyARP, ARP caching, and Gratuitous ARP. If you are
+interested in learning more about ARP or any protocols in the TCP/IP family,
+I highly recommend W. Richard Stevens' TCP/IP Illustrated Volume 1. This book
+covers many topics of TCP/IP networking in great detail, belongs next to the
+bed at night, and was used for reference while writing this article.
+
+Also I recommend running tcpdump on your network often and watch what's going
+on. This is a good way to get a preliminary look into what's really going on 
+when that light on the hub is blinking. :)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                           Private Branch Exchanges
+                     by The PBX Phreak (chris@sloth.org)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+I would like to thank Chapters book store for baring with me for all my time
+of research at their store, and also thank you to Starbucks coffee for
+providing their awesome cocoa! A lot of research was done for this article. I
+hope you like it!
+
+Down to Business:
+
+A private branch exchange (PBX) is a typical telephone system for large
+organizations. In this environment, an organization that is served by a
+central office dial tone from the local exchange company might need the
+capacity of high-volume calling and handling services. Clearly, a single-line
+telephone set with a dial-tone line for each user will work. But, it will only
+just work! It will not satisfy the needs of the organization.
+
+In addition, it will be expensive. Assume that a dial-tone line costs $20 per
+month. If the organization has a multitude of users, the cost per month will
+be significant. Table A highlights some of the typical costs associated with
+basic dial-tone service for various numbers of employees. These numbers are
+only representative, but they should get our point across. The table reflects
+the basic montly cost and the  annualized cost of renting a dial-tone line
+from the local carrier.
+
+Table A:
+Number of Users         Monthly Cost @ $20.00         Annualized Cost
+100                     $2,000                        $24,000
+500                     $10,000                       $120,000
+1,000                   $20,000                       $240,000
+2,500                   $50,000                       $600,000
+10,000                  $200,000                      $2,400,000
+
+You can clearly see from these numbers that the use of a basic dial-tone
+service can get quite expensive. As a matter of fact, many organizations now
+say that telecommunications is the number-two expense item in their corporate
+expense registers, second only to personnel costs. This is both good and bad.
+It is good that organizations are depending on telecommunications more, as
+opposed to more expensive alternatives (such as travel, personnel, and other
+sales and marketing costs). Pound for pound, telecommunications sill produce a
+greater return on every dollar spent.
+
+But back to the point. The costs can be staggering to a financial or senior
+managerial person in an orgranization. But the dial-tone line costs listed in
+table A give the user only dial-tone access. This is a full-time dedicated
+access line for two-way service for every single user. If you add just a
+single-line telephony set for each of these users, then there are some
+capital costs associated with the ownership of these lines. Table B shows the
+costs of a single-line set for every user, at a base price of $60 per
+single-line telephone set. These are, again, basic assumptions on the
+purchase of these sets; one could do better.
+
+Table B:
+Number of Users              Cost of Equipment
+100                          $6,000
+500                          $30,000
+1,000                        $60,000
+2,500                        $150,000
+10,000                       $600,000
+
+Again, you can see that the equipment costs can mount quickly. But what is
+wrong with this picture? Well for starters, the single-line set limits what
+the user can do with the basic dial-tone service. Also, the single-line set
+does not allow for intercommunication between the users within the
+organization unless they tie up their dial-tone lines as follows:
+
+ - Grab the dialtone by going off hook.
+ - When dial toen is recieved, dial the digits (seven) of the desired internal
+   party.
+ - When the ring is generated and the party answers, hold a conversation.
+
+But this completely ties up two outside lines for the two parties to converse.
+If a customer tries to call either of these two parties, the customer will get
+a busy tone. That is, unless the call hunts to some other number. If the call
+does hunt, then a third outside line is occupied while a message is taken at
+the rollover line. Customers can be denied access, and can get frustrated. All
+of this while the two parties could be talking to each other in the next
+office. Note that however long the wires are that run back to the central
+office where the dial tone is provided, the call uses twice that to get the
+two conversationalists together. Clearly, this is not an optimized use of
+telecommunications services.
+
+It should be obvious from the preceeding discussion that larger organizations
+require the larger capacity and capability of a private branch exchange (PBX).
+These systems have names that come in many flavours, such as Private Automated
+Branch Exchange (PABX), Computerized Branch Exchange (CBX), Digital Branch
+Exchange (DBX), Integrated Branch Exchange (IBX), and Nippon Electric
+Automated Exchange (NEAX).
+
+These names basically mean the same thing. They are just different vendors'
+acronyms used to differentiate their specific products. The generic term PBX
+is a private (customer owned and operated) branch exchange (like a central
+office, it switches and routes calls internally or externally and provides a
+dial tone to the internal users). The PBX marketplace is inundated with
+acronyms and features. However, they all do similiar things: they primarily
+process voice calls for the organization. These devices are computer systems
+that just happened to do voice. Now they also do other things, such as
+provide data communications and data access.
+
+On average the all-digital PBX will cost approximately $750 to $1000 per
+station. A station is the end-user device, and the figure includes the cost of
+all the associated hardware to support the telephone set. Included in this
+generic price is the card inside the computer that provides the dial tone and
+the logic, a portion of the common equipment that serves many users, and the
+telephone set, the wiring, and the installation.
+
+The Components of the PBX are as follows:
+
+ - The central processor unit (CPU) is the computer inside the system. The
+   "brains".
+ - The memory-any computer needs some amount of memory.
+ - The stations, or telephone sets, are also called lines.
+ - The trunks are the telco CO trunks that terminate into a PBX.
+ - The network switches calls inside the system.
+ - The cabinets house all the components.
+ - The information transfer, or bus carries the information to and from the
+   computer.
+ - The console or switchboard allows the operator to control the flow of
+   incoming calls, and so on.
+ - The common logic, power cards, and so on facilitate the system's operation.
+ - The battery back-up insures against power failures.
+ - The wiring infrastructure connects it all.
+
+The PBX is a stored-program, common-controlled device. As a telephone system,
+it is a resource-sharing system that provides the ability to access a dial
+tone and outside trunks to the end user. This stored-program controlled system
+today is an all-digital architecture. In older versions, the PBX could be an
+analog system, but newer systems are all digital. It would not make sense to
+produce an older technology for a modern-day telephony system.
+
+Analog Systems
+--------------
+The analog system used analog components to handle to handle the call setup
+and tear-down for the entire system. A voice call is introduced into the
+system in much the same way that a business or residential user's input is
+introduced to the telephone company network. As the user generates a call, the
+telephone handset is picked up from the cradle. At this point, an input/output
+(I/O) request signal is sent to the main architecture of the PBX, which is
+usually a computer. Once the signal is sent to the common control, the system
+then returns a dial tone. The user then dials the digits for the party
+desired. This dialing sequence is done in-band on the wires the talk path of
+the caller. The digits, either rotary (pulse) or tone (DTMF), are sent down
+the wires to the telephone system.
+
+From there, the telephone system kicks in and generates a request through the
+architecture to a trunk card. The trunk card serves as the interface to the
+central office (CO) to request an outside dialtone. The PBX, upon recieving
+dial tone at the trunk card interface, then generates the pulses or the tones
+across the line to the central office. Then CO processes these digits in the
+same manner that is processes individual line requests from a residential
+user. From the telephone company's perspective, this is the easiest way to
+process the information.
+
+Digital PBX
+-----------
+All newer systems are basically digital. As a computer architecture, the
+system processes the information in its digital format. A digital
+coder/decoder (codec) in the telephone set converts the analog voice
+conversation into a digital format. The digital signals are then carried down
+the wires to the PBX heart (the CPU) for processing. If a call must go outside
+to the world, the PBX has to determine the best route to process the call
+onto. In the case where the call will be traversing the telephone company's
+central office links on an analog circuit, the PBX must format the information
+for the outside link. In this case, a digital-analog conversion will take
+place. Even if the call is to traverse a digital link to the world, the PBX
+might have to go through a digital-digital conversion. This is because the
+digital signal at the PBX interface is a unipolar signal, whereas the signal
+to the telephone company is bipolar signal.
+
+The list of vendors selling and supporting PBX systems is quite lengthy. The
+manufacturers offer them to the customer directly or through a distributor.
+The options are many. The two largest suppliers of systems in the United
+States are Lucent Technologies and Northern Telecomm Inc. (NORTEL). This
+ranking is based on number of systems sold, rather than a qualification of
+"best", although tiy nught establish that the quantity sold is a reflection of
+some qualitative measure. Table C. shows the top players in the United States,
+based of sales volumes. It is interesting to note that the top 2 command
+better than 50 percent of the U.S. market.
+
+Table C: Top Players in the U.S. PBX Market
+-------------------------------------------
+Northern Telecomm (NORTEL)
+Lucent Technologies
+ROLM
+NEC
+GTE
+Intecom
+Fujitsu
+Hitachi
+Mitel
+
+The PBX market has recently been plagued by soft sales. This is a function of
+the recession, the rightsizing and downsizing of corporate America, and the
+overall unsettled market from a technological standpoint. End users are
+uncertain of what to buy and when on the market curve they should buy.
+Therefore, the vendors have had to resort to major markdowns, and they often
+throw in several other goodies. The buyer's market prevails in the PBX
+industry. As a result, significant discounts can be obtained if you work with
+the vendor and understand the product being offered. Many vendors will also
+compete severly with their distributors. Remember, this is a buyer's market.
+In Table D. is a summary of how the costs would look for the acquisition of a
+digital PBX, the basic telephone system for an organization. This table
+reflects three important pieces of the billing arrangements. It would not be
+unethical to see how the vendors price out their systems against this model.
+In table D. we use an average price per port of $1000. The costs associated
+with a 1000-user system would, therefore, be as they appear in table D.
+
+Table D: Summary of Costs for a 1000-Line Digital PBX
+-----------------------------------------------------
+- Cost of hardware, software, training, all telephone sets, and interfaces
+  with installation of the hardware - $350,000
+- Cost of wiring and installation for the building infrastructure - $350,000
+- Markup and Profit - $300,000
+- Total - $1,000,000
+
+Another item of note is the third line item, that being profit. We always want
+out vendors to survive for another day , no two ways about that. However, we
+do not want to pay a 30 percent total markup on a system for profit. In
+actuality, the margin is 37 percent, and we will see why later. This is
+unheard of. So, the discounts that might be passed along from the vendor might
+well be from the profit picture. Suppose that the vendor offers a discount of
+20 percent off the top of the price. The total price is $1,000,000 and the
+discount is 20 percent, so you can expect to pay $800,000. That should make
+you feel pretty good, to get a $200,000 discount off the top of your system.
+But, wait! What if the vendor cam back and said that the total discount is
+only $70,000? Where did we go wrong? Well, the issue is where the numbers are
+being calculated. The vendor discounted the 20 percent from the top of the
+system cost ($350,000 X 0.2 = $70,000). Now, you are paying around $930,000
+total for the system, installed. That is not exactly what you thought you were
+getting a discount on! The vendor will explain that the cost of the wiring
+cannot be discounted because they use a subcontractor and have to pay this
+third party for the installation. True, but the vendor also marks up the cost
+of the wiring and installation. That $350,000 fee to install and wire the
+system is probably only a $280,000 to $300,000 charge from the subcontractor.
+So, the manufacturer or distributor is getting a piece of the pie for the
+installation too!
+
+Yes, this is true. Regardless of how we slice and dice the numbers, this is
+still a very lucrative sale for the vendor. With a $50,000 to $70,000 markup
+on the wiring, a $300,000 profit margin, and the remaining cost of the system
+($280,000), you can imagine just how much the vendor is making on this system.
+Well now look at the margins based on this new evidence.
+
+Table E:
+ Item                     Original Cost  New Cost   Profit   Percent Margin
+ ----                     -------------  --------   ------   --------------
+ PBX System               $350,000       $280,000   
+ Wiring and Installation  $350,000       $350,000   $70,000      20
+ Margin and Profit        $300,000       $300,000   $300,000     30
+ Total                    $1,000,000     $930,000   $370,000     37
+
+Can you see anything wrong with this picture? Even though the vendor has given
+a 20 percent discount to you, and you feel so special for negotiating such a
+difficult deal for the vendor, and a great one for the organization, the
+overall margin of profit that the vendor has achieved is still 37 percent.
+This still leaves a lot of room for negotiation before the deal is done. If
+you consider that there is still room to cut the cost in the profit margin,
+the profits on the subcontracted piece of wiring, and the overall system cost,
+then the dealing has only begun. In many cases, the ability to subcontract the
+wiring (for example) might produce more productive and competitive results. In
+this case, many organizations will act as the general contractor for the
+overall telephone system and then contract for the wiring separately from the
+telephones. An example of the wiring costs might look like the numbers shown
+in Table F, where a seperate contract is issued for the installation of a
+four-pair cable installed at 1000 user locations, the horizontal wiring
+between the telephone closets and the main distribution frame, and any
+ancillary cabling needed to implement the system.
+
+Table F:
+Cost Per Location                                  Extended Price
+-----------------                                  --------------
+Cost of wiring a 1000-user system @$250-$280       $250,000-$280,000
+Cost of PBX manufacturer @$350                     $350,000
+Difference                                         $70,000-$100,000
+
+Keep in mind that these figures are generic, and will require seperate bids
+from various installation companies. If, however you now consider this figure,
+and recognize that the wiring contractor has already built the necessary
+profit margins to make money on the installation, then the PBX price now has a
+different perspective. The margin for the hardware, installation, and
+warrantee on the PBX is now subject to serious negotiation. See table G.
+
+Table G:
+Item                  Cost           Percent Margin
+----                  ----           --------------
+PBX                   $280,000
+Markup                $300,000
+Subtotal              $580,000       115
+Wiring                $280,000       15
+Total                 $860,000
+
+As you can now imagine, the cost for the telephone system is $280,000 with a
+profit margin of $300,000 (over 100 percent markup). No vendor will ever
+approach this structure; these are comparative pricing scenarios. However, if
+you consider that a 30 percent markup is what the vendor is entitled to, the
+following summary gives us a whole new structure to deal from. The intent is
+not to jeopardize the stability and profitability of the supplier, but to
+maximize the comfort between the two parties. This case will obviously consume
+a lot of time and effort. But, the overall results are significant. See
+table H.
+
+Table H:
+Item           Original Pricing     Revised Pricing     Difference
+----           ----------------     ---------------     ----------
+PBX            $350,000             $280,000            $70,000
+PBX Markup     $300,000             $84,000             $216,000
+Wiring         $350,000             $280,000            $70,000
+Totals         $1,000,000           $644,000            $356,000
+Percentage                                              35.6%
+
+Clearly the price has changed significantly! The system is now being
+considered at approximately $644 per user instead of $1000. This accounts for
+a $356,000 discount overall. This is the way  you can look at using the system
+pricing, rahter than just accepting standard pricing. The pricing can vary
+quit a bit from the original proposal.
+
+Peripheral Devices
+------------------
+And finally, the list of peripheral devices for PBX markets is virtually
+unlimited. The devies range from items as simple as an external bell to very
+sophisticated management systems. The pieces are too numerous to list herein
+but there is still a lot of negotiating room for any component you might need.
+Here are some devices that might appear in the picture:
+
+ Automatic call distribution
+ Voicemail
+ Automated attendant
+ Call detail recording
+ Modem pools
+ Multiplexers
+ Head serts
+ Display sets (telephones)
+ Paging systems
+ Least cost call routing
+ Network management systems
+ Design tools
+ Answering machines
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+                           Group Ethics and Morals
+                       by Logic Box (logic@sysfail.org)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+I've been into the H/P scene for two years now. I got into it in July of 1996
+after first reading PLA way back when it was still on peak.org. As do many
+other people, I went through my "stupidity" phase (as I guess it could be
+called) during which time most of my blatant (yet for the most part, piddly)
+illegal activity was done, and most of my power-tripping took place as well
+(mostly on IRC). After a few months of this--and a few rough experiences--I
+realized a few things and learned a few lessons. And after an interesting
+conversation with my good friend BarKode recently, I really began to realize
+something that not a lot of people in this scene seem to.
+
+It's important to have morals.
+
+In thinking about this, I began considering the people around me and those I
+associate with on a day-to-day basis--especially my group. Everything I do,
+and everything that everyone else in System Failure does, leaves an impression
+on people about the group as a whole. And I don't like making bad impressions.
+
+BarKode brought up a very good point in particular, involving Milw0rm's recent
+streak of military website attacks. JF and company hang out in our IRC channel
+regularly, and read this zine as well. In each of their website attacks, a
+shout-out to System Failure was included, along with a link to our website.
+This, of course, attracted all kinds of attention. I've noticed quite a few
+hits from government sites in our httpd access logs lately. The question is:
+is this good attention? I don't think so.
+
+I have thought a lot about this sort of thing. While we are friends with
+Milw0rm and such, these types of things probably aren't something that we--as
+a group--should be implicated in. I know that the collective group wouldn't go
+around doing stuff like this ourselves. We tend to be pretty passive people,
+and vie for our learning through reading and understanding, not doing
+blatantly illegal things (I am expressing no opinion about Milw0rm's actions).
+I do not wish to point the finger at Milw0rm, this is just a good example that
+I am using to prove my point.
+
+Another question that I began to ask myself is: if I got raided today, would I
+be okay? I think this is a question that everyone should ask themselves every
+now and then. Especially all the members of System Failure that are reading
+this. :)  What if, say, one of the others members of my group got raided for
+something, and during questioning, they told the authorities that they were
+part of an underground group called System Failure? This would attract a lot
+of unwanted attention from the wrong people. Not exactly something I want.
+
+Our ethics, morals, and general overall attitude are important things, and
+should be taken into consideration by more people. Be careful about what you
+deal with, who you deal with, how you deal with them, and what the
+consequences might be--especially if you're in a group. Good groups are few
+and far between these days, and those that are should take steps to insure
+that they stay around.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+<-------+
+        | SysFail Mailbox
+        +----------------> staff@sysfail.org
+
+We've gotten a lot of interesting mail here at sysfail.org lately, so I just
+thought I'd share a few of the more humorous ones with you. Note that none of
+these are edited for grammar.
+
+
+From: Bell Haxor
+To: logic@sysfail.org
+Subject: infos
+
+y0 d00d,
+
+I've b33n readin' yur elite zine and have hella infos I'd like to hook
+yas up wit.  I've got DMS-100 Skilz xESS skillz and many other cools
+things like that, can I get my piture on yur page etc?
+
+# Uhhhh, great. I dunno what a piture is, but I'll get right on it! Actually,
+# I never replied to this, and about two days later this guy sent me another
+# e-mail calling me a fucking asshole and saying "no wonder the only articles
+# in your fucking zine are about editing inetd.conf." It was funny as hell,
+# and I would include it here except I lost it.
+
+------------------------------
+
+From: DAIZY BOO
+To: staff@sysfail.org
+Subject: very important
+
+i really like your articles and stuff.But the reason im writing you is i want
+to know how to get passwords peoples accoun credit card number so do you think
+you could please help.If you want i have a few peoples account i could give to
+you for something in return.i want to no how to punt people and learn stuff
+from yall so please write back and tell me what ya think
+
+# As for the credit card stuff, I don't do that sort of thing. It's bad. And
+# I don't know what you mean by punting people, but one day some guy came to
+# IRC and threatened to punt us all (as soon as he learned how), and we
+# 'punted' his ass right off the channel. Funny huh? [above e-mail sent from
+# aol.com]
+
+------------------------------
+
+From: PTD125
+To: staff@sysfail.org
+Subject: Worldvox exploit Q
+
+After I setup the worldvox conf, is it safe to call it from home?
+
+# Yeah, sure it is. I promise. [also sent from aol.com]
+
+------------------------------
+
+From: WopMan
+To: logic@sysfail.org
+Subject: CARD SCAMZ
+
+I HAVE FOUND A WAY TO GET TONS OF CREDIT CARD NUMBERS.YOU JUST NEED A SCANNER
+AND AN A ANTENNA USUALLY TWICE AS LARGE AS WHAT THEY GIVE YOU WHEN YOU BYE
+IT.100 DOLAARS FOR THE SCANNER AND 13 DOLLARS FOR A BIGGER ANTENNA FROM RADIO
+SHACK AND YOUR IN BUISSNESS.E-MAIL ME BACK AND TELL ME IF YOU WANT TO KNOW THE
+BEST MODEL SCANNERS AND OTHER EQUIPMENT 2 USE.ALSO A GREAT WAY TO GET INFO TO
+BLACKMAIL YOUR NIEGHBORS WITH.JUST E-MAIL ME AND ILL TELL YOU ALL THE BEST
+STUFF TO USE.
+
+# WOW, THAT'S GREAT! First of all, my advice is to fix your broken caps lock
+# key. Second, learn how to spell before I send the Grammar Mafia to your
+# house. Third, I don't know what a 'nieghbor' is, but I don't have any and I
+# can't say I've ever blackmailed them. [aol.com]
+
+------------------------------
+
+From: krow
+To: staff@sysfail.org
+Subject: Fucking over Sony
+
+Havent practiced this krime yet, but I assume it would work.  If you put
+a playstation game in your pc cd drive you can access all kinds of data
+from the game.  (some of you might know where I am going)  If you have a
+read/write drive you can copy all of the data and save it to a new cd. 
+Pop in another cd and do the same, until you have 500 dollars worth of
+pirate games and it cost you about 300 dollars.  or for the more
+advenerous out there you might try carding the drive and cds from mail
+order DickUSA.  If any one tries this I would like you to eMail me at
+[address edited out] with your results, because I am to stupid to card my
+own drive.
+
+# c0uld y3w t34ch m3 h0w t0 k0mm1t o7h3r h1gh-t3k kr1m3z? There's not a
+# DickUSA in my area, so I guess I'm out of luck. You can't play copied PSX
+# games (or foreign ones for that matter) anyway unless you've modified your
+# Playstation (but I wouldn't know how to do that or anything). And by the
+# way, this "krime" has been widely known for quite a while.
+
+------------------------------
+
+From: Georg Bourek
+To: logic@sysfail.org
+Subject: claim
+
+yr people have hacked our site. This caused us a loss in time and money.
+This practice to increase yr traffic is absolutely criminal. therefore we
+expect yr message within 24 hours how you will pay for this loss. yr org
+has to pay for the damage you caused. if no answer received, we will
+forward this matter another way.
+
+# We are not milw0rm. Quit e-mailing us, you morons.
+
+------------------------------
+
+From: John N. Phelps
+To: logic@sysfail.org
+Subject: url
+
+Hi, can you send me your secret romance url?
+
+Thanks :)
+
+# Uh, yeah... it's at http://nomercy.jobs.sk:8080
+
+------------------------------
+
+From: Gideon
+To: pinguino@sysfail.org
+Subject: hey
+
+Hello , i am Gideon .... just a humble fan.  I was wondering .. are you
+single.  :)
+
+# No, but Spanish Prince is! You can e-mail him at spee@sysfail.org!
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Well, that wraps up this issue. Issue 14 should be out soon after DefCon, with
+15 following later in the month. To all of you who are attending DefCon 6,
+we'll see you there.
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-E-O-F-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-

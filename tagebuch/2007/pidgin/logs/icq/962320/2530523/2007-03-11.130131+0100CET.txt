@@ -1,0 +1,5 @@
+Conversation with 2530523 at 11.03.2007 13::01::31 on 962320 (icq)
+(2007-03-10 19:43:00) shrike: tja kannst ned alles machen in deinem leben
+(13:34:27) landev: aber du kannst es versuchen... streich einfach mal den TV, und schwubs, hast du irgendwelche 3h mehr pro Tag... übrigens du hast doch die Kanti gemacht ich hätte da eine frage an dich:
+
+Die Menge aller abstrakten Objekte ist ein Element ihrer selbst, weil sie ihrerseits ein abstraktes Objekt ist. Einige Mengen (die meisten) enthalten sich nicht selbst als Element: so ist die Menge aller Mathematiker nicht ihrerseits ein Mathematiker, sonder ein abstraktes Objekt und als solches nicht in sich selbst  enthalten, jetzt bilden wir den Begriff der Menge aller mengen, die sich nicht selbst als Element enthalten, und wir fragen in Bezug auf diese Menge: Ist sie in sich selbst enthalten. Entweder ist sie es oder sie ist  es nicht, so wie der problematische Satz des Paradoxons vom lügenden Kreters ("Disesr Satz ist Falsch") entweder wahr oder falsch ist.

@@ -1,0 +1,227 @@
+The Interface
+Fresno CA, December 2000/January 2001
+
+Contents
+Election of Officers 
+Editor: Second Farewell
+Bernardo's West Coast Tour
+President's Year-End Message
+Member Drawing  
+Specialized Copying 
+Write Stuff Autosave
+Write Stuff Bugs
+
+Another Election
+
+As if the Florida Fiasco was not enough, it's time for an election in the Fresno Commodore User Group. Initial nominations were taken at the November meeting as follows:
+President: Robert Bernardo
+Vice President: Bill Gilbert
+Treasurer: Dick Estel
+
+We are sorry to report that Zella Mallard will be leaving the club after this year. She has served as secretary-treasurer for a number of years, and her services are greatly appreciated. We have also lost our perennial vice president, Helen Silvas, who has moved to Sacramento.
+
+Additional nominations and voting will take place at the December 2 meeting.
+
+
+On the Road:
+A Diary of a Commodore Grand Tour
+
+by Robert Bernardo
+
+I'd like to thank all of the good Commodore/Amiga people I met in my nearly 2,000 mile Commodore "grand tour" of the Pacific Northwest this summer. Special thanks go to Ron Hackley and his late wife, Ruth. Ruth is in my thoughts as I write this article.
+
+The officers and members of each of the clubs below were gracious, generous, helpful --going out of their way to accommodate me. We talked, we laughed, we had a good time. Though their interests were diverse, we had one thing in common --this bond, this computer, this Commodore. These people made me feel proud to be a Commodorian.
+Day 1 (July 13, Thursday) --Leave my parents' home in Stockton for the multi-hour journey to Roseburg, Oregon. Stop in Redding, California, to fill up on gasoline and visit an old friend. Stay too long --three hours instead of two. Now rushing to meet Ron and Ruth Hackley (Fun Graphics Machine) who had invited me to stay over. Finally around 9 p.m., arrive at the Hackley house. Ron and Ruth are waiting with take-out Mexican food. Lots of apologies --miscalculated my driving time. Talk about Commodore (Ron jokes that many people mistake him for Loadstar's Fender Tucker), family, health, and various subjects ranging the broad spectrum of philosophy, sociology, and politics. Finally go to sleep at 2 a.m..
+
+Day 2 --Wake up and have breakfast with the Hackley's. Afterwards, Ruth lets me check my Email and shows me various things on her PC, including Commodore emulators, C= screensavers/wallpaper, and Gaelyne Gasson's CD-ROMs. Ron shows me several web sites on his PC. They show me information on the Commodore Users Association in Medford, Oregon. Lunch consists of sandwiches. I work on curing a water pump leak in my car. Talk more philosophy, sociology, and politics with Ron. Go for a walk along the Umpqua River. Have dinner. Talk about the radio interview the Lane County Commodore User Group had done with National Public Radio. Try to download my radio interview from the KDVS-FM web site so that they could hear it. Ron and I talk about fixing a laptop, electronics, and the comedian, Benny Hill. I prep Fresno Commodore User Group disks for tomorrow's LCCUG meeting. Listen to Ron's CDs of Knees Calhoon music from Loadstar. Go to sleep at 2 a.m..
+
+Day 3 --Wake up and have breakfast with the Hackley's. Check my Email one more time. Leave Roseburg late. Follow the Hackley's truck but have to tank up with gas along the way. Arrive at the LCCUG meeting in Eugene around 11 a.m.. Listen to the demonstration of scanning with a PC (!). Speak with Karl Stone, treasurer. Speak with Brian Strayer, president, about newsletters, articles, AmiWest 2000 (the West Coast Amiga show, July 29-30). Depart at 1 p.m., thanking the Hackley's many times and waving good-bye furiously. Leave for the fairly brief drive up to Portland. Get a room at the Motel 6 in South Portland (Tigard). Leave for the Trail Band concert in Beaverton. Arrive early. Great weather, great music, great concert. Eat dinner at Skippers Fish Restaurant near my motel. Go to sleep at midnight.
+
+Day 4 --Wake early for the long drive to Seattle, Washington. Along the way, stop in Ethel, Washington, to meet Raymond Carlsen, comp.sys.cbm hardware tech. Talk about LCCUG and UWCUG (University of Washington Commodore User Group). Leave him a FCUG newsletter and disk-of-the-quarter. Leave him a 1581 drive to repair. He asks me to stop by on my way back to California (the 1581 might be repaired by then). After this brief stop, I take off for Seattle. Fight through the Sunday freeway traffic and get to the Motel 6 in Tacoma (Fife). Then on to the UWCUG meeting at which I am to appear. Find Joe St. Aubin's apartment exactly where MapQuest.com told me to go. No answer to my buzzing the apartment. Walk down the block to a branch of the Seattle Coffee Company. Have chocolate cake and water. An hour later, I ring the apartment again. A head appears through the door, but he doesn't look like Joe. The head disappears, and I buzz the doorbell again.
+
+Again the head appears, "Are you Robert?"
+
+"Yes, I am."
+
+"Joe is waiting for you."
+
+I enter. Joe greets me, apologizing profusely, because earlier he had been listening to loud music and had not heard the buzzer. The head belongs to another member, Mike. I hand them some FCUG disks and newsletters.
+
+A few minutes later, Elwood "Tiger" Avery appears. He starts setting up the C= equipment. More members gather. Meeting begins. Total of 11 are there. I speak to the assembled crowd. Show my videotapes of the 1999 DejaVu II demo party in England and of the 1999 Vintage Computer Festival 3.0 in Santa Clara, California. Applause. Tiger demonstrates how to display JPEG's on-line with a C128 in 80-column mode and Craig Bruce's ACE and ACETerm programs (hint: the ISP and an on-line script are the horsepower to drive the JPEG viewer). Pics flicker a lot in this interlaced mode. Then Tiger tries to run Maurice Randall's The Wave beta 2.0. Wheels boots o.k., but The Wave freezes with a message that says the user must use Wheels v4.2. Tiger tries to run The Wave beta 1.6, which he says ran earlier for him. Again The Wave freezes with the same message. (Days later, in a phone call with Maurice, he advises me that there must be no ramdisk or a minimal ramdisk in Wheels for The Wave to work correctly. Otherwise, the message pops up, even with Wheels 4.2.) Roger Long, keeper of the Commodore Products Source List, gives me a laser-printed copy. I tell him of some club updates.
+
+The meeting winds down by about 6 p.m., and we have to hurry to an after-meeting dinner, because Tiger has to be elsewhere by 7. Dinner at a Mexican restaurant. Talk about Commodore, clubs, and newsletters continues. Finally by 7, we leave, each going their own ways but not before I get my materials I had left in Joe's apartment. Leave for the Motel 6. Asleep at midnight.
+
+Day 5 --Depart by 10 for Edmonds, Washington. Looking for Rick Steves' Travel Agency (home base of Rick Steves who has the Travels in Europe TV series on public broadcasting stations) and for a comic bookstore which carries certain sci-fi videos. Fight through the Seattle freeway traffic and find little Edmonds perched by the water. Park and walk to Rick Steves' facility. Buy videotapes of France, Spain, and Italy. Find the comic bookstore and buy the rarely-seen Japanese sci-fi flicks, Atragon and Battle in Outer Space. Eat at a Japanese restaurant almost next-door to the store. Go to the Edmonds public library to check my Email. Hundreds of messages! Respond to pressing Commodore business, including a message to Ray Carlsen saying that I won't be able to pass his way when going back to California. See a message from Gary Peake, managing director of Amiga, Inc.. He answers that I'm more than welcome to visit their company in Snoqualamie, Washington (east of Seattle). Have to give my regrets, because my travel itinerary has already been planned. Tour the boat docks in the harbor. Finally, leave for Motel 6. Arrive back by 8; asleep by 11.
+
+Day 6 --Awake at 5. Leave motel by 6. Gas up the car and depart for Bremerton/Silverdale, Washington. Pass by the U.S. naval bases. Reach Silverdale and turn at the first exit. Get to a Target shopping center parking lot and find a phone booth. Call Beatrice Goods of the Commodore Users of Puget Sound. It's 8, and Beatrice is just getting out of bed. She will meet and escort me to her house. Awhile later, Beatrice drives up, and I follow her. She introduces me to her husband, Jim. Gives me breakfast. Talks about her small, informal club. Used to have a newsletter. Wrote under the moniker of Grandma Bea. I give her a FCUG newsletter and disk. Describe our group. Verify CUPS information on Roger Long's list. Finally, I leave, because Bea has to be at work in the public library by 10.
+
+Keep heading to Port Angeles. Eventual destination --Victoria, British Columbia, Canada. Arrive in overcast Port Angeles one hour before the noon ferry departure. Leave car in parking lot. As a foot passenger, I pay $7 one-way. The M.V. Coho arrives. On board, I get a sub sandwich and iced tea. After eating, fall asleep. About an hour later, the ship arrives in Victoria. Go through customs and am finally out in Canada. Familiar yet different. Combination of United States, British, French, Indian, German, Irish, Scottish, and uniquely Canadian cultural aspects. Must find lodging. Walk a mile up the hill, dragging wheeled suitcase. Reach the Traveler's Inn, advertised to have the best prices in the city. Clerks tell me that here is no room at this site. Must visit another Traveler's Inn farther up the hill. A few blocks later, make it to the next inn. Book for two nights lodging. Walk to the nearest bank machine for Canadian cash. Then back down to the Victoria waterfront to check out the shops along Government Street, take a boat tour of the harbor, and eat at the seafood buffet in Kipling's Restaurant in the famous Empress Hotel. In a hotel store, found Bounty chocolate bars (only found in England and Canada) and bought $20 worth. Back to the inn by 9 and finally make phone contact with Russell Redman, Commodore user extrordinaire. Arrange it so that he meets me at 6:30 the next day at the inn. Asleep by midnight.
+
+Day 7 --Awake at 9. Walk down Douglas Street to the bank machine and withdraw more money. Go to the Nootka souvenir store and buy gifts for friends and family. Then walk to the double-decker buses in front of the Empress Hotel. Pay for the city tour (but not including the Buschart Gardens, because there was no time). Bus takes us through the various city neighborhoods, passing such homes as those owned by actor Tom Selleck and by singer Sarah McLachlin. During the mid-way point in the tour, bus stops at a waterway overlook and small boat harbor. At harbor cafe, eat a sausage in a fried roll (what do the English call it?). Upon my return to the Empress Hotel, go up Government Street one last time to window-shop. Wait at the inn for Russell. A bit after 6:30, receive call from the front desk that a gentleman was waiting. Walk down to meet Russell, who introduces me to his wife, Nora. In his car, he drives me quite a way to his modest house which has a spectacular view of the ocean. Shows me his high-powered C64 system which consists of RAMLink and CMD hard drive. Shows how he created/modified a program to autoboot the RL with a menu. Tells about how there used to be three C= user groups in Victoria. Was a member of the San Juan de Fuca Commodore Club. Now only he and a C= technician are left. I give him a FCUG newsletter and disk. Show him the various C= magazines I had. Russell and Nora treat me to hot tea and cake. After a few hours, he drives me back to the inn. I'm asleep by 11:30.
+
+Day 8 --Wake at 4 a.m.. Leave inn at 5 in order to get the 6:15 ferry back to Port Angeles. Arrive in plenty of time. 6:05, board the Coho, have a submarine sandwich and iced tea. Fall asleep. Arrive at Port Angeles. Go through American customs. Get in the car and drive down and across the peninsula. Destination --Astoria, Oregon. Wish there were a more direct route --too many curves and motorhomes slowing me down. Arrive in Astoria between 1 and 2. Call up David "Lord Ronin" Mohr, chancellor of the Amiga-Commodore Users Group 0447. Tell him that I'm going to find a motel and have lunch first. Tells me that he is going to have lunch, too, and gives me directions to his store. After finding a motel and eating lunch, I circle the one-way streets of little downtown Astoria until I find parking at the library. Walk to his store. Find David behind his flat C128 and vice-president Mark "Lord Alberonn" Reed behind his Amiga 4000. David instills into me his devotion to the Commodore. Mark asks about the upcoming AmiWest Show in Sacramento. Both commenting and asking questions at the same time. Have to answer both of them at the same time. Help copy their club disks with my MSD SD-2 dual drive. After a couple hours, leave to eat dinner at a local Chinese restaurant. Return for the 7 p.m. official meeting. Six in attendance. David goes through the points of C= business efficiently, Mark taking his turn to relate Amiga points of business. Their disks are distributed. My FCUG newsletters and disks are distributed. Meeting over by 9. Some more talk of sci-fi and conventions. Finally depart store by 9:30, both lords inviting me back another time. Return to motel. Fall asleep by midnight.
+
+Day 9 --Wake up and depart by 10. Follow Highway 101 south and then turn toward Portland. Circle around Portland to avoid the traffic and pop out near Salem. Continue south on Intersate 5. Today's destination --Medford, Oregon. Arrive in Medford at 4 p.m. and check into Motel 6. Call Vanessa Swing, president of the Commodore Users Association. She says that she will meet me at the local Skippers Fish Restaurant, along with as many members she can bring. A bit after 6, meet with Vanessa and her mom; E.J. Clutter, CUA treasurer; and John Locke, CUA librarian. I distribute the FCUG newsletter and disk, and ask about their club. John Locke is a programmer, too. They have a C= tech in town. Vanessa invites me to come back for a regular CUA meeting. After dinner, I go to John's house in order to see his library of C= books and orderly collection of C= programs. John shows me the video when their club was featured on the local TV news. We graphically cruise some web sites (including FCUG's) with his Mac (!). Leave just before 11. Asleep by 1.
+
+Day 10 (July 22, Saturday) --The return to California. Leave by 10 or so and arrive in Red Bluff, California by 2. Try to call John Elko of the Classic 64 Preservation Society but can't get through. Contact Ernie Froelich, another member, who tells me to go to the local True Value hardware store and find C64PS president, Richard Maret, working there. Find Richard, who days earlier had received my phone message on his answering machine in which I said I was coming today. Shake hands and talk of our clubs during the interludes when Richard isn't helping customers. He is a programmer from the "old school", i.e., he programmed 1960's computers. He understands when I talk about hardware at the Vintage Computer Festival. Ernie enters store, and Ernie and I go the next-door charity store. He finds a 1701 monitor and an old laser printer. (We are just looking for a blank 5 1/2" disk in order to copy a FCUG disk-of-the-quarter.) Ernie pays a few dollars for everything. I help him load the stuff into his van. Back to True Value to talk to Richard. Make a copy of FCUG disk right there in the store with my MSD SD-2 dual drive. Unfortunately, Richard has to work until 5 or 5:30. He invites me back. And so, after a couple of hours there, I leave for Stockton, satisfied I had contacted many user groups and users during the last 10 days.
+
+P.S. At the Sacramento AmiWest Show of July 29-30, I meet Rick Rudge, president of the Milwaukie Computer User Group of Portland, Oregon. He gives profuse apologies that he could not meet with me during my journeys. I tell him that it was quite understandable and promise him some FCUG newsletters.
+
+At the same show, I meet Ryan Czerwinski, owner of Merlancia, a Commodore-Amiga retailer from Phoenix, Arizona. I know that he is the American distributor for MegaPatch 3, the European upgrade for GEOS. I ask for MP3, but he didn't bring it, because he didn't think that anyone would want it at an Amiga convention. Disappointed, I ask whether MP3 had solved its stability problems. He replies that v3.0 was stable, but v3.02 is having problems. He awaits an update from the MP3 programmer and has frozen all sales of MP3 in the meantime.
+
+
+What the Editor Said
+
+What a long strange trip it's been.
+
+Some of this tale has been told before, but it always seems to fit the occasion. I was glancing through the Fresno Bee one November day in 1988 when an ad for a Commodore 64 caught my eye. 
+
+To condense the saga down to its essence, within a few weeks I had a C-64, 1541 drive, printer, monitor and several programs. None of those early programs held up; in fact, I went through two word processors before I discovered the Write Stuff. I struggled with GEOS 1.2 which came free with the computer, but found it tedious to use (it took 2.0 and a one meg REU to make it worth using).
+
+Ultimately I bought and sold a half dozen or so C-64's, an SX-64, several C-128's, at least four monitors, three printers, and too many disk drives to count. I am left, in the twilight of my Commodore years, with a C-128, one megabyte REU, one monitor, a Star NX1020 Rainbow printer, a 40 megabyte hard drive, two 1571's and two 1581's.
+
+My only regret is that I did not get a 128 from the start, and that the store personnel did not have the computer knowledge or the sales ability to determine what my needs were (probably I could not have told them anyway). In all fairness, the store was very helpful in taking back some problem software and a drive, and I was happy with my system for a long time.
+
+While I did not necessarily accomplish everything I expected with the computer, I received a bonus I hadn't even imagined. First I became a member of the Fresno Commodore User Group, which brought me into contact with a long parade of wonderful people.
+
+Then I made dozens of friends via snail mail and Email through my activities on Q-Link and with GEOS. In the course of this activity, I made contact with people all over the world.
+
+Mixed in with all this were two terms as editor of the Interface, which expanded my connections to the Commodore community. There were discussions via mail, phone and Email with editors and writers for Commodore club newsletters throughout North America.
+
+Now it is time to pass the task on to new hands. With C=Voyages, and his articles for The Interface, Robert Bernardo has demonstrated the interest and ability to step in and continue the tradition of our newsletter. Bon voyage!
+
+
+I've Got Five Dollars and It's Saturday Night
+
+There was no drawing in October; we ran late and rushed out. In November Keith Sohm's name came up once again (will he ever actually see the money?) The winner on the second try was George Stonecipher, who said he would now be able to afford gas to drive home to Laton.
+
+We draw names till there's a winner, stopping after the third name. If none of them is present, the pot goes up to $10 the next meeting.
+
+Other Y2K winners: Chester Sohm, Dick Estel, Helen Silvas (twice), Bill Gilbert, Robert Bernardo (twice) and Del Contreras.
+
+Absentee names drawn in 2000: Jack Dickey (twice), Keith Sohm, Chester Sohm, Zella Mallard.
+
+
+C=Scape
+By Robert Bernardo
+
+This is the season of celebration and reflection, a time in which we take into account the past and plan for the future.  The past and the future must also be considered in respect to our club.
+
+In December we will have our elections for the 2001 FCUG officers, but things are changing.  A few months ago Helen Silvas, our current vice-president, left for the Sacramento area, leaving an empty spot at the top.  In November, Zella Mallard, our long-time treasurer, announced that she would be stepping down.  I wish them luck in their new endeavors, and I call on the current members to make their wishes known in the December elections.
+
+We're losing our long-time computer tech, Del Contreras, and our other technician, Doug Cunningham, is a question mark.  I must thank them for their loyal support after all these years, and we must look at other sources to repair our machines.
+
+A really big change...  Dick Estel, our Interface editor for the last few years, is retiring from that position.  His expert publishing of the newsletter has made the Interface one of the top Commodore newsletters, according to Loadstar disk magazine.  I want to give him my heartfelt thanks for a job well-done, and we must expect a different Interface for 2001.
+
+With change comes different options.  Though the VP spot is still wide open, Dick Estel is nominated for treasurer.  I've been nominated for president again.
+
+Though he lives in Washington State, I can recommend Ray Carlsen, a thoroughly competent technician who loves and understands C= equipment. He posts regularly on comp.sys.cbm in regards to hardware questions, and he repaired my ailing 1581 drive for an extremely reasonable price.  See me for more information on Ray.
+
+The different 2001 Interface will have a different editor.  I've been taking GEOWrite/GEO-Publish classes from our GEOS expert, Ralph Parrott, and I hope to be up to speed by the time I take over the editor's position, starting with the February/March newsletter.  Extra big thanks to Ralph for his patience and his time to teach me the ins-and-outs of GW/GP; GEO-Publish has extremely high learning curve. My goal is to match what Dick Estel has accomplished with the Interface, and that's a tall order.
+
+My thanks to all of our members for supporting the club.  Thanks to all those members who attend our meetings.  Thanks to all who attended the club picnic in September (though I was not able to make it, due to car trouble).  Thanks to our special November meeting guest and FCUG member, Jeri Ellsworth, who came all the way from the Portland, Oregon area (via Phoenix, Arizona!) in order to show us her latest prototype video board for the C64 (a board which would give the C64 access to thousands or millions of colors).
+
+What can we expect in future 2001 meetings? More disks-of-the-quarter, more Loadstar demos, more video from the various Commodore Expos, more from the GEOS/Wheels front, more on web-browsing/Emailing with the Commodore, music or game demos, and perhaps another special guest. Any more suggestions? See me.
+
+Stay tuned.  We're still taking 8-bits into the 21st century! Happy holidays!
+
+
+Specialized Copying
+
+by Dick Estel
+
+Most of the time any old copy program will transfer data from one disk to another, whether it be floppy, hard drive or virtual disk in a RAM expander.
+
+However, there are a number of specialized copying jobs that require specific tools. One notable example is GEOS file copying. If you have ever tried to use an ordinary file copier to copy GEOS files, you discovered that while there were file names on your target disk, there was nothing usable.
+
+The unique structure of GEOS files requires that they be copied only within GEOS. The reverse is NOT true...GEOS will successfully copy files of most any type.
+0
+A GEOS whole disk copy is not a problem; most standard disk copy programs will copy GEOS data disks correctly. In the case of system (boot) disks, or disks containing protected applications such as geoWrite, the copies will not work unless "treated" with Maverick or other parameter copying systems; or copied with a specialized program of some kind.
+
+Setting up a working GEOS program on a Creative Micro Designs hard drive requires the use of Maverick (at least if you use the method in the hard drive manual). The latest version of Maverick will not work with the hard drive turned on; it is necessary to fall back on the older version 3 or 4 to complete this task.
+
+Another specialized area is the copying of 1571 disks. I have only used one program that will copy a full two-sided 5.25" 1571 format disk. This is Fast Hack'em 128, V6.0. You could do this with GEOS if you have two 1571's, but it is very slow (when GEOS does a disk copy it is actually a file copy process). If you don't have this version of Fast Hack'em and need to copy a full 1571 disk, you can just use any file copier to copy all the files to a blank, formatted disk. 
+
+However, I had one copy job that could be done only with Fast Hack'em: This was when I set up Personal Ancestral File, a CP/M program. The disks are designed for use on Osborn, Kay-Pro, and C-128 computers but I needed to keep the originals unchanged as backups, so copies were needed. 
+
+It's unlikely that most users will be in a situation where full disk copying is their only option. However, if you have a copying problem, see if the solution is here.
+
+
+The Write Stuff
+Auto-Save Feature
+
+by Dick Estel & Mark Miller
+
+For those of you who've been using The Write Stuff word processor without thoroughly digesting the manual, here is an explanation of a couple of the features that are mentioned but not emphasized. These features can speed up your work and make you appreciate this outstanding program a little more.
+
+Normally, when you want to save a document, you press [CTRL] s and then type the document's filename and hit [RETURN]. Or, you can press [UP ARROW] to get to the command line (the line of commands at the top of the screen) and then either cursor over to highlight "Save" and hit [RETURN] OR hit s. You then enter the document's filename and hit [RETURN]. This will cause the disk drive to store your document under the filename that you have selected.
+
+If that filename is in use and listed in the disk directory, TWS will stop, tell you that a file with that name already exists on the disk, and ask you if you want to replace the existing file with the document you are trying to save. You can use the cursor key to highlight either Yes or No, and then hit [RETURN] or you can hit y or n. If you tell TWS yes, then it will save your document under the filename you have chosen and the previous document with that filename will be lost. If you tell TWS no, then it will return to your document, ready for further typing or instructions.
+
+Replacing an existing file is usually done to update a document in progress. Let's say that you are typing a three page report. You don't want to get through 2 and 1/2 pages and then have the power go out on you and lose all that you have in memory. Or, more likely, you might print a rough draft, and accidentally erase the document from memory or turn off the computer without saving the document.
+
+You might want to consider saving the document every two or three minutes. That way, if something happens, you will only have lost the last few minutes of work, not the whole thing.
+
+To make this process a little easier, you can use the AUTOSAVE option, which allows you to tap [CONTROL] then s, and instantly save the current document. Set up this feature as follows: Before you start typing your document, tap [CONTROL] 1 n. This produces a reverse "n." Next type @0:- followed by the file name. Do NOT use quote marks! Press [RETURN] after typing your file name. From then on, tapping [CONTROL] s immediately saves the document. Remember, this will replace the previous version without asking if you want to do this!
+
+This makes saving a lot easier, encouraging you to periodically save the document during the typing process. One caveat: DO NOT USE QUOTATIONS MARKS IN THE FILENAME. Mark made this mistake once, and lost his document because the filename started with a " and when surrounded by quotation marks to delineate the file name, looked like two quote marks in a row. So the computer tried to find a file with a name between the quote marks. But there was nothing between the quote marks, so it wouldn't try. (He finally recovered the document with the help of a track and sector editor, but the important thing is -don't use quotation marks in your file name.)
+
+This autosave feature is discussed on page 4 and 24 of the TWS 64 manual.
+
+NON-PRINTING NOTE: The reverse n can be used any time you would like to include a comment in your document that you don't want printed. Any text you type between a reverse n and the next [RETURN] will appear on the screen but will not print to your hard copy or on the preview screen. Just tap [CONTROL] 1 n. This will produce the reverse n. Then type your comment, followed by [RETURN]. 
+
+
+
+Bugs and Anomalies in 
+The Write Stuff
+
+by Dick Estel
+
+As I used The Write Stuff 128 over the years, I discovered some annoying behaviors. I hesitate to call them all bugs, since the program's author has discussed one of them, and apparently feels it is part of the normal operation. So I will call it an anomaly. It is related to the macro feature and the sequence of events is as follows:
+
+You call up the macro file in order to make a temporary macro, by typing [CONTROL] [SHIFT] M. At this point, the entire macro file is merged above your current document.  This does not make sense to me, since you must delete it before you save your document.  When you delete it, the macro file gets trashed.  After this, you can no longer use the macro feature.
+
+Every time you type a one-or two-letter word, the cursor either locks up or disappears entirely.  After this you can't type or move the cursor.  You can always recover by pressing [RUN/STOP] [RESTORE], then typing RUN.
+
+You can eliminate the problem by turning off the macros, by typing [CONTROL] m.  But you are without macros until you re-boot.
+
+You can retain the macro file by transferring into a second text area, assuming the size of your document allows this.  I don't think this is an elegant solution.
+
+Another problem, which may be related to the above, occurs in relation to the multiple text area feature.  Sometimes when I create a document, then switch to the alternate text area via [CONTROL] [SHIFT] Q, the same document appears in the other area.  Additionally, any text clear action performed on one area acts on the other area; for example, using [CONTROL] [SHIFT] [CLR] to erase all or part of the document erases BOTH documents.
+
+Several times I have had a problem with sections of text not printing when using columns. I created a list of items several pages long. Since each item was fairly short, I wanted to print in columns. At the point a new column began, I noticed that anywhere from one to five lines of text would disappear when printing or viewing in print preview. I was able to correct this by adding returns above the line that disappeared. This required adding one return, previewing; then adding additional returns and previewing until all the text appeared.
+
+When I edited the Commodore MaiLink in January of 1999, I encountered the same thing with portions of text lost at the top of each page. I ended up printing each page separately, since adding returns in the middle of a paragraph threw the formatting off.
+
+For the January 2000 MaiLink, I created three files of several pages each, and used the command to link them so I could print the entire publication at once. For one section, I had to place a return at the top of the page, or the first line would not print. This created an extra line, which then affected the formatting for the rest of the issue.
+
+Finally, there is a definite bug relating to use of the print to memory feature. After using this feature several times, the program crashes in various interesting ways.
+
+The crashes I experience usually but not always occur after a SAVE. However, they can happen after a LOAD or even while I am going through the file with the function or cursor keys. I don't believe it has happened during actual typing (text entry).
+
+Crashes take one of the following forms:
+
+1. The cursor disappears and no screen movement is possible.
+
+2. The screen fills with what appears to be at least partly program code -- some basic keywords, but mostly garbage. I can go to top and bottom using CLR and HOME, but there is no other cursor movement. Sometimes all but the top few lines of the screen will shift down a line, then back up (like a return is entered then deleted). Often there is a "cursor" where the character in that spot is constantly changing.
+
+3. While paging through a document with F7 the document scrolled up out of sight and was gone.
+
+4. A series of numbers appears and the computer dumps out of the program to the monitor. Garbage or part of the text may or may not appear on the screen.
+
+Recovery: Pressing RUN/STOP RESTORE reverts to the basic start-up screen. Typing RUN with RETURN may recover to the garbage screen, but usually does not recover at all.  Entering the POKE and SYS codes from the manual virtually always recovers but the RETURN character looks different (the horizontal bar is two pixels high instead of the normal 1 and the vertical arrow part is also wider). The REU drive is gone. Preview mode sometimes (not always) yields a display in which graphic characters replace upper case and embedded code characters; but normal hard-copy printing seems to be OK.
+
+During situation #2, I can access the command line. I did this and attempted to load a file, but the garbage display remained. When I recovered with the POKE/SYS, the file was there.
+
+Often after recovery, and sometimes before a crash, a light gray character 0 (zero) appears above the extreme upper left cursor position, below the command line.
+
+This problem nearly always occurs after I have used the print to memory command a number of times. When I am doing this, I always make sure I save the document frequently. I suspect that something about using print to memory eventually corrupts the program.
+
+None of these problems are frequent or severe enough to change my opinion that TWS is the world's best Commodore word processor. Like everything, the Abest@ can always be better.
+
+(This article first appeared in the Commodore MaiLink, newsletter of Meeting 64/128 Users Through the Mail)
+
+
+
+
+

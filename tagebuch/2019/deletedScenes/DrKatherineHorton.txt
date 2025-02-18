@@ -1,0 +1,28 @@
+Ein Halli Hallo aus Aarau
+
+Mein Name ist Marc Landolt und bin per Zufall auf Deine/Ihre Videos gestossen.
+
+Ich war auch ein Targeted Individual und hab auch meine ganze Wohnung mit Alufolie ausgekleidet. Ich hab auch ganz viele Mails an Behörden geschreiben (aber nur im Aargau)
+
+
+Ich hätte auch ein paar Fragen:
+
+1. Meinen Berechnungen nach wäre es nicht möglich, von einem Satellit her genügend Energie-Dichte aufzubringen um auf der Erde solche Dinge wie Du / Sie beschreiben zu erreichen.
+
+2a. Meinen Berechnungen nach wäre es nicht möglich Implantate zu haben, die Kommunikation in beide Richtungen ermöglichten. Selbst wenn jemand etwas wie eine Blut-Brennstoffzelle erfunden hätte (konjunktiv), würde die Energie wohl nicht reichen um mit genügend Bandbreite zu senden. (Shanon-Nyquist-Theorem.) Allenfalls mit etwas wie dem Neruallink der zur Zeit von Elon Musk entwickelt und gehyped wird. (War letzten Monat in der Mainstream Press)
+
+2b. Was aber meiner Meinung nach gehen würde wäre ein Unidirektionales-Neurointerface. Die Frequenz f[c] liesse sich durch die halbe Länge der "Antenne" berechnen (bzw. die halbe Wellenlänge λ/2) Genau dies wäre dann aber das Problem bei Elon Musks Neuralink. Die Elektroden an welchem das abnehmbare Empfangs/Sendegerät angeschlossen sein wird wäre ja gleichzeitig auch eine Antenne. und somit könnte man mit entsprechender Frequenz eine Seitenband-Attacke Attacke starten und die Elektroden selber als Empfangsgerät missbrauchen. Und zwar nicht Bidirektional aber Unidirektional Impluse oder allenfalls auch Audio und Daten einspeisen.
+
+3. Dann hast Du / haben Sie viel zu wenig über die Psychologsiche Komponente gesagt. Ein simpler Kommuikation wäre längst nicht genug. Man müsste sich auch bei Behavioral Sciences bedienen. Z.B. bei Clark Hulls Formel für das Stimuli Reaktions Habit. Das Signal könnte sowohl Akkustisch, als auch Visuell, als auch gepulste Mikrowelle sein. Oder z.B. Dinge wie das 1980er Paten US4877027 (Microwave Hearing) oder eine Kombination von diesen Technologien. Also so zu sagen das Biologische Gehirn des Targeted Individuals Ausnutzend.
+
+4. Dann ist noch die Frage des Rückkanals zu klären, dies würde meiner Meinung nach nur mit Massiven Serveranlagen funktionieren welche die Reale Welt (oder Teile davon) intern in 3D abbilden (also z.B. eine Game-Engine wie die Cry-Engine welche für viele 3D Games verwendet wird und sicher genügend ausgreieft wäre) und mit vorhandenen Sensoren (Handy, Mikrowelle, Toaster, TV...). Hätte man mehren Sensoren an verschiedenen Punkten in der Wohnung somit könnte man mit Triangulation z.B. die Position des Targeted Individuals ermittelt. So wie Radar, oder z.B. wenn halt eine Webcam oder Alexa etc. vorhanden ist. Ein Proof of Concept für so etwas wäre hier: https://hackaday.com/2016/06/02/minimal-mqtt-power-and-privacy/ 
+
+Was mit ziehmlicher Sicherheit funktionieren würde mit verfügbaren Technischen Mitteln wäre z.B. Active Denial System, welches dann mit diesem 3D Modell des Opfers gekoppelt wäre. Das Active Denial System würde ja physikalische Schmerzen verursachen und diese könnten dann verwendet werden um Stimuli-Reaktions-Habits im Gehirn des Opfers abzuspeichern / bzw. einzubrennen, wie ich z.B. als Kind gelernt habe, dass ich den Herd nicht anfassen sollte nach dem ich meine Finger am Herd verbrannt hatte.
+
+...Schulssendlich wurde ich in die Psychiatrie zwangs-interniert und mit Psychiopharmaka voll gepumpt. Seit dem bin ich zwar ein paar IQ Punkte doofer, aber nicht mehr Targeted Individual. Aber seit ich Dein(e)/Ihr(e) Video(s) gesehen habe erinnere ich mich wieder an alles. 
+
+Mit freundlichen Grüssen
+Marc Landolt
+eidg. dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau

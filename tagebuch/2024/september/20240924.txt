@@ -1,0 +1,82 @@
+
+Tue Sep 24 04:53:15 CEST 2024
+
+Baustellen:
+
+Die Verhandlung im FALL Staat gegen NSA wo man sieht dass der Richter welcher den militaeischen General Keith alexander befragt wo man sieht dass der richter offensichtlich auf drogen ist bedeutet vermutlich dass blackhat hacker wie urs blum oder gabriel riela (gabriel nennt sich acidPirate) den richtern polzisten etc einredet sie muessten drogen konsumieren damit sie die wahrheit besser erkennen
+
+so verschleiern die blackhats mit drogen-hexerei-zauberei die eigentliche technologie dahinter
+
+fur urs blum der an der selben ABB Technikerschule seine erste informatik ausbildung gemacht hat wie der Oberstleutnand walter brigger hat vermutlich jetzt wo dieses VERARSCHE DURCH DIE MILITAERS aufgelflogen ist paranoja dass ihm sein laden von hexerei-zaubere-drogensuechtigen offizizieren um die ohren fliegt
+
+
+
+
+bin grad im BASH ohne xserver  weil schienbar hat urs blum mindestens jemanden bei debain im entwickelrteam von trixie aufgekauft der scheinbar dafuer geschaut hat dass der xserver nicht mehr startet bei einer komplett neuen installation
+
+
+
+
+dann die cyersprengfallen von urs blum und der zuerich versichrung haben mehrere sprengstuffen
+
+
+1. Stufe: nur ein programm wie zB das Musikprogramm mixxx zu sprengen was ich laufen lasse dass ich ncith von den poltergesitern mit bohrhammer im 11.12. oder 13. stock genervt ewrd
+2. stufe: sprengung des windowmanager -> alt f2 + r + enter
+3. stufe: sprengung des xservers selber -> reboot
+4. stufe: computer neu aufsetzen muessen
+  -> dies ist dann so eine art hohle gasse mit ganz vielen cyber-sprenggfallen in sequenz
+
+damit soll zeugen, opfern, autisten oder iv empfaengern ausgetrieben werden straftaten an die polizei oder an die bundesbehoerden weiterzuleiten trotz mitwirkungspflicht welche man als Invaliden-rentner hat
+
+
+Tue Sep 24 05:02:04 CEST 2024
+
+
+
+erste untersuchung des Problems mit gdm3 und gnome oder gnome-classic welche nicht gehen
+
+das ist so etwas wie eine zutrittskontrolle welche vermutlich in einer library von gtk, gnome... hockt welche sowohl gdm3 als auch gnome gnome-sesseion gnome-shell gnome-classic verwendet
+die zutrittskontrolle soll vermutlich verhindern, dass zeugen, opfer oder autisten wie ich irgendwelche dinge wie das gestern an Bundesbehorden weitermelde
+
+lxdm geht aber...
+
+also wenn es selbst bei der polizei faule aeppfel hat dann vermutlich auch unter den debain maintainern oder den gnome developern, man sagt ja "jeder hat seinen preis" aber da muss ich anmerken, dass man vermutlcih viele autisten nicht kaufen kann, weil deren zangsneurose puzzles richtig-korrekt zu loesen ist staerker als alles schmiergeld der welt-erde-planet-wirtschaftskriminellen
+
+dann das "forschungsprojekt der unibasel um traumatische erinnerungen zu loeschen ware VERMUTLICH auch eher dazu da zeugen und rechtsfaelle zu manipulieren und das -wir-wollen-nur-dass-vergewaltigungesopfer-nicht-mehr-suizidal-sind- waere nur die zurich versicherung welche so an finanzierung kommen will fuer forschung zur manipulation von rechtsfaellen und zeugen" steht sonst alles auf den notizen auf ../.../scans/23 bzw 24
+
+
+dann lxde/lxdm hat glaub kein direct rendering ... auch etwas was ein display manager wie gdm3 sowieso nicht braeuchte vermute ich
+
+sich zu diesen dingen einzuarbeieten waere super spannend aber dann werde ich wieder in die luft gesprengt wenn ich mich auf technsiches konzentriere :/
+
+----=====  Tue Sep 24 21:36:40 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september b9ce11ba9864d54ba08f3d02ff247456a0fd62e8 ====----
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+und zum Dank, dass er all die Schulden fuer sich und auch andere zurueck bezahlt hat hat man marc jr landolt auch ncoh seine Wohnung im rombachtaeli und die hackerspace garage welche er so mochte genommen
+
+und die Wohnung wurde marc jr lanodlt LEGAL genommen, alles von staates wegen, abgesegnet durch richter des Schlichtungsgerichts Aarau nach dem juerg stalder marc jr landolt bedroht hat, koerperverletzungen zugefuegt hat, falschaussagen gemacht hat welche zur beendigung des mietverhaeltnisses gefuegt hat, und man hat auch geschaut dass juerg stalder geschuetzt wird und nicht bei gericht war als man marc jr landolt die wohnugn und seinen hackerspache garage genommen hat
+
+----=====  Tue Sep 24 21:39:25 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 46eea9a6fbd62fc47f87771678dc1f306e169357 ====----
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+ich:
+gerne nicht diese themen, das sind diese dinge welche mich dann zusaetzlich suizidal machen, und zusaetzlich paranoid weil vom staat erwartet man so etwas nciht, aber ich weiss ich bin naiv, das macht man seit 1950 mit verdingkindern und vermutlich allen unterschicht menschen
+
+----=====  Tue Sep 24 21:40:51 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 872a9dd7b5a2b0f25e19690e8789dbad0cbdb85f ====----
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+und marc jr lanodlt wird euer geld selbst wenn ihr es zurueck zahlen wuerdet nicht annehmen, so wie die mesiten verdingkinder den schadenersatz von 300.-- fuer jedes jahr sklaverei nicht angenommen haben
+
+----=====  Tue Sep 24 21:41:41 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 0f824169c90814210819842a61facd3383ccd554 ====----
+[main 1bf6f003] ... 0f824169c90814210819842a61facd3383ccd554
+ 1 file changed, 3 insertions(+)
+

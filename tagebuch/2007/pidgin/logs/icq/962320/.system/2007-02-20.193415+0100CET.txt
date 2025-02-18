@@ -1,0 +1,33 @@
+System log for account 962320 (icq) connected at 20.02.2007 19::34::15
+---- +++ 962320 hat sich angemeldet @ 2007-02-20 19:34:15 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-02-20 19:34:15 ----
+---- Schööfli hat den Status von Offline zu Nicht verfügbar geändert @ 2007-02-20 19:34:15 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-02-20 19:34:15 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-02-20 19:34:15 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-02-20 19:35:21 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-20 19:45:53 ----
+---- Dominik hat den Status von Abwesend zu Offline geändert @ 2007-02-20 19:49:35 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-02-20 19:49:37 ----
+---- Dominik wurde tätig @ 2007-02-20 19:49:37 ----
+---- Dominik wurde untätig @ 2007-02-20 19:49:44 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-20 19:50:27 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-20 19:51:17 ----
+---- Schööfli hat den Status von Nicht verfügbar zu Offline geändert @ 2007-02-20 19:51:21 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-02-20 19:51:24 ----
+---- Schööfli wurde tätig @ 2007-02-20 19:51:24 ----
+---- Schööfli hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-02-20 19:52:28 ----
+---- Schööfli wurde untätig @ 2007-02-20 19:52:29 ----
+---- +++ 962320 wurde untätig @ 2007-02-20 19:48:58 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-02-20 20:20:18 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-20 21:00:51 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-20 21:00:57 ----
+---- Schööfli hat den Status von Nicht verfügbar zu Abwesend geändert @ 2007-02-20 21:01:19 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-02-20 21:10:14 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-20 21:19:36 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-20 21:19:37 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-20 21:28:51 ----
+---- Dominik wurde tätig @ 2007-02-20 21:28:51 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-20 21:30:54 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-20 21:44:13 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-02-21 06:14:14 ----

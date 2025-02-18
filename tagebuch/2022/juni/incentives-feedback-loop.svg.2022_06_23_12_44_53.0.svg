@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="incentives-feedback-loop.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.53858859"
+     inkscape:cx="1042.5397"
+     inkscape:cy="371.34095"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="marker2834"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path2832" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2786"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path2784" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2786-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path2784-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2834-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path2832-1" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#d4a061;stroke:#250819;stroke-width:1;stroke-linecap:round"
+       id="rect184"
+       width="53.494736"
+       height="28.136843"
+       x="64.610535"
+       y="38.116077"
+       ry="6.5999999" />
+    <rect
+       style="fill:#ffaaaa;stroke:#800000;stroke-width:1;stroke-linecap:round"
+       id="rect184-3"
+       width="53.494736"
+       height="28.136843"
+       x="178.89473"
+       y="38.116077"
+       ry="6.5999999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="205.52921"
+       y="49.503391"
+       id="text424-0"><tspan
+         sodipodi:role="line"
+         x="205.52921"
+         y="49.503391"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan428-7">Menschen</tspan><tspan
+         sodipodi:role="line"
+         x="205.52921"
+         y="54.301167"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1133">bei irgendwas</tspan><tspan
+         sodipodi:role="line"
+         x="205.52921"
+         y="59.098938"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         id="tspan1137">helfen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:0.85;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="91.312744"
+       y="49.43848"
+       id="text424"><tspan
+         sodipodi:role="line"
+         id="tspan422"
+         x="91.312744"
+         y="49.43848"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;stroke-width:0.264583">Gewinn,</tspan><tspan
+         sodipodi:role="line"
+         x="91.312744"
+         y="54.236256"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;stroke-width:0.264583;font-weight:bold"
+         id="tspan426">Menschen übern</tspan><tspan
+         sodipodi:role="line"
+         x="91.312744"
+         y="59.034027"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;stroke-width:0.264583;font-weight:bold"
+         id="tspan428">Tisch ziehen</tspan></text>
+    <circle
+       style="fill:#d5e5ff;stroke:#0000ff;stroke-width:1;stroke-linecap:round"
+       id="path1191"
+       cx="148.5"
+       cy="108.69343"
+       r="23.088896" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:0.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="148.39523"
+       y="102.02595"
+       id="text1299"><tspan
+         sodipodi:role="line"
+         id="tspan1297"
+         style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="148.39523"
+         y="102.02595">Gehirn</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="148.39523"
+         y="108.05845"
+         id="tspan1301">schüttet</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="148.39523"
+         y="114.09095"
+         id="tspan1303">Incentives</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:6.35px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="148.39523"
+         y="120.12344"
+         id="tspan1305">aus</tspan></text>
+    <g
+       id="g2674"
+       transform="translate(-34.491791,-20.213948)">
+      <circle
+         style="fill:#d5e5ff;stroke:#0000ff;stroke-width:0.47936;stroke-linecap:round"
+         id="path1191-4-5"
+         cx="182.99179"
+         cy="192.57123"
+         r="11.067887" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.04393px;line-height:0.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12683"
+         x="182.94157"
+         y="189.37509"
+         id="text1299-3-4"><tspan
+           sodipodi:role="line"
+           id="tspan1297-8-3"
+           style="font-size:3.04393px;text-align:center;text-anchor:middle;stroke-width:0.12683"
+           x="182.94157"
+           y="189.37509">Gehirne</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:3.04393px;text-align:center;text-anchor:middle;stroke-width:0.12683"
+           x="182.94157"
+           y="192.26683"
+           id="tspan1301-2-7">schütten</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:3.04393px;text-align:center;text-anchor:middle;stroke-width:0.12683"
+           x="182.94157"
+           y="195.15855"
+           id="tspan1303-3-3">Incentives</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:3.04393px;text-align:center;text-anchor:middle;stroke-width:0.12683"
+           x="182.94157"
+           y="198.05029"
+           id="tspan1305-7-5">aus</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="M 180.51492,64.20522 164.96234,84.867652"
+       id="path1370"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2)"
+       d="m 115.76378,64.819286 15.55258,20.662432"
+       id="path1711"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:type="star"
+       style="fill:#d4a061;fill-opacity:1;stroke:#a02c2c;stroke-width:1;stroke-linecap:round;stroke-dasharray:none"
+       id="path1817"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="24.071404"
+       sodipodi:cy="152.5341"
+       sodipodi:r1="26.29237"
+       sodipodi:r2="27.170929"
+       sodipodi:arg1="-0.028030095"
+       sodipodi:arg2="0.64462849"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 50.353445,151.79722 -4.563691,17.06394 -12.895937,8.44094 -17.639024,0.93272 -12.0128801,-9.65637 -6.3378245,-16.48748 5.4715688,-14.40891 13.7220328,-11.12255 15.394495,0.75118 14.818508,9.61337 z"
+       inkscape:transform-center-x="2.0250967"
+       inkscape:transform-center-y="-1.2829501"
+       transform="translate(67.52613,19.039731)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffaaaa;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-dasharray:none"
+       id="path1819"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="24.071404"
+       sodipodi:cy="152.5341"
+       sodipodi:r1="26.29237"
+       sodipodi:r2="27.170929"
+       sodipodi:arg1="-0.028030095"
+       sodipodi:arg2="0.64462849"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 50.353445,151.79722 -4.563691,17.06394 -12.895937,8.44094 -17.639024,0.93272 -12.0128801,-9.65637 -6.3378245,-16.48748 5.4715688,-14.40891 13.7220328,-11.12255 15.394495,0.75118 14.818508,9.61337 z"
+       inkscape:transform-center-x="2.0250967"
+       inkscape:transform-center-y="-1.2829501"
+       transform="translate(182.23373,19.039731)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:0.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="91.110916"
+       y="164.02873"
+       id="text2490"><tspan
+         sodipodi:role="line"
+         id="tspan2488"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="91.110916"
+         y="164.02873">Gruppe die</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="91.110916"
+         y="170.73152"
+         id="tspan2494">dieses</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="91.110916"
+         y="177.4343"
+         id="tspan2498">Verhalten</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="91.110916"
+         y="184.13708"
+         id="tspan2500">feiert</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:0.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="205.81851"
+       y="164.02873"
+       id="text2490-1"><tspan
+         sodipodi:role="line"
+         id="tspan2488-2"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="205.81851"
+         y="164.02873">Gruppe die</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="205.81851"
+         y="170.73152"
+         id="tspan2494-0">dieses</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="205.81851"
+         y="177.4343"
+         id="tspan2498-5">Verhalten</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="205.81851"
+         y="184.13708"
+         id="tspan2500-2">feiert</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 87.688683,144.60154 Z"
+       id="path2780" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2786)"
+       d="M 90.881829,68.457237 V 143.86465"
+       id="path2782" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2834)"
+       d="M 64.599785,171.62046 H 27.264548 V 51.754631 h 33.65084"
+       id="path2830"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2786-3)"
+       d="M 206.61663,67.642228 V 143.04964"
+       id="path2782-9" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2834-8)"
+       d="m 232.89868,170.80545 h 37.33523 V 50.939618 h -33.65084"
+       id="path2830-4"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:0;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="153.76952"
+       y="15.720098"
+       id="text3367"><tspan
+         sodipodi:role="line"
+         id="tspan3365"
+         style="font-weight:bold;line-height:1.05;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="153.76952"
+         y="15.720098">Incentives Feedback Loop </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;line-height:0.75;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="153.76952"
+         y="22.9172"
+         id="tspan3369">(Verkäufer VS Sozialberuf)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;line-height:1.15;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="153.76952"
+         y="28.406593"
+         id="tspan4297">Wechseln von ökonomischem Kapital zu Sozialem + Kulturellem Kapital?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="209.84769"
+       y="88.0103"
+       id="text4301"><tspan
+         sodipodi:role="line"
+         id="tspan4299"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="209.84769"
+         y="88.0103">ökonomisches Kapital</tspan></text>
+  </g>
+</svg>

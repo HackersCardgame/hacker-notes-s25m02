@@ -1,0 +1,82 @@
+The Great Debate:
+ON OR OFF?
+
+By Dick Estel & Rolf Miller
+
+Your mother always told you turn off the light when you left the room. However, the question of
+whether to turn your computer off at the end of the day continues to be a subject of debate.
+
+Obviously there are computers being used for bulletin board systems, for home security, and to control
+or monitor equipment that stay on all the time.
+
+There are users who say they leave their Commodores on all or most of the time, and claim they have
+not had any problems. Others turn them off even for a short break. The typical middle ground is, once
+it's on, leave it on till you finish for the day.
+
+FCUG member Del Contreras has worked on all kinds of technical equipment over the years, including
+Commodore and PC computers. His advice is to turn them off, at least at the end of the day, on the
+grounds that all equipment generates heat, and heat will ultimately cause damage.
+
+Most new PC's these days come with a "sleep mode" option, which usually turns off the monitor and
+keyboard; and presumably reduces the amount of power used. The main CPU stays active, and in fact,
+usually performs various automatic system tasks such as scanning the hard drive for errors. The
+existence of this feature does not automatically mean that PC makers think that having the power on all
+the time will have no affect on the life of  the machine. In fact, PC manufacturers assume most PC users
+will buy a replacement long before the product wears out mechanically.
+
+My own approach is to leave my computer on for the day once I turn it on. I usually turn my PC off at
+night, since when I go to bed, it's going to be 20 hours or so before I touch it again. Heading into the
+weekend, when I will probably use it off and on throughout the day, I usually leave it on from Friday
+morning till Sunday night (it's programmed to perform some maintenance jobs automatically during the
+day every Friday). My Commodores, which are cheaper to replace but have no sleep mode, go off at
+the end of each day.
+
+Now here are some more words on the subject from Rolf Miller, editor of the CIVIC 64/128
+Gazette, newsletter of the Oxnard club, published in the February 1997 issue:
+
+It is debated whether the computer should be left on or turned off when not in use.  Those who argue
+for leaving it on point out that the computer's innards are stressed most at turn on.  And it is at turn on
+that most failures occur.  Those who argue for turning off point out that leaving it on all the time exposes
+it to the danger of power outages and other interruptions.
+
+Unlike the initial bump the computer experiences at turn on, power outages produce a series of jolts not
+unlike rapidly flipping the switch on and off repeatedly.  A person need only watch the flickering of
+lights that accompanies a power failure to get an idea of what's happening inside the computer.  Then,
+when power is restored, a rougher ride occurs from the on again, off again, on again surges associated
+with re-energizing circuits.  And this jarring go-around is nothing compared to the violence a lightning
+strike can wreak.
+
+Certainly, turning off between sessions doesn't eliminate the risk of a power outage while the computer
+is in use.  But, given time and chance, odds favor avoiding some interruptions.  And if the lights do go
+out, equipment can be turned off until after the power comes back.  Turning off is also the prudent
+course during any thunderstorm.
+
+
+Finally, Doug Cunningham, another resident technician with Fresno Commodore User Group,
+weighs in with some final thoughts:
+
+I don't believe this debate will ever be solved using today's technology but rest assured some day this
+debate will come to an end.
+
+Both sides of this debate make very good points, so pick the one you like and follow it.
+
+But!!! Whatever theory you prefer do not forget about the monitor. When you leave the monitor on
+without any change in the image for long periods of time, it will burn that image onto the inside of the
+screen.
+
+The best way around this is to run a screen saver. A screen saver keeps the image on the monitor
+changing all the time so no image has a chance to burn in. If you don't have a screen saver just turn off
+the monitor and leave the computer on. But don't get carried away.  If you are just going to take a
+break for a little while don't worry about it. 
+
+For you PC users don't forget about cleaning your fans. Yes, I said fans. All PC's have a fan in the
+power supply and if you have a 486 or above you will more than likely have a fan on the CPU. Also, if
+you have a tower and it sits on the floor, the dirt pulled in by the fan will build up even faster. If the fan
+in the power supply stops, the power supply will overheat and you will get bad voltages out of it that
+can damage any component in your computer. Also if you leave your computer on all the time you need
+to check the fans even more frequently. Both of these fans can cause high dollar repairs. By keeping
+them clean you can save yourself a lot of money and aggravation.
+
+
+From The Interface, newsletter of Fresno Commodore User Group via the Commodore Information
+Center http://home.att.net/~rmestel/commodore.html

@@ -1,0 +1,24 @@
+HOW TO COPYRIGHT YOUR PROGRAM
+
+(Downloaded from Q-Link by Dick Hollings, via San Luis Obispo Commodore Club GOSUB, 8/88)
+
+
+Here's a little article that may be quite handy for some of you.  If you have a program or article or some type of text you would like to have copyrighted, read on.  I downloaded this from the User Group support section of Quantum Link.  It may just become the thing our programmers are looking for.
+
+COPYRIGHTS-----After all the horror stories about those things encountered when applying for a patent, most  people who write software seem to feel that getting a copyright is probably just as difficult.  This is a common myth among young software writers today.
+
+As long as the program is your own original program, copyrighting it is as simple as eating apple pie.  You will need the following phone number to begin - (202) 287-9100.  This number is called to order the needed copyright forms.  When you hear the BEEP leave your name, complete mailing address and state that you want an application for a software copyright. (A form TX).  They will send you the form(s) you need within two weeks.
+
+The form has a list of line-by-line instructions on it to help you fill it out.  Once you have completed it, then make out a check to the Copyright Office for a mere $10.00 (see I told you it wasn't difficult).  Make a listing of your program and enclose it with your application (if it is more than 50 pages enclose only the first and last 25 pages) and send it CERTIFIED RETURN RECEIPT REQUESTED.
+
+Once the copyright office has received your application, you are considered to be copyrighted (legally protected).  You will receive your copyright within 16 weeks of its receipt by the copyright office (see why you should get a return receipt?)
+ 
+Very little effort is required to apply for said copyright as you can see.  The major effort is the creation of your program.
+
+Why not take the little bit of extra effort to protect your program.  If you are releasing it to public domain, that is fine, but suppose someone starts using your work as part of another work and he makes money on it.
+
+Now for the disclaimer.  I am not a lawyer, nor am I reporting this on the advice of a lawyer.  I am preparing to submit my own first effort and the information is based upon my reading circulars about copyrights and the phone calls to the Copyright Office - (202) 479-0700.  I will probably update this file as I get more information.
+
+In case you wish to write for more information the address is:  Information and Publications, Sections LM-455, Copyright Office, Library of Congress, Washington DC, 20559.
+
+(Editor’s note, March 2004: No doubt you now can obtain copyright forms on line.)

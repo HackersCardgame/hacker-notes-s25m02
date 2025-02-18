@@ -1,0 +1,17 @@
+20k Text
+20k felddefinition und möglichkeiten
+100k funktionalität <
+----------------------
+140k
+
+-bios scheisse programmiert oder sonst noch was drinn...
+
+-Kein ASSEMBLER DRINN --> Hardware suspicious
+
+-weshalb gibt es ein linuxbios?
+
+--> eigenes Bios, wenn dann immer noch was drinn ist, kann man davon ausgehen, dass die prozessoren nicht nur gespickt sind, sondern auch eine mögliche antenne und weitere schnitstellen drinn hat.
+
+
+
+(2004: root beginnt wo, beim silizium??)

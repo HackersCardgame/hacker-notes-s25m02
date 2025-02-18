@@ -1,0 +1,35 @@
+Conversation with 50590990 at 22.05.2007 19::34::56 on 962320 (icq)
+(2007-05-22 17:49:00) Dominik: hesch öppis anders ?
+(19:38:57) landev: cha scho mol rasch luege...
+(19:39:06) Dominik: ha eis gfunde
+(19:39:20) Dominik: ha nume no es problem das d admin konsole nid louft
+(19:39:29) Dominik: www.away.ch/gb/index.asp
+(19:39:50) landev:  Microsoft JET Database Engine- Fehler  '80004005'  'd:\www\away\gb\db\guestbook.mdb' ist kein zulässiger  Pfad. Stellen Sie sicher, dass der Pfad richtig eingegeben wurde und dass Sie  mit dem Server, auf dem sich die Datei befindet, verbunden sind.  /gb/inc_functions.asp,  line 66 
+(19:39:59) landev: funktioniert jo prima... hehe...
+(19:40:18) Dominik: aber www.away.ch/gb/admin/index.asp nid
+(19:40:47) landev: gliich aber anderi linie mit fehler : /gb/admin/inc_functions.asp, line 76 
+(19:41:43) Dominik: sorry probier nomol 
+(19:41:49) Dominik: ha vergässe zruggstelle
+(19:41:56) landev: linie 131
+(19:42:06) Dominik: jo aber www.away.ch/gb/index.asp
+(19:42:53) landev: ok jetzt gohts... hesch no müese berächtigunge vergä?
+(19:43:06) Dominik: jo
+(19:43:13) landev: und wele benutzer?
+(19:43:17) Dominik: am berzeichniss wo d DB liit
+(19:43:32) landev: asp account?
+(19:43:39) landev: oder iis account oder bedi?
+(19:43:53) Dominik: Das Verzeichnis in welchem die Datenbank liegt muß Schreibrechte für den "IUSR_xxx" haben. Ansonsten kann die Datenbank nicht erzeugt bzw. aktualisiert werden.
+(19:44:21) landev: ok, isch das im helpfile gschtande?
+(19:44:25) Dominik: aber äbe admin goot nid
+(19:44:29) Dominik: jo
+(19:47:37) Dominik: und ?
+(19:48:07) landev: jo, demmfall mues me am asp account kei rächt geh...
+(19:48:23) landev: denn erbt s asp d berächtigunge vom iis....
+(19:48:59) Dominik: jo
+(19:49:08) Dominik: aber wisoo goot s admin nid ?
+(19:50:02) landev: siite?
+(19:50:56) Dominik: www.away.ch/gb/admin/index.asp
+(19:55:23) Dominik: chsch süscht wider uf de server zum d files aaluege
+(20:11:36) landev: chömmer das au morn mache, ich han no chli uufgabe...
+(20:11:44) Dominik: ok ..
+(20:11:47) landev: ok..

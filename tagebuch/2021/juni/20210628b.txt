@@ -1,0 +1,47 @@
+
+
+
+Mon Jun 28 01:45:48 CEST 2021
+
+ich hätte gesagt dass die biowaffen und chemiewaffen wie auch die induzierte epilepsie von der schweizer armee um urs blum und simon härdi dazu missbraucht werden beweisketten in der informatik zu zerströren so dass wenn ich belegen könnte, dass die malware oder die backdoors bereits von der hardware her drin ist (geliferet von brack ag, herr brack ist ein studienkollege von simon härdi wie der simon mal angegeben hat) dass man mich dann mit induzierter epilesie oder chemitroden die z.b. am gesicht gezündet werden udn dann wundversorgung nach sich ziehen ...
+
+ich vermute dass der simon härdi von brack ag (vermutlich auch argovier studentenverbindung) den auftrag hat das zu vertuschen und mich anzugreifen sobald ich eine vor gericht verwendebare beweiskette zusammen hätte
+
+projezert man das auf andere vorgänge würde die armee auch bei forensikern z.B. in dna oder bei der poizie sich mühe geben beweisketten zu zerstören um die mittäter dieses militärischen terrornetzwerks oder dieser schweizer terror miliz die sich als schweizer miliz armee tarnt vor strafverfolgung zu schützen
+
+somit vermute ich dass pam_usb nur zercybert wurde um zu verhindern dass man solche beweisketten liefert und gar nicht so zu 100% weil das den computer vor zugriff durch militärische gov-ware schützt...
+
+
+unknown:
+"this one is designed to open your mind" könnte heissen dass die die hardware backdoors nur dann brauchen, wenn die erste fremd-software / govware installiert werden soll und dann ab dem zeitpunkt die hardware backdoors wieder geheimhalten sich
+
+Mon 28 Jun 2021 03:57:12 AM CEST
+  18  246 1607 20210628.txt
+[main e54653b] save
+ 1 file changed, 4 insertions(+)
+6fd68278d82ba9fd1581f46020a0e57c66b9e587367f87adb6c88c5f231281722f2bd17889f17895b62849ee0bd7bf0df1141cbd3461101d1f0ec2ab734bff2c  20210628.txt
+
+
+find /usr/ports -iname "pkg-plist*" -maxdepth 3 -exec grep -iH "utmp.h" \;
+
+vermutlich sind es beim us ableger "zürich versichrung" nicht nur 3 morde sondern irgend 300 oder 3000, deshalb machen die so viel terror gegen mich. als firma mit einem rechtsschutz produkt wüssten die dass wenn mal der präzedenzfall da ist dass die anderen fälle dann auch ernst genommen werden also [1] schiessen die mit maximal personal auf den präzedenzfall bzw. auf den belastungszeugen (auf marc jr landolt)
+
+[1] urs blum: wir ermorden jetzt marc weber <- INERPOL AKTIVEIREN, allefnalls auch nbur eine lehre drohung von urs
+
+
+Mon 28 Jun 2021 04:34:33 AM CEST
+  32  364 2480 20210628.txt
+[main ceca5a1] save
+ 1 file changed, 6 insertions(+)
+58e5b3128704048f2ecbe999fdab09523a0137398552b983afde3da534790e01de357d39bbb5108101b23f3df4093376467127fd9857158eb0c2f464dd092af7  20210628.txt
+
+
+ich bett, karma lebenspunkte für 3 tage aufgebraucht, viel verletzt, fragmentpersönlcihkeit gewechselt weil verlertz
+
+Mon 28 Jun 2021 05:50:59 AM CEST
+  41  399 2859 20210628b.txt
+[main ad9b0ef] save
+ 1 file changed, 2 deletions(-)
+ rename tagebuch/{20210628.txt => 20210628b.txt} (99%)
+636ee16716c666a42c51e840e7febcd23cffc69e8805b11b306df48a4a350b0b98de7cca19241adcc8a3242d903330b06a26aab6c3c78effc3119eb2f08e587a  20210628b.txt
+

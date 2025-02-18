@@ -1,0 +1,195 @@
+.
+./.101209.txt.swp
+./.101212.txt.swp
+./.101220.txt.swp
+./.101226.txt.swp
+./101201.txt
+./101202.txt
+./101203.txt
+./101204.txt
+./101205.txt
+./101206.txt
+./101207.txt
+./101208.txt
+./101209.txt
+./101210.txt
+./101211.txt
+./101212.txt
+./101213.txt
+./101214.txt
+./101215.txt
+./101216.txt
+./101217.txt
+./101218.txt
+./101219.txt
+./101220.txt
+./101223.txt
+./101224.txt
+./101226.txt
+./101228.txt
+./101230.txt
+./101231.txt
+./doublette.sh
+./kurse.txt
+./list.txt
+./Natel
+./Natel/ad lochzange.txt
+./Natel/Adrenalin =_ fremdbestimmung.txt
+./Natel/Agressionsschub.txt
+./Natel/Akressionskernel.txt
+./Natel/Aktueller algi_.txt
+./Natel/Aktuelles foto.txt
+./Natel/Alleinerziehender mutter das kind ganz w-1.txt
+./Natel/Alleinerziehender mutter das kind ganz w.txt
+./Natel/Allfällig zugzwang der amerikaner, wegen.txt
+./Natel/Amara, sofort suchtverhalten-1.txt
+./Natel/Amara, sofort suchtverhalten.txt
+./Natel/Apero.txt
+./Natel/Aschenputtel=fivel=keller_.txt
+./Natel/Ausgangsschwarmalgorithmus negroponte.txt
+./Natel/Austreibung technik unvernünftig.txt
+./Natel/Ausweg aus dem rauchen.txt
+./Natel/Beobachtbares verhalten, meldepflicht!.txt
+./Natel/Bin meist in meiner wohnung suizidal, ni-1.txt
+./Natel/Bin meist in meiner wohnung suizidal, ni.txt
+./Natel/Bodylotion-1.txt
+./Natel/Bodylotion.txt
+./Natel/brauche glaub einen zh tram kurs.txt
+./Natel/Brändli stimme_.txt
+./Natel/Businessverhalten___.txt
+./Natel/C&a mötzelverkäuferin.txt
+./Natel/Dani affentranger macht nun sport.txt
+./Natel/Das auto wäre eine weitere afrikanische_.txt
+./Natel/Der bettenverrkäufermensch demotiviert e.txt
+./Natel/Designpattern mafia.txt
+./Natel/Designpattern-1.txt
+./Natel/Designpattern.txt
+./Natel/Designpattern_-1.txt
+./Natel/Designpattern_.txt
+./Natel/Die fitnesscenter leute scheinenbnichts_.txt
+./Natel/Dort access me-1.txt
+./Natel/Dort access me.txt
+./Natel/eigene leute rein bringen, deshalb vergi.txt
+./Natel/Er_ schau dort der nerd trottel.txt
+./Natel/es fehlen studienhängematten _)-1.txt
+./Natel/es fehlen studienhängematten _).txt
+./Natel/es kann durchaus auch förderlich sein ve.txt
+./Natel/Ev existiert ein drogenversprühungsautom.txt
+./Natel/Ev hass der alten generation die mit dem.txt
+./Natel/Falaffel essen-1.txt
+./Natel/Falaffel essen.txt
+./Natel/falle fast auf die fresse.txt
+./Natel/Familie mit kind +gewonnen svp plakat-1.txt
+./Natel/Familie mit kind +gewonnen svp plakat.txt
+./Natel/Fettnapf#001-1.txt
+./Natel/Fettnapf#001.txt
+./Natel/Foto.txt
+./Natel/Foto_ faule säcke und umweltverschmutzer.txt
+./Natel/Gestaltungspsychologie.txt
+./Natel/gewalt nicht.txt
+./Natel/Habe ev-1.txt
+./Natel/Habe ev.txt
+./Natel/Habits.txt
+./Natel/Häuser für die eigenen kinder bauen und_-1.txt
+./Natel/Häuser für die eigenen kinder bauen und_.txt
+./Natel/Herr der reinkommt_tschau und ich schnei.txt
+./Natel/Herr im blauentshirt.txt
+./Natel/Herr mit hellsangles switzerland jackie_-1.txt
+./Natel/Herr mit hellsangles switzerland jackie_.txt
+./Natel/Hier kifft einer irgendwo.txt
+./Natel/Hilfeschrei in facebook-1.txt
+./Natel/Hilfeschrei in facebook.txt
+./Natel/Hxpothese,-1.txt
+./Natel/Hxpothese,.txt
+./Natel/Hypothese-1.txt
+./Natel/Hypothese-2.txt
+./Natel/Hypothese-3.txt
+./Natel/Hypothese-4.txt
+./Natel/Hypothese-5.txt
+./Natel/Hypothese-6.txt
+./Natel/hypothese-7.txt
+./Natel/hypothese-8.txt
+./Natel/Hypothese.txt
+./Natel/Hypothese_-1.txt
+./Natel/Hypothese_-2.txt
+./Natel/Hypothese_.txt
+./Natel/Ich denke der mensch sollte in publizist.txt
+./Natel/Ich sei ein kind das aus einer vergewalt.txt
+./Natel/instrumentelle konditionierung, system s.txt
+./Natel/Irgendwer hat mich aus mangelndste an sc-1.txt
+./Natel/Irgendwer hat mich aus mangelndste an sc.txt
+./Natel/Isdp.txt
+./Natel/Ist soll differenzen patch.txt
+./Natel/Ja wir müssen ni in den griff bekommen.txt
+./Natel/Kann man den roverchlaus nicht ohne balk.txt
+./Natel/Kind aka sonnenschein läuft vorbei, velo-1.txt
+./Natel/Kind aka sonnenschein läuft vorbei, velo.txt
+./Natel/Knast bösheit resonanz.txt
+./Natel/kolisionsalgorithmus.txt
+./Natel/Konditionierung konsumverhalten-1.txt
+./Natel/Konditionierung konsumverhalten.txt
+./Natel/Könnte das mal jemand umstellen.txt
+./Natel/Kunden sind auch verkaufs und merketing_-1.txt
+./Natel/Kunden sind auch verkaufs und merketing_.txt
+./Natel/lackmuss.txt
+./Natel/Lasst doch die doofen buben buben sein.txt
+./Natel/los kauf schnell.txt
+./Natel/Lungenliga frau triggert suizid-1.txt
+./Natel/Lungenliga frau triggert suizid.txt
+./Natel/Mahler birke.txt
+./Natel/man habe mir (mann mit hund) gerade ein_.txt
+./Natel/Marketing und kader zockt die kunden ab_-1.txt
+./Natel/Marketing und kader zockt die kunden ab_.txt
+./Natel/Martin siegrist.txt
+./Natel/Meine drei neuen lieblingsspiele.txt
+./Natel/Militąrisch.txt
+./Natel/Neue hypothese.txt
+./Natel/Nicht angurten, suizidal.txt
+./Natel/Noerdlicher itil für fitnes schreiben.txt
+./Natel/notiz.txt
+./Natel/Offensives angreifen der älteren generat.txt
+./Natel/Onyx bund-1.txt
+./Natel/Onyx bund.txt
+./Natel/Oop ansatz-1.txt
+./Natel/Oop ansatz.txt
+./Natel/preisliste ist bei mir sicher.txt
+./Natel/Rauchen auf deprivation verlinkt deshalb.txt
+./Natel/Relation grassi arioss kontrollieren, zu-1.txt
+./Natel/Relation grassi arioss kontrollieren, zu.txt
+./Natel/Replace, zigaretten holen, verloren bänk.txt
+./Natel/Riecht nach kkiffen hier irgendwo-1.txt
+./Natel/Riecht nach kkiffen hier irgendwo.txt
+./Natel/sbb, etuit 3.txt
+./Natel/Schutzgeld typ-1.txt
+./Natel/Schutzgeld typ.txt
+./Natel/Stgb 283.txt
+./Natel/Stimme mafialektion nr.txt
+./Natel/Stimme, meine pflege hätte bis jetzt ein.txt
+./Natel/Stimme_ die selbstverletzungen seien vom.txt
+./Natel/stimme_ ich stünde auf mauerbläumchen.txt
+./Natel/stimme_-1.txt
+./Natel/stimme_.txt
+./Natel/Stimuli, schöheit.txt
+./Natel/Suizidversuche machen leute rundum depre-1.txt
+./Natel/Suizidversuche machen leute rundum depre.txt
+./Natel/Sündering, lebenslange hölle.txt
+./Natel/System erschießest grad alten mann.txt
+./Natel/Terror prozess am laufen, aarau rooten-1.txt
+./Natel/Terror prozess am laufen, aarau rooten.txt
+./Natel/Thomeli hamsti sei ein gleichnis für ein.txt
+./Natel/Tim weiner ~ cia die wahre geschichte.txt
+./Natel/unschlüssig im coop.txt
+./Natel/unter seelischem und körperlichem schmer.txt
+./Natel/Visoin system-1.txt
+./Natel/Visoin system.txt
+./Natel/Weggli und batzen index dem man die älte.txt
+./Natel/Wer hat mir ein tag angeheftet dass ich_-1.txt
+./Natel/Wer hat mir ein tag angeheftet dass ich_.txt
+./Natel/wer meint etwas zu sein (z.b.txt
+./Natel/Wer ni gemacht habe.txt
+./Natel/Wieder trigger-1.txt
+./Natel/Wieder trigger.txt
+./Natel/Ziel, machterhalt eltern-1.txt
+./Natel/Ziel, machterhalt eltern.txt
+./soundsKontrollieren.txt
+./tagebuch.sh

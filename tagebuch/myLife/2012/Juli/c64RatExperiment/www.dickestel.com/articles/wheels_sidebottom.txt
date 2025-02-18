@@ -1,0 +1,80 @@
+High-Powered Wheels! 
+
+by K. Dale Sidebottom
+
+Steve Grassman and I got to view first-hand the unveiling of Maurice Randall's new GEOS upgrade,
+called Wheels 64. We were all impressed! And why not? This program does everything but change the
+oil. Maurice demonstrated the installation process and then showed everyone why Wheels is a
+spectacular piece of software. 
+
+We are all aware that GEOS 2.0 is now ten years old. Thus, many recent improvements in the
+Commodore scene have been ignored. Today, Commodore users need an operating system that will
+allow at least four drives, that will make maximum use of new technologies like the RAMlink and the
+SuperCPU's SuperRAM card. Many users have worried, "What's the advantage of having great new
+hardware from CMD if you have no operating system capable of taking advantage of it?" No longer a
+problem! 
+
+Wheels does require extra memory in the form of 128K RAM. This is equal to the memory found in the
+1700, the smallest REU that Commodore made. When you first boot up from a particular disk or
+partition, a dialog box asks you what RAM memory you want to use. There are four possible choices.
+1. 17xx series REU 2. geoRAM/BBG Ram 3. RL/RD DACC Partition 4. SuperCPU/SuperRAM
+card. However, Wheels is a very smart program. It is able to figure out in advance which devices are
+available to you and which are not. Those that are will be listed in a bold typeface. Those that are not
+will be in italics. 
+
+We teased Maurice about one thing in particular. He is also the author of geoSHELL. Well, I thought
+now that Wheels is rolling, geoSHELL would be put on the shelf. However, geoSHELL is an open
+operating system that invites modification. Thus, any future new improvements in the GEOS operating
+system may show up first in geoSHELL. So Maurice created within Wheels a desk accessory which
+will find geoSHELL anywhere on the four drives and memorize its location. Up to now, you needed a
+program called getshell on every disk and partition, if you wanted these advantages. Now, getshell is
+actually built into the Wheels system. Is Maurice secretly using Wheels to promote geoSHELL? [Hello,
+Bill Gates! :-) ]
+
+Think of your four drive devices as a 4-drawer file cabinet. It used to be that when you opened any
+drawer, all you found was one box! Just one undivided place to store your goodies. Now you can
+divide your file storage into partitions (folders), up to 255 in each drawer. Not only that, you can have
+separations within a folder (sub-directories) which allow you to more easily organize special projects.
+
+ Wheels will allow only 4 drives (numbered 8-11) to be accessible at one time. However, it allow you
+to open up to 16 windows at one time. A window may represent a drive (drawer), a partition (folder),
+or a sub-directory (pocket within the folder). But Wheels departs from our model of the file cabinet
+when you create a system directory (abbreviated sys dir). GEOS has always used an area called the
+"border" as a way to move files from one page on the disk to another. The border area is therefore,
+accessible from any page on the disk. Wheels has upgraded the "border" idea to a sys dir, which can
+be used to store all the files you commonly use on every disk! For instance, my sys dir stores ALL my
+applications, printer drivers, input drivers, fonts and desk accessories (like photo manager). I establish
+this sys dir in nearly every new disk or partition I create. Then, if I want to make a sub-directory, I can
+use the same sys dir there that I have already established. I do not have to copy these same files into
+each sub-directory, thereby saving "tons" of memory. 
+
+Remember the current method for creating GEOS work disks? By the time you load it down with all
+your applications, drivers, DA's, fonts, etc., there was hardly any space left to actually do your "work!"
+Wheels strives to alleviate this kind of duplication. The biggest breakthrough, however, is Wheels'
+ability to incorporate native mode partitions. CMD developed this new technology in order to create
+fuller utility of their large storage devices. While the 1541, 1571, and 1581 drives restrict us to 160K,
+320K, and 800K respectively, CMD's native mode partitions can vary in size from 64K (256 blocks)
+to 16MB (16 million bytes)! Unfortunately for GEOS users, this advanced storage system has been
+difficult to use. Gateway was specifically developed for this purpose, but in my highly biased opinion, it
+has always been highly flawed. But Wheels makes this new technology as easy to use as a comb and a
+brush! You'll soon be wondering how you ever got along without them. 
+
+Maurice took some pictures of the EXPO with his new digital camera and converted the pictures to PS
+format so that I could take them home. Just one picture can easily be 600K in size. By using Wheels, I
+can work from a 16MB partition which scoffs at such "tiny" objects and invites more to follow. 
+
+If you are considering that you might want to own some Wheels of your own, keep in mind that it only
+requires an REU (or other RAM device), a single disk drive, and GEOS 2.0. (As of June 2000 the
+latest upgrade will run under GEOS 2.3!) However, this program really "struts its stuff" when you
+combine it with a CMD storage device, such as an FD-2000, a CMD hard drive, a RAMLink, or a
+SuperRAM card. If you want to order it, contact Maurice at arca93@delphi.com; maurice@ia4u.net;
+or visit his web site at http://www.ia4u.net/~maurice/   
+
+By mail or phone:
+
+Maurice Randall 
+     P.O. Box 606 
+     Charlotte MI 48813 
+     Ph (517) 543-5202 Monday-Friday 8 am - 6 pm
+
+You'll discover that this new Wheels is the greatest thing in racing...uh...er... Commodore!

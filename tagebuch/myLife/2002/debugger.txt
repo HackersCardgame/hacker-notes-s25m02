@@ -1,0 +1,16 @@
+stopat
+
+  cont
+     Continues execution until another breakpoint or watchpoint is
+     encountered, or until execution terminates normally.
+
+
+
+2 weg -> 2 weg -> 2 weg -> 2 weg entscheidungen bis zum fehler.....
+
+  into
+     Halfway between "next" and "step". Executes the next statement.
+     Execution stops before the following statement within the current
+     function, regardless of whether it is at the current nesting level
+     or in the body of a control structure. Execution will NOT stop in
+     a called function.

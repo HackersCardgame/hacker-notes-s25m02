@@ -1,0 +1,152 @@
+Tagebuch Fr 5 Feb 2010 17:34:27 CET @ Marc-Landolts-MacBook-Pro.local
+
+ganz nach dem motto: "man bereut nur das was man nicht getan" hat habe ich gestern auf ein doch recht böses Mail von Patrick
+geantwortet:
+
+
+------------------SOF-------------------------
+Hallo Patrick
+
+Darf ich auch was zum Thema sagen:
+
+Es gibt Personenorientierte Massnahmen und es gibt Situationsorientierte Massnahmen die Situationsorientierten Massnahmen lassen sich in drei Subkathegorien aufteilen: Korrektiv, Präventiv und Prospektiv.
+
+Nehmen wir z.B. den Bären im Bärengraben in Bern, der da seine Runden dreht und zwischendurch ein Rüebli zum fressen bekommt. Dem Bär im Bärengraben sieht man aber an, dass er nicht glücklich ist.
+
+Also könnte man folgendes tun, man kann dem Bären (Bärenorientiert) sagen, er habe doch so einen schönen Bärengraben und den ganzen Tag besuch, möglicherweise denkt sich der Bär: Ja das stimmt ja eigentlich, bin ich nicht ein Glückspilz
+
+Aber vielleicht hilft das dem Bären nicht weiter und er ist weiter unglücklich. Ja er ist vielleicht so unglücklich, dass sich Verhaltensstörungen entwickeln und er Stundenlang da unten im Gehege mit dem Kopf wippend runden dreht. Also muss man den Bären Therapie schicken, damit er sich wieder einigermassen normal verhält (das wäre der korrektive Ansatz.)
+
+Alternativ könnte man dem Bären ein besseres Gehege bauen, damit er sich wohler fühlt und gar nie solch eine Verhaltensstörung entwickelt. (Dies wäre eine präventive Situationsbedingter Massnahme.)
+
+Oder...
+... man könnte ihn in die Freiheit entlassen wo er frei entscheiden kann was er tun will, wohin er gehen will, was er fressen will. (das wäre die Prospektive Massnahme, aber wollen wir es mal nicht übertreiben :)
+
+Was ich damit sagen will ist, dass vielleicht unsere sogenannt Zwischenmenschlichen Probleme von äusseren Faktoren abhängen die wir selber als Teil dieses Systems nicht oder nur teilweise beeinflussen können. Und ich denke dein Mail ist nur ein weiterer Stressor, wie wenn einer der Besucher dem Bären noch eine Bierdose auf den Kopf wirft.
+
+
+Wie wärs wenn wir das Gehege einfach ein bisschen besser machen? Ich schlage deshalb eine Situationsorientierte Massnahme vor:
+
+1. Im Bios des Rechners ein on Weekday start on 08:55
+
+2. Den den Rechner mit einem niedrig Privilegierten Account automatisch an die Domain anmelden lässt:
+http://www.howtonetworking.com/Windows/autologon.htm
+
+3. Das Powerpoint mit dem Parameter /L die Präsentation automatisch starten lassen
+http://support.microsoft.com/kb/506418/de
+
+4. mit einem Geplanten Task und shutdown.exe den Rechner am Abend ausschalten
+http://www.pctipp.ch/praxishilfe/kummerkasten/windowsxp/23988/windows_xp_automatisch_abschalten_lassen.html
+
+Und wir haben ein Problem weniger. 
+
+Gruss
+Marc
+
+
+Am 03.02.2010 um 08:01 schrieb GianFranco Prozzillo:
+
+z.K. damit du weißt worum es geht ;-)
+
+Wir hoffen Ihnen gedient zu haben.
+
+Freundliche Grüsse
+
+Gian Franco Prozzillo
+
+Von: Patrick Berger 
+Gesendet: Mittwoch, 3. Februar 2010 07:10
+An: GianFranco Prozzillo
+Cc: Nico Wild
+Betreff: AW: SPC042
+
+Hallo GinaFranco
+
+Solche Ausreden kannst Du erzählen wem Du willst. Am Morgen vor Schalteröffnungszeiten muss man hat den PC starten, dass machst Du ja mit Deinem PC auch und am Abend muss man halt nach den Schalteröffnungszeiten den PC wieder herunterfahren. Denke das Problem liegt wohl eher in Euren zwischenmenschlichen Problemen die Ihr habt und nicht mit einander redet. Ihr solltet dringend an Eurer egoistischen Einstellung arbeiten, den Ihr seit zum wohl von den TBS hier und Eure persönlichen Problemen sollten nicht hier ausgetragen werden.
+
+Ich hoffe Ihnen auch gedient zu haben
+
+Freundliche Grüsse
+
+Patrick Berger
+Bereichsleiter Informatik
+
+
+Von: GianFranco Prozzillo 
+Gesendet: Mittwoch, 3. Februar 2010 06:45
+An: Patrick Berger
+Cc: Nico Wild; Marc Landolt
+Betreff: AW: SPC042
+
+Hoi Patrick
+
+Die Schwierigkeit besteht darin den PC am Morgen vor der Öffnungszeit hochzufahren, denn wir arbeiten teilweise am Anschlag. Das ist der Grund. Wenn der PC ausserhalb des Netz operieren könnte, könnte man den laufen lassen.
+
+Wir hoffen Ihnen gedient zu haben.
+
+Freundliche Grüsse
+
+Gian Franco Prozzillo
+Internet, Telefonie & Digital-TV
+
+Von: Patrick Berger 
+Gesendet: Dienstag, 2. Februar 2010 19:35
+An: Nico Wild; Marc Landolt; GianFranco Prozzillo
+Betreff: SPC042
+
+Das muss schon eine ganz schwierige Übung sein den PC am Abend herunter zu fahren
+
+<image001.png>
+
+
+--------------------EOF----------------------------------
+
+ich will eigentlich dem bären helfen... also dem schwächeren, woher das kommt weiss ich nicht, ev. 1.5te sozialisation
+also hab ich geschriben...
+nico will sich raus halten... aber vielleicht kann er von mir etwas lernen... vielleicht auch nicht...
+
+patrick verweist danach darauf wir sollen mit johnny reden, man geht zum nächst höheren
+
+parallelen zu meinem leben: ich bin borg (also windows supporter) und ich habe den saft (also das domain admin passwort)
+wenn ich richtig böse hätte sein wollen hätte ich gesagt
+
+heil dir patrick, meister des kapitalistischen betriebssystems. naja habe ich aber nicht, weil doch mein ziel
+das helfen des bäres ist... und ich sein mail von oben herab wirklich daneben fand, man kann doch einmal vergesesn
+den computer herunter zu fahren... und man muss da doch nciht grad so ausflippen...
+
+des weiter will er dem bären nicht helfen sondern ihn erschiessen... naja das ist nicht gerade die lösung...
+
+prozi hat mir dann gesagt, das läge daran dass er eine steinreiche freundin habe...
+
+
+
+
+
+Tagebuch Fr 5 Feb 2010 21:55:32 CET @ Marc-Landolts-MacBook-Pro.local
+
+oh du allwissende weltenseele, kann man bei dem patrick nicht ein bisschen herz, ein bisschen geist, ein bisschen seele und ein bisschen nächstenliebe
+einbauen????
+
+
+Tagebuch Fr 5 Feb 2010 21:57:06 CET @ Marc-Landolts-MacBook-Pro.local
+
+Tagebuch Fr 5 Feb 2010 22:01:38 CET @ Marc-Landolts-MacBook-Pro.local
+
+der aufmerksame leser bemerkt vielleicht jetzt, dass jetzt prozi aus der schussbahn ist...
+
+die externen stressoren sind zur zeit gering, und patrik ist ein externer stressor auf die gruppe, ergo...
+
+stimme: er sei stellvertretend füf alle kunden...
+
+andi als faktor berücksichtigen...
+
+das mit den extenrnen stressoren, weniger von denen weniger konflikte im team...
+sehe ich als bewisen... ausserdem ist die abneigung gegen das mail vom patrick eine positive schnittmenge, ergo aber
+konflikt zwische patrick und mir...
+
+er war als erster auf der liste...
+
+ich werde mich davor hüten, aber informatienen sammeln werde ich 
+
+Tagebuch Fr 5 Feb 2010 23:48:35 CET @ Marc-Landolts-MacBook-Pro.local
+

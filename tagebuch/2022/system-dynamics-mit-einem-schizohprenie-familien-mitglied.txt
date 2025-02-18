@@ -1,0 +1,428 @@
+Abstract In many societies, family members are now the
+primary caregivers of mental health patients, taking on respon-
+sibilities traditionally under the purview of hospitals and med-
+ical professionals. The impact of this shift on the family is
+high, having both an emotional and economic toll. The aim
+of this paper is to review the main changes that occur in family
+dynamics for patients with schizophrenia. The article ad-
+dresses three central themes: (i) changes in the family at the
+onset of the disorder, (ii) consequences for family members
+because of their caregiver role, and (iii) family interventions
+aimed at improving the complex dynamics within the family.
+After analyzing and discussing these themes, it is observed
+that despite advances in the field, the viability of taking care
+of a patient with schizophrenia by the family remains a chal-
+lenge. Improving care will require commitments from the
+family, the mental health service system, and local and nation-
+al governments for greater investments to improve the quality
+of life of society in general and individuals with schizophrenia
+in particular.
+Keywords Schizophrenia . Family . Impact . Dynamic . Care
+This article is part of the Topical Collection on Schizophrenia and Other
+Psychotic Disorders
+* Alejandra Caqueo-Urízar
+acaqueo@uta.cl
+Mar Rus-Calafell
+maria.rus-calafell@kcl.ac.uk
+Thomas K. J. Craig
+t.craig@iop.kcl.ac.uk
+Matias Irarrazaval
+mirarrazavald@u.uchile.cl
+Alfonso Urzúa
+alurzua@ucn.cl
+Laurent Boyer
+Laurent.BOYER@ap-hm.fr
+David R. Williams
+dwilliam@hsph.harvard.edu
+1 Escuela de Psicología y Filosofía, Universidad de Tarapacá, Avenida
+18 de Septiembre 2222, Arica, Chile
+2 Department of Social and Behavioral Sciences, Harvard School of
+Public Health, 677 Huntington Avenue, Boston, MA 02115-6018,
+USA
+3 Department of Health Service and Population Research, Institute of
+Psychiatry, Psychology and Neuroscience, King’s College London,
+London, UK
+4 Departamento de Psiquiatría, Facultad de Medicina, Hospital Clínico
+Universidad de Chile, Santiago, Chile
+5 Instituto Milenio para la Investigación en Depresión y Personalidad,
+Santiago, Chile
+6 Universidad Católica del Norte, Avda. Angamos 0610,
+Antofagasta, Chile
+7 Aix-Marseille University, EA 3279 – Public Health, Chronic
+Diseases and Quality of Life – Research Unit,
+13005 Marseille, France
+8 Department of African and African American Studies, Harvard
+University, Cambridge, MA, USA
+Curr Psychiatry Rep (2017) 19: 2
+DOI 10.1007/s11920-017-0756-z
+Introduction
+The Effect of Schizophrenia on Families at the Beginning
+of the Disorder
+Schizophrenia is a mental health disorder that is associated
+with high illness costs in a number of different respects.
+Although some will fully recover, a considerable portion of
+the patients suffers from long-term disability, which often in-
+cludes irregular episodes [1]. Families play key roles in the
+early stages of the disease when help is first being sought. In
+addition, families provide long-term care and continued sup-
+port for people experiencing schizophrenia with most of pa-
+tients continuing or returning to live with relatives [2]. The
+caregiver role is often difficult and exerts a significant impact
+on the carer’s own mental health [3]. Over a third of family
+caregivers reported a high level of perceived burden and dif-
+ficulties coping with their child’s or spouse’s illness [4–9].
+Soon after diagnosis, carers experience a range of different
+negative emotions as they attempt to deal with the diagnosis of
+a family member [10, 11]. However, some family members
+fare better than others do in terms of their wellbeing in the
+carer role. This response depends on many different factors.
+One of the most important aspects in the caregiver response
+is the cognitive appraisal processes related to the illness. That
+is, how they interpret and make sense of the illness and the
+extent to which they feel they are capable of coping with the
+problems [12]. A negative illness perception on the part of
+relatives has been linked to heightened patient distress, which
+also predicts distress many months later, indicating the value
+of assessing and understanding the caregiver’s adaptation to
+the disease [13–16]. Another aspect that increases distress in
+relatives is the age of the patient at diagnosis and of the onset
+of service use, especially if the family assessment of the costs
+of the illness is low [17, 18].
+The factors that affect the relatives’ responses to the
+illness are not only associated with family processes but
+are also related to the help-seeking experience. Relatives
+can feel excluded from the doctor–patient consultation pro-
+cess and experience negative attitudes directed toward
+them by health professionals. Mental health professionals
+have been criticized for under-appreciating the importance
+of conveying a schizophrenia diagnosis clearly and without
+bias, in particular of being judgmental instead of support-
+ive and empathetic to the patient and the relatives [19•].
+This is supported by research showing that patients pre-
+ferred knowing that they had schizophrenia rather than
+not knowing what was wrong with them and suffering from
+uncertainty [20, 21]. Clear communication of the relevant
+information about their disease helps the patients make
+informed decisions about their own healthcare and adjust
+to their illness [20]. In addition, positive early interactions
+and clear communication with healthcare providers may
+also reduce the level of distress experienced by family
+members [22•]. It is recommended that contact with care-
+givers should be planned and included early in diagnostic
+discussions to prevent the expression of negative attitudes
+against the patients and to improve the outcomes of treat-
+ment [19•].
+The help-seeking experience can also produce contra-
+dictory emotions, such as fear, guilt, and relief, in family
+members, which may in turn affect their own relationships
+and self-confidence. This can be both stressful and trau-
+matic for the family [22•], particularly shortly after diag-
+nosis, when interactions with healthcare providers are of-
+ten tinged with despair. Whereas some individuals describe
+their interactions with mental health professionals as posi-
+tive and the providers as compassionate toward the patient
+and family [23], some family members feel dismissed and
+provided with insufficient information. Thus, during this
+early period following initial diagnosis, the relationships
+between individual family members and healthcare pro-
+viders are of central importance, potentially setting the
+stage for the overall experience and perception of the care-
+giver burden.
+Additional factors that affect both the caregiver’s and
+patient’s wellbeing are the interactions within and between
+families. Notably, different family environments affect the
+coping strategies used by families during acute schizo-
+phrenic episodes. These can predict the recurrence of epi-
+sodes in the future and the overall course and outcome of
+the disorder. Familial attitudes toward the patient and their
+effect on the patient’s risk of relapse have been studied
+under the expressed emotion (EE) framework, with high
+levels of EE prognostic of worsening symptoms and future
+psychiatric episodes [4, 24]. High levels of EE within a
+family may in part be a reflection of the overall caregiver’s
+burden and the manifestations of symptoms in the patients
+[25]. However, high-EE families of schizophrenia patients
+show a number of maladaptive behaviors. These include
+the frequent internalization of criticisms and/or inadequate
+expression of emotions and thoughts in response to criti-
+cisms from both patient and caregiver, which can increase
+the risk for relapse. In addition, EE correlates with the level
+of family cohesion and flexibility and with family burden,
+which appears to determine whether the household can
+change from a high-EE to low-EE family [21, 25].
+From this analysis, we conclude that the impact of
+schizophrenia on the family is complex. Factors contribut-
+ing to this complexity are the lack of provision of sufficient
+information about the diagnosis by healthcare providers,
+the family’s reactions to the diagnosis and the patient, poor
+bidirectional communication between the family and pa-
+tient, and ineffective coping strategies within the family
+environment that can affect the level of symptoms and
+increase the occurrence of relapses.
+2 Page 2 of 8 Curr Psychiatry Rep (2017) 19: 2
+Consequences for Family Members Because of Their Role
+of Care
+Role theory states that having a patient with schizophrenia
+disrupts normal family dynamics, with every family member
+affected in some manner and many caregivers’ roles even
+being annulled [26–30]. Caring effects refers to the impact
+of providing care on the family in terms of individual, social,
+and economic changes [31]. Mental and physical health are
+significantly affected [32], with caregivers of patients of
+schizophrenia reporting worse health status than non-
+caregivers or caregivers of patients with other disorders, such
+as Alzheimer’s disease or epilepsy [33•]. Families of psychi-
+atric patients are affected by their role as caregivers on many
+levels, including lowering their quality of life and their ability
+to provide care [34–41]. Thus, the quality of life is defined by
+the level of caregiver’s health and wellbeing relative to differ-
+ent dimensions of their lives [42]. One of the biggest factors
+influencing the caregiver’s psychosocial burden is the course
+of the disorder. The positive symptoms of the schizophrenia
+patient have a clear impact; however, negative symptoms,
+such as impaired working memory and executive functioning,
+can also decrease caregivers’ quality of life [30, 43–46].
+Low caregiver quality of life often manifests as physical
+illness, the loss of vitality, and depressive and anxiety disor-
+ders [46–50]. These symptoms can be triggered by the unre-
+lenting concerns of a caregiver, including being adequately
+competent to advise and assist the patient to adjust [30], man-
+aging patient’s behavior and work and social interactions [51],
+and concerns about the patient’s future [30, 40]. These factors
+affect the level of psychological distress experienced by the
+caregiver and can affect the overall caregiver experience [52•,
+53–56].
+Another significant deterioration experienced by the
+family (reported by up to one-third of family members) is
+the disconnection with other family members due to the
+existence of a mental disorder within the family [57–59].
+This is also related to the stigma experienced by the family
+members [52•, 60–62] and to the low levels of social sup-
+port that they usually receive [4, 43, 63]. Financial issues
+can also have negative consequences on family dynamics.
+These arise in part due to the limited capacity of the patient
+to work. In addition, the time burden on the caregiver re-
+quired for patient care frequently prevents the caregiver
+from taking on full-time work as well [47].
+Although most of the consequences of caring for a patient
+with schizophrenia tend to be negative, in recent years, some
+carers have begun to identify more positive and beneficial
+aspects of this role (e.g., feelings of been more sensitive, use-
+ful, and needed and a higher sense of strength) [33•, 64, 65].
+Other changes deriving from the establishment of the diagno-
+sis can have positive effects on the members of the family.
+These can include improvement of the family dynamics, such
+as having more social support, having a job outside the home
+(for both patient and caregivers), and being treated through
+family interventions.
+Assessing the impact of caregiving on families of
+schizophrenia patients is an important consideration not
+only for the wellbeing of the family but also for the health
+of the patients. Healthcare professionals need to recognize
+this issue and integrate such assessments into their treat-
+ment decisions, working more directly with the family to
+improve outcomes for the patient. Family experiences
+should be comprehensively assessed either on the individ-
+ual level via interviews or on the group level (e.g., by
+using a focus group of caregivers). Standardized question-
+naires, which have been validated with varying evidence
+[4, 46, 66, 67], may be of use in both clinical practice and
+research, leading to easier, objective, and reproducible
+assessments. However, the critical question for clinicians
+and researchers is which tool in their practice is the most
+relevant for this context. Several factors should be con-
+sidered in making this choice. First, the questionnaire de-
+sign should be a key factor. Because of discrepancies be-
+tween families and experts’ perspectives [68], a question-
+naire based on the subjects’ perceptions should be pre-
+ferred. However, few of the existing questionnaires are
+based on the caregivers’ and families’ views. Second,
+the performance of the questionnaire should be validated
+in terms of its effectiveness [69], taking into consideration
+psychometric properties such as internal consistency, con-
+struct validity, and sensitivity to change. However, this
+information is not available for several commonly used
+instruments, and there is a particular lack of information
+regarding the sensitivity to change. This is a major prob-
+lem for clinicians, especially when evaluating interven-
+tions such as psychoeducational or therapeutic programs.
+Third, the language in which questionnaires were devel-
+oped is a factor. The direct translation of a questionnaire
+may be inadequate due to some concepts, such as quality
+of life and burden of care, being affected by cultural back-
+ground. Such translations must be subjected to strict
+transcultural validation protocols, making it preferential
+in most cases to use questionnaires within their country
+of origin [12].
+Finally, another existing assessment, the dyadic approach,
+could be of the utmost interest for clinicians but has been
+rarely explored in research. This approach globally incorpo-
+rates the interactions between the patient and family to design
+interventions that address the needs of both groups. This ap-
+proach has been used effectively in dementia patients to ad-
+dress both their mental and physical health [70, 71]. However,
+this approach has not yet been used to test interventions on the
+schizophrenia patient-caregiver dyad, and the impact of fam-
+ily interventions on the burden and quality of life of caregivers
+is currently unknown.
+Curr Psychiatry Rep (2017) 19: 2 Page 3 of 8 2
+Family Interventions
+Family interventions (FI) for schizophrenia consist of a com-
+bination of psychotherapeutic strategies aimed at developing a
+working relationship between the family and the medical team
+to support patient recovery [72]. FIs are recommended as
+evidence-based interventions and treatment of choice by some
+of the most important worldwide mental health institutions,
+including the American Psychiatric Association (APA) [73]
+and the National Institute for Health and Clinical Excellence
+(NICE) [74, 75].
+Well-established research findings show that family in-
+terventions for people with schizophrenia spectrum disor-
+ders can prevent relapse and hospitalizations, increase
+medication adherence, maintain satisfactory family inter-
+actions, and have a positive impact on both patients’ and
+relatives’ quality of life [76–78]. On top of these positive
+achievements, recent clinical trials have also shown that
+FIs can improve participants’ cognitive dysfunction [79]
+and relatives’ guilt induction, dominance, and empathy
+[80]. In terms of maintenance of these results, longitudinal
+studies such as the one conducted by Ran and colleagues
+confirm that the effects are enduring [81].
+No gold standard approach has been established. FIs usu-
+ally include psychoeducation, stress management, emotional
+processing, assertive communication, cognitive reappraisal,
+and structured problem solving [31]. FIs are always conducted
+by mental health providers; however, they can differ in their
+theoretical basis, modality, and length. Advanced research in
+this field aims to investigate the mechanisms of change for
+these interventions. A recent systematic review conducted by
+Grácio, Gonçalves-Pereira, and Leff (2015) aimed to tease out
+the therapeutic process involved in FIs [82•]. These authors
+carefully analyzed the results of 22 relevant studies in order to
+discover the key elements of FIs, concluding that, following
+efficacy parameters, there are three key elements for a suc-
+cessful process: therapeutic alliance, education, and training in
+coping skills. When considering the participants’ and rela-
+tives’ points of view, the key elements are reduced to educa-
+tion, human connection (that can be also understood as thera-
+peutic alliance), and reframing.
+Format delivery and duration have been also targeted as
+potential mediators of change. According to Sin and col-
+leagues, there are four main categories of format delivery:
+individual (therapist seeing a relative of the whole family);
+groups (relatives attend sessions together); mixed (a combina-
+tion of the two previous options); or other (any format that
+differs from the previous ones). Overall, duration of the inter-
+vention ranges between 4 and 36 weeks, inclusive of 6 to 12
+weekly or biweekly sessions [83]. Unfortunately, findings
+supporting an ideal and successful design for the type of de-
+livery and duration of the program are inconclusive, and fur-
+ther meta-analyses are needed.
+Finally, it is important to highlight that FIs are well accept-
+ed by both participants and relatives and that they express high
+levels of satisfaction when ending the programs [83, 84, 85•].
+By using qualitative methods, it has been shown that partici-
+pants and relatives commonly consider FIs a space “to listen
+to and share experiences” (a safe space) [83], to improve com-
+munication between family members [86], to better under-
+stand the illness and its impact on the individual, and to learn
+problem solving skills [87].
+However, two big challenges remain that are related to FIs:
+the professional’s training and the implementation of the in-
+tervention. Overcoming these two related challenges will have
+a tremendous impact on the access of patients and relatives to
+FIs. Staff training is required in order to disseminate the ap-
+proach in conjunction with mental health services. However,
+some barriers that prevent clinicians and researchers from
+accessing training and implementing FIs exist. Notably, ac-
+cess to clinical supervision that provides specific training on
+adequate skills and the confidence to deal with family prob-
+lems are some of the most common training needs reported by
+staff [76]. Furthermore, protected time and support from the
+management system and organization are prerequisites for
+clinicians to go in depth into FI training and to incorporate it
+into their daily work routine. In this regard, Eassom and col-
+leagues claim that successful implementation of FIs critically
+depends on a change in organizational culture regarding the
+role of the family in the treatment process (e.g., prioritizing
+working with families) [76]. Discrete evidence-based FIs can
+be a solution because they do not require therapists trained to
+an expert level. Instead, evidence-based FIs can be delivered
+by frontline mental health professionals, being less dependent
+upon a redesign of services to undertake the work [88].
+Online interventions may offer another potential solution to
+those looking for support and seeking information about
+schizophrenia. Technological advances and digital media are
+creating a revolution in healthcare that is also affecting the
+implementation and dissemination of FIs. Interestingly,
+R o t o n d i a n d c o l l e a g u e s d e s i g n e d a w e b - b a s e d
+psychoeducational intervention for people with schizophrenia
+and their supporters (the “schizophrenia online access to re-
+sources” website or SOAR) [89, 90•]. People who participated
+in the pilot study and were given access to the website showed
+a greater reduction of symptoms as well as a better under-
+standing of their illness. Furthermore, their relatives/
+supporters also showed a better understanding of the progno-
+sis, in comparison to their counterparts receiving only routine
+care. Furthermore, the authors found a positive relationship
+between symptom reduction and the frequency of access to
+the online resources [89]. These authors are currently
+conducting a randomized controlled trial that aims to compare
+the SOAR to in-person, multi-family, psychoeducational treat-
+ment, and to treatment as usual (ClinicalTrials.gov Identifier:
+NCT02032680). Results of this trial are estimated to be
+2 Page 4 of 8 Curr Psychiatry Rep (2017) 19: 2
+available in 2018. Focusing on first-episode psychosis, Sin
+and colleagues has also designed an online multicomponent
+psychoeducational intervention for siblings of individuals
+with a first-episode psychosis [91] (http://siblingpsychosis.
+org/, ISRCTN01416694). This innovative intervention
+combines two major components (psychoeducation and peer
+support) and has been built with the input of an expert
+advisory group that comprises siblings, parents, service
+users, mental health clinicians, youth organization personnel,
+and e-learning IT experts. Results of this rigorous clinical trial
+are expected to be available at the end of 2016.
+Conclusion
+Several decades have passed since the deinstitutionalization of
+mental health patients. With the noblest intentions, this pro-
+cess also highlighted the lack of resources that families and
+community supporters had to help people experiencing
+schizophrenia. Major steps have been made in the provision
+of mental healthcare since this decision was made back in the
+1950s. However, the establishment of a diagnosis of schizo-
+phrenia spectrum disorder can still have a negative effect on
+the individual and on his/her family and friends, which im-
+plies that the diagnosis requires the readjustment of the whole
+family to the new situation.
+Specific changes in the dynamics, areas of conflict, needs,
+maladaptive behaviors (e.g., EE), and protective factors in the
+patient’s family must be assessed by clinicians as soon as the
+diagnosis is communicated. In addition, FIs should be offered
+regularly to families since they have been shown to be effec-
+tive in improving symptomatology, illness awareness, and sat-
+isfaction levels in both patients and relatives. If this process is
+done properly, a successful recovery process and an improve-
+ment in the quality of life is much more likely to happen.
+Politicians, clinicians, researchers, and community workers
+are fully aware that families are in need of greater support and
+resources to be able to cope with the consequences of schizo-
+phrenia. Staff training and implementation of FIs can have a
+tremendous impact on the lives of patients and family. These
+actions, therefore, should be implemented and offered to ser-
+vice users and their relatives in every single outpatient mental
+health service around the world.
+Acknowledgements This research was funded by the Universidad de
+Tarapacá through Proyecto Mayor de Investigación Científica y
+Tecnológica UTA n°3732-16 and the Convenio de Desempeño UTA-
+MINEDUC.
+Compliance with Ethical Standards
+Conflict of Interest The authors declare that they have no conflict of
+interest.
+Human and Animal Rights and Informed Consent This article does
+not contain any studies with human or animal subjects performed by any
+of the authors.
+References
+Papers of particular interest, published recently, have been
+highlighted as:
+• Of importanc

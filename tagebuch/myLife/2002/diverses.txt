@@ -1,0 +1,10 @@
+was heisst verantwortung übernehmen?
+eventuell für begangene fehler einstehen auch wenn es vielleicht nicht die eigenen sind.
+
+neuer ansatz für e-learning:
+
+man schnappt sich jemanden und lässt diesen arbeiten, schaut dabei zu und lehrnt dabei genau das was der andere lernt, jedoch mit geringerem aufwand.
+--> dann hiesse das, man müsste sich eine videowand mit ca. 16 Monitoren beschaffen und 16 leute aussuchen, und man wäre diesen 16 leuten genau überlegen.
+
+oder wie wärs mit einer dll, welche z.b. indexierungen falsch wiedergibt, z.b. zeitabhängig? EXPOSED
+

@@ -1,0 +1,685 @@
+Bernardo on The Air
+
+by Robert Bernardo
+
+The University of California at Davis... my old alma mater. It was good to visit it again. When did I visit
+it last? Certainly several years ago in order to attend Picnic Day or the Whole Earth Festival. The sights
+seemed familiar, yet different. That intersection had changed. That drive-in restaurant had changed to a
+Burger King. An entire shopping area had been built around a Borders Bookstore. Yes, the national
+companies had been encroaching on little Davis, but the town still retained its charm... narrow,
+tree-lined streets; students and their bicycles buzzing to and fro; small shops selling the wares of local
+artists.
+
+However, my visit to the town and the university was not for pleasure. I was there on Commodore
+business; specifically, I was there to visit the university radio station, KDVS-FM 90.3, and interview
+Justin Beck (Hard Hat Mack), the host of the only radio show in the world that broadcasts
+Commodore SID music. Several weeks before my visit, I was scanning through the Usenet group,
+comp.sys.cbm, and found that Justin was posting weekly updates of what was happening on the 6581
+SID Show.
+
+The Sound Interface Device (SID) is the 6581 chip in C64/128's or the 8580 chip in later C64's and
+C128D's. It is a chip capable of producing 3 voices plus white noise, and it placed the Commodore far
+ahead of any home computer of its day. From an Apple or PC computer at that time, a person would
+hear beeps and boops. From the Commodore and its SID chip, you would hear not only sound effects
+but also speech and music. In fact, I was about to find out how much of an impact SID music made in
+the world.
+
+It was a sunny, warm, mid-August afternoon in 1999 as I drove into the university campus center and
+parked in the new, multi-story parking structure. From the trunk of the car, I hauled out my voice
+recorder, camera, notebook, and various C= items to show to Justin, items such as GO64!,
+Commodore Scene, and Commodore Zone magazines, an issue of Loadstar, and my SuperCPU 128.
+
+I walked a few hundred feet to Freeborn Hall and tried to enter one of the doors that led down to the
+basement. Many of the student union businesses were housed in the basement of Freeborn Hall, for
+example, the Cal Aggie university newspaper and radio station KDVS.
+
+The door was locked. I looked around. The university was not in session, and all of Student
+Union/Freeborn Hall had closed early that day. For a moment, I thought I'd have to find a phone in
+order to call for someone at the station to open the door. However, a few seconds after I had tried the
+door, Justin opened it. What timing! (I had called earlier in the week to let him know I was coming.)
+
+Mustached, shorter than I, far younger than I, very much looking like an undergrad or grad student,
+Justin greeted me enthusiastically. He had realized that the door was locked and was just coming up to
+wait for me. He then led me down into the bowels of Freeborn Hall and to radio station KDVS.
+KDVS...what memories it brought back. I remarked to Justin that I had spent many an hour sitting in
+the lobby of the radio station. During my day, KDVS had a sofa in the lobby and a loudspeaker with
+volume control which was fed music from the station. Instead of using the massive study halls of the
+U.C. Davis main library, I would work my way down to the radio station lobby (the doors being left
+unlocked) and study there into the wee hours of the morning. The disc jockeys, who could see me
+through the window of their cubicle, would never bother me.
+
+The sofa and the loudspeaker were now gone, but everything else looked the same. Justin then led me
+through the "employees only" door and into the mysterious back rooms of the station. I felt privileged to
+be in an area which was so unknown before. To my surprise, there was much more space than I had
+thought...several office desks with papers and other materials strewn over them...posters over the
+walls...a busy, "creative" environment. Justin also showed me the station's substantial archive of tapes,
+records, and CD's -- all music and vocals in keeping with the philosophy of the radio station, i.e., things
+which you would not ordinarily hear on commercial radio. (In their literature, KDVS brags that it is the
+only freeform, non-commercial, community radio station west of the Mississippi River.)
+
+It was about 7:30 p.m., half an hour before Justin's Tuesday night 6581 SID Show and just enough time
+to interview him a bit more. Justin was 25 years old, an alumnus of U.C. Berkeley in which he studied
+cognitive science, and an alumnus of U.C. Irvine in which he did research in psychology. At KDVS he
+got into talk radio first, then moved on to a progressive activism talk show, then to music, and then to
+avant-garde music. Then in the winter of 1998, a friend sent Justin a CD-R of SID music. Justin was
+hooked. In April 1999, he created the 6581 SID Show.
+
+Would he ever run out of SID music to play? Not with over 11,000 files! Surprised, I asked him where
+he got his music. At www.hvsc.c64.org (High Voltage SID Collection), the premiere website of SID
+music. SID music was greatly admired and composed in Europe.
+
+Did he play the music directly from a Commodore into the station's broadcasting equipment? No, he
+didn't. At that time, there wasn't even a computer close to the broadcast equipment. What he did was
+to download the SID files to his home PC, and using the PC program, SIDPlay, he'd transfer the music
+to an audio mini-disc. Then he'd bring the mini-disc and recorder to the studio and connect it to the
+broadcast equipment.
+
+What was the broadcast range of KDVS-FM? With 9,200 watts of power, the station could be heard
+all the way north to Yuba City, south to Stockton, and west to Benicia -- a gigantic area and far bigger
+than I had realized. However, it was still too far for me to pick up on the radio. He advised me that if I
+had a computer with Real Audio, I could pick up the live feed by going to www.kdvs.org Also each
+6581 SID Show would be archived at the website; all I had to do was download the appropriate show
+according to date. I smiled weakly; the C128D that I used on-line every day had no such capability,
+and my Amiga computers were not upgraded enough to handle Real Audio. 
+
+Showtime was getting close. I was there to see Justin live, on-the-air. My voice recorder was ready to
+capture his broadcast.
+
+"Would you like to be my guest on the show?" he asked.
+
+Bravely, I responded that I would be honored, and he led me into the DJ's room. The previous disc
+jockey was just gathering his things before departing. Justin made some small talk with him, and then he
+pointed out which seat I was to use and which microphone to talk into.
+
+My mind was racing. I had never been on the radio before. I had to be a good representative of the
+Fresno Commodore User Group, a good representative of all that is Commodore. In a sense, I was
+speaking for all Commodore people. I'd better not stumble... I'd better not stutter or freeze up.
+
+Eight o'clock p.m.. Justin played the recorded intro for the 6581 SID Show, and I watched how he
+deftly, expertly flipped various switches and other controls on his console. SID music started playing.
+Were our voices on-the-air yet? "No, not yet," he reassured me, and he talked about the musical piece
+being played and other Commodore matters, all probably in an effort to relax me.
+
+The mid-show break was coming up. O.K., this was it.
+
+Hard Hat Mack: All right, and we're back on 6581 SID. And I'd like to welcome Robert Bernardo
+from the Fresno Commodore Users Group. Thanks for joining us today, Robert.
+
+Robert B.: My pleasure, Justin, and hello to all my Commodore friends out there in the world.
+
+HHM: All right. In the background we're listening to Martin Walker doing a tune from Atomic Robo
+Kid, and we were just speaking, talking about the videogame, Impossible Mission, and you might have
+recognized, right at the beginning I played a short bit from that game, Another Visitor, which you might
+remember from the game, Impossible Mission. But Robert, I just wanted to ask you, what's your
+involvement with the Commodore scene, and well, how did you get involved in the first place?
+
+Robert B.: Well, I've had a Commodore 64 since 1983 when it first came out, and I bought it at the
+unbelievable price of $200 back then, and the only thing I could get for it for mass storage was a a
+datasette recorder, because disk drives were another $200.
+
+HHM: Oh.
+
+RB: And I couldn't afford that back then, so I hooked my Commodore into just a regular television
+through its antenna leads, and I used it like that for the longest time. And throughout the years, I've
+collected whole bunches of Commodore machines, flat C128's, C128D machines, SX-64's, which are
+the portable Commodore 64's, and now for the last few years I've been president of the Fresno
+Commodore Users Group. And I go around during my vacation time... I go around and report on the
+scene... what's happening out there in the Commodore scene. I try to look for shows, try to find people
+who are interesting to write articles about, and I write about them for our newsletters in our group.
+
+HHM: Fantastic. So how many people are involved in the users group there in Fresno?
+
+RB: We have about 30-40 members in our group in Fresno.
+
+Hard rat Mack: And what's the sort of age range of these folks? Young people? Old people?
+
+RB: We have... we have, maybe, 1 young person who's below 20, I think.
+
+HHM: Oh, wow.
+
+RB: But all the rest range from in their 20's into their 70's.
+
+HHM: Oh, wow. That old, huh? So people... people who are old enough to... mainly to remember
+using the machine when it was around in the 80's.
+
+RB: That's right, except for the newbies...it's all new to them.
+
+HHM: Yeah, you really got to hand it to the teenagers who are into this stuff, because, you know, it's
+probably so easy for young people to look at this ancient computer technology and think, "Aw, who
+would be interested in that? Can't do anything... so primitive... and not very interesting... who cares?"
+
+RB: Yes, that's right. But with Commodore 64, there's a certain soul that you have with the machine. I
+mean there's a certain spirit from it, and you don't get that feeling from modern PC's or modern day
+computers. There's no life behind them.
+
+HHM: Yeah, they're very functional, and all pervasive. But as you were saying, there's not much soul,
+not much spirit to these... I mean, in my opinion, I suppose PC's and Macintoshes are more sort of for
+the office. They're business machines. They're for working... Well, I mean... I suppose people use the
+Commodore machine for business as well.
+
+RB: Yes, that's true.
+
+HHM: It's something you can have a lot of fun with, I think.
+
+RB: Yes, why not? When I get behind my Commodore, I write my articles, I do work with it, I go onto
+the Internet with it, but it's also a fun machine. I mean... even as I'm doing my work on my
+Commodore, I'm thinking, "fun".
+
+HHM: Yeah, exactly. Well, um, I was going to ask you about your newsletter. Could you talk a little bit
+about that?
+
+RB: Uh, well, we put out 3 newsletters. Our main newsletter, which is called the Interface, is a
+bi-monthly newsletter that comes out, and it has a variety of articles from various sources -- original
+articles, articles from other newsletters, information off the Internet. Then we have our other newsletter
+called C= Voyages, the one that I edit, and that mainly features articles from my travels and from
+people or places I've been to. And then we have another newsletter called the Halfling, which is full of
+poetry and personal opinion and club happenings. And that's done by another editor, and she's in
+charge of that. The Halfling and C= Voyages come out more irregularly, even though I try to make C=
+Voyages a bi-monthly. It's hard during the summertime when I'm traveling around to keep it going
+bi-monthly, so I apologize to all the members who have not received their newsletter yet.
+
+HHM: Um, Robert, what do you do when you're not using your Commodore 64?
+
+RB: I'm a teacher for the Corcoran Unified School District, which is 35 miles southwest of Visalia, and
+Visalia is about an hour south of Fresno.
+
+HHM: O.K., and for the European listeners who... oh, some of them may know where Fresno is... I
+have a feeling that a lot of them don't... Fresno's what? Probably about a couple hundred miles south of
+where we are?
+
+RB: Yes, that's true. It's about 4 hours south of Davis. Just think of dead center of California... in the
+Central Valley. So we're not near San Francisco and we're not near Los Angeles. We're like in farm
+country.
+
+HHM: Right. Right in the middle... in the Central Valley of California. I wanted to ask you little bit
+about that demo party that you went to in Leeds [England]. When was that?
+
+RB: That was the DejaVu demo party, and that was on the July 9-10 weekend, I believe. Well,
+actually, it encompassed Friday night, Saturday night, and Sunday... Sunday also. So it went on for 2
+nights, 3 days or 2 nights, 2 days, and the demo party was... in a demo party, you have all these
+programmers who congregate and what they try and do is they try and program these visuals and music
+and put them up on the videoscreen so that people can judge who makes the best demo in this demo
+party, and they win prizes.
+
+HHM: We should have set you up with a pair of headphones, Robert. Sorry about that. Robert's sitting
+out here in the dark, because we didn't have a pair of headphones for him. But anyway, let's... let's get
+back to talking about that demo party in Leeds, England. That was this July?
+
+RB: That was this July. I... I attended it with another person, Allan Bairstow of Commodore Scene
+magazine. We went there specifically to see if there were any C64 programmers out there. There were
+many PC programmers out there. There were some PSX, Playstation programmers there. There were
+3 Amiga programmers there. There was only one C64 programmer there.
+
+HHM: No!!
+
+RB: Yes, just one. Jason... Jason Kelk of Commodore Zone magazine, but he was there busily working
+on his demo. And it was finally demoed on Sunday. Unfortunately, I wasn't around to see him in his
+hour of glory. But he was the only C64 person there, so he won the grand prize for C64 demos, which
+was 94 pounds or approximately $144 dollars... something like that.
+
+HHM: Not too shabby.
+
+RB: Not too shabby.
+
+HHM: Earlier you told me that he probably blew more money than that on the monitor he had to buy...
+
+RB: That's right. He had to buy a little, 4-inch color monitor just to program with it. He had to have the
+bus fare from his city that he lived in... very far away... 4 or 5 hours away from Leeds. So it was quite a
+trip just to go over there. Programmers are in a different level, at a different level, in a different world
+when they go into programming.
+
+HHM: Yeah, not being a programmer myself, I can't exactly relate, but if I ever do get into
+programming, I suppose it would be so I could make my own SID tunes.
+
+RB: Very good. Yes! More SID tunes.
+
+HHM: Yeah, well, there could never be too many SID tunes, I suppose. And of course, for the
+listeners who are not familiar with SID, this is all music which is composed on the Commodore 64
+home computer. And I'd like to extend thanks to all the people involved in the High Voltage SID
+Collection, because that's where I get all my material from. The High Voltage SID Collection is the
+largest collection of SID music anywhere in the world. Their website can be found at:
+www.hvsc.c64.org and pretty much any type of machine that you're using... if you're using Windows or
+a Macintosh operating system or even if you're using Linux, you can access this site and download over
+11,000 Commodore 64 tunes. It's quite an impressive thing they have going on and utterly essential for
+my radio show. So I can never be too thankful for that project and all the hard work that goes into it.
+Um, I wanted to ask you, Robert, does the Fresno Commodore Users Group have a website that we
+can look at?
+
+RB: Um, we only have a web page, not a website.
+
+HHM: A web page? That's fine.
+
+RB: The web page, if I can remember it very quickly, it's at... um... Oh, it skips my mind right now. I'll
+probably have to remember it a little bit later.
+
+HHM: Hopefully, we can find it with a search engine.
+
+RB: I know it's at Gaelyne Gasson's website...oh, I think I remember it now, O.K.. It's:
+http://videocam.au/fcug.html
+
+HHM: O.K., great. The web videocam... does that mean when you have your meetings, you have a
+webcam up?
+
+RB: No. No, we don't have a webcam, unfortunately.
+
+(Laughter)
+
+RB: However, there is a person who has developed an interface to connect a webcam up to
+Commodore machines.
+
+HHM: You're kidding?
+
+RB: Yes!
+
+HHM: That's very cool.
+
+RB: Yes, Nate Dannenberg out of the Midwest. He has his interface, and well, you have to build it
+yourself, but he has the plans, and...
+
+HHM: Wow, I'm still registering that in my mind... a webcam for the Commodore 64. That's just so
+amazing to see.
+
+(Laughter)
+
+HHM: It just goes to show how cool the Commodore 64 machine is. And, uh, isn't there a new Amiga
+system coming out?
+
+RB: Well...
+
+HHM: You can't exactly talk about that.
+
+RB: Yes, there is. There have been reports in Forbes magazine and some of the other magazines about
+the new Amiga coming out at the end of the year or the beginning of next year with the new operating
+system.
+
+HHM: O.K., well, I think I'll start putting ads in the newspaper for my, uh... to get rid of my PC. Start
+saving up money for the new Amiga system.
+
+RB: Of course, everybody knows that Amiga is owned by Gateway.
+
+HHM: O.K., well, is there anything else you'd like to say to the people living out there in Europe or the
+rest of the United States.
+
+RB: Well, I just want to say, Justin, that you're providing a great service here, I mean, providing SID
+music here at KDVS-FM radio station, and you're making SID music available to people who have
+never heard it before -- a lot of these tunes I've never heard before -- and I believe that you are... in
+your own way you are at the forefront of spreading SID music...Commodore SID music around the
+world. And I'd like to thank you for your involvement in what you're doing and wish you the best of
+luck and hope that you continue for a long time to come in your radio program here.
+
+HHM: Thank you so much, Robert. I really would like to thank you, too, for taking the time to come
+down to the KDVS studios, and I forgot... we forgot to even mention that you're a graduate of U.C.
+Davis, class of 1977.
+
+RB: Right, class of 77. Aw... that... there goes my age right there.
+
+(Laughter)
+
+HHM: That's all right. Not exactly, but maybe we can guess with some sort of range there.
+
+RB: *That* range!
+
+HHM: Yeah, but anyway, Robert, thanks for coming by the KDVS studios and talking with us over the
+air. I hope the listeners have enjoyed this interview, and we're going to play some messages and get
+back to the SID music.
+
+RB: O.K., thank you, Justin.
+
+HHM: All right, Robert. I'm Hard Hat Mack, and in just a few moments, we'll be back with some more
+SID tunes. So please stay tuned.
+
+
+HHM: Yeah, exactly. Well, um, I was going to ask you about your newsletter. Could you talk a little bit
+about that?
+
+RB: Uh, well, we put out 3 newsletters. Our main newsletter, which is called the Interface, is a
+bi-monthly newsletter that comes out, and it has a variety of articles from various sources -- original
+articles, articles from other newsletters, information off the Internet. Then we have our other newsletter
+called C= Voyages, the one that I edit, and that mainly features articles from my travels and from
+people or places I've been to. And then we have another newsletter called the Halfling, which is full of
+poetry and personal opinion and club happenings. And that's done by another editor, and she's in
+charge of that. The Halfling and C= Voyages come out more irregularly, even though I try to make C=
+Voyages a bi-monthly. It's hard during the summertime when I'm traveling around to keep it going
+bi-monthly, so I apologize to all the members who have not received their newsletter yet.
+
+HHM: Um, Robert, what do you do when you're not using your Commodore 64?
+
+RB: I'm a teacher for the Corcoran Unified School District, which is 35 miles southwest of Visalia, and
+Visalia is about an hour south of Fresno.
+
+HHM: O.K., and for the European listeners who... oh, some of them may know where Fresno is... I
+have a feeling that a lot of them don't... Fresno's what? Probably about a couple hundred miles south of
+where we are?
+
+RB: Yes, that's true. It's about 4 hours south of Davis. Just think of dead center of California... in the
+Central Valley. So we're not near San Francisco and we're not near Los Angeles. We're like in farm
+country.
+
+HHM: Right. Right in the middle... in the Central Valley of California. I wanted to ask you little bit
+about that demo party that you went to in Leeds [England]. When was that?
+
+RB: That was the DejaVu demo party, and that was on the July 9-10 weekend, I believe. Well,
+actually, it encompassed Friday night, Saturday night, and Sunday... Sunday also. So it went on for 2
+nights, 3 days or 2 nights, 2 days, and the demo party was... in a demo party, you have all these
+programmers who congregate and what they try and do is they try and program these visuals and music
+and put them up on the videoscreen so that people can judge who makes the best demo in this demo
+party, and they win prizes.
+
+HHM: We should have set you up with a pair of headphones, Robert. Sorry about that. Robert's sitting
+out here in the dark, because we didn't have a pair of headphones for him. But anyway, let's... let's get
+back to talking about that demo party in Leeds, England. That was this July?
+
+RB: That was this July. I... I attended it with another person, Allan Bairstow of Commodore Scene
+magazine. We went there specifically to see if there were any C64 programmers out there. There were
+many PC programmers out there. There were some PSX, Playstation programmers there. There were
+3 Amiga programmers there. There was only one C64 programmer there.
+
+HHM: No!!
+
+RB: Yes, just one. Jason... Jason Kelk of Commodore Zone magazine, but he was there busily working
+on his demo. And it was finally demoed on Sunday. Unfortunately, I wasn't around to see him in his
+hour of glory. But he was the only C64 person there, so he won the grand prize for C64 demos, which
+was 94 pounds or approximately $144 dollars... something like that.
+
+HHM: Not too shabby.
+
+RB: Not too shabby.
+
+HHM: Earlier you told me that he probably blew more money than that on the monitor he had to buy...
+
+RB: That's right. He had to buy a little, 4-inch color monitor just to program with it. He had to have the
+bus fare from his city that he lived in... very far away... 4 or 5 hours away from Leeds. So it was quite a
+trip just to go over there. Programmers are in a different level, at a different level, in a different world
+when they go into programming.
+
+HHM: Yeah, not being a programmer myself, I can't exactly relate, but if I ever do get into
+programming, I suppose it would be so I could make my own SID tunes.
+
+RB: Very good. Yes! More SID tunes.
+
+HHM: Yeah, well, there could never be too many SID tunes, I suppose. And of course, for the
+listeners who are not familiar with SID, this is all music which is composed on the Commodore 64
+home computer. And I'd like to extend thanks to all the people involved in the High Voltage SID
+Collection, because that's where I get all my material from. The High Voltage SID Collection is the
+largest collection of SID music anywhere in the world. Their website can be found at:
+www.hvsc.c64.org and pretty much any type of machine that you're using... if you're using Windows or
+a Macintosh operating system or even if you're using Linux, you can access this site and download over
+11,000 Commodore 64 tunes. It's quite an impressive thing they have going on and utterly essential for
+my radio show. So I can never be too thankful for that project and all the hard work that goes into it.
+Um, I wanted to ask you, Robert, does the Fresno Commodore Users Group have a website that we
+can look at?
+
+RB: Um, we only have a web page, not a website.
+
+HHM: A web page? That's fine.
+
+RB: The web page, if I can remember it very quickly, it's at... um... Oh, it skips my mind right now. I'll
+probably have to remember it a little bit later.
+
+HHM: Hopefully, we can find it with a search engine.
+
+RB: I know it's at Gaelyne Gasson's website...oh, I think I remember it now, O.K.. It's:
+http://videocam.au/fcug.html
+
+HHM: O.K., great. The web videocam... does that mean when you have your meetings, you have a
+webcam up?
+
+RB: No. No, we don't have a webcam, unfortunately.
+
+(Laughter)
+
+RB: However, there is a person who has developed an interface to connect a webcam up to
+Commodore machines.
+
+HHM: You're kidding?
+
+RB: Yes!
+
+HHM: That's very cool.
+
+RB: Yes, Nate Dannenberg out of the Midwest. He has his interface, and well, you have to build it
+yourself, but he has the plans, and...
+
+HHM: Wow, I'm still registering that in my mind... a webcam for the Commodore 64. That's just so
+amazing to see.
+
+(Laughter)
+
+HHM: It just goes to show how cool the Commodore 64 machine is. And, uh, isn't there a new Amiga
+system coming out?
+
+RB: Well...
+
+HHM: You can't exactly talk about that.
+
+RB: Yes, there is. There have been reports in Forbes magazine and some of the other magazines about
+the new Amiga coming out at the end of the year or the beginning of next year with the new operating
+system.
+
+HHM: O.K., well, I think I'll start putting ads in the newspaper for my, uh... to get rid of my PC. Start
+saving up money for the new Amiga system.
+
+RB: Of course, everybody knows that Amiga is owned by Gateway.
+
+HHM: O.K., well, is there anything else you'd like to say to the people living out there in Europe or the
+rest of the United States.
+
+RB: Well, I just want to say, Justin, that you're providing a great service here, I mean, providing SID
+music here at KDVS-FM radio station, and you're making SID music available to people who have
+never heard it before -- a lot of these tunes I've never heard before -- and I believe that you are... in
+your own way you are at the forefront of spreading SID music...Commodore SID music around the
+world. And I'd like to thank you for your involvement in what you're doing and wish you the best of
+luck and hope that you continue for a long time to come in your radio program here.
+
+HHM: Thank you so much, Robert. I really would like to thank you, too, for taking the time to come
+down to the KDVS studios, and I forgot... we forgot to even mention that you're a graduate of U.C.
+Davis, class of 1977.
+
+RB: Right, class of 77. Aw... that... there goes my age right there.
+
+(Laughter)
+
+HHM: That's all right. Not exactly, but maybe we can guess with some sort of range there.
+
+RB: *That* range!
+
+HHM: Yeah, but anyway, Robert, thanks for coming by the KDVS studios and talking with us over the
+air. I hope the listeners have enjoyed this interview, and we're going to play some messages and get
+back to the SID music.
+
+RB: O.K., thank you, Justin.
+
+HHM: All right, Robert. I'm Hard Hat Mack, and in just a few moments, we'll be back with some more
+SID tunes. So please stay tuned.
+
+(SID music plays for several minutes.)
+
+HHM: Hard Hat Mack back here on KDVS radio in Davis, California, and on the Internet,
+www.kdvs.org . You probably recognize that from the Exorcist, a sound made... a tune made famous
+from that movie. The composer was Mike Oldfield. The name of the song was Tubular Bells, but the
+person who composed the song on the Commodore 64 is unknown as of this date. Maybe we'll find
+out one day. That's from 1985. Robert and I wanted to get back on the air and talk about the Vintage
+Computer Faire [a.k.a. Vintage Computer Festival], which is coming up this September in Santa Clara.
+Is that right?
+
+RB: October 2 and 3.
+
+HHM: OK, so tell us about the Vintage Computer Faire, Robert.
+
+RB: This is its third year. I've been to Commodore computer shows in Illinois and Michigan, and
+people have always asked why don't we have a West Coast Commodore computer show, and our
+clubs out here don't have the organization, don't have the wherewithal to put on a show ourselves. But
+the Vintage Computer Faire is there already... they have the site... I mean, it's going to be at the Santa
+Clara Convention Center in Santa Clara, California, just a few blocks away from Great America. It's a
+great venue. They have the tables all set up. They have the organization. They have the sponsors. And I
+thought to myself, well, why don't we have, you know, Commodore users come into the Vintage
+Computer Faire. I mean our group, the Fresno Commodore Users Group... we're going to have a table
+there, we're going to be promoting the latest in Commodore, like Wheels 64 and Wheels 128 and the
+SuperCPU's. It's a two-day event. Last year, VCF was reported on C-Net Central, a television show
+on Sunday morning on the Sci-Fi Network.
+
+HHM: Wow!
+
+RB: So they've had coverage of the show. I'm sure this year it'll be bigger and better than ever. I mean,
+even if you're not into Commodore and if you want to see older computers from the past, like from the
+1950's, 60's, and 70's, come to the show, and you'll be surprised at what they have there. I mean,
+there'll be many displays there from the Computer History Museum also.
+
+HHM: So do you have any contact information that people can use to find out how to get into this
+convention?
+
+RB: Yes, you can e-mail to Sam Ismail; that's I-s-m-a-i-l, and his e-mail address is: (spelled out for the
+audience) siconic@jasmine.psyber.com He's the organizer of this show; in fact, he's been reported on
+in the San Francisco newspapers about his shows in the past. Also they have a website at
+www.vintage.org/vcf
+
+HHM: Vintage Computer Faire, this October in Santa Clara.
+
+RB: Santa Clara, October 2-3.
+
+HHM: Wonderful. Once again, Robert Bernardo, I'd like to thank you for being on the show today.
+Robert Bernardo is from the Fresno Commodore Users Group, and it's been a real pleasure having him
+on 6581 SID today. Thank you, Robert.
+
+RB: Thank you, Justin.
+
+HHM: O.K., so we're going to continue on with the SID music just for a couple more minutes, and then
+Justin (a different Justin) and the Evil Spider will be up at 9 o'clock, playing you the best in punk rock
+music. So I think you should stay tuned.
+
+(SID music plays -- "Take a Chance on Me" from Abba)
+
+
+Thus ended my first foray in broadcast radio. While Justin wrote down some notes, the next DJ
+entered. Justin and I got out of the disc jockey's booth, and I gathered my Commodore materials. It
+was getting late. Justin being a Star Wars fan, I promised to send him some Commodore Star Wars
+demos and games as we walked out of the Freeborn Hall basement into the cool, night air. He invited
+me to come back and visit anytime. I thanked him and said that I would consider it. We waved to each
+other as he and his girlfriend, Danae (another KDVS DJ), walked off into the darkness and I headed
+toward my car. I was famished and aimed myself toward downtown Davis in search for a nice java
+shop and live music. And I found it!
+
+-----
+
+Skip forward to March, 2000. On comp.sys.cbm, Justin announced that KDVS was having their yearly
+fundraiser from April 9-16. Not only were monetary donations needed, but to make it extra special,
+Justin would offer Commodore prizes to those who donated. He needed C= hardware or software to
+give out.
+
+Knowing that our club had a glut of extra hardware/software, I e-mailed him, writing that we would
+gladly donate some of our stuff for such a worthy cause. Justin reassured me that all C= materials
+donated would be fully tax-deductible. I told him not to worry about it, and I then started making my
+contacos.
+
+FCUG newsletter editor, Dick Estel, had a complete set of our older disks-of-the-quarter ready to give
+away, in addition to a set of public domain Print Shop graphics and other odds-and-ends. Todd
+Obermann, of Clovis, California and a former C= user, had a complete C128 system (minus monitor)
+plus peripherals and original software. All I had to do was to pick the stuff up and transport it to Davis.
+
+Friday, March 31, I left school early and drove to Fresno, driving to Todd's house first. I was amazed
+at the excellent condition of his boxed equipment and thanked him profusely for his donation. He said
+that his brother had even more C= materials, and when that was ready in a few weeks (but too late for
+the fundraiser), I could pick it up, too. Before I left, I had to urge him to stay with Commodore, even if
+it meant getting an emulator to work on his Pentium. He agreed, and I felt my mission was
+accomplished.
+
+Then it was off to Dick Estel's house. We talked about PC-to-Commodore and Commodore-to-PC
+graphics conversion, and on his PC, he showed me the operation of Congo 3.0, a PC program which
+could handle such conversions. I was pleased that such an efficient program served the needs of us C=
+users and wondered if a similar program were available for my other computer, the Amiga. I couldn't
+stay too long, because I had another 2-hour drive in front of me, and so, Dick packed his materials into
+my car. Off I went to the nearest Burger King for some chicken sandwiches, and not long after that, I
+was on the road to Stockton, my stopover for the night at my parents' house. I arrived at 11 p.m.,
+exhausted but happy, the entire front and back seat of my car crammed with C= stuff (the trunk was full
+of school stuff).
+
+The next day, Saturday, Justin e-mailed me to meet him at his Davis apartment at 7 p.m., the time he
+got off of work. I spent most of the day meeting with best friend and fellow C= user, Kevin Baysinger,
+and talking about his house, my current C= adventure, and chowing down at a nearby Chinese
+restaurant. In no time at all, I had to leave for Davis, a little more than an hour away. I arrived at 6:30
+p.m., searching for Justin's apartment address in the dark. Fortunately, I knew that area of Davis, and it
+didn't take me long. I went to the third floor, knocked on his door, and waited. Nobody appeared,
+except his next-door neighbors, another young couple going out.
+
+I asked about where Justin was and reassured them that I was a friend, bringing computer materials for
+him. Satisfied with my explanation, they smiled and remarked he must still be at work. I went down to
+my car and waited. Twenty minutes later, I went back upstairs and tried again. Justin had just walked in
+through the door, and a few minutes later, Danae showed up.
+
+I was astounded at how much Commodore stuff had been already collected. In the middle of his
+compact, 2-bedroom apartment was a pile of keyboards, disk drives, disks, and software -- enough to
+fill a wheelbarrow or two. With the load of stuff I brought in, that tripled or quadrupled in size. 
+
+He then showed me his Pentium 100 tower computer, which ordinarily wouldn't interest me but was
+made special because he had SIDPlay installed in it. On the monitor screen, SIDPlay was divided into
+several windows, one of which showed the list of SID tunes he had saved. I asked him how many he
+had; he replied that he had the entire High Voltage SID collection (now up to over 12,000 files)! Then
+what astonished me even more was that he started playing some of the SID tunes through his stereo
+system, and the tunes exactly sounded as if they were played from a Commodore. How was this
+possible? Was he running a Commodore emulator? No. There was a cable which extended from the
+PC and plugged into the user port of an actual, brown C64. Then from that C64, the audio was routed
+to the stereo. The special PC-to-C64 cable was not very expensive, but Justin had to order it from one
+of his European SID friends.
+
+After all of the Commodore talk, we had a vegetarian dinner at the apartment of the aforementioned
+next-door neighbors, and I spent the night in Justin's spare bedroom. The next day Justin had to go to
+work for a few hours, but I would be leaving before he returned. We said our good-byes, and I asked
+him to keep me up-to-date on the fundraiser.
+
+He departed, and I then packed up my things and got ready to attend Sunday services at the local
+Catholic Newman Center, a place I had not visited since I was a graduate. Then after grabbing a
+sandwich at a local coffee shop, I was on the road back to Stockton.
+
+-----
+
+April 10 -- it was Tuesday and the second day of fundraising week for radio station, KDVS. It was
+also the night of Justin Beck's 6581 SID Show. I really wanted to find out what was happening... how
+everything was going with the fundraising during his show. I also wanted to donate some money to keep
+the radio station going, to keep the SID music coming.
+
+Though I was too far away to pick up the radio station over the airwaves, I knew that it would begin at
+8 p.m.. I waited for a bit to allow Justin time to get the show rolling, and then at 8:25, I phoned in.
+Justin picked up the phone, saying that I was live on-the-air at 6581 SID. I greeted him and responded
+that I wanted to donate some money. He asked who I was, and I identified myself. He immediately
+thanked me, Dick Estel, and Todd Obermann for generously giving our C= software and hardware and
+time in helping to make the 6581 SID Show a success during the fundraiser. At that point, I asked
+about how much money had come in during the show. With my donation, it was up to $240. Not
+wanting to take up any more airtime, I thanked him for the SID music, and he then transferred me to an
+operator who would get the specifics of my donation.
+
+I was switched to another person who manned one of the 4 phones in the phone bank. I gave my name
+and address, and I asked for complete information on where to send my check. Then the operator
+asked me to select a C= prize as a reward for my donation. A bit surprised, I related how I had
+brought in most of the software/hardware they were giving away and that it wasn't really necessary for
+me to receive a prize. The operator did say that SID audio CD's were also available. Suddenly, I was
+interested, and I agreed that they could send me the CD's.
+
+A few weeks later, I received a letter from KDVS, thanking me for my monetary donation and stating
+how much the radio station had gathered during the week -- a record-breaking $35,853.12. I found
+out later that the 6581 SID Show itself had gathered $1,110 -- three times that of any other KDVS
+program.
+
+A few weeks after that, I received a large package in the mail -- a nice Commodore sticker and 4
+audio CD's, Back in Time I, Back in Time II (both autographed by the editor, Chris Abbott), Hard Hat
+Mack's SID Spectacular volume 1, Hard Hat Mack's SID Spectacular volume 2. Justin also included a
+CD-ROM named the High Voltage SID Collection v3.5; I'd have to play those files from a PC,
+transfer them from a PC to my Commodore with the use of Little Red Reader 2.7 for the Commodore,
+or read them via a CD-ROM drive connected to a CMD hard drive with the use of CD Commander
+128. Now I had many more hours of SID music to add to my SID audio CD collection.
+
+KDVS 90.3 FM
+14 Lower Freeborn Hall
+University of California, Davis
+Davis, California 95616
+U.S.A.
+
+Main office:    530 752-0728
+Business office:  530 752-2775
+Request line:    530 752-2777
+FAX (c/o KDVS):   530 752-8548
+Internet:      www.kdvs.org
+www.kdvs.org/6581SID (which includes interview articles and Real Audio archives of each show)
+Justin Beck:    jrbeck@ucdavis.edu
+
+From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center http://home.att.net/~rmestel/commodore.html

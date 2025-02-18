@@ -1,0 +1,16 @@
+public abstract class Kult
+{
+  public void String[] Held(en)
+  public void String[] Feind(e)
+  protected void Graphics[] Symbole
+  protected void String Rituale
+  private void String Geheimnis(se)
+  private void Coordinates Stätten
+  private void String Triggerworte  //"Du Pädo", "Du Kokainnase", "Du Vergewaltiger", "haha vergewaltigt" Antirassissmusartikel
+
+
+}
+
+
+
+

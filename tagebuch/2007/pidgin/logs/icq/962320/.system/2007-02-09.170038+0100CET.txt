@@ -1,0 +1,24 @@
+System log for account 962320 (icq) connected at 09.02.2007 17::00::38
+---- +++ 962320 hat sich angemeldet @ 09.02.2007 17::00::38 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 09.02.2007 17::00::38 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 09.02.2007 17::00::38 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 09.02.2007 17::04::47 ----
+---- stefan hat den Status von Verfügbar zu Offline geändert @ 09.02.2007 17::09::28 ----
+---- Dominik wurde tätig @ 09.02.2007 17::46::29 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 09.02.2007 17::46::30 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 09.02.2007 17::59::04 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 09.02.2007 17::59::27 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 09.02.2007 18::01::27 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 09.02.2007 18::05::49 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-09 18:07:27 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-09 18:08:56 ----
+---- Dominik hat den Status von Verfügbar zu Offline geändert @ 2007-02-09 18:11:52 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 2007-02-09 18:13:16 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-02-09 18:17:28 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-09 18:26:29 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-09 18:27:26 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-09 18:28:28 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-02-09 18:31:01 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-09 18:31:22 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-09 18:32:24 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-02-09 18:37:29 ----

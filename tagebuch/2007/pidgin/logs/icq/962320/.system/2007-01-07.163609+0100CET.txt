@@ -1,0 +1,11 @@
+System log for account 962320 (icq) connected at 07.01.2007 16::36::09
+---- +++ 962320 hat sich angemeldet @ 07.01.2007 16::36::09 ----
+---- SchÃ¶Ã¶fli hat den Status von Offline zu Abwesend geändert @ 07.01.2007 16::36::09 ----
+---- SchÃ¶Ã¶fli wurde untätig @ 07.01.2007 16::36::09 ----
+---- SchÃ¶Ã¶fli hat den Status von Abwesend zu Abwesend geändert @ 07.01.2007 16::36::09 ----
+---- vortex hat den Status von Offline zu Online geändert @ 07.01.2007 16::36::09 ----
+---- vortex hat den Status von Online zu Online geändert @ 07.01.2007 16::36::09 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 07.01.2007 16::36::09 ----
+---- Dominik wurde untätig @ 07.01.2007 16::36::09 ----
+---- Dominik hat den Status von Abwesend zu Abwesend geändert @ 07.01.2007 16::36::09 ----
+---- +++ 962320 hat sich abgemeldet @ 07.01.2007 16::37::24 ----

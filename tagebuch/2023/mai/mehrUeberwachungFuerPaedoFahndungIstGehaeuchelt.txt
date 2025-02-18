@@ -1,0 +1,99 @@
+
+
+Hallo Ihr
+
+
+===============
+TRIGGERWARNUNG:
+===============
+
+Ich hab ein Thema was auch eher nicht so bequem ist.
+
+Oft wird ja in der Politik argumentiert, dass wir unbedingt noch mehr Überwachung gegen Terroristen und Pädophilie brauchen. Auch die aktuelle Diskussion über Chat-Kontrolle wurde in diese Richtung ge-primed.
+
+Mehr Überwachung heisst mehr Kosten. Diese Kosten werden oft einfach durchgewunken und dabei ist jeweils nicht nur Equipment sondern auch Personal eingerechnet. Aber eigentlich nie wirklich budget um die Opfer wieder gesund zu pflegen. Und ja es ist sehr typisch für Männchen wie mich dann zu sagen "Ich mach den Täter tot", je nach Waffe die man verwendet bräuchte man dafür 1 - 10 Minuten. Was aber eigentlich wichtiger wäre ist die Opfer psychisch wieder gesund zu pflegen, und das dauert Jahre oder Jahrzehnte. Für so etwas hilft mehr Überwachung gar nichts. Man würde dann zwar die potentiell gefährdeten Opfer vielleicht schneller finden, aber danach würde immer noch niemand Zeit oder die Fähigkeiten haben diese wieder gesund zu pflegen.
+
+Auf Telegram oder auch in anderen Social-Media-Plattformenen oder Messenger hat es duzende, hunderte oder tausende junger 20 jähriger Menschen, die z.B. weils sie Mobbing-, Missbrauchs-, Misshandlungs-, Pädophilie- oder Vergewaltigungs-Opfer suizidal sind. Opfer wenn sie z.B. von Menschen aus der Peering-Group gemobbt bis vergewaltigt wurden werden dann logischerweise oft auch ausgeschlossen weil die Täter beim Anblick des Opfers mit ihren Straftaten konfrontiert werden. Vermeidungsverhalten: "negatives Stimuli weg machen." Also triezen die Täter die ganze Peering-Group dazu das Opfer auszuschliessen. Dies mit viel mehr Antrieb als jemand normalerewise hätte (Zwangsneurose).
+
+aus meiner subjektive Wahrnehmung in meiner Bubble: VIELE OPFER AUF TELEGRAM
+(also das wirkt auf mich so ein bisschen wie "The Last Church" für Opfer)
+
+Wissenschaftlich statistisch habe ich keine belastbaren Daten zur Dunkelziffer und den genauen Zahlen nur diese Grafik aus Amerikanischen Datenbeständen (IMG)
+
+-> Da wäre auch mal eine schweizer/europäische Studie dazu toll. Hat jemand gute Kontakte zu Universitäten mit guten Psychologischen Fakultät?
+
+
+Probleme:
+
+* kein Budget für Personal dass hilft oder proaktiv Social-Media oder Messenger bewirtschaftet
+(z.B. in Telegram findet man viele Depressions/Suizid Gruppen)
+
+* kaum jemanden interessiert das insbesondere wenn der im Überfluss lebt
+
+* Menschen die trotzdem helfen möchten sind überfordert wenn sie selber nicht in einer solchen oder ähnlichen Lage waren. Selbst ausgebildete Psychologen oder Psychiater sind oft überfordert oder inkompetent [1]. Auch wenn ein Opfer bereits einen Selbstmord-Versuch gemacht hat [1] möchten oft Psychiater diesen "Fall" (ich hasse es Menschen als Fall zu bezeichnen, deshalb Gänsefüsschen) nicht übernehmen. Betriebswirtschaftler würden von einem "Schlechten Risiko" reden. Ich habe leider die Erfahrung gemacht dass mindestens einigen Psychiatern ihre eigene Reputation wichtiger ist als das Überleben eines Patienten.
+
+* Es gibt viele Gruppen die gar nicht öffentlich sind, wo selbst wenn man wie ich zumindest selber versucht Telegram zu bewirtschaften und die ganz schlimmen Fälle irgendwie einzusammeln und dann statt in eine Depressions-/Suizid-Gruppe in eine andere Gruppe mit Gleichaltrigen zu tun dann hat man bei Telegram keine Chance die Opfer alle irgendwie zu finden um vielleicht weil man ähnliches erlebt hat nützlicher zu sein als ein 40 Jahre älterer Grosskotz-Psychiater
+
+* Viele Opfer getrauen sich aus Scham nicht über diese Dinge zu sprechen. Sind wegen der Tat dann auch oft psychotsich und bekommen dann statt hilfe noch eine vernichtende Diagnose wie zB Borderline, Schizophrenie ...
+
+* Wurde z.B. eine Frau mit einem roten Objekt vergewaltigt und jemand blendet ihr über sieben Umwege genau dieses rote Objekt in Social-Media wieder ein, würde sie in vielen Fällen an die Tat erinnert, würde sofort wieder psychotisch. Bei Suizid-Versuchen braucht es oft mindestens 100 Versuche bis man das dann geschafft hat oder mindestens wie ich auf der Intensivstation landet nach induziertem Selbstmord-Versuch. Hat jemand richtig viele Daten über solche Taten, dann kann er wirst case automatisiert mit Script 100 Opfer an die Tat erinnern (Revictimizing) und somit gäbe es statistisch vermutlich etwa einen Suizid oder Intensivstations-Aufenthalt falls der Durchschnitt der suizidalen Menschen auch so ungeschickt sind wie ich in Selbstmord.
+
+(DISCLAMER: Ich bin grad nicht akut gefährdet, aber latent bin ich seit 20 Jahren gefährdet)
+
+* Dann bin ich mir auch nicht 100% sicher, aber ich habe das Gefühl dass man jetzt damit begonnen hat neben den Opfern die wirklich suizidal sind auch Bot's zu programmieren die sich wie suizidale Menschen verhalten um Menschen wie mich die wirklich helfen möchten zu spammen.
+
+(Motiv dahinter ist meiner Meinung nach, dass jeder solcher Fall dem man hilft, dann wieder einen oder mehrere Täter in den Fokus rückt. In der Presse findet man problemlos Artikel über Psychiater die sich an Patientinnen vergangen haben, also ist es naheliegend anzunehmen, dass es auch solche gibt die erkannt haben, dass wenn sie den Tätern helfen solche Fälle aus dem Gerichtssaal raus zu halten da viel mehr abzocken können als wenn sie das Opfer wieder gesund pflegen würden)
+
+Und mir ist klar, dass dieses Thema viele überfordert. Mir ist auch klar, dass das Thema Suizidalität junger Menschen schlimmstenfalls dann sogar Reaktanz erzuegt. Und 
+
+
+
+Statistik Schweiz: ca 1000 Suizide pro Jahr
+
+1000 Suizide mal 100 Lebensjahre = 100'000 Suizide
+=> 9'000'000 / 100'000 = 1 Suizid von 90 Kinder pro gleichaltriger Peering-Group
+
+
+
+
+Hi Angst
+
+yes you said, that you hate technical things. But in this case you NEED to read and UNDERSTAND the "Client Isolation".
+
+The crazy-paranoid speculation of my schizophrenic me just found out why Projects like yours to help eg. Rape Victims, to help people with Borderline or Schizohprenie Diagnosis always fail. Also in Europe.
+
+There is some sort of worldwide "Client Isolation" [1] in computer-networks. They dont want that victims and people that ask to much non-neurotypical questions can not find each other.
+
+[1] that is an algorithm to separate computers from each other in the same wireless-network and is sold as security feature. Often one can use the same algorithms for humans instead of computers
+
+
+
+
+
+
+
+
+
+
+
+Ein Suizid unter 90 Kinder/Jugendlichen hiesse Grundsätzlich, dass man die restlichen 89 Kinder oder Jugendliche damit auch triggern, erpressen oder fremdbestimmen kann, insbesondere diejenigen die geholfen haben das Opfer zu mobben.
+
+Und ja sind nicht nur Kinder/Jugendliche, aber mindestens die Amerikanische Statistik zeigt, dass es bei den ganz Jungen seit (a)SocialMedia schlimmer wird.
+
+
+Also auch irgendwie eine Baustelle die wir als community irgendwie angehen sollten oder mindestens in den Politischen Diskurs einbringen sollten.
+
+
+
+
+Dieser mein Text hier wäre allenfalls auch was für die DE-Piraten, haben die auch nen Matrix?
+
+
+
+
+
+INSERT AKTE VERTSUEMMELTE MITPATIENTIN: (schon drei mal der selbe insert) -> so etwas wie institutionelles traumatisierendes bild
+Psychiatrie das selbe, bei einer Patientin die am ganzen Körper verstümmelt ist weil gemäss ihrer Aussage sie von ihrem Vater als Kind missbraucht wurde und an andere Männer vermietet wurde für Pädophlie
+
+
+[1]  oder [UNBEKANNT: INSERT FALL DeLö]

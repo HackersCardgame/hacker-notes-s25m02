@@ -1,0 +1,37 @@
+Letter Quality Printing and Commodore 
+
+(from a variety of sources)
+
+It used to be that "letter quality" meant daisywheel printing. But some 9-pin dot-matrix printers came
+along that achieved very acceptable near letter quality work. Then came 24-pin printers that produced
+text so near letter quality it takes a magnifying glass to see the difference. And the output from today's
+new generation of laser type printers is difficult to distinguish from true letter quality.    
+
+Because the laser type printer can accomplish both letter quality text and high resolution graphic
+printing, it is rapidly becoming the printer of choice. And that explains the just as rapid decline in dot-
+matrix printer inventories at the computer stores. As for daisywheel printers, they are mostly seen in
+thrift stores.      
+
+As it pertains to Commodore, the graphic environment is limited to the 8-bit resolution built into the 64
+and 128. This doesn't mean that decent graphics can't be accomplished. But it does mean that the full
+capabilities of today's printers cannot be utilized. Indeed, it is seen where 9-pin printing produces better
+graphics than does 24-pin printing. And while a laser type printer will give the best possible results from
+a Commodore, it will hardly be the best the printer can do.      
+
+However, when it comes to straight text printing, a printer's built-in fonts can be used. This type of
+printing presents no problems to a properly interfaced Commodore because the resolution is coming
+from the printer, not the computer. And it happens that straight text printing still consumes a good deal
+of the paper used by computers. Even when a letterhead is present, it is common to use paper on which
+the letterhead is already printed.      
+
+But, then, this is the kind of printing chore for which the daisywheel is ideally suited. And few
+peripherals connect to a Commodore easier than a daisywheel. There isn't a printer interface made that
+doesn't provide for daisywheel operation.    
+
+To check out a secondhand daisywheel, first look to see that it provides the standard Centronics
+parallel connection. (One exception is the Commodore DPS1101, which, of course, connects directly.)
+Then simply insert a sheet of paper, plug it in, and hold down the form feed button while turning it on. It
+should begin printing. Examine the quality of the print, and make your decision whether to buy or not.
+
+(Reprinted from Civic 64/128 Gazette, Ventura-Oxnard, December 1997 via The Commodore
+Information Center web site (http://home.att.net/~rmestel/commodore.html).

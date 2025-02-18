@@ -1,0 +1,47 @@
+System log for account 962320 (icq) connected at 03.06.2007 09::47::04
+---- +++ 962320 hat sich angemeldet @ 2007-06-03 09:47:04 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-06-03 09:47:04 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 2007-06-03 09:47:04 ----
+---- Dominik wurde tätig @ 2007-06-03 09:47:04 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-03 09:50:33 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-03 09:52:42 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-03 09:52:45 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-03 09:56:41 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-03 09:57:51 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-03 10:04:38 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-03 10:11:03 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-03 10:11:23 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-03 10:14:46 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-03 10:15:24 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-03 10:45:28 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-03 10:50:44 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-03 10:50:55 ----
+---- Dominik wurde untätig @ 2007-06-03 10:59:23 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-03 10:59:32 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-06-03 11:05:37 ----
+---- Schööfli wurde tätig @ 2007-06-03 11:05:38 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-03 11:10:16 ----
+---- +++ 962320 wurde untätig @ 2007-06-03 11:40:26 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-03 12:03:10 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-03 12:09:43 ----
+---- Schööfli wurde untätig @ 2007-06-03 12:09:44 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-03 12:14:10 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-03 12:19:10 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-03 12:20:43 ----
+---- Schööfli wurde tätig @ 2007-06-03 12:20:43 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-03 12:29:04 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-03 12:49:10 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-03 12:51:46 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-03 12:57:02 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-03 13:00:39 ----
+---- Schööfli wurde untätig @ 2007-06-03 13:00:39 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-03 13:00:51 ----
+---- Schööfli wurde tätig @ 2007-06-03 13:00:51 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-03 13:04:21 ----
+---- Schööfli wurde untätig @ 2007-06-03 13:04:22 ----
+---- +++ 962320 wurde untätig @ 2007-06-03 12:54:23 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- FairyLady hat den Status von Abwesend zu Nicht verfügbar geändert @ 2007-06-03 13:17:02 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-06-03 13:20:18 ----

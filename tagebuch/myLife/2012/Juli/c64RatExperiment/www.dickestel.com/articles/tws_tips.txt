@@ -1,0 +1,126 @@
+WRITE STUFF TIPS, HINTS, ETC.
+
+
+BB vs BA:
+
+This applies only to the C64 spellchecker version of TWS. This disk contains two slightly different
+versions of the BB Writer program.
+
+BB is the default choice. It is the one that will load if you type LOAD"*",8,1; or load by pressing
+[COMMODORE][RUN/STOP] with a DOS wedge active.
+
+BB does NOT include the sort feature, and has about 19,500 bytes available for text.
+
+BA DOES include the sort feature, and has only 15,600 bytes free for text.
+
+You can select either BB or BA by typing LOAD"BB",8,1 or LOAD"BA",8,1.
+
+You can change the default in several ways. The simplest is to use a directory editor such as
+DIRECTORY ASSISTANCE or DAVID'S DIRECTORY DESIGNER to make BA the first file in
+the directory.
+
+
+QUICK COLOR SETUP:
+
+Immediately after loading the program, type or load a file with two or three paragraphs. Press
+[CONTROL]. Press b until you find the background color you like. Press \ until you find the letter
+color you like. Press and hold [COMMODORE] and press b until you find a border color you like.
+Press * to change the "edge effect." Press f. With the BA version ONLY, the appearance of the text
+will change. Press f again. It will change back. When you find the text and "edge" appearance you like,
+press [BACK ARROW].
+
+Press [UP ARROW] p [RETURN], and immediately press [SHIFT LOCK]. The text should stop in
+preview mode. Press b till you find the background color you like. Press \ till you find the letter color
+you like. Press [SHIFT LOCK] and [BACKARROW] to return to the regular edit mode.
+
+Press [CONTROL] x s. This will immediately save whichever version of the program you loaded (BA
+or BB) with the changes you have made. It will also save any other changes you made after loading the
+program. If the file you loaded had printer control codes included, the default printer set-up will be
+changed.
+
+
+TWO FAVORITE FEATURES - QUICK INSTRUCTIONS
+
+
+SORT FEATURE:
+
+Using the original or BA spellchecker version, you can alphabetize a list of your great grandchildren, the
+animals in the zoo, or your Willy Nelson albums.
+
+First type the list
+
+(Example):
+
+fox
+zebra
+aardvark
+coatimundi
+
+SAVE your file "just in case."
+
+Press [CONTROL] e. Press p until the entire list has been "eaten."
+Press [BACKARROW].
+Press [CONTROL] [SHIFT] r.
+The cursor will shift to the command line, and you will see:
+
+Restore & sort: [BACKARROW] A-->Z  Z-->A
+
+Cursor to A-->Z and press [RETURN]
+
+You will see:
+
+Sort on column: 1 2 3 4 5 6 7 8 9 10
+
+The cursor will be on 1, and to sort on the first column in your list (the usual choice), just press
+[RETURN].
+
+After a period of time related to the size of the list, your list will appear in alphabetical order:
+
+aardvark
+coatimundi
+fox
+zebra
+
+SAVE IT AGAIN!
+
+
+
+TEXT MACROS:
+
+When a macro has been defined, you type one or two letters followed by a space, and the text that has
+been defined appears on the screen. This can save an enormous amount of time, particularly if you are
+typing something like Fresno Commodore User Group/64UM several times in a file.
+
+TWS comes with a file of 150 or so text macros already defined. You can add new ones and change
+them, and you can also define temporary macros to use during the current work session.
+
+To load the macro file for editing, type the following:
+
+[CONTROL] l [DELETE] bb macros [RETURN].
+
+Add macros by typing one or two characters followed by = followed by the desired text.
+
+Example:
+
+fc=Fresno Commodore User Group
+
+Don't choose real words like "it" for macros.
+
+WARNING: The file ends with three return marks. Do not change this!
+
+When you've finished, save the changed file by typing the following:
+
+[CONTROL] s [DELETE] bb macros [RETURN] [RETURN]
+
+This will scratch the old file and save the revised version. The changes will not be in effect until the next
+time you load the program.
+
+To define a temporary macro, press [CONTROL] [SHIFT] M. This will place the cursor on the
+command line. Type the macro the same as above (x=example), and press return. The temporary
+macro will be in effect until you define a different one or quit the program.
+
+During any work session, macros may be toggled on or off by pressing [CONTROL] m.
+
+Remember, these macro instructions apply only to the 64 version.
+
+(via the Commodore Information Center, http://home.att.net/~rmestel/commodore.html)

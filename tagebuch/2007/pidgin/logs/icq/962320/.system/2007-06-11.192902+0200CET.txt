@@ -1,0 +1,28 @@
+System log for account 962320 (icq) connected at 11.06.2007 19::29::02
+---- +++ 962320 hat sich angemeldet @ 2007-06-11 19:29:02 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-06-11 19:29:03 ----
+---- Dominik wurde untätig @ 2007-06-11 19:29:03 ----
+---- shrike hat den Status von Offline zu Nicht verfügbar geändert @ 2007-06-11 19:29:03 ----
+---- Schööfli hat den Status von Offline zu Abwesend geändert @ 2007-06-11 19:29:03 ----
+---- Schööfli wurde untätig @ 2007-06-11 19:29:03 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 2007-06-11 19:29:03 ----
+---- Dominik hat den Status von Abwesend zu Offline geändert @ 2007-06-11 19:57:46 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-06-11 19:57:49 ----
+---- Dominik wurde tätig @ 2007-06-11 19:57:49 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-11 19:58:11 ----
+---- Dominik wurde untätig @ 2007-06-11 19:58:44 ----
+---- +++ 962320 wurde untätig @ 2007-06-11 20:22:05 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-06-11 20:38:00 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-11 21:08:55 ----
+---- +++ 962320 wurde untätig @ 2007-06-11 21:04:39 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-11 21:19:05 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-06-11 21:23:20 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 2007-06-11 21:26:37 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-06-11 21:34:52 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-11 21:35:18 ----
+---- +++ 962320 wurde untätig @ 2007-06-11 21:26:19 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-06-12 17:03:59 ----

@@ -1,0 +1,34 @@
+Hallo Hallo
+
+Diese Woche ist mein "Raspberry PI 3" gekommen, und mir ist grad in den Sinn gekommen, dass Du erwähnt hast, dass Dein Sohn Autismus hat.
+
+Autisten mögen oft Technik, wo es auch durchaus Sinn macht, dies zu fördern:
+
+z.B. ich hatte mit sechs einen C64 Computer und Kosmos Elektronik Experimentier-Kasten...und es so bis ins Fachhochschul-Studium für Informatik geschafft.
+
+diese Baukästen gibt es heute auch noch:
+http://www.kosmos.de/content-152-152/physik_und_elektronik/
+(auch für verschiedene Interessen, weil man muss ja als Autist nicht zwingend Elektronik cool finden)
+
+So ab 10 Jahren wäre auch z.B. die Arduino Platform...
+https://de.wikipedia.org/wiki/Arduino_(Plattform)
+
+...oder der Raspberry PI geeignet, den hätte ich damals "voll cool" gefunden.
+
+Der Raspberry PI 3 ist letzte Woche rausgekommen, in USA für 35$, in der Schweiz im Brack für 60Fr. und wenn man es über China bestellt bekommt man etwas kompatibles für 20$:
+
+http://de.aliexpress.com/item/Orange-Pi-PC-ubuntu-linux-and-android-mini-PC-Beyond-and-Compatible-with-Raspberry-Pi-2/32522193901.html?spm=2114.010208.3.46.wKypGi&ws_ab_test=searchweb201556_6,searchweb201602_1_10017_10005_10006_10034_10021_507_10033_10022_10020_10018_10019,searchweb201603_9&btsid=bcdbc735-edb3-4e61-b793-9e90d3b60fc0
+
+zum Vergleich: 
+-eine XBOX kostet 300.--
+-eine Playstation 400.--
+
+-ein Spiel zu einer XBox oder einer Playstation rund 50.--
+
+Frag doch mal Deinen Ehemann was er von der Idee hält. Ah, da Autismus ja oft auch eine genetische Komponente hat, wäre das allenfalls auch etwas für Eure Tocher, da habe vor einem Monat mit meinem Artikel "nur für Jungs" ein bisschen daneben gegriffen, und wurde dann auch sofort innerhab von 20 Min zurecht gewiesen. https://diasp.eu/posts/4029068
+
+Gruss
+Marc
+
+
+

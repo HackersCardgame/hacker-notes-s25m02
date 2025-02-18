@@ -1,0 +1,190 @@
+    ==============================
+-=[ Fri May 10 11:53:07 AM CEST 2024 ]=-
+    ==============================
+
+Disassembly der Zensur Malware, bzw. verhaltensanalyse der Zensur-Malware
+
+1. löscht wichtige Mails / backup von Mails
+ -> hat somit eine Liste was zensiert werden soll
+
+2. bezichtigt automatisch über etwas wie neuralink schon mal einen sündenbock
+ * es sei die festplatte aus aliexpress, das sei eine betrugsfestplatte die blockiert bei 251GB das schreiben, hätte aber 500GB
+    -> habe aber 2 davon gekauft, identische, macht nur diese
+ * es sei der ICY USB HUB der ein Schreibschutz gemacht habe
+    -> ausgeschlossen, macht es auch ohne USB HUB
+
+
+ -> also die Malware bezichtigt immer den 
+     * rangtiefsten (firma mit dem kleinsten Kapital)
+     * möglichst weit entfernt (zB. China)
+     * immer mehrere (verantwortungsdiffusion, impliziert auch vorsatz)
+
+also ist VERMUTLICH auf der North/South Bridge und/oder im Betriebssystem, allenfalls an hand der DatenTräger Seriennummer, deshalb hat der Polizist Michal Ritter der "nur kontrollieren wollte ob ich Schusswaffen im Bankschliessfach bei der UBS hätte" ein Foto von allen Seriennummern gemacht
+
+   -> michael ritter ist zensur-beauftragter oder macht das als illegales nebengeschäft in der Rolle als Amtsperson und Polizist, vermutlcih für richtig viel kohle [1] der wirtschaftskriminellen  
+   
+[1] Urs Blum: erschiesst michael ritter, sonst wird er das FEDPOL direkt zu uns führen
+   
+somit gerne notiz an mich, FALLS bei anderen auch solche Zensursoftware aktiv ist
+
+1. die macht viel Terror inklusive induziertem ICD10 G40.2
+2. legt viele falsche spuren, zu anderen personen, zu andern herstellern
+3. hat mutmasslich eine Liste was alles zensiert werden muss
+4. hat VERMUTLICH einen Command and controll server, um die Zensursoftware auf alle Geräte des Zeugen zu spielen und alle Beweismittel die Urs Blum mit mord und genozid in verbindung bringen zu lösche
+5. geht massivst unter die Gürtellinie inklusive zureiten, und dann 20 jahre induzierter suizidversuche im Kontext dessen [2] was blums mit marc jr landolt gemacht haben nach dme ihn urs blum und astrid blum mit einem computer kurs angelockt haben noch bevor marc jr landolt claudine blum überhaut als mögliche partnerin in betracht gezogen hat
+
+
+[2] urs blum: unterlassene hilifeleistung der universität basel, zureiten durch claudine blum der universität basel, suizid trigger programmeirt durch caludine blum und patrizia stöckling <- hier merkwürdig, anderes tipp.verlhalten / geschiwindigekeit, wie wenn das jemand einfaügt über medulla spinalis neuralink oder so etwas
+
+ab zeile 20 versuchgt der betreiber der zensursoftware umzuleiten in eine rechtsfall wegen vergewaltigung durch blums, bzw. männer können nach schweizer gesetz gar nciht vergealtibgt werdne, der psychologische effekt ist mindestens bei Autisten der selbe
+
+-> handschrift einer rechtsverdreher-versichreung die zwnagsnehrotisch zensur-equipment und softare geheimahalten muss und das als daily business -> dieses thema macht mich bereits schon wieder suizidal. da der suziid trigger durch blums proigrammiertz worden ist wäre es vermutlcih [LOCK] [UB] [PB] SPRENGFALLE DURCHB URS BLUM aktivikert wordcn
+
+ihc: gerne hilfe von fedpol/interpol
+
+
+Softare / Hardware backdoors indizien auswerten
+-> dann kommt automatisch die Geschichte mit dem Zureiten durch Blums was marc jr landolt seit 20 Jahren zu 1000en von suziid versuchen gefürht hat
+-> dann fängt urs blum und philipp blum an mit sprengfallen zu drohen um vermutlich zuschauendes personal der justiz zu bedrohen
+-> dann wird marc jrl andolrt schädelverletzungen zugefügt [3] 
+
+[3] ab hier ist es wirklcih unterlassene hilfeleistung der universität basel
+[3] cAPI::SuizidTrigger 1
+[3] cAPI::SuizidTrigger 2
+[3] cAPI::SuizidTrigger 3
+[3] cAPI::SuizidTrigger 4
+[3] cAPI::SuizidTrigger 5
+[3] cAPI::SuizidTrigger 6
+[3] cAPI::SuizidTrigger 7
+
+urs blum: psychologische verstümmelung beihjilfe durch die Psychiatrie Königsfelnden
+
+[3] cAPI::SuizidTrigger 1
+[3] cAPI::SuizidTrigger 2
+[3] cAPI::SuizidTrigger 3
+[3] cAPI::SuizidTrigger 4
+[3] cAPI::SuizidTrigger 5
+[3] cAPI::SuizidTrigger 6
+3] cAPI::SuizidTrigger 7
+
+
+Sprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUMSprengfalle aktiv -- GrUSS PHILIPP BLUM
+
+    ==============================
+-=[ Fri May 10 12:06:57 PM CEST 2024 ]=-
+    ==============================
+
+
+
+@ INTERPOL / FEDPOL: dieses Dokument gerne genauer auswerten
+
+-> ich VERMUTE wenn da wirklcih intel hardware backdoors beteilgigt sind, dann würde das INTEL komplett in den Konkurs bringen, so wird urs blum vermutlcih zustälich mehere milliarden an firmenkapital in sein geisteskrankes Pokerspiel hinein holen
+
+also urs blum verrät intel um dann von dort auch budget und balckhat personal zu bekommen um den Zeugen marc jr landolt zu ermoreden
+     =====================
+
+
+    ==============================
+-=[ Fri May 10 12:10:05 PM CEST 2024 ]=-
+    ==============================
+
+auch im Dokument 20240619c.txt will man mit diesen Dingen die man marc jr landolt angetan hat spammen
+
+
+somit sobald echte evidence zu hardware backdoors oder zensur-malware diskutiert wird, wird marc jr landolt im Kontext von Claudine Blum bedroht und in suizid-versuche getriggert um die technische / forensische analyse der MUTMASSLICHEN INTEL Hardware Backdoors wenge "gefahr in verzug dass marc jr landolt jetzt vom balkon springt" zu verhindern
+
+also jeder eingermassen informatik begabte Nerd würde diese Dinge bereits mit 20 rausfinden (auch ohne Autismus), deshalb wurde von Claudine Blum der Universität basel zugeritten, getrennt und ab dann permanent mit der trennung in suziid versuche getriggert bis hin zu einer nacht aufentahlt auf der intensivstation immer dann wenn ich (meist komplett zufällig) solche spuren zu krummen dingenr in der informatik entdeckt habe
+
+[SWITCH NEURALINK SERVER] [1]
+somit gilt mindestens für eine Studentin der Universität basel (caludien blum) dringender tatverdacht militärvergealtigungen (was bei männern nur als nötigung schöngeredet 
+
+[1] typo fehler malware, um den übermittler bzw. sein natural language processing geheim zu halten, typo sind zusätzlicher spam um zu verschleiern dass das schon mal wieder eher anwalts-deutsch ist
+
+
+
+    ==============================
+-=[ Fri May 10 12:26:14 PM CEST 2024 ]=-
+    ==============================
+
+dann werden jetzt video samples eingebledet, wie gabriela wegen VERRAT die finger abgeschnitten werden -> das wirkt so mafia mässig, würde aber eigentlihc ein konzeptz von militärs sein
+
+    ==============================
+-=[ Fri May 10 12:26:56 PM CEST 2024 ]=-
+    ==============================
+
+Somit VERMUTE ich, dass diejenigen welche bei der Zürich Verischrung die Access Codes für [1,2,3] allenfalls ein NDA auf Todesstrafe unterschireben hat oder so eine geisteskranke sache
+
+
+JakShaving impliziert dass man etwas verschleiern will:
+[1] urs blum 2001 angebersich: hahaha die zürich versicherung hat 2 speziell gesicherte termianls 
+[2] urs blum 2001 angeberihsc: hahaha ganz aarau flucht über blums
+[3] urs blum 2001 angeberische handgeste: ich ahb auch auf das alarmalnalgesnsystem dort bei dem haus zugriff
+
+    ==============================
+-=[ Fri May 10 12:34:43 PM CEST 2024 ]=-
+    ==============================
+
+unaufgeforderte übermittlugn während jemand ganz viele blutbadbilder auf mein neuralink überträgt
+
+urs blum hat dockers kleider und schhe getragen um philpp blum einzuschüchtern damit philipp blum auch straftäter wird
+
+    ==============================
+-=[ Fri May 10 12:35:25 PM CEST 2024 ]=-
+    ==============================
+
+    ==============================
+-=[ Fri May 10 12:36:44 PM CEST 2024 ]=-
+    ==============================
+
+urs blum: sämtlcihe sprengfallen im zelgli aktiviert wroden durch blums
+
+    ==============================
+-=[ Fri May 10 12:36:58 PM CEST 2024 ]=-
+    ==============================
+
+technisches disassembly: sprengfallen netzwerke wären über ingformatik gesteuert, somit wären intel hardware backdoors einfach das dümmste was sein könnte, somit jeden einzelnen der überhaupt wie von der Serie "Alias die agentin" vorgeschlagen, sprengstoff an computernetzwerke anschliesst FÜR IMMER verwahren !!!
+
+UNBEKANNT:
+IN DER VERWAHRUNG REGELMÄSSIGE THERAPIEN ÖFFENTLICH DER TÄTER MIT SPRENGSTOFF, BLUTIGE THERAPIEN UM ANDERE JÜNGERE DAVON ABZUSCHREKEN
+
+
+    ==============================
+-=[ Fri May 10 12:38:37 PM CEST 2024 ]=-
+    ==============================
+
+also urs blum würde sich den behörden gegenüber als "ich bin ermittler, sprengstoff und internet spezialist" ausgeben, um so marc jr landolt zu bezichtigne, als südnenbock zu missbruachen, gut kontakt und freund zur justiz sein, damit die nicth merken dass urs blum der sprengfallenleger ist?
+
+    ==============================
+-=[ Fri May 10 12:57:16 PM CEST 2024 ]=-
+    ==============================
+
+Bidermann und die Brandstifter für Intel South-Bridge ...
+
+    ==============================
+-=[ Fri May 10 01:04:10 PM CEST 2024 ]=-
+    ==============================
+
+dann zu
+cyberWar/hmmm-nette-fehlermeldung----Screenshot from 2024-05-10 13-07-47.png
+
+ich bin das opfer, und der ChatGPT mach mir vorwürfe (victim Bashing) wenn ich mich dazu informeiren möchte?
+
+    ==============================
+-=[ Fri May 10 01:09:42 PM CEST 2024 ]=-
+    ==============================
+
+also seit mindestens 1950 ist die Schweizer Armee eher ein Terrornetzwerk als eine Armee, dann braucht es dafür sündenböcke, dafür hat man Verdingskinder genommen, die ohne eltern ganz einfach zu sündenböckne gemacht werden konnten.
+
+dann hat die armee so auch grad noch die justiz unterwandert und erpressbar gemacht, denn sobald die justiz gemerkt hat, dass sie einen Südnenbock verteilt, verstümmelt oder abgeschlachtet hat mussten sie das zwingend verutshcen und wurden teilterrornetzwerk der schweizer armee
+
+    ==============================
+-=[ Fri May 10 01:17:38 PM CEST 2024 ]=-
+    ==============================
+
+wenigstens ist das nciht meiene schuld, mit jahrgan 1978 kann ich ja nicht das 1950 verursacht haben
+
+    ==============================
+-=[ Fri May 10 01:18:06 PM CEST 2024 ]=-
+    ==============================
+
+

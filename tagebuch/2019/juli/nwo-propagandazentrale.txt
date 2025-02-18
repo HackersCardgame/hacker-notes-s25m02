@@ -1,0 +1,12 @@
+Hallo Hallo NWO
+
+danke für den Stream, ein kleiner Technischer Hinweise: Leitungen mit garantierter Bandbreite/Uptime sind im Normalfall 10x teurer, aber was man relativ kostengünstig machen kann ist einen Dual-Wan-Router zu nehmen und einfach 2 WAN Leitungen zu haben, also z.B. ADSL & UMTS oder UMTS & DOCSIS oder ADSL & DOCSIS (z.B. Kabel Deutschland)
+
+https://www.google.com/search?q=dual-wan-router&ie=utf-8&oe=utf-8&client=firefox-b-e
+
+Dann zum Systemtechnischen, es wäre von der Ausfallsicherheit vielleicht auch Sinnvoller, den Stream zu Youtube und den OBS auf einem gehosteten Server laufen zu lassen z.B. bei Hetzner oder z.B ganz günstig bei Kimsuffi: https://www.kimsufi.com/de/ zu haben. Dann hat man meist weniger Unterbrüche als über UMTS/ADSL/DOCSIS, dann würde jeweils nur der raus fliegen dessen Leitung schlecht ist aber nicht alle. Da wäre schon der Techniker PC/Leitung der sogenannte "Single Point of Failure". Bzw. einen Mumble Server und diesen mit OBS anbinden wäre vielleicht auch relativ kostengünstig
+
+Falls das Geld das Problem oder ihr Hilfe bräuchtet mit Linux (das was ich erwähnt habe ist meist auf Linux) ist hätte ich allenfalls auch noch ein paar freie Slots auf meinem Server und als tendenziös "Linke Socke" helfe ich für gute Dinge auch gerne weiter.
+
+Gruss
+Marc Landolt

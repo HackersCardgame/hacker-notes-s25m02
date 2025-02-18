@@ -1,0 +1,52 @@
+The Write Stuff Auto-Save Feature
+
+by Dick Estel & Mark Miller
+
+For those of you who've been using The Write Stuff word processor without thoroughly digesting the
+manual, here is an explanation of a couple of the features that are mentioned but not emphasized. These
+features can speed up your work and make you appreciate this outstanding program a little more.
+
+Normally, when you want to save a document, you press [CTRL] s and then type the document's
+filename and hit [RETURN]. Or, you can press [UP ARROW] to get to the command line (the line of
+commands at the top of the screen) and then either cursor over to highlight "Save" and hit [RETURN]
+OR hit s. You then enter the document's filename and hit [RETURN]. This will cause the disk drive to
+store your document under the filename that you have selected.
+
+If that filename is in use and listed in the disk directory, TWS will stop, tell you that a file with that name
+already exists on the disk, and ask you if you want to replace the existing file with the document you are
+trying to save. You can use the cursor key to highlight either Yes or No, and then hit [RETURN] or
+you can hit y or n. If you tell TWS yes, then it will save your document under the filename you have
+chosen and the previous document with that filename will be lost. If you tell TWS no, then it will return
+to your document, ready for further typing or instructions.
+
+Replacing an existing file is usually done to update a document in progress. Let's say that you are typing
+a three page report. You don't want to get through 2 and 1/2 pages and then have the power go out on
+you and lose all that you have in memory. Or, more likely, you might print a rough draft, and either
+erase the document from memory or turn off the computer without saving the document.
+
+You might want to consider saving the document every 5 to 10 minutes. That way, if something
+happens, you will only have lost the last 5 to 10 minutes of work, not the whole thing.
+
+To make this process a little easier, you can use the AUTOSAVE option, which allows you to tap
+[CONTROL] then s, and instantly save the current document. Set up this feature as follows: Before
+you start typing your document, tap [CONTROL] 1 n. This produces a reverse "n." Next type @0:-
+followed by the file name. Do NOT use quote marks! Press [RETURN] after typing your file name.
+From then on, tapping [CONTROL] s immediately saves the document. Remember, this will replace
+the previous version without asking if you want to do this!
+
+This makes saving a lot easier, encouraging you to periodically save the document during the typing
+process. One caveat: DO NOT USE QUOTATIONS MARKS IN THE FILENAME. Mark made
+this mistake once, and lost his document because the filename started with a " and when surrounded by
+quotation marks to delineate the file name, looked like two quote marks in a row. So the computer tried
+to find a file with a name between the quote marks. But there was nothing between the quote marks, so
+it wouldn't try. (He finally recovered the document with the help of a track and sector editor, but the
+important thing is - don't use quotation marks in your file name.)
+
+This autosave feature can be found on page 4 and 24 of the TWS 64 manual.
+
+NON-PRINTING NOTE: The reverse n can be used any time you would like to include a comment in
+your document that you don't want printed. Any text you type between a reverse n and the next
+[RETURN] will appear on the screen but will not print to your hard copy or on the preview screen.
+Just tap [CONTROL] 1 n. This will produce the reverse n. Then type your comment, followed by
+[RETURN]. 
+

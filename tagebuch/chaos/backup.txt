@@ -1,0 +1,17 @@
+\\einstein-1\d$\cablockt
+\\einstein-1\d$\DatenCAD
+\\einstein-1\d$\DatenOffice
+\\einstein-1\d$\Internet
+\\einstein-1\d$\Intranet
+\\einstein-1\d$\Programme\Backup
+\\einstein-1\d$\Programme\cobra
+\\einstein-1\d$\Programme\P2_27e
+\\einstein-1\d$\Programme\Treiber
+
+\\einstein-2\c$\mysql\data\laube
+\\einstein-2\d$\Install
+\\einstein-2\d$\intranet
+\\einstein-2\d$\SQLBackup
+\\einstein-2\f$
+
+\\franz\e

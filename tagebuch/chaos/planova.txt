@@ -1,0 +1,14 @@
+
+
+public person A
+public person B
+
+public system S
+
+S.state=A.work(S.oldState)
+
+B.trowSystemChangedError()
+
+-->solution A-master.interact(B-master) and revere function
+
+

@@ -1,0 +1,547 @@
+What is a Commodore Computer?
+
+A Look at the Incredible History and Legacy of the Commodore Home Computers
+
+Copyright 1999 (May be used without modification for non-commercial purposes) Reid C. Swenson,
+M.S.
+
+There are many individuals who have probably never heard of the Commodore home computers and
+are unaware of their incredible legacy and the tremendous impact which they have had upon the
+evolution of computers. Some of the younger generation who are too young to remember the 1980's
+may still not have seen or heard much-- if anything-- about Commodore computers and likely have
+very little sense of their significance. Likewise, many of the middle aged and older generation who did
+not develop an interest in computers until recently may be equally uninformed. However, most
+individuals who were involved in the home computer and electronics fields during the 1980's are
+probably somewhat familiar or quite familiar with the Commodore products and their history.
+
+
+
+The Commodore 64
+
+
+Commodore's most popular model, the Commodore 64, was the Model T Ford of the home computer
+movement. As you may recall the Model T Ford was the first automobile that the average person on an
+average income was able to afford or justify buying because of its low price, extensive
+consumer-oriented marketing, and usability.
+
+The Commodore 64 is an 8-bit computer that uses Commodore DOS instead of MS Dos or
+Windows. In fact, for the most part it cannot run IBM or Macintosh computer programs. The
+Commodore 64 has BASIC 2.0 and 64k of memory although when you turn the computer on it
+indicates only 38,911 bytes available because nearly half of its memory is used for internal functions.
+The Commodore 64 was actually part of the evolution of computers marketed by CBM (Commodore
+Business Machines) which had previously proliferated the CBM and PET business computers into
+business and academic settings and who had then subsequently developed the VIC-20 computer which
+was the predecessor to the Commodore 64.
+
+
+The Commodore VIC-20
+
+The Vic-20 (named after its revolutionary Video Interface Chip) had captured the imagination of many
+enthusiasts around 1981 because of its very user-friendly BASIC language, nice color graphics,
+programmable sound, comfortable keyboard, and the fact that it could directly connect to compatible
+disk drives and printers without expensive expansion modules and interfaces. The Vic 20 had been
+affordably marketed for around $400 when it first came out and it quickly caught the imagination of
+many consumers and educators with several user-friendly and affordable peripherals (such as joysticks,
+a "datasette" cassette storage device, modems, printers, and shortly thereafter the VIC-1540 floppy
+drive, etc.) being released.
+
+
+The 1530 (C2N) Datassette
+
+During the early 1980's IBM was promoting the PC Jr. computer which was radically inferior (in most
+ways) to the rest of the home computer systems on the market and vastly more expensive. Commodore
+was, therefore, really receiving more competition from the Atari 400 and 800, the Texas Instruments
+99, the Radio Shack Color Computer and the Apple 2 computer. Despite the rivalry between these
+8-bit manufacturers much of the credit for innovation goes to Commodore largely because Commodore
+consistently pushed the price down and because the Atari and Apple computers used the Commodore
+6502 processor as their main microprocessing chip.
+
+In the very early 1980's unique marketing schemes were developed by different firms trying to cash-in
+on the developing computer craze. The fascination that many people had begun to experience with the
+fledgling computer video game, educational, business, and word processing capabilities of these
+computers quickly led to various multi-level marketing groups trying to involve people in selling these
+machines. There were few computer stores at the time and most of them were small. Computers were
+somewhat of an uncertain novelty item which many of the larger electronics and department stores were
+a little slow to embrace because of the uncertainty and lack of experience in dealing with such products.
+Consumers were often equally tentative and uncertain although there was a great deal of enthusiasm on
+the part of those who were keenly interested in such products. Many factors such as these created
+opportunities and schemes for the smaller and more venturous and creative individuals who wanted to
+get involved-- sometimes in unconventional ways. Oftentimes young and penniless entrepreneurs
+developed some hot selling Commodore software or hardware on a very low budget resulting in
+overnight fame and fortune.
+
+Just as the Commodore Vic 20 was beginning to become fairly popular and many stores and some
+multi-level marketing programs had acquired significant inventories of Vic products rumors began to
+emerge that Commodore was working on a vastly more powerful version of the Vic 20 to be called the
+Vic 64 and eventually called the Commodore 64 (many came to casually refer to it as the "C-64" or
+just the "64"). As the rumors of the impending release of the Commodore 64 continued they sparked
+excitement and uncertainty in the Commodore market. Those who had invested quite a bit of money
+into the Vic 20 line found themselves with ambivalent and mixed emotions. This was probably the first
+experience which many individuals had ever encountered with the phenomenon we now refer to
+"upgrading". Undoubtedly some became resentful. Some of those who had developed their marketing
+strategy and acquired large inventories of Vic 20 products found themselves scrambling around to
+modify their plans or to obtain price-protection as the value of Vic 20 products began to plummet
+rapidly.
+
+Commodore had originally planned to release the Commodore 64 for nearly $1000 (without any floppy
+drive or monitor) but by the time it actually hit the market they had already decided to reduce the
+suggested retail price to just under $500. This was still a lot of money back then-- keep in mind that
+$500 back then was about the equivalent of $1000 today. Still, it was the best deal on the home
+computer market-- especially since it had a built-in RF modulator for connecting directly to a regular
+television set. Amazingly, the price of the Commodore 64 plummeted to under $300 within a matter of
+months, and a few months later was down to $200. Suddenly customer interest in these amazing new
+computers began to heat up.
+
+About this time many sizeable chain stores (some of which had already been carrying Vic-20
+merchandise) began to carry Commodore 64 items. Regional electronic superstores got involved as did
+a significant number of smaller computer dealerships. Eventually Commodore 64 and Vic-20 software
+and hardware was carried by such national department stores as Sears, Montgomery Ward, Fred
+Meyer, LaBelles, K-Mart, and many others. Also, many toy stores such as Lionel Play World and
+Toys'R'Us began to sell these computers. The price dropped by another $50 and dealers were buying
+the Commodore for just over $100. Commodore became so popular that Commodore even offered
+shares of stock on the stock market for several years.
+
+As the competition among retailers heated up it was not uncommon to see retailers willing to sell the
+Commodore 64 systems at cost or even at a slight loss in order to lure people into their stores. The
+strategy (which usually paid off) was that customers would see the computer selling at an incredibly low
+price of near $100 and come to buy the computer and end up buying the 1541 disk drive, a
+Commodore printer, Commodore modem, a 1702 Commodore monitor and a bunch of educational
+software, games, supplies and accessories to go along with it. By the time the customer walked out the
+door the purchase usually resulted in significant profit to the retailer.
+
+Many after-market and 3rd party manufacturers subsequently began to create and market
+Commodore-compatible software, hardware, books, and accessories in an effort to get in on the
+blossoming industry. Many Commodore magazines also became established-- some of which even
+included monthly disks with many free programs on them. Many of our present software and hardware
+giants got their humble start during this period. Microsoft's Multiplan became a very popular
+spreadsheet for Commodore. Other companies such as Electronic Arts, Accolade, Activision,
+Cinemaware, Cosmi, Batteries Included, Sublogic, Epyx, Access, Infocom, Mastertronic, etc. soon
+became household words.
+
+Commodore service and repair centers became quite common. Training centers taught computer
+fundamentals and programming using Commodore computers. Many schools, universities, research
+centers and educational enterprises began using Commodore computers. A significant number of small
+and medium size businesses used Commodore computers as well.
+
+Unique marketing approaches continued to develop as smaller companies and private individuals began
+developing the concept of shareware or freeware. This new concept was based on the idea that a
+programmer could write and copyright a useful or fun program and then freely distribute copies of it to
+the public on the condition that end users would pay a registration fee to become an official user of the
+program. Usually a relatively small fee was supposed to be sent directly to the program's author.
+Oftentimes the author would provide an updated or more complete version or accompanying manual or
+program add-on or other benefit as an incentive to pay the registration fee. This kept overhead,
+production, and marketing costs down by relying on grass roots distribution and the "honor system" of
+marketing. Several shareware and freeware programs became fairly famous during this time, but
+undoubtedly a great many programmers' dreams never quite lived up to expectations. The idea of
+try-before-you-buy software has continued to evolve up to this day-- becoming more and more
+sophisticated and creative.
+
+Also, during this same time period a great number of public domain programs began to emerge. There
+were many programmers who had written and not copyrighted their programs for various reasons
+whose programs began to be freely distributed without any registration fee being required. This greatly
+added to the availability of affordable software.
+
+Another interesting phenomenon-- Commodore User's Groups-- began to unfold during this time. This
+phenomena was a result of the need and desire of people to share information regarding their
+computers and interests. User's groups were popular among other brands of computers, but probably
+not to the extent that they were popular among Commodore users. The Commodore was seen by many
+as the ideal hobby computer and many of those who had lower budgets had been attracted to the
+Commodore because of its price. Frequently these individuals (who often had more time than money)
+developed an incredible loyalty toward the Commodore computers. It was amazing that many of these
+Commodore users often showed more commitment to the Commodore 64 than Commodore Business
+Machines did.
+
+A large factor in the success of the Commodore 64 was its amazingly versatile, futuristic and
+user-friendly design. The fact that this amazing computer had more memory, a nicer keyboard, and was
+easier to interface with peripherals than most computers of that era made it so it was and still is (in many
+ways) an ideal computer for educators, hobbyists, game players, beginning programmers and
+musicians. For the money it was also hard to beat as an affordable home word processing system. Its
+only weakness was in the area of larger business applications because of its 40 column video display,
+limited disk storage and slow disk access.
+
+The powerful combination of Commodore chips allowed some amazing capabilities. The Commodore
+64 utilized the Commodore 6510 microprocessor chip which was an advanced version of the
+Commodore 6502 microprocessor which had been used in the Vic 20, Apple 2, and Atari models. The
+64 had revolutionary sound via the 6581 Sound Interface Device (SID) chip and was probably the first
+home computer to be able to emulate the human voice without additional hardware. This SID chip
+provided for 4 different voices and many sophisticated sound forms. The C-64 had superior 16 color
+graphics with sprite capabilities due to its 6567 Video Interface (VIC) Chip. The other support chips in
+the Commodore 64 were equally impressive for that time period. At the same time the early IBM home
+computers were non-color and non-graphic machines with sound that amounted to little more than
+beeping.
+
+The Commodore home computers were fairly reliable considering their low price tag and sophistication.
+Many individuals went for years with very little maintenance and repair work required. However,
+certain problems with the hardware did manifest themselves periodically and somewhat predictably.
+Many of the repairs required for these computers stemmed from static electricity discharges blowing
+out the 6526 CIA chip-- usually from touching the joystick or game port after picking up static
+electricity from walking across carpet or touching the front of the television or monitor. This would
+result in some keyboard or joystick control malfunctions. Power supplies would occasionally fail or
+develop deceptive heat-related problems sometimes blowing out ram chips in the process or causing
+strange looking colored blocks or characters to appear on the screen. The 906114 PLA (logic array)
+chip (sometimes labelled with the number 82S100N or PLS100N) would sometimes fail spontaneously
+causing the computer to no longer have a picture. The 6581 SID sound chip would sometimes go out--
+usually due to a monitor being connected improperly. On rare occasions the 6510 microprocessor, the
+6567 NTSC VIC (video chip), the 901227 Kernal ROM, the 901225 Character ROM, or the
+901226 BASIC ROM would fail. The Commodore disk drives would periodically need alignment and
+cleaning and an occasional chip replacement or bridge rectifier or such. Keyboards would likewise
+need to be cleaned infrequently. Because of the interdependency of each of the internal components of
+the Commodore computers it is not unusual for Commodore computers to have similar symptoms while
+actually having different underlying problems.
+
+Even when experiencing occasional hardware problems the Commodore users rarely felt like they were
+at the mercy of the service wolves due to the many options which they had. Oftentimes there were
+simple and easy to implement solutions for Commodore malfunctions. Fuses (which were usually easy
+to replace) would get blown out in the computer, drive, or power supplies periodically, but they were
+all usually available at Radio Shack stores. New cables or external cleaning of contacts was sometimes
+all that was required. Some seemingly complex problems (especially with the Commodore 128 and
+Amiga) stemmed from the fact that various chips sometimes became loose in their sockets and could be
+easily pushed in tighter or removed and reseated. The good news was (and still is) that (even in a
+worst-case scenario) the Commodore computers and peripherals could usually be totally replaced with
+a new replacement unit for less than the average minimum repair fee for most IBM and Apple systems.
+
+As used Commodore computers became widely available at amazingly low prices during the late
+1980's and throughout the 1990's many of the Commodore repair centers had difficulty staying in
+business. Despite this, there are still a few local and several national places who do Commodore repair
+work, sell parts and manuals, and have diagnostic software and hardware tools and information
+available.
+
+Commodore had to constantly work to develop peripherals to go along with the blossoming market
+during the 1980's. Because Commodore was marketed so widely in so many large national department
+stores and in so many foreign countries there began to be a big demand for these accessories and
+peripherals. During the mid to late 1980's individuals walking into most major department stores which
+sold computer products would typically have seen software and hardware for IBM, Apple,
+Commodore, and oftentimes Atari side-by-side or in close proximity.
+
+
+The VIC 1525 Printer
+
+
+The Vic 1525 printer and a higher quality model 1526 had replaced the early Vic 1520 printer. The Vic
+1540 disk drive was replaced by the model 1541 drive.
+
+Commodore also continued to work behind the scenes to develop new computer models. Commodore
+unveiled the Commodore SX-64 portable computer around 1984 which was incredibly nice and
+affordable for its time period. The SX-64 computer had a detachable keyboard and a 5" color monitor
+and a floppy drive built in. It needed to be plugged into an AC outlet, but for its time it was amazing. It
+is still considered to be one of the nicest collector's items available. The SX-64 did not become as
+popular as the Commodore 64 did, but the fact that it had almost total compatibility with the desktop
+Commodore systems made it quite popular-- especially to those who needed to travel and/or go to
+Commodore User Group meetings.
+
+
+
+The Commodore 128 computer and 1571 disk drive
+
+
+Then in about 1985 Commodore released the beautiful Commodore 128 computer (utilizing the
+Commodore 8502 microprocessor) which had three different modes of operation and two different
+display options. One of the reasons the 128 was quite successful was that it had the advantage of being
+able to use virtually all Commodore 64 software (while in the Commodore 64 40-column mode),
+peripherals, and accessories and yet also had a (rarely used) CPM mode and a fairly popular
+Commodore 128 mode which allowed an 80-column display, as well as the 128k of memory, BASIC
+7.0, a numeric keypad, and a faster higher capacity disk drive-- the 1571 floppy drive. Therefore, the
+Commodore 128 overcame many of the weaknesses and drawbacks which the Commodore 64 had
+with regards to business applications.
+
+All of the Commodore disk drives at this time were 5 1/4" floppy drives. However, Commodore
+eventually also released a 3.5" disk drive-- the Model 1581 which had significantly higher storage
+capacity (800k).
+
+The Commodore 128 could use the monitors and disk drives designed for the Commodore 64 quite
+well. However, to take advantage of the increased disk speed and storage capabilities of the 128 the
+1571 or 1581 disk drive was required. Also, to take advantage of the 80-column mode an RGB
+monitor was required. Therefore Commodore made several monitors which had both an RGB mode
+and a composite (audio/video or audio/chroma/luma) mode. Other manufacturers such as Philips
+(Magnavox), Thompson, Teknika, Amdek and a few others also made monitors which could support
+both the 40 and 80-column mode of the Commodore 128. Most of these same monitor manufacturers
+(and others such as Sakata and BMC) had also previously made models for the Commodore 64 and
+wanted to continue profiting from the Commodore consumers. In fact Philips (Magnavox) actually
+made many of the Commodore brand monitors for the 128.
+
+In fact, it was not uncommon for Commodore to subcontract with other manufacturers to produce
+peripherals with the Commodore name on them. Most of Commodore's printers, floppy drives, and
+monitors were actually made by other manufacturers to Commodore's specifications. Most of these
+Commodore branded printers and monitors were essentially identical to existing or subsequent models
+made and distributed with the OEM (original equipment manufacturers) brand name-- except that the
+Commodore version almost always had special Commodore features and/or interfacing. Commodore
+compatible floppy drives made by other manufacturers also emerged, but they were independently
+developed (for the most part) due to the fact that the Commodore 64 and 128 drives were "intelligent
+peripherals" possessing chips that Commodore had decided not to license or supply to its competitors.
+
+Hard drives were not common (or affordable) back then, so virtually all Commodore programs had to
+be run off of floppy disks, datasette cassette tapes, or cartridges. The Commodore drive was fairly
+slow in loading programs so many different utilities, cartridges, and hardware modifications became
+available on the market for speeding up disk access.
+
+By the mid and late 1980's a staggering selection of software was available for the Commodore 64 and
+128. Literally thousands-- if not tens of thousands-- of different commercial titles had been marketed
+and an equal or greater quantity of public domain and shareware programs were available.
+
+Unfortunately, not many games or educational programs took advantage of the 128's advanced modes
+because software developers chose to write programs for the larger base of users who owned
+Commodore 64 machines-- knowing that their programs would automatically work in the 128's C-64
+mode. There were, however, numerous business, word processing, and developmental programs and
+some telecommunications programs written to take advantage of the Commodore 128 mode. Many of
+these features and programs became useful as businesses, writers, programmers and modem and BBS
+(electronic bulletin board services) began to see the advantages of using the Commodore 128 for
+serious professional applications.
+
+We owe quite a debt of gratitude to many of these early developers and computer users who began to
+develop and utilize the fledgling computer software and telecommunications industry. Fortunately,
+Commodore and other manufacturers provided a good selection of software and telephone modems
+such as the model 1600, the 1650, the 1660, the 1670, and the 1680 modem. If it had not been for
+pioneering efforts of individuals like this we may not have had the great capabilities which we have now
+with computers and the Internet.
+
+
+The Commodore 64c
+
+Around 1986 or 1987 Commodore released the Commodore 64c computer which was essentially
+functionally identical to the original Commodore 64 except it was more sleekly designed and more
+attractive. Commodore also released the 1541c and the 1541-II floppy drives to go along with this
+nicer looking Commodore 64c.
+
+
+The Commodore 1541-II floppy drive
+
+Many people's lives have been greatly blessed by the advent of the Commodore computers. Many
+handicapped individuals and shut-ins have had great opportunities open up to them from these
+computers. Many slow learners and children who may not have taken an interest in learning found that
+learning can be fun because of the Commodore computers. Many family gatherings, birthdays,
+Christmasses, parties, and other social events have been enriched by the creative fun involved. By being
+addicted to something as enjoyable and of such a positive nature as this many have been lured away
+from (or spent less time and money on) harmful addictions such as drugs and alcohol. Many lifelong and
+job-related skills such as typing, programming, and word processing were acquired via these
+computers. Many computer retailers, department stores, manufacturers, and programmers have
+profited financially from the Commodore computers. Many other businesses, researchers, students, and
+other ventures have also benefitted either directly or indirectly. Undoubtedly the social and
+technological spin-offs from these computers have had a ripple effect which has directly improved the
+lives and strengthened the economy of our entire nation and other nations.
+
+The ability of people to have wholesome and affordable recreation and a diversion from everyday
+stresses and pressures undoubtedly has helped the mental health and outlook of many individuals also.
+
+Many of those who have gone on to make huge contributions to the computer industry began with the
+Commodore home computers. Many Commodore C-64, 128, and Amiga computers are still used in
+schools, businesses, production studios, and as control devices. They are still some of the best
+computers to learn computer fundamentals on. The fact that these Commodore computers have so
+many built-in functions and capabilities still makes them fun computers to experiment with. Because you
+can still obtain many hundreds of the original programs for these computers they are still viable
+choices-- especially for hobbyists and home educators. The fact that the Commodore 64 can connect
+directly into a normal television makes it a good choice still for those on a budget.
+
+The fact that users of the Commodore computers did not need to constantly reconfigure, re-install, and
+uninstall software or worry about viruses and system crashes (as is common with our more modern
+Windows computers) allowed users to spend the majority of their time actually using the computer
+rather than spending so much time fighting it.
+
+During the mid to late 1980's a certain amount of software piracy began to hurt the Commodore
+software market. Much of this piracy was likely induced by unnecessarily high prices. Fortunately, most
+people realized that the programs were such a good value for the money that it wasn't too big of a
+problem. Several software manufacturers developed sophisticated software protection schemes to
+make it difficult for people to duplicate Commodore software. However, these schemes seemed
+primarily to hurt the honest users more than the dishonest people some of whom became extremely
+adept at defeating the protection schemes. Many software manufacturers finally decided to eliminate the
+software protection or to use off-disk protection schemes so that the legitimate users wouldn't be hurt
+and inconvenienced. Eventually many of the software manufacturers began to realize that the best way
+to discourage software piracy was to make their software more affordable. Undoubtedly, however, the
+dishonesty and greed of some individuals contributed somewhat to the gradual decline of the
+Commodore software industry. Some of these individuals never learned that it is not wise to kill the
+goose that lays the golden eggs. Some of these hackers probably felt that they were just having
+harmless fun and felt somewhat challenged by the prospect of trying to outsmart the copy protection
+schemes.
+
+As interest in the Commodore computers began to decline Commodore Business Machines and many
+other vendors of Commodore compatible products lowered their prices on both hardware and
+software in an attempt to maintain interest in their products. Commodore also began bundling software
+with hardware and making package deals as did other producers.
+
+
+GEOS 64
+
+
+Just when many individuals felt that the Commodore 64 may begin to lose ground to the newer IBM
+and Macintosh models of the mid 1980's a company named Berkeley Softworks created a new
+operating system for the Commodore 64 called GEOS which became immensely popular and helped to
+rejuvenate interest in the Commodore line. GEOS (which stands for Graphic Environment Operating
+System) was largely a takeoff of the popular early Macintosh (icon based) mouse oriented operating
+system. In fact, GEOS came with Geowrite and Geopaint-- much like Macwrite and MacPaint.
+Commodore owners were thrilled that they could have a computer which could perform nearly like the
+Macintosh-- for just a small percentage of the price of a Macintosh-- while still having color graphics
+and sound which surpassed the capabilities of the Macintosh. The fact that Berkeley was able to
+squeeze so much power out of the Commodore 64's limited memory and disk capacity was a tribute to
+the highly efficient programming which Berkeley implemented. Certainly Microsoft could take a few
+lessons about efficient programming from those who wrote GEOS. A full line of GEOS-based
+programs ensued.
+
+
+The Commodore 128D
+
+Around 1986 or 1987 the Commodore 128D was released and became quite popular. The 128D was
+basically a Commodore 128 computer with a built-in 1571 disk drive and a detachable keyboard. The
+idea was to conserve desktop space and make a nicer looking computer to compare with the
+professional appearance of the IBM compatibles. This computer had the latest chip revisions made for
+the Commodore 128 and 1571 drives and had more video memory. This was perhaps the best 8-bit
+computer made by any manufacturer. The fact that there were not so many cables and wires running
+around and that it did not hog as much desktop space (due to the fact that the monitor could sit on top
+of it) made it very nice to use.
+
+During the 1980's several large Commodore and Amiga trade shows and user conventions were held
+throughout the United States and in some foreign countries-- especially Canada. Commodore also
+usually had large displays at COMDEX and other consumer electronics shows. Thousands of users,
+retailers, and developers usually converged on these gatherings. This was quite a spectacle to see. The
+exciting and innovative new products which were unveiled at these shows kept Commodore users,
+dealers, and distributors coming back for more. The fact that there was fierce free enterprise
+competition-- and the fact that the computer industry had not yet conceded (or capitulated) to the
+dominance of Microsoft and IBM-- led to unprecedented creativity. Unfortunately, however, many
+people began starting to demand uniformity and standardization at the expense of innovation.
+
+Commodore had been so competitive in the marketplace that IBM, Apple, and Atari had been forced
+to lower their prices and improve their features and quality. These other manufacturers were successful
+in doing so-- to the point where many people started being attracted away from Commodore toward
+other brands. However, if it had not been for Commodore being such a huge factor in putting
+downward price pressure and creating such innovative home consumer products the evolution of
+affordable quality home computers would have occurred much more slowly.
+
+A large number of Commodore gaming enthusiasts were also drawn away in the mid to late 80's as
+Nintendo and Sega began to market their 8-bit game systems which were somewhat simpler and easier
+to use (but in many ways less versatile) gaming systems.
+
+The Commodore computers had permeated the U.S. and foreign markets very substantially by 1985.
+By the late 1980's somewhere near 10 million Commodore 64 compatible machines had been
+produced and distributed when sales began to rapidly decline. Probably 70 or 80 percent of the
+Commodore 64 compatible machines manufactured were Commodore 64s and 64c models and only
+about 20 or 30 percent were 128 models. Less than 5 percent of them were the SX-64 machines. It is
+probably safe to say that the Commodore 64 was the best selling computer model ever made by a
+single manufacturer-- if judged by number of units sold. Commodore's demise was largely a result of
+poor marketing and external market forces-- not lack of development.
+
+
+The Commodore Plus 4
+
+Of course, not all of Commodore's products were big hits. Commodore made several products which
+were fantastic ideas (in their own right) but never actually caught on because of poor timing or other
+unpredictable factors. One of these was the Commodore Plus 4 computer. The Commodore Plus 4
+had been developed on the heels of Commodore's great initial success with the Commodore 64. The
+Plus 4 was very nice because it was smaller and had built-in software applications. Despite being a very
+beautiful little computer with many excellent features it never really became popular probably because it
+wasn't very compatible with the large base of software which had already been developed for the
+Commodore 64. Many (but not all) software manufacturers seemed hesitant to want to invest
+development efforts for this computer when there were so many who already owned Commodore 64
+computers who were clamoring for software.
+
+Among other Commodore 8-bit products which never caught on well were the Commodore 16, the
+B-128, the SFD1001 disk drive, and several others.
+
+
+The Amiga 500
+
+Perhaps the biggest heartbreak of all of Commodore's efforts centered around the 16-bit Amiga
+computer which had initially been developed by a separate company. Commodore acquired or bought
+out the Amiga technology from its original developers and began developing and marketing Amiga
+computers during the mid 1980's. The Amiga computers were based on the Motorola 68000 processor
+and were somewhat akin to the Macintosh. The extreme power, user-friendliness, multi-tasking
+abilities, incredible graphics and (stereo) sound, along with built-in speech synthesis were way ahead of
+the competition. Many Commodore 64 and 128 owners immediately realized the potential of the Amiga
+and decided to acquire one. It appeared to many-- for a while-- that Commodore may actually retain a
+dominant position in the market place with the Amiga being such an obviously superior computer to any
+of the home computers of the time. Unfortunately, the lack of a diverse software base came back to
+haunt the Amiga as people chose to stay with inferior hardware and operating systems in order to stay
+compatible with the large number of IBM and Macintosh systems and software products which had
+taken over the business world despite still not being particularly well suited for home use.
+
+Much of the downfall of Commodore stemmed from poor marketing, lack of dominance in the business
+sector, competition from other gaming systems, poor support, poor management, and growing
+competition. Commodore tried to expand into the IBM compatible market in the late 1980's with the
+PC compatible PC-10, PC-20, Colt, and even a 286 notebook computer and a few other machines
+which had only meager success. Commodore even developed an incredible interactive stand-alone CD
+unit (based on the Amiga technology) called the CDTV which (along with Philips CDI) were the
+predecessors to many of the CD-based interactive game systems which followed. In the final year or so
+before Commodore Business Machines ceased operations they had even developed the first 32 bit
+game system called the CD-32 which may have been a big hit if Commodore had endured a little
+longer.
+
+Amazingly, even after Commodore's decline started in the late 1980's the loyal Commodore and Amiga
+hobbyists and devoted users refused to give it up. A strong undercurrent of support arose. Even though
+most of the larger chain stores and distributors were forced to give up on Commodore products a
+strong effort to recirculate and refurbish old Commodore products has continued-- even to this day. In
+fact, in some countries, especially in Europe and Scandinavia the Commodore 64, 128, and Amiga
+computers are still immensely popular.
+
+Because such a massive quantity of items had been developed and produced for these machines a great
+many liquidations and surplus inventories of Commodore-related products remained available for many
+months from many distributors. Those who chose to keep supporting the Commodore machines were
+frequently able to pick up brand new merchandise at tremendous prices and pass the savings on to their
+customers. Much of this surplus new merchandise is still available today through the surviving resellers.
+
+It is not uncommon for past owners of Commodore C-64 or 128 computers to begin to feel a nostalgic
+attraction toward using the Commodore 64 again. Many of these individuals fondly reminisce about the
+intense fun they had in past years when computers were simpler and in many ways more fun. Back then
+the programs had to rely on content, strategy, and plot because many of the flashy special effects of the
+newer systems were not available. These older computers often left some things to the user's
+imagination-- by creating mental images-- instead of drowning the user in multimedia sensory stimulus
+overload as is often common with newer computers.
+
+The Commodore computers and some of the Commodore-compatible software and accessories have
+become collectors' items for many individuals. Unlike most computers which seem to become outdated
+quickly, the Commodore computers seem to have a sense of timelessness about them.
+
+There is no doubt that the newer multimedia computers have some major advantages over the old 8-bit
+Commodore computers, but a little diversity can be a good thing. Just like watching an old movie, using
+some older computer programs can help one appreciate different things and gain different perspectives.
+Many classic old computer games and educational programs were never made on any platform other
+than Commodore and Amiga. In the midst of the craze and pressure to constantly upgrade and fight
+compatibility problems and system crashes with many of the newer Pentium systems it can be
+somewhat refreshing to step back for a while to a more relaxing time.
+
+Many home schoolers find the Commodore 64 to still be the best solution for younger children to learn
+with. For the price and simplicity it is still hard to beat. The simple programmability, availability of
+software, and ability to be integrated with existing televisions and curriculum make it a viable alternative
+for hands-on instructors and those on a budget. The fact that the Commodore 64 is viewed as being a
+"fun" computer often lures even the most resistive students into participation. Very few people are
+intimidated by the Commodore 64 because it (quite deceptively) almost seems like a toy. By making
+learning fun the Commodore 64 has already won half of the educational battle the moment it is turned
+on.
+
+Despite the fact that Commodore programs won't normally run on other computers there are some
+fairly recent emulators which have been developed which allow many of the older Commodore
+programs to run on some of the newer computers. However, many people still want to use original
+Commodore machines and software to have the full feel and compatibility of the original experience.
+
+Interest in the Commodore computers has resulted in a longevity of product availability which has
+exceeded even the greatest expectations. There is still some development of products and software for
+Commodore 8-bit systems. Creative Micro Designs is still manufacturing newer CPU chips and
+accessories for the original Commodore systems. They even still publish a magazine called Commodore
+World. There are also a couple of Commodore on-disk magazines being produced such as LoadStar
+and Commodore Gazette. There is even a company which recently announced the production of a new
+device called Web.it which is an IBM Windows type system which can automatically emulate and run
+Commodore 64 programs and even access the Internet. Gateway 2000 has acquired the rights to the
+Amiga and is currently developing new Amiga compatible hardware and operating systems. Several
+national dealers still sell and support Commodore and Amiga hardware and software through the mail
+and via the Internet.
+
+The Internet has greatly helped maintain availability, support, and interest in old computers such as the
+Commodore by creating forums and awareness of available suppliers, users groups and other
+resources. The Internet is ideal for individuals who share a common interest such as this. Even though
+the Commodore 64 is not the ideal computer for surfing the Internet it can be done. However, most of
+those looking for Commodore support and affiliation on the Internet are probably using newer
+computers or devices such as WebTV to make surfing the Internet a little easier.
+
+A very sizeable percentage of individuals who are accessing the Internet with a newer computer
+undoubtedly still own older computers which they acquired in previous years who lost interest in them
+only because support for their old computer became difficult to acquire. A large number of these old
+computers have the Commodore or Amiga name on them. Now that software, hardware, accessories
+and support is so easy to locate and obtain a noticeable resurgence of interest is occurring.
+
+The main staying power of the Commodore and Amiga computers, however, is that they have become
+a part of the lifestyles of so many individuals. Many Commodore and Amiga user groups still meet
+regularly and publish monthly newsletters. People still enjoy their old games, educational programs,
+applications, and the creativity which these machines were so well suited for.
+
+If anything can now be said about the Commodore and Amiga computer systems it is this: "Rumors of
+the deaths of the Commodore and Amiga computers have been greatly exaggerated." Good things--
+especially hobbies-- have long lives. Especially in the hearts of those who still love them.
+
+(From http://www.oldsoftware.com/history.html, via the Commodore Information Center,
+http://home.att.net/~rmestel/commodore.html)

@@ -1,0 +1,19 @@
+Comeback for the Commodore 64
+
+By Guenther Bauer; translated from German to English by Paul Foerster	
+
+People age 30 grew up with it and most IT professionals started programming on it. We're talking about the classic home computer of all times, the Commodore 64, regarded to be the best-selling computer of all times.
+
+For many people the dream of the C64 is not yet over, and the American hardware developer, Jeri Ellsworth gives the old breadbox new life. The new project is announced under the name, "CommodoreOne". It is based on an ATX mainboard using a CompactFlash card, which can emulate all classical computers, among which is the C64, of course. In contrast to the usual emulators, this hardware solution offers new possibilities while retaining backward hardware compatibility.
+
+The heart is a 65C816 CPU which is a 16-bit version of the instruction-compatible, 8-bit MOS 6510 of the C64. The 65C816 runs on a 20 times higher clock frequency than the C64 CPU.
+
+The CommodoreOne can be run using a VGA monitor. All video modes of the C64 graphic chip VIC-II are supported. Freaks can discover more video modes; 256 colors can be chosen to be displayed from a palette of 65535 colors. The resolution can be increased from the C64 typical 160x200 and 320x200 up to 1280x1024 pixels. Sprites, the moving objects of the old Commodore, are supported, too, of course.
+
+The CommodoreOne should cost around 200 Euro and should appear during spring 2003.
+
+
+See the original German article plus a photo at http://www.wienweb.at/Content.aspx?id=41815&catid=7&catname=
+
+(Used by permission)
+

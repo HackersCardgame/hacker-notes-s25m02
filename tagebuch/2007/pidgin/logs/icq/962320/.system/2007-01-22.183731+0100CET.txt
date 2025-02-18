@@ -1,0 +1,50 @@
+System log for account 962320 (icq) connected at 22.01.2007 18::37::31
+---- +++ 962320 hat sich angemeldet @ 22.01.2007 18::37::31 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 22.01.2007 18::37::31 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 22.01.2007 18::37::31 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 22.01.2007 18::37::31 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 22.01.2007 18::37::31 ----
+---- Dominik wurde tätig @ 22.01.2007 18::37::31 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 22.01.2007 18::37::56 ----
+---- dikyangel wurde untätig @ 22.01.2007 18::37::56 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 22.01.2007 18::38::00 ----
+---- dikyangel wurde tätig @ 22.01.2007 18::38::01 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 22.01.2007 18::44::10 ----
+---- dikyangel wurde untätig @ 22.01.2007 18::44::11 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 22.01.2007 18::44::12 ----
+---- dikyangel wurde tätig @ 22.01.2007 18::44::12 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 22.01.2007 18::54::16 ----
+---- dikyangel wurde untätig @ 22.01.2007 18::54::16 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 22.01.2007 18::54::26 ----
+---- dikyangel wurde tätig @ 22.01.2007 18::54::26 ----
+---- vortex hat den Status von Offline zu Verfügbar geändert @ 22.01.2007 18::55::18 ----
+---- vortex hat den Status von Verfügbar zu Offline geändert @ 22.01.2007 19::02::34 ----
+---- vortex hat den Status von Offline zu Verfügbar geändert @ 22.01.2007 19::02::37 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 22.01.2007 19::07::15 ----
+---- vortex hat den Status von Verfügbar zu Offline geändert @ 22.01.2007 19::12::28 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 22.01.2007 19::17::10 ----
+---- Dominik wurde untätig @ 22.01.2007 19::21::40 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 22.01.2007 19::26::40 ----
+---- Dominik wurde tätig @ 22.01.2007 19::26::40 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 22.01.2007 19::27::15 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 22.01.2007 19::29::20 ----
+---- Schööfli wurde tätig @ 22.01.2007 19::29::20 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 22.01.2007 19::47::11 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 22.01.2007 19::50::14 ----
+---- dikyangel wurde untätig @ 22.01.2007 19::50::14 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 22.01.2007 19::50::30 ----
+---- dikyangel wurde tätig @ 22.01.2007 19::50::30 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 22.01.2007 20::00::06 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 22.01.2007 20::02::52 ----
+---- dikyangel wurde untätig @ 22.01.2007 20::02::52 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 22.01.2007 20::02::54 ----
+---- dikyangel wurde tätig @ 22.01.2007 20::02::54 ----
+---- +++ 962320 wurde untätig @ 22.01.2007 19::52::55 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 22.01.2007 20::07::49 ----
+---- Schööfli wurde untätig @ 22.01.2007 20::07::51 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 22.01.2007 20::10::06 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 22.01.2007 20::20::06 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ 962320 wurde untätig @ 22.01.2007 20::32::05 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ 962320 hat sich abgemeldet @ 23.01.2007 18::11::35 ----

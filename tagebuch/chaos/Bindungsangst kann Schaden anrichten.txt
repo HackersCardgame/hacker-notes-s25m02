@@ -1,0 +1,166 @@
+Von: "Beraterteam" <beraterteam@ex-zurueck-gewinnen.de>
+Datum: 23. Januar 2011 15:53:26 MEZ
+An: "marc" <mail@marclandolt.ch>
+Betreff: Bindungsangst kann Schaden anrichten
+Envelope-To: mail@marclandolt.ch
+Delivery-Date: Sun, 23 Jan 2011 15:53:32 +0100
+Received: from [10.0.2.3] (helo=mxin003.mail.hostpoint.ch) by dist004.mail.hostpoint.internal with esmtp (Exim 4.72 (FreeBSD)) (envelope-from <jEyMDIys7LSsjIwMjIwcTLRmtOzMbAysnIw=@smtp-verifiedoptin-02.aweber.com>) id 1Ph1Jp-000O72-Pn for mail@marclandolt.ch; Sun, 23 Jan 2011 15:53:32 +0100
+Received: from [207.106.200.8] (helo=smtp-verifiedoptin-02.aweber.com) by mxin003.mail.hostpoint.ch with esmtp (Exim 4.72 (FreeBSD)) (envelope-from <jEyMDIys7LSsjIwMjIwcTLRmtOzMbAysnIw=@smtp-verifiedoptin-02.aweber.com>) id 1Ph1Jp-000M3q-BX for mail@marclandolt.ch; Sun, 23 Jan 2011 15:53:29 +0100
+Received: (qmail 18981 invoked by uid 0); 23 Jan 2011 09:53:26 -0500
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mxin003.mail.hostpoint.ch
+X-Spam-Status: No, score=-4.6 required=4.0 tests=DKIM_SIGNED,HS_INDEX_PARAM, MSGID_FROM_MTA_HEADER,RCVD_IN_DNSWL_NONE,RCVD_IN_IADB_DK,RCVD_IN_IADB_DOPTIN, RCVD_IN_IADB_LISTED,RCVD_IN_IADB_RDNS,RCVD_IN_IADB_SENDERID,RCVD_IN_IADB_SPF, SPF_HELO_PASS,SPF_PASS,T_DKIM_INVALID,T_FRT_CONTACT autolearn=disabled version=3.3.1
+Dkim-Signature: v=1; a=rsa-sha1; d=aweber.com; s=dkim_s1024; c=relaxed/simple; q=dns/txt; i=@aweber.com; t=1295794403; h=Sender:Subject:Date:From:List-Unsubscribe:To:MIME-Version:Content-Type; bh=Jy1r3rZbcJglWd6c2X3t3aR4TkY=; b=YSyZyIFyAaMZ1HtS/D+4GB++3zYsaZsDnbT8BvGJ+roWvxEEVbD9Zv31yCDbc7+g ocIAk9AyvjCdQnXO1tmcE4tlCnhwHkGNLM2bjsNvbbnVM7XV1Ut1McVFx2R9IkYg q5yPrgNVU+efvkTTKbkI0HDKZVW6PlwRJNETroiWKOE=;
+Mime-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: 8bit
+Content-Disposition: inline
+Message-Id: <1295794406.380239.18981@smtp-verifiedoptin-02.aweber.com>
+List-Unsubscribe: <mailto:gratis-tipps-m3@aweber.com?subject=unsubscribe;jEyMDIys7LSsjIwMjIwcTLRmtOzMbAysnIw=>, <http://www.aweber.com/z/r/?jEyMDIys7LSsjIwMjIwcTLRmtOzMbAysnIw=>
+Sender: gratis-tipps-m3@aweber.com
+X-Loop: gratis-tipps-m3@aweber.com
+X-Mailer: AWeber 5.1
+X-Subscription: Subscribed on 10/06/2010, via web form, by 188.62.125.207, from http://www.ex-zurueck-gewinnen.de/?gclid=CMqL__PYvqQCFZcz3god9Wf6yg
+X-Verification: Verified by 91.138.2.65
+X_Id: 1210157:35:mail@marclandolt.ch
+X-Whitelisted-By: list.dnswl.org.dnslist
+
+Lieber Marc,
+
+haben Sie das Gefühl, dass die Angst vor zu großer Nähe in Ihrer
+Beziehung eine Rolle spielt? Sehr häufig leiden Beziehungen unter
+der Angst eines Partners oder auch beider Partner, sich zu sehr
+festzulegen und zu binden. 
+
+Die Fähigkeit, tragfähige Beziehungen aufzubauen, sich in einer
+Beziehung sicher und geborgen zu fühlen und auch dem Partner
+Sicherheit zu vermitteln, ist eine psychische Ich-Funktion und wird
+schon in der allerfrühsten Kindheit entwickelt und gefördert in der
+Mutter-Kind Beziehung. Die Bindungsfähigkeit reift, wenn das Kind
+sich in der Beziehung gesehen, geschützt und wohl fühlen kann. Wenn
+es die Sicherheit bekommt, dass auf seine Bedürfnisse eingegangen
+wird und es nicht alleine gelassen wird.
+
+Wenn Kinder diese Erfahrung nicht machen können, oder aber nicht
+ausreichend, aber auch wenn man im Erwachsenenalter viele unsichere
+und schlechte Erfahrungen in Beziehungen erlebt, entsteht daraus
+eine Angst, die verhindert, dass Menschen vertrauensvolle,
+intensive und verbindliche Beziehungen aufbauen können.
+
+In diesem Fall sprechen die Fachleute von "Bindungsangst".
+Als Bindungsangst bezeichnet man eine intensive und nachhaltige
+Angst, eine enge Beziehung zu einem Partner einzugehen. Beziehungs-
+und Bindungsfähigkeit sind Eigenschaften, oder besser, psychische
+Funktionen, die notwendig sind um sich auf stabile, innige
+Beziehungen zu anderen Menschen einlassen zu können. Ist die
+Bindungsfähigkeit nicht ausreichend stabil, führt dies immer wieder
+zu Beziehunsschwierigkeiten mit anderen Menschen.
+
+Die Ursachen hierfür liegen, wie oben erwähnt, meist in der frühen
+Kindheit: 
+Verlust einer Bezugsperson, der unerfüllte Wunsch nach Nähe und
+Geborgenheit ,  Konflikte der Eltern, oder aber insgesamt in dem
+Vorbild der elterlichen Beziehung. Leben die eigenen Eltern selbst
+eine distanzierte Partnerschaft oder haben eine sehr distanzierte
+Beziehung zu ihrem Kind, lernen die Kinder, sich in der gleichen
+Art und Weise anderen gegenüber zu verhalten und tragen dies eben
+auch im Erwachsenenalter mit in ihre Beziehungen.
+
+Das Selbstwertgefühl von Menschen mit Bindungsängsten ist häufig
+sehr gering. Sie haben eine negative Einstellung zu sich selbst.
+Sie schützen sich, indem sie niemanden wirklich an sich
+heranlassen, denn jemanden zu lieben, bedeutet, sich verletzbar zu
+machen. Und häufig ist es genau das, was so furchtbar große Angst
+macht,- verletzt zu werden. Und so  wird der Wunsch nach einer
+engen, vertrauten Beziehung oft abgewehrt. 
+
+Menschen mit Bindungsängsten haben aufgrund alter Verletzungen Angst
+vor Enttäuschungen. Ihre Unabhängigkeit und Selbständigkeit ist ihnen
+enorm wichtig und sie haben große Angst vor dem Verlust "ihrer
+persönlichen Freiheit" - insofern ist zu verstehen, dass zu viel
+Nähe diesen Menschen Angst machen muss!  Des Weiteren kann
+Bindungsangst sich in mangelndem Verantwortungsbewusstsein
+gegenüber Familie und Freunden äußern und zu einem introvertierten
+Lebensstil führen.
+
+Einige Merkmale bei Menschen mit Bindungsängsten sind:
+
+-	Der Umgang mit Gefühlen und das Ansprechen von Gefühlen
+       fallen schwer.
+-	Angst vor Entscheidungen und Zukunftsplanung
+-	Unverbindlichkeit
+-	Rückzug aus intensiven Beziehungen
+-	Häufig wechselnde Partner
+-	Emotionale Nähe und Rückzug wechseln sich ab
+-	Hohes Sicherheitsbedürfnis
+
+Erinnert Sie das an Ihr Beziehungsverhalten oder das Ihres
+Partners? Dann lassen Sie uns nun betrachten, wie Sie damit umgehen
+können mit einem Partner, der unter Bindungsängsten leidet - oder
+aber was Sie tun können, wenn Sie selber Angst haben, sich auf eine
+feste und intensive Beziehung einzulassen.
+
+Es ist wichtig, überhaupt einmal zu wissen, dass man unter solchen
+Ängsten leidet, und dass Sie damit nicht alleine dastehen. Es ist
+gut, um die Problematik zu wissen und ein Verständnis für sich/
+oder aber den Partner zu entwickeln, und einen Zugang zu den
+Ursachen der eigenen Ängste zu bekommen.  
+
+Wenn Sie verstehen, woher diese Ängste kommen, können Sie ganz anders
+damit umgehen und sind bereit, sich auf neue und andere Erfahrungen 
+einzulassen.
+
+Es ist wichtig, sich auf neue, positive Erfahrungen mit Partnern
+einlassen zu können. Die Erfahrung zu machen, dass Sie so
+angenommen werden, wie Sie sind - oder eben aber dem Partner,
+welcher Angst hat, zu zeigen, dass Sie ihn so annehmen, wie er ist.
+
+Es gilt insgesamt  bei Menschen mit Bindungsängsten, dass es um das
+Erfahren und Spüren neuer Beziehungserfahrungen geht. Um Respekt,
+Wahrnehmung, Achtsamkeit und insbesondere um das Aufbauen von
+Vertrauen. Und es ist verständlich, dass es für das Aufbauen von
+Vertrauen, um das Loslösen von alten, verletzenden und
+enttäuschenden Beziehungserfahrungen viel Zeit und Behutsamkeit
+braucht. Daher ist es wichtig, in einer Beziehung mit einem
+Menschen, der Angst vor Bindung hat, nichts zu fordern oder zu
+erwarten, sondern ihm Zeit zu geben, die Beziehung zu Ihnen nicht
+mehr als bedrohlich zu erleben.
+
+Es ist wichtig, ein Verständnis für den Partner, oder aber für sich
+selbst aufzubauen. Es liegt nicht an Ihnen als Partner, dass der
+Freund/ die Freundin sich nicht einlassen können, Angst bekommen
+oder den Rückzug antreten. Er oder Sie "stellt sich nicht an" oder
+handelt aus Absicht. Tatsache ist, dass Menschen, die unter
+Bindungsängsten leiden, keine guten, sicheren Erfahrungen machen
+konnten in ihrer Kindheit, und insofern auch nie lernen und spüren
+konnten, wie eine gute, intensive und sichere Bindung sein kann.
+Die Ängste, die sie erleben, sind durchaus ernst zu nehmen und
+behutsam mit ihnen umzugehen.  
+
+Wenn Sie es schaffen, dem Partner das Gefühl von Sicherheit zu
+geben, eine vertrauensvolle und verständnisvolle Beziehung aufbauen
+und ihn nicht fordern, sondern mit seinen Ängsten wahrnehmen,
+schaffen Sie einen Basis, um neue, gute Erfahrungen zu machen und
+mit Ruhe und Zeit Gemeinsamkeit aufzubauen.
+
+Wenn Sie also das nächste Mal spüren, dass gerade Bindungsangst den
+Kontakt zu Ihrem Partner schwierig macht, dann denken Sie an diese
+Zeilen. Betrachten Sie die Situation in einem milderen Licht,
+anstatt mit heftigen Forderungen nach Nähe oder nach Abstand Ihren
+Partner zu verschrecken. Oft lässt sich an dieser Stelle bereits
+durch kleine Änderungen ganz viel erreichen, vor allem ein frischer
+und liebevoller Umgang mit Ihrem Partner.
+
+Gerne können Sie mir Ihre Erfahrungen schreiben.
+Herzliche Grüße
+Theresa König
+Beraterteam
+www.ex-zurueck-gewinnen.de/zu-den-ratgebern
+
+
+
+
+
+Beraterteam LTD, The Meridian 4 Copthall House, Station Square, Coventry, West Midlands, England CV1 2FL
+
+To unsubscribe or change subscriber options visit:
+http://www.aweber.com/z/r/?jEyMDIys7LSsjIwMjIwcTLRmtOzMbAysnIw=

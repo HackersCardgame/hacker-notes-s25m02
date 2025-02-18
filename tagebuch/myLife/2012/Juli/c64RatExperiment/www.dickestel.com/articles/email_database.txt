@@ -1,0 +1,50 @@
+DATA BASES OF E-MAIL ADDRESSES
+
+There are several sites on the Internet World Wide Web that contain searchable databases of e-mail
+addresses. Basically, you type in the name you are looking for (or partial name) and it spits back a list
+of matches and their addresses.
+
+How do these sites get the names for their databases? I'm not too sure, but I think they get many of
+them by reading messages left in news groups. Perhaps they get some from Listserv mailing lists, too.
+Also, users can register their names with the particular site.
+
+Naturally, the first thing you do when you find these address sites is to look up own name, (Are we
+egotistical or what?) Four 11 was the first one I ever found my name in. I wasn't a registered name, so I
+can only assume they scan news groups for addresses, Adding to this belief, not only did they have my
+Internet address, but they had my very old (and no longer usable) FidoNet address! This is a company
+that does homework.
+
+Once you become a registered Four 11 user, more search options are available to you. Registration is
+free and you can flesh out your address with more information. Four 11 gives you space to list several
+attributes besides your name, such as past high school, past college, organization, hobbies and interests,
+plus old e-mail addresses, etc. As a registered user, you can search their database using these fields to
+narrow your search or find other people with similar background or interests.
+
+Leery About Leaving Your Address?
+
+At first I was leery about giving away my e-mail address. Would my mailbox become filled with
+unsolicited junk mail? Do I want to give away so much information about myself to unknown persons?
+Then I thought about it; I am not harmed by the junk mail. I can choose to ignore or throw out
+unwanted mail. I'm usually happy to find other people with similar interests. And maybe there really is
+someone out there who's been trying to find me!
+
+Security and Privacy 
+
+If security and privacy are a real issue, Four 11 has a nice feature, though. They will allow you to
+register your address with them as an unlisted number. If someone finds your name in the database,
+they can leave you mail and Four 11 will forward it to you. The writer never sees your address.
+
+Calling itself the Internet White Pages Directory, Four 11 is a fast and efficient way to find someone's
+e-mail address. The pages aren't full of unnecessary graphics so they load quickly. The data searches
+are very fast--I've done searches that returned over 100 matches that took only seconds to appear.
+With its keyword searches, wildcard matching, and "intelligent" names (matching Bob with Robert,
+etc.), Four 11 is a great addition to your Web Browser bookmark list.
+
+Four11 - http://www.four11.com 
+
+(Editor's note: This now takes you to the Yahoo people search page, so we can only assume a
+takeover has occurred. Out of three other Email databases listed in this 1997 article, the only one that
+worked in November 2000 was WhoWhere - http://www.whowhere.com). 
+
+(From Random Bits, April 1996, via Lane Count CUG newsletter, March 1997, via the Commodore Information Center,
+http://home.att.net/~rmestel/commodore.html)

@@ -1,0 +1,52 @@
+Wed 31 Mar 2021 03:19:44 PM CEST
+  279  1963 15452 cyberWAR20210331.txt
+[master 5f2bedf] save
+ 1 file changed, 279 insertions(+)
+ create mode 100644 tagebuch/cyberWAR20210331.txt
+
+
+auf das "master troll troll us" finde ich gut dass es mehrerer trolls gibt, dann können die sich abwechseln... wir brauchen aber irgend etwas wie eine Semaphore für den TrollbereitschaftsGrad (im Sinne des Militärischen Kotzwortes: Marschbereitschaftsgrad: DE: March readiness level)
+
+Wed 31 Mar 2021 03:21:30 PM CEST
+ 10  63 470 cyberWAR20210331.txt
+[master 299e759] save
+ 1 file changed, 10 insertions(+), 279 deletions(-)
+ rewrite tagebuch/cyberWAR20210331.txt (99%)
+9f6ed882a28b3588892cb2176dcde1b0a84ba7b76a9649d275602d95d61029b98fedd6e73a5d73c6f3c53619d4e4e49548e01b5f762fcbeefa140c21e676ebae  cyberWAR20210331.txt
+
+yay, für windows gibt es scheinbar einen toolkit für musikalisch unbegabte menschen um mich beim musik machen zu sabotieren und deren hochumt und mansplaining an mir auszuleben, diesen toolkit gibt es scheinbar auf linux mit wine64 nicht YAY
+
+Wed 31 Mar 2021 05:17:36 PM CEST
+  19  127 1052 cyberWAR20210331.txt
+[master 1ed0f95] save
+ 2 files changed, 3 insertions(+)
+ create mode 100644 ableton/2021/20210331/20210331-00 Project/20210331-06.als
+0907cd05834a803afe48fd11b6f6ea6d2d8cbd6cad5b5206d21bfc2525ce1397a127497e040c1a342c1b1b9e2b0b2f46be7da5d8b1890bfc5c5591ea7e57c9ad  cyberWAR20210331.txt
+
+dann wieder mal wasserkanppheit bei mir udn keine lust zu den zombis raus zu gehen. bier habe ich noch, also machen wir heute mal einen auf "übermässiges sich ncith betrinken ist auch übermass"
+
+
+Fishing Crusade scheinbar druch, Brainjacking durch, corona content brainjackign FAILED
+
+konnte 2 oder sogar 10h angenehm arbeiten ohne brain-malware...
+
+deren Mainframe war irgendwie ausgelastet?
+
+Wed 31 Mar 2021 11:55:42 PM CEST
+  35  210 1804 cyberWAR20210331.txt
+[master edf58ea] save
+ 12 files changed, 7 insertions(+)
+ rewrite ableton/2021/20210331/20210331-00 Project/20210331-18.als (82%)
+ create mode 100644 ableton/2021/20210331/20210331-00 Project/20210331-19.als
+ create mode 100644 ableton/2021/20210331/20210331-00 Project/20210331-20.als
+ create mode 100644 ableton/2021/20210331/20210331-00 Project/20210331-21.als
+ create mode 100644 ableton/2021/20210331/20210331-00 Project/20210331-22.als
+ create mode 100644 ableton/2021/20210331/20210331-00 Project/20210331-23.als
+ copy ableton/2021/20210331/20210331-00 Project/{20210331-18.als => Backup/20210331-18 [2021-03-31 191345].als} (100%)
+ create mode 100644 ableton/2021/20210331/20210331-00 Project/Backup/20210331-19 [2021-03-31 191651].als
+ create mode 100644 ableton/2021/20210331/20210331-00 Project/Backup/20210331-20 [2021-03-31 192647].als
+ create mode 100644 ableton/2021/20210331/20210331-00 Project/Backup/20210331-21 [2021-03-31 193553].als
+ create mode 100644 ableton/2021/20210331/20210331-00 Project/Backup/20210331-22 [2021-03-31 194428].als
+9ac14dd16677d5883b2ed8c97119857308791b0ae7ffdeea39545b61d23bc610f0ac9b88f5472fd005f98de4e5833792147bad9394f6b74431ac19658385cdc8  cyberWAR20210331.txt
+
+

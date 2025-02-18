@@ -1,0 +1,47 @@
+Making a Stubborn Mouse Go Again
+
+Brian Ketterling
+
+(Editor's note: My Commodore-compatible Smart Mouse suddenly refused to go up and down,
+although horizontal movement was OK. Brian provided this information in answer to a post on the
+Internet, and it's repeated here for others who may have a similar problem.)
+
+Flip the mouse over, remove the screw and take off the bottom plastic plate (gently, so the hooks at the
+top don't break).  Set the plate right side up on your desk.  Disengage the mouse's cord from the
+strain-relief slot in the upper half of the shell, then flip the circuit board right side up and put it in place
+on the bottom plate (handle the board by the edges).  There are 2 slots at the top of the board and 2 in
+the sides that align with plastic support posts on the plate, and the wheels fit into cutouts of their own in
+the board.
+
+If you look at the wheel concerned (the one for vertical movement), you'll notice a couple of things. 
+First, its edge has square "teeth", like a cog.  Second, there's a little semiconductor device on each side
+of the wheel, out towards its edge.  One is transparent and one looks black.  The transparent one is an
+infrared-emitting diode, and the dark one is a pair of infrared-detecting diodes (in one pkg).  The IRED
+emits a beam of infrared light which the diodes detect.  In the gap between the two are the "teeth" of the
+wheel.  As the wheel turns, they alternately block the beam and let it through, which is how the mouse
+detects motion.
+
+There seem to be two problems with SmartMouses: the IR signal seems to be "weak" or something and
+the board construction seems to introduce a certain amount of stress in the leads of the devices, which
+eventually causes them to bend slightly.  When that happens, the photodiode can no longer "see" the IR
+beam properly, and it stops registering motion.
+
+So what you need to do is bend them yourself until motion on that axis starts working again.  A pair of
+forceps, if you have them, is a handy tool. You could also use needlenose pliers, tweezers, or maybe
+your fingers -- in any case, just be gentle.  Start by getting both devices straight and square with each
+other, and aligned properly with the wheel slots (not in too far, so that the solid part of the wheel blocks
+part of the beam, and not too far out, so that the TEETH don't block the light).  Then just start giving
+them little tweaks until you find a position where it starts working (on my mouse, they each actually
+point downwards slightly).  It won't take much adjustment, but it will take a little trial and error.  If it
+starts working, put the shell together again w/o the screw, pop in the ball, and check it -- it may take a
+couple of cycles to get it, but that's all there is to it.
+
+When I first got my mouse, I had to do this several times within the first month or so, but it's worked
+without problems for years since (it was in one of the first batches CMD made) -- I guess the stress just
+has to be worked out of the leads.
+
+(Ed. again: In my case, it took just a gentle nudge with my finger to move the device very slightly and
+everything worked fine again.)
+
+(From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html)

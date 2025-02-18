@@ -1,0 +1,49 @@
+System log for account 962320 (icq) connected at 28.04.2007 09::36::22
+---- +++ 962320 hat sich angemeldet @ 2007-04-28 09:36:22 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 2007-04-28 09:36:23 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-04-28 09:36:23 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-28 09:39:00 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-04-28 09:47:44 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-28 09:53:07 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-04-28 09:55:31 ----
+---- +++ 962320 wurde untätig @ 2007-04-28 09:55:15 ----
+---- Dominik wurde untätig @ 2007-04-28 10:07:05 ----
+---- tdr-timon hat den Status von Offline zu Verfügbar geändert @ 2007-04-28 10:19:55 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-04-28 11:16:14 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-04-28 11:20:47 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- tdr-timon hat den Status von Verfügbar zu Offline geändert @ 2007-04-28 12:30:01 ----
+---- tdr-timon hat den Status von Offline zu Nicht verfügbar geändert @ 2007-04-28 12:30:21 ----
+---- tdr-timon wurde untätig @ 2007-04-28 12:30:21 ----
+---- tdr-timon hat den Status von Nicht verfügbar zu Offline geändert @ 2007-04-28 12:30:59 ----
+---- +++ 962320 wurde untätig @ 2007-04-28 12:26:34 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-04-28 12:46:24 ----
+---- tdr-timon hat den Status von Offline zu Verfügbar geändert @ 2007-04-28 13:05:54 ----
+---- tdr-timon wurde tätig @ 2007-04-28 13:05:54 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-04-28 13:22:22 ----
+---- stefan hat den Status von Abwesend zu Offline geändert @ 2007-04-28 13:39:44 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-04-28 13:40:23 ----
+---- michi hat den Status von Offline zu Abwesend geändert @ 2007-04-28 13:52:34 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-28 13:52:42 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-04-28 14:02:05 ----
+---- +++ 962320 wurde untätig @ 2007-04-28 14:02:07 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-04-28 14:14:38 ----
+---- tdr-timon hat den Status von Verfügbar zu Offline geändert @ 2007-04-28 14:28:44 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 2007-04-28 14:30:36 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-28 14:44:21 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-28 14:45:54 ----
+---- Dominik wurde tätig @ 2007-04-28 14:45:54 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-28 14:48:39 ----
+---- +++ 962320 wurde untätig @ 2007-04-28 14:44:35 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-28 14:57:47 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-28 14:58:48 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-28 15:00:49 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-28 15:01:50 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-04-28 15:07:01 ----

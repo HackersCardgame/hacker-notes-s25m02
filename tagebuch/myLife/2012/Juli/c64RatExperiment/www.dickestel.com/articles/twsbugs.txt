@@ -1,0 +1,92 @@
+Bugs and Anomalies in The Write Stuff
+
+by Dick Estel
+
+As I used The Write Stuff 128 over the years, I discovered some annoying behaviors. I hesitate to call
+them all bugs, since the program's author has discussed one of them, and apparently feels it is part of
+the normal operation. So I will call it an anomaly. It is related to the macro feature and the sequence of
+events is as follows:
+
+You call up the macro file in order to make a temporary macro, by typing [CONTROL] [SHIFT] M.
+At this point, the entire macro file is merged above your current document.  This does not make sense
+to me, since you must delete it before you save your document.  When you delete it, the macro file gets
+trashed.  After this, you can no longer use the macro feature.
+
+Every time you type a one- or two-letter word, the cursor either locks up or disappears entirely.  After
+this you can't type or move the cursor.  You can always recover by pressing [RUN/STOP]
+[RESTORE], then typing RUN.
+
+You can eliminate the problem by turning off the macros, by typing [CONTROL] m.  But you are
+without macros until you re-boot.
+
+You can retain the macro file by transferring into a second text area, assuming the size of your
+document allows this.  I don't think this is an elegant solution.
+
+Another problem, which may be related to the above, occurs in relation to the multiple text area feature. 
+Sometimes when I create a document, then switch to the alternate text area via [CONTROL] [SHIFT]
+Q, the same document appears in the other area.  Additionally, any text clear action performed on one
+area acts on the other area; for example, using [CONTROL] [SHIFT] [CLR] to erase all or part of the
+document erases BOTH documents.
+
+Several times I have had a problem with sections of text not printing when using columns. I created a
+list of items several pages long. Since each item was fairly short, I wanted to print in columns. At the
+point a new column began, I noticed that anywhere from one to five lines of text would disappear when
+printing or viewing in print preview. I was able to correct this by adding returns above the line that
+disappeared. This required adding one return, previewing; then adding additional returns and
+previewing until all the text appeared.
+
+When I edited the Commodore MaiLink in January of 1999, I encountered the same thing with
+portions of text lost at the top of each page. I ended up printing each page separately, since adding
+returns in the middle of a paragraph threw the formatting off.
+
+For the January 2000 MaiLink, I created three files of several pages each, and used the command to
+link them so I could print the entire publication at once. For one section, I had to place a return at the
+top of the page, or the first line would not print. This created an extra line, which then affected the
+formatting for the rest of the issue.
+
+Finally, there is a definite bug relating to use of the print to memory feature. After using this feature
+several times, the program crashes in various interesting ways.
+
+The crashes I experience usually but not always occur after a SAVE. However, they can happen after a
+LOAD or even while I am going through the file with the function or cursor keys. I don't believe it has
+happened during actual typing (text entry).
+
+Crashes take one of the following forms:
+
+1. The cursor disappears and no screen movement is possible.
+
+2. The screen fills with what appears to be at least partly program code -- some basic keywords, but
+mostly garbage. I can go to top and bottom using CLR and HOME, but there is no other cursor
+movement. Sometimes all but the top few lines of the screen will shift down a line, then back up (like a
+return is entered then deleted). Often there is a "cursor" where the character in that spot is constantly
+changing.
+
+3. While paging through a document with F7 the document scrolled up out of sight and was gone.
+
+4. A series of numbers appears and the computer dumps out of the program to the monitor. Garbage or
+part of the text may or may not appear on the screen.
+
+Recovery: Pressing RUN/STOP RESTORE reverts to the basic start-up screen. Typing RUN with
+RETURN may recover to the garbage screen, but usually does not recover at all.  Entering the POKE
+and SYS codes from the manual virtually always recovers but the RETURN character looks different
+(the horizontal bar is two pixels high instead of the normal 1 and the vertical arrow part is also wider).
+The REU drive is gone. Preview mode sometimes (not always) yields a display in which graphic
+characters replace upper case and embedded code characters; but normal hard-copy printing seems to
+be OK.
+
+During situation #2, I can access the command line. I did this and attempted to load a file, but the
+garbage display remained. When I recovered with the POKE/SYS, the file was there.
+
+Often after recovery, and sometimes before a crash, a light grey character 0 (zero) appears above the
+extreme upper left cursor position, below the command line.
+
+This problem nearly always occurs after I have used the print to memory command a number of times.
+When I am doing this, I always make sure I save the document frequently. I suspect that something
+about using print to memory eventually corrupts the program.
+
+None of these problems are frequent or severe enough to change my opinion that TWS is the world's
+best Commodore word processor. Like everything, the "best" can always be better.
+
+(A version of this article first appeared in the Commodore MaiLink, newsletter of Meeting 64/128
+Users Through the Mail; this version downloaded from via the Commodore Information Center,
+http://home.att.net/~rmestel/commodore.html) 

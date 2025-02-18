@@ -1,0 +1,138 @@
+Halli Hallo und guten Morgen alle
+
+Das Buch ...
+Sokrates Jesus Buddha
+von Frédéric Lenoir
+
+ISBN: 978-3-492-95421-1
+
+... ist einfach nur genial. Wenn man das als eBook kauft und sich mit Calibre eBook Reader vorlesen lassen möchte geht das aber nicht, weil es da im Buch Excape-Sequenzen (Informatik) hat, deshalb hier eine korrigierte TXT Datei die man sich mit Calibre eBook Reader vorlesen lassen kann. Das eBook selber kostet nur 10€, also auch etwas für kleines Budget.
+
+Meine Meinung:
+@fredericlenoir2 hat das mit der Quellensuche ordentlich gemacht, und das Buch kann man vermutlich gut für "#Comparative #Religion #Sciences" verwende, ist ja auch irgendwie gescheiter zu schauen "wie sieht das eigentlich bei Eurer Religion aus" als sich gegenseitig in Kreuzzügen die Köpfe einzuschlagen.
+
+Meine Notizen zum Buch: https://github.com/HackersCardgame/hackerscardgame-notes-s22m08/blob/main/tagebuch/2022/august/minkorrekt-philosophie.txt
+
+
+Dabei stell ich mir die Frage: sind Hacker oder Podcaster nicht auch Menschen wie Philosophen oder religiöse Menschen, die versuchen sich einem "Inhaltlichen Hack" in die Gesellschaft hacken um Dinge zu verbessern ohne auf Strukturen von grossen und mächtigen Kaisern oder Konzernen zurück greifen zu können. Beide werden zwischendurch mal angegriffen, ich sehe da Parallelen zwischen Julian Assange und Jesus, auch wenn es kitschig wirken würde Julian am Kreuz abzubilden.
+
++= Relevante Information
+
+
+* Was hat dieses Buch mit dem Film Sakrileg (The Da Vinci Code) zu tun
+
+* Zyklische Seele 180° zu Zyklische Wirtschaft
+--> voller Mund studiert nicht gern
+
+* weshalb wollen Kinder immer das Spielzeug haben was das andere Kind hat
+--> geht es nicht viel um Aufmerksamkeit der Eltern die ein Knappes Gut darstellen?
+==> Güter = Erbsünde
+
+* Ist das ein Christlicher BOT, Christlicher Virus, ein Christlicher Trjaner oder einfach nur Konzeptwissen, die abtrakte Klasse um Java zu bemühen?
+-> Sokrates: Worte der Weisheit bohrten "sich noch grimmiger ein als der Zahn einer Natter"
+
+* ist Religion und Philosophie eine Schnittmenge?
+
+* macht es das Internet einfacher den Einstieg in Philosophie zu finden?
+
+* die Evangelien sind jeweils andere Perspektiven auf das Selbe
+
+-> sind #Hacker oder Podcaster Menschen wie Philosophen oder religiöse Menschen
+=> sich einem "Hack" in die Gesellschaft hacken ohne auf Strukturen von grossen und mächtigen Kaisern oder Konzernen unterstützt zu werden tönt ähnlich. Beide werden zwischendurch mal angegriffen, parallelen zwischen Julian Assange und Jesus
+
+* Buddha warnt vor Personen-Kulten
+
+* wäre es typisch für die Generation der 1960er und älter den Kindern aus Neid auf deren Harmonie ihre Herden, Spielzeuge und Rituale zu zerstören?
+-> Logischerweise haben die Alten mehr Macht und mehr Kapital, und viele sind sich nicht bewusst, dass Machtmittel zu Machtmissbrauch tendieren
+
+* 112 nach Chr. -- "in erster Linie gehe es dabei um die Weigerung am Kaiserkult teilzunehmen"
+
+* ist die #QAnon Geschichte #PizzaGate und Eliten die #Kinder #rituell "#essen" nicht für die jungen Menschen einfach der "Nearst Match" weil eigentlich die meisten Eltern der 1980er Kinder uns alle der Wirtschaft und dem Kapitalismus geopfert haben um ihre Pensionen zu sichern?
+
+* was hat die Re-Inkarnation im Buddhismus, oder die Erinnerung an seine früheren Leben mit Rollen in Rudolf-Steiner Schulen zu tun wo das Kind ein Jahr lang Römer ist, ein Jahr lang Grieche (oder andere Reihenfolge) usw ist.
+
+* weshalb mag der Kapitalismus keine Moral-Apostel?
+
+* Hatte Buddha oder Jesus einen Bart oder nicht.
+-> war Länderspezifisch also in Linux/Unix wärs etwas wie die $LC_ALL Variable.
+
+* Buddha = der erwachte -> "woke" zu sein ist ja total in, aber das Wort "woke" kann man auch wieder verschieden auslegen.
+
+* ist es freheit generiert gegen über einem souverän genetisch veranlagt? und wenn ja von links und rechts mit jeweils anderen resultaten?
+
+* ist der Messias und Befreier nicht der, der dann wieder Cyphers Produziert die zurück in die Matrix, in die Unwissenheit möchten
+
+* sind religionen auch einer dialektik unterwofen
+1. werden aus vorhergehenden weiter entwickelt
+2. negieren sich selber mit der zeit zu einem sauhaufen der dann wie die christliche kirche anfängt kinder zu schänden und zu vergewaltigen, so dass eine neue Religion her muss?
+-> sagt platon in protagoras nicht schon "Dass Söhne von guten Vätern schlecht werden und Söhne von schlechten Vätern gut?"
+
+* wenn Gott Jesus gesandt hat, weshalb hat er ihn als single-point-of-failure implementiert und nicht mehrere Jesüsse geschickt. Weil im Buch steht dass Buda vor einem Personenkult warnt. Ist das aus Gründen des Story-Tellings im neuen Testament?
+
+- Platon sagt: "Dennoch auch Kriege, Aufruhr und Schlachten sind allein eine Folge des Körpers und seiner Begierden", geht es aber im aktuellen Krieg nicht um Identität, denn die Ukraine war der Ursprung Russlands. MFX - Ultimatum to the world -- ukraine ca. 2010, googlen. Wussten das Köpfe in USA? Aber fachgebiet die Psychie / Identität aller patriotischen Russen zu schädigen wäre dann eher das Studienfach Massen-Manipulation und Mindcontrol. <Zynismus>aber der CIA würde nieeeee so etwas machen</Zynismus> Da findet man -- wenn man so richtig lang sucht -- auch Sprachaufnahmen von Bush
+
+hingegen jesus sagt macht und der wille andere zu beherrschen sei wurzel aller Tyrannei und aller kriege
+
+-> aber die volkspsyche von russland zu zerschiessen würde dann schlussendlcih allenfalls auch wieder mehr profit bedeuten für andere länder, also hat Platon vielleicht doch recht
+
+ev. cc hoaxilla
+
+* höhlengleichnis
+
+
+ ehr das wäre dann Mindcontrol, Massen
+
+
+
+
+
+die schweizer armee verteilt pistolen an 20 jährige in der hoffnung dass sich jemand erschiesst oder amok läuft damit die die dazu gehören allen anderen (menschen die z.B. aufzeigen wie sinnlso gewalt ist) ein schlechtes geiwssen einzureden. Tobias Moser sollte von Brändli in den Suizid getrieben werden damit man als militär sich geltung verschaffen kann, drohen kann und einen auf falschen moral apostel machen kann.
+
+
+
+http://www.fredericlenoir.com
+
+
+
+
+Manche Eltern mögen keine #Autisten weil immer #vorlaut #berechtigte #Kritik
+
+Ausserdem sagen Australier öfters mal dass Amerikaner nicht so mögen
+
+Spekulation:
+1. @JulianAssange_ wird von UK+USA ans Kreuz genagelt
+2. Julian verstirbt
+3. Amerikaner stehen moralisch noch schlechter da
+
+1/3
+
+ArrayList<String> #jesusNagler@Assange.#au = new ArrayList<String>
+(
+Arrays.asList(
+"#RichardBrettAssange",
+"#ChristineAnnHawkins",
+"#JohnShipton",
+"#ChristineAssange"
+);
+
+CC: @HighCourtofAus @UKSupremeCourt 
+
+1/3
+
+@NSAGov / @CIAgovmil / @USSupremeCourt wärs nicht gescheiter die ehemaligen Halter und und Entwickler des #NPC's Julian @ASIOGovAu 175 Jahre einzusperren oder in Euren Kriegen keine Unschuldigen mehr zu ermorden?
+
+
+
+1/2
+
+
+
+
+
+Man verliebt sich auch nicht unbedingt in den Körper, sondern in den Geist, die Seele, in die Menge von Habiten und Wissen eines Menschen (Schnittmengen beider)
+
+zB. Aquila (Pfeil) war / ist eigentlich eine äusserlich die übelste Schreckschraube (de-sg: ein ganz hässlicher Mensch) der ganzen Pfadi Adler Aarau. Aber richtig fest gebildet, intelligent und "aufmüpferisch" zu älteren Menschen wie ich.
+
+Ich würde sogar meine Grossmuter (und meine Mutter sowieso) verkaufen um sie zurück zu bekommen. Was ich aber nicht tun würde wäre Gleichaltrige, Jüngere oder gute Menschen zu verraten, zu verkaufen, zu versklaven. Da ist mein moralischer Kompass stärker als mein Trieb für "Ego-Needs"
+
+Ein Kollege hat damals als ich mit ihr zusammen gekommen bin gesagt "hahaha, die sieht ja aus wie ein Mann" — der Bildungsgrad und die Intelligenz dieses spezifischen Kollegen ist bis heute eher Fragwürdig.

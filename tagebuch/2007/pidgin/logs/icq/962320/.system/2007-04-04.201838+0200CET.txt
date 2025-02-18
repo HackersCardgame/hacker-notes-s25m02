@@ -1,0 +1,15 @@
+System log for account 962320 (icq) connected at 04.04.2007 20::18::38
+---- +++ 962320 hat sich angemeldet @ 2007-04-04 20:18:38 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-04-04 20:18:38 ----
+---- Dominik wurde untätig @ 2007-04-04 20:18:38 ----
+---- dikyangel hat den Status von Offline zu Nicht verfügbar geändert @ 2007-04-04 20:18:39 ----
+---- dikyangel wurde untätig @ 2007-04-04 20:18:39 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-04-04 20:18:39 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-04-04 20:18:39 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-04-04 20:22:37 ----
+---- dikyangel wurde tätig @ 2007-04-04 20:22:38 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 2007-04-04 20:37:18 ----
+---- FairyLady hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-04-04 20:41:11 ----
+---- FairyLady wurde untätig @ 2007-04-04 20:41:13 ----
+---- FairyLady hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-04-04 20:41:16 ----
+---- FairyLady wurde tätig @ 2007-04-04 20:41:16 ----

@@ -1,0 +1,267 @@
+Microsoft Windows [Version 10.0.19042.804]
+(c) 2020 Microsoft Corporation. Alle Rechte vorbehalten.
+
+C:\Users\marc>cd \
+
+C:\>cd "Program Files"
+
+C:\Program Files>cd Mixxx
+
+C:\Program Files\Mixxx>dir
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 8EDE-9D8F
+
+ Verzeichnis von C:\Program Files\Mixxx
+
+05.03.2021  00:11    <DIR>          .
+05.03.2021  00:11    <DIR>          ..
+17.02.2021  02:22        17'713'152 avcodec-58.dll
+17.02.2021  02:22           756'736 avutil-56.dll
+17.02.2021  02:04           137'216 brotlicommon.dll
+17.02.2021  02:04            47'104 brotlidec.dll
+17.02.2021  02:04            75'264 bz2.dll
+17.02.2021  02:40            56'320 chromaprint.dll
+19.02.2021  21:05           309'128 concrt140.dll
+05.03.2021  00:11    <DIR>          controllers
+05.03.2021  00:11    <DIR>          doc
+17.02.2021  02:58            35'840 EBUR128.dll
+17.02.2021  02:40           620'032 fdk-aac.dll
+17.02.2021  02:59           203'264 FLAC.dll
+05.03.2021  00:11    <DIR>          fonts
+17.02.2021  02:45           657'920 freetype.dll
+17.02.2021  02:46         1'041'920 harfbuzz.dll
+17.02.2021  02:48            18'432 hidapi.dll
+17.02.2021  02:48            54'784 hss1394.dll
+17.02.2021  02:54        28'399'104 icudt67.dll
+17.02.2021  02:54         2'418'176 icuin67.dll
+17.02.2021  02:54         1'676'288 icuuc67.dll
+17.02.2021  02:59            66'048 id3tag.dll
+17.02.2021  02:58           260'096 jasper.dll
+17.02.2021  02:58           550'912 jpeg62.dll
+05.03.2021  00:11    <DIR>          keyboard
+17.02.2021  03:05         3'470'336 libcrypto-1_1-x64.dll
+17.02.2021  01:58            34'816 libEGL.dll
+17.02.2021  01:58         6'405'632 libGLESv2.dll
+17.02.2021  03:14           368'640 libmp3lame.DLL
+17.02.2021  02:44           195'072 libpng16.dll
+17.02.2021  03:09           294'400 LIBPQ.dll
+17.02.2021  03:20           453'120 libprotobuf-lite.dll
+17.02.2021  03:05           686'592 libssl-1_1-x64.dll
+17.02.2021  03:14            39'936 libwebpmux.dll
+17.02.2021  03:14            87'552 lilv.dll
+17.02.2021  03:00           154'624 lzma.dll
+03.03.2021  19:26         7'823'360 mixxx.exe
+03.03.2021  19:26        74'461'184 mixxx.pdb
+17.02.2021  03:01           308'736 modplug.dll
+19.02.2021  21:05           585'096 msvcp140.dll
+19.02.2021  21:05            23'944 msvcp140_1.dll
+19.02.2021  21:05           186'248 msvcp140_2.dll
+19.02.2021  21:05            20'360 msvcp140_codecvt_ids.dll
+17.02.2021  02:59            30'208 ogg.dll
+17.02.2021  03:01           396'800 opus.dll
+17.02.2021  03:16           494'080 pcre2-16.dll
+05.03.2021  00:11    <DIR>          plugins
+17.02.2021  03:16           333'312 portaudio.dll
+17.02.2021  03:17            29'696 portmidi.dll
+17.02.2021  03:11           103'424 pthreadVC3.dll
+03.03.2021  19:31                 9 qt.conf
+17.02.2021  03:51         5'023'232 Qt5Core.dll
+17.02.2021  03:58         6'397'952 Qt5Gui.dll
+17.02.2021  05:27            35'328 qt5keychain.dll
+17.02.2021  03:57         1'331'712 Qt5Network.dll
+17.02.2021  04:03           313'856 Qt5OpenGL.dll
+17.02.2021  05:24         1'235'968 Qt5Script.dll
+17.02.2021  05:25           563'200 Qt5ScriptTools.dll
+17.02.2021  03:52           202'240 Qt5Sql.dll
+17.02.2021  04:12           323'584 Qt5Svg.dll
+17.02.2021  04:03         5'486'592 Qt5Widgets.dll
+17.02.2021  03:51           206'848 Qt5Xml.dll
+17.02.2021  05:28           439'808 rubberband.dll
+17.02.2021  03:11         1'492'992 samplerate.dll
+05.03.2021  00:11    <DIR>          script
+17.02.2021  03:14            80'896 serd.dll
+05.03.2021  00:11    <DIR>          skins
+17.02.2021  03:13           520'704 sndfile.dll
+17.02.2021  03:14            32'768 sord.dll
+17.02.2021  03:25           974'336 sqlite3.dll
+17.02.2021  03:14            30'720 sratom.dll
+17.02.2021  02:22           184'320 swresample-3.dll
+17.02.2021  05:30           657'920 tag.dll
+17.02.2021  04:11           435'712 tiff.dll
+05.03.2021  00:11    <DIR>          translations
+19.02.2021  21:05            94'088 vcruntime140.dll
+19.02.2021  21:05            36'744 vcruntime140_1.dll
+17.02.2021  03:11           716'800 vorbis.dll
+17.02.2021  03:11           561'152 vorbisenc.dll
+17.02.2021  03:11            34'816 vorbisfile.dll
+17.02.2021  03:14           485'376 webp.dll
+17.02.2021  03:14           246'784 webpdecoder.dll
+17.02.2021  03:14            19'968 webpdemux.dll
+17.02.2021  02:44            86'528 zlib1.dll
+17.02.2021  03:25           555'520 zstd.dll
+              76 Datei(en),    180'893'377 Bytes
+              10 Verzeichnis(se), 56'177'119'232 Bytes frei
+
+C:\Program Files\Mixxx>mixxx.exe --help
+
+C:\Program Files\Mixxx>Mixxx v2.3.0-beta - Command line options
+(These are case-sensitive.)
+
+[FILE]                  Load the specified music file(s) at start-up.
+                        Each file you specify will be loaded into the
+                        next virtual deck.
+
+--resourcePath PATH     Top-level directory where Mixxx should look
+                        for its resource files such as MIDI mappings,
+                        overriding the default installation location.
+
+--settingsPath PATH     Top-level directory where Mixxx should look
+                        for settings. Default is:
+                        C:/Users/marc/AppData/Local/Mixxx/
+
+--controllerDebug       Causes Mixxx to display/log all of the controller
+                        data it receives and script functions it loads
+
+--developer             Enables developer-mode. Includes extra log info,
+                        stats on performance, and a Developer tools menu.
+
+--safeMode              Enables safe-mode. Disables OpenGL waveforms,
+                        and spinning vinyl widgets. Try this option if
+                        Mixxx is crashing on startup.
+
+--locale LOCALE         Use a custom locale for loading translations
+                        (e.g 'fr')
+
+-f, --fullScreen        Starts Mixxx in full-screen mode
+
+--logLevel LEVEL        Sets the verbosity of command line logging
+                        critical - Critical/Fatal only
+                        warning  - Above + Warnings
+                        info     - Above + Informational messages
+                        debug    - Above + Debug/Developer messages
+                        trace    - Above + Profiling messages
+
+--logFlushLevel LEVEL   Sets the the logging level at which the log buffer
+                        is flushed to mixxx.log. LEVEL is one of the values
+                        defined at --logLevel above.
+
+-h, --help              Display this help message and exit
+
+(For more information, see https://manual.mixxx.org/2.3/chapters/appendix.html#command-line-options)
+
+C:\Program Files\Mixxx>mixxx.exe --developer --logLevel trace
+
+C:\Program Files\Mixxx>Debug [Main]: SoundSourceProxy - Registering SoundSource providers
+Debug [Main]: SoundSourceProxy - Registering platform and fallback SoundSource providers
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "Microsoft Media Foundation"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "aac" for provider "Microsoft Media Foundation" with priority 4 (higher)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "m4a" for provider "Microsoft Media Foundation" with priority 4 (higher)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "mp4" for provider "Microsoft Media Foundation" with priority 4 (higher)
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "MAD: MPEG Audio Decoder"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "mp3" for provider "MAD: MPEG Audio Decoder" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "MODPlug"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "mod" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "med" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "okt" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "s3m" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "stm" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "xm" for provider "MODPlug" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "it" for provider "MODPlug" with priority 3 (default)
+Info [Main]: SoundSourceSndFile - Disabling OGG decoding for "libsndfile-1.0.31"
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "libsndfile"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "aif" for provider "libsndfile" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "aiff" for provider "libsndfile" with priority 3 (default)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "caf" for provider "libsndfile" with priority 2 (lower)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "flac" for provider "libsndfile" with priority 2 (lower)
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "wav" for provider "libsndfile" with priority 3 (default)
+Debug [Main]: SoundSourceProxy - Registering reference SoundSource providers
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "Xiph.org libFLAC"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "flac" for provider "Xiph.org libFLAC" with priority 4 (higher)
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "Xiph.org OggVorbis"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "ogg" for provider "Xiph.org OggVorbis" with priority 4 (higher)
+Debug [Main]: SoundSourceProviderRegistry - Registering provider "Xiph.org libopusfile"
+Debug [Main]: SoundSourceProviderRegistry - Registering file extension "opus" for provider "Xiph.org libopusfile" with priority 4 (higher)
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "aac"
+Info [Main]: SoundSourceProxy - 4 (higher) : "Microsoft Media Foundation"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "aif"
+Info [Main]: SoundSourceProxy - 3 (default) : "libsndfile"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "aiff"
+Info [Main]: SoundSourceProxy - 3 (default) : "libsndfile"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "caf"
+Info [Main]: SoundSourceProxy - 2 (lower) : "libsndfile"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "flac"
+Info [Main]: SoundSourceProxy - 4 (higher) : "Xiph.org libFLAC"
+Info [Main]: SoundSourceProxy - 2 (lower) : "libsndfile"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "it"
+Info [Main]: SoundSourceProxy - 3 (default) : "MODPlug"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "m4a"
+Info [Main]: SoundSourceProxy - 4 (higher) : "Microsoft Media Foundation"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "med"
+Info [Main]: SoundSourceProxy - 3 (default) : "MODPlug"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "mod"
+Info [Main]: SoundSourceProxy - 3 (default) : "MODPlug"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "mp3"
+Info [Main]: SoundSourceProxy - 3 (default) : "MAD: MPEG Audio Decoder"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "mp4"
+Info [Main]: SoundSourceProxy - 4 (higher) : "Microsoft Media Foundation"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "ogg"
+Info [Main]: SoundSourceProxy - 4 (higher) : "Xiph.org OggVorbis"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "okt"
+Info [Main]: SoundSourceProxy - 3 (default) : "MODPlug"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "opus"
+Info [Main]: SoundSourceProxy - 4 (higher) : "Xiph.org libopusfile"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "s3m"
+Info [Main]: SoundSourceProxy - 3 (default) : "MODPlug"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "stm"
+Info [Main]: SoundSourceProxy - 3 (default) : "MODPlug"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "wav"
+Info [Main]: SoundSourceProxy - 3 (default) : "libsndfile"
+Info [Main]: SoundSourceProxy - SoundSource providers for file extension "xm"
+Info [Main]: SoundSourceProxy - 3 (default) : "MODPlug"
+Debug [Main]: "Mixxx" "2.3.0-beta" "(git 2.3 r8050; built on: Mar  3 2021 @ 19:23:47)" is starting...
+Debug [Main]: Compile time library versions:
+Debug [Main]: Qt: 5.15.2
+Debug [Main]: libshout: 2.4.1
+Debug [Main]: PortAudio: 1246720 PortAudio V19.6.0-devel, revision unknown
+Debug [Main]: RubberBand: 1.9.0
+Debug [Main]: SoundTouch: 2.1.1
+Debug [Main]: TagLib: 1.12.0
+Debug [Main]: ChromaPrint: 1.5.0
+Debug [Main]: Vorbis: Xiph.Org libVorbis 1.3.7
+Debug [Main]: libsndfile: libsndfile-1.0.31
+Debug [Main]: FLAC: 1.3.3
+Debug [Main]: libmp3lame: 3.100
+Debug [Main]: QStandardPaths::writableLocation(HomeLocation): "C:/Users/marc"
+Debug [Main]: QStandardPaths::writableLocation(DataLocation): "C:/Users/marc/AppData/Local/Mixxx"
+Debug [Main]: QCoreApplication::applicationDirPath() "C:/Program Files/Mixxx"
+Debug [StatsManager]: StatsManager thread starting up.
+Debug [Main]: Loading resources from  "C:/Program Files/Mixxx/"
+Warning [Main]: Configuration file is at version "2.2.2" instead of the current 2.3.0-beta
+Info [Main]: BroadcastSettings - Found 1 profile(s)
+Debug [Main]: Loading resources from  "C:/Program Files/Mixxx/"
+Debug [Main]: Found and will use default keyboard preset "C:/Program Files/Mixxx/keyboard/de_CH.kbd.cfg"
+Debug [Main]: Loading resources from  "C:/Program Files/Mixxx/"
+Debug [Main]: Loading translations for locale "de_CH" from translations folder "C:/Program Files/Mixxx/translations/" : success
+Debug [Main]: Loading resources from  "C:/Program Files/Mixxx/"
+Debug [Main]: ConfigObject: Could not read "C:/Users/marc/AppData/Local/Mixxx/sandbox.cfg"
+Debug [Main]: FONT LOADED family: "Open Sans" style: "Regular" point sizes: "6,7,8,9,10,11,12,14,16,18,20,22,24,26,28,36,48,72"
+Debug [Main]: FONT LOADED family: "Open Sans" style: "Semibold" point sizes: "6,7,8,9,10,11,12,14,16,18,20,22,24,26,28,36,48,72"
+Debug [Main]: FONT LOADED family: "Open Sans" style: "Bold" point sizes: "6,7,8,9,10,11,12,14,16,18,20,22,24,26,28,36,48,72"
+Debug [Main]: FONT LOADED family: "Open Sans" style: "Regular" point sizes: "6,7,8,9,10,11,12,14,16,18,20,22,24,26,28,36,48,72"
+Debug [Main]: FONT LOADED family: "Open Sans" style: "Semibold" point sizes: "6,7,8,9,10,11,12,14,16,18,20,22,24,26,28,36,48,72"
+Debug [Main]: FONT LOADED family: "Open Sans" style: "Bold" point sizes: "6,7,8,9,10,11,12,14,16,18,20,22,24,26,28,36,48,72"
+Debug [Main]: FONT LOADED family: "Open Sans Semibold" style: "Regular" point sizes: "6,7,8,9,10,11,12,14,16,18,20,22,24,26,28,36,48,72"
+Debug [Main]: FONT LOADED family: "Ubuntu" style: "Bold" point sizes: "6,7,8,9,10,11,12,14,16,18,20,22,24,26,28,36,48,72"
+Debug [Main]: FONT LOADED family: "Ubuntu" style: "Bold" point sizes: "6,7,8,9,10,11,12,14,16,18,20,22,24,26,28,36,48,72"
+Debug [Main]: FONT LOADED family: "Ubuntu" style: "Regular" point sizes: "6,7,8,9,10,11,12,14,16,18,20,22,24,26,28,36,48,72"
+Info [Main]: DbConnection - Available drivers for database connections: ("QSQLITE", "QODBC", "QODBC3", "QPSQL", "QPSQL7")
+Debug [Main]: DbConnection - Opening database connection "MIXXX-1" QSqlDatabase(driver="QSQLITE", database="file:///C:/Users/marc/AppData/Local/Mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=false)
+Info [Main]: DbConnectionPool - Cloned thread-local database connection "MIXXX-1" QSqlDatabase(driver="QSQLITE", database="file:///C:/Users/marc/AppData/Local/Mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Info [Main]: MixxxMainWindow - Connecting to database
+Debug [Main]: DbConnectionPooled - Found thread-local database connection "MIXXX-1" QSqlDatabase(driver="QSQLITE", database="file:///C:/Users/marc/AppData/Local/Mixxx/mixxxdb.sqlite", host="", port=-1, user="mixxx", open=true)
+Info [Main]: MixxxMainWindow - Initializing or upgrading database schema
+Info [Main]: SchemaManager - Database schema is up-to-date at version 32
+Debug [Main]: InternalClock - InternalClock::setBpm 124
+--logLevel
+
+

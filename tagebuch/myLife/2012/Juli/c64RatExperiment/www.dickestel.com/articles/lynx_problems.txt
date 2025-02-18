@@ -1,0 +1,37 @@
+Resolving Problems with LYNX
+
+(The following is a summary of Email exchanges on the Commodore MaiLink exchange list, edited for
+this article.)
+
+Question: 
+
+Richard: When using LYNX, when I go to certain web sites, I get the following message:
+
+"Alert!: This client does not contain support for HTTPS URLs."
+
+Any idea what this means, and is there anything I can do about it to gain access to the site?
+
+Answers: 
+
+Ed: HTTPS denotes a secure site. Unless you're using Billy's Bonus pkg (or similar) you won't be able
+to access it.  In fact, the other day I hit such a site and couldn't get in. (Probably didn't pay my dues.)
+
+Gaelyne: What it means is that the version of Lynx you're using doesn't have the added ability to visit
+secure web pages (as Ed stated).
+
+Lynx can be compiled so that it will let you visit secure pages, but it involves having an additional library
+online (Open SSL), and patching Lynx before compiling it.  Every time I update Lynx I do this for our
+users, and while it used to seem quite involved, the people making Lynx keep making this part easier
+and easier.
+
+To access the pages, you'll either need to ask your system administrator to update Lynx so it will work
+with secure pages, or find a provider that offers Lynx in this format. (Of course, you could also use
+either Netscape or MS Internet Explorer, but I'm assuming you want to access the pages with your
+Commodore, not with another computer).
+
+It was because not all browsers have this ability that I set up our web store so instead of only offering
+secure orders, it has two buttons - one for normal orders, and one for secure. That way if the secure
+doesn't work, there's always something to fall back on. 
+
+From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html

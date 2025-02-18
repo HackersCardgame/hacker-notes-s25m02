@@ -1,0 +1,69 @@
+Conversation with 50590990 at 30.03.2007 22::28::18 on 962320 (icq)
+(22:28:20) Dominik: das heisst ?
+(22:29:09) landev: be grad am wiiterläse... aber i han jetzt usegfunde wie as chsch ipconfig /release mache, du muesch bim cmd chnopf unter eigeschafte "run as administrator" aklicke...
+(22:41:35) Dominik: ich habe das Problem in den Griff bekommen. 
+Es besteht momentan noch eine Inkompatibilität zwischen Windows Vista und Draytek-Routern mit (SPI-Firewall). 
+
+(22:42:02) landev: quelle aagab?
+(22:42:32) Dominik: http://www.router-forum.de/thread.php?threadid=37709&sid=4e2fd6ee5ffc6ad82cef4cf16d92c7af
+(22:42:43) Dominik: http://www.realriot.de/wiki/index.php/Windows_Vista_Receive_Window_Auto-Tuning_und_Router_Probleme
+(22:43:15) Dominik: Vereinfacht gesagt, liegt es an den neuen Implementierungen des TCP-Stacks (Software-Umsetzung des Protokolls TCP des TCP/IP-Referenzmodells - http://de.wikipedia.org/wiki/TCP/IP-Referenzmodell) in Microsoft Windows Vista. 
+(22:43:31) landev: bis grad am läse...
+(22:45:30) landev: stimmt nid....
+(22:45:32) landev: NAT Verbindungen sind von diesem Problem nicht  betroffen..
+Lediglich in Netzwerk-Topologien, bei denen eine SPF (Statefull Inspection Firewall) zum Einsatz kommt, werden mit diesem Problem konfrontiert sein. 
+(22:45:35) Dominik: netsh int tcp set global autotuninglevel=disable
+
+(22:45:55) landev: du hesch nat und das händ all wo ned en richtige router händ...
+(22:45:58) landev: NAT
+(22:46:20) Dominik: jo normal
+(22:46:35) landev: was normal???
+(22:47:08) Dominik: nat
+(22:47:26) Dominik: weis nid genau was bir uschi aktiviert isch
+(22:47:45) landev: wenn nach usse nur 1 ip hesch isches NAT....
+(22:48:39) Dominik: jo
+(22:49:44) Dominik: es hett aber sicher öppis z tue mit em router
+(22:49:56) Dominik: will meischtens hesch jo au dete en firewall
+(22:49:56) landev: bi euch?
+(22:50:08) Dominik: ?
+(22:50:12) landev: uf die andere server bisch jo cho...
+(22:50:26) Dominik: nei de router dehei
+(22:51:11) landev: i glaube das liit ned a dem...
+(22:51:29) Dominik: So habe es hinbekommen. 
+Habe von Firmware 2.51 auf 2.56 upgedatet und nun funzt es. 
+Danke nochmal Sascha für die tolle Hilfestellung. 
+ 
+Gruß 
+ 
+Bernd 
+
+(22:51:31) landev: aber probiersches mo...
+(22:51:37) landev: l
+(22:51:40) landev: mol meini
+(22:52:03) landev: und hett de generell kei internet gha oder nor einigi siite ned?
+(22:52:04) Dominik: luege mol de router a und deaktivirere alli firewall
+(22:52:28) Dominik: 
+
+Hallo Sascha 
+ 
+Danke für die Problemlösung, denn ich habe auch einen Vigor 2900G und Vista 64. 
+Leider war der Versuch bei mir erfolglos. 
+ 
+Ich kann weiterhin einige Seiten aufrufen und einige nicht, z.B.: 
+www.berlin.de funktioniert 
+www.google.de geht nicht, Fehler DNS ist nicht erreichbar 
+Firefox update funktioniert 
+Microsoft updates gehen nicht 
+ 
+Ich bin ratlos und am verzweifeln. 
+ 
+Vielleicht kann jemand helfen 
+ 
+Danke Bernd 
+ 
+
+(22:53:00) landev: site?
+(22:53:13) Dominik: immer no http://www.router-forum.de/thread.php?threadid=37709&sid=4e2fd6ee5ffc6ad82cef4cf16d92c7af
+(22:54:08) landev: Die Firewall den Statefull-Table verloren hat
+(22:54:43) landev: det drinn stoht weli verbindige offe sind, und die isch irgend xy kB gross, wenn die voll isch wird si überschribe...
+(22:56:28) landev: ich schriib mol es mail a euse dozent, de isch spezialischt...

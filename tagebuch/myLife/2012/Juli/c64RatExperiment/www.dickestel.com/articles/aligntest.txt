@@ -1,0 +1,13 @@
+EASY ALIGNMENT TEST
+
+If a drive doesn't find the load/read data on its first attempt, it automatically searches to the sides of where the data should be. Thus, a drive can be out of alignment and still load/read, but it might create saves/writes that can't be loaded/read by other drives.
+
+So, an easy way to check a drive's alignment is to command it to search once and only once for the data. On a 1541, turn the drive off and on, then type
+
+OPEN15,8,15,"M-W"+CHR$(106)+CHR$(0)+CHR$(1)+CHR$(193):CLOSE 15
+Then press [RETURN].
+
+Insert a commercial disk, type LOAD"$",8 and press [[RETURN]. If the directory loads and the error light is not flashing, the alignment is good.
+
+(From Civic 64/128 (Oxnard CA) Gazette, November 1995)
+

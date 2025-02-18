@@ -1,0 +1,42 @@
+IN SEARCH OF THE PERFECT PRINTER
+
+by Ben Briscoe
+
+In 1949 when I started teaching 35 6th grade youngsters in the Bellflower CA school district, there was
+just one family who owned a TV. My! How far we have come to not only have a TV in every
+classroom and home, but also to have a computer in most homes and classrooms.
+
+After 30 years of teaching, I retired, and with a mid life career shift, went into real estate sales. Soon I
+wanted a computer for loan amortization and writing business letters and advertising copy.
+
+So, in April, 1984, I sent off to Protecto Enterprises in Illinois for a Commodore 64, a 1541 drive, and
+a printer. The printer was, on their advice, a Star Gemini 10X, which, with the aid of a Card?+G
+interface by Cardco printed everything I attempted in graphics, numerical information, and word
+processing.
+
+This combination, with the later upgrade to a Commodore 128D, worked perfectly until about two
+years ago, when the printer and interface simply gave up from old age and heavy usage.
+
+About the same time I was able to purchase a Citizen 120D at a give-away price. This printer, in
+combination with a Super Graphix interface by Xetec, was very successful. However, some of my early
+software did not have printer drivers which would match this printers.
+
+The Citizen 120D does have the advantages of an auto-sheet loading system when tractor feed is not
+being used. I found it worked well with The Write Stuff, if I set the interfaced DIP switches to
+TRANSPARENT, and GEOS set to 1525 emulation.
+
+I then became the proud possessor of a Star Gemini II. Since this printer was made for use with
+Commodore computers, it does not require an external interface. The real advantage of this printers is
+that it prints in reduced sizes as well as Near Letter Quality, controlled by keys on the front panel.
+
+Now, however, I wanted a printer which would give better looking copy than the dot matrix models
+were able to produce. I had heard that the Canon BJ-200ex Bubble Jet printers would work well with
+a Commodore computer if placed in the Epson LQ mode. This is a highly successful printer when used
+with an Epson LQ1500 printer driver for graphic reproduction as well as word processing. This printer
+is everything I had always wished for. Well almost--I wish it did COLOR PRINTING.
+
+(Eventually Ben not only acquired a color printer but was seduced into the PC world and is now one of
+those megahertz guys.)
+
+(From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center http://home.att.net/~rmestel/commodore.html) 

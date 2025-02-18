@@ -1,0 +1,37 @@
+System log for account 962320 (icq) connected at 07.06.2007 20::20::33
+---- +++ 962320 hat sich angemeldet @ 2007-06-07 20:20:33 ----
+---- Schööfli hat den Status von Offline zu Abwesend geändert @ 2007-06-07 20:20:33 ----
+---- Schööfli wurde untätig @ 2007-06-07 20:20:33 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-06-07 20:20:33 ----
+---- Dominik wurde untätig @ 2007-06-07 20:20:33 ----
+---- shrike hat den Status von Offline zu Nicht verfügbar geändert @ 2007-06-07 20:20:33 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-06-07 20:20:33 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-06-07 21:23:31 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-07 21:27:23 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-07 21:27:54 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-06-07 21:40:17 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-07 21:46:49 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-07 21:49:28 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-06-07 21:52:14 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-07 22:36:29 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-07 22:39:25 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-07 22:46:40 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-07 22:48:55 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-07 22:54:28 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-07 22:56:30 ----
+---- Schööfli hat den Status von Abwesend zu Offline geändert @ 2007-06-07 23:04:40 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-07 23:09:31 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-07 23:14:33 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-07 23:16:50 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-07 23:26:30 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-07 23:26:45 ----
+---- tdr-timon hat den Status von Offline zu Nicht stören geändert @ 2007-06-07 23:31:24 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-07 23:35:51 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-07 23:36:24 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-07 23:46:06 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-07 23:56:00 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-06-07 23:56:52 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-07 23:57:00 ----
+---- +++ 962320 wurde untätig @ 2007-06-07 23:57:48 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-06-08 17:16:38 ----

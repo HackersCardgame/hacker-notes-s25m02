@@ -1,0 +1,258 @@
+THE FIVE CENT REVIEW:
+
+A Nickel's Worth of Opinion on Every Program I've Ever Used
+
+by Dick Estel
+
+A title like this obviously has to contain a certain percentage of hyperbole. My actual goal in writing this
+article was to present a capsule review of every program I've ever used enough to form a fair opinion.
+Where I feel comfortable doing so, I've provided a rating from 1 to 10, with 1 being best. In some
+cases I don't use the program any more because I use a PC program; but my assessment of the
+Commodore programs is still valid.
+
+My first word processor was Word Pro. I don't recall much about it, but it left a lot to be desired. I
+rented Pocket Writer from a local software rental store, and was highly impressed. It had WYSIWYG
+display, sorting capabilities, and a lot of other features. I ordered it in a package along with Pocket
+Planner and Pocket Filer, and used it for several months until it was displaced by The Write Stuff.
+
+The immediate advantage of TWS over Pocket Writer was the simple word macro feature, faster input
+(WYSIWYG displays are naturally slower than straight screen font displays), and much simpler
+command structure. I kept Pocket Writer for years before selling it; and it's an excellent program, but I
+never loaded it after I started using TWS. Write Stuff 2, Pocket 4.
+
+I had an earlier data base, possibly File Pro, that had very tedious data input. I set up my address file
+on Pocket Filer, which works great and is very flexible, but I've never updated it. In fact, this program
+offers a lot more power than the average user needs unless you are setting up a business-type data
+base. I finally just put my address list in TWS.
+
+Pocket Planner is used to keep track of my bank balance, my rental property, my budget, and to do my
+income tax computations. Like all the Pocket programs, it is a complex program with lots of features,
+and I don't use it enough to be familiar with most of what it can do. For the few files I do maintain, it is
+easy to use and has never given me any problems. A rating of 3.
+
+I bought SuperCat to catalog my growing disk collection, but ended up using the shareware program
+DCMR. SuperCat is about three times as much work to enter data, and offers fewer features. DCMR
+reads the filenames from the disk, then lets you delete or modify them, type in names from the
+keyboard, or eliminate a whole page of file names (useful when the disk has a lot of subordinate files
+that work with the main program but don't need to be listed). DCMR has the fastest sort routine I've
+seen in ANY Commodore program. There's a lot of flexibility in how you print out the lists. Rated 3.
+
+With all those catalogued disks, a label maker is a must. I tried Label Wizard, a favorite of many users.
+It's pretty simple to use, lets you save text (such as addresses), and uses Print Shop graphics.
+However, I ended up using geoLabel, which offers a lot more control over what the label looks like.
+GeoLabel is not nearly as easy to use as Label Wizard, but for a regular, experienced GEOS user, it
+doesn't matter.
+
+I'm not a computer artist but everyone usually ends up with a drawing program of some sort. I use
+GEOS almost exclusively, although I have dabbled with the drawing feature of Print Shop. I bought the
+OCP Art Studio/Advanced Art Studio package, which is very highly rated, primarily with the hope that
+my daughter, a talented artist, would use it. She's more comfortable with traditional materials, however;
+so I can't really report on this program. For original drawing, GEOS is fair for original creation
+(something I do very little of); very difficult for color drawing, and excellent for manipulating and
+modifying existing graphics. GeoPaint alone has a lot of limitations, but the various programs that have
+been created to augment and support it, make it the most flexible and versatile text and graphics system
+available.
+
+GeoPaint and geoWrite can be used together as a poor man's desk top publishing program, but the real
+star of this segment of the Commodore world is geoPublish. Although I created the club's newsletter
+using geoPublish for several years, it is such an extensive program that there are features that I never
+got into. It is not particularly intuitive, but the old fashioned technique of reading the manual and just
+sitting down and trying things allowed me to become very comfortable with the program after a few
+weeks of use.
+
+Before geoPublish there was Paperclip Publisher, a program that aspired to greatness and fell short.
+The basic operation of the program was fine, but it did not allow use of two drives or a RAM
+expander, making it the dead turtle of Commodore desktop publishing. Rated 8.
+
+Even before Paperclip, I tried out Outrageous Pages. On my scale of 1 to 10, I rate it a 12. Hard to
+use, strange on-screen interface, and just a dog in general.
+
+In the area of combining text and graphics, there are several programs that really don't have the features
+or power to qualify as desk top publishing programs, but do have their uses. These include Newsroom,
+Print Shop and PrintMaster. Although people have used Newsroom to create newsletters, it is very
+time consuming and in my opinion the printed output is not acceptable (rated 8). Print Shop (5) and
+PrintMaster (3.5) are very similar, with PrintMaster taking the prize because it lets you see what your
+creation looks like and you can save your file, two features Print Shop lacks. For signs, greeting cards,
+flyers, and the like, I always use GEOS, but Print Shop or PrintMaster come out of the box when I
+need a banner.
+
+I've used two pretty good directory organizers. My first choice is called Directory Assistance. After it
+loads the directory into memory, you can sort the entire list, sort a range of file names, move file names
+around, and insert divider lines. Only when everything is arranged as desired do you give the command
+to re-write the directory. Davis Directory Designer accomplishes the same task, and is also easy to use;
+I just happened to get a copy of Directory Assistance before I saw DDD. Though both rate a 3, neither
+will recognize a second drive, or my CMD hard drive. This led me to DEdit 7.1, available in both 64
+and 128 versions. Written to deal with hard drive native partitions, this program lets you select the
+drive, partition and subdirectory you want to work with. It is not actually as flexible in use as the older
+programs, but it accomplishes the job adequately. I give it a 4.5. (When I started using the hard drive, I
+had to switch to newer programs in several categories, because many of the older disk utilities don't
+recognize the HD.)
+
+For disk copying on Commodore 15x1 drives, it's hard to beat Maverick (rated 2). Fast Hack 'Em
+also works fine (rated 3), and offers the added benefit of a 128 version that will copy double-sided
+1571 disks. Neither one likes the hard drive, but the drive came with disk and file copy programs that
+are every bit as good as the old standbys. 
+
+For pre-hard drive file copying, I like the copier that is included in the Super Snapshot V5 cartridge.
+Although Maverick and Fast Hack'Em both have file copy capability, the SSV5 menu system just
+seems to be a little more logically organized. Once I put the hard drive into my system, I need a file
+copier that would work with it (SSV5 does not get along well with the HD at all). The program
+included with the drive, FCopy, works fine for all file copying. It's whole disk counterpart is MCopy,
+which copies to and from disks or partitions (both source and target must be the same format; i.e. a
+1541 emulation partition can be copied only to a 1541 disk or similar partition).
+
+Although it's not hard to load a program from a directory listing or by simply typing LOAD
+"PROGRAM",8, people have enjoyed making custom menus as long as we've had computers. My
+long-time favorite is the one we used on our club Disk of the Month, simply called Menumaker. It has a
+clean, easy to use display; and lets you give a short description of each program. Some menu programs
+automatically include everything on the disk, but Menumaker lets you chose the desired programs. This
+is a vital feature when you have a program such as Name That State, which includes 48 Doodle files,
+one for each continental U.S. state.
+
+With the hard drive I've been using a very nice program called EZ Loader Menu. In keeping with the
+way files must be organized on large storage devices, this program lets you include files from any
+partition and/or subdirectory, and loads them from the menu. Another useful feature is the ability to give
+the program a meaningful name on the menu display. This is important for programs that contain several
+files, and may load from something called "Boot", "Loader," or some other uninformative name. I rate
+this program #1.
+
+Telecommunications is not a major activity for me, but I've used several terminal programs. One of
+course was Q-Link's proprietary terminal/interface program, which is useless with anything but Q-Link,
+and therefore useless for the rest of time. I've forgotten what C64 term program(s) I tried out; in the
+128 mode I have tried Bob's Term Pro, DesTerm, and NesTerm. DesTerm was the best of these, with
+more features than I could ever use, but it had some problems working with my equipment, so I mostly
+used NesTerm, an older, simpler program. Since my BBS activity has always been very limited, the
+ability to save phone numbers in a file and autodial, which all these programs can do, is about all I ask.
+Another requirement is convenient upload/download capability, and most programs meet this
+requirement well. Ultimately I settled on Dave's Term, a program from LOADSTAR 128. Since it was
+a 1990's program, I assumed it would have all the latest capabilities. It does indeed--like all major
+terminal programs, it does a lot more than I will ever ask of it. When I used it to capture a lot of
+informational text from GEnie, the 60,000 kb buffer was a definite advantage. However, the program
+had serious problems displaying text on the Internet. (Rated 3)
+
+Uploading and downloading files from a BBS, including major on-line services like GEnie or Q-Link
+often involves compressing and uncompressing the programs. The most commonly used program of this
+type for Commodore has been ARC, including the self-dissolving version (SDA). Creating and
+dissolving ARC files and creating SDA's requires the use of a complex command structure, similar to
+MS-DOS. Arc Aid, a shareware program released a number of years ago by a high school age
+programmer, adds a menu-driven program to the basic ARC program, making it simple to create ARC
+or SDA files. Self-dissolving ARC files, as the name implies, are dissolved just by loading and running
+them. ARC files can be dissolved with Arc Aid, as well as some other utility programs. Arc Aid is a bit
+flaky in some of its functions, but when you know how to avoid these problems, it performs its work
+very well (rated 4).
+
+Another program that can dissolve ARC files is Omega-Q, a multi-purpose utility program distributed
+on Q-Link. In addition to dissolving ARC, LYNX and LIBRARY files, Omega-Q has a file copier,
+directory editor, and many other features. Omega-Q is available on many BBS's and club libraries, so
+the demise of Q-Link does not end the availability of this versatile program.
+
+Uploading and downloading GEOS files requires an additional step. To upload, they must be changed
+from the proprietary GEOS USR format to PRG or SEQ files. After downloading, they must be
+changed back. Several versions of a program called Convert are available to accomplish this. In the last
+days of Q-Link a programmer uploaded GeoPack, which not only does the conversion to and from,
+but also compresses and uncompresses the files. The convenience this version offers earns it a 2.
+
+Now we come to a broad, indistinct category I call "fun stuff." Few of these are games as such, and
+I'm not much for traditional computer games. These tend to be trivia type programs, many of them
+focusing on a specialized subject, and many of them were published on LOADSTAR.
+
+Anyone who came of age during the late 50's and fell in love with rock and roll will feel his/her pulse
+quicken at the sight of a title like "Who Sang Teen Angel," which covers music from the mid '50's
+through the '80's and presents you with a song title, and a multiple choice listing of artists. ("Teen
+Angel" was one of the first and probably the most popular of the "dead girlfriend" songs.) If the song is
+from the 50's or the 60's, I can claim 100%accuracy; later material sometimes presents a challenge.
+There are similar programs covering history, U.S. presidents, authors, world cities, world capitals, and
+state capitals. I'm still trying to beat the default high score on some of these, but I can get 100% on
+state capitals every time.
+
+A program I mentioned earlier, Name That State, offers a different type of challenge, requiring you to
+name a state after viewing an outline map. The state is shown in context of the entire continental U.S.,
+and the only place I had difficulty is with some of the small northeastern states (mostly because it's hard
+to see the shape of the smallest ones). I showed this program to my 10-year old grandson and a friend,
+and they got as excited playing it as they do with shoot-em-up arcade games. Needless to say, I didn't
+tell them it was educational!
+
+If you like card games, LOADSTAR is again the best source. They have published a few dozen
+solitaire games over the years, but my favorite is Our Own Klondike, on issue 120. The later versions
+have a great-looking, easy to use interface. And if you get frustrated because you don't win enough,
+hunt up Kato's Solitaire. You're almost sure to win! (I could not locate this with the LOADSTAR
+index program, but the time frame is during Kato's testimony at the O.J. Simpson trial.)
+
+After the previous paragraph was written, LOADSTAR did it again--on issue 138 they topped
+themselves with a mouse-operated version called Star Klondike. Individual cards and arrays are moved
+around simply by clicking and pointing. Anti-mousers can stay with the earlier version, but if you're
+addicted to rodent input, this game can be learned quickly and easily (although beating it is a different
+story!)
+
+The only other card game I play very much is Blackjack. I love to risk those big sums without really
+having to open my wallet! Of course, if you walk away thousands ahead, you can't spend it, but you
+don't have to wire home for bus fare when you lose! The best Blackjack game I have found is called
+Blackjack Tutor (you'll find it on the May 1991 Disk of the Month). There are of course many others,
+including Casino Blackjack on Loadstar 107.
+
+Another great program in the educational but fun category is Sky Travel. This astronomy program was
+published by Commodore itself, and is well worth hunting down if you have any interest in this subject.
+In addition to extensive astronomical information, the main part of the program is a sky map that lets
+you look at any part of the sky, at any time backward or forward for about 10,000 years. Of course,
+the first thing you want to do is set it for local coordinates (36 degrees, 44 minutes, 12 seconds north
+latitude; 119/47/11 west longitude for Fresno). This allows you to discover such information as the fact
+that the bright object crossing the southern sky all summer was the planet Jupiter. Or you can find out
+where to look for Scorpio while you're watching for Santa on Christmas Eve. The program includes a
+138 page manual which contains a vast amount of information in addition to instructions on how to use
+the program. This is more like 25 cents worth than a nickel, but it would take several pages to write a
+review that really does justice to this great program.
+
+A program that sounds like it might be related (but is not) is Time Traveler. In effect, TT is a data base
+of news events, prices, and other information about each year of the century. When you run it, TT asks
+you for your name and a date, and whether this is a birth date or wedding date. The program then
+displays average salary, average cost of a new house, and prices on a number of other items, both for
+the year specified and for 1989 (the year I purchased my disk). In addition you will learn who won the
+major Oscars in that year, who was president, who won (and lost) the World Series, and several major
+news items from the time. The information can then be printed out in a nice format. This is a fun
+program (rated 3), but as time goes on, the comparisons are getting more and more out of date. A letter
+to the company a year ago did not return but was not answered.
+
+One of the favorite uses of a computer is to catalog one's family tree in a genealogy program. I tried
+several of them, and found only one that I felt was worth the effort--Personal Ancestral File (PAF).
+This program was produced by the Church of Jesus Christ of Latter Day Saints (Mormons), and my
+version works under the Commodore 128's CP/M mode. This version will actually run on just about
+any CP/M computer. It allows printing of all the standard genealogical displays: Ancestral tree,
+descendent chart, family groups, etc. There are quite a few commercial and public domain genealogy
+programs, but this one is worth hunting down.
+
+
+Anyone who uses GEOS even half-way seriously ends up using some of the literally hundreds of
+programs that have been created as public domain, shareware or commercial offerings to make GEOS
+easier and more fun. Dozens of these programs are worth having. I guess my number one favorite is still
+geoWizard, Jim Collette's task switching utility. This lets you open any application or desk accessory
+from within another one. Included in the package is MiniDesk, an excellent desk accessory that lets you
+copy to and from any of three drives.
+
+A program I can't live without is Paint Scrap by Dennis Seitz. This application allows you to clip any
+size photo scrap, up to the full page, from a geoPaint document.
+
+Another neat little goody that I use regularly is ScrapGrab. One of the limitations of the Photo Manager
+is that it only operates on scraps and albums on the same disk. ScrapGrab and PhotoGrab can be used
+to copy a scrap from an album on any of three drives, and save it to the drive it was launched from.
+Since ScrapGrab is a desk accessory, it's useful when you're working on a geoPaint document and
+realize you need a scrap from another disk. You can click on GEOS, click on ScrapGrab, and get the
+needed clip without leaving geoPaint. PhotoGrab is an application that has to be run separately, but it
+can capture a larger scrap.
+
+Programmer Nate Fiedler created a program similar to, but in some ways better than, geoPaint, called
+geoCanvas. Although it was a commercial program, Nate released it to public domain when he went on
+to other pursuits. Its best feature is the ability to open three windows, which can be three different
+geoPaint files, or three views of the same file.
+
+As this article was being completed, Maurice Randall's Wheels came on the scene. This is a significant
+revision of the whole GEOS operating system. The initial 64 release was essentially a beta version, so it
+is a bit early to give this program a full assessment. I think it will prove to be essential for people using
+GEOS on a hard drive or RAMLink system.
+
+There you have it, more than you ever wanted to know about over three dozen Commodore programs.
+With thousands available, this just scratches the surface--but out of this batch, you could find enough
+programs to make your Commodore do probably 90% of what most people would want from this
+seemingly immortal machine.
+
+From "The Interface," newsletter of Fresno Commodore User Group, via The Commodore
+Information Center web site (http://home.att.net/~rmestel/commodore.html) 

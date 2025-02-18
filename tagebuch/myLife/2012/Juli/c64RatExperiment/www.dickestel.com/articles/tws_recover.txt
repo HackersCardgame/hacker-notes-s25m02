@@ -1,0 +1,54 @@
+RECOVERING FROM WRITE STUFF LOCKUPS
+
+Although The Write Stuff is one of the most stable programs I have used on the Commodore,
+occasionally the computer locks up. Uh oh, did you save the last ten pages of the great American
+novel?
+
+If not, don't cry yet. There are two simple, documented recovery techniques that work 90% of the
+time. If you have lost all cursor movement, first hold [RUN/STOP] and press [RESTORE]. Most of the
+time this will take you back to BASIC. At this point, type RUN and press [RETURN], and in most
+cases you will be back in TWS with your text intact (hint: SAVE it now!).
+
+If this does not work, try the following from BASIC:
+
+TWS 64:: type POKE 787,234:SYS2130, and press [RETURN].
+
+TWS 128: type POKE 787,234:SYS7250, and press [RETURN].
+
+This information appears on page 8 of the TWS C64 manual, and page 5 of the C128 version. The
+writer says "if you accidentally reset your computer, POKE....etc." However, a true reset by pressing
+the reset button could cause complete loss of the text. This will almost certainly happen with the C128 if
+there is a disk with a bootable program on it in the active drive.
+
+I tested this by resetting my C128 after saving this file, then using the POKE/SYS, and it came back up
+in the text, but there are some strange things happening that I have seen before that are sometimes a
+sign of further problems. The same thing happened using TWS64 on the 128 in C64 mode. In this case,
+note the last paragraph.
+
+Commodore writer Jack Blewitt, in an article published in the September 1995 Commodore
+Compendium (Cleveland Computer Society), reports another fix: A user was experiencing lockups,
+and the techniques above did not work. Jack discovered that if you accidentally hit the [RESTORE]
+key, it will lock up; pressing the [COMMODORE] key allowed a full recovery.
+
+(I tried this on the C128 in both modes, but pressing [RESTORE] caused no problems at all.)
+
+Our Write Stuff Companion disk contains a program to help recover lost text when all else fails. It
+requires very precise steps in just the right order. The printed TWS Companion book contains
+information about this program.
+
+I have experienced unrecoverable lockups when working in TWS and using the "print to memory"
+feature. There seems to be no problem with doing a "print to memory" three or four times, but when I
+have done it repeatedly, (usually when testing some tricky formatting), the program becomes corrupted.
+Prevention being far more effective than cure, I now save the program any time I use this feature.
+Saving your data frequently is always a wise move, no matter what program you're using.
+
+Another useful hint: If you seem to be having problems and you have already saved your file, use a
+different name for future saves, in case your file is bad. Ironically I experienced just such a problem
+while writing this article--the cursor would not go to the bottom of the file, but stopped after the words
+"use a different." I saved and reloaded it, and the text below that point had disappeared. Kind of gives
+you a chill, doesn't it?
+
+--Dick Estel
+
+(From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html)

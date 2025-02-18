@@ -1,0 +1,31 @@
+1571 Drive Tip I
+
+by Don Goetham
+
+I've noticed when doing alignment on the 1571 that sometimes the drive is actually not out of alignment
+at all. Rather, it appears that the retaining ring which is supposed to hold the disk in place doesn't seat
+completely. The result is that disks don't boot and it seems that the drive is out of alignment.
+
+I've tried oil and other lubricants with little success. Here is what I have found to work almost 100% of
+the time. After you insert a disk into the 1571 and turn the lever to the closed position, nudge the disk
+once or twice. You may hear it "click" into position, or feel it jump into a correct seat. Try this the next
+time a piece of software won't boot. If it still doesn't help, then you may indeed need alignment.
+
+(From the Lucky Report 8/96 via NOVACOM Random Bits)
+
+Tip II
+
+My 1571 disk drive had a problem formatting a new disk, also saving a file to disk. But it would load
+files with no problem! Hmmmmm. In the disk drive, a photosensitive switch paired with an LED light
+source indicate whether the disk is write-protected. The signal this setup produces is sent to a chip that
+enables the drive's write capabilities. During normal use, a write-protect tab applied to a disk prevents
+the LED light from reaching the detector. Then the switch sends a signal that the disk is write-protected,
+and the drive won't write to the disk. Without a tab, the disk is write-enabled (you can write to the
+disk). 
+
+Failure on the part of the write-protect circuitry will prevent the disk drive from writing to the disk, even
+if you are going to format or save. After you attempt a drive operation, a blinking light on the front of
+the drive may be a clue that such an error has occurred. A qualified technician can determine whether
+your problem is with the LED or the drive's electronic circuit.
+
+(from the Lucky Report, via 10/96 Computer Compendium, via NOVACOM Randm Bits 11/96)

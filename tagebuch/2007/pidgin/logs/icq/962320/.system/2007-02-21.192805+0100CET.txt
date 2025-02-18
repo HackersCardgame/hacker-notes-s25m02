@@ -1,0 +1,28 @@
+System log for account 962320 (icq) connected at 21.02.2007 19::28::05
+---- +++ 962320 hat sich angemeldet @ 2007-02-21 19:28:05 ----
+---- michi hat den Status von Offline zu Abwesend geändert @ 2007-02-21 19:28:05 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-02-21 19:28:05 ----
+---- Schööfli wurde tätig @ 2007-02-21 19:28:05 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-02-21 19:28:05 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-02-21 19:28:05 ----
+---- michi wurde untätig @ 2007-02-21 19:30:23 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 2007-02-21 19:36:59 ----
+---- +++ 962320 wurde untätig @ 2007-02-21 19:28:06 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-02-21 19:40:47 ----
+---- dikyangel wurde untätig @ 2007-02-21 19:40:48 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-02-21 19:40:49 ----
+---- dikyangel wurde tätig @ 2007-02-21 19:40:49 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-02-21 19:42:28 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-21 19:51:49 ----
+---- michi wurde tätig @ 2007-02-21 19:51:49 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 2007-02-21 19:53:30 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-21 19:53:52 ----
+---- shrike wurde untätig @ 2007-02-21 19:53:52 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-21 19:54:05 ----
+---- shrike wurde tätig @ 2007-02-21 19:54:06 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-21 19:57:19 ----
+---- michi wurde untätig @ 2007-02-21 20:02:14 ----
+---- +++ 962320 wurde untätig @ 2007-02-21 20:00:59 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-02-22 17:26:50 ----

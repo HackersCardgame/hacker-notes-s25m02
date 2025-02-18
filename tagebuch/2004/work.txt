@@ -1,0 +1,150 @@
+
+
+// Where shall I begin...
+
+// where should it end?
+
+// Zielsetzung: gethering world domination...
+
+// sollte man nach ingenieurethischen Grundsätzen nur so weit entwicken, dass es ein Mensch in einem Leben reproduzieren kann?
+// Wenn nicht, welchem System würde solche Technologie unterstehen? Was stünde darüber?
+
+
+
+
+
+
+
+Reverse Engeneering im eingentlichen Sinne: Java zum Schreiben eines Assemblers...man spare sich bitte die Kommentare...
+
+
+// Übersicht
+// ************************************************************
+0. Prozessor
+1. Mainboard
+2. BIOS (Kein ASSEMBLER DRINN --> Hardware suspicious)   EIGENES BIOS IST EIN MUSS!
+4. ASSEMBLER
+4. BS (Memory Management)
+4. C  language (über Mnemonic oderr direkt über Maschinencode)
+        int ASM für schnellen Code einbinden oder C = ASM)
+5. Integration of Copyrighted DOS / WINDOWS Libraries ?
+
+
+// 0 HARDWARE
+// ************************************************************
+0. Prozessor
+
+// Allzweckregister 
+// --------------------------------------------------------------------------
+// ax, bx, cx, dx (8/16//32) / bp, di, si, sp (16)
+// 
+// Segmentregister (Hilfsregister Adressierung)
+// --------------------------------------------------------------------------
+// cs, ds, es, ss			Segmentwert : Offsetwert	Segmentregister : Allzweckregister	2000h*10h + 1234h 	Normierung, public?	Direkte adressierung im Assembler mit 21234h möglich?
+// fs, gs				386++
+// ds				DatenSegment, bis 1MB XXXX:(XXX)X, doppelte Adressierung verhindern, folglich EMS (Expanded Memory Specification)
+//				d.h. über 1MB durch ext./exp. memory manager? fenster bzw. page frame über int 67H 
+//				nicht zu verwechseln mit Extended Memory Specification welcher für das ablegen von daten, nicht aber von ausführbarem code verantwortlich ist.
+// cs				CodeSegment ???
+// IP und Flag Register
+// --------------------------------------------------------------------------
+// flag register			kann nicht einzeln abgefragt werden, steuerung / stustände des prozessors, z.b. 0-Flag (aus dem englischen Zero Flag) für Sprungbefehle
+// ip
+// Pointer Register
+// --------------------------------------------------------------------------
+// sp (stack pointer) push pop		verwalten beiden den Stack
+// bp (base poninter)
+// Index Register
+// --------------------------------------------------------------------------
+// si (source index)			index register
+// di (destination index)		index register
+// Speicherbereiche
+// Bereich bis zur alten DOS-Grenze 640k
+// ************************************************************
+// bis 0:400	BS interrupt Vektoren
+// ab 0:400h 	BIOS Datenbereich
+// ab 0:500h	DOS Bereich
+// 		häufige BS routinen 
+// 		dann Geräte treiber
+// 		TSR Teil von command.com
+// 		Anwendungsprogramme etwas mehr als 500kByte
+// Bereich zwischen 640k und 1M
+// ************************************************************
+// Ab A000:0 	Bildschirmspeicher, div. Bildschirmnormen/ -modi, grafikkarte liest aus diesem Fenster		(weshalb nicht gleich über die I/O Leitung auf die Grafikkarte schreiben? freeze, wie sieht das ab windows nt aus)
+// (C800:0)		weiterer fürs ROM reservierter Bereich, Hardware Erweiterungen bei XT ab C800:0 --> ROM für das Festplatten-BIOS
+// FE00h:0 	BIOS-ROM, Betrieb und Überwachung von Tastatur, Bildschirm und Massenspeicher
+// letzten 16 Bytes	Startsequenz für CPU
+// Über 1MB, HMA und Extended Memory ab der 21. Adressleitung (A20) (für 8086/8088 nicht erreichbar) (A20 bei MSDOS gesperrt) (das heisst, sie lassen sich nicht via segment:offstwert ansprechen) (abgesehen HMA UMBs, warum, 8086?) (rest daten)
+// ************************************************************
+// ab FFFFh:Fh			das heisst darüber
+// FFFFh:10h bis FFFFh:FFFFh		1Mb bis 1Mb+64K können noch als normaler Anwendungsspeicher genutzt werden aka HMA
+// btw: mnemonics, mnemonisch kommt von Mnemo'technik, Technik um das Gedächtnis mittels Lernhilfe zu stärken		z.B. Abhandlung über impedanzen an adressleitungen, 3state...
+// 89F9h = mov cx, di
+
+1. Mainboard
+2. BIOS (Kein ASSEMBLER DRINN --> Hardware suspicious)
+
+X. Der ideale PC währe wohl ein integrierter Chip (CPU, GPU, DISK, IO...) wäre wohl billig LMTxxNJ ... z.B. stmp3410
+X. Softwareprogrammierung lohnt erst ab einer gewissen Hardware Zahl
+
+// 1 ASSEMBLER
+// ************************************************************
+// 0. Compiler Direktiven (z.B. "Multitasking" ab 386, BS-Modus wechseln z.b. 8088-MODE schliesst die neuen Funktionen aus.)
+// 1. MNEMONICS
+// 2. Dez und Hexwerte berechnen, Veriabeln
+// 3. Mnemonics überprüfen
+// 4. Logikfehler korrigieren -- ???
+// 5. Optimierung des CODES, oder intelligent assemblert, verschlimmbessern ? SI-Normen? Register reihenfolge... SI?
+// 
+// X. Vorwärtssprünge zuerst fantasiewerte
+
+// Angabe von Segmentpräfixen für symbolische Adressen aus dem Code-Segment he?, ZH HBHF?
+// Cross-Reference, Source Listing und Objekt File für Debugger/Decompiler und zugriff ala dll? somit steht die Frage offen, ob der C-Compiler über Mnemoncs geht oder eher nicht
+// Fehlermeldung zu laufzeit oder danach, errors / warnings
+// 
+
+// .com Dateien nur für jmp near bis 16 bit --> 64k maximal --> 64k demo
+
+
+// 4 LINKER für EXE Dateien, grösser 64k, JUMP far
+// ************************************************************
+// Assembeler generieren Objektcode (.obj), dieser muss mit LINK.EXE (beim MSDOS dabei) zur EXE "gelinkt" werden
+// Setzen von cs und ds ?
+// multitaskingfähiges DOS --> Memory Dump in den Extended Memory ?
+// enthält der Objektcode kein Stack segmen, wird der stack in einen bereich des BS verlegt
+// List File, .map ; Libraries, .LIB und die EXE
+
+
+
+
+/*
+-----------------------------------------------------------------------------------------------------------
+PRINT_CODES:
+  MOV DX,PRN_NAME	; point to the printer's device name			:	BA 18 01
+  MOV AX,03D01		; MSDOS codes for "open for writing"			:	B8 01 3D
+  INT 33			; call MSDOS to open the printer device		:	CD 21(h)
+  XCHG BX,AX		; swap the printer's open-file handle into BX		:	93		::	könnte auch AX,BX sein, egal
+  MOV DX,CODES		; point to the codes we are outputting			:	BA 1c 01
+  MOV CX,LENGTH		; load the number of code bytes				:	B9 01 00
+  MOV AH,040		; MSDOS code for "write"				:	B4 40
+  INT 33			; write the codes to the printer		:	CD 21
+  MOV AX,04C00		; MSDOS codes for "successful process termination"	:	B8 4c 00
+  INT 33			; go back to the operating system		:	CD 21
+
+PRN_NAME:
+  DB 'PRN',0									:	50 52 4E 00
+
+CODES:
+  DB 0C 	            ; single form-feed for the PAGE program		:	0C
+LENGTH EQU $-CODES
+-----------------------------------------------
+	: man könnte per db programmieren :
+*/
+
+
+// Ausführung: lookup table, --> bidirektional
+// unterscheidung zwischen mov eax, mov ax, mov ah...
+
+
+
+

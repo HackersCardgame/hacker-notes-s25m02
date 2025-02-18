@@ -1,0 +1,44 @@
+Tagebuch Sa Aug 3 04:41:19 CEST 2019 @ debian
+
+
+https://www.youtube.com/watch?v=8JeMoGxOyUU
+
+Special 22K Subs! FT - Cyanide Vice
+
+hypothese zu industrial dance wie z.B. eisenfunk, obigs video könnte man
+als möglcihes bdsm zeugs interpretieren, wo das weibchen die devote rolle
+hat oder sogar möchte
+
+ah ja die menschen sind ca 10 jahre jünger als 41
+
+dann irgendwann sieht es, dass bdsm ohne liebe mit nazi typen nicht so
+toll ist wie das wäre wenn beide drum betteln würden die devote rolle haben
+zu dürfen... also macht sie das womit sie dem nazi am meisten schaden kann
+sie geht mit einem ausländer fremd und in einigen fällen gibt das nur
+hass gegen ausländer (somit ist er für immer gefangen in seinem hass)
+und im schlimmsten fall -- irgend eine komische teddibären stimme, la la la, schi schi schi -- hmmm, ob der teddy alleine ist... im schlimmsten fall würde
+der amok laufen und z.B. ein aslyantenheim abfackeln...
+
+>doofer< Teddybär: diogenes... du blöder möchtegern lateiner...
+
+ich: selber doofer angeber teddy
+
+
+
+https://www.youtube.com/watch?v=xG35dEjyOJ0
+
+
+msdb && nazi && nazi-häuchlerin && alien => segfault
+https://www.youtube.com/watch?v=xG35dEjyOJ0
+
+
+
+
+
+Tagebuch Sa Aug 3 08:02:21 CEST 2019 @ debian
+
+
+git remote rename origin old-origin
+git remote add origin https://groot.dnsfor.me:4432/pri/cbftp-r1037.git
+git push -u origin --all
+git push -u origin --tags

@@ -1,0 +1,73 @@
+
+
+hab jetzt das 4x angehört. Da ist irgend ein "Hexenzauber" daruf, der verhindert, das ich da die Information schnell erfassen kann.
+=> bei solchen Dingen sagt mein Gehirn automatisch: wait a moment, beim 4. mal bin ich dann vom Computer weg und hab mit Papier-Notizen mitgeschreiben (Methoden-Kompetenz)
+
+Auftrage des Ausschusses / Fragen:
+* Sind Presse und Regierung da rein geraten?
+* Wie weit war das bekannt?
+* Wer hat die Verantwortung fürs Durchwinken?
+* Hat BND nur die Leiter gehalten?
+=> in CH wäre es der NDB, bzw. auch der Militärsiche Nachrichtendienst MND
+
+
+Martina Renner: "Dass dort politische und wirtschaftliche Spionage gemacht wurde"
+=> habe ich bei den ersten 3x irgendwie nicht gehört, wurde abgelenkt. Technisch: EventTrigger wie KapitelMarken oder komplett separat geführt z.B. mit Spracherkennung. Bzw. der DTMF Telefon-Knopf Ton auf der Aufnahme ist allenfalls der Event-Trigger??? noch unklar.
+
+Dann redet Frau Renner aber auch der Moderator immer nur von #Überwachung. Überwachung impliziert immer "nur lesen". Aber wie grad oben ausgeführt ist das nicht nur lesend, das ist interaktiv und dynamisch.
+
+Überwachung ist ein #Neusprech: "lesend Zugreifend"
+
+Das NSA Projekt "Strategic Mission J" und das Projekt "Strategic Mission K" hat aber nicht nur lesend zugegriffen. Werde ich weiter unten ausführen.
+
+
+RESULTATE:
+----------
+* Es hatte für niemanden Konsequenzen [1]
+* Straftaten die begangen wurden wurden nachträglich mit änderung des Gesetzes legal gemacht [1]
+* Die Mitarbeiter des Untersuchungsausschusses haben Angst vor den Geheimdiensten [1]
+ - Fall Julian Assange (Einschüchterung Aller)
+ - Eventuell greift das NSA-Grid / NSA-Bot-Netzwerk auch auf Endgeräte des Ausschusses zuhause zu und schüchtert diese personalisiert ein
+* Renner: "Das mit den Ausschüssen ist schlimmer und schlimmer geworden" [1]
+
+
+[1] Keine Konsequenzen:
+-----------------------
+Man muss sich so ein Management-Cockpit welches nicht nur Informatik steuert sondern auch Personen-Netzwerke (HUMINT) als etwas dynamisches (Mathematik :: SystemDynamics) vorstellen. Also da sind ein ganz super-duper mächtige die "Risiko-Bewertung" machen in welchen Situationen grössere Teile dieses Netzwerks auffliegen. Mit so ähnlichen Algorithmen wie in 3D Game-Engines kann man auch vieles schon automatisieren. zB. wenn ich so einen Text schreibe geht bei mir auch immer schon wieder der Vollterror los und draussen hat es dann irgendwelche Idioten die Motoren aufhäulen lassen oder irgend ein Nachbar knallt die Tür so laut dass ich in halbe Schock-Starre falle und alles solche "nette" Dinge. Dann in der NSA Datenbank sind auch Dinge drin die man ausgefressen hat, und die werden dann (allenfalls sogar automatisiert) zum dümmsten Zeitpunkt wieder abgerufen. Also das wäre so eine Erpresser-Datenbank. Diese Dinge kommen praktisch nie zur Anklage, weil Anklage hiesse (unfreiwillige) Beichte und Sühne und würde den Eintrag unbrauchbar machen. Also nochmals mein Plädoyer für radikale Ehrlichkeit, weil sonst hat man Denkblockade nach Denkblockade.
+
+
+Möglichkeiten das zu korrigieren:
+* Frau Renner: Über das Budget diesen Abteilungen die Mist bauen die Möglichkeiten nehmen
+* Diese Dinge öffentlich machen (Sagt Frau Renner auch)
+ - OSINT (Open Source Intelligence)
+ - Citizen Science
+ - Open Access
+ - Meine Texte kann man komplett öffentlich stellen, inklusive Name, da hab ich null Problemo damit.
+   Willensäuserung: ich Stelle meine Texte hier unter "Creative Commons BY SA NC"
+
+Bzw. mein Sprachzentrum ist leicht geschädigt, also falls jemand Lust, Zeit hat, gerne diese Dinge noch korrigieren. Dadurch dass ich im Sprachzentrum leicht behindert bin musste ein anderer Teil das Kompensieren. Also der Teil der für Logik zuständig ist leistet mehr als üblich
+
+
+Also für Zeugen wie mich die zB. damals schon Spurgen zur "Strategic Mission J" (Wirtschaftsspionage) gefunden haben, das vor Snowden, das sogar vor 9/11 läuft dieses "nette" Spiel was kein Spiel ist schon länger. Dann z.B. das doppel-Schlüsselwort "Präzedenzfall NSA" mögen die nicht so, wenn man das Tippt oder sagt geht auch oft der Voll-Terror los. Auch im Strassenverkehr wie der Andy Müller-Maguhn berichtet hat sind dann selbst Nachts an einer Kreuzung da viel mehr Autos als da sein dürfte. Ich bin dem Andy so dankbar dass er das verpetzt hat, denn das passiert bei mir auch. Also ist schon so etwas wie eine Game-Engine die mit den Überwachungsdaten gefüttert bzw. gesteuert wird.
+
+Priorität:
+=========
+Jüngere warnen: KEIN SPIEL, LEBENSGEFAHR
+
+
+Dann etwas was der Julian Assange sagt: "I'm reading Generals eMails since i was 17" -- das ist eingentlich eine Metapher, ein Geheim-Code, dass einige eher junge Mitarbeiter in Firmen die selben Zugänge auf das Management Netzwerk auf ihrem Neuralink aktiviert bekommen wie die Chef-Etagen. Jüngere Menschen (und auch einige ältere) haben meist ihr Moral- und Werte-System noch nicht über Board geworfen, petzen deswegen so wie sie das für moralisch korrekt halten.
+
+Equation CANT BE SOLVED without accepting existence of technology like @neuralink
+
+Management Access / Full View / Ganze Sicht auf z.B. Firma, Schule, Uni, Wohnheim mit etwas wie Neuralink [2] kann das Kind / Junge Mensch logischerweise nicht selber aktivieren. Damals mit 20 hätte ich mir auch nicht selber so hohe Access Codes geben können, da ist immer noch unklar wer mir diese bei ABB Flexible Automation AG gegeben hat. Also so etwas wie Usermanagement das es in den meisten Betriebssystemen gibt (und jetzt bitte keine #Linux blah ist besser als Windows blah, die haben Backdoors für alle Betriebssysteme)
+
+[2] Das 1950er Implantat heist Stimmoceiver, remote, nur 1 lesende und 1 schreibende Elektrode, konnte noch wenig, aber wenn man da jetzt auf der Gegenseite heutige moderne Informatik anschliesst könnte man selbst mit so einem Ding mehr machen als man damals damit konnte. Das Ding wäre aber ein endgültiges Security Nightmare weil Analog und das wird man nie mehr sicher bekommen
+
+ -> siehe José Manuel Rodríguez Delgado, Physiologe und Professor an der Yale University
+
+
+MERKWüRDIG
+----------
+nach 13 min apruptes Ende des Audio-Files? Gibt's da noch eine längere Version? ev. nur bei mir qFire, TURBINE, TARMOIL, QuantumTheory oder mein Endpoint der Mist baut?
+
+

@@ -1,0 +1,126 @@
+Testing the Epson Stylus with the Commodore 
+
+by Dick Estel
+
+With prices dropping to reasonable levels, Commodore users began venturing into the ink jet printer
+world a few years ago. Experimentation and study of available information has led most Commodore
+users to the various printers sold by Canon. You can find reviews of various models in back issues of
+The Interface, LOADSTAR, Commodore World and other publications.
+
+I acquired a Canon bubble jet with my first PC in the fall of 1996. It made good quality printouts, but it
+seems to have a strange feature--every so often it thinks it is out of paper, and refuses to print. You can
+take the paper out, put it back in, push on the spring operated piece of plastic it rests again, turn the
+machine on and off, and it still stubbornly declares that there is no paper. The usual solution is to turn
+everything off, do something else, then try again the next day. At this point, it normally works to
+perfection. I know two other users who have had this problem with their Canon's.
+
+In the spring of 1997 I began reading about a new Epson printer, the Color 600, which claimed to use
+a new technology to produce finer dots, and to print color pictures on glossy photo paper with no
+special cartridge, achieving "near-photographic" results. At that time many printers required a special
+ink cartridge to use photo paper. Considering the Canon's faults, and relatively poor color quality, I
+developed a serious desire for the Epson.
+
+Being a new product, stores were asking full list price for it, but finally in August I found it for $20
+lower, and brought one home. The first one I owned gave me some serious problems after about two
+and a half months--the printed format would print offset from the actual paper, so that only about half
+the image actually printed.
+ 
+I phoned the Epson company, and after the obligatory journey through several levels of voice mail, I
+talked to a nice lady who told me, since I had bought the printer just under three months ago, that I
+qualified for Epson Road Service. It turned out that this meant they would send me a new printer
+immediately, I would receive it tomorrow, and my only obligation was to pack up and return the old
+one at their expense. Sure enough, the new printer came the next day; the old one went back, and I
+have had no problems of any kind since (November of 1997).
+
+The Epson Color 600 offers excellent single-sheet paper handling. I print the address and the message
+on our post card notices with it, and the cards go through without a hitch. I have printed video tape
+cassette labels, the kind that come on a wax paper type backing with several different size and shape
+labels. The acid test is the sheet I use to print labels for envelopes. Labels for an ink jet come in a sheet
+of a dozen or more, depending on size. Mine have 30, and I rarely need 30 labels at a time. But I also
+hate sending a nice printed letter in an envelope with a label written by hand or typed on my antique
+Royal portable.
+
+I finally decided I could print the labels I need, one or a dozen; then run the sheet again, starting where I
+left off (it involves entering returns till I get to the row and column where I want to start). I ran this sheet
+through the printer at least 10 times, and in the end it was showing a bit of wear and tear, but it went
+through like a charm every time.
+
+Epson printers have generally been described as not working well with Commodore. I detest moving
+any equipment, but I felt an obligation to test this printer on my C-128. So I spent a couple of hours
+connecting it to my C-128 via the Xetec Super Graphix Gold interface, and testing various programs. I
+left the interface just as I use it with my Star NX1020 Rainbow, which is transparent mode, no
+linefeeds. This works with The Write Stuff , GEOS, and most other programs.
+
+The first test, with TWS, produced perfect results. I follow author Eric Lee's advice to "put your
+interface in transparent and select true ASCII" in the printer setup screen of TWS. The only concession
+I made to the ink jet was to set it for 62 lines instead of the normal 66. I got a nice, dark printout with
+no visible jaggies. The Epson understood all the same formatting commands I have been using with my
+Star 1020 Rainbow for years--centering, bold, proportional print, and various font sizes.
+
+Next came graphics, which I was certain would be the true challenge. All graphic printing tests
+produced an elongated image that ran onto a second page, with one exception that I'll get into shortly.
+This has been a common experience for Commodore users with ink jets and 24 pin printers.
+
+I started with GEOS, using the drivers that have been recommended for Canon bubble jets. The results
+were "interesting" to say the least. The color driver, Epson24PinColor printed the full page graphic that
+I tried. The only problem was that it printed a one and a half-inch strip of the graphic, then a bunch of
+garbage letters, another short strip, then lots of garbage, then another strip and so on. I turned off the
+printer after 21 sheets had gone through the printer, some of them containing only three characters.
+
+Next I tried the recommended black & white driver, Epson 8-Pin 80 DPI, which made a very light
+picture, like a watermark, elongated and run over to the first two inches of a second page. I suspect the
+light results were due to the printer having no way to fill in the spaces between the large, widely spaced
+dots of the Commodore as opposed to the PC graphics it is designed for.
+
+Next was Epson8-Pin3Pass, the driver I use most with my Star, and the driver I recommend to
+everyone who prints from GEOS on a non-Commodore printer. This produced results of normal
+"darkness," but sections of the page were printed about a quarter inch offset from the section above
+and below. It ran onto a second page.
+
+The final GEOS effort was with the color driver I normally use with the Star, Epson 8-pin color. This
+created a printout in which the saturated colors went pastel, but everything lined up fine. It just needed
+14-inch paper like all the graphics I tried.
+
+Two tests to go: Print Shop and PrintMaster. For each program I entered the printer setup mode and
+chose the only Epson model shown. The test sheets for both printed OK, but they are both only a single
+line across the top of the page. I created a simple card with each program. Print Shop printed half the
+card, then everything locked up. PrintMaster produced the entire card, but as expected, with vertical
+stretching that would have fit on 14 inch paper.
+
+
+I also tried the little program that has been published in The Interface and other newsletters that is
+supposed to overcome the elongated printing with 24-pin printers. This produced no improvement.
+
+Conclusions? Since I had no intention of using this printer with my Commodore, I did not experiment
+with DIP switch settings. This would probably have had little success, since the vertical distortion was
+the main problem. I believe there are ways to change the line spacing, which might overcome this
+problem. The failure of the program to change spacing could have several possible causes--a misprint in
+the source; the application program or the printer undoing whatever it did (it must be run before the
+program is loaded), or just not meant to work with ink jets.
+
+Nearly any ink jet will give good text results. The special quality of the Epson Stylus 600 is its color
+graphics capabilities. Considering this, it is probably overkill to buy this printer for use with a
+Commodore.
+
+POSTSCRIPT:
+
+Several months after completing the first draft of this article, I learned of some other GEOS drivers that
+are supposed to work well with ink jet printers. None of them worked; one locked up everything, and
+the others produced garbage. (For the record, the drivers are Bjet/LQ1 (the lockup), Deskjet-LQ, and
+Deskjet+.)
+
+Now I decided to throw all caution to the wind and took my Star out to the living room and connected
+it to the PC. Remember, although Star was once a big supporter of Commodore, this and most of their
+printers were intended to be connected to a PC. The Star handled text, including unusual and large
+fonts, quite well, producing results that were better than it does with the Commodore. This is not
+surprising when you consider this: When you buy a PC with the latest version of Windows, you get the
+latest version of dozens of printer drivers. When you use the printer with the Commodore, you are
+using drivers that were mostly written about 10 years ago.
+
+The results with color photos were way too dark and unacceptable for any use. However, simple color
+artwork printed with acceptable color, although there are noticeable stripes from each pass of the print
+head.
+
+All printing from the PC to the Star was very slow--about the same speed as with the Commodore. 
+
+From "The Interface," newsletter of Fresno Commodore User Group 

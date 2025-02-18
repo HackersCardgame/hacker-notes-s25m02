@@ -1,0 +1,10 @@
+System log for account 962320 (icq) connected at 13.05.2007 18::02::27
+---- +++ 962320 hat sich angemeldet @ 2007-05-13 18:02:27 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-05-13 18:02:28 ----
+---- Dominik wurde untätig @ 2007-05-13 18:02:28 ----
+---- michi hat den Status von Offline zu Abwesend geändert @ 2007-05-13 18:02:28 ----
+---- michi wurde untätig @ 2007-05-13 18:02:28 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-13 18:02:48 ----
+---- Dominik wurde tätig @ 2007-05-13 18:02:48 ----
+---- FairyLady hat den Status von Offline zu Abwesend geändert @ 2007-05-13 18:05:02 ----
+---- FairyLady hat den Status von Abwesend zu Offline geändert @ 2007-05-13 18:05:31 ----

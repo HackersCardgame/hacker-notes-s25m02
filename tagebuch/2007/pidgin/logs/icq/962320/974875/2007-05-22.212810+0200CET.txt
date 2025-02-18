@@ -1,0 +1,8 @@
+Conversation with 974875 at 22.05.2007 21::28::10 on 962320 (icq)
+(21:30:08) landev: weisch du eventuell wie asi d startadresse vom ne progi finde im gdb
+
+--------------------
+gdb /bin/true
+disas 0x???? 0x????
+------------------
+oder wie asi irgendwie vom ne progi chan de assembler code azeige lo...

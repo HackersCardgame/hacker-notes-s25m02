@@ -1,0 +1,71 @@
+Tagebuch 19:41 05.11.2008
+
+Heute ist einer der Tage an dem ich besser zu hause geblieben wäre:
+
+Stress, mit der Umschaltung auf Digital Pakete, fehler die sich nur beheben lassen mit viel warten, unter informatikern: aktives warten,
+meine prävalenz mir ein schlechtes gewissen zu machen wenn die Kunden warten müssen und dann noch der mündliche auftrag von nico: 
+ich solle abklären wieviel aufwand es gäbe ziknet und yetnet zu trennen, obwohl ich ihm gesagt habe, dass dies meines kosten/nutzen nicht
+wert ist. nungut auftrag ist auftrag. in der hektik ein kurzes mail geschrieben.
+
+Dies habe wellen geschlagen und die ImproWare mitarbeiter unter druck gesetzt, naja das war nicht mein ziel, war es das von nico?
+naja er geht mit Patrik berger essen, und der will die ImproWare loswerden, und möglichst durch eine windowslösung ersetzen.
+Sind windowsnetzwerke ein wachstumsbedürfnis? wie war das eingentlich bei mir, naja die HP UX 10.20 maschine in der FLEX hatte
+magische anziehung auf mich, womit dies wohl eher nicht der fall wäre, ich war ja auch der, der damals schon einen noti mit Linux
+aufgesetzt hat und nach open-source ghost alternativen gesucht hat.
+
+Fakt ist jetzt aber, dass dies scheinbar so fest wellen geschlagen habe, dass gloor oder so von improware meili und johnny informiert habe.
+ich dürfe jetzt nichts mehr machen was solche dinge angeht, womit das eigentlich heissen müsste, nico darf nichts mehr so machen, da er mir
+ja den auftrag gegeben hat.
+
+naja vielleicht ist es auch ein wenig meine schuld, weil ich wohlgemuth gerade noch aufzweigen musste, dass er mich angelogen hat, aber da
+gilt meiner meinung nach das gebot: "DU SOLLST NICHT LÜGEN", allenfalls ist das auch der grund weshalb ich jetzt eines auf den teckel bekommen
+soll, denn ich bin in der lage der Improware nachzuweisen wenn sie lügt, und dies umso besser wenn ich ein login hätte. andererseits, wenn ich ein 
+login habe, habe ich auch mehr verantwortung aber dafür sind fehler schneller analysiert und die behebung in auftrag gegeben, da ich ein mann der Tat bin
+würde mir das das leben erleichtern.
+
+aber analysieren wir das problem mal sachlich
+
+
+1. Abhänigkeit von improware				Alternative: abhängigkeit von jemandem anders
+2. man wird angelogen					Alternative: wie wärs wenn die improware nicht lügen würde?
+    --> allenfalls sogar unabsichtlich, da man selber sieht, dass man einen fehler gemacht hat mit dem nicht redundanten redundanz server, bzw der aussage, dass der idelt
+      --> meine meinung: besser so schnell wie möglich die Wahrheit sagen
+3. es weiss keiner bei zik / yet was so genau läuft	man kann ja abhänig sein oder total abhängig, ich denke letzteres ist eher schlecht...
+
+
+am besten wäre es man hätte einen guten improware mitarbeiter bei uns, was dann aber mich meinen job kosten würde. aber es wäre vermutlich besser für die firma.
+
+
+
+
+So schlecht ist idms nicht, man müsste noch ein paar dinge korrigieren.
+
+
+
+Extralevel: Wohlgemuth
+tip: wer lügt muss ein gutes gedächtnis haben
+-jung
+-hat seine firma in eine doofe lage gebracht --> versucht dich die linke hand ...
+--> für einen jungen menschen fatal --> immense kosten für psychologische betreuung wenn man ihn abschiessen würde, lohnt sich nicht
+lösung: ups (mit doofem smily) uns ist ein fehler unterloffen, und so ca 10h gratis... abgezogen vom verursacher lohn.... (kleiner witz)
+
+Hypnotische ebene: 
+ chef würde z.B. sagen (APPLE)
+  müsst den zik ja nicht die wahrheit sagen
+  damokles über den köpfen der MA
+  --> Utilitarismus
+countermeasure:
+  x muss sich die finger verbrennen beim lügen und unterlässt es künftig.
+
+
+
+
+randnotiz: war es nicht so, dass ich bei gefährlichen sachen immer meine kleine schwester vorausgeschickt habe?
+Extralevel: sich der gefahr bewusst, jemand anderen nehemen (reflexiv)
+
+
+habe aber auch etwas daraus gelernt.
+1. Imprware <--> Yetnet ist allenfalls die Stärkere bindung
+2. sollte wieder mal jemand mich beauftragen eine so strategisch wichtige anfrage zu stellen, noch irgend anhängen: "nicht dass wir dies beabsichtigen würden, jedoch hätte es uns mal noch wunder genommen"
+	leider sehe ich nicht in andere menschen und weiss nicht was nico eigentlich genau wollte, wären wir jedoch nicht so im stress hätte ich wohl noch genauer gefragt und genauer geschrieben.
+

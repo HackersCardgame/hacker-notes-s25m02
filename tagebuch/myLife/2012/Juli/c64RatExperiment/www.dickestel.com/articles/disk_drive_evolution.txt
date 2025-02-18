@@ -1,0 +1,80 @@
+The Evolution of the Disk Drive
+
+by Joel Ellis Rea
+
+First there was the Commodore 2001 Personal Electronic Transactor (PET).  It was one of the first
+personal computers on the market.  It had a whopping 4K of RAM, and 8K BASIC in ROM, and a
+Kernal to control input/output and other system operations.  It used Commodore BASIC Version 1. 
+There were no disk drives then, but provisions were made in the form of an IEEE-488 General
+Purpose Interface Bus.  It also had the funniest little keyboard you ever saw!
+
+Commodore then invented the 2040 Dual Floppy Disk Drive.  It was an industry first.  Previously the
+main computer had to control every tiny detail of disk drive operation, not to mention loading a large
+Disk Operating System (DOS) into the computer's RAM in order to use the drive.  The 2040 was an
+intelligent drive, with its own computer system inside, and its own DOS in ROM!  By simply PRINTing
+commands to its command channel, BASIC users could SCRATCH, RENAME, and COPY files, and
+DUPLICATE an entire disk without any further help from the computer.  Only problem was, they
+could not SAVE or LOAD programs, or use data files.
+
+The problem was BASIC V1.  It did not know about the timing involved with actually transferring data
+back and forth between the computer's RAM and the disk drive's computer.  So, Commodore created
+Upgrade BASIC (now known as BASIC V2), and put it into a new PET, called the 2008.  It had 8K
+of RAM, a REAL keyboard (unlike other companies, Commodore NEVER tried a rinky-dink
+keyboard again!), and it could use the disk drive!
+
+But the 2040 drive had its faults as well.  It could not handle random access files (one of the most
+important advantages of a disk drive over a tape drive) without a LOT of effort on the user's part.  It
+could not trap errors correctly, and it required the user to type OPEN 15,8,5,"I":CLOSE 15 every time
+a disk was changed.  It could not seem to center the disks properly.
+
+So about the time Commodore came out with their 3008 PET computer (including BASIC V3, with
+very minor differences from V2), they introduced the 3040 Dual Disk Drive.  This had DOS V1.2 in it,
+which corrected the error trapping problems.  But they did not fix much else.  Also, people were getting
+tired of having to type OPEN 15,8,15 etc. when their Apple-owning buddies could do the same with
+RENAME oldfilename, newfilename.
+
+Almost immediately thereafter, the Commodore 4016 PET came out. It had 16K, expandable to 32K,
+and BASIC V4. This version had nice disk commands like CATALOG, SCRATCH, DLOAD,
+DSAVE, BACKUP, COPY, etc.  These commands simply translated themselves into the old
+commands that the drive could understand.  
+
+Along with the PET 4016 came the 4040 disk drive.  It had it all!  Besides fixing the hardware
+problems, it had DOS V2.1, which supported relative files (also referred to as random files).  The new
+DOS also performed an automatic "I" (initialization) every time it detected a disk with a different ID, so
+the user did not have to type this command unless he had two or more disks with the same ID.  It also
+used a slightly different disk format from the 2040's and 3040's, so that a disk made on a 2040 could
+be used only by copying its files to a 4040 drive. 
+
+Later, Commodore came out with the CBM 8032.  It had BASIC V4, 32K of RAM, a 12-inch
+80-column monitor (the old machines had 40 column screens), and a more business-like keyboard. 
+Indeed, it was a business machine.
+
+A business machine needs a business disk drive.  So Commodore presented the 8050 disk drive.  It
+used a double density format that allowed over twice as much data on each disk.  It also could tell if a
+disk drive door had been opened, and automatically did an "I" command when the door was shut again.
+
+Later came the 8052 double-sided drive, and the D9060 and D9090 hard disk units that could store 2,
+5, and 7.5 megabytes (1 meg=1024K).
+
+Then came the VIC20.  Commodore made many advances on this one.  Low price!  Graphics!  Low
+price!  Color!  Low price!  Three-channel sound, RS232, eight user-programmable function keys, and
+a game cartridge slot.  Not to mention low price!  Even though they were producing a computer to
+compete with home video games, they learned their lesson with the PET 2001 and gave the VIC 20 a
+REAL keyboard.
+
+But for the sake of low price, Commodore took several MAJOR steps backwards.  Only 5K of RAM,
+22-column screen, back to BASIC V2.  And worst of all, they scrapped the wonderful IEEE-488 bus
+that could shove all eight bits of a byte down the wires at once, and replaced it with a "serial bus" that
+had to spool those bits out one at a time.
+
+Commodore then produced the 1540 Single Floppy Disk Drive.  It was basically a one drive, serial bus
+version of the 4040.  It had less RAM, so that fewer files could be open at any one time.  It used the
+new half-high disk drive units.  Instead of two microprocessors (one for the drives and one for the
+interface), it had one processor controlling the single drive and the interface.
+
+About two years later Commodore invented the Commodore 64!  (Ever hear of that one?)  I will not
+go into all of its nice features, but it still had the serial bus and BASIC V2.  Along with it of course
+came old slow and poky, the much hated, much loved 1541 that so many of us use and cuss daily.
+
+ (from George's Den BBS via Greater Oklahoma Commodore Club Newsletter, 6/88, via The
+Commodore Information Center web site (http://home.att.net/~rmestel/commodore.html) )

@@ -1,0 +1,38 @@
+Programmers Leave a Free Legacy
+
+How many Commodore programmers have disappeared into the PC world or who knows where,
+leaving behind good programs with no support? Leaving Commodore users the dilemma of
+scrupulously observing copyright laws, or simply being realistic and making copies of these
+unsupported, abandoned programs? Conversely, how many have officially released their programs for unrestricted use?
+
+The complete answer is unknown, but a partial answer is, at least four: Four programmers have
+officially released their work for free distribution, as they moved on to other and probably more
+lucrative activities.
+
+Nate Fiedler, author of the GEOS paint program geoCanvas, released this program and its various
+related parts for unrestricted distribution. The program includes Paint Can and ScrapCan, which allow
+cutting and pasting of oversize photo scraps.
+
+Also available for unrestricted copying is the highly acclaimed terminal program, Dialog 128, by Gary
+Farmaner. He retained all copyrights, and others can't sell the program, but otherwise there are no
+restrictions on the copying of the program. Although the program came with a printed instruction book,
+it is not necessary except for learning the scripting language. 
+
+Bruce Thomas reported in Loadstar Letter 63 on a third programmer, Jean Major, who stopped
+working on GEOS programs at least four years ago, and no longer owns a Commodore. In Email Jean
+wrote "All my [Commodore] software is released into the Public Domain. Thanks for the interest in my
+work." 
+
+This gives GEOS users free access to one of the most useful utilities ever, Dbgetfiles, which patches the
+kernel to allow access to more than eight filenames, as well as scrolling through the list.
+
+The premier disk catalog program, DCMR, was officially released to public domain by author Ray
+Martin in late 1999.
+
+Naturally these programs are without any guarantees or support, but the first three are easily
+understood by the Commodore user who is familiar with the GEOS environment and/or general use of
+terminal programs. And you can send comments to Gary at dialog@turing.toronto.edu, with of course
+no guarantee of a response. The DCMR program contains extensive documentation which can be read
+on screen or printed out.
+
+From "The Interface," newsletter of Fresno Commodore User Group 

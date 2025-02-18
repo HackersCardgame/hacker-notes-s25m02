@@ -1,0 +1,41 @@
+    ==============================
+-=[ Thu May 23 02:26:39 PM CEST 2024 ]=-
+    ==============================
+
+ich VERMUTE die SD-Karten Probelme
+
+A) die haben alle SD-Karten-Chip-Hersteller aufgekauft bzw. dort einen Terroristen der ein Backdoor in der Firmware drin lässt als Bugdoor getarnt
+B) USB-zu-SDkarten-Chips / weil nur intel kann ich ausschliessen
+C) das linux betriebssystem selber dass z.B. auf irgend allen systemen auf ein weiteres zensurnetzwerk hört
+D) da permanent körperverletzungen an mir / AutistenHelm verübt werden kann ich mir auch vorstellen, dass die mich mit dem epilepise-baseball-schläger auch in dinge die noch fehler haben driein steuern, hätte ich das entdekt und korrigiert würden die den richtigen lösungsweg mit erneuter körperverletztungen an mir verthindern
+E) weitere möglichkeit wäre, dass zB. UPC mit einer /32 Route und dem vom Glücksspiel-gesetz aufgebrochenen DNSSEC System nur ncoh infizierte Linux images bekomme
+F) siehe unten [DEBIAN SUIZIDE] bzw. letzter git commit
+G) eine Software, Malware, Virus der sobald eine Partition als ist erstellt udn ok angezeigt wird diese wieder in die luft spregnt
+  -> das könnte sowohl software, im betreibssystem als auch z.B hardware backdoors sein wie z.B. ein USB Port forward irgendwo hin über irgend einen zusätzlichen TOPSECRET funkkanal sein
+     -> also allenfalls im detail eine malware die alle superblocks und kopien von superblocks erstört, vermtulcih genau das was eine zensursoftware machen würde die keine zeit hat den ganzen datenträger zu durchwühlen
+H) USB Storage Treiber könnte es auch sein (screenshot letzter git commit)
+
+
+Dann lässt das ding absichtlcih die partitionstabelle ganz als wäre alles i.O., aber löscht bei GPT Partitionen die sicherheitskopie, manipuliert aber die Magic nummer der partition selber, auch bei FAT, scheinbar aber nur auf SD-Karten, nciht auf sonstigem usb storage, bzw. die sd karte ist an [1] so einem adapter des sich afaik als usb stick ausgibt ...
+
+[1] [SPREGNFALLENDROHUNG DURCH URS BLUM]
+--> dann wenn der urs blum auf mihc der damals 20 Jahre alt war losgeht, dann ist jedme klar, dass das von anfang an als mord an marc jr landolt geplant war, wäre es ein spiel wäre urs blum sich zu cool gegen einen 20 jahre jüngeren loszugehen
+
+
+dann wenn die Malware vorsätzlich beweismittel vernichten soll für straffällige kunden der zürich versicherung wäre so etwas wie code obfuscation auf layer 8 zu erwarten (layer8 = Mensch der auf dem stuhl hockt)
+
+somit würden mehrere diese dinge sich gegenseitig verschleiern und decken, jeder schlechte informatiker kommt nicht klar mit fehlern wo nicht ein einzelner fehler das problem ist sondern mehrere gleichzeitig 
+
+das war mien blablabla zu "informatik hürdenlauf" bzw puzzleteile
+  
+      ==============================
+-=[ Thu May 23 02:27:53 PM CEST 2024 ]=-
+    ==============================
+
+
+AUSSERDEM scheint das nur dann zu passieren, wenn man auf der SD-Karte 2 Partitionen hat, das HIESSE ALLENFALLS, dass das genau auf Menschen abzielt die zB mit Raspberry dinge machen, oft wären das junge menschen oder kinder
+
+    ==============================
+-=[ Thu May 23 03:17:30 PM CEST 2024 ]=-
+    ==============================
+

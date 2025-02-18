@@ -1,0 +1,25 @@
+
+Yay, endlich wieder mal ein richtiges piratiges Thema, aber wer bin ich schon, ich hab ja von Technik null Ahnung
+
+Technische Ebene:
+da wäre spannend zu wissen wie genau im Detail PRISM der NSA ans Starlink angeschlossen würde. Mit dem Patriot Act muss der Elon, Patriot Act ist so zu sagen das Cyber-Ermächtigungs-Gesetz um das mit WW2 zu vergleichen. Oder nur das Provisionierungssystem von Starlink um einen einzelnen User/Empfänger aus dem Netz zu sperren.
+
+Psychologische Ebene:
+Dann basierend daruaf wäre die Frage welche Psychologische Auswirkungen hat der Vorgang "User Aussperren" wenn ein User in der Ukraine grad etwas ganz wichtiges machen muss wo es um Menschenleben geht
+
+Satelliten Design:
+Dann wenn man irgend einen Block 5 GPS Satelliten anschaut sieht man, dass der nicht nur GPS macht, sondern Antennen verschiedener Längen drauf hat, also vermutlich für die Geheimdienste bzw. für die US Army noch mehr macht als nur GPS. Also ich vermute da ist wie beim Spot3 System das keine Schüssel braucht und dennoch bidirektional Senden kann
+
+=> Gibt es Fotos von den Starlink Satelliten? Bzw. gibt es Fotos die nicht nur von Oben sind, nicht nur gerendert sind, wo man die Antennen nicht sieht? Also jemand schon einen Grossaufnahme von Unten gesehen?
+
+Domain Model / Design:
+Wie wird die Laufbahn der einzelnen Satelliten gesteuert, sind die Abhängig vom GPS Netzwerk (Minimal Spannender Baum?)
+
+Geopolitische Überlegungen:
+Dass das grad an ein Land im Krieg zu zu sagen verschenkt wird, ist das ein Testlauf für ein grösseres Vorhaben, der Testlauf war abgeschlossen, US-Army / Musk will deswegen nicht mehr finanzieren?
+=> ist eine Frage, sage nicht dass Musk böse ist, aber er wäre dem Patriot Act unterlegen und müsste
+
+
+Further Readings / Viewings:
+https://media.ccc.de/v/32c3-7154-iridium_update (48k Views)
+https://media.ccc.de/v/gpn18-89-gr-iridium-unter-der-haube#t=1018 (400 Views)

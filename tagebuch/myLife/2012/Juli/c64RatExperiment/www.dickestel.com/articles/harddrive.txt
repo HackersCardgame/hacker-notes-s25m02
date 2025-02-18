@@ -1,0 +1,302 @@
+ 
+HARDWARE REVIEW: CMD HARD DRIVE
+ 
+by Dick Estel
+ 
+For a year or so I have been technolusting for what I swear is my 
+"final" major purchase of Commodore equipment, specifically one of 
+Creative Micro Design's large storage devices. I considered the 
+RAMLink, the new FD 2000 or FD 4000 3.5" floppy drives, and the 
+hard drive.
+ 
+Now let me admit right up front that I can't prove to anyone, 
+including myself, that I really NEED one of these items. However, 
+I thought I would like having the programs I use most often 
+readily available in one of these devices, so I don't have to hunt 
+around for the disk and keep track of dozens of floppies.
+ 
+After reading as much material as I could find, including the 
+actual manual for the hard drive, I succumbed to temptation when 
+Creative Micro Designs advertised a special price on a limited 
+supply of 40 megabyte hard drives. I threw caution and my tax 
+refund to the wind (East Longmeadow MA, actually), and made the 
+plunge, and in a few weeks, I was exploring the wonders of having 
+40 million bytes of storage space available.
+ 
+Physically, the drive is three by five by ten inches in size, 
+occupying about the same space as a 1581 drive. The front panel 
+has four soft-touch pushbutton switches, Swap 8, Swap 9, Write 
+Protect, and Reset, each with an indicator light. In addition 
+there are four LED's: Power, Activity, Error and GEOS. With an 
+external power supply, the drive is remarkably cool, despite the 
+fact that the disk spins constantly when the drive is on. After 12 
+hours of use on a hot day, the top of the case was barely warm; 
+and the power supply also stays cool.
+ 
+In addition to the standard Commodore serial connections, the back 
+of the drive has a parallel port which connects to CMD's RAMLink, 
+an auxiliary jack (not used at this time), and a connector to 
+attach another SCSI drive. The drive can be used with a PC; in 
+fact it is possible to have PC partitions and Commodore partitions 
+on the disk at the same time.
+ 
+CMD recommends turning the drive off and on with the power switch 
+located on the back, with continuous power to the power supply. 
+This is to extend the life of the battery that operates the built-
+in clock.
+ 
+The manual is printed on 5.25 x 8.5 paper, and comes in a three-
+ring binder. The parts that are of use to me are clearly-written 
+and well-organized, and there is a 10-page index. A significant 
+part of the book is devoted to drive commands that are primarily 
+of use to programmers.
+ 
+VERSATILE DESIGN FEATURES
+ 
+As the reigning kings/saviors of 8-bit Commodore life, the folks 
+at CMD have taken a wonderfully wise and practical approach in 
+designing high volume storage devices. With RamLink, the FD's and 
+the HD's, the storage space can be divided into partitions and/or 
+subdirectories of various sizes. 
+ 
+In all cases, the user can create partitions that emulate the 
+standard 1541, 1571 and 1581 drives. Some programs require the 
+tracks and sectors of a disk, as well as the directory, to be laid 
+out in a particular way. Emulation makes it possible to use these 
+programs on the HD. For example, GEOS requires the use of 1581-
+emulation partitions. Even with the emulation, some heavily 
+protected programs will not work; also some utilize hardware 
+aspects of the drive that are not duplicated on the HD. 
+ 
+There is also a partition type called "native," which can be 
+configured to any size from 256 blocks to 65,280 blocks, in 256-
+block increments. Within a native partition, you can create 
+subdirectories and sub-subdirectories (as in PC DOS) down to as 
+many levels as you desire (within reason; there is a practical 
+limit of about 40 levels, but it would usually be absurd to go 
+beyond four or five.)
+ 
+The benefit of this capability is the organization it brings to 
+your files. You could have a Write Stuff partition, with 
+subdirectories for various categories of files, such as 
+correspondence, reports for work, newsletter articles, and family 
+history. In your correspondence partition, you could have 
+subpartitions named business, family, letters to the editor, and 
+so on. Carrying it to an extreme, letters to the editor could be 
+divided into The Underground, Commodore World, and Time Magazine.
+ 
+Creation of partitions is easily accomplished with a utility 
+called HD-TOOLS, which comes already installed on the drive (as 
+well as on a disk). HD-TOOLS also allows deleting a partition and 
+changing certain defaults, including the device number assigned to 
+the drive, and the partition that is automatically opened when the 
+drive is turned on. The creation of subdirectories is even easier; 
+there is no special program, just a DOS command, entered in BASIC 
+from within the desired partition.
+ 
+One of the big advantages of the HD native partition system is 
+that all the blocks available in the partition are available to 
+any of the individual subdirectories. Thus if there are 16,447 
+blocks free in the root directory, the same number of blocks will 
+show free in each individual subdirectory. In contrast, partitions 
+on the 1581 are limited to the specific number of blocks assigned 
+when the partitions are created.
+ 
+Changing from one partition to another, or entering a 
+subdirectory, is normally done with a DOS command. CMD has 
+developed a number of special commands for the hard drive; all 
+have two-letter abbreviations. All of them work with the DOS 
+wedge, which is built into many programs. For example, with The 
+Write Stuff, [CONTROL] [UP ARROW] puts you in command mode with 
+the DOS wedge prefix @ already displayed. @CP3 would then take you 
+to partition #3; @CD:correspondence would take you to the 
+correspondence subdirectory.
+ 
+You can switch to another partition from within subdirectories, 
+but changing to another subdirectory within the same partition 
+requires going back to the root directory. This can be 
+accomplished by entering the name of the root partition, but 
+@CD:[BACK ARROW] is a short cut to take you back one level from 
+whatever subdirectory you are in.
+ 
+You can also change partitions by pressing a combination of 
+the front panel switches. This is valuable when using programs 
+that do not allow access to a DOS wedge, such as the terminal 
+program I use, Dave's Term. You can't do this in GEOS, but you 
+don't need it.
+
+Pressing and holding the Write Protect switch puts the drive 
+into Front Panel Partition Selection (FPPS) mode, causing the 
+Activity light to blink steadily. While in this mode, pressing 
+the Write Protect Switch sets the lowest digits (1's); Swap 9 
+and Swap 8 respectively set the 10's and 100's. To select 
+partition 25, you would press the Write Protect switch six 
+times (0 to 5) and Swap 8 three times. Each press lights up a 
+different group of indicators. For 5 the Swap 8 and Write 
+Protect lights are on. A chart is provided that shows which 
+number is indicated by the different combination of indicator 
+lights. 
+
+Once the partition is selected, you exit from FPPS mode by 
+again holding and pressing the Write Protect switch until the 
+activity light goes off. (This procedure is MUCH simpler than 
+it sounds; I used the drive six months before I tried it!)
+ 
+One of the great design ideas on CMD's large storage devices is 
+the SWAP 8/SWAP 9 feature. My drive's default device number is 10. 
+Pressing the SWAP 8 button instantly changes the HD to drive 8, 
+and the existing drive 8 to drive 10. SWAP 9 of course works the 
+same way. This change can be made from within most programs (not 
+GEOS), greatly increasing the flexibility and convenience of the 
+unit. For example, my spreadsheet program will not load from the 
+hard drive. I simply load it from a 1571 set as drive 8, then 
+press SWAP 8 and use the HD to load and save data files.
+ 
+Additional utilities provided include disk and file copiers, and 
+utilities to reformat the drive and re-install the hard drive DOS. 
+The drive comes with the DOS installed and several partitions 
+already set up, including two LOADSTAR issues that were released 
+for free distribution.
+ 
+The drive includes a built-in clock, and of course a program to 
+set the time. This feature attaches the date and time to all files 
+that are saved to the HD. Used with GEOS, it automatically sets 
+the time on boot-up. The command @$=T will display a directory 
+with the date and time of the last change to each file included. 
+ 
+240 DISKS IN ONE
+ 
+Just how big is 40 megabytes, anyway? How about the equivalent of 
+240 5.25" disks--around 160,000 blocks. I have well over 240 5.25" 
+disks with "stuff" on them, but most of it is stuff I never or 
+almost never use. There would be no point in putting most of this 
+stuff on the hard drive, so it seems unlikely that I will fill up 
+the drive any time soon. I know there are some people using CMD 
+hard drives with up to 1000 megabytes (a gigabyte), but these are 
+usually people who are running a BBS. So far the partitions I have 
+created take up a little over 107,000 blocks; and of course, the 
+space within partitions is not all used by any means. (My Write 
+Stuff partition has over 11,000 blocks free.)
+ 
+Besides massive storage, one of the things expected from a hard 
+drive is speed. Of course anything connected to a Commodore 8-bit 
+machine is subject to the limits of the computer's ability to send 
+and receive data, but users have been accustomed to a continuing 
+increase in disk access speed--first with various fast loading 
+programs, cartridges, and chips; and then with the advent of the 
+1571 and 1581 drives.
+ 
+Here are a few measurements, using a C128 and 1581, both with 
+Jiffy-DOS:
+ 
+ 
+File type and size             LOAD           SAVE 
+                               1581   HD-40   1581   HD-40
+ 
+58 K Write Stuff text          :11    :08     :38    :29
+ 
+16 K Write Stuff text                         :18    :10
+ 
+Write Stuff 128 program        :21.61 :12.36
+ 
+GEOS 128 Program              1:06.09 :39.00
+ 
+TWS Spellchecking
+ 
+1581: 17.55 seconds
+HD40: 11.46 seconds
+REU:   4.23 seconds
+ 
+WHAT WORKS AND WHAT DOESN'T
+ 
+Virtually all unprotected Commodore programs will work in native 
+partitions on the HD. On my system this includes The Write Stuff, 
+DCMR, LOADSTAR, Dave's Term (my terminal program), and the 
+Menumaker program used to create the menus we used on our Disks of 
+the Month. Several older utility programs that I tested can be 
+loaded and run from the HD, but will not recognize the HD for 
+disk-related functions. This included Omega-Q, a multiple-function 
+utility which I use for dissolving ARC'd files. Other programs, 
+such as Ultra file reader and Davis Directory Designer will work 
+but do not access a second drive, greatly limiting the value of 
+putting them on the HD.
+ 
+At least some protected programs that can be copied with Maverick 
+parameters also will work in emulation partitions. One of my 
+favorites in this category is Sky Travel, the planetarium program 
+published in the "early days" by Commodore. A working nibble copy 
+can be made that will work on a 1541 drive, but not on the HD. 
+However, copying it with the parameter found on Maverick created a 
+version that worked when copied to a 1541 emulation partition.
+ 
+I assumed there would be newer programs to replace the utilities 
+that did not function fully on the HD, and I obtained an excellent 
+menu program and a directory sort program from GEnie. The former, 
+EZ Load Menu, is set up in the default partition, and will load 
+any program from any partition or subdirectory, eliminating the 
+need to have a written list of where everything is. Another plus, 
+it runs from either 64 or 128 mode. The directory sorter, DEdit 
+V7.1 (with separate 64 and 128 versions), is not as versatile as 
+some of the early programs, but is acceptable for most uses.
+ 
+I GUESS I'LL KEEP IT
+ 
+So far, in six months of use and testing, I have had very few 
+problems with the drive, and find it living up to my highest 
+expectations. Probably 80% of my computer use is either with TWS 
+or GEOS. For Write Stuff I set up a large native partition, with 
+subdirectories using the various categories of files that I 
+already had established on separate 1581 disks. So far the only 
+subdirectory that has been further divided is CORRESPONDENCE, 
+which is divided into COMPUTER RELATED and OTHER. As the time 
+comparisons show, loading and saving speed is significantly 
+improved.
+ 
+My other major program, GEOS, also works well on the HD, with only 
+one problem. Although there is no access to DOS commands within 
+GEOS, you can easily switch between 1581-emulation partitions 
+using QUICKMOVE, a utility provided with the drive. Once opened, 
+this program offers the choice of displaying a list of partitions, 
+or the directory of the current disk. A click on the desired 
+partition immediately switches you there. The directory listing 
+can be used to copy files between partitions. Occasionally when I 
+copy files this way, the destination partition is renamed with the 
+same name as the source partition. This is easily remedied by 
+renaming the partition, but once my boot partition became 
+corrupted and I had to recreate it. (Setting up a boot partition 
+on the HD is a bit tedious, requiring the use of Maverick v.3 
+(later versions won't load when the hard drive is present).
+ 
+Partition switching can also be accomplished from QUICKMOVE by 
+pressing the number of the desired partition (choice is limited to 
+1581 partitions; no other sizes can be accessed). Using this 
+method, plus the keyboard shortcut to close the file ([COMMODORE] 
+Q) took 16 seconds to get from desktop to desktop. By contrast, 
+switching physical disks took only 8 seconds with the disk ready 
+at hand. However, when you add the time needed to dig out the 
+needed disk from the file box, the hard drive switching time is 
+nearly always faster.
+ 
+One thing I did learn by experience (i.e., the hard way) is the 
+value of carefully planning the order and organization of 
+partitions. Having added partitions as needed, I had GEOS 
+scattered here and there, with unrelated items in between. Another 
+consideration is that GEOS apparently will not reboot after a 
+lockup unless the boot partition is #1 (CMD ships the drive with 
+#1 containing many of the HD utilities). Ultimately I backed up 
+everything on 1581 disks, deleted all partitions, and started 
+over. This time I left several unused partitions between different 
+areas for future use. Then I copied everything back to the HD. 
+This project was worth the trouble, but no fun, and could have 
+been avoided.
+ 
+Although I had some serious second thoughts about such a large 
+investment so late in the history of Commodore computing, I am 
+completely satisfied and very glad I did it. The CMD hard drive is 
+amazingly versatile, and offers all the increased convenience I 
+expected and more. I feel I have only begun to take advantage of 
+its capabilities. I have vowed to help take Commodore computing 
+into the 21st century, and the HD-40 should prove to be a worthy 
+aid and companion on that journey.
+
+(From about 1995)

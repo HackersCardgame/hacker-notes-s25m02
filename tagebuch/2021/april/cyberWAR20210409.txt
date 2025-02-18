@@ -1,0 +1,26 @@
+Fri 09 Apr 2021 12:08:30 AM CEST
+
+so computer wieder mal neu installiert, glaub das 6. mal in 5 tage oder so... grrrrrrrrrrrr...
+
+Fri 09 Apr 2021 12:08:58 AM CEST
+  5  23 131 cyberWAR20210409.txt
+b86888e69357a688101f28f9c30e7f2f9f7fac8b907a09b7b58892d0278f76f4c5f444ff382064ecec5d033aaeecdfff27cf13c7a44d9b2dca19641b46c59855  cyberWAR20210409.txt
+[master 7a4c254] save
+ 1 file changed, 5 insertions(+)
+ create mode 100644 tagebuch/cyberWAR20210409.txt
+
+
+unknown:
+beule?
+
+ich:
+sollen die alten säcke mit ihren taten leben und damit leben dass ich mir keine rache wünsche und die täter älteren gerenation für den rest ihres lebens an ihre taten denken mögen wenn sie einhörner sehen...
+
+ausserdem wenn man sich rache wünschen würde käme dann sowieso der strafbefehl wegen einhorn-rache...
+
+Fri 09 Apr 2021 12:10:54 AM CEST
+ 21 101 799 cyberWAR20210409.txt
+395ea6c49496cb34dd799d05620527dd43b59e6df4429da5c4928fde1449d8181b209137a4ba945dbad5513cba41e1af14e5c6303206d281b5f44d13c2bd84d5  cyberWAR20210409.txt
+[master 0b181e8] save
+ 1 file changed, 10 insertions(+)
+

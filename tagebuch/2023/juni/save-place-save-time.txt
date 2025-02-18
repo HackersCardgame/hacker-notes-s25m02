@@ -1,0 +1,95 @@
+Sun Jun 11 03:01:50 CEST 2023
+
+
+Hallo Ihr
+
+Für so einen Text wie grad oben dran brauche auch ich fast eine Stunde wenn ich einigermassen ungestört bin, meist bin ich nicht ungestört.
+
+Als Autist (auch wenn man eine Schizo-Diagnose hat) ist man sich klar
+
+* Dinge müssen erledigt werden
+* Ist etwas kaputt muss man das reparieren tun
+* Um kaputte Dinge [1] reparieren zu können muss man zuerst diese auch ansprechen dürfen
+* Spricht man z.B. Dinge an, wie diverse weibilche Pädophilie-Opfer die von der Psychiatrie Königsfelden schlecht behandelt wurden stösst man auf Gegenwehr
+* Schlecht behandelt ist auch nur vorsichtig formuliert, statt ihr ein PTBS zu diagnostizieren wird dem Opfer oft auch noch eine vernichtende Diagnose wie Schizophrenie oder Borderline angehängt, damit es so aussieht, als wäre das Opfer noch selber schlud.
+
+
+Diese Opfer aber auch Leute wie ich die von herzen helfen/reparieren möchten werden oft auch von den Tätern selber über modernste Raumüberwachung permanent überwacht um das zu verhindern
+
+GOOD NEWS:
+==========
+Es gibt Zeiten (wie grad aktuell 2023.06.11 03:00) wo die Täter selbst auch gerade mal schlafen, dann hat man Zeit für Mails an Behörden, Posts in solchen Foren auf Reddit, Facebook, ... und Zeit all die Mails die sich angesammelt haben abzuarbeiten und das sogar fast komplett ungestört.
+
+
+
+[1] und JA, Autisten sehen in Menschen auch irgendwie Dinge, oder vergleichen Menschen mit Computern wo allenfalls einfach auch nur falsche Software aufgespielt wurde, die man aber ändern kann. Und das meint ein Autist auch nicht böse, er will es ja reparieren tun
+
+"Rusbridger berichtete von Einschüchterungen"
+=============================================
+=> da wären auch Details spannend wie diese Einschüchterungen verübt wurden, ob die einfach ein Schläger-Team zum Guardian geschickt haben oder ob das dann doch eher auch über die Privat-Rechner oder sonst irgendwie im Leben gemacht wurden. Dazu auch Andy Müller-Maguhn vom CCC im Kontext von Massenasammlungen von Autos an Kreuzungen nachts wenn es kaum Leute da haben sollte.
+
+Psychologie Profile
+===================
+**Nerd-Aufgabe 1**: Erstellt einen Struct (C/C++) der so klein wie möglich ist, der relevante Parameter zur Psyche eines Menschen beinhaltet um mit möglichst wenig Daten ein Maximum an manipulativem Einfluss zu nehmen
+
+```
+struct {
+  int AHV Nummer;
+  string Name;
+  bool schautNochTv;
+  bool proneToVerschwörungstheorien;   // Vorwissen von PhD Arbeit von Sebastian Bartoschek: Glaubt man an eine Verschwörung glaubt man oft auch an andere
+  bool vermisstSeineFreundin;          // eigentlich ein aktivierbarer Suizid-Trigger
+  bool traumaSexuelleIntegrität;       // aktivierung Prostata implantat effektiv in Situationen
+  bool ...                             // ich spolier jetzt hier auch nicht alles
+} person;
+```
+
+**Nerd-Aufgabe 2**: Rechnet diesen Struct auf 8Mio Bürger hoch und schaut wie gross der Datenträger sein muss dass das platz hat
+
+Neusprech (George Orwell :: 1984)
+=================================
+Überwachung
+
+
+dann zB vermute ich, dass z.B @niggi nicht weiss was ein Struct ist, also diejenigen die das wissen, gerne auch denen erklären die das nicht wissen FALLS ihr Zeit, Energie und Lust habt.
+
+
+profile psy, struct
+
+Rusbridger berichtete von Einschüchterungen 
+
+
+Lebenslanges Lernen
+===================
+
+
+
+Methoden-Kompetenz
+==================
+Dann auch etwas was mir hilft um nicht vom polternden Nachbars-Zombi-Poltergeist abgelenkt zu werden, oder von irgendwelchen DEPPEN-NPC's draussen mit Sportwagen die immer zum dümmsten Zeitpunkt ihre Motoren aufhäulen zu lassen ist genügend Laut Techno Musik (bzw. halt das was man mag) wie diese [1] hier auf Funk-Kopfhöhrer mit Mikrophon zu hören, und sich selber in "Debug" Modus zuschalten
+
+```
+marc@windoof:~$ landev -d -v -v -v
+```
+und ja ich weiss WSL2 ist so bisschen suboptimal als natives Linux, aber da 90% der Kinder das brauchen sollten wir auch dort einen Fuss drin haben. Ich wechsle oft auch die Betriebssysteme, denn man muss alle "Pferde" reiten können, Linux, Windows, OSX, FreeBSD ...
+
+
+[1] https://soundcloud.com/tim-tama/a1-rulesoftheindustry
+
+
+
+
+
+## TERMIN
+Dann TERMIN, nicht Piraten-Termin aber nerdiger Termin. Und auch wenn der Gründer der Piraten-Aargau Biel eine "Drecksstadt" schimpft ist das dort an der cosin.ch doch immer noch relativ lustig und spannend. Ein Highlight war auch schon, dass es da Glace mit Stickstoff [1] gab. Wenn es finanziell reicht, dann wäre ich am Samstag an meinem Geburtstag da. Finanzen ist halt auch etwas was die einem einschränken wie die nur können. Allenfalls fahr ich dann halt auch von Aarau mit dem Fahrrad nach Beil, aber noch nicht 100% sicher.
+
+[1] https://sciencebusters.at/rezept-fuer-stickstoff-schoko-eis/
+**ACHTUNG**: das bitte nur mit geübtem Fachpersonal das einen Ausweis hat um mit Stickstoff hantieren zu dürfen machen !!!
+
+
+
+
+
+
+
+

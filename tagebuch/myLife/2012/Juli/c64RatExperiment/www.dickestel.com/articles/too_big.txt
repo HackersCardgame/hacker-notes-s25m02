@@ -1,0 +1,59 @@
+Too Big for Commodore?
+
+by Rolf L. Miller
+
+That there are some jobs too big for Commodore is a given. There are some jobs too big for any home
+computer, megagobs of memory notwithstanding. 
+
+But before assuming that a 64 is too small to handle a large task, consider partitioning the work into its
+various elements. After all, every job consists of the sum of its parts. Take publishing a newsletter for
+example. Regardless of its size, the final result is made up of its individual pages. Attempting to do all
+the pages at once would in most cases overpower the 64. But accomplishing one page at a time is
+easily within the 64's capacity. 
+
+A data base is another application which can quickly burst the seams of a 64. However, all data bases
+consist of individual records. A 64 can easily deal with one record at a time. An objection often heard
+to the one-record-at-a-time data base approach is that it doesn't allow record comparison functions
+such as searches. This, though, is a misconception. Comparison applications do not need the entire
+record, only a given field. 
+
+There are two file types available to Commodore users that allow addressing individual fields: the
+random or user (USR) file and the relative (REL) file. Even so, many data base programs are structured
+around sequential files. Sequential files must be read and written in their entirety. In other words, the
+entire file must be loaded into the computer for use. This, obviously, limits the file size a 64 can handle.
+And it is pretty certain that a data base program uses sequential files if it does not permit addressing the
+individual fields of a file without accessing the entire file. 
+
+In spite of that, a data base utilizing sequential files can be manipulated to accommodate larger
+applications. Instead of trying to deal with all the records in one large file, the records can be partitioned
+alphabetically or numerically into several smaller files. And for comparison applications, the better
+programs with those options allow creating files of just the fields selected. After all, a 1541 disk can
+accommodate 144 different file names. And if the data is too large for one 1541 disk, there is no rule
+against using more than one disk. 
+
+Spreadsheet applications can also push the 64 to its limits. And while a spreadsheet may at first appear
+indivisible, a little reorganization of categories or time frames often provides the solution. 
+
+Not to be overlooked in the quest for fitting tasks to the Commodore are alternatives to the "standard"
+way of doing things. For instance, there existed a roster of nearly 300 names along with pertinent
+information. A data base program seemed to be called for. Instead, a word processor was chosen. As
+a general rule, a word processor is able to hold more data in the computer than either a data base or
+spreadsheet program. The reason is that word processors do not require the variables needed by data
+base and spreadsheet programs. Variables themselves consume memory, thus reducing the amount of
+information the computer can hold. 
+
+The rational behind the choice, though, had to do with ease of manipulating the data. The information
+consisted entirely of text. Regardless of how a data base handles the files, editing is done a record at a
+time. A word processor on the other hand can hold a large number of records as one document. In this
+case, the entire roster existed as one document. This allowed moving around the whole and editing at
+will. And the word processor allowed searches, sorts and, of course, printing in various formats. 
+
+A similar situation involved a large inventory. The layout suggested a spreadsheet. However, except for
+the number of items, no other numerical data existed. And except for reducing or increasing the number
+of individual items, it required no other calculations. In other words, the numbers could just as easily be
+entered as text. Furthermore, because of the size of this inventory, using a spreadsheet would require
+creating more than one file. The word processor handled it as one document, again serving to make less
+work.
+
+(From CIVIC 64/128 Gazette, via C= The News Internet Article Repository, via the Commodore
+Information Center http://home.att.net/~rmestel/commodore.html)

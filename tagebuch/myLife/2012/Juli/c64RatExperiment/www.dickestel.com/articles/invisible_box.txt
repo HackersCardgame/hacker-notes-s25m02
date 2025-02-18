@@ -1,0 +1,24 @@
+The Invisible Box
+
+by Dick Estel
+
+My favorite geoPublish trick is the use of the "invisible box. It's not something that's needed a lot, but
+when it is, it's really handy.
+
+An invisible box can be used to cover up any unwanted information in a bitmap in Page Graphics mode.
+For example, say you have created a bitmap with special text that includes the date November 1996.
+Now you realize it is December 1996, but you don't want to take time to redo the bitmap. Click on the
+box tool, and draw a box over November 1996. Click on the width attribute the reduced the width to -
+0-, and select the non-transparent mode, and the box will cover the unwanted material, but be invisible.
+You can then enter the desired text on top of everything.
+
+One caveat: A postscript printer will not recognize the invisible box and will print whatever is under it.
+I'm not sure what the results would be with a non-postscript laser printer or inkjet, but it is infallible
+with a dot matrix printer.
+
+I also use the technique sometimes when I an joining two halves of a wide scanned picture, to cover up
+the overlap. You have to use the front to back tool to get everything layered properly, but when done
+with care, it does a great job.
+
+From The Interface, newsletter of Fresno Commodore User Group via the Commodore Information
+Center http://home.att.net/~rmestel/commodore.html

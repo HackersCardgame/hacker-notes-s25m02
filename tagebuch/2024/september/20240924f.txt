@@ -1,0 +1,79 @@
+----=====  Tue Sep 24 21:04:14 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september d9770d81d7b7244076ba38423002367192784204 ====----
+[main 19c6c2ff] ... d9770d81d7b7244076ba38423002367192784204
+ 2 files changed, 40 insertions(+)
+ create mode 100644 tagebuch/2024/september/20240924f.txt
+
+
+unaufgeforderte Uebermittlung:
+
+1. die CH-Army stiftet mit Incentives Straftaten an
+2. ihr begeht die Straftaten fuer die Incentives (Gelder, Belohnung, Leckerli)
+3. die CH-Army (die ganz alten Gernerationen) verraet euch OHNE dass ihr es merkt
+4. bietet dann Ablasshandel, bzw laesst einen juengeren der CH-Army fuer gelder bzw Zauberei-Hexerei-Ramsch (um die Schmiergelder zu tarnen) eintreiben
+.
+.
+. die Jahre vergehen
+.
+.
+9. die Schuld gegenueber den Opfern bleibt aber, die Opfer werden es nicht zurueckfordern, die Opfer weichen aus, verstecken sich und versuchen moeglichst den Kontakt zu den Taetern fruehzeitig erkennen zu koennen um auszuweiche
+10. die Schuld gegeueber dem Opfer bleibt, die Schuld gegenueber dem Schaden welcher der Allgemeinheit gegenueber entstanden ist bleibt
+11. schlussendlich werden Menschen welche Maechtiger seid als Ihr mindestens den entstandenen Schaden gegenueber der Allgemeinheit zurueck fordern, selbst wenn ihr an die CH-Army bei punkt 4. eure Ablasshandels-gebuehren in Form von Ramsch bezahlt habt
+
+und mit mehr Technologie hat es auch mehr ueberwachung, also dass ihr diese Dinge fuer immer vertuschen koennt ist unwahrscheinlich, bzw eine Abklingfunktion in abhaengigkeit der Zeit [t]
+
+----=====  Tue Sep 24 21:11:06 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 19c6c2ff6b27ec4ca68ed7fadf02479dbe714510 ====----
+[main 8378c6d2] ... 19c6c2ff6b27ec4ca68ed7fadf02479dbe714510
+ 1 file changed, 18 insertions(+), 25 deletions(-)
+
+
+----=====  Tue Sep 24 21:17:41 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 2965483239c5e70efee6b8e834f71df82ea57d65 ====----
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+um nur einige der tausenden Beispiele nur aus der Pfadfinder Abteilung Adler Aarau zu nennen
+
+ca 1997
+1. Mark Haldemann v/o Okapi, aelter als marc jr landolt v/o Floppy
+2. Okapi ist Vorbildfigur, Fuehrer Figur fuer Floppy und viele andere gewesen
+3. Okapi stiftet Floppy an das Hinweisschild "Adelboden" auszureissen, mitzunehmen
+4. Beat Ingold v/o Smart demontiert noch das metall geruest
+5. DELETED: und das nach dem Christian Wehrli v/o Mid die juengeren Pfadfinder die noch nicht so viel Erfahrung mit Hochprozentigem haben mit Feuerzange-Bowle (kramboli) haben
+
+die jahre vergehen es ist schaden bei der Gemeinde Adelboden entstanden
+# 50 - 100 sFr fuer das Schild
+100-200 sFr fuer die Halterung welche Beat Ingold hinten im Hotel zum fenster raus geworfen hat
+100 sFr fuer die Montage
+
+Marc jr sendet ca 500.-- an die Gemeinde Adelboden mit der Beichte dass er das war
+
+
+
+Hinweisschild ist nicht so schlimm, allenfalls hat dann jemand den weg weniger schnell gefunden, aber z.B. der Simon Haerdi v/o Kork stiftet Marc Klemm v/o ... dazu an am suuserbummel die leuchtreflektoren pfosten auszureissen in einer gegend wo es viel nebel hat.
+
+was wenn an diesem abend wegen den fehlenden pfeilern ein auto im strassengraben gelandet ist udn es sogar tote gab, oder ob das selbe gemacht wurde als Tobias Moser einen nicht toedlichen unfall hatte oder michelle eichenberger einen unfall im Schachen aarau hatte?
+
+
+
+schlussendlich zeigen alle auf Floppy: zusammen sagen sie alle "es war floppy." selbst fuer diese dinge wo floppy gar nicht beteiligt war
+
+man betrachte die alten fotos von der Schenkenberger stammbude, oder vom Pfadilokal Goenhardweg 32, bzw dem Club dort, da waren nicht nur hinweisschilder
+
+----=====  Tue Sep 24 21:26:36 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 2965483239c5e70efee6b8e834f71df82ea57d65 ====----
+[main ab0ed1cf] ... 2965483239c5e70efee6b8e834f71df82ea57d65
+ 1 file changed, 37 insertions(+)
+
+eeg recognition gnome-terminal
+Spinalis override
+A) tippe gedit
+B) tippe terminal
+
+loop {A) B)} && creshendo icd10 g40.2 bis marc jr landolt einen suizidversuch begeht
+
+----=====  Tue Sep 24 21:30:34 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 7f48236e0d1cbc851c304ff3f8f7b763de998118 ====----
+On branch main
+Your branch is ahead of 'origin/main' by 4 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+

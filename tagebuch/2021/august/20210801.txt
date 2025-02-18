@@ -1,0 +1,71 @@
+Sun Aug  1 00:00:50 CEST 2021
+0 0 0 20210801.txt
+
+gefahren-quellen
+gefahren-zonen
+gefahren-zeiten
+
+... ist haben (buchhaltung) für die täterschaft, z.B. am 1. August wo Feuerwerk abgelassen wird kann die KSA Neurologie Aarau tun und machen was sie will weil die KSA droht dann vermutlich damit Kinder abzufackeln oder Häuser oder Wälter abzufackeln, apropos 400 fehlenden Panzer der Schweizer Armee.
+
+positives: dieser 1. August ist wieder mal komplett verschifft, also Wälder abfackeln geht vermutlich nur mässig toll ->>>> massleak
+
+
+marc@DESKTOP-B99KF62:~$ figlet -f banner " . " -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★☆☆☆☆☆☆☆☆
+☆☆☆★★★☆☆☆☆☆☆☆☆
+☆☆☆★★★☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆☆
+☆☆☆★★☆☆☆☆★☆☆☆☆
+☆☆☆★☆★☆☆☆★☆☆☆☆
+☆☆☆★☆☆★☆☆★☆☆☆☆
+☆☆☆★☆☆☆★☆★☆☆☆☆
+☆☆☆★☆☆☆☆★★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★★☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆☆
+☆☆☆★★★★★★★☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+Sun Aug  1 00:04:20 CEST 2021
+  48  130 2059 20210801.txt
+[main 34dd7538] save
+ 12 files changed, 3777 insertions(+)
+ create mode 100755 TODO/XTC/Unbenannt.PNG
+ create mode 100755 TODO/XTC/couchy.PNG
+ create mode 100755 TODO/asdfasdf.svg
+ create mode 100755 TODO/c3auti/photo_2021-07-31_23-37-09 (2).jpg
+ create mode 100755 TODO/c3auti/photo_2021-07-31_23-37-09.jpg
+ create mode 100755 TODO/c3auti/photo_2021-07-31_23-37-10 (2).jpg
+ create mode 100755 TODO/c3auti/photo_2021-07-31_23-37-10 (3).jpg
+ create mode 100755 TODO/c3auti/photo_2021-07-31_23-37-10.jpg
+ create mode 100755 TODO/c3auti/therapie-01.PNG
+ create mode 100755 TODO/c3auti/therapie-02.PNG
+ create mode 100755 TODO/nurEineTablette.svg
+ create mode 100644 tagebuch/2021/august/20210801.txt
+c0adc8947af5bc369b756803edebbaac46964f2b3e394bf7f1e602f8da614827bf644f185bf5fd72183020088445bba8e8e888cfdea557a3105530a6b8836515  20210801.txt
+
+Sun Aug  1 00:04:36 CEST 2021
+  66  201 2958 20210801.txt
+[main 8290dc5b] save
+ 1 file changed, 18 insertions(+)
+b3509ebf52a83a64d4f90a41448435649d14de83174fab78435e31b72f70fcea05613670e5ce6626dc115de818c40da993db58b5c4e388e69fa81bb5296d60c1  20210801.txt
+

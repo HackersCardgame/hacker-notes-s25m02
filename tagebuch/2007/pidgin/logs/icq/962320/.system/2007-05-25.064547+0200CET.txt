@@ -1,0 +1,9 @@
+System log for account 962320 (icq) connected at 25.05.2007 06::45::47
+---- +++ 962320 hat sich angemeldet @ 2007-05-25 06:45:47 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-05-25 06:45:47 ----
+---- shrike wurde tätig @ 2007-05-25 06:45:47 ----
+---- tdr-timon hat den Status von Offline zu Bereit zum Chatten geändert @ 2007-05-25 06:45:47 ----
+---- shrike hat den Status von Verfügbar zu Offline geändert @ 2007-05-25 06:56:32 ----
+---- +++ 962320 wurde untätig @ 2007-05-25 06:46:32 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-05-25 17:54:42 ----

@@ -1,0 +1,13 @@
+System log for account 962320 (icq) connected at 30.04.2007 16::45::32
+---- +++ 962320 hat sich angemeldet @ 2007-04-30 16:45:32 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 2007-04-30 16:45:33 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-04-30 16:45:33 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-04-30 16:45:33 ----
+---- Dominik wurde untätig @ 2007-04-30 16:45:33 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-30 16:48:55 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-30 16:58:55 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-30 17:18:55 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-04-30 17:28:09 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-30 17:28:55 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-30 17:33:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-04-30 17:57:22 ----

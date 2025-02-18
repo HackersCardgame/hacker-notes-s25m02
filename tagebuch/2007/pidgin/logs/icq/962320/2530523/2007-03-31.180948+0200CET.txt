@@ -1,0 +1,13 @@
+Conversation with 2530523 at 31.03.2007 18::09::48 on 962320 (icq)
+(18:09:48) shrike: jojo
+(18:09:58) shrike: aber wer will schon vista
+(18:14:12) landev: ich zum biischbiil...
+(18:31:03) shrike: scheiss os
+(18:31:24) landev: hani au scho usegfunde, aber i muess öppis uusprobiere...
+(18:31:36) shrike: und was=
+(18:31:38) shrike: ?
+(18:32:14) landev: irgendwie chont mini schwöschter nid uf d siite vo mim brüeder www.away.ch und i dänke es liit am ipv6 wo im vista isch... die meischte andere siite gönd
+(18:34:08) landev: mit "telnet www.away.ch 80" und denn "GET /" chont gar nüt und au bi eim vo mine dozente wo linux fahrt mit ipv6 gohts nid...
+(18:38:09) shrike: kann's testen für dich
+(18:38:23) shrike: hab hier 3 notebooks mit scheiss vista 
+(18:41:19) landev: hey das wäre voll cool...

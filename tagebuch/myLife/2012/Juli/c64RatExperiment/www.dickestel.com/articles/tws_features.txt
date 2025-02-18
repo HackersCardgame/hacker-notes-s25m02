@@ -1,0 +1,147 @@
+OVERVIEW OF WRITE STUFF FEATURES
+
+by Dick Estel
+
+
+There are two or three ways to do many of the special functions in The Write Stuff. All are right and
+none are wrong--but some are easy, which the author of the program says is for experienced or expert
+users. 
+
+What a deal--doing it the easy way will make you an expert!
+
+Sit down at the computer, load TWS, load a file that is several paragraphs long, and practice as you
+read this article.
+
+You can experiment with the program without any damage if you follow two rules:
+
+1. Use a copy of the program, not the original.
+2. Use a newly formatted disk to save your experiments.
+
+First, a basic fact about The Write Stuff: Without any exception that I know of, when the cursor is on
+the command line, and there is a list of menu choices displayed, you can press the first letter of any of
+the words shown to take action.
+
+For the most part, this applies when you enter command mode by pressing the [UP ARROW]. In
+TWS 64 you will see:
+
+[BACKARROW] Help Edit Print Save Load
+
+After pressing [UP ARROW] you can cursor to any of the choices. But it's easier to do it the "expert"
+way, by just pressing the first letter of the choice you want.
+
+Often, this will bring up another menu, and the same technique can be used with this new list of choices.
+For example, if you press p (for print), you will see the print set-up screen, with the following choices at
+the top:
+
+Print to: [BACK ARROW]  Screen  Printer 
+
+If you press s, the file will immediately be printed to the screen (i.e., the print preview display). If you
+press p, it will be sent to your printer.
+
+Try the other choices to see how they work. Remember, if you are using the autosave mode, pressing s
+will immediately save your file, replacing any earlier version with the same name. And remember to
+follow the two rules mentioned at the top of this article.
+
+The switch from typing on paper to typing on a screen created the need for a new technique in typing.
+Instead of moving the paper around under a fixed spot, the typist now moves the cursor around the
+screen to the location where text entry is desired. This can be accomplished with the cursor keys, which
+usually move the cursor one space at a time in any direction, and which can be held down for repeated
+movement.
+
+This is fine for moving the cursor a word or two, but tedious when you need to move through several
+paragraphs, or to the 10th page of a 20 page document.
+
+There are two major categories of techniques for moving around your document in The Write Stuff.
+First are the cursor movement features, where using the F keys takes you beyond the one character
+movement allowed with cursor keys.
+
+The basics of this are simple: F1 moves forward a word at a time, placing the cursor on the first letter of
+the next word. F2 moves back a word.
+
+F3/F4 moves forward or backward one sentence--but remember that TWS defines sentences as a
+string of text which ends in a period. A decimal point is seen as the end of a sentence. The cursor is
+moved to the first text character following a period. [RETURN]'s and spaces are skipped. Shifted
+spaces, however, are defined as a character, and if a shifted space follows the period, that's where the
+cursor will go.
+
+F5/F6 move forward and back one paragraph. The cursor will go to the first position after a
+[RETURN], even if that character is a space or another [RETURN].
+
+The details of where the cursor goes is not a big deal and usually doesn't make any difference. If you hit
+F3 and the cursor stops after a decimal point, just keep hitting F3 till you get where you want to be.
+
+F7 moves the cursor to the bottom of the screen, with some minor exceptions that again don't really
+matter. When you hit F7, the last word on the screen will become the first word on the screen, unless
+you are close to the end of the file. There are occasions when the cursor will go beyond the end of the
+screen, but I've never been able to figure out the rule. No matter--if you're trying to get to the bottom of
+the file, hit F7 till you get there!
+
+But wait--there's an even quicker way to get to the bottom of your file: Press and hold [SHIFT], then
+press [CLR] [CLR]. The first [CLR] takes you to the bottom of the screen, the next one to the end of
+the file.
+
+You can probably guess what [HOME] [HOME] will accomplish.
+
+F8 moves up approximately 18 screen lines.
+
+Another way to move quickly through a document is to hunt for a specific word or letter sequence.
+Obviously hunting for the word "the" is going to produce a lot of hits. Here's a technique I use: If I'm
+working on a document and want to be able to find a specific spot later, I enter three or four asterisks
+(****). Then I can quickly find that spot by using the Hunt feature.
+
+Finally, let's look at moving or copying sections of text. This is accomplished by entering command
+mode and selecting Edit. This puts the program into the copy text mode, described in the manual and
+on screen as "eating text." 
+
+Remember, when the cursor is on the command line, and there is a list of menu choices displayed, you
+can press the first letter of any of the words shown to take action.
+
+You can get into the "eat text" mode in two ways:
+
+1. Press [UP ARROW]. You will then have the following choices:
+
+[BACK ARROW]  Help  Edit  Print  Save  Load
+
+You can cursor to Edit, but it's easier (and more "expert") to just press e.
+
+You will now see another menu:
+
+[BACK ARROW] Eat Text  Restore Text  Clear Text
+
+Guess what--you can cursor to Eat Text, or press e (you already knew that, didn't you?)
+
+You can also get to this point just by pressing [CONTROL] e. Regardless of which method you use,
+you will see the following:
+
+[BACK ARROW] Word  Sentence  Paragraph
+
+Again, instead of moving the cursor to the desired choice, you can just press the first letter of the word.
+Thus [CONTROL] e p will "eat" the paragraph the cursor is on. You can continue to press p to eat
+more paragraphs. The same concept applies for words and sentences. Remember, the program
+identifies any period as indicating the end of as sentence, so if you have periods used as decimal points,
+text will be eaten up to and including the decimal point. You can eat a combination of words, sentences
+and paragraphs. And pressing c will "eat" an individual character, although this choice is not shown in
+the menu.
+
+Here's another way to eat text, and a related warning. Earlier in this article we talked about moving
+around the screen with the F keys (F1 to move word by word, F3 for sentences, F5 for paragraphs).
+When you are in the Eat Text mode, these keys will EAT word/sentence/paragraph. This can get you
+into trouble if you think you are in normal edit mode but you are actually in Eat Text mode.
+
+When text is copied (eaten), it is saved in a buffer, which is simply a section of computer memory set
+up for this purpose by the program. As long as the text remains in the buffer, it can be copied
+anywhere, as many times as desired. 
+
+After you have finished "eating" the desired words/sentences/paragraphs, press the [BACK ARROW]
+to return to normal text mode. You can now restore the text where you want it, and of course, there are
+two ways to do it:
+
+1. Press [UP ARROW], select Edit, then select Restore Text (remember, you can just press [UP
+ARROW] e r. You can also press [CONTROL] r. As soon as you hit r, the text will be copied at the
+cursor position. If you want the text in another area, move the cursor, and press [CONTROL] r again.
+
+Remember, text in the buffer is lost as soon as you enter Eat Text mode again. Press [CONTROL] e,
+and you will see the message Stomach Emptied at the bottom of the screen.
+
+Practice and experiment. Did we mention that you should always use a backup copy of the program?
+

@@ -1,0 +1,246 @@
+
+Mon Aug  2 22:27:52 CEST 2021
+2 0 2 20210803.txt
+
+marc@DESKTOP-B99KF62:~$ figlet -w200 GoodMoring CyberVietnam
+  ____                 _ __  __            _                ____      _             __     ___      _                         
+ / ___| ___   ___   __| |  \/  | ___  _ __(_)_ __   __ _   / ___|   _| |__   ___ _ _\ \   / (_) ___| |_ _ __   __ _ _ __ ___  
+| |  _ / _ \ / _ \ / _` | |\/| |/ _ \| '__| | '_ \ / _` | | |  | | | | '_ \ / _ \ '__\ \ / /| |/ _ \ __| '_ \ / _` | '_ ` _ \ 
+| |_| | (_) | (_) | (_| | |  | | (_) | |  | | | | | (_| | | |__| |_| | |_) |  __/ |   \ V / | |  __/ |_| | | | (_| | | | | | |
+ \____|\___/ \___/ \__,_|_|  |_|\___/|_|  |_|_| |_|\__, |  \____\__, |_.__/ \___|_|    \_/  |_|\___|\__|_| |_|\__,_|_| |_| |_|
+                                                   |___/        |___/                                                         
+marc@DESKTOP-B99KF62:~$ 
+
+
+
+
+QeD: das hat nichts mit dem anfassen oder nicht anfassen des schwänzchnens zu tun obwohl das "lucid dreaming" heisst
+
+
+RECURRENT Crypto-Traum: 
+recurrent = todo
+
+irgendwas hat abb beim 3Schluchten Damm verbockt, aber nach dem die ABB von der Zürich versicherung verschlungen wurde die mutmasslich ein USA ableger ist
+
+das zu entschlüsseln wird dauern...
+
+damit ich das grad wieder vergesse wird der höheverstellbare tisch/bett signatur in der wohung oben dran odre auf dne lautsprechern grad wieder eingeschaltet, ttraumabased mindcontrol akkustische signatur
+
+der leak Marcel Rüegg hat in Abudabi und Dubai ABB Produkte vertickt und installiert. da gibt es etwas zu holen, und das nach dem die ABB geownt wurde
+
+"der krieg in abudabi / duibai geht los" <- eher wie die schweiz, geld <-> drehscheibe für das USA EDV und finanz CTF
+
+sämtliche anklagen die aus diesem leak folgen gehen diese sorte von Amerikanern an, auch wenn sie wie urs blum oder gabriel riela einen schweizer passe haben
+
+Mon Aug  2 22:34:15 CEST 2021
+  35  331 1902 20210803.txt
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+d02cfde005c0ee2472a8704610f07487219d291772f10eb9e620d542a767c1a067580ccae7616d24c4d8a4fd781425239686c8fbb8a49e65dd8e7d408ab079f5  20210803.txt
+
+
+FUNFACT DES >>> LUCID <<< DREAMS:
+Der Julian oder die Greta nerven auch weil sie es wirklich besser wissen
+
+Mon Aug  2 22:39:35 CEST 2021
+  48  388 2367 20210803.txt
+[main f97e3cc] save
+ 1 file changed, 5 insertions(+)
+b8e6978fef2a395f191b849d9783cac46b3724fa7dfa517b9621affbae4438eee4d79068681158478cca1803e92ed19c3db6f2f0d6ac62969beb6c33892bef18  20210803.txt
+
+jemand der sich als christian t. ausgibt:
+reise nach jerusalem, europa im ölrausch  <- ich: das wäre eigentlcih lösbar wenn man nur einen kleinen Teil (was dann trotzdem viel fläche wäre) der sahara mit solar-panels pflaster (wenn dann der amsler wach ist könnte man ihn ja zu dieser thematik slappen)
+
+da gehts meiner mieung nach eher um macht und die wollen logischerweise in den islamischen staaten die macht haben vertuschen zu können dass usa an moslems einen genozid verübt haben
+
+
+
+Mon Aug  2 22:51:03 CEST 2021
+  61  488 3119 20210803.txt
+[main e4a2e97] save
+ 1 file changed, 8 insertions(+)
+9f817e609b13c26c129c44ecc40068378b02e77a7f3d1d0018b1a797d2b2b459efca098ac19e3e4282b7dbba4bc2803f68e4adc10c5c63c1e812c82ed3c08e6d  20210803.txt
+
+
+UNBEKANNT: der ganser ist ein snitch und us verräter [fork: verrät usa, verrät für die usa] <- selbst wenn ganser ein volldepp währe, solche dinge gehts um irgend 1Mio menschenlebne die wir retten könntenm
+
+Marcel Rüegg hat Netzwerkkomponeten von ABB Vertickt, also da geht es um die hoheit in den netzen und z.B. Brainjacking, hat jemand kontakte zur syrischen cyberarmy?
+
+
+
+
+Mon Aug  2 23:01:31 CEST 2021
+  75  568 3759 20210803.txt
+[main ad93b89] save
+ 1 file changed, 9 insertions(+)
+ba52cb5938b07d402ef11b35b87861501bc44623884d76e200758e22f1192b15e222e708e8a6da7d5146a0f7b10b53d3c098417eb00ae14369cb46612d45b300  20210803.txt
+
+
+marcel hat noch cisco ip-telefone erwähnt -> m75 und cisco logo wie flugzeug flaggschif bei einem overlay, wiedererkennungswert für CTF?
+
+und afaik in white house steht auch jewiels cisco phones
+
+Mon Aug  2 23:16:02 CEST 2021
+  86  618 4213 20210803.txt
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+276db55b6c4e3101f6d81b1f65077c59d4401a820cebcc3c661dbd3ba2fe36cc4d4a42001db62a8832c3f4099b2acf18d6ce5e9613a1957b704b965e27a3708e  20210803.txt
+
+über die cisco phones gibt es ein CCC talk aber der ist auch scon irgend 10 jahre alt, allenfalls ist das feautre dass die dinger hackbar sind, so kann sich cisco mit "sorry waren blackhats" rausreden
+
+=> konzept wissen "leaving us vunerable" generell und bei targetet individuals "making us vulndable" ???
+
+Mon Aug  2 23:18:40 CEST 2021
+  99  707 4878 20210803.txt
+[main 9cee390] save
+ 1 file changed, 5 insertions(+)
+bd6a62be05916023349c8d4bd5de4e0d3e202a943a1f69c7d655f55c2afb3b44682e2f688e8fe175d61a9c9c03004022fd842860d54b5b2f3de5f6715da76534  20210803.txt
+
+[DELETED] Select * from Surfer, ... @ ABB eingestellt oder wie der riela bei oniko aus externer
+
+die sogenannte schleichende islamisierung wäre ein one-eighty dass es eine amerikanische schleichtende schleichisiuerung ist?
+
+Mon Aug  2 23:30:05 CEST 2021
+ 109  758 5358 20210803.txt
+[main d2c6a54] save
+ 1 file changed, 5 insertions(+)
+062a22954297a08e22af4fdaa6cb3dd192a3c5d705b679c4f3b344f17092722042f4e9dd6384829414e413cd3ffb6d8a61982a3547892d5d612c4e6be65b5086  20210803.txt
+
+der CCC talk war afaik zur firmware
+
+Hypothese:
+die firmware ist vorsätzlich hackbar, die haben aber allenfalls noch ein agency / militaryGrade hardware modul für eine auserlesene menge von supermacy mongos die sicher ist... der CCC wäre dann der depp 
+
+also sobald die firmware hacked ist (red team) können die die >> hacker << dafür blamen und cisco verkauft dem opfer ein update?
+
+wäre nciht ein atypischer schachzug für menschen die zu viel zeit haben für so dinge
+
+
+
+
+
+Mon Aug  2 23:37:59 CEST 2021
+ 128  856 6095 20210803.txt
+[main b23f7ea] save
+ 1 file changed, 14 insertions(+)
+2d98b01a3ef46d9b80e140bc9d2b60507447c90c1dee7901e0b53b6de7353dd8b74c076b785a8e1fdf07d9cbc2f27704ba898e572318a05ba29dacb3f9d581cf  20210803.txt
+
+
+
+DISASSEMBLY:
+Vergewaltigungsandrohung druch astrid blum-truffer -> somit hat jetzt ihre amerikansiche täterschaft der astrid den auftrag geben mich kontext sexueller integrität in den suizid zu treiben um vom obigen abzulenken
+
+[1] Medulla spinalis THS hacked
+
+somit allenfalls rasch ein fullscreening der bisher aufgeflogenen täter und alle technologie der bisher aufgeflogenen täterschaft deaktivieren...
+
+Tue Aug  3 03:16:09 CEST 2021
+ 143  928 6765 20210803.txt
+[main c9328a8] save
+ 1 file changed, 10 insertions(+)
+6c6cdeb23847f37776dfba7513584cef77147462a4eff18f4acdeae4792a39ce31c8e4493c13ecdd5856274e1dd245c147becf31b2b3a0118ad6f532415a1e26  20210803.txt
+
+die haben sich auch schon wieder an meine geänderten tagesabläufe angepasst, so etwas wie pädokriminelle wing-man's (ausdruck aus xWing)
+
+georg landolt <- der ist mittäter und hat auch dreck am stecken
+Terrordrohung durch pfsiterer nach: alle studien materialien von marc jr landolt gelöscht wurden
+
+sabotage  wiko design sunny 2 hand pattern ist so dass man zur reparatur ein messer braucht und mit dem messer wird der zuege dann von pfisterer wieder abgestrochen [1]
+
+
+das hochpreisland produziert mit mitpatienten von marc jr für alle güter die marc jr kauft die günstig sind cybersprengfallen ... das sind vermutlcih mitpatienten die aber eher täter als patienten sind, weil das braucht relativ viel zeit und zugriff z.B. auf 3D software und raumüberwachung
+
+studienmaterial gelösht wordne, beweismittel die einige fha professoren überführen <-> härid htl ... <-> pfsiterer
+
+
+die HTL schreibt cyberwaffen udn die psychiatrie patienten die ihren ersten partner ermordet haben benutzen diese cyberwaffen <- wenn das stimmt aktiviert das die halbe HTL als terrorristen gegen marc jr landolt
+
+pfisterer: georg landolt hat seine 1950er ursula ermorde aus langenthal, das wurde nur geheimhgehlaten als damoklesschwert über georg's kopf... verfahrenseröffnugn <- ich: vermutlich exitStrategie
+
+Tue Aug  3 04:55:32 CEST 2021
+ 166 1137 8328 20210803.txt
+[main 39b3144] save
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+23f9e7f14e1bc74fa60eebe898d8cada0e70133b8e2ccdf3b52bda2427276142985dc7fcdf8f68db4bde65cc899bcfe8f1d322c8fd258d73a08e4a751379330c  20210803.txt
+
+simon härdi mit seiner pistolengeste in richtung kopfhöhe eines kindes hat somit geleakt, dass das drohen und ermorden von verdingkindern in HTL kreisen üblich ist, rechtlich stgb180 allenfalls auch stgb185
+
+Tue Aug  3 05:03:47 CEST 2021
+ 174 1189 8810 20210803.txt
+[main 45c7c0b] save
+ 1 file changed, 3 insertions(+)
+c4cbc42aae454a95c71c6e9295c15ebe1b76a105914cc3b3a5d0d65c2bf6b1928042e8dcff9ed15a977e5656c4e7f557138b5f17c38c8ac83f3d1914b5206386  20210803.txt
+
+
+härdi:
+[DELETED] [REBUILT] forward / reverse contaction martin blum <-> martin häfliger
+
+vermieter georg landolt will epilepsie induztierende geräte weiter missbrauchen
+
+konzept das grad läuft: alle täter auf anklage bank so können sie sich gegenseitg die schuld zushciebne und der letzte wird dann aber von urs blum mit sprengfallendorhungen wieder befreit
+
+Tue Aug  3 05:08:31 CEST 2021
+ 188 1260 9431 20210803.txt
+[main 8afaf3a] save
+ 1 file changed, 6 deletions(-)
+1dd9285758fa670174633ff2e6c244678838da5ad971b18b4202beb7886c5299bb473c136ce113143625569f662cf55fc8a9c3be691a2e5357d76f79e3e2c0a4  20210803.txt
+
+seit 10 jahren seit dem gerichtsfall mit urs blum wird behauptet disso (icd10 f44.x) sei dazu da zu verhindern dass opfer und zeugen wie ich drauf gehe, das ist aber meiner mienung dazu da dass die täter zeit haben sich zu verdürcken
+
+
+micro sdkarten sabotieren, identifikationswert: sehen aus wie drogen tripsli, somit diese dinger so zu sabotieren dass es ein unlösbarest problem ist diese zu repareiren *epilepsie*
+
+beweismittel, mafia mental operating system, dass die täter das gefühl haben sie *F44x* sie kämen mit ihren morden druch, mafia mental operationg system tarnt aber army terrornetzwerke
+
+Tue Aug  3 05:13:33 CEST 2021
+  201  1374 10296 20210803.txt
+[main 0cfa33b] save
+ 1 file changed, 1 deletion(-)
+2e2ab7623d26c4df2bd656c10fd93a5a6e30a85d05d2e8ea2bee8fa9a2e26902755b011391f1dfbc3da407fb7f05a7c9e89ebf1116f447f98a7c6c0d3b7d7e55  20210803.txt
+
+relenvatne information sdkarte<->hardreset<->wiedererkennungswert -> pfisterer fängt an gegen patietnen drohen, ausserdem doubletimeslotting stgb180 / 185, härdi sagt somit dass die htl zugriff auf die küche in der psychiatrie hat (war früher sogar die selbe küche) und wenn den htl menschen eine sicherung druchbrennt vergiften sie einfahc patieten?
+
+zuvor:
+bioterrorsimusdrohung druch die zürich verischrung
+
+pfsiteerer:
+die küche in der psychiatrie königsfelewn wird heute in alle mahlzeiten [1] tödliches gift tun
+
+[1] hanno: essen sie gut
+
+Tue Aug  3 05:44:45 CEST 2021
+  217  1468 11106 20210803.txt
+[main 971b971] save
+ 1 file changed, 2 insertions(+)
+dd07b2a7a42fae30d101ea4c9bdd3bc0e18c5f6108b146a3ffb4b1446c92bc9705131e44dd2f57c8f3225fd3846c439ffdc8d0c61a6803955e55e36ff6c73434  20210803.txt
+
+
+simon härdi:
+der truppenkoch in jeder armee kann jeder zeit die 20 jährigen rekruten mit gift ermorden, so bekommen wir an das geld der eltern <- ich: härdig [1] bezichtigt die armee, da würden die herren dann [2] vermutlcih bei der militär - justiz oder die militär justiz bei bundesgericht antraben
+
+[1] unbekannt: oder sprachsynthese
+
+[2] martin blum: ich lasse mir nicht ins essen spucken
+
+Tue Aug  3 05:56:58 CEST 2021
+  231  1553 11765 20210803.txt
+[main 693f749] save
+ 1 file changed, 9 insertions(+)
+c56b2b6adea80b8ccf5186acfb20ab0c9db4640b36da0e816bb77dffa19e1de29304251916687cdcd42ac5a9680cfd758056b12c3b2f89434803bc927c593181  20210803.txt
+
+also sobald einer der täter auffliegt oder ein konzept der täerschaft schalten da alle anderen täter dazu, alle zünden ihre sprengfallen, drohungen, vergiftungsdrohungen, schlaten mordakten anderer frei... aprops "der feind verbündet sich" [1] udn dann hätte man wieder die triggernden trigger die marc uwe kling so schön erklärt im rC3 qualitly land 2.0 talk
+
+[1] joseph weizenbaum: krieg ist der feind
+
+Tue Aug  3 06:34:43 CEST 2021
+  241  1634 12436 20210803.txt
+[main c79b2c2] save
+ 1 file changed, 5 insertions(+)
+cd766141f0672677cff737e12c4068eb7da119a0c1ec53196cfe42d0ce5cb2bff07c3f7f32adaac050d6bd33c71a355c1986532d31e4560e937665f8a5501dfc  20210803.txt
+

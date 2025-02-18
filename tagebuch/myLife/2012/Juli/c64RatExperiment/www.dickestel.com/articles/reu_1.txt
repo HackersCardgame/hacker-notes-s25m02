@@ -1,0 +1,153 @@
+REUs, EXes and You, Oh My!
+
+by Roger J. Long
+
+Recently a fellow club member helped pin-point why my SuperCPU accelerator acts finicky with some
+computers. It wouldn't always work when the computer was turned on. He solved it by changing the
+angle the SuperCPU connects to the computer at. He propped up the back end of the computer by
+laying a pencil underneath it. The connectors on the SuperCPU made full contact, and it worked
+reliably afterwards.
+
+This reminded me to dig up the response I had received from CMD regarding another cartridge port
+problem I had.
+
+
+My question to CMD:
+
+I have the EX 2+1 cartridge port expander, but have been unable to use it due to what is probably
+signal degradation. My system is a C128.
+
+I have tried just plugging the REU (a 1764 that's been expanded to 1 megabyte) into the 2+1, but then
+the REU stops working reliably with GEOS. So, I haven't even tried anything fancier; such as the
+Swiftlink, REU, SuperCPU and Novaterm combo that I've been wanting to try out.
+
+Both the C64s and the C128s I have have a heavy duty power supply. Would a C64 provide more
+current to the cartridge port? I'd like to keep using the C128 so that when I get Novaterm 9.6, I'll have
+access to the 80-column video mode, but if it takes a C64 to make the EX 2+1 work reliably, I'll hook
+that one back up.
+
+
+Response from CMD Support:
+
+You could have either noise or signal strength problems. The power supply isn't going to change the
+results in this case, as it isn't a matter of needing to supply more current to the device on the port. It has
+more to do with either the ability of the chips whose signals are on the port being able to handle the
+loads placed on them without degrading, or it may be that the extra length or connections involved are
+allowing too much noise on the signal lines.
+
+The first thing I'd try, if at all possible, is a different REU. Stock REUs often generate a lot of noise by
+themselves on the signal lines, and create a fair amount of drain on the signals as well. Expanded REUs
+create even more of a problem; a 1 MB expansion of a 1750 places four times the signal load on the
+signal lines. In addition, the method of 'piggy-backing' often produces signal noise levels many times
+higher than the original chips would have. Anyway, a different REU could be lower in noise, and an
+unexpanded one will put less of a load on the bus. If you find this is the cause of the problem, you might
+want to look into one of our 1750XLs, as they have only four memory chips loading the bus, where
+your expanded unit has, I, believe, 32 memory chips.
+
+
+Additional notes:
+
+CMD was indeed correct in the amount of chips in my REU. There are 16 connected directly to the
+motherboard, and each one has a second chip piggy-backed and soldered directly onto it. In addition,
+there are lots of wires running around that make the connection to that extra 512K in the REU. Plus, I
+have a switch installed that lets me select between a stock 512K or the full 1 megabyte, so that it
+remains compatible with "Maverick." (I have directions somewhere on how to modify Maverick to use
+a full 1 meg REU, but never got around to implementing them.) When I was making the modification, I
+went for functionality, not FCC certification.
+
+So, I don't doubt that there is both noise and weakened signal strength going on inside the REU:
+
+However, it works fine hooked directly to a C64, C128 or the SuperCPU. It just can't quite handle the
+extra distance of being plugged into an EX 2+1 cartridge port expander.
+
+I do have an additional 1764 REU that has 512K in it. This may perform better when attached to the
+2+1.. I have not tested this yet due to the fact that it has less memory than the one I use now, and I
+need most of it for when I do the newsletters. It will get tested in the future, however. I plan on getting
+"GeoFax" and see how well that works as a scanner.
+
+
+REU History:
+
+Commodore produced 3 RAM Expansion Units (REU). The 1700 REU had 128K and the 1750 had
+512K. Both were marketed for the C128. The 1764 had 256K and was marketed for the C64. The
+1764 included a heavy duty power supply since a stock C64 power supply didn't have enough strength
+for the REU. A C128 power supply is already heavy duty, so the 1700 and 1750 just came by
+themselves.
+
+Interestingly enough, rumor had it that the 1700 and 1750 only worked on the C128, and the 1764
+only worked on the C64. But it didn't take long before that rumor was squashed. Upon opening the
+1764 and taking off the metal shield, the words "C128 RAM Expansion" can be seen on the circuit
+board.
+
+There are 16 spaces for chips on the circuit board, in two rows of 8. At the time they were made,
+memory was quite expensive, and they commonly had one chip work with one bit at a time. So, it took
+8 of these chips to make a full byte that the computer could work with. The 1700 used 64K by 1 bit
+chips (64Kx1), and filled all 16 spaces to get its 128K. The 1764 used 256Kx1 chips and just filled the
+first row. The 1750 filled both rows with 256Kx1 chips to get its 512K.
+
+Plans were developed that allowed for going beyond the designed 512K limit. The first step was to
+bring the REU up to 512K. If you had a 1700 REU, you had to unsolder all 16 chips and put in 16
+256Kx1 chips.. Next, a small controller circuit was added, and then a new bank of 512K would be
+added by soldering the 16 new chips directly on top of the first 16 chips. To get 1.5 megs of memory,
+you added another 16 chips, and to go out to 2 megs, you put in a last group of 16 chips.
+
+As CMD mentioned, at any level over 512K, you have a lot of noise being generated in the REU and it
+gets worse the more memory you have. There is also more heat generated the more chips you have.
+And, getting the metal shield put back on the REU gets more difficult when you have 3 or 4 chips
+stacked on top of each other.
+
+When I decided to expand my REU, I had two reasons for stopping at 1 meg. First, the GEOS
+Configure program that Jim Collette modified would only use the first megabyte in a REU to make its
+RAM1581 RAM drive. This is what I use for making the newsletter, since I can store the same amount
+in the REU (790K) as I can on a 1581 disk. Second, I had heard of people having reliability problems
+with REUs expanded to 2 megabytes. Now I know why.
+
+
+Other RAM expansion devices:
+
+The REU really found a home with GEOS users.. Being able to work out of RAM instead of constantly
+from the disk drive (often a 1541) sped things up considerably. Most GEOS users had C64s, but didn't
+want to spend the extra money that a 1764 cost because of the included power supply.
+
+Berkeley Softworks (now GeoWorks) developed their own RAM cartridge called "GeoRAM". It used
+newer memory chips so that fewer chips stored the same amount of memory as a regular REU. It fit
+inside a regular cartridge shell, and didn't require a heavy duty power supply. But, it didn't include
+Commodore's REU controller chip (the REC), so GEOS had to be modified to duplicate all the work
+the REC did. Consequently, it was a GEOS-only cartridge, not usable with anything else. A regular
+REU worked with more than GEOS, such as some Infocom games. A few specialty programs have
+since been written that will work with the GeoRAM.
+
+Between the GeoRAM and today, there have been various RAM devices, such as the BBGRAM, the
+Super 1750 Clone, the RAMDrive and the RAMLink, the latter two being made by CMD. Not all of
+them provided full compatibility with the original REUs.. CMD's newest RAM devices do provide this
+compatibility because they use the REC chip. Modern memory chips allow the CMD 1750 and the
+CMD 1750XL to fit 512K or 2 megabytes, respectively, plus the REC into a package the size of a
+game cartridge. A heavy duty power supply is still recommended by CMD, and I second that
+recommendation. The original C64 power supplies are notorious for killing the C64 also when the
+power supply died. Getting a heavy duty power supply will save your C64 from the grave.
+
+
+Conclusions:
+
+Getting my 1764 REU (and its accompanying heavy duty power supply) was one of the best purchases
+I ever made for my C64. It made running GEOS enjoyable because there were almost no delays when
+working from the REU. It made Maverick work better because the file copier and the whole disk
+copier would store data in it, cutting down on disk swaps.. And, with the new programs like Novaterm
+9.6 making use of it, having a REU "isn't just for GEOS any more".
+
+
+Items mentioned in this article:
+
+CMD 1750: $99.00 CMD 1750XL: $139.00 (Both also available with GEOS 64 or GEOS 128)
+Heavy Duty Power Supply for C64: $59.00 EX 2+1: $39.00 EX 3: $34.00 
+
+1-800-6383-CMD (1-800-638-3263)
+
+
+Roger J. Long, editor for the SWAMI (Amiga) and TC-Cubed (C64/C128) clubs in Southeast
+Washington state.
+
+(This article dates back to late 1997, so prices and availability are not guaranteed).
+
+(Via the Commodore Information Center http://home.att.net/~rmestel/commodore.html)
+

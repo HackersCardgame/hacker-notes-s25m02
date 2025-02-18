@@ -1,0 +1,34 @@
+A Computer for the 21st Century for Commodore Users:
+
+CMD ANNOUNCES PLANS FOR A NEW COMPUTER 
+
+In an Internet conference held on www.delphi.com/commodore on 10 October 1997,  Doug Cotton of
+Creative Micro Designs, released the following information on a new computer that is being developed
+by CMD:
+
+The computer will have a compatibility port that will accept a C-64, Apple or other platforms.      It will
+have 4 MB of RAM, three 40 MHz 65816 processors,  an SGVA controller, and a soundblaster-
+compatible sound chip.   
+
+It will have a new operating system with the multiple processors, so it will be able to perform
+multi-tasking and multi-processing.     
+
+It will have a BASIC command line, printer and high speed serial port, on-board hard drive controller
+and built-in floppy drive.    
+
+There will probably be an option for a built-in modem and browser/Emai1 software.    
+
+It will also support a CD-rom. They anticipate having a built- in program for word processing as well as
+a spread sheet.     
+
+The built-in programs, plus the ability to have local storage, networking, top flight Internet capability,
+and other advantages as well, will make it an outstanding home computer.   
+
+Currently they anticipate the machine to cost about $399, but with increased production, the price
+could come down to about $299.     
+
+A prototype is expected to be completed within a year and with proper funding, can go into production
+almost immediately thereafter. 
+
+(From Mailink, newsletter of Meeting 64/128 Users Through the Mail, January 1998, via the
+Commodore Information Center http://home.att.net/~rmestel/commodore.html )

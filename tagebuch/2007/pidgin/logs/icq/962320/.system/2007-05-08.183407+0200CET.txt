@@ -1,0 +1,27 @@
+System log for account 962320 (icq) connected at 08.05.2007 18::34::07
+---- +++ 962320 hat sich angemeldet @ 2007-05-08 18:34:07 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-05-08 18:34:07 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-05-08 18:34:07 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 2007-05-08 18:34:07 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 2007-05-08 18:34:07 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 2007-05-08 18:34:07 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-05-08 18:34:07 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-08 18:46:07 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-08 18:48:26 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-08 18:51:23 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-08 19:03:46 ----
+---- Schööfli wurde untätig @ 2007-05-08 19:03:46 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-08 19:03:48 ----
+---- Schööfli wurde tätig @ 2007-05-08 19:03:48 ----
+---- Dominik wurde untätig @ 2007-05-08 19:05:21 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-08 19:06:07 ----
+---- Dominik wurde tätig @ 2007-05-08 19:06:07 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-05-08 19:13:00 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-08 19:43:05 ----
+---- dikyangel wurde untätig @ 2007-05-08 19:43:05 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-05-08 19:47:04 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-08 19:58:04 ----
+---- dikyangel hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-08 19:58:05 ----
+---- +++ 962320 wurde untätig @ 2007-05-08 20:00:21 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-05-09 00:18:10 ----

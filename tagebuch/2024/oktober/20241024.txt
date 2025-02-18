@@ -1,0 +1,194 @@
+----------------
+Thu Oct 24 04:47:06 CEST 2024
+3352379af45517fd01bff649fe7fa140626cfaaa
+----------------
+
+Rechtlich beschrifte ich das als Spekulation mir legal vorliegenden Daten und Indizen welche ich gefunden habe OHNE mich eines StGB143ff strafbar zu machen:
+
+
+marc@debian:~/hacker-notes-s24m09$ figlet _Z_ensur
+      _____                             
+     |__  /    ___ _ __  ___ _   _ _ __ 
+       / /    / _ \ '_ \/ __| | | | '__|
+      / /_   |  __/ | | \__ \ |_| | |   
+ ____/____|___\___|_| |_|___/\__,_|_|   
+|_____|  |_____|                        
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+~/hacker-notes-s24m09/scans/26/BRN3C2AF421298E_046458--651-675.pdf
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Die höchste Priorität eines Zensur-Büros [1] ist Geheimhaltung der eigenen Existenz des _Z_ensur-Büros
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+"There is no Fight-Club ähm _Z_ensur-Büro, ist >>>> NUR <<<< eine Versicherung."
+
+
+[1] die _Z_ürich Versichrung
+    ...  ist das _Z_ensur-Büro des TerrorNetzwerks "Schweizer Armee"
+    ...  bzw. derjenigen Offiziere welche Menschen versklaven,
+    ...  Konzerne ausrauben, vergewaltigen, Morden
+    
+[2] Zensur-Büro und Blackhats hocken meist im selben Büro / Firma
+
+----------------
+Thu Oct 24 04:54:22 CEST 2024
+3352379af45517fd01bff649fe7fa140626cfaaa
+----------------
+
+
+dann wurde scheinbar das Verzeichnis hacker-notes-s24m07/cyberWar/planzer gelöscht [1], wenn man das sucht ist es wieder da + irgned 10 weitere falsche spuren für "blaming the user" [2]
+
+[1] und das scheinbar auf dem Datenträger mit Schreibschutz
+
+[2] motiv wäre dass die triebteäter der ch army welche auf planzer, quickpack und ikea informatik systeme zugriff haben da immer wieder das aktivieren können, die webseite der ikea macht den selben mist immer noch => also ikea was 100% nciht schweizerishc ist wird von der ch-army dazu gebaucht zuegen zu bedrohen oder in den suziid oder amoklauf zu triggern 
+
+-> also mich körperlich und psychisch so zu verstümmeln macht den triebtätern scheinbar auch ncoh spass
+
+dann FALLS das FEDPOL mitliest, hat grad wieder jemand ICD10 G40.2 sendeinfrasturktur gegen mich aktiviert, somit wäre es allenfalls sinnvoll alle wohnungen in sendereichweite zu druchsuchen
+
+----------------
+Thu Oct 24 05:44:45 CEST 2024
+86df416b3bf5267803d805f00a82a09a6e75eb85
+----------------
+
+dann das konzept wäre mich mit dem Epilepsie Baseball Schläger dazu zu treien
+
+1. nicht grad backup zu machen wenn ich ein neues github repositoriy beginne
+2. ein backup zuvor zu machen aber nicht mehr zu kontrollieren
+
+
+dann dass die _Z_ürich Versichrung das _Z_ensur Büro der Schweizer Armee ist wäre 
+
+1. so gut gesichert, dass man das sowieso nciht beweisen kann
+2. wäre prokastrinieren karte bei 80% einer andere akte die gelöst würde
+3. war das gestern die übermittlung/indizien, dass Urs Blum und die Zürich Versichrung bereits viele Polizisten, richter und amtspersonen im Kanton Aargau gekauft hätte wichtiger und ein einfacherer fall den man lösen könnte
+
+notiz wurde schon abgeändert :
+dann immer wenn das zensur büro auffliegt fängt urs blum mit sprengfallnedrohungen an
+
+
+marc@debian:~/hacker-notes-s24m07$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+original vor ca. 20 Minuten:
+
+das als das Zensur Büro der schweizer armee also die Zürich verischrung aufgeflogen ist und es bereits zu viele indizien gab, dann stand dann plötzlich in der aargauer Zeitung "Sprengstoff auf waffenplatz weggekommen" ...
+
+----------------
+Thu Oct 24 06:22:35 CEST 2024
+2dc013122302ae83b66b7aba204973a9ef22d6cb
+----------------
+
+dann so wie es ausseiht infizert hostpoint mail die Kunden mit zensur malware, welche dann verhindert dass überhaupt ncoh eine netzwerk-adresser bezogen werden kann,
+
+das hat es sowohl in gnome boxes gemacht, als auch jetzt in der mail vm von virt-mamager / qemu
+
+was man ja belegen soll, sonst ist man wieder ein spinner, und da erkennt deren Terrornetzwerk auch grad dass ich beweisaufnahme mache und sabotiert dann dort auch noch grad den timestamp 
+
+cyberWar/MutmasslichHostpointMailWelcheTcpipStackDesComputerZerstort/AutismusGruppeNoergeltDerAdminAnMeinemPostUndTelegramLaesstMichDasAberNichtKorrigierenAndereKaneleGehenScreenshot
+
+----------------
+Thu Oct 24 07:22:44 CEST 2024
+1b0ca67dc9f71eacb90dabb6de5b434289f214b9
+----------------
+
+* guest vm neu gsetartet
+   ->NIC funktioniert in anderen VM's [1]
+   
+   [1] sprengfallendrohung durch gabriel riela 
+         -> unbekannt: das ist der philipp blum der von sich ablenkt
+
+* alle geusts neu gestartet
+
+* host jetzt neu starten
+     -> bringt nichts
+        -> also man will unbedingt das backup meines mails
+           verhindern, UND sabotiert das mail wo ich meldungen
+           ans zB. die KAPO oder das FEDPOL mache
+
+dann diese malware blendet etwa alle 1 minute das rote X "verbindung fehlgeschlagen" ein und schlatet dann parallel ICD10 G40.2 ein und irgendwelchen höhnischen dinge
+
+also das ist dann wieder problematisch, weil meiner meinung nach wurde michael boeringer oder hapte avaya so zum amoklufer abgerichtet oder bei mir tausende von suizidversuchen ausgelöst
+
+somit ist die Argumentation dass 
+
+* Die _Z_ürich versichrung besitzt mindestens ein 0day exploit für thunderbird und ein 0day root exploit für debian current (Bookworm) welche es 
+A) an Hostpoint ausgehändigt hat
+B) bei Hostpoint über deren Mailserver verteilt
+
+betroffen sowhol debian bookworm gnome als auch debian bookworm xfce4
+
+----------------
+Thu Oct 24 07:41:47 CEST 2024
+b5c82a332c8839c2cb51eda0cdf19b0dfe108c76
+----------------
+
+dann vor 2 minuten EXIT STRATEGIE: marc jr hat auch twitter und facebook geöffnet mit dem VM-Guest
+
+1. ja aber die 2. VM wo nur hostpoint mail ist geht auch nicht
+2. so eine Schutzbehauptung macht auch nur sinn wenn die annahme dass das über hostpoint (grösster hoster schweiz) verteilt wird wie bereits das projekt carnivore (codename) ca 1997
+
+das ist eine statemachine, welche wie N.E.R.O. game genetisch ist, vermutlich schon bei dutzenden menschen zugeschaut hat wie sie das problem beheben und dann all diese varianten auch ncoh sabotiert und zeitgleich immer das icd10 G40.2 noch höher stellt
+
+ich vermute auf seiten der Täterschaft ist das ein drogenkokain trip, welche creshendo denen einredet sie würden immer besser und besser
+
+
+----------------
+Thu Oct 24 07:57:44 CEST 2024
+6d7613459d9cf98b751fa4a932492f21c9b08bf4
+----------------
+
+xfce network manager tray icon wird dann die funktion auch deaktiviert und bei jedem klick auf das icon [1] wird ICD10 G40.2 höher gestellt
+
+[1] wo dann anders als erwartet kein kontext menu kommt
+
+----------------
+Thu Oct 24 07:59:53 CEST 2024
+152eabd954797954d51cc653f3d5ce0ccc268953
+----------------
+
+dann mit wifi usb getestet, dann wifi hat zuerst die wifis aufgelistet, dann wird das aber auch sabotiert, also das ist eine malware die irgendwie dazu lernt ODER ein remote debugger mit hardware funkkanal
+
+----------------
+Thu Oct 24 08:00:50 CEST 2024
+649328ea4a5ff19bb5a7ba2e8485533b9319fb47
+----------------
+
+dann hat jetzt wieder memand mit dem loop { sprengfalle aktivieren angefagnen und draussen nur leise (weil das schn geprägt wurde auf diesen richtungswinkel) ein poltergeist (seite lidl) }
+
+----------------
+Thu Oct 24 08:01:43 CEST 2024
+d6865d2a24f4573b3976ffbdafad55382a03dc08
+----------------
+
+dann sprengfallen wären dem _Z_ensur Büro der Schweizer Armee der _Z_ürich Verischgrung zuzuordnen
+
+----------------
+Thu Oct 24 08:02:17 CEST 2024
+4aa067dbef2b470745e52b79549343c277367cb8
+----------------
+
+und ich bin mir ziemlcih sicher, dass diese Malware spezifishc auf mcih zugeschnitten oder mindestens parametrisiert wurde
+
+somit gäbe es auch für den Michael boeringer oder den Hapte Avaya irgendwo einen explizit auf sie parametrisierte malware welche sie mehr und mehr zu suziidanten oder amokläufern macht
+
+----------------
+Thu Oct 24 08:05:17 CEST 2024
+f4bc63b5659d02e72f1f161228a6a496d6323e8d
+----------------
+
+yayyyyyyyy, wieder mal mein Computer sabotiert worden, gerade dann als der Planzer Paket Bote geklingelt hat und das IKEA Paket gebracht hat, hat mich über 5h gekostet ....
+
+-----------------
+Thu Oct 24 07:16:08 PM CEST 2024
+a6760736dd74e0e683c7c4be8e31d32e823fadfa
+-----------------
+

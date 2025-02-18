@@ -1,0 +1,41 @@
+
+was würde es für einen sinn machen, ein "sie haben dich" mit claudines stimme einzublenden, wenn sie mich hätten. dann wird jetzt eingeblendet, dass ein satellit (meine nerven energiedichte würde eh nicht reichen) ein implantat in meinem gehirn aktiviert hätte (chemitrode oder stimociever) dass mich blöd glücklich macht und mich vom denken abhält
+->ich hätte gesagt das ist ein totmannschalter, also z.B. wenn das kerberos-ticket von satans server abgelaufen ist, dass dann alles blockiert wird. was der computer in diesem ZEtiraum macht wäre hier im log:
+
+
+Sep 16 03:47:42 debian /usr/lib/gdm3/gdm-x-session[2506]: (EE) event9  - SYNA7DB5:01 06CB:CD41 Touchpad: kernel bug: Touch jump detected and discarded.
+Sep 16 03:47:42 debian /usr/lib/gdm3/gdm-x-session[2506]: See https://wayland.freedesktop.org/libinput/doc/1.12.6/touchpad-jumping-cursors.html for details
+Sep 16 03:48:01 debian dbus-daemon[2517]: [session uid=1000 pid=2517] Activating via systemd: service name='org.freedesktop.Tracker1.Miner.Extract' unit='tracker-extract.service' requested by ':1.84' (uid=1000 pid=3358 comm="/usr/lib/tracker/tracker-miner-fs " label="unconfined")
+Sep 16 03:48:01 debian systemd[2482]: Starting Tracker metadata extractor...
+Sep 16 03:48:01 debian dbus-daemon[2517]: [session uid=1000 pid=2517] Successfully activated service 'org.freedesktop.Tracker1.Miner.Extract'
+Sep 16 03:48:01 debian systemd[2482]: Started Tracker metadata extractor.
+Sep 16 03:48:11 debian systemd[2482]: tracker-extract.service: Succeeded.
+
+
+ja das prorammieren geht viel besser und viel sauberer, wenn man nciht permanent einen
+drohenden, einschüchternden, terrorisierenden urs oder pfisterer am ohr hat....
+
+also schizophrenie aufgedrückt bekommen heisst nicht nur, dass man alle kollegen
+alle jobs, alle (eine) freundin verliert, sondern auch dass man irgendwie eine
+"Person of Interest" ist die permanet überwacht und terrorisiert wird.
+
+
+
+FüR TWITTER: bzw. für Pfisterer und Urs
+
+Ich hab einen Platz gefunden, "weit oben in den Bergen" um Patent Ochsner zu zitieren,
+wo die stimmen auf mich keinen Einfluss haben. YAY
+
+und die beste tarnung dass einem das militärisch(-industrieller-komplex) terrorisiert
+ist dass das opfer als terrorist deklariert wird, so kann sich das militär
+das überwachen rausnehmen rausnehemn und den terror den sie dem opfer antun
+tarnen in dem sie das opfer einen terroristen nennen.
+
+
+Moslems sind Persons of Interest. Gott bzw. eben Allah ist mit seinen Muslimischen Brüdern
+und beschützt sie somit, und das mag das zwangsneurotische militär überhaupt nicht
+
+und das militär ist zwangsneurotisch, weil das militär schon so oft oder eigentlich
+fast immer straftaten begehen, leute aurauben (naja nicht mit waffe aber mit "legalen aka rechtlichen" mitteln) und somit hat das militär eine zwangneurose alles wissen zu müssen
+damit das militär rechtzeitig informiert wäre, falls jemand wie ich so was wie das
+hier rausfinden würde 

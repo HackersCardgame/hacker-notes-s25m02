@@ -1,0 +1,64 @@
+Commodore Programming Basics
+
+by David Ockrassa
+
+BASIC 2.0 on the C-64 contains only 70 keywords The enhanced BASIC 7.0 on the 128 has 128.
+The extra keywords are used to ease control of graphics, sound, and disk operations. These keywords
+are the only words the computer can understand. And the computer, although it does things very fast
+from our perspective, is really - a stupid machine. No matter how cleverly written its instructions, it can
+not think. It can not read your mind. If you misspell a keyword it will not obey the command. You will
+be treated to a display of the infamous "SYNTAX ERROR" message.
+
+Seventy - or 128 - words doesn't seem like much of a vocabulary. And, in fact, many useful programs
+can be written with even fewer words. The vocabulary of BASIC can be broken down into three
+categories: commands and statements, functions, and variables and operators. Some keywords can be
+used in "direct" mode, where you type them in, press [RETURN] and the computer does what the
+word says. Others can only be used in "program" mode, where they must follow a line number and will
+only be done after you type RUN and press ENTER. Some can be used in either mode.
+
+Commands and statements are perhaps the easiest to understand. The keyword "commands" the
+machine to do something or makes a "statement" to the processor about something. Examples of this
+type of keyword are: OPEN, CLOSE, CLR, DATA, DIM, and END.
+
+Functions perform some sort of calculation and produce a number based on that calculation. Some
+examples are ABS(), CHR$(), COS(), INT(), MID$(), PEEK(), and POKE. Most functions require a
+number (or variable) inside those parentheses, so they know what to perform the calculation on. Only
+POKE does not, and only a few functions in BASIC 7.0 require more than one number (or variable) in
+the parentheses.
+
+Operators come in three flavors: arithmetic, relational, and logical. The arithmetic operators are the
+familiar ones for addition (+), subtraction (-), multiplication (*, not an x), division (/) and exponentiation
+(the [UP ARROW] key) - raising to a power. Their relational operators deal with equalities and
+inequalities. Equals (=), is less than (<), is greater than (>). These can also be used in combination.
+Something is equal to or less than (=<) for example. The logical operators are AND, OR and NOT,
+and are used most often to join multiple formulas. The operators have a definite hierarchy, or order of
+evaluation, which we will cover at some later date.
+
+Variables are used when you want the program to be able to change their value - which is most of the
+time! For the computer to be able to recognize a variable when it sees it, the variable must have a
+name. Variable names can be as simple as X, or as complex as XENOPHOBE. There are a couple of
+rules that must be kept in mind, though. On our machines a variable name MUST start with a letter of
+the alphabet. It must be at least one character long, and BASIC will ignore anything past the second
+character of the name. So XENOPHOBE and XENOTYPE would be seen as the same thing, but
+X1A and X2A are different. Also, the name can not contain a BASIC keyword within it.
+XYLOPHONE would not work because it contains the keyword ON.
+
+Variables also come in three flavors, floating point, integer, and string Floating point and integer both
+refer to numbers. Integers are easier to understand - they are "whole" numbers like 1, 99 and 3187.
+Nice for some things, but most of the time we need the capability of fractions or decimal notation. For
+that you use floating point numbers, so you can say 29.95. Since the most commonly used type of
+number is the floating point, it needs no specifier with the variable name. X is a valid name for a floating
+point number. 
+
+If you want to force the computer to use only whole numbers, you must tell it so in the variable name -
+X% would be an integer variable. String variables are specified with the dollar sign ($), are used to
+contain literal information, often text, and when a string variable is assigned, the values to be placed into
+the variable must be inside double quotation marks - X$ = "David". I hope this brief overview of the
+structure of BASIC has provided some glimmering of how the language is put together - and of how
+simple it can be to use. For a full listing of all the keywords, see your computer operator's manual or
+Programmer's Reference Guide, or any number of other reference materials. A good way to get started
+is by typing in the programs in some of the magazines that are still available, and changing one thing at a
+time to see what happens. 
+
+(University Place Commodore Home User Group, Tacoma WA via The CUGOS Clipper, 12/93, via
+the Commodore Information Center http://home.att.net/~rmestel/commodore.html) 

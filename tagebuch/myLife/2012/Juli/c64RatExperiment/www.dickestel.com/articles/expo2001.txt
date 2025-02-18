@@ -1,0 +1,74 @@
+ON THE ROAD at the 2001 CHICAGO C= EXPO
+
+by Robert Bernardo
+
+
+
+The school librarian aide was amazed. "Where are you going?" she repeated.
+
+"I'm going to Chicago tonight, and I'll be back on Sunday," I replied.
+
+"Just for a computer convention?"
+
+"Yes, just for a computer convention."
+
+After school was over for the day, I immediately left for the Van Nuys Flyaway airport, which was three hours away. As soon as I got there, I took the shuttle bus for Los Angeles International and arrived in plenty of time before National Airlines was to whisk me away to Chicago and the Chicago Commodore Expo. It had been two years since my last Expo. I was filled with excited expectation. Who would I see? Would it be the same? What new C= software/hardware would I see demonstrated? Would I have enough time to talk to everybody?
+
+I departed 11:30 p.m. and promptly closed my eyes to catch up on the few hours of sleep I would have before I arrived in Chicago.
+
+Darn! About an hour or so into the flight, the flight attendant brought around the complimentary peanuts and soda pop to all the passengers. "Please let me sleep!" I silently pleaded to her, but I grudgingly accepted the food. If I'm paying that much money -- even on a budget flight -- then I'd better get some food!
+
+The plane arrived at Chicago Midway Airport at about 7:30 a.m., and as soon as I deboarded, I rushed to the nearest restroom to tidy myself up. Then I wound my way through the airport, finally finding the passenger pick-up/drop-off point in order to wait for my ride. A few days before, Randy Harris, president of the SouthWest Regional Area of Programmers (SWRAP) Commodore Club, had arranged it so that member Jim Keane would pick me up and drive me to the site of the Expo. Eventually, Jim lumbered up in his large van, and with a hearty greeting, he drove me off to the hotel, giving me a city tour in the meantime. We arrived at the Holiday Inn a bit after 9 a.m., and as we drove up, we saw Dale Sidebottom and Roger Lawhorn of the Louisville Users of Kentucky (LUCKY), Maurice Randall of the Lansing Area Commodore Club (LACC), and Randy Harris unloading C= equipment from their vehicles. I greeted them with a shout, and they smiled and shouted back, but Jim had other plans. He turned his van out of the parking lot, taking me to the nearby International House of Pancakes restaurant for breakfast on him. This was quite a change! Unlike two years ago when I went through the entire Expo without food nor drink, this time I would be energized for the long day of activity.
+
+And what activity there was! As soon as we entered the hotel at a little past 10, C= friends were greeting me, like Dave Witmer, president of the Cinncinati Commodore Computer Club, and Mark Seelye and Steve Judd, C= programmers. We paid our $5 admission fee, got our badges, and walked into the spacious (compared to the cramped one room of two years ago), two exhibit rooms. Though attendance seemed low compared to the previous Expo, the C= activity was high, if not higher. People were continuously buzzing about from table to table, from exhibitor to exhibitor.
+
+The very first table by the door was manned by a familiar-looking person. No, it couldn't be. ..but there she was again! I had seen her floating about at the AmiWest Show (West Coast United States Amiga computer show) on July 29-30. At the AmiWest Show she had been talking to all of the exhibitors/developers and she had even attended the keynote banquet. Now she was here with a table of her own. I'd have to talk to her later.
+
+The second, larger room had most of the activity. I quickly did a survey of my surroundings. Dale Sidebottom had his C= set-up on the far right side, Maurice Randall had two C= set-up's spread out against the entire back wall, and several, unidentified C= set-up's lined the left wall. The middle of the floor was occupied by mostly empty tables, except for the SWRAP consignment sales table.
+
+Hey, who was that familiar-looking person? No, it couldn't be... but there he was again. I had seen him floating about the AmiWest Show, too. There he had been a vendor with quite a large table of Amiga goods to sell. But what was he doing here... at a Commodore show? It turned out that Ryan Czerwinski, owner of the Merlancia computer store in Phoenix, Arizona, was also a Commodore fan. Not only that, he was the American distributor for MegaPatch 3, the operating system upgrade to GEOS 2.0 for the C64. I asked him whether he had brought MP3 to the Expo, and he said no, because the current version had stability problems and he had suspended sales of it.
+
+I didn't have much idle time; Randy Harris was to make his opening remarks. I whipped out my videocamera and got in position. Randy opened by greeting and virtually giving a roll call of all the states/countries the attendees came from. Though I thought I would have the honor of having travelled the farthest, there were people there from equal or greater distances, Arizona, Oregon, and Sweden being three of them.
+
+After Randy's words of welcome, Dale Sidebottom gave some opening remarks, too. Then it was on to the first of many demonstrations; it was Randy's demonstration of GeoDOS, the file manipulation program which handles Commodore and PC files.
+
+For the rest of the day, it seemed that there was one demonstration after another on a nearly continuous basis. In between the demonstrations, I had a little bit of time to catch my breath and return to the first table in the first room, the table of the familiar female exhibitor.
+
+"Hi, I'm Robert Bernardo from the Fresno Commodore User Group," I smiled.
+
+"Hi, I'm Jeri," she smiled.
+
+"What exactly are you showing here at your table?"
+
+"I'm working on developing a 24-bit video boars for the Commodore 64. It will give over 16 million colors."
+
+"Wow! That's quite significant. "
+
+"It's not finished yet. The one that I was supposed to show self-destructed, and I had to spend many hours last night to build a working prototype for today's show."
+
+"Oh, I'm sorry for that," I replied, "By the way, I saw you at the AmiWest Show."
+
+Jeri looked at me quizzically, and I explained the entire story about my seeing her at that show.
+
+Oh-oh, another announcement of another demonstration to come... I had to interrupt our conversation in order to videotape the demonstration, but I promised to talk more to her later.
+
+Ah, the demonstrations... Dale Sidebottom and Maurice Randall showed how to convert a CMD hard drive into a CMD Zip drive, Steve Judd and Mark Seelye showed off Blahtune, a music/sound editor; and Object 3-D, an object editor for graphics; Jeri Ellsworth (the same Jeri) gave an hour-long talk/demonstration on her prototype video board, Maurice Randall had the first public showing of The Wave v1.0 graphical web browser for owners of Wheels 64/128 and the SuperCPU, Robin Harbron showed off his C64 IFLI graphics game engine for the SuperCPU, Nate Dannenberg showed off the demo of CLiPs (16-bit operating system for the C64 and SuperCPU), Eric Kudzin showed off the beta version (at the Expo of two years ago, it was the alpha version) of his audio CD player program for a SCSI CD-ROM player connected to a CMD hard drive, and others demonstrated more hardware and software creations. I tried to videotape and photograph as much as I could. All of this was C= history in the making.
+
+5 p.m. came too soon; it was time for the exhibitors to take down everything. Slowly but surely, the C= set-up's were dismantled and hauled away to their owner's vehicles. I even helped a bit in moving the boxes of materials. It was time to go to nearby Shooter's Buffet Restaurant, the dinner gathering site for the Expo attendees. This time, David Witmer and Roger Hoyer gave me a ride in their car to the restaurant and later to my motel for the night. The crowded restaurant became even more crowded with many of us attendees squeezing ourselves among several neigboring tables. We happily loaded our plates with plenty of foodand eagerly wolfed it down amidst much C= talk. I was seated next to Ryan Czerwinski, David, and others. Ryan dominated the conversation with stories of his C= business dealings in America and Europe. Maurice Randall was seated in a booth for four, engaged in intense conversation.
+
+Later, in after-dinner talk, several attendees floated from table to table in order to visit and converse some more. Jeri Ellsworth came to our table, and I moved over and engaged her in more conversation. I had to explain certain remarks I had made during her talk/demonstration.
+
+"Yes, I visited Canby (her town) several years ago to see the band, Quarterflash..."
+
+We conversed some more about C= and non-C= things, and then she surprised me by asking to join our club.
+
+"It's $12 a year, and you get a bi-monthly newsletter and a new member's disk. And we'll support you as much as we can from California."
+
+That didn't deter her, and she handed over the cash.
+
+The evening grew late. The attendees started trickling out of the restaurant -- some to nearby Applebee's for drinks, others like Dave Witmer, Roger Hoyer, and me to our respective motel rooms. Dave was very gracious in driving and helping me search for my Motel 6. After much looking and asking for directions, we finally found it, but I discovered that I had left my motel pre-paid reservation form locked up in my car in California. Not to be undone, Dave and I cooked up a plan in which I'd feign that the ticket was buried under mountains of luggage and that we were too tired to dig it out. Fortunately, we didn't have to resort to that subterfuge when we found out that the clerk was brand-new, looked up the pre-pay on his computer, and gave me the room key, all without asking for the original pre-pay.
+
+The next morning, after a bit of confusion about who would give me a ride back to the airport, happily Jim Keane showed and drove me back. After a couple hours of waiting for the flight, after 4 hours of flight time, after a brief lay-over at the Las Vegas McCaren Airport, I was back in California. I arrived home at about 1 a.m. Monday morning and went to sleep, ready for the next workday.
+
+(See photos from the show at www.geocities.com/dickestel/expo2001.html)
+

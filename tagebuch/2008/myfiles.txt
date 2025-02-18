@@ -1,0 +1,35 @@
+./Dezember/081228.txt
+./Dezember/081220.txt
+./Dezember/081227.txt
+./Dezember/081209.txt
+./Dezember/081225.txt
+./Dezember/081211.txt
+./Dezember/081201.txt
+./Dezember/081226.txt
+./Dezember/081204.txt
+./Dezember/081212.txt
+./Dezember/081229b.txt
+./Dezember/081213.txt
+./Dezember/081216.txt
+./Dezember/florio.txt
+./Dezember/081208.txt
+./Oktober/Gefahr drogen.txt
+./November/081102.txt
+./November/081115.txt
+./November/081116.txt
+./November/081105.txt
+./November/081112.txt
+./November/081120.txt
+./November/081114.txt
+./November/081113.txt
+./myfiles.txt
+./080307.txt
+./September/080902.txt
+./September/080919.txt
+./September/080914.txt
+./Wordcount.txt
+./Juli/080724.txt
+./Mai/080511.txt
+./Mai/080509 abend.txt
+./Mai/nachtrag wichtig.txt
+./Mai/080509.txt

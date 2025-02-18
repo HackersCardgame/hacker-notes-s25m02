@@ -1,0 +1,31 @@
+On the Road with Jeri Ellsworth 
+
+By Robert Bernardo
+
+(My thanks to the following people for providing me the information with which to write this article -- Dirk Klettke, Jens Schoenfeld, and Jeri Ellsworth. The information came from two phone calls to the above on December 14 and 15, 2002).
+
+
+On December 4, Jeri Ellsworth, the creator of the CommodoreOne, set out on her first international journey, leaving from Portland, Oregon, U.S.A. Her destination -- Germany. Her goal -- to finalize the C=1 Rev. 1 production board with Jens Schoenfeld of Individual Computers (IC) and to attend the Retro-computing/Amiga Expo in Aachen, Germany, and the Commodore Show in Maarssen, the Netherlands, among other things.
+
+The night before her departure, Jeri spent all her time packing, especially securing a CommodoreOne Rev. 0 prototype board within her carry-on luggage. There was to be a 6-hour lay-over at the Chicago O'Hare Airport, and she had asked C= friends to meet her there. However, she had not followed up on that, and it was a good thing that she hadn't; she spent most of her time catching up on sleep while there at the United Airlines terminal.
+
+That night she finally departed the airport for the long trip to Frankfurt, Germany. At least the trip in, tourist class, was made a bit more bearable by the company she kept; she was seated next to a Motorola engineer. She showed him the C=1 board, and he was highly interested in her project. In return, he gave her some "stuff."
+
+The plane arrived in Frankfurt on December 5, and Jeri had to transfer to a commuter plane for Cologne. After arriving at the Cologne airport at mid-day, Jeri met Jens Schoenfeld, who drove her to Aachen and to his two-bedroom apartment, his residence and working place until her departure back to the U.S. in early January, 2003.
+
+There was not much time to recover from jet-lag. The Retro-computing/Amiga Expo was just two days away.
+
+Not only did Jens have an IC table, but he was also the organizer for the entire show. That Friday night he spent hours setting up his 3 x 5 meter booth and attending to other details of the expo at the Congress Center. Saturday, December 7 - cold and dry but cloudy. Jeri and Jens made the short drive from the apartment to the ultra-modern center. Fortified by plenty of caffeinated Coca-Cola, Jeri took up position behind the IC table with her C=1 Rev. 0 board and another Rev. 0 board that Jens had. In the meantime, Jens still had a lot of work to do before the doors opened. People were lining up outside, but Jens had to delay the opening, because another company had not made it in yet.
+
+At 10:30 a.m. the doors opened, and the hundreds of people handed over their 9 Euros (8 Euros pre-paid) to Jens. At this predominantly-Amiga show, Jeri's CommodoreOne was the only bit of C= there, other than the Retro-Replay/Silver Surfer materials at the IC table. Not looking tired at all, Jeri, dressed in an IC jacket, happily talked to the throngs of people who crowded around the table. It was difficult for anyone to speak to her at length, because someone else was always waiting to talk to her, too. The most popular things to see at the table -- the Catweasel Mark 3 (a device for Amiga computer aficionados) and the CommodoreOne. A typical conversation between an uninformed attendee and Jeri would go something like this --
+
+Attendee: Can I run my Amiga O.S. on the CommodoreOne? Jeri: No, you can't.
+
+The C=1's incompatibility with Amiga software didn't deter the attendees' interest in the board. Demo coders tried their hand at programming the board, but without special programming tools, they could only use BASIC. Reporters from the German computer magazine, C'T, the magazine for computers and technology, wandered around the room in order to write an article on the show, the eventual article containing a brief blurb about the C=1. Many people came to take photos and to speak specifically with Jeri, people like C= enthusiasts, Dirk Klettke and Arndt Oevermann (who would later see Jeri at the Commodore Show two weeks later).
+
+Saturday's attendance was 550, and Sunday's attendance was 150 -- a successful expo which turned a small profit. The IC table had done good business selling Amiga goods, though pre-orders for the C=1 were no longer accepted due to its production date being so near.
+
+As soon as the expo was over, Jeri went back to work on the Rev. 1 board design, spending hours and hours on the board, adding new features and making it more compatible, running into hundreds of errors which would have to be eliminated before the production run of 300 Rev. 1 boards began. Would she have a Rev. 1 board to bring back to the U.S. and work on before she left Germany in early January? Unknown, but she spent Christmas working on it.
+
+December 17 -- a Commodore club meeting to attend, and December 21, the 90-minute drive from Aachen to the Maarssen Commodore Show. A busy, working vacation. Merry Christmas, Happy New Year, Jeri and Jens!
+

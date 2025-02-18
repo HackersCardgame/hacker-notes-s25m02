@@ -1,0 +1,140 @@
+Tagebuch Mi 13 Jul 2011 19:12:27 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+wer mich herumjagt für den bin ich ein roboter ein sklave ein tier
+
+
+Big Picture:
+1. Körperverletzung am finger durch unterbrechen des bewegungsaparates wärend die türe zugezogen wurde
+2. Visualisierung krebs
+3. Visualisierung herzinfarkt
+4. visualisierung burnout
+
+zwei parteien: eine die unbedingt will dass ich schreibe    ->ev klagen geld gierig
+               eine die das unbedingt verindern will        ->im allgemeinene geldgierig und somit viele leichen im keller
+
+->einer leid anderer freude ==> könntet ihr bitte beide aufhören ! es tut weh
+
+Folter Rechenschaft: wenn ich nicht brav mein tagebuch schreibe werde ich gefoltert
+
+meine meinung: aussagen ist unchristlich, unter folter sage ich aus *VISUAL und teilphysics, schlag dich an den kopf*
+
+
+now-Zettel, nach dem ich in sarmenstorf mit dem geh rauchen sonst hast du schmerzen udn wirst selbstverletzend gerät nach draussen geschickt wurde
+-->alt-agenten würden nicht lange zimperln, und einfach mal drein schlagen damit sie ihre gemütliche ruhe hätten <-- allenfalls wäre ein alt-agent auch alles andere als glücklich
+
+klage gegen sarmenstorf <-- kann ich nicht lieber meinen frieden haben als immer diese hin und her geklage
+
+stimme: ich solle sagen ich würde alle terroristen die menschen mit technik foltern und zu selbstmordversuchen zwingen in eine zelle werfen, ein gerät einschalten damit dieser "mensch" dauer aggressionsschub hat und ihn da
+        mal für ein paar jahre drinn halten
+Fallunterscheidung
+a) der mensch wird dadurch reich und zockt alle ab <-- durchaus eine option
+b) der mensch ist selber ein armer schlucker und kämpft fürs überleben -->integrieren knuddeln und sagen, hey das hilft nicht, weder dir noch dem gesammtsystem
+
+
+
+kurzer now zettel:
+dominik der einen lüfter für seinen grossen bruder bastelt und dieser zahlt ev sogar etwas dafür aber grenzt ihn aus
+->kellerkind ist ausgegrenzt gewesen und wird somit falls er doch mal einen kollegen hat dies mit allen mitteln verteidigen, kausales verhalten
+
+=>das sei dass ich in seiner schuld stehe, ehr somit glückliches opfer ist und ich an der front sein müsse, dominik ist mamas lieblingskind somit müsste man dort schauen ob da kalkül dahinter ist
+--->stimme: kein mensch würde so weit denken, also ich denk soweit, somit ist anzunehmen, dass auch andere so weit denken, insbesondere wenn man drogen nimmt denkt es automatisch so weit oder noch weiter, gödelnummerierung
+
+ich scheine eine batterie zu sein, die man anzapfen kann um informationen zu verarbeiten, oder ein thinkDevice mit eingang und ausgang *VISUAL + Endokrine, ich solle mich selbstverletzen* man will nicht dass die leute sehen
+was ihre anfragen für auswirkungen auf mich haben, somit ist es ein produkt das man irgendwem verkauft der nihct wissen soll, dass dafür z.B. bei Foxcon leute sterben
+
+now-Zettel:
+ich frage mich über das verhalten von SafeCom
+->melde security issue
+safecom sagt was der business case sei, also ob man damit geld verdienen könne ->langsam klar weshalb backtrack auf einem linux os läuft
+-->issue ist, das passwort scheint plain oder ohne salt im safecom controller abgelegt zu werden, in kleinen umgebungen würde der admin allenfalls das domain admin passwort angeben
+=>=>BSI Grundschutz: keine passwörter doppelt verwenden!!!!!!  safecom controller: +=salt+hash und das ist wenn man den source hat wirklich keine hexerei... allenfalls will man aber auch gezielt passwörter aufsammeln
+
+->warum ich das in mein tagebuch schreiben würde, weil solche leute wie ich (auch wenn super vanish white hat) dann irgenwelche probleme bekommen weil es um geld geht und nicht um eine bessere welt 
+
+
+now-Zettel
+Stechen in der Brust
+->das sei um mir die proteinhaltige nahrung auszureden, es würde nciht nur die muskeln sondern auch der krebs wachsen
+==>wikipedia meint dazu, es seinen zellen die gar nicht mehr aufhörten zu wachsen, somit wäre das doch ein bisschen weit her geholt
+=>=>wer könnte interesse haben mir den muskelaufbau zu verwehren
+a) jemand der sein leben mit körperlicher gewalt bestreitet statt mit vernunft und nächstenliebe
+b) jemand der angst hat ich würde mich so mehr verletzen können
+
+nebenläufig, ich solle microsoft gessler grüssen <- siehe oben, kommerzielle software ist um profit zu vermehren und nicht um sicher zu sein und der menschheit weiter zu helfen
+
+
+now-zetel:
+mail von hr. stuber
+...einen termin wenn es ihnen passt...
+
+Lane 1:
+was der sklave zwischen den zeilen angeworfen bekommt: [betont sarkastisch] ja darf es dann nach ihren wünschen sein, und soll ich ihnen auch noch einen blasen
+
+Lane 2:
+was der reiche bekommt: [so gemeint wie geschrieben, also nicht sarkastisch] ja gerne ich richte mcih da ganz nach ihnen
+
+->rückschluss auf das system, das system unterscheidet z.B. zwischen Ariern und juden, z.B. nach augenfarbe <- ist grad der beste vergleich der mir einfällt, aber ist ein pietätloser vergleich
+==>repetitiv, es würde dazu führen, dass der jude sich immer mehr und mehr weiter entwickeln würde und der arier immer fetter und fetter würde und somit die herrenrasse eine römische aristokratie (herrschaft von fettsäcken) geben
+
+
+
+
+
+now-zettel:
+ich hätte die sekretärin im steueramt mit dem "bildschirm" auf den kopf stellen mit exe die das macht und den ps tools von sysinternals paranoid gemacht
+-->ich fand das damals lustig und habe berührungsfläche gesucht <- und ich war mir meines handelns auch gar nicht bewusst, ich wusste damals zwar was psychologie ist, aber ich wurde
+regelmässig gepatcht und habe auf grund der seelen patches nicht im geringsten daran gedacht, dass dies allenfalls z.B. Paranoja auslösen kann, schizophren gesehen war ich zuvor bei abb paranoid
+->stimme ihc würde mich rausreden wollen :: <-- dieser mensch sollte eins auf die gosche bekommen, selbst wenn man mich heute mit dem neurointerface zwingen würde bei ungelockten computern die caps lock taste zu drücken
+  ich würde das nciht tun weil ich mir dessen bewusst bin -> damals war ich wie der chef beim steueramt gesagt hat ein "grillenhirni" <- morsecodes auf der schwingfrequenz irgendwelcher neurotransmitter
+
+
+ich würde meiner gesundheit zu liebe gerne künden, aber ich kann nciht, da ich dann 1 Monat kein arbeitslosengeld bekommen würde und dann könnte ihc niht mal die miete zahlen
+->geld als steuerinstrument um in der sklavenrolle zu bleiben
+
+now-Zettel:
+moralische überlegenheit (ich rede von heute und nicht von damals als ich noch ein kind war)
+                           vs
+hard skills netzwerk abstellen <- zettel vom Montag
+a) jemand hat meine netzwerkkarte oder so deaktiviert, dann ging es plötzlich wieder
+b) heute war stromausfall, habe ich allenfalls doch leute die die weit mächtiger sind als mein cheff und die haben dafür sarmenstorf vom stromnetz genommen?
+
+
+
+wer so auf profit aus ist und gerry gygax style das firewall passwort verteidigt, der sollte aus dem system (onkologie) entfernt werden -> ich hätte gesagt mäni muss gehen wegen geldgier und wegen grobem schwachsinns
+->ich könne ihn nicht aus seine firma vertreiben
+==>=>=> nein ich meine aus der informatiker gilde und aus der schweizer informatik landschaft, ausser er würde den beweis erbringen, real mit realen befehlen an einer konsole, dass er die skills hat, aber er hat allenfalls
+        garry gygax style hacker skills ->und ja die programme die er vertreibt kennt er da er diese schon einige jahre verwendet
+
+->whirst case: ein fremder geheimdienst der interesse hat über diese firma in die schweizer informatik landschaft einzudringen 
+
+
+now-Zettel:
+Marketing Evil (anspielung auf resident evil)
+1. reiches kind hat ein computer spiel / softare
+2. es ist im zentrum des geschehens
+3. andere kinder sind niemand weil sie das produkt nicht habe
+4. verschlechterung der psyche dieser kinder
+5. notfallmässiges raubkopieren, damit diese kidner wieder eingegrenzt sind
+6. einige zeit später verklagung dieser kidner wenn dann erwachsen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

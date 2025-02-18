@@ -1,0 +1,196 @@
+Tagebuch Mo 21 Jun 2010 16:07:16 CEST @ Marc-Landolts-MacBook-Pro.local
+
+hmmm... ich habe immer gedacht gutschriften sei cheffsache und gianfrancos
+privileg und deshalb das an ihn weitergeleitet. Prinzipiell kann ich nwi
+fragen falls es nötig ist eine Gutschrift zu machen ob das geht. und dann
+selber wieder anrufen.
+
+woher kommt das mit dem cheffsachen gedanke.
+
+gut ich will ehrlich sein, ich war schon froh konnte ihc es abgeben.
+
+nico hat noch etwas gesagt, man gebe die arbeit von oben nach unten
+--> würde heissen ich könnte all die arbeit die mir nicht passt an
+sabrina abgeben... naja das wäre ja dann so richtig gentleman like
+:)
+
+und es ist fakt, gianfranco behält sehr viel wissen zurück, er baut gärtlein
+ich die webseite ist so konzipiert, dass nur noch er die entsprechenden
+grafiken und buttons machen kann, ohne das desing zu sprengen...
+
+aber in der technik muss man eine juristische person als ansprechsperson
+haben, ich würde dem schizophren sagen.
+
+stimme: (die brave stimme) (ist im 2. durchlesen so gelayert, dass der gianfranco
+den systemerhalt mache in dem er eine kitschige webseite macht)
+systemerhalt
+meiner meinung nach ist das kreative arbeit und nicht das was ich gemeint habe
+mit systemerhalt. Wir führen das wort NACHLAYERN ein, dies bedeutet den
+meta text so umzuschreiben, dass der der fehler macht und dummerweise zugriff
+hat auf das system weil er einen pakt mit dem teufel geschlossen hat (EMP) den
+meta text so ändert, dass der fehlerhafte dennoch gut da steht.
+
+
+hab heute noch einen offenen port in meiner seele gefunden, kunden verlieren
+nico meint dazu, ich sei irgend etwas wie zu einfach zu knacken, 
+fakt ist, dass ich nicht gut bin im dinge schönreden, die nicht schön sind
+aber ich denke das ist auch nicht die aufgabe eines ausgeschriebenen supporters
+der ist da zum probleme zu lösen und nicht um diese schön zu reden.
+
+stimme: ich solle nico ein mail schreiben, wer in einer firma für das 
+schönreden zuständig sei. ich will nicht lügen, dass verbietet mir mein
+glaube.
+
+vielleicht ist das problem, dass ich das problem als solches wahrnehme
+und gianfranco sieht dies nicht so als problem und somit fiele es ihm einfacher
+sich durhczusetzen...
+
+er kann aber nur stark gegenüber dem kunden sein, wenn er weiss, dass er die
+firma stark im rücken habe und ich habe das gefühl nicht.
+
+rückschluss auf arbeitsplatzsicherheit, wenn man ein kind hat. folgt
+wohl zwangsläufig dazu dass man das ausnutzt.
+
+
+
+2 solche fälle pro woche = 2x2h
+
+gemäss baldin -- soweit ich im kopf habe -- muss man nach dem loadbalancing
+schauen... auch ein graten...
+
+zum thema gärtchen bauen:
+http://www.handelszeitung.ch/artikel/Management-Die-alten-Zoepfe-getrost-abschneiden_568949.html
+------------------------------------------------------------------------------
+angestellte, die ihr Gärtchen pflegen. Formulare, die kein Mensch mehr braucht. Aufgaben, die allenfalls der Arbeitsbeschaffung dienen: Alte Zöpfe gibt es in jeder Firma. Wie man sie abschneidet - und an welchen man festhalten sollte.
+
+Für die einen sind es alte Zöpfe. Andere nennen es «Speck», angesetzt in üppigen Zeiten - nicht als Reserve für düstere Tage, sondern in Form überflüssiger Prozesse, unnötiger Dokumente, sinnlos gewordener Aufgaben. Dinge also, die eine Organisation träge machen und viel Geld kosten. Alte Zöpfe, die man getrost abschneiden könnte. Wenn da nicht an jedem mindestens einer hinge, der sich mit Händen und Füssen dagegen wehrt - mit dem bewährten «Das haben wir immer so gemacht.» Und manchmal sogar zu Recht.
+
+Tatsächlich überflüssige Prozesse oder Formulare würden nämlich in vielen Organisationen stillschweigend unterlaufen oder abgeschafft, sagt Martin Mechlinski, Berater für Organisationsentwicklung aus Ennetbürgen NW (siehe «Nachgefragt»). Derartige «Mängel» finde man oft nur in nicht aktualisierten Arbeitsdokumenten oder Prozessbeschreibungen. Sie zu eliminieren, sehe zwar auf dem Papier gut aus, der Effekt sei aber gleich null. «Wer Wirkung erzielen will, muss tiefer einsteigen - in die Organisationskultur beispielsweise», sagt Martin Mechlinski.
+-------------------------------------------------------------------------------
+
+also bedrohung für den systemerhalt sind mitarbeiter, welche ihre prozesse
+nicht dokumentieren.
+
+folglich muss des cheffs erste priorität ein sauberes QM sein.
+
+prinzipiell ist es somit eigentlich gut, dass gianfranco seine 3 wochen ferien
+am stück nimmt.
+
+ABSTRAKT
+abstrackt betrachtet sind somit kunden auch speicherstellen oder register
+in welchen daten und zustände abgelegt werden können
+END ABSTRAKT
+
+je nach zustand und daten die in einem kunden abgelegt werden kann dies 
+auswirkung auf das system firma haben. 
+
+somit darf es keine prozesse geben, welche unabgeschlossen bleiben.
+jeder gesammtprozess muss eine annahmestelle haben, telag, 2nd level support,
+eskalation an fgas, improware oder gps
+
+diese werden dies allenfalls an cisco oder an die developper community
+weiterleiten.
+
+um wichtige teil der der gesellschaft zu werden muss ich mich in open source
+developpment communities einbinden.
+
+somit komme ich auf mich zurück, der nicht gerne offene pendenzen hat.
+auch sabrina hat es heute bejaht, dass es ihr am liebesten ist, wenn
+sie die sache mit den infos über unterbrüche im infokanal gleich erledigen kann
+ich habe ihr den wunsch erfüllt
+sie hat das recht gut gemacht mit den infos...
+
+irgendwie ist es nur ein bauchgefühl, aber ich trau gianfranco nicht über den
+weg...
+und mein bauchgefühl sagt, er ist garn nicht intelligent genug um sihc
+den systemerhalt als ziel zu setzen
+
+ich muss mich objektiv fragen ob ich das nur sage weil ich mich abheben will
+
+luhmann kontert: nur sinn kann sinn ersetzen...
+
+stimme. wie weit ich gehen würde, naja wenn es dem systemerhalt hilft, z.b.
+laube ag like, dann kann man mir auch künden. 
+
+system so engineeren, dass es von nicht informatikern bedient werden kann 
+luhmann: ein system muss ständig gewartet und repariert werden.
+
+nehmen wir mal an dass gianfranco ein reines verkaufsteam / administrationsteam
+bekommt was würde geschehen... 
+
+positionswechsel:
+ich bin gianfranco
+ich will als primäres ziel möglichst viel geld für meine familie und mein auto
+heimbringen. stimme: (das war nicht ich:) damit er abends nicht ohne ... ins
+bett muss. andere stimme: butje butje in drr see...
+
+pbe stimme: das dienen zweier herren...
+
+aber ich bin ja immer noch gianfranco...
+
+ich muss mir ein paar spezialfälle behalten, die keiner sonst lösen kann.
+--> counter measure: diese spezialfäll lösen
+evil-ich-stimme: dann nehme ich alle spezialfälle und sei so unersetzbar
+--> counter measure: sabrina ein paar spezi fälle abgeben.
+
+mutter stimme: neue besen kehren gut, doch die alten kennen die ecken besser.
+
+stimme: er schaue dafür dass alle ein paar spezialfälle hat
+ich: er hat zeit zum schauen
+fha: planene sie oder sie werden verplant
+
+nwi stimme: ich soll mir auch mal einen fehler erlauben, es blockiere mich sonst
+analyse: mässige angst vor jobverlust, jobverluste enteht durch fehlerhaftes
+verhalten, fehlerhaftes verhalten vermeiden, im zweifelsfalle weitergeben.
+
+generelle überlegungen:
+soll die firma so geschneidert sein, dass die prozesse gegeben sind und durch
+beliebige personen durchgeführt werden kann oder sollen mitarbeiter aufgebaut
+werden, welche dann in der lage sind die tasks abzuarbeiten.
+(sarcastic-me-voice: so wie ich gefördert werde im bereich informatik)
+
+böse stimme: wer familie hat sei brav --> lasse sich einfach kontrollieren
+fortsetzung dieser hypothese wäre, dass diese personen reagieren und nicht agieren
+
+notiz: eine stimme sagt mehrmals am tag, dass gianfranco gewisse kunden aus
+dem versorgungsgebiet kennt und sich mit diesen abspricht sie sollen nervige
+fragen stellen und mit kündigung drohen. verankerung dieses gedankens mit 
+mystery shopping...
+
+ich frage google nach mystery shopping und psyche und werde verschiedentlich
+abgeleitet bis ich am schluss bei dem kunden lande den ich (aus gestank-
+technischen gründen) recht schnell losewerden wollte.
+
+positives: ein teufel, der sich nciht mühe gibt am kunden wird wohl an dieser
+stelle verbrennen.
+
+-->in omnibus caritas ist der hauptschlüssel.
+
+#me
+also ich hab schon auch manchmal lust dinge abzuschieben doch in etwa
+80% der situation sage ich mir, nein, dinge abschieben ist nicht gut
+und dann mach ichs selber
+
+mystery shopping ist ein stressor für die mitarbeiter
+mystery shopping kann fehlverhalten der mitarbeiter aufdecken
+mit mystery shopping lässt sich ein normalsterblicher mitarbeiter kicken
+
+stimme: so lange wie die kunden immer mit mir reden wollen frage ich mich
+ob ich doch etwas richtig mache obwohl ich laut quali im verkauf so schlecht
+bin, dass es im gesammten nicht für ein gut reicht.
+
+ABSTRAKT dydx 
+notiz zur musik die läuft: hardtrance: text: magnetic fileds can  interfer with 
+brainwaves, das hat es geheissen, jetzt find ich die stelle nicht mehr.
+man stelle sich vor so ein armes individuum nimmt dies unbewusst war LDA
+und danach gibt man ihm irgend eine bewusstseinserweiternde substanz...
+END ABSTRAKT
+
+
+
+
+
+
+
+Tagebuch Mo 21 Jun 2010 23:25:09 CEST @ Marc-Landolts-MacBook-Pro.local
+

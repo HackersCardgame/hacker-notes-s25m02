@@ -1,0 +1,26 @@
+System log for account 962320 (icq) connected at 15.01.2007 17::58::39
+---- +++ 962320 hat sich angemeldet @ 15.01.2007 17::58::39 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 15.01.2007 17::58::39 ----
+---- shrike hat den Status von Verfügbar zu Verfügbar geändert @ 15.01.2007 17::58::39 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 15.01.2007 17::58::45 ----
+---- Dominik wurde tätig @ 15.01.2007 17::58::45 ----
+---- Dominik hat den Status von Verfügbar zu Verfügbar geändert @ 15.01.2007 17::58::45 ----
+---- vortex hat den Status von Offline zu Verfügbar geändert @ 15.01.2007 17::59::48 ----
+---- vortex hat den Status von Verfügbar zu Verfügbar geändert @ 15.01.2007 17::59::50 ----
+---- vortex hat den Status von Verfügbar zu Verfügbar geändert @ 15.01.2007 18::00::10 ----
+---- vortex hat den Status von Verfügbar zu Verfügbar geändert @ 15.01.2007 18::00::13 ----
+---- vortex hat den Status von Verfügbar zu Verfügbar geändert @ 15.01.2007 18::00::16 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 15.01.2007 18::03::49 ----
+---- Schööfli wurde tätig @ 15.01.2007 18::03::49 ----
+---- Schööfli hat den Status von Verfügbar zu Verfügbar geändert @ 15.01.2007 18::03::50 ----
+---- Schööfli hat den Status von Verfügbar zu Verfügbar geändert @ 15.01.2007 18::04::36 ----
+---- Schööfli hat den Status von Verfügbar zu Verfügbar geändert @ 15.01.2007 18::04::41 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 15.01.2007 18::09::54 ----
+---- Schööfli hat den Status von Verfügbar zu Nicht verfügbar geändert @ 15.01.2007 18::12::26 ----
+---- Schööfli hat den Status von Nicht verfügbar zu Nicht verfügbar geändert @ 15.01.2007 18::12::27 ----
+---- Schööfli wurde untätig @ 15.01.2007 18::12::27 ----
+---- Schööfli hat den Status von Nicht verfügbar zu Nicht verfügbar geändert @ 15.01.2007 18::12::28 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 15.01.2007 18::13::14 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 15.01.2007 18::15::34 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 15.01.2007 18::16::22 ----
+---- +++ 962320 hat sich abgemeldet @ 15.01.2007 18::40::37 ----

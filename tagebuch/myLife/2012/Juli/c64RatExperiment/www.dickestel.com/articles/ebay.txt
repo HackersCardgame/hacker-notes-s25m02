@@ -1,0 +1,55 @@
+Getting on eBay With Your Commodore
+
+By Marge Weller
+
+If you want to use your C-64/C-128 to get on the World Wide Web to see the eBay auction and its
+Commodore listings, maybe I can offer some helpful tips to get you there in six easy steps. These
+suggestions are for Commodore users with shell accounts which have online access to the Lynx
+(text-only web browser).
+
+Before you start, you can open a capture buffer and later, off-line, review where you've been. If your
+results are anything like I get using Desterm, it won't be a lot of help. Still, I would suggest you go
+ahead and open a big buffer in your term program. Then proceed as follows:
+
+1. Log onto your ISP and from any menu select or type: "!lynx" and RETURN. (Type only the things
+inside the quotes, not the quotes themselves.) This gets you onto the Web. (Ed. note: Some ISPs will
+have a menu selection for Web access.) While browsing, you will see things like "[INLINE]" and other
+non-familiar prompts, but they are not for Commodore users, so just ignore them. The several lines of
+commands at the bottom of the screen are the Lynx text browser commands.
+
+2. To access any web site using Lynx, type go or just "g" and you will see, highlighted: URL to open:
+Enter the site address and RETURN. In this case it is, http://www.ebay.com (all lowercase). This will
+bring up the eBay auction, with a list of categories, beginning with antiques. Cursor down to Computers
+(#####) and press RETURN.
+
+3. You will then have a chance to search for a sub-category. Type "commodore" on the blank line and
+RETURN. (Lynx isn't very case-sensitive, so lowercase for everything usually works.) Below that will
+be a couple of options to search only in computers, or search titles and descriptions. For now ignore
+these options and just press RETURN when the highlight is on Search. This will bring up the first group
+of 50 or so Commodore items.
+
+4. At the upper right corner of the screen you'll see (page 1 of xx). Each page contains a group of
+listings. The listings may not start on the first page. You may see Search Results and some headers for
+the listings near the bottom of page one: i.e., Item# Item Price Bids Ends. Jot down or keep these
+headers in mind as you use the space bar to go to the 2nd page, where the listings will begin. (There
+may be several hundred Commodore items listed, so expect to see a lot of them!) At the end of each
+group of listings, you will see these options: Go to top of page gets you to the beginning of that group,
+and Next brings up the next group. Highlight your choice and press RETURN. 
+
+5. Generally, you can use the following keys for browsing: Up and Down cursors to get around on the
+screen and move the highlight bar. Use Return or Right Cursor to select a highlighted item. Lower
+keyboard cursors work fine. The minus key (-) lets you go back to previous page when you're reading
+beyond page one of a multi-page section. Space bar to go to the next page. Sometimes there's a
+prompt at the bottom of the screen to remind you of this, but not always. There is no need to cursor, or
+move the highlight, to the bottom of a page before going to the next page. Inst/Del key to bring up your
+History page, which helps if you get lost while browsing. This will show every link you've used to get
+where you are, and lets you go back to any previous branching place just by highlighting it and pressing
+RETURN. It is a very useful feature.
+
+Type "q" at any time to quit Lynx and the WWW, and get back to your ISP's main menu.
+
+Happy browsing and good luck on the Web! 
+
+(from LUCKY report, via Colorado Commodore Computer Club, via ?Syntax, Commodore Houston
+Users Group, June-July 2000, via the Commodore Information Center,
+http://home.att.net/~rmestel/commodore.html)

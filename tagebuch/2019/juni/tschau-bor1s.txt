@@ -1,0 +1,27 @@
+it are the little details wie der Travolta in Pulp Fiction sagt
+
+boris ist fucking zu faul eine finger krumm zu mache, sucht ausreden wie "ja es hat kein platz auf dem Server" aber dann hat es doch platz für den source.
+
+=> ABER dennoch gibt er sich "grossmütig" mit seinem "but ok, I will be here if you need me"...
+
+und genau das macht mich RASEND, ich hätte gerne seit 3 Monaten dass er die Unittests macht aber er war zu faul. ich hab gestern 8h lang Anleitungen geschrieben für ihn, aber "es hat kein platz"... (Ausrede)
+
+=> ABER dennoch gibt er sich "grossmütig" mit seinem "but ok, I will be here if you need me"...
+
+und dann sagt er "and lets not forget that it works vice versa" was aber erstens Hohn ist wenn ich 100h arbeite und er 1h und ich dann einen Kniefall vor ihm machen soll? WTF! Und zweitens hat er sich eigentlich sonst auch nichts sagen lassen. z.B. für die Liste von Releases damit ich selber testen kann, da musste ich eine Woche lang betteln.
+
+=> ABER dennoch gibt er sich "grossmütig" mit seinem "but ok, I will be here if you need me"...
+
+und bzw. wenn jemand dann Dinge schreibt wie "dann wird es an mir liegen, an meiner Krankheit" dann müssten die Alarmglocken leuten, keine Mensch nimmt die ganze Schuld auf sich. Das ist gegen die menschliche Natur. Das ist nur eine andere Art zu sagen "Was bist Du für ein Gottverdammtes Arschloch, dass nicht mal merkt, dass ich so frustriert ist dass er die Schuld des /Täters/ auf sich nimmt" bzw. das ist eine Art die Frauen benutzen um jemandem zu sagen "Du bist für mich gestorben" (und da meine ich den Boris, sonst würd ich dir das nicht erklären)
+
+=> ABER dennoch gibt er sich "grossmütig" mit seinem "but ok, I will be here if you need me"...
+
+und das war dann ernst gemeint von mir, dass ich mich massiv weniger aufrege, wenn ich nicht die /hoffnung/ habe ein anderes Teammitglied würde etwas erledigen, dann bereite ich 8h Dinge vor für dieses Teammitglied weil ich eigentlich ein netter zuvorkommender Mensch bin. Und dann rotzt der Typ mit einem "nein das machen wir nicht" auf die 8h Arbeit von mir drauf. Da bin ich echt schneller wenn ich alles selber mache.
+
+Kleiner Hinweis: so wird niemand bei Phase einen Plan vom Code bekommen was meiner Meinung nach nicht gut ist für Phase, dann seid ihr dann wieder gleichweiet wie mit dem NG, ihr habt dann zwar den Source, aber keiner kommt draus. Da war bei mir eigentlich schon kalkül dahinter das Knowhow weiter zu geben. Und ja da wären die Unittests toll gewesen um sich einen Überblick über den Code zu verschaffen. Ich hoffe Du verstehst dass es mir auf den SACK geht, wenn der Boris mich seit 3 Monanten mit den Unittests vertröstet (bzw. einfach Ausrede nach Ausrede bringt)
+
+ich arbeite jetzt auf https://git.0x8.ch. Mit CI/CD. Wenn Du willst mach ich Dir auch ein Login...
+
+Und wär nett wenn Du boris nicht sagen würdest was ich von seiner Faulheit und von seinem Gehäuchel ähm von seiner "grossmütigen Art" halte.
+
+PS: auf Dich bin ich (im moment) nicht sauer. Du hast nicht grad 8h meiner Arbeit vernichtet...

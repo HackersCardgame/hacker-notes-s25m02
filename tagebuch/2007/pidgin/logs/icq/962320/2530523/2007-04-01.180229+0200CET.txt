@@ -1,0 +1,15 @@
+Conversation with 2530523 at 01.04.2007 18::02::29 on 962320 (icq)
+(18:02:29) shrike: was das?
+(18:03:04) shrike: und das sind ned meine notebooks, es sollte ned dran gebastelt werden.....
+also is das standardmässig auf enabled oder wie?
+(18:03:23) landev: chasch abfroge...
+(18:03:31) landev: muesch eifach zerst netsh
+(18:03:35) landev: denn int
+(18:03:39) landev: denn tcp
+(18:03:48) landev: das isch so en baumstruktur, denn chasches abfroge
+(18:04:02) landev: int für interface, denn bisch im interface menu
+(18:04:37) shrike: k
+(18:04:41) landev: k?
+(18:05:40) shrike: ok!
+(18:05:46) landev: ah
+(18:12:59) landev: und gohts?

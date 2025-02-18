@@ -1,0 +1,38 @@
+
+Tue Sep 28 04:42:47 CEST 2021
+2 0 2 20210928.txt
+- - - - - - - - -
+
+dann das sind wieder bilder die man eher nicth sehen möchte, bzw. als nciht-medic nicht sehen möchte, bzw. möchte ein medic solche blutbade an mir auch nciht sehen
+
+da wurde schon ein MacBeth overlay drüber gerendert, mac beth wäscht im buch permanent ihre hände weil sie mord verübt hat, 
+
+psychologishc wäre das einfach das stillleben 
+
+Hand && Blut => welche dann das Buchcover vom Roman Mac Beth einblendet um so victim bashing zu machen und die behörden dazu zu motiveren sich auch noch über opfer wie mich lustig zu machen
+
+selber git commit
+
+Tue Sep 28 04:52:27 CEST 2021
+ 16 112 629 20210928.txt
+[main 3fde1c4] save
+ 3 files changed, 11 insertions(+)
+ create mode 100755 koerperverletzungenAnMarcJrLandolt/axilla.jpg
+ create mode 100755 koerperverletzungenAnMarcJrLandolt/mitMacBethOverlayBezichtgtDasVbsOpferWieMichSelberDerTaeterZuSein---Psychologie_stillleben_hand_und_blut.jpg
+7e61a17df812496600f56049458e7c314702e5933cd4f19cfba310d58d8ed6e4fbde6a74786054a81e384613d4bd9c24a62bb13cca7864862dd1edcafa039e8c  20210928.txt
+
+und für alle kleineren ist es vermutlcih psychologische kriegsführung, also besser nicht anschauen...
+
+... wie bereits protokolliert wurde bei uns in der BEZ Aarau "Gesichter des Todes" herumgereicht, wurde mir auch angeboten aber ich wollte ncith sehen wie menschen echt sterben
+
+wenn ich das geschaut hätte müsste ich mir jetzt auch noch das "selber schuld weil du das geschaut hast" - loop anhören
+
+Tue Sep 28 04:55:25 CEST 2021
+  30  203 1520 20210928.txt
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+ffa83b15b0806c37e0ebef93080ed3ba00f2ddade7fbd619e3d7f650d0ccf5c816dd8e0715b90d63c6c116ca2ffcace302e88052ac9a4230c3ee9aa515c19687  20210928.txt
+

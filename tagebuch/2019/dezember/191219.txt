@@ -1,0 +1,203 @@
+Tagebuch Thu 19 Dec 2019 06:11:08 AM CET @ gfynsa
+
+Dieses Mail löst aus, dass ich mir die Fäuste an den kopf schlage, dann loopt cAPI....
+jetzt seit einer stunde und es wird gesagt dass pfisterer die vergewlatung durch blums angeordnet habe
+und sie einen anderen geheiratet habe, was pfisterer wüsste dass mich das zum sofortigen suizid treiben würde, wäre also ein mordveruch durch pfsiterer an marc jr landolt
+
+
+
+Return-Path: <lukas_bachmann@gmx.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from zrh-lb3.core.hostpoint.net ([10.31.0.61])
+	by popimap018.mail.hostpoint.ch with LMTP
+	id wIBCNh+h+l1F4QAA7JE5TA
+	(envelope-from <lukas_bachmann@gmx.ch>)
+	for <mail@marclandolt.ch>; Wed, 18 Dec 2019 22:58:55 +0100
+Received: from mxin012.mail.hostpoint.ch ([10.4.2.212])
+	by zrh-lb3.core.hostpoint.net with LMTP id ADArNh+h+l3pZQAAIM1l+g
+	; Wed, 18 Dec 2019 22:58:55 +0100
+Received: from mout.gmx.net ([212.227.17.20])
+	by mxin012.mail.hostpoint.ch with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92.3 (FreeBSD))
+	(envelope-from <lukas_bachmann@gmx.ch>)
+	id 1ihhLL-000Jab-R6
+	for mail@marclandolt.ch; Wed, 18 Dec 2019 22:58:55 +0100
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=gmx.net;
+	s=badeba3b8450; t=1576706335;
+	bh=G38hmLYxP1odzp72ovRUx4Q8yLDkETHsqaYRvzfxhjE=;
+	h=X-UI-Sender-Class:From:To:Subject:Date;
+	b=hwfYeuYNrQEIU2uiTG/HG3cSHpOj7M9F0H5tMH77MIIlMYNLoU75Doojy1IJI2oLK
+	 mdvTeaqQ+XIkL/a0AU8F7NlyfFGVx/H6MZWyQft7rrtOp9SwkKh+OsOD5UYPeTEDOR
+	 f78hoBdymNmC9SYUi72xf+Ors97ddWVK2dKHD6XY=
+X-UI-Sender-Class: 01bb95c1-4bf8-414a-932a-4f6e2808ef9c
+Received: from [178.39.243.167] ([178.39.243.167]) by web-mail.gmx.net
+ (3c-app-gmx-bs76.server.lan [172.19.170.224]) (via HTTP); Wed, 18 Dec 2019
+ 22:58:55 +0100
+MIME-Version: 1.0
+Message-ID: <trinity-dd05a59f-8cfe-45a6-ab8b-d8216c47dfc2-1576706335450@3c-app-gmx-bs76>
+From: "Lukas Bachmann" <lukas_bachmann@gmx.ch>
+To: mail@marclandolt.ch
+Subject: Tobias Moser
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 18 Dec 2019 22:58:55 +0100
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K1:MB7JRzx1gbWDcO5FBa31ZHvzStuWMYD8G/HuXYBgunY4RXYrUBmb1ASIQCop5/g8LLz5J
+ hWcM9ZXp4MP4gvIUv1G+d8phFnFUEGPucOK1msJlGhcRmEqKg/UHcmUhO0eg1QNtOPFeJWviG0BT
+ fqKubWtCBIAAWOJeq/ObcWytkYCnwwjmgUUHXLGHkMSTNvozdzb66ANQ4nioOzHUfB1vC7utzY5L
+ iGs7Rh/hniDGdRA53bE0fSWt2og7EX1118TIwwQvoXmd06qF0bd/X6eKv0h3MXcRuF859nkJXT4q
+ 8g=
+X-Spam-Flag: NO
+X-UI-Out-Filterresults: notjunk:1;V03:K0:pL0lzkMnhjs=:iSQdLj0N5S/RHMfXLQEJmS
+ reyolHFBjRCzVDlbtegEFPOmqbp+weNk6NQgncfewADLmRpcYMZ9KzpO558My0/BxmgmmK2j+
+ u7P58S7gKAJUT0vLbbpfysAX7fLQ2hidzX1Ob6f5wiadkAkL1mXVUrsjPp8T8TZWCb8FfMPLi
+ AsvTiKqc/JBdh8xZ51FI0ZwjXzpNEqj1QF8gaj9u/2wmETs5MrIQW97ij0yFSzIF0rKSTmKsQ
+ vQtiRvUGHNtr8xrtAFGGZk23PAu5G2BGszcOB0JSshNZjomHQpvYj4YJG2xEOeT/GkTHblJSy
+ ki3VS8C9hrxwWDACMczW2gY2LyRkB7jOyDHRrF+ARqiqpOQKBxNXUXeGih+mUEH3y1GHDMCtS
+ ThZJzTATsy0Yi4W8aHzssac4kQd2bgChJtzWRUL7iRRW8vX57U+S+yfiuBefm0ID0F/+Cukm9
+ rKhl2tkfUGMNUNfg2UM1d2peApl81wFUUcE56TmWwUWcw7wlHOfzNymT6EWSaqRWEl9KKfGsx
+ 8v+r2v5ohzM6/uPxoa3VvpPznseUUlHmvP8xk/L3i5k1eqQZ2ONBARHlCHVuXl4o76lzhiU6u
+ MfbTtZAnfiFOkTUsj0/Ozrfjr1HoKxyhp/L1aLAbagkuZpGJVSbsUTiR0qPg0/UWK3XDpHNxA
+ zQ/Nl22u9utXRYjxft3oWcX2R2obu1bVWhPzCdwYamWwM9qU3wn9l0y8aeQSXng9HulI=
+X-Vs-State: LEGIT
+X-Hostpoint-Spambox: NO
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo Marc</div>
+
+<div>&nbsp;</div>
+
+<div>Ich habe Tobias Moser auch gekannt. Bist Du sicher, dass er verstorben ist?</div>
+
+<div>&nbsp;</div>
+
+<div>Liebe Gr&uuml;sse</div>
+
+<div>&nbsp;</div>
+
+<div>Luki (ein Patient von Pfisterer)</div></div></body></html>
+
+
+
+
+Tagebuch Thu 19 Dec 2019 06:14:45 AM CET @ gfynsa
+mit dieser aussage würde er auch verhindern, dass weiter nachgeforscht würde weshalb man schon auf 14 jährige nerds losgeht
+*E* 
+dann würde diese aussage alle fragen zu allenfalls unsicheren neuro implantaten -- selbst wenn es die noch ncith gäbe, gäbe es die 2020 mit neuralink --
+unter den teppich kehren
+
+dann gibt es einen neurologen im KSA *Claudine würde von dem Vergewlatigt im KSA* der genau so heisst, allenfalls einer der der myrtha auch auf die shcliche gekommen ist, mahjong?
+
+
+Tagebuch Thu 19 Dec 2019 06:19:50 AM CET @ gfynsa
+
+schläge an den kopf des autisten
+-dann loopt es etwas über eine psychotherapie infrasturkutr dass den autisten in den kurzschluss suizid treiben würde, pfisterer sagt darauf jeweils dsas man das therapieren müsse
+aber marc jr landolt würde dann auch zum schutz jüngerer in den bilanzsuizid gehen und eine medienwirksame geshcichte bezüglich der vergewlatigung durch blums machen
+und wenn man das wüsste, würde man nicht den kurzschluss suizid therapieren wollen weil wenn der therapiert wäre, würde der patient einen bilanzsuizid zum schutz jüngerer machen
+also muss dieses mail bzw. was auf anderen kanelen übermittelt wird als versuchter mord gewertet werden....
+
+
+
+Tagebuch Thu 19 Dec 2019 06:24:17 AM CET @ gfynsa
+es wäre auch unlogisch das so zu machen, denn pfisterer hätte mit dieser "fehldiagnose" marc jr landolt erstens endgültig beziehungsunfähig gemacht, und das hätte man 
+schon vor 17 jahren angehen sollen, somit ist claudine blum die einzige person die ihn therapieren kann, somit wäre es eine geiselnahme durhc blums wenn claudine
+nciht schon lange auf ihn aufpassen würde
+
+
+Tagebuch Thu 19 Dec 2019 08:39:59 AM CET @ gfynsa
+
+unknown:
+astrid blum hätte mir
+a) chemische substanzen ins gesicht getan, die alle mit gesichtscreme reagieren
+   und zu hautverbrennungen führten
+b) ihre probleme die über active denial system bei ihr rötungen verursacht
+   haben mit ihrem spruch vor claudines zimemr "du machst mir deine arbeite"
+   all die bestrafungen die sie verdieht hat auf mich übertragen
+->astrid blum hätte eine liste von e-stoffen auf die ich wegen den
+   chemischen substanzen jetzt alergisch sei, ich müsse millionen zahlen 
+   um die liste zu bekommen
+c) astrid blum hätte dsa von catrin ruflin angetan bekommen weil ich 
+   der katrihn ruflin versprochen gewesen sei
+   ->eher unglaubwürdig, ich hab mal vom abb areal her angerufen und gefragt
+     ob catrin meine freundin sein wolle und sie hat nein gesagt, sie hätte schon einen 
+d) astrid blum drohe der claudine blum sie würde mich töten lassen, wenn
+   claudine nicht säure in die gesichtscreme tun würde, was astrid blum
+   schon bewiesen hat, in dem sie ein loop "du wirst sie nie bekommen"
+   in meine wohnung im rombachtäli eingespeist hat und ich dann 3 schachteln
+   tableten geschluckt habe -> selbst wenn ich claudine nicht bekommen würde
+   (ich wäre soweiso leber besitz von claudine als umgekehrt) wäre dennoch
+   die astrid blum diejenige, die mich mti urs zusammen angelockt hat und 
+   mit einem nonverbalen "ihr dürft jetzt" (oder selbes kommunikationssystem
+   wie in der wohnung die blums für mich ausgesucht haben im rombachtäli
+   übermittelt wurde)
+
+fakt ist, dass ich auf ganz viele gesichtscreme allergisch, aber lustigerweise
+einmal habe ich eine dose aufgemacht, aufgetragen und keine allergische reaktion
+gehabt, also könnte es schon sein, dass da nachträglich etwas reingetan wurde
+
+ein workaround schient body-milk zu sein auf die ich nicht allergisch reagiere
+im gesicht
+
+
+a) workaround würde gehen
+b) workaround würde gehen
+c) ungalubwürdig
+d) fakt, aber zugegeben, es könnte auch eine sprachsynthese von astrid blum gewesen sein, dies war aber afaik 2007
+   also die technik wäre damals noch nicht so weit gewesen...
+
+dann wäre zu erwarten, dass methode a) wenn sie am auffliegen ist auf methode b) umschalten würde
+und wenn metohde b) am auffliegen ist würde es auf a) umschalten
+
+->also generisch gesprochen, wöre es terrorismus der auf verschiedene methoden zur selben
+  körperverletzung führt
+
+astrid blum: das sei von der uni basel, das sei pflichtstoff von ihrer medizinishcen fakultät
+             und ich solle doch das "miststück" <- astrid wort, behalten aber auch den uni basel mist
+
+ich: und astrid, das habe ich dem urs schon gesacht (oder der sprachsynthese von urs)
+     claudine ist kein objekt, kein besitz
+
+dann zurück zum thema
+da war noch irgendwer der gesagt hat "mischhaut" also ich hätte auf verschiedenen hautstellen
+verschieden von diesen chemikalien die mit gesichtscreme interagieren, also müsse man
+verschiedene gesichtscremen auf verschiedenen stellen auftragen
+->was aber wenn wir etwas finden, was mit keiner dieser substanzen reagiert gar nicht nötig ist.
+
+jetzt blendet es meine grossmutter ein, die mir ienmal ubers gesicht gestrichen hat und scheinbar das überragen hätte, die reaktion war aber auf der
+stirn und da hat mich afaik meine grossmutter nie angefasst....
+->schutzbehauptung aus szenen aus big data, wo dann der urs vermutlcih zugriff hätte auf das ganze leben auf die ganze timeline von marc jr landolt und 
+versucht für sich und für astrid blum die klage mit langer haftstrafe wegen einem STGB185 abzuwenden, und weil er diese schutzbehauptung einblednet
+bekommt er dann auch noch das ganze datenschutzgesetz *klicken in meinem badezimmer* an den kopf geworfen 
+und wegen dem klicken und dem besitz von pistolen und allenfalls sprengstoff auch noch eine kalge wegen terrorismus und terrorismusdrohung mit anschiessender sicherheitsverwharung
+
+unknwon:
+wichitg jetzt, die 1960er blums langsam an eine lange haftstrafe anklimatisieren, dass sie nicht amok laufen....
+
+
+
+
+Tagebuch Thu 19 Dec 2019 03:26:59 PM CET @ gfynsa
+allenfalls doch infrarot vom acer predator, dann habe ich jetzt "von der
+bodylotion" wieder ein verbranntes gesicht, meine augen sind grau
+somit wäre es allenfalls der acer moitor der strahlt sobald ich zu
+veile straftaten des nsa / cia anprangere
+
+vita hexil drauf getan
+bodylotion hat allenfalls alkohol drin und es w$re etwas woe ein
+sonnenbrand
+ 
+
+
+
+
+Tagebuch Thu 19 Dec 2019 01:14:14 PM CET @ gfynsa
+unknown:
+Sado-Masochismus ist eine Geisteskrankheit, ICD10-F65.5
+
+ich:
+huch, dann hab ich ja glück das ich nur masochismus bin
+
+
+Tagebuch Thu 19 Dec 2019 03:26:59 PM CET @ gfynsa
+allenfalls doch infrarot vom acer predator 

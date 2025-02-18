@@ -1,0 +1,46 @@
+Creating a Directory Document (C64)
+
+by Dick Estel
+
+You can create a Write Stuff document from the directory of any of your disks, or from a BASIC
+program listing.
+
+You could make a disk directory/file catalog, or have a directory in a format that you can easily edit.
+
+For example, I have about 20 articles on disk that might be used in the newsletter at some future time.
+They are scattered over four or five different disks. I created a text document from the main disk, then
+edited it to remove unwanted information, and to add the names of articles on other disks.
+
+Here are the steps to create a listing or directory document.
+
+1.  WAIT--do not load The Write Stuff yet--the first step is done in BASIC. Insert the disk whose
+directory you want to use.
+
+2.  Load the directory in the normal way: LOAD"$",8 [RETURN]
+ 
+3.  Now put the disk on which you want to save your document file in the drive and type (all one one
+line):
+
+OPEN2,8,2,"FILENAME,S,W":CMD2:LIST
+
+("FILENAME" is any name you want to give to the document file.)
+
+4.  When the cursor resumes flashing, type CLOSE2.
+
+5.  The same steps can be followed to create a text file of a BASIC program listing by loading the file
+name instead of "$". This process creates a sequential file on your disk.
+
+6.  To convert it to normal Write Stuff format, load TWS in the normal way.
+
+7.  Tap [CONTROL] and type l. Backspace to delete the hyphen. Type the name of your file and
+press [SHIFT] [RETURN].
+
+8.  You will then see a menu of various word processors. Press  S to select sequential file, and the
+program will load and convert your document. You may now edit it and print it as you desire.
+
+A shortened version of these instructions appears on page 46 of TWS manual. A similar process can
+be followed with TWS 128 (instructions are on page 47).
+
+
+(From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html)

@@ -1,0 +1,25 @@
+The REU and ME! 
+
+by Bill Bunch
+
+I have the Commodore 1750 RAM expansion unit (REU) plugged into my user port (where the game
+cartridges are plugged in). The RAM in this unit is not directly available to the computer for running
+programs but can be used as a very fast temporary storage device. When you turn off the computer
+you lose all contents of the REU. Resetting the computer with a reset switch will not erase the contents
+of the REU! 
+
+The Commodore 1750 normally holds 512k of memory. I had it upgraded to one megabyte. That is
+4,096 blocks. Some people want theirs upgraded to two megabytes, but, there has been talk that the
+REC chip might start acting weird and you can lose your files if you overload it,. so I opted to play it
+safe and only go for just 1 MB. 
+
+My use of the 1750 REU has been very satisfactory. I am able to use it with my word processor, Fleet
+System IV. It can hold the dictionary and the thesaurus. I am able to access them in mere seconds.
+Without REU it would take three or four minutes longer. The REU can be used with Novaterm 9.6, a
+terminal program. I use it as my buffer. Then when I go offline, I can send all of those files from the
+buffer (REU) to the disk drive for more permanent storage. It is not battery-backed, so, it doesn't hold
+the files when the power is turned off. I have the Servant installed on a chip in my C128. It will access
+an expanded REU of up to 8 MB. It has all kinds of ways to use the REU but that's another story.
+
+
+Via the Commodore Information Center http://home.att.net/~rmestel/commodore.html

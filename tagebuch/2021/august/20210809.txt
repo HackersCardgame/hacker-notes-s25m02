@@ -1,0 +1,34 @@
+Mon Aug  9 02:56:43 CEST 2021
+2 0 2 20210809.txt
+
+dann bin ich mir noch nicht ganz sicher, aber die betterien von conrad versand haben allenfalls eine remote-schnell-entlade-funktion...
+
+
+Mon Aug  9 02:57:18 CEST 2021
+  7  28 189 20210809.txt
+[main b345656] save
+ 1 file changed, 7 insertions(+)
+ create mode 100644 tagebuch/2021/august/20210809.txt
+ef5fbdc6c92eb72718f463d603675198d23ecc913c8ec9fb1eb57c4cfb1fb0e56bccf52e2c8d2fe7c67951975b3d514cde333cfac4e72f400ea791c868d429d6  20210809.txt
+
+Furby 1.0 - Mode: me sleeeeeeeep again
+
+Mon Aug  9 14:52:04 CEST 2021
+ 16  59 535 20210809.txt
+[main 40a07c8] save
+ 4 files changed, 20 insertions(+)
+ create mode 100755 TODO/Brugg-sigint-comint-daher.txt
+ create mode 100755 TODO/keinOrigamiLiegestuhl.3gp
+ create mode 100644 TODO/keinOrigamiLiegestuhl.gif
+5677b99d8c1013dd38f4a35adc2df533ae0df3146c1688b1b6f8ab62a155e7895e473b503594479445bf0d3c2851b29a092ae1b7928941a214d442d8f4239ab0  20210809.txt
+
+david utz und beat schmit sind manschurisch kandidaten von pfsiterrer wo der tschöck mit hahaha haschaschinene damit angegeben hat
+
+ausbildung an fallschirm / cyperss für notschirm = ausbiludn an sprengzündern. das militär würde vermtulich bei menschen die das lernen psychologie tests machen, aber so umläuft pfisterer das militärsiche kontroll system
+
+Mon Aug  9 19:36:55 CEST 2021
+  29  141 1307 20210809.txt
+[main b19a65e] save
+ 1 file changed, 5 insertions(+)
+03394c296a7e957e988dbb4bc1f07a1277df4d5f878c982bb6a01ad0be8537a49c60c1a3a80b9068b42e82133790ea88d06b3c0f5a87d0df65b72c0374f112f8  20210809.txt
+

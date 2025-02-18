@@ -1,0 +1,178 @@
+Tagebuch Sa 19 Mär 2011 20:29:15 CET @ Marc-Landolts-MacBook-Pro.local
+
+film godsend:
+
+klonen
+
+probleme von männlichen jugendlichen
+-ich habe spielzeug autos mit hoher geschindigkeit durch die (stimme: wohnung) kellergang sausen lassen :: stimme:  vernachlässigt 
+ ->soziales leben mit geschwistern
+  ->familie grenzt aus, kinderpsyche kann sich nciht wehren und zieht sich zurück wenn der rest der familie es ausgrenzt und (do what you can do with what you can get) spielt mit dem spielzeig das verfügbar ist.
+
+
+
+visual: keller mit grüenm teppich, mein spielplatz zum Lego eisenbahne aufstellen
+visual: keller mit grünem teppich, mein spielplatz um spielzeug autos gegen die hobbyraum türe knallen zu lassen (addon: das grosse gelbe lastwagen auto hat schön geknallt, haha)
+
+alternativplan:
+soziales miteinander mit anderen kindern
+
+
+brief meiner mutter: es sei alles ihre schuld, um den rest der familie zu schützen
+
+stimme: aussenseiter rolle, zusammenhalt rest der familie
+
+visual: in den wald weggelaufen und mehrere stunden dort gebileben weil meine mutter fies war
+
+visual: verschlagen und ausgegrenzt von den schulkollegen, weinend heim kommen und sterben wollen, mutter tröstet, (mögliches addon: blick zu den anderen der familie: schaut euch den hier an)
+ ->schön wäre, wenn die ganze familie knuddeln gekommen wäre, aber nur die mutter die musste tat das.
+
+stimme: aussenseiter prinzip, den aussenseiter knuddelt man sicher nicht.
+
+afaik war zuerst mein vater der aussenseiter, während meine mutter mit uns 3 kindern zusammen war
+
+visual: waldspaziergang, mutter sagt ich soll die brennessel berühren, die brenne nicht, ich habe sie berührt und sie hat doch bebrannt, meine mutter und meine beiden geschwister haben gelacht
+
+system erweitern: allenfalls stand ich unter dem schutz meiner grossmutter, und meine mutter hat gegen meine grossmutter keine chance, bestehendes grosses beziehungsnetz in aarau
+
+     Grosi Dora
+            /\  +Marc Jun.
+           /  \
+          /    \
+         /      \
+     Papa        Mama
++Ursula           +Dominik   <- dass hat meine mutter bis zu meinem 32. altersjahr geheim gehalten
+ 
+
+nach dem wegfallen von Dora stehe ich unten dran.
+->ein plan meiner grossmutter war afaik, dass ich ursula und dominik zusammen übernehme und sie zusammen sind ich darüber und sie aus liebe beschütze
+=>visual meiner mutter wie sie gelacht hat als ich auf grund des seroquels am mittagtisch durchgedreht habe
+->dabei ist eine eltern kind beziehung schon rein aus logischen gründen idiotisch, denn 
+1. das kind will sich auch mal abnabel
+2. falls das nicht gelingt ist es traurig wenn dann der bezugs elternteil wegfällt (sachebene)
+
+vater stimme: [schreiend] ich gebe ursula nicht her, <- und somit lässt sich allenfalls der gedanke führen ob er dafür gesorgt hat, dass ursula jemanden bekommt, der eine andere heiraten wird
+ in relation mit dem wissen, dass nur 4% der frauen einen anderen als den ersten heiraten wollen.
+
+domi stimme: meins meins meins
+->stimme: und somit könnte man die hypohtese wagen, dass sonja überfüttert wurde, damit mutti dominik zurück bekommt, details überfüttern = gut und wohl fühlen, damit sie dick und fett wird
+domi stimme: fett und happy restaurant
+->er hat sie mal geliebt
+
+reflexionsebene:
+soziales defizit bei landolts, soziale integration bei blums, überfütterung + claudine stimme: er streicht sich ein butterzopf voll mit anken und legt fett schinken oben drauf...
+
+binäre matrix, zuneigungsmatrix
+
+A: Papa
+B: Mama
+C: Marc
+D: Ursula
+E: Dominik
+
+  A B C D E
+A ?     1
+B   ?     1
+C     ?
+D 1     ?
+E   1     ?
+
+pfu stimme: skala 0-10
+a) sex
+b) herz <- ich b!
+
+  A B C D E P P
+A x 2 2 2 2 1 1 
+B 2 x 2 2 2 1 1
+C 2 2 x 2 2 1 1
+D 2 2 2 x 2 1 1
+E 2 2 2 2 x 1 1
+
+->+zwei reserve für passerellen studenten
+
+key: diogenes (oder werbung, reclam)
+
+
+n-zuneigungsmatrix, skala 0-1, 3. dimension zeit
+
+y: zuneigungsgeber
+
+    1   2   3   ..  ..  ..  n-2 n-1 n
+1   1   1   1   1   1   1   1   1   1
+2   1   1   1   1   1   1   1   1   1
+3   0   0  (0)  0   0   0   0   0   0  <- ausser der, der ist ein arsch
+..  1   1   1   1   1   1   1   1   1
+..  1   1   1   1   1   1   1   1   1
+..  1   1   1   1   1   1   1   1   1
+n-2 1   1   1   1   1   1   1   1   1
+n-1 1   1   1   1   1   1   1   1   1
+n   1   1   1   1   1   1   1   1   1
+
+(0) bedeutet, er kann sich weil ihn niemand mag (gruppen druck) auch nicht leiden
+
+irgendwer will diese ums die dimension sex erweitern
++					-
+					outbreak von sexuellen krankheiten
+redundanz
+					vertrauen missbraucht
+					jeglicher hollywood film mit happyend verliert seine bedeutung
+					kinder werden wahnsinnig, wenn sie sehen, dass in filmen papi und mami vorkommen und eltern permutieren untereinander und mit andern
+
+L Landev
+S Shrikey
+
+  L S
+L 1 ?
+S 1 ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+stimme die meine mutter immitiert: die pfadi hat dich erzogen
+
+der vollständigkeit halber:
+visual: ich hätte meinen bruder im kinderbett im selben zimmer mit dem kissen ersticken wollen
+ ->wohre genau hat eigentlich ein kind die idee das man das mit einem kissen macht?
+visual: ich hätte die Maus der christine sommer den schwanz abgerissen hat töten wollen, und habs nciht gemacht, dabei wäre es weil sie die letzte war eine erlösung gewesen.
+ (mögliches addon: mutter macht starke kinder aus ursula in dem sie sie die beiden braunen mäuse töten lässt) aber das ist nicht erweisen.
+
+hypthese: sich im militär einen höheren rang verdienen geht nur in dem man in der unteroffiziersschule einem tier das leben nimmt, somit gibt es im mentalen betriebssystem unserer zeit (töten)
+          einen wirksamen rezeptor um die sich im militär system befindlichen elemente unter kontrolle zu halten.
+ist aber eine komplett andere geschichte und die wird hier und jetzt (ableitung) auch nicht zu ende gedacht.
+
+unterdessen im film:
+kind wird zum mörder
+-faktoren:
+ -einzelkind
+ -in der schule gehänselt
+ -geklont (aber der gilt glaub nicht für die psyche)
+
+unterdessen im film:
+die seele des einen toten kindes ist auf den körper des anderen toten kindes übergegangen.
+
+unterdessen im film:
+kirche wird abgefackelt, kind versucht mutter zu töten
+professor der mutter versucht ehemann zu ermorden
+
+unterdessen im film:
+kind verhält sich schizophren
+kind wird umgesiedelt und schaut traurig auf eine gruppe von kindern die zusammen spielen
+
+
+jemand erwähnt wieder dinge des 2. weltkriegs,
+pietätlos...  und schwarzes loch für den geist
+
+

@@ -1,0 +1,108 @@
+How Far We've Come
+
+by Lincoln Spector 
+
+Joshua Fenderbender removed the shrinkwrap from his copy of dBase XVI, broke the disk seal
+without reading the licensing agreement, and emptied the eighteen penny-sized optical disks onto his
+desk.
+   
+"Eighteen disks?!" he thought.  "Just last year the biggest application didn't take more than twelve
+gigabytes."
+   
+Taking out a magnifying glass, he studied the labels until he found the installation disk.  He was about to
+start installing the program when his phone rang.
+   
+"Josh," said the familiar voice on the other end, "this is Ron.  I see that you just got your new dBase."
+   
+"Yeah," Josh sighed.  "I presume you want to come look at it."
+   
+"If that's ok with...hang on."  There was silence on the line for a few seconds.  "Okay, I'm back.  The
+car in front of me moved three feet."
+   
+Ron Whiteperson was a very dedicated worker, devoting an average of fourteen hours a day to his job. 
+Of course, twelve and one-half of those hours were spent on the freeway, navigating the 20 mile
+commute from his home.  But as his car seldom moved, this proved to be a perfect place to get his
+work done.
+   
+Joshua, who did not like spending time in a parked car, had tried to get permission to work at home. 
+When the permission was denied, he did the only thing he could: he divorced his wife and moved into
+the office.
+   
+"Ron," said Joshua, changing the subject, "have you given any more thought to the bus problem?" "Bus? 
+I haven't seen a bus on this highway for eight years."
+   
+"No, I mean computer buses, not commuter buses.  Architecture.  Jesse wants us to standardize on the
+IBM's TinyChannel.  He's worried that anything else will become obsolete."
+   
+"Well, they're now saying that the next version of 1-2-3 will run only on the TinyChannel."
+   
+"Really?" exclaimed Joshua.  "I though Release 3 was gonna be multi-platform."
+   
+Look, as far as I'm concerned," Ron replied, "Paperback Software can do anything with it they like. 
+Hang on, I've got to move up a few inches."
+*****
+   
+Later that day, Joshua was helping Nancy Drummerdangger install a new modem chip in her VeXT
+Workstation.  To be more specific, it was the new Haze 9600 Gigabaud Modem, mounted on a
+revolutionary animated-silicon chip.  This made its installation a bit of a challenge.
+   
+"Are you ready?" asked Josh, holding the box closed.  Nancy nodded.  "Good. Now, I'm going to
+open this box very slowly.  When I do, I want you to grab the chip before it gets away.  Get it?"
+   
+"Got it."
+   
+"Good.  Okay, here goes."
+   
+Nancy tried, but the chip was too fast.  Leaping out of the box and onto the floor, it scurried beneath
+her desk.
+   
+"Sorry," she said.  "Now what?"
+   
+Josh took out a bowl and sprayed it with an antistatic solution.  "They love this stuff," he explained as he
+put it on the floor near the desk.  They sat down on the floor to keep an eye on it.
+   
+"Josh," asked Nancy, have you ever heard of OS/3?"
+   
+Josh thought about this for a moment.  "Sounds vaguely familiar.  Wasn't that an operating system
+during the dark period?"
+   
+"I think so," said Nancy.  "It's pretty hard to find out anything about that time."  All information from the
+1980's and early '90's worldwide had been destroyed by the Great Virus of 1996.
+   
+"Why do you ask?"
+   
+"Well, I was cleaning my closet last night, and I stumbled upon an old newspaper..."
+   
+"Newspaper?" asked Joshua.
+   
+"Yeah, newspaper.  Sort of like a daily hardcopy bulletin board."
+ 
+"Hardcopy?"
+   
+"Yeah, where you use ink to transfer data onto paper."
+   
+"Paper?"
+   
+"A flat, bendable material made from trees......don't ask.  Anyway, this article was saying that the
+makers of OS/3 were being sued for what they were calling 'look and feel.'  Now how can an operating
+system constitute sexual harassment?"
+   
+"I don't think that's what it meant," said Josh.  "'Look and feel' is when one program completely takes
+over a computer and won't let another program in."
+   
+"Isn't that what they used to call proprietary techno..."
+   
+Just then, the lights went out.  Josh got up and started groping for the light switch.  He was tangled in a
+chair when Nancy found the switch and turned the lights back on.
+   
+"Are you alright?" she asked.
+   
+"I think so.  Now if I can just...look!"
+   
+Nancy looked where he was pointing.  The bowl of antistatic solution had disappeared."
+   
+"Dang!" he said.  "Those chips are getting smarter all the time!"
+
+
+(Los Angeles Computer Currents via A.B.A.C.U.S Script, Bakersfield Area Commodore Users
+Society, 9/89, via the Commodore Information Center http://home.att.net/~rmestel/commodore.html)

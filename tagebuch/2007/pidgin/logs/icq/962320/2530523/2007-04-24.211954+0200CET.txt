@@ -1,0 +1,62 @@
+Conversation with 2530523 at 24.04.2007 21::19::54 on 962320 (icq)
+(21:20:00) shrike: softice is doch free?
+(21:20:08) landev: really... moment?
+(21:20:46) landev: also du meinst glasse...?
+(21:20:50) landev: auch die kostet....
+(21:23:58) shrike: wie alt ist die neuste version?
+(21:24:01) shrike: ich find nix
+(21:24:05) landev: nein ist nicht gratis...
+(21:24:13) landev: heisst jetzt glaub anders...
+(21:24:16) shrike: und nach ida kann ich ned suchen
+(21:24:24) landev: warum nciht?
+(21:24:57) landev: vielleicht nach ida-pro? 
+(21:25:15) shrike: noe
+(21:25:31) shrike: ida.pro
+(21:25:50) shrike: wasn das wieder
+
+(21:25:51) landev: wie schreib ich dann office 9.1
+(21:25:52) shrike: 21:30:19 200- 030606 DataRescue.IDA.Pro.Advanced.v4.9.0.863.PROPER.FIX.READ.NFO-Lz0
+21:30:19 200- 031006 Datarescue.IDA.Pro.Advanced.v4.9.0.863.Russian.Edition.Linux.Retail.Cracked-ZWT
+21:30:19 200- 072006 Datarescue.IDA.Pro.Advanced.v5.0.0.879.Retail-Rarizo
+21:30:19 200- 072006 Datarescue.IDA.Pro.Advanced.v5.0.0.879.Retail.repack-Rarizo
+21:30:19 200- 022507 Datarescue.IDA.Pro.v5.0.SDK-NLN
+(21:25:56) landev: juhui...
+(21:26:17) landev: wer ist besser , zwt, nln rarizo ?
+(21:27:04) landev: uups russian edition, wollte eigentlich eine sprache, die wo ich zumindest die zeichen verstehe....
+(21:27:39) shrike: zwt oder lz0
+rest kenn ich ned
+(21:28:14) landev: ZWT = russian.edition --> *kein wort versteh* folglich das andere...
+(21:28:33) landev: übrigens softice könnte nun optimal.trace heissen... bin aber nciht sicher...
+(21:28:41) shrike: ja dennoch wär zwt von der 'crackqualität' her die beste 
+(21:28:57) shrike: find ich ned
+(21:29:25) landev: was soll ich mit einer russischen version?
+(21:30:09) shrike: nix
+
+(21:30:13) shrike: ICH MEIN JA NUR
+(21:30:19) shrike: du hast gefragt WER besser sei
+(21:30:30) landev: aha, sorry mein fehler...
+(21:30:34) shrike: :)
+(21:30:36) landev: *klein bei geb*
+(21:32:13) landev: also softice findest du nciht...
+(21:32:15) landev: ???
+(21:32:20) landev: numega softice
+(21:32:27) landev: vielleicht etwas anderes von numega
+(21:32:31) shrike: nix
+(21:32:44) landev: mit was crackt mann dann heutzutage?
+(21:33:40) shrike: 21:38:11 200- 1998-04-14    1941 kb   0 - SOFTICE V3.2 100 WORKING NUMEGA
+21:38:11 200- 1997-10-04     489 kb   0 - SOFTICE V3.2 100 WORKING NUMEGA [2/2]
+21:38:11 200- Archive 2:
+21:38:11 200- 1995-06-12    1445 kb   0 - Numega SoftIce v3.2 100 Working for Win95
+
+rofl
+(21:34:31) landev: wow, archiv bis 1995....
+(21:34:48) landev: ob das wohl vista kompatibel ist???
+(21:35:05) shrike: lol
+(21:35:32) landev: however... kann es sein, dass in naher zukunft irgendetwas zu finden sein wird?
+(21:35:51) shrike: wenn's ne neue version gibt?
+(21:36:01) landev: also bis 5 sollte es geben...
+(21:37:21) landev: As of April 3rd, 2006 the  DriverStudio product family has been discontinued because of "a variety of  technical and business issues as well as general market conditions". Maintenance  support was offered until March  31, 2007.
+(21:37:29) landev: von http://en.wikipedia.org/wiki/SoftICE
+(21:38:55) shrike: tjo
+(21:39:04) landev: hehe, han grad en open source debugger gfunde :http://rr0d.droids-corp.org/
+(21:40:23) landev: HAR... http://rr0d.droids-corp.org/Rr0d.ppt 1. siite....

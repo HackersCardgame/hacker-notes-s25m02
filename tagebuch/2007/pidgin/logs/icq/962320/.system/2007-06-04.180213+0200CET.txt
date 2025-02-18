@@ -1,0 +1,47 @@
+System log for account 962320 (icq) connected at 04.06.2007 18::02::13
+---- +++ 962320 hat sich angemeldet @ 2007-06-04 18:02:13 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 2007-06-04 18:02:13 ----
+---- Dominik wurde tätig @ 2007-06-04 18:02:13 ----
+---- shrike hat den Status von Offline zu Nicht verfügbar geändert @ 2007-06-04 18:02:13 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-06-04 18:02:13 ----
+---- michi wurde tätig @ 2007-06-04 18:02:13 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-06-04 18:02:13 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-06-04 18:04:08 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-04 18:04:25 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-04 18:09:29 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-04 18:09:43 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-04 18:11:53 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-04 18:12:30 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-04 18:13:35 ----
+---- +++ 962320 wurde untätig @ 2007-06-04 18:08:07 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik wurde untätig @ 2007-06-04 18:27:33 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-04 18:36:49 ----
+---- Dominik wurde tätig @ 2007-06-04 18:36:49 ----
+---- +++ 962320 wurde untätig @ 2007-06-04 18:36:27 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-04 18:47:43 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-04 18:49:19 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik wurde untätig @ 2007-06-04 19:01:42 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-04 19:04:25 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-04 19:04:33 ----
+---- Dominik wurde tätig @ 2007-06-04 19:04:33 ----
+---- +++ 962320 wurde untätig @ 2007-06-04 18:57:49 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-04 19:10:31 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-04 19:14:01 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-04 19:21:15 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-04 19:21:19 ----
+---- stefan hat den Status von Verfügbar zu Offline geändert @ 2007-06-04 19:23:56 ----
+---- Dominik wurde untätig @ 2007-06-04 19:35:18 ----
+---- +++ 962320 wurde untätig @ 2007-06-04 19:27:43 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-06-04 19:46:55 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-04 20:05:27 ----
+---- Schööfli wurde untätig @ 2007-06-04 20:05:30 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-06-04 22:13:56 ----
+---- Schööfli hat den Status von Abwesend zu Offline geändert @ 2007-06-04 22:14:14 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-06-04 22:52:56 ----
+---- +++ 962320 wurde untätig @ 2007-06-04 22:54:23 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-06-05 06:31:03 ----

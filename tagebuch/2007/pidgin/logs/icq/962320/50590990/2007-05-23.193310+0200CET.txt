@@ -1,0 +1,24 @@
+Conversation with 50590990 at 23.05.2007 19::33::10 on 962320 (icq)
+(19:33:17) Dominik: www.aarau-telli.ch
+(19:33:43) landev: abgrundeti egge und chli en anderi farbgebig (z.B. hellers blau) wär no cool....
+(19:33:49) landev: also de rahme
+(19:35:04) Dominik: hmm für rundi egge mues i di ganz page umprogramiere
+(19:35:24) Dominik: ha gmeint wägem Gästebuech
+(19:35:30) landev: ja aber das helle wiis und das dunkle blau sind zäme scho chli pfuscht ufs aug...
+(19:35:35) Dominik: chasch jo en iitrag mache
+(19:35:41) landev: machi
+(19:35:54) Dominik: jo ich han s design nidgmacht
+(19:35:57) Dominik: has übernoo
+(19:36:11) Dominik: wott nid alles neu Programmiere , aber farb chan i scho ändere
+(19:36:20) Dominik: schloo en farbcode vor
+(19:36:26) landev: moment...
+(19:36:49) landev: wget www.away.ch/qv
+(19:37:01) Dominik: he ?
+(19:37:14) landev: uf dütsch i lade die siite rasch abe...
+(19:37:32) landev: mit wget chasch en siite mit bilder und unterverzeichnis etc, abekopiere...
+(19:37:43) Dominik: so en pech
+(19:37:52) landev: wiso?
+(19:37:55) Dominik: aber verwütischisch nid die reine asp
+(19:38:11) Dominik: de server git nume die bearbeitete files use
+(19:38:26) landev: nei, es asp wird no uf serversiite in es html verwandlet... chunt als fix fertigs htmlö bim client a.
+(19:38:35) landev: ohni ö (tippfehler)

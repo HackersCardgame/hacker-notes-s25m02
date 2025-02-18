@@ -1,0 +1,8 @@
+tagebuch 16:15 17.04.2006
+
+Letzte fotos vor einlieferungen -->
+
+Select * from contact where brändli baumberger
+
+_|_
+

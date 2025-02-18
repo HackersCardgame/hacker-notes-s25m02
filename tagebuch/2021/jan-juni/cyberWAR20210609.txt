@@ -1,0 +1,62 @@
+Wed 09 Jun 2021 12:02:56 PM CEST
+
+moin
+
+allenfalls hat die schweizer  armee einen zweiten gitlab server aufgesetzt wo z.B mit einer /32 route umgeshcaltet wird falls so wichtige beweismittel fotos abgefangen werden sollen (vorerst spekultaion)
+
+urs blum: sprengfallne aktivierne <- 
+
+vorsätzlich eskalation weil dieser fall aufklärbar wäre
+wenn ein fall aufklärbar ist sind die eventtrigger von urs blum und pfisterer immer "gefahr in verzug" und drohung mit sprengfallen, bioterrorismus, oder marc jr landolt in den suziid zu treiben [2,3,4,5,6,7,] <- (cyber) clusterbomb ist eigentlich die richtige bezeichung
+
+
+urs lbum: jedes mal wenn wir bei dir marc jr (pfisterer formuleirung) epilepsie einschalten stechen wir gleichzeitig ejmanden ab also halt dein fresse <- FEDPOL hilfe
+
+Wed 09 Jun 2021 01:03:44 PM CEST
+ 15 114 787 cyberWAR20210609.txt
+d41e154b07db20f99007bdcbe0caad8bfc954ffba13985c38ffa2c6c2ecd7a81d0f1e7277e32eca1cffd1bcbb01dc03488bdb278942376ab25c030d3e4e2dc49  cyberWAR20210609.txt
+[main a97560a] save
+ 1 file changed, 10 insertions(+)
+
+
+[DELETED] []
+
+IRATEMONK verraten heisst somit dass diese sorte von amerikanern dann anfängt hochrangige offiziers in der schweiz ans messer zu liefen?
+
+Wed 09 Jun 2021 01:04:46 PM CEST
+  26  157 1213 cyberWAR20210609.txt
+cf64a28844a531d0bfa7a5f8592dd57953887290e98d7cb718ba24052e9ad080d8ff11c49ec7945951480854ee732159070a20ee2416d6bc095f1e89b12a0534  cyberWAR20210609.txt
+[main c1c974f] save
+ 1 file changed, 6 insertions(+)
+
+
+[DELETED] [REBUILT] allenfalls eine /32 Route die von der armee schnell umgeschaltet werden kann und dann auf einen anderen gitlab server umleitet damit marc jr landolt die beweise nicht backupen kann?
+
+Wed 09 Jun 2021 01:09:52 PM CEST
+  35  209 1691 cyberWAR20210609.txt
+229e2f54e79b552cf25b07ade85094a0fc0f796832de1ba17388c70f5a903d9148d8a6bd2039ace8f2a40ab8c401b9ced48cb834892a06ff37d8e736d6fe6977  cyberWAR20210609.txt
+[main 15a5082] save
+ 1 file changed, 4 insertions(+)
+
+
+Furby-Mode: me sleeeeeep again...
+
+Wed 09 Jun 2021 03:48:23 PM CEST
+  44  234 2001 cyberWAR20210609.txt
+4181670bbed36327593c15a6498a96e01a6ab159a71186eaaf137897b94f30f2aea0d5c7690126903f69aa02ce83e11b9eabc8ee4a67e4a2234b76286fcb499f  cyberWAR20210609.txt
+[main e05d747] save
+ 1 file changed, 4 insertions(+)
+
+bzw noch rasch userland ausschliessen und cp unter root gestartet...
+
+
+
+Wed 09 Jun 2021 04:16:13 PM CEST
+  54  265 2347 cyberWAR20210609.txt
+e2a6b163650cf22c4e30420f2ad9ef90c0dffe50ea6249488e2082df6cfd9ad5d16d9be18f6b32dfb6d00abaef3bd30cd0d3888104d0536090dbeb676327eb4b  cyberWAR20210609.txt
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+

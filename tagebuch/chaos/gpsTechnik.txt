@@ -1,0 +1,40 @@
+und mein herz schlägt schneller
+
+habe letzthin noch mit dem gEORG pFurtscheller (OHNE sEINE FRAU) geredet
+(es ist nicht die Signalübergabestelle)
+
+(endlich mal ein "rabenu") den rock des IBN SINA Berühren...
+
+hatte ein gutes gespräch mit ihm, dann hat er mit mir duzis gemacht und
+mir gesagt, dass er im prinzip der gründer der gPs sei.
+
+dann haben wir über equinix geplaudert, scheinbar hats mal einen stromasufall
+gegeben und dann habe so ein depp statt L1 und N L1 und L2 angeschlossen
+und vielel arme netzwerkkomponenten seien gestorben... bis auf cisco
+die hätten transzorbdioden drinn und das überstanden... 
+
+apropos messen von spannungen auf dem gehäuse von der dose L1 auf das gehäuse
+statt von PE auf das gehäuse... gegenkathe durch hypothenuse
+elendes 2 hoch drei
+
+aber zurück zum thema, er hat schon einen betriebswirtschaftlichen hintergrund aber sein herz ist wohl das eines technikers...
+
+(es wird eine waffe eingeblendet, ich drücke vorsichtshalber die delete taste)
+
+dann ist er amateurfunker, und sagt heute seinen doch alles 
+steckdosen amateurfunker... schönes schimpfwort, dass muss ich aus (a system
+that depends on reliability is not reliable) gründen dem pfau an den kopf
+werfen...
+
+sun sei wirklich besser als linux (ich schwärme für GPL) und redhat sei
+die Professionelle distribution...
+
+mein lieblingspapi sollte mal mit ihm über elektronik reden...
+
+dann war da noch die geschichte, dass die Geheime SCE (Service Control Engine)
+von der yetnet gehackt wurde und darauf ein illegaler server betrieben wurde
+
+(was habt ihr zu verbergen?)
+
+
+

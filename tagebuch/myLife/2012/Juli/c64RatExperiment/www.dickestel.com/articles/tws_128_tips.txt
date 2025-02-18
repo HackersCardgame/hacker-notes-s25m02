@@ -1,0 +1,102 @@
+THE WRITE STUFFer
+
+ by Dick Trissel (E-mail: rtrissel@slonet.org)
+
+This is a special Write Stuffer just for C-128 owners who use the C-128 version of The Write Stuff. If
+you don't own a C-128, BUY ONE. It's worth the $100 or so for a C-128 and an RGB monitor just
+to be able to use TWS-128.
+
+WORD, BYTE, & BLOCK COUNT
+
+Sure, we all know if you press [CTRL] = you get the text word count, the bytes used (T-used), the
+bytes free (text area minus bytes used), and the equivalent disk blocks (254 bytes/block). But, I bet
+you didn't know that the word count will only be correct if each paragraph is indented. Otherwise the
+count is short by one word per unindented paragraph--big whoop-dee-do!
+
+The T in T-used bytes is the text segment total number of bytes. The largest (one segment) is 62975
+bytes. If the text is segmented into ten segments, the size is like this:
+
+Segment Bytes 
+1 7423 
+2-9 6143 
+0 6399
+
+Yeah, they don't total up to 62975 because it takes one byte of overhead for each segment
+(sometimes??). These segments can be set using the [CTRL] [SHIFT] + and the number keys.
+
+
+END-OF-TEXT WARNING
+
+When you get to within 254 bytes of the end of a text area, a warning is sounded and "Start New File"
+is displayed. You can keep typing, but it's not advisable. This same limit holds if you are trying to paste
+some text, except the warning is "No Room" and it won't do it.
+
+
+SPLIT SCREEN
+
+Don't confuse this with split text. Split screen means there's an upper screen text area and a lower
+screen area, both of equal screen size. This is accomplished by pressing [CTRL] [SHIFT] =,
+quickly--just a tap, because it is a toggle--a fast toggle. Now here's the tricky part, you have to put the
+cursor in whichever area you want to work. This is done by pressing the NO SCROLL key. Then just
+use each area the same as a single area--load, edit, save, cut and paste (even from one area to the
+other).
+
+The advantages of two screens using one as a reference, or for comparison purposes, or maybe you
+just like to work on two projects at the same time.
+
+
+VIEW A DISK FILE
+
+Again, everybody knows you can read a file directly from a disk without disturbing the text in memory
+by going to the Load Menu --[UPARROW] l, pointing to the file, and pressing the v key. But did you
+know that you can display the disk directory with [CTRL] 4, use the [SHIFT] [UP CURSOR] and
+[LEFT CURSOR] to point to a file, then press the v key. Now it gets tricky, again.
+
+When you release the shift key, it starts the display. But, if before you release the shift key, you press
+the t, p, or s key first, you can convert a file: t for a True ASCII file, p for a Pet ASCII file, s for a
+Screen code (TWS) file.
+
+Pressing the shift key will pause the display, and after the display is done, pressing any character key
+will return you to the edit screen.
+
+
+STRIP EXTRA RETURN MARKS?
+
+Ever seen that question after converting a loaded file? Well, I finally figured out what it means (I read
+the manual). Actually, you can do it at anytime by pressing CTRL-0 (zero). The manual says it removes
+return marks (left arrows) where they are bounded by text. Well, in this case, a space is not considered
+a character.
+
+In other words, if your text looks like this:
+
+This is text.(left arrow) 
+More text.(left arrow)
+
+After invoking the strip command [CTRL] 0 and responding Yes, it will look like this:
+
+This is text. More text.
+
+Notice, it inserted a space for the two returns. If there was a space in front of the More, or a return
+between the lines, nothing would have been changed.
+
+
+1581 SUBDIRECTORY
+
+You can list a 1581 disk drive sub-directory with the command [CTRL] / and pressing the first
+character of the sub-directory name.
+
+
+LOAD AND SAVE BUFFER
+
+According to the manual you can load and save files in the buffer (the eat and regurgitate area) by
+typing in the file name b:-filename (after deleting the automatic hyphen (-). Of course, it has to be a
+TWS screen code file. Well, I got it to work sometimes. I don't know why it didn't always work
+(probably operator error).
+
+
+GOOD PRACTICE
+
+It is a good practice (no matter what TWS you are using) to save your text every time the clock in the
+upper right hand corner reaches 15 minutes.
+
+(From CCCUG Newsletter, Central Coast Commodore Users Group, January 1996, Via the Commodore Information Center, http://home.att.net/~rmestel/commodore.html)

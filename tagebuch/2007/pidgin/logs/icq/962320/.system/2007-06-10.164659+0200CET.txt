@@ -1,0 +1,52 @@
+System log for account 962320 (icq) connected at 10.06.2007 16::46::59
+---- +++ 962320 hat sich angemeldet @ 2007-06-10 16:46:59 ----
+---- Schööfli hat den Status von Offline zu Abwesend geändert @ 2007-06-10 16:46:59 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-06-10 16:47:00 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-06-10 16:47:00 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-06-10 16:47:00 ----
+---- shrike hat den Status von Offline zu Nicht verfügbar geändert @ 2007-06-10 16:47:00 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-10 17:12:25 ----
+---- michi wurde untätig @ 2007-06-10 17:17:24 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-10 17:18:54 ----
+---- michi wurde tätig @ 2007-06-10 17:18:54 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-10 17:20:48 ----
+---- Dominik wurde tätig @ 2007-06-10 17:20:48 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-10 17:31:19 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-10 17:32:19 ----
+---- michi wurde untätig @ 2007-06-10 17:37:19 ----
+---- Dominik wurde untätig @ 2007-06-10 17:46:18 ----
+---- +++ 962320 wurde untätig @ 2007-06-10 17:40:07 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Schööfli hat den Status von Abwesend zu Offline geändert @ 2007-06-10 18:01:02 ----
+---- shrike wurde tätig @ 2007-06-10 18:03:01 ----
+---- +++ 962320 wurde untätig @ 2007-06-10 17:58:32 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-06-10 18:14:30 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-10 18:35:59 ----
+---- michi wurde tätig @ 2007-06-10 18:35:59 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-10 18:41:19 ----
+---- michi wurde untätig @ 2007-06-10 18:46:19 ----
+---- +++ 962320 wurde untätig @ 2007-06-10 18:39:52 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-10 18:57:34 ----
+---- michi wurde tätig @ 2007-06-10 18:57:34 ----
+---- +++ 962320 wurde untätig @ 2007-06-10 19:02:56 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-06-10 19:15:59 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-10 19:31:04 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-10 19:31:14 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-10 19:55:26 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-10 19:56:27 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-10 20:05:04 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-10 20:09:49 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-10 20:15:19 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-10 20:16:54 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-10 20:25:09 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-10 20:26:54 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-10 20:27:03 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-10 20:32:08 ----
+---- +++ 962320 wurde untätig @ 2007-06-10 20:32:37 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-06-10 22:21:31 ----

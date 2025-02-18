@@ -1,0 +1,240 @@
+TOOLS TO TAKE THE "HARD" OUT OF HARD DRIVE 
+ 
+by Dick Estel (DickEstel@Worldnet.att.net) 
+ 
+ 
+PROGRAMS COVERED: 
+ 
+EZ LOADER  
+DEDIT  
+PARTITION VIEW ("part.128 v3.1")  
+HD-TOOLS  
+PARTITION PRINT  
+FCOPY & M COPY  
+CMD PARTVIEW.V4  
+HD POWER TOOLS  
+NOTIME.BAS 
+ 
+ 
+ 
+New hardware requires new tools. The invention of the automobile lead to the 
+development of everything from the electric starter to the high-tech 
+computerized equipment now used for most auto repair diagnoses. 
+ 
+The computer world is no different. The change from tape drives to disk drives 
+as the prime storage media for Commodore lead to the development of all kinds of 
+disk management and drive checking software. And the acquisition of a large 
+capacity storage device such as a CMD hard drive requires the use of ever more 
+sophisticated versions of these programs, as well as some specialized new ones. 
+ 
+I've been enjoying my 40 megabyte CMD HD for about two years now--but without 
+some of the programs described in this article, using it would often be a 
+headache instead of a joy. 
+ 
+ 
+HD TOOLS 
+ 
+Before you can do much with your new hard drive, you need to create some 
+partitions and subdirectories where you can save your work. CMD provides the 
+programs to accomplish this, HD-TOOLS.128 and HD-TOOLS.64. Both function 
+identically. 
+ 
+Upon loading the program, you see a list of options, which include changing the 
+default device number or the default partition, viewing a list of existing 
+partitions, deleting an old partition, or adding a new one. 
+ 
+Once the device and partition defaults are set, you probably won't change them 
+often. The other options come in handy when you set up or reorganize your drive. 
+ 
+Listing the partition table shows the partition number, its name, size in 
+blocks, and type. The latter includes 1581, 1571 and 1541 emulation partitions, 
+native, 1581 CP/M, print buffer, and foreign (for non-Commodore drives). The 
+print buffer partitions are not usable by the current system, but there are 
+plans to allow their use as a buffer so that data can be sent to the printer, 
+and you can get back to work. The manual states that this will be implemented in 
+a future version of the HD DOS program. Use of foreign partitions requires 
+appropriate software on the other system. 
+ 
+If you select "create a partition," you are presented with a display showing the 
+first available partition number. You can press + or - to move to a different 
+number, or RETURN to choose the one displayed. Next you select the type. If you 
+choose an emulation partition, the size is automatically set. For native 
+partitions, you select the size, in 256 block increments. After this you enter a 
+name, and you have the option to write the new partition to the drive, or abort 
+the process. 
+ 
+The "delete" option does just what it sounds like. 
+ 
+ 
+EZ LOADER 
+ 
+Once you have partitions, subdirectories and files set up, a menu program of 
+some kind is a must. I have hundreds of programs scattered over 50 partitions. I 
+can easily remember where to find the Write Stuff, GEOS and my copy program. 
+Finding programs I use less often could be a real challenge. 
+ 
+The menu program I use is called EZ Loader, written by Dave Schmoll. This menu 
+can be set up to access programs on any drive, partition, or subdirectory. In 
+the menu interface, you can give the program a meaningful name, regardless of 
+the actual file name. Once you've added a program to the menu, all you do is 
+place the cursor on the program name and press [RETURN].  
+ 
+For a thorough discussion of this program, see Scott Eggleston's review in issue 
+#3 of The Underground, updated in issue #12. All I will say is that anyone who 
+has a CMD large storage device MUST own EZ Loader. I WILL quote one comment from 
+Scott's first review: "At first I was going to write about several menu systems 
+available to us, but after using EZ Loader, I cannot recommend anything else." 
+ 
+The more I work with it and review various items in the documentation, the more 
+I appreciate the program. (The latest version is 3.3, and the registration cost 
+is $20. Dave offers on-line support, and keeps registered users up to date on 
+the latest changes.) 
+ 
+ 
+DEDIT 
+ 
+I've also found a directory sorting program to be a vital part of my tool box. 
+Two great ones, David's Directory Designer and Directory Assistance, stand out 
+for use with the 1541/71 drives. However, neither will work on 1581's or the 
+hard drive (I'm sure this is also true of RAMLink and other similar devices). 
+ 
+The best one I've found so far is "dedit128. v7.1" (also available in a 
+similarly-named 64 version). The program is shareware, and a $5 donation is 
+requested by author Jerome Yoner of Canada. 
+ 
+Dedit allows automatic sorting of the entire directory, or a manual sort. In 
+addition there is an option to pack the directory (eliminate "blank" spots where 
+files have been deleted). The DOS wedge is fully supported, and a group of 
+commands up to 255 characters can be sent by placing the English pound sign 
+between each command. This is especially useful on the hard drive, where there 
+may be several layers of subdirectories. Thus the command string  
+"cp17^cd:correspondence^cd:family." would change to partition #17, and access 
+the second level subdirectory "family," under the first level subdirectory 
+"correspondence": 
+ 
+Although the program is fast and relatively easy, I have several items on my 
+wish list if there is an upgrade: I would like to be able to change the default 
+colors, since I find some letter/background combinations hard to read. The two 
+sort options require either sorting the entire directory, or moving one file 
+name at a time in the manual sort. Some of the older programs allow moving a 
+group of files, and sorting on a selected range. Clearly this could be 
+implemented in a modern program. Even so, I am highly satisfied with the 
+program, and use it regularly to keep my large word processing directories in 
+alphabetical order. 
+ 
+ 
+PARTITION VIEW 
+ 
+Mr. Yoner has also provided us with another essential program, PARTITION VIEW 
+("part.128 v3.1"), a program for viewing and/or printing the partition 
+information on the CMD HD, RamLink, and RamDrive. The 128 version supports 
+viewing the information in 80 columns. The 64 & 128 versions allow printing the 
+information in 80 columns.   
+ 
+The choices offered from the main menu in this program are as follows: 
+ 
+1 - Read Partition Info  2 - Display Info  3 - Print Info  4 - Sort by Starting 
+Block  5 - Sort by Partition Size  6 - Sort by Partition Number  7 - Sort by 
+Partition Name  8 - Sort by Partition Type  9 - End    
+ 
+Options 1 and 2 read in the partition data and display it, after which option 3 
+allows you to send it to the printer or the screen. The programs great strengths 
+are in the sort choices, the most useful of which is #4, Starting Block. This 
+lists the partitions in the order they were created. The value of this comes if 
+you want to delete several partitions.  
+ 
+Regardless of the numeric designation of the partitions, they are written to the 
+drive in the order that you create them. If you remove the second partition of 
+twenty on a HD, you will wait a LONG time while all the other partitions are 
+moved up. Sorting by order of creation allows you to delete partitions in 
+reverse order, greatly reducing the wait time. The utility of the other choices 
+should be fairly clear, and will depend on your own needs. 
+ 
+Note that the sorting process is just a listing, no changes are written to the 
+drive. 
+ 
+ 
+CMD PARTVIEW 
+ 
+A similar C64-only program, CMD PARTVIEW.V4 by "Scormus" does essentially the 
+same thing, but also allows sending the sorted list to a disk file. 
+ 
+ 
+PARTITION PRINT 
+ 
+Another useful program for keeping a record of what is on the drive is PARTITION 
+PRINT. When run, the program prints to the screen or printer a list of all 
+partitions by name and type. It then repeats the list, showing partition size 
+and blocks free. Finally it goes through the list again, showing subdirectories 
+and indicating whether the partition has a boot sector. It's a simple program, 
+but very handy for making regular updated lists of what's on the drive. 
+ 
+ 
+FCOPY and MCOPY 
+ 
+Two other programs that come with the drive are FCOPY, a file copier, and MCOPY, 
+a whole disk copier (the "m" stands for "mirror"). MCOPY is pretty much a basic, 
+garden variety disk copier that recognizes emulation partitions and all 
+Commodore compatible drives. The program automatically prevents attempts at 
+copying between mis-matched drive types. 
+ 
+FCOPY is well designed for use with large capacity, partitioned storage devices. 
+It allows access to partitions and subdirectories, including partitions created 
+on 1581 disks. Files to be copied can be limited by the usual wild card 
+techniques, as well as by date. This is a particularly valuable feature. For 
+example, when I'm ready to back up the new material on a Write Stuff 
+subdirectory, I can specify files that were created or modified after a selected 
+date (normally the date of the last backup). This makes the task of backing up 
+the hard drive a simple one. As with most good copiers, you can toggle all files 
+in a list to be copied, or select them individually. You then tell the program 
+how to deal with existing file names on the target disk: bypass copying that 
+file, replace, or ask. FCOPY is available via many BBS's and on-line services, 
+and would be a useful file copier for anyone, whether you have a hard drive or 
+not. 
+ 
+ 
+HD POWER TOOLS 
+ 
+A potentially useful program I have not really tested is HD POWER TOOLS, from 
+CMD. This item lets you directly edit partition tables, which describe the 
+parameters of the partition. You can change the type (such as native, 1581 
+emulation, 1541 emulation, etc.), the name, the start address, and the size. 
+This allows the unwary and inexperienced user to totally destroy all data in a 
+partition--which is why I have not tested these functions! 
+ 
+Potentially more useful to the non-programmer is the ability to back up the 
+partition table. Again, I did not fully test this function, and I do not have 
+documentation for the program, but the apparent purpose is to allow you to 
+restore the information defining your hard drive setup in case of a crash. I did 
+use the SAVE function, which created a small USR file, but for obvious reasons I 
+did not try the RESTORE option, which I assume writes the information back to 
+the hard drive. Anyone feeling compelled to use this program should seek out the 
+documentation! Wisely, the author gives you the chance to abort the proceedings 
+at any point of danger. 
+ 
+ 
+NAVAL OBSERVATORY TIME 
+ 
+Finally, there is a convenient little file that makes it easy to precisely set 
+the Hard Drive's clock (if glancing at your watch is not adequate). NOTIME.BAS 
+is a dedicated terminal program which calls the U.S. Naval Observatory near 
+Washington D.C., obtains the standard time, converts it to local time, sets the 
+clock, and hangs up. I did have a problem with this file in that it would not 
+function a second time after I had used it. However, I dissolved it from the 
+original SFX file again, and the newly created program worked fine--once. Since 
+I don't use the program often, it's not a big deal to dissolve it from the 
+original each time I need it. But if anyone has the answer to this strange 
+behavior, I'd love to hear about it. This program was featured on an Underware 
+collection as "notime.sfx." (Underwear disks, a service of The Underground, were 
+distributed by our own Tom Adams, who can no doubt still provide this file). 
+ 
+All the programs mentioned here came from GEnie except those that were included 
+with the drive and the Navel Time file. No doubt they are available at most 
+Commodore FTP sites on The Internet and many bulletin board systems. 
+ 
+Of course, there are many other programs designed for use with the hard drive 
+and similar large capacity storage devices; and many others that are useful with 
+it, though not specifically designed for it. These are the ones that have made 
+my tool kit complete.  
+ 
+

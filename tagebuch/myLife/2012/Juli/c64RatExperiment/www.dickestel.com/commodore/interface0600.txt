@@ -1,0 +1,611 @@
+The Interface
+Fresno, California; June/July 2000
+Taking 8 Bits to the 21st Century
+
+"Computers in the future may weigh no more than 1.5 tons." 
+--Popular Mechanics, 1949
+
+Contents:
+
+Editor's Retirement Plans
+Why Spellcheck?
+Member Drawing
+The History of @
+Disk Drive Evolution
+GEOS Questions & Answers 
+New FCUG Web Site
+Bernardo on the Air 
+
+
+What the Editor Said
+
+We don't keep track of your age in our extensive data base, but I would venture to guess the average 
+age of the club is over 50, even with spring chickens such as Robert, Ken and Helen dragging down 
+the average. We've seen a lot of stuff come and go. Even the oldest of us grew up in a world where 
+flying through the air was routine, but all but the youngest (Matt maybe?) are amazed that we saw a 
+man stand on the moon.
+
+Closing our post office box and getting the address changed emphasized how much things change and 
+people come and go. We had trouble getting it done because all of the names on the records at the P.O. 
+are people who left the club before I was in it--and I have been a member since 1988. Although it 
+seems we make Robert, Helen and Zella be officers year after year, the list of those who have served is 
+actually quite long.
+
+During my own tenure we have had five different newsletter editors. I took over from Mark Miller, 
+then gave the job to Dennis Fithian after three years. Juanita Eroles took over soon after that, followed 
+by Sandy Dippollet, the only former editor still in the club. I started my second term in June 1997.
+
+In the past two years or so I have mentioned several times that my time as editor would be ending 
+"soon." Now it's time to define that clearly and unalterably as December 2000. Before then we need to 
+decide if we want to continue the newsletter. Some Commodore people think that dropping the 
+newsletter is the beginning of the end for a club. I would tend to agree with this; we have several 
+members who make it to two or three meetings a year, but continue to send in their renewal check. 
+Would they be willing to pay to belong to a club with no contact other than a postcard? Maybe...three 
+meetings a year for $12 is still cheaper than a movie, and more wholesome.
+
+Until recently we had three newsletters, two of the unofficial. I miss them and hope they will return. 
+Each served a different purpose. Robert keeps us up to date on the latest activities in the Commodore 
+world, while Helen provides a unique viewpoint on the club and its activities. Only Helen could have 
+properly reported on the indignities we suffered at the February meeting.
+
+Perhaps these two editors can combine their efforts and channel them into the official journal of the 
+club. Possibly they could edit alternate issues, which would be only three per year each. I believe they 
+would be good people to carry on the tradition of The Interface.
+
+--Dick Estel
+
+
+A Good Reason to Spellcheck the Old-fashioned 
+(Commodore) Way
+
+Before computers came on the scene, word processing consisted of pen or typewriter on paper. The 
+prudent followed with proofreading all but the most casual work. And more often than not, the needed 
+corrections required redoing the work.
+
+The advent of word processors brought a lot of relief to that methodology. Instead of retyping an entire 
+effort after the proofreading, merely making needed changes in the text finished the work. This in turn 
+brought about improved composition. The ease with which corrections could be made encouraged the 
+writer to focus on creation rather than the mechanics of spelling, etc.
+
+Next came spellcheckers. The computers of the day (including Commodore) lacked sufficient memory 
+to hold a large dictionary. So spellchecking was performed as a separate task following the writing 
+effort. This proved faster than looking words up manually and had the advantage of catching errors 
+overlooked by the eye.
+
+Today, though, the newest computers perform spellchecking as the document is typed. That is, if a 
+word is typed that is not contained in the program's spelling dictionary, it is immediately flagged, often 
+highlighted with a red line under it.
+
+At first thought, this instant spellcheck may sound like a good idea. However, many users find that it 
+interrupts the flow of thought, prompting some to turn off the feature. But then they don't bother to 
+spellcheck the finished work. On the other hand, those who do use the feature tend to forgo 
+proofreading completed work. As a consequence, omitted words, lapses in grammar, and typo's witch 
+otherwise from correctly spilled wards escape detection.
+
+(From the Civic 64/128 Gazette, Oxnard/Ventura CA, April 2000)
+
+
+I've Got Five Dollars and 
+It's Saturday Night
+
+It was easier to give money away in April and May. The winning name came up on the first try, with Helen 
+striking it rich again in April, and Bill Gilbert taking the prize in May.
+
+We draw names till there's a winner, stopping after the third name, and if none of them is present, the pot goes 
+up to $10 the next meeting.
+
+
+A History of the @ Character
+
+Just because a thing works does not mean it will endure. Eight-track tapes worked. Nor is the use of a 
+thing destined to continue just because it works better. BETA VCR's worked better than VHS.
+
+So, what is it about things like the common mouse trap, wire paper clips, even the Commodore 64, 
+which fosters continued use? Alternatives to each of these things have come and gone, and each of 
+these things currently have other options which are arguably better. Yet, use of the common mouse 
+trap, wire paper clip, and Commodore 64 endure.
+
+The answer is simplicity. They work and they are simple to use. Indeed, what is simpler than the 
+common mouse trap? And it does the job. So it is with the wire paper clip, and the Commodore 64.
+
+Another thing that has endured over time is the @ symbol. It is known as "the commercial at sign" in 
+this country. In other places it is called a monkey's tail, a snail, a little mouse, even an elephant's trunk.
+
+The history of the @ symbol can be traced to the Middle Ages. Some point to the eighth century as the 
+time of its creation. The reasoning behind selecting the eighth century is because that is when another 
+previously unseen character came into existence: the question mark.
+
+It is thought that the @ symbol came about as a result of efforts by scribes during that time to conserve 
+a scarce supply of parchment. They often squeezed letters like a and e, t and h, and others together to 
+save space. The @ character is a combination of the letters a and d. In Latin, ad means: to, toward, 
+near, or at. Instead of writing ad, the scribe penned the a and omitted the d by wrapping its upstroke 
+counterclockwise around the a.
+Unlike many of the letter combinations of the day, the @ character stood for a complete word. 
+Furthermore, its various meanings allowed diverse use. These two attributes no doubt explain why @ 
+survived while most of the other creative efforts of this nature did not. Besides being found scrawled 
+on numerous written documents from past centuries, mostly in reference to a given price per item, the 
+invention of the printing press carried @ onto the printed page.
+
+It's not surprising, then, that the @ symbol also came to be on the typewriter keyboard. Strangely, 
+though, the first typewriters didn't have @ assigned to a key. And it's thought that this omission 
+explains why those machines were not very successful in the business world. Indeed, history suggests 
+that it was the addition of the @ symbol to the keyboard that made the typewriter commercially viable.
+
+Even so, when printed commercial documents like invoices began to include columns for price per 
+item, the use of @ began to wane. For a time, in fact, about the only place the @ symbol appeared was 
+in string of characters to express expletives like !#$@%& as seen in comics. There is some indication 
+that this disuse prompted some typewriter manufactures to toy with the idea of removing the @ sign 
+from the keyboard. Just why it endured is a subject of conjecture. Maybe they were afraid of the 
+commercial power of @. After all, if its addition to the keyboard was the reason for the typewriter's 
+success, it's removal could cause its demise.
+
+Whatever the reason, the presence of the @ sign on a teletype keyboard is what gave rise to its use in 
+e-mail addresses. As the story goes, beginning use in the early 1970's of what became the internet 
+needed a way to separate the intended recipient's name from the computer's designation in order to 
+prevent confusion as the message traveled between the various computers making up the network. A 
+single unique character seemed to be the logical answer, and what better choice than the seldom used 
+@ symbol which meant "at."
+
+Needless to say, this guaranteed the transition of @ from the typewriter keyboard to the computer 
+keyboard. Thus, the scrawl penned a long time ago to abbreviate the Latin "ad" once again 
+demonstrated its commercial power. And today, the @ symbol is responsible for delivering millions, if 
+not billions, of e-mail messages daily through cyberspace.
+
+(From the Civic 64/128 Gazette, Oxnard/Ventura CA, April 2000)
+
+
+
+Evolution of the Disk Drive
+
+by Joel Ellis Rea
+
+First there was the Commodore 2001 Personal Electronic Transactor (PET).  It was one of the first 
+personal computers on the market.  It had a whopping 4K of RAM, and 8K BASIC in ROM, and a 
+Kernal to control input/output and other system operations.  It used Commodore BASIC Version 1.  
+There were no disk drives then, but provisions were made in the form of an IEEE-488 General Purpose 
+Interface Bus.  It also had the funniest little keyboard you ever saw!
+
+Commodore then invented the 2040 Dual Floppy Disk Drive.  It was an industry first.  Previously the 
+main computer had to control every tiny detail of disk drive operation, not to mention loading a large 
+Disk Operating System (DOS) into the computer's RAM in order to use the drive.  The 2040 was an 
+intelligent drive, with its own computer system inside, and its own DOS in ROM!  By simply 
+PRINTing commands to its command channel, BASIC users could SCRATCH, RENAME, and COPY 
+files, and DUPLICATE an entire disk without any further help from the computer.  Only problem was, 
+they could not SAVE or LOAD programs, or use data files.
+
+The problem was BASIC V1.  It did not know about the timing involved with actually transferring data 
+back and forth between the computer's RAM and the disk drive's computer.  So, Commodore created 
+Upgrade BASIC (now known as BASIC V2), and put it into a new PET, called the 2008.  It had 8K of 
+RAM, a REAL keyboard (unlike other companies, Commodore NEVER tried a rinky-dink keyboard 
+again!), and it could use the disk drive!
+
+But the 2040 drive had its faults as well.  It could not handle random access files (one of the most 
+important advantages of a disk drive over a tape drive) without a LOT of effort on the user's part.  It 
+could not trap errors correctly, and it required the user to type OPEN 15,8,5,"I":CLOSE 15 every time 
+a disk was changed.  It could not seem to center the disks properly.
+
+So about the time Commodore came out with their 3008 PET computer (including BASIC V3, with 
+very minor differences from V2), they introduced the 3040 Dual Disk Drive.  This had DOS V1.2 in it, 
+which corrected the error trapping problems.  But they did not fix much else.  Also, people were 
+getting tired of having to type OPEN 15,8,15 etc. when their Apple-owning buddies could do the same 
+with RENAME oldfilename, newfilename.
+
+Almost immediately thereafter, the Commodore 4016 PET came out. It had 16K, expandable to 32K, 
+and BASIC V4. This version had nice disk commands like CATALOG, SCRATCH, DLOAD, 
+DSAVE, BACKUP, COPY, etc.  These commands simply translated themselves into the old 
+commands that the drive could understand.  
+
+Along with the PET 4016 came the 4040 disk drive.  It had it all!  Besides fixing the hardware 
+problems, it had DOS V2.1, which supported relative files (also referred to as random files).  The new 
+DOS also performed an automatic "I" (initialization) every time it detected a disk with a different ID, 
+so the user did not have to type this command unless he had two or more disks with the same ID.  It 
+also used a slightly different disk format from the 2040's and 3040's, so that a disk made on a 2040 
+could be used only by copying its files to a 4040 drive. 
+
+Later, Commodore came out with the CBM 8032.  It had BASIC V4, 32K of RAM, a 12-inch 
+80-column monitor (the old machines had 40 column screens), and a more business-like keyboard.  
+Indeed, it was a business machine.
+
+A business machine needs a business disk drive.  So Commodore presented the 8050 disk drive.  It 
+used a double density format that allowed over twice as much data on each disk.  It also could tell if a 
+disk drive door had been opened, and automatically did an "I" command when the door was shut again.
+
+Later came the 8052 double-sided drive, and the D9060 and D9090 hard disk units that could store 2, 
+5, and 7.5 megabytes (1 meg=1024K).
+
+Then came the VIC20.  Commodore made many advances on this one.  Low price!  Graphics!  Low 
+price!  Color!  Low price!  Three-channel sound, RS232, eight user-programmable function keys, and a 
+game cartridge slot.  Not to mention low price!  Even though they were producing a computer to 
+compete with home video games, they learned their lesson with the PET 2001 and gave the VIC 20 a 
+REAL keyboard.
+
+But for the sake of low price, Commodore took several MAJOR steps backwards.  Only 5K of RAM, 
+22-column screen, back to BASIC V2.  And worst of all, they scrapped the wonderful IEEE-488 bus 
+that could shove all eight bits of a byte down the wires at once, and replaced it with a "serial bus" that 
+had to spool those bits out one at a time.
+
+Commodore then produced the 1540 Single Floppy Disk Drive.  It was basically a one drive, serial bus 
+version of the 4040.  It had less RAM, so that fewer files could be open at any one time.  It used the 
+new half-high disk drive units.  Instead of two microprocessors (one for the drives and one for the 
+interface), it had one processor controlling the single drive and the interface.
+
+About two years later Commodore invented the Commodore 64!  (Ever hear of that one?)  I will not go 
+into all of its nice features, but it still had the serial bus and BASIC V2.  Along with it of course came 
+old slow and poky, the much hated, much loved 1541 that so many of us use and cuss daily.
+
+(from George's Den BBS via Greater Oklahoma Commodore Club Newsletter, 6/88)
+
+
+GEOS Q & A
+
+by Dick Estel
+
+Because I have had the time, patience and inclination to load the program and explore its capabilities 
+with the manual open at my side, I am considered knowledgeable in GEOS. Some of the questions I 
+am asked require a fuller explanation than I may have given, so here's the complete answer:
+
+1. What is GEOS and what can I do with it?
+
+GEOS is an operating system and a collection of programs that work in a unified way and follow 
+certain conventions. Commodore BASIC is a command line interface, where you type the commands 
+to load and run programs and carry out other actions. GEOS is a graphical interface, Windows 1988 
+for the Commodore if you will, where you click on various icons to carry out certain actions. The 
+different programs that run under GEOS all behave in a certain way, and have certain standard 
+characteristics. This makes it possible for a user familiar with one program to use another program 
+with a limited amount of study.
+
+You can do anything you would do with non-GEOS programs on your Commodore--word processing, 
+maintaining a data base, creating and manipulating graphics, spread sheet computations, etc. However, 
+you can transfer certain types of pictures and text files between programs more readily than with a 
+group of unrelated programs. GEOS? strongest point is its ability to combine text and graphics in 
+various ways, with a great deal more flexibility than many other programs. As an example, Label 
+Wizard allows you to use a Print Shop graphic on one side or another of a label. GeoLabel allows you 
+to place any graphic that will fit and text in a variety of sizes and fonts on a label.
+
+2. Do I need two drives to use GEOS? 
+
+Yes. I will have some hedging and however's and maybes elsewhere. But if you want to use GEOS, 
+you must have two drives (see #3 for a semi-hedge). Only a serious masochist would attempt to do 
+anything fun or serious with GEOS with one drive. And if you have the time and patience to do it with 
+one drive, you have the time and patience to study the manual and you don't need my help.
+
+3. Do I need a RAM expander to use GEOS?
+
+It's better that way. However, every time I have added hardware to my system, I have said, "How did I 
+ever use GEOS without my (fill in new toy name here)?" If I could select only one add-on hardware 
+item to a basic one drive system, it would be a RAM expander. Note: This does not conflict with #2, 
+because the REU becomes your second drive. 
+
+Because of the necessary complexity of a graphical operating system, nearly every part of a GEOS 
+program exceeds the memory of a C-64. It works by temporarily saving part of the program on the disk 
+and swapping in other parts as needed. With a 1541 this is a slow process. It gets better and faster with 
+each step up in hardware: 1571, 1581, hard drive. But only with RAM expansion is it nearly 
+instantaneous.
+
+4. What's the difference between the 64 version and the 128 version?
+
+The 128 version holds your printer driver in memory. The 64 version requires the printer driver to be 
+on the work disk with your program (this means it has to be copied to any number of work disks). 
+GeoWrite is 80 columns, which means no flipping from side to side like the 40 column version. In 
+geoPaint you can turn the tool bar off to increase the size of the drawing window. GeoPaint also comes 
+in 80 columns (with a 40 column option). (An interesting note: Except for a few very rare situations, I 
+prefer to use geoPaint in 40 column mode, but lots of users love the 80 column.)
+
+Less important to most users: You can copy files while using the "view by name" mode; the 64 only 
+copies in icon mode.
+
+5. I have an early version 1.xx. Should I get version 2.0? 
+
+Yes. Anything new for GEOS in the 90's has either required 2.0, or been designed to work well only 
+with 2.0. Wheels, the new operating system upgrade from Maurice Randall requires 2.0 (and some 
+type of RAM expansion). The menu features and other changes make it difficult for a 2.0 user to 
+explain how to do things in an earlier version...they will inevitably instruct you to do something that 
+seems natural to them, but is not available on the older versions.
+
+6. Where can I get GEOS?
+
+You will often find users selling their copy, especially if they are moving from Commodore to some 
+other platform. Remember that each set of GEOS programs is keyed to a specific serial number. You 
+can't purchase the basic program from one user, and geoPublish from someone else, and expect them 
+to work together. CMD sells all the major GEOS programs.
+
+
+
+FCUG Has Another Web Site
+
+We have been very fortunate to have a web site provided as a courtesy by Australia's Videocam, 
+owned and operated by Gaelyne & Rod Gasson. We do not update this site except for major 
+changes (Gaelyne has to do it for us).
+
+Dick Estel has now added a second FCUG site to his sprawling web, which is provided free as part of 
+his Internet Service from AT&T.
+
+We'll update this one more frequently, and we can include member advertising if you have something 
+to sell.
+
+The address is http://home.att.net/~rmestel/fcug.html
+There is an associated site, the Commodore Support Center, which has links to other sites and an 
+extensive data base of newsletter articles, from The Interface and other sources. This address is 
+http://home.att.net/~rmestel/commodore.html
+
+The Commodore and FCUG sites are designed to be friendly to text browsers, but if you have 
+graphical access, you'll find some photos of the members. The Support Center has a lot of GEOS and 
+other artwork that can be viewed or downloaded.
+
+
+C=Scape
+
+By Robert Bernardo
+
+
+The University of California at Davis... my old alma mater. It was good to visit it again. When did I 
+visit it last? Certainly several years ago in order to attend Picnic Day or the Whole Earth Festival. The 
+sights seemed familiar, yet different. That intersection had changed. That drive-in restaurant had 
+changed to a Burger King. An entire shopping area had been built around a Borders Bookstore. Yes, 
+the national companies had been encroaching on little Davis, but the town still retained its charm... 
+narrow, tree-lined streets; students and their bicycles buzzing to and fro; small shops selling the wares 
+of local artists.
+
+However, my visit to the town and the university was not for pleasure. I was there on Commodore 
+business; specifically, I was there to visit the university radio station, KDVS-FM 90.3, and interview 
+Justin Beck (Hard Hat Mack), the host of the only radio show in the world that broadcasts Commodore 
+SID music. Several weeks before my visit, I was scanning through the Usenet group, comp.sys.cbm, 
+and found that Justin was posting weekly updates of what was happening on the 6581 SID Show.
+
+The Sound Interface Device (SID) is the 6581 chip in C64/128's or the 8580 chip in later C64's and 
+C128D's. It is a chip capable of producing 3 voices plus white noise, and it placed the Commodore far 
+ahead of any home computer of its day. From an Apple or PC computer at that time, a person would 
+hear beeps and boops. From the Commodore and its SID chip, you would hear not only sound effects 
+but also speech and music. In fact, I was about to find out how much of an impact SID music made in 
+the world.
+
+It was a sunny, warm, mid-August afternoon in 1999 as I drove into the university campus center and 
+parked in the new, multi-story parking structure. From the trunk of the car, I hauled out my voice 
+recorder, camera, notebook, and various C= items to show to Justin, items such as GO64!, Commodore 
+Scene, and Commodore Zone magazines, an issue of Loadstar, and my SuperCPU 128.
+
+I walked a few hundred feet to Freeborn Hall and tried to enter one of the doors that led down to the 
+basement. Many of the student union businesses were housed in the basement of Freeborn Hall, for 
+example, the Cal Aggie university newspaper and radio station KDVS.
+
+The door was locked. I looked around. The university was not in session, and all of Student 
+Union/Freeborn Hall had closed early that day. For a moment, I thought I'd have to find a phone in 
+order to call for someone at the station to open the door. However, a few seconds after I had tried the 
+door, Justin opened it. What timing! (I had called earlier in the week to let him know I was coming.)
+
+Mustached, shorter than I, far younger than I, very much looking like an undergrad or grad student, 
+Justin greeted me enthusiastically. He had realized that the door was locked and was just coming up to 
+wait for me. He then led me down into the bowels of Freeborn Hall and to radio station KDVS. 
+KDVS...what memories it brought back. I remarked to Justin that I had spent many an hour sitting in 
+the lobby of the radio station. During my day, KDVS had a sofa in the lobby and a loudspeaker with 
+volume control which was fed music from the station. Instead of using the massive study halls of the 
+U.C. Davis main library, I would work my way down to the radio station lobby (the doors being left 
+unlocked) and study there into the wee hours of the morning. The disc jockeys, who could see me 
+through the window of their cubicle, would never bother me.
+
+The sofa and the loudspeaker were now gone, but everything else looked the same. Justin then led me 
+through the "employees only" door and into the mysterious back rooms of the station. I felt privileged 
+to be in an area which was so unknown before. To my surprise, there was much more space than I had 
+thought...several office desks with papers and other materials strewn over them...posters over the 
+walls...a busy, "creative" environment. Justin also showed me the station's substantial archive of tapes, 
+records, and CD's --all music and vocals in keeping with the philosophy of the radio station, i.e., things 
+which you would not ordinarily hear on commercial radio. (In their literature, KDVS brags that it is the 
+only freeform, non-commercial, community radio station west of the Mississippi River.)
+
+It was about 7:30 p.m., half an hour before Justin's Tuesday night 6581 SID Show and just enough 
+time to interview him a bit more. Justin was 25 years old, an alumnus of U.C. Berkeley in which he 
+studied cognitive science, and an alumnus of U.C. Irvine in which he did research in psychology. At 
+KDVS he got into talk radio first, then moved on to a progressive activism talk show, then to music, 
+and then to avant-garde music. Then in the winter of 1998, a friend sent Justin a CD-R of SID music. 
+Justin was hooked. In April 1999, he created the 6581 SID Show.
+
+Would he ever run out of SID music to play? Not with over 11,000 files! Surprised, I asked him where 
+he got his music. At www.hvsc.c64.org (High Voltage SID Collection), the premiere website of SID 
+music. SID music was greatly admired and composed in Europe.
+Did he play the music directly from a Commodore into the station's broadcasting equipment? No, he 
+didn't. At that time, there wasn't even a computer close to the broadcast equipment. What he did was to 
+download the SID files to his home PC, and using the PC program, SIDPlay, he'd transfer the music to 
+an audio mini-disc. Then he'd bring the mini-disc and recorder to the studio and connect it to the 
+broadcast equipment.
+
+What was the broadcast range of KDVS-FM? With 9,200 watts of power, the station could be heard all 
+the way north to Yuba City, south to Stockton, and west to Benicia --a gigantic area and far bigger than 
+I had realized. However, it was still too far for me to pick up on the radio. He advised me that if I had a 
+computer with Real Audio, I could pick up the live feed by going to www.kdvs.org Also each 6581 
+SID Show would be archived at the website; all I had to do was download the appropriate show 
+according to date. I smiled weakly; the C128D that I used on-line every day had no such capability, 
+and my Amiga computers were not upgraded enough to handle Real Audio. 
+
+Showtime was getting close. I was there to see Justin live, on-the-air. My voice recorder was ready to 
+capture his broadcast.
+
+"Would you like to be my guest on the show?" he asked.
+
+Bravely, I responded that I would be honored, and he led me into the DJ's room. The previous disc 
+jockey was just gathering his things before departing. Justin made some small talk with him, and then 
+he pointed out which seat I was to use and which microphone to talk into.
+
+My mind was racing. I had never been on the radio before. I had to be a good representative of the 
+Fresno Commodore User Group, a good representative of all that is Commodore. In a sense, I was 
+speaking for all Commodore people. I'd better not stumble... I'd better not stutter or freeze up.
+
+Eight o'clock p.m.. Justin played the recorded intro for the 6581 SID Show, and I watched how he 
+deftly, expertly flipped various switches and other controls on his console. SID music started playing. 
+Were our voices on-the-air yet? "No, not yet," he reassured me, and he talked about the musical piece 
+being played and other Commodore matters, all probably in an effort to relax me.
+
+The mid-show break was coming up. O.K., this was it.
+
+Hard Hat Mack: All right, and we're back on 6581 SID. And I'd like to welcome Robert Bernardo from 
+the Fresno Commodore Users Group. Thanks for joining us today, Robert.
+
+Robert B.: My pleasure, Justin, and hello to all my Commodore friends out there in the world.
+
+HHM: All right. In the background we're listening to Martin Walker doing a tune from Atomic Robo 
+Kid, and we were just speaking, talking about the videogame, Impossible Mission, and you might have 
+recognized, right at the beginning I played a short bit from that game, Another Visitor, which you 
+might remember from the game, Impossible Mission. But Robert, I just wanted to ask you, what's your 
+involvement with the Commodore scene, and well, how did you get involved in the first place?
+
+Robert B.: Well, I've had a Commodore 64 since 1983 when it first came out, and I bought it at the 
+unbelievable price of $200 back then, and the only thing I could get for it for mass storage was a a 
+datasette recorder, because disk drives were another $200.
+
+HHM: Oh.
+RB: And I couldn't afford that back then, so I hooked my Commodore into just a regular television 
+through its antenna leads, and I used it like that for the longest time. And throughout the years, I've 
+collected whole bunches of Commodore machines, flat C128's, C128D machines, SX-64's, which are 
+the portable Commodore 64's, and now for the last few years I've been president of the Fresno 
+Commodore Users Group. And I go around during my vacation time... I go around and report on the 
+scene... what's happening out there in the Commodore scene. I try to look for shows, try to find people 
+who are interesting to write articles about, and I write about them for our newsletters in our group.
+
+HHM: Fantastic. So how many people are involved in the users group there in Fresno?
+
+RB: We have about 30-40 members in our group in Fresno.
+
+HHM: And what's the sort of age range of these folks? Young people? Old people?
+
+RB: We have... we have, maybe, 1 young person who's below 20, I think.
+
+HHM: Oh, wow.
+
+RB: But all the rest range from in their 20's into their 70's.
+
+HHM: Oh, wow. That old, huh? So people... people who are old enough to... mainly to remember 
+using the machine when it was around in the 80's.
+
+RB: That's right, except for the newbies...it's all new to them.
+
+HHM: Yeah, you really got to hand it to the teenagers who are into this stuff, because, you know, it's 
+probably so easy for young people to look at this ancient computer technology and think, "Aw, who 
+would be interested in that? Can't do anything... so primitive... and not very interesting... who cares?"
+
+RB: Yes, that's right. But with Commodore 64, there's a certain soul that you have with the machine. I 
+mean there's a certain spirit from it, and you don't get that feeling from modern PC's or modern day 
+computers. There's no life behind them.
+
+HHM: Yeah, they're very functional, and all pervasive. But as you were saying, there's not much soul, 
+not much spirit to these... I mean, in my opinion, I suppose PC's and Macintoshes are more sort of for 
+the office. They're business machines. They're for working... Well, I mean... I suppose people use the 
+Commodore machine for business as well.
+
+RB: Yes, that's true.
+
+HHM: It's something you can have a lot of fun with, I think.
+
+RB: Yes, why not? When I get behind my Commodore, I write my articles, I do work with it, I go onto 
+the Internet with it, but it's also a fun machine. I mean... even as I'm doing my work on my 
+Commodore, I'm thinking, "fun".
+
+(TO BE CONTINUED)
+
+
+
+OFFICERS and KEYPERSONS
+(Area Code 559)
+
+President:	Robert Bernardo 627-2438
+Vice President:	Helen Silvas 227-8005
+Secretary-Treasurer  Zella Mallard 291-2452
+Past President:	Ralph Parrott 229-9912
+
+Board of Trustees:
+	Del Contreras 227-5375
+	Sandy Dippollet 299-1275
+	Chester Sohm 855-8543
+	Bill Gilbert 439-8202
+	Henry Fry 291-0581
+
+The Interface Editor: Dick Estel 224-4163
+Contributing Editors:
+Bob Bernardo
+Mailing List:	Sandy Dippollet	
+Technicians:	Del Contreras, Doug Cunningham
+Librarian:	Dick Estel
+Programs:	Ralph Parrott
+Demo Coordinator:	Helen Silvas
+Club Equipment:	Helen Silvas
+Store:	Dick Estel
+Meeting Place Reservation, Setup & Cleanup: 
+	Dick Estel, Zella Mallard & Del Contreras
+Ribbon Reinking:	Robert Bernardo
+
+On-Line Contacts:
+
+FCUG home page-- is http://videocam.net.au/fcug/
+or http://home.att.net/~rmestel/fcug.html
+Robert Bernardo rbernardo@value.net
+
+Editor's Internet Exchange Offer
+
+We'll be happy to send any of the articles in our newsletter to other clubs via E-mail, to save the hassle of typing. 
+And we'd appreciate the same from those clubs that have access to Internet E-mail. Send requests to: 
+dickestel@att.net.
+
+
+
+
+Fresno PC Users Group
+Meetings 1st Monday of each month, 7:30 p.m. at Hope Lutheran Church, 364 E Barstow at Fresno Street.
+Recorded information phone: 496 3974
+Membership: 434 0941 or 225 8824
+http://www.fresnocomputerusers.org
+6751 N Blackstone # 395
+Fresno CA 93710
+
+
+
+THE SMALL PRINT
+
+The Fresno Commodore User Group/Sixty-Fourum is a club whose members share an interest in Commodore 8-bit 
+computers. Our mailing address is 3487 E Terrace Ave, Fresno, CA 93703. We meet at 10 a.m., the first Saturday of the 
+month,  in the Sarah McCardle Room of the main library, 2420 Mariposa, between N & O St.  See the back page for a map. 
+The Board of Directors meets immediately following the general meeting. The meetings generally include demonstrations, 
+discussion, drawings, and individual help.
+
+Dues are $12 for 12 months. New members receive a "New Member Disk" containing a number of useful utilities. 
+Members receive a subscription to this newsletter, access to a public domain disk library, technical assistance, and reduced 
+prices on selected software.
+
+The Interface is sent to our members and other Commodore Clubs on an exchange basis. Clubs publishing newsletters with 
+informative content are encouraged to add us to their mailing list. Permission to reproduce content from The Interface is 
+granted provided credit is given to the source and, when identified, the author. Club members are encouraged to submit 
+articles, tips or ideas for articles. To insure inclusion, any material should be submitted prior to the 15th.
+
+Disclaimer: The club, its officers, members, and authors are not responsible for the accuracy of the contents of The 
+Interface or the results of actions based on its contents.
+
+Our disk library contains over 2000 public domain programs for the C64 and C128. Members are entitled to copies of these 
+disks at no cost if a blank disk is provided. We do not deal with pirated, violent or obscene programs. Please call our 
+attention to any programs found in our library which may violate these standards. 
+
+Sales and Services:
+Disk Notchers $5
+Disk drive trouble diagnosis and minor repair: $10 (members only)
+Computer Reset switches: $7 (members only)
+Ribbon reinking: $1 (members only, 2 per month max)
+31 graphics disks: $3 each, $50 for all, plus $1 per disk if to be mailed.
+Blank disks: $.50 each, 25 for $10
+The Write Stuff 64: $12 ($14 for non-members)
+The Write Stuff 128 $16 ($18 for non-members)
+The Write Stuff Spell Checker 64/128: $8 ($10 for 
+non-members)
+Postage & Handling for mail orders: $1.25
+
+
+Next meeting
+June 3 10 a.m.
+Fresno County Library
+2420 Mariposa, 
+between N & O St.
+(Sarah McCardle Room - Upstairs)
+(for elevator, use main entrance on Mariposa St.)
+
+
+Fresno Commodore Users Group
+3487 E Terrace Ave
+Fresno CA 93703
+
+
+

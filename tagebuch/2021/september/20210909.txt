@@ -1,0 +1,15 @@
+Thu Sep  9 02:56:30 CEST 2021
+0 0 0 20210909.txt
+
+georg landolt hat marc jr landolt zum stück fleishc ausgeschrieben um von anderen dingen abzulenken, dann haben sihc alle bedient und gehen alle für mind. 5 Jahre in den knast ohne bewährung
+
+
+eine justiz die naturalisisert hat alle opfer und täter wenn sie aussagen dazu machen wer der eigentliche täter ist zu bezichtigen, anzuklagen oder in die psychiatrie zu sperren
+
+Thu Sep  9 02:57:37 CEST 2021
+  9  70 428 20210909.txt
+[main 10cfea5] save
+ 1 file changed, 9 insertions(+)
+ create mode 100644 tagebuch/2021/september/20210909.txt
+60d793302bb5c8d231081326ca6f215585e82d63aa10567723184cd7fa50633a70be77ac633bd301938f2fbaf002fab81bb703d232c79b60b4636b37ff710a9f  20210909.txt
+

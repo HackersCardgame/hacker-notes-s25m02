@@ -1,0 +1,70 @@
+Those Pesky Comma Files
+
+by Dick Estel
+
+Ever since I started reading Commodore club newsletters ten years ago, I've been seeing variations on
+a theme: How to get rid of those pesky "," file names. The gist of these articles was that you'd
+accidentally created a file named ","; you could not get rid of it with the normal DOS command to
+scratch a file, and here's how to do it.
+
+All those who've been plagued with this problem, raise your hands (no hands go up). Just what I
+thought. I never reprinted those articles, because I've never met anyone who mentioned this problem,
+never experienced it, and suspected that it was not much of a problem.
+
+Ever curious, I finally got around to experimenting with the subject by deliberately trying to create such
+a file. I have had weird file names, created by accident; but I have always had a secret weapon. If the
+normal Commodore DOS command didn't work, I just loaded my alternate operating system (aka
+GEOS), and dumped the offending file in the trash. GEOS will display an icon for every file, even the
+strange file I recently found which had no name (it appeared as "    " in the Commodore directory).
+
+First I created a one-line file as follows:
+
+10 PRINT "Test File"
+
+Then I attempted to save it with the file name ",". The disk drive light flashed rapidly for a while, and
+continued to flash after the cursor returned. Having Jiffy-DOS installed, I pressed @ to get the error
+message: "File exists" (!)
+
+Of course, I had no such file visible in the directory, but this result hints at why it may be a problem to
+get rid of such a file when you do indeed encounter one. 
+
+Then I attempted to rename an existing file but got a Syntax Error with no further explanation. My final
+attempt was to save a file with this name in The Write Stuff. This did the job--but when I tried to load
+this file, I got the message "file not found."
+
+Going back to BASIC, I tried to scratch the file, with no luck. So the "pesky comma file" is not a myth.
+My next venture, of course, was to find the article explaining how to get rid of the pesky file, which is
+summarized below. The instructions worked to a T (or perhaps to a comma).
+
+While I was thus engaged, I also attempted to save a file as "   " (i.e. QUOTE SPACE QUOTE). This
+worked fine, although it could not be saved without the space; "" was rejected with the message
+"Missing File Name." This one-line file showed 74 blocks in the directory! Attempting to load with the
+Jiffy-DOS file load command (/ filename; entered as SLASH SPACE, produced the message "missing
+file name." Then I tried loading it with the LOAD/RUN command (F5 which prints the UP ARROW)
+in front of the file name in the directory. This loaded but did not run the file; but it ran correctly once
+with the RUN command. Subsequent attempts to load this way with / or F5 loaded the FIRST file on
+the disk!
+
+Attempting to scratch the file with the J-DOS command did not work. When I validated the disk, the
+file was still there. When I used the technique described below, it went away along with the file "," and
+another one named "!".
+
+GETTING RID OF THAT PESKY COMMA FILE
+
+1. List all one-character file names by selectively loading the directory as follows:
+
+     LOAD"$0:?",8 (with J-DOS, /$0:?)
+
+If any non-comma files are shown that you want to keep, rename them.
+
+Then use the following command to scratch all one-character filenames:
+
+     OPEN 15,8,15: PRINT #15,"S0:?" (with J-DOS, @S0:?)
+
+When you have a disk with misbehaving files, it's a good idea to copy the good files to a fresh disk.
+
+(The instructions here were summarized from an article by Jim Butterfield in Commodore World #4)
+
+
+(From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center http://home.att.net/~rmestel/commodore.html)

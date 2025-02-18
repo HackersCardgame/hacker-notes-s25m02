@@ -1,0 +1,23 @@
+ENIAC Marks 50 Years
+
+1996 marked the 50th anniversary of the ENIAC computer, the first large-scale general purpose
+electronic computer. Built at the University of Pennsylvania's Moore School of Electrical Engineering,
+the ENIAC (Electronic Numerical Integrator And Computer) was the worlds first electronic digital
+computer that used vacuum tubes for switching circuits rather than mechanical relays The ENIAC was
+a monster. It's thirty separate units plus power supply and forced-air cooling, weighed over thirty tons.
+The 19,000 vacuum tubes, 1,500 relays, and hundreds of thousands of resistors, capacitors, and
+inductors consumed almost 20 kilowatts of electrical power.
+
+The ENIAC could differentiate the sign of a number, compare quantities for equality, add, subtract,
+multiply, and divide.  A maximum of twenty 10-digit decimal numbers could be stored by the ENIAC.
+The ENIAC was completed too late for the war effort, but the first major problem it had to solve was
+related to the design of atomic weapons. It took the ENIAC only 2 hours to solve a problem that
+would have taken 100 men a year to complete
+
+ENIAC-on-a-Chip
+
+A group of students at the Department of Electrical  Engineering have designed ENIAC
+(TM)-on-a-Chip This was done as part of the ENIAC 50th Anniversary Celebration.
+
+From Bug Bytes, newsletter of the Treasure Valley-Boise User Group, via CEBUG Chronicle, May
+1998, via The Commodore Information Center web site (http://home.att.net/~rmestel/commodore.html) 

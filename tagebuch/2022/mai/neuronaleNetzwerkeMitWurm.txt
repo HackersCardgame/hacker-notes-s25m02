@@ -1,0 +1,85 @@
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1001066
+
+
+
+oder zitierst due die 1994er Studie: https://www.science.org/doi/10.1126/science.7911601 weil im 1999 hab ich auch mal gehört man würde nicht mal einen wurm verstehen.
+
+ja die haben das noch nicht ganz verstanden, aber die Studie die du immer zitierst (welche genau???) ist vermutlich outdated.
+
+Bei der Ersten die ich geschickt habe da haben die rausgefunden dass neuronen nicht nur über die "leitungen" kommunizieren sondern auch darüber wenn sich zwei neuronen direkt berühren, bzw. chemisch
+
+
+
+"The results implicate that the game-theoretical model proposed in this paper can >> better predict << the influencing factors in the formation of C. elegans neural network compared to previous models."
+
+also die können mit dem nachgebildeten netzwerk den wurm "predicten" ABER da gibt es noch optimierungspotential. In vielen dieser Studien geht es darum die Formeln zu optimieren für das nachgebildete Neuronale Netzwerk. Das was Du immer sagst dass man gar nichts verstanden hätte stimmt eigentlich nicht.
+
+z.B. beim link oben dieser Message, da haben sie herausgeunden dass auch Berührung von Neuronen bzw. Chemische Signale zum Netzwerk dazu gehören. Du hast dann einerseits das Neuronale Netzwerk über die Axione / Dendriten, aber Du hast bei Berührung / Chemisch auch nochmals ein Neuronales Netzwerk. Diese zwei Netzwerke sind miteinander verwurschtelt. Also die Formel die man für die jeweils separaten neuronalen netzwerken auf der selben "hardware" braucht könnte man als Summe darstellen, die beiden netzwerke haben aber einfluss aufeinander.
+
+die bildet eigentlich ein einzelnes Neuron nach:
+Activation Function 
+
+zum Trainieren:
+Gradient Descent
+linear regression
+back propagation
+
+dann hast du im computer keine verbindungen zwischen layer wo es noch einen weiteren layer dazwischen hat, dadurch kann man das netzwerk allenfalls einfacher machen, aber die vereinfachent formeln für 
+
+neuer ansatz ist einzelne neuronen eher als einzelne agenten zu simulieren, das hat bessere resultate -- somit wäre dein "einem kind muss man nur 12 Tigerbilder geben (und ich weiss dass du leoparden gesagt hast) dass es das lernt" allenfalls auch vom tisch. die formeln für deep learning sind massiv vereinfacht und bilden logischerweise nicht ein durch millionen jahre evolution optimiertes richtiges neuron nach.
+
+dann bei den neuronen können ja verbindungen wachsen und das neuron hat jeweils eine Aktivierungsfunktion mit einem Bias das sagt wie früh es feuern muss, beim neuronalen netzwerk am computer sind die verbindungen fix. das ist in einer richtigen gehirnzelle ein zusatzfeature dass dann dazu führt dass das ganze effizienter wird
+
+https://www.frontiersin.org/articles/10.3389/fncom.2019.00045/full
+
+also erklären ist sowieso schwierig
+
+also meiner meinung nach kann man irgendwann eine seele / ein bewusstsein im computer nachsimulieren. vorallem bei menschen die viel alkohol trinken, das sind für mich sowieso eher endliche automaten als wirkliche seelen / menschen mit bewusstsein. (ja sorry schizophrene sichtweise) aber zumindest repetitiv, reden immer über die selben themen.
+
+
+
+
+
+"The results implicate that the game-theoretical model proposed in this paper can >> better predict << the influencing factors in the formation of C. elegans neural network compared to previous models."
+
+Also die können mit dem nachgebildeten Netzwerk den Wurm schon einigermassen "predicten" ABER da gibt es noch Optimierungspotential. In vielen dieser Studien geht es darum die Formeln zu optimieren für das nachgebildete Neuronale Netzwerk. Das was Du immer sagst dass man gar nichts verstanden hätte stimmt eigentlich nicht.
+
+z.B. beim Link in der oberen Message, da haben sie herausgefunden dass auch Berührung von Neuronen bzw. Chemische Signale zum Netzwerk dazu gehören. Du hast dann einerseits das Neuronale Netzwerk über die Dendriten und Axone, aber Du hast bei Berührung / Chemisch auch nochmals ein zweites Neuronales Netzwerk. Diese zwei Netzwerke sind miteinander verwurschtelt wissen die jetzt bei diesem Wurm. Also die Formel die man für die jeweils separaten neuronalen Netzwerken auf der selben "hardware" oder im selben geometrischen Raum braucht könnte man als Summe darstellen, die beiden Netzwerke haben aber Rückkoppelungseffekte aufeinander.
+
+einzelnes Neuron:
+Activation Function 
+
+zum Trainieren:
+Gradient Descent
+Linear Regression
+Back Propagation
+
+Dann hast du im Computer keine Verbindungen zwischen Layer wo es noch einen weiteren Layer dazwischen hat, dadurch könnte man das Netzwerk allenfalls einfacher machen, aber die vereinfachten Formeln um das zu programmieren reichen ja für Deep Learning.
+
+Neuer Ansatz ist einzelne Neuronen eher als einzelne Agenten zu simulieren, das hat bessere Resultate -- somit wäre Dein "einem Kind muss man nur 12 Tigerbilder zeigen (und ich weiss dass du leoparden gesagt hast) und nicht millionen dass es das lernt" allenfalls auch vom Tisch. die Formeln für Deep Learning sind massiv vereinfacht und bilden logischerweise nicht ein durch millionen Jahre Evolution optimiertes richtiges Neuron nach aber für Siri reicht das ja auch, und weshalb sollte man da mehr machen, bzw. hat dann die Wirtschaft aus diesen einfachen Formeln auch schon grad einfach ein Produkt gemacht.
+
+Dann bei den Neuronen können ja Verbindungen wachsen und das Neuron hat jeweils eine Aktivierungsfunktion mit einem Bias das sagt wie früh es feuern muss, beim neuronalen Netzwerk am Computer sind die Verbindungen fix. das ist in einer richtigen Gehirnzelle ein Zusatzfeature dass dann dazu führt dass das ganze effizienter wird
+
+https://www.frontiersin.org/articles/10.3389/fncom.2019.00045/full
+
+Also so etwas am chat zu erklären ist irgendwie schwierig
+
+Meiner Meinung nach kann man irgendwann eine Seele / ein Bewusstsein im Computer nachbilden. Vor allem bei Menschen die viel Alkohol trinken, das sind für mich sowieso eher Endliche Automaten als wirkliche Seelen / Menschen mit Bewusstsein. (ja sorry schizophrene Sichtweise was man in so einer Runde nicht sagen sollte um sich nicht unbeliebt zu machen) repetitiv, reden immer über die selben Themen. selben Filmen am reden.
+
+Das gäbe einen tollen Werbesloagen:
+"Sei kein Endlicher Automat -- sag nein zu Alkohol" :D
+
+also dieses Thema ist dann so eines wo man nicht mehr drüber reden kann wenn man sich da nicht aktiv -- auch mit den Formeln -- damit beschäftigt. Lies die 2-3 Links die ich geschickt habe wenn Du zeit hast, dann haben wir am 24. etwas zum drüber reden.
+
+
+
+
+Outdated:
+https://www.science.org/doi/10.1126/science.7911601
+
+Aktueller:
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1001066
+
+ganz neu:
+https://www.frontiersin.org/articles/10.3389/fncom.2019.00045/full
+

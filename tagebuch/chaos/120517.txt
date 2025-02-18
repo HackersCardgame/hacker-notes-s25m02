@@ -1,0 +1,271 @@
+Tagebuch Do 17 Mai 2012 14:18:04 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+prime-zettel:
+es hat bei eurostaro einen CAD mitarbeiter, der 
+recht arrogant und von oben herab wirkt, sein computer
+ist der einzige computer, der stockt sobald teamviewer
+gestartet wird, merkwürdig.
+
+er kommt mir vor wie jemand der cola rein pfeifft
+und ich bin nicht der meinung, dass jemand der 
+gut ist im cad deswegen ein übermensch ist oder
+sich als solchen geben soll
+
+aber cad job und einbildung auf diesen job passt irgendwie
+zusammen, man ist besser als die produktiv mitarbeiter
+-->auswirkungen auf die produktiv mitarbeiter, sie
+fühlen sich minderwertig, kompensieren dies mit
+kräftemessen udn es kommt zu konflickten.
+
+sein name: Hr. Broch
+
+ABSTRAKT
+public abstract class CADheroEinbildung interface hardWorkingPeople
+{
+  public state egoism
+  public action tellWorkerThatHeIsBetterThanThem
+
+  returns hate and conflicts between the worker
+  or retunrs hate against this person
+
+  both cases bad
+}
+END ABSTRAKT
+
+
+ABSTRAKT
+verhalten im neurointerface raum
+
+1. Angriff von irgendwem
+2. zurückschlagen <-- wird gestrichen, kontraproduktiv, konflikt wird nicht beendet
+3. isolation des angreifers auf dem neurointerface raum <-- wird gestrichen, person gerät in eine depression
+4. generelles verbot von angreifen <-- scheint nicht impelmentiert werden zu können
+5. verbindung zwischen täter und opfer trennen <-- scheint nicht zu gehen, wenn mehrere leute es auf eine spezifische
+   perosn abgesehen hat, sei das aus rache oder weil dessen werte system einem zu viel arbeit macht
+6. verbindung zwischen opfer und gesammtem angeriffscluster entziehen und die jeweiligen parteien in ein
+   netz hängen wo es ihnen gut geht <-- könnte allenfalls klappen (ich umgebe mich nur noch mit leuten die mir gut tu)
+
+ ->problem wenn dann diese glückliche gruppe jemandem zum aussenseiter macht, dass man zum schutz dieser person (1.) angreifen muss
+
+END ABSTRAKT
+
+
+ABSTRAKT
+angriff auf abstrakte klasse, hilfesuchverhalten
+
+call home
+call mami <-- muttersöhnchen
+call admin.ch <-- put proxy server for admin.ch
+
+resultierende, singleplayer modus
+a) sehr stark
+b) tod
+END ABSTRAKT
+
+prime-zettel:
+änderungen an isa server, kleine korrekte änderung, allenfalls noch eine nicht applyte änderung
+die mit dem applyen der kleinen änderung das system beschädigt
+allenfalls habe ich auch was falsch gemacht...
+->ZUB wusste genau welche route es war, danke...
+
+ABSTRAKT
+abstrakte klasse PfadfinderMitStrassenPfosten
+mehrfach vorgekommen <-- merkwürdig
+und jeweils geloggt, ev backlog generator
+END ABSTRAKT
+
+prime-zettel:
+interesse dass der lehrling produktiv ist  (SAV: arbeitet mal produktiver, nonverbal)
+a) selber nicht produktiv, somit existenzberechtigung im produktiv halten der anderen
+b) kompensation und resultierende von ZUBERS aussagen, du notierst zu viel auf administration
+c) 
+
+ABSTRAKT
+hypothese:
+man macht finanziellen gewinn auf grund der Ausbeutung
+und fragmentierung der psyche der mitarbeiter, die
+dann relativ lange damit gratis beschäftigt sind
+ihre psyche wieder zu defragmentieren.
+END ABSTRAKT
+
+ABSTRAKT
+Fallstudie
+a) als druckmittel, wir lassen den und den fallen dann habt ihr probleme und seid beschäftigt und wir können weiter illegale geschäfte
+   machen, z.B. um den staat kampfunfähig zu schiessen... z.B. im strassenverkehr triggern <-- ganz ganz schlecht
+b) einen blauen elitären im engeneer büro aufgewachsenen lehrling unter kontrollierten bedingungen fallen lassen
+   zum müllmann, damit er auf grund des differenzials (1. ableitung) sieht was die zwei welten sind und mittelsmann spielt
+c) weiteres (wurde bereits vor längerem als teilmenge jeder auswahl definiert)
+END ABSTRAKT
+
+M$ Deffence system
+a) macht und geld erhalt
+b) wichtiges element für den systemerhalt
+c) offene ports für verbesserungsvorschläge
+d) weiteres
+
+
+ABSTRAKT
+backlog und sündenkathalog für das fremdbestimmen von mitarbeitern
+a) gut weil produktiv
+b) schlecht weil weniger produktiv da distress
+c) besser eustress, jeweils ein gut gemacht wenn task erledigt ist, und neben bei, aber wir müssen dringend das noch erledigen
+   wild stimme: ich hab volles vertrauen in dich + lächeln -> eustress <-- allenfalls besser aber wohl auch in abhängigkeit
+   des akutellen gemütszustandes und der generellen einstellung zur arbeit
+END ABSTRAKT
+
+prime-zettel:
+visual: philip gloor und savoca conspirancy (teilelement der groben psychotisierung der letzten woche) wohl nicht diejenigen
+        welche dafür verantwortlich sind
+
+selber zigaretten rolle + 60 Jähriger der so richtig von oben herab richtend einen blick wirft, du drögeler, du kiffer, du verbrecher
+ich der 60 jährige bin rechtschaffend, blick seiner frau, sorry simple mind.
+
+ABSTRAKT
+abstrakte klasse allOverMe(person victim, person[] stupidActors, person evilPlaner)
+{
+  public void sendBadVisualsFromstupidActorsToVictim()
+  {
+    deffendingAttackAgainstStupidActors()
+    return youAttackedTheActorsThatAreSheeps you sinner;
+  }
+  loop you AttackedSheeps you sinner ();
+  loop you are evil
+  loop adrenaline or serotonine blocker
+  
+  returns suicide();
+}
+
+Perequisites: person that wants to be good
+
+END ABSTRAKT
+
+
+
+ABSTRAKT
+der Fall kam nach ABB Flexiblen automation
+dies impliziert 4 Jahre einflussnahme in der ABB Flexiblen automation *ERASER*
+a) AG-ZH game
+b) studie
+c)  --> management Information system (proper / pro f) 
+
+--> damals hatte ich ncoh kein auto, also fällt auto als sünde weg
+--> preciving gegenüber belser, anstiftung zum drogenkonsum, danach als täter verwendbar als funktion von f(x)
+
+Lehrling kostet nur, somit macht irgendwer bei der ausbildenden firma danach mit der neurointerface schnitsstelel
+die wärend der lehre programmiert wird ein riesen geschäft
+
+*ERASER through other person*
+-->votum: es sei nicht fair, dass ich im engineer büro arbeite und andere abfall wegtrage 
+-->konter: ich habe bereits über 20000h meiner freizeit für meine informatik und psychologie ausbildung investiert
+   und ihc hatte damals schon relativ viel zeit in die informaitk investiert
+
+dann wurde mir das verschlafen vorgeworfen, aber heute weiss ich, dass man mit technischen mitteln dafür sorgen kann,
+dass jemand verschläft
+
+geldfluss und job ging an adrian herzog und oniko ag -> allenfalls seine eltern oder jemand in relation zu ihm
+
+
+
+
+parallelen lukas
+->lukas hat das gefühl seine zigaretten seien vergiftet, dieses bewusstsein kommt allenfalls davon, dass ihm chemisch oder elektrochemisch
+  effektiv etwas verabreicht wird.
+
+->wer will lukas seinen job, somit werden wir in 2 jahren wissen, wer der täter ist...
+
+ABSTRAKT
+Soll jemand einer gruppe der angegriffen wird von einem anderen system
+zum schutze der gruppe von der gruppe isoliert werden solange der angriff dauert?
+
+am besten wäre es, wenn die gruppe das merken würde und die angreifer mal grad
+in die pfanne haut im sinne, dass die andere gruppe weiss, dass sie das zu
+unterlassen hat, bitte ohne einen krieg anzufangen...
+END ABSTRAKT
+
+
+
+Thomas Zuber:
+um einen postive verhaltensänderung zu bewirken braucht es beim empfänger einen närboden
+         negative
+
+notiz: nein die piraten wollen nicht einfach nur gratis downloaden. mister...
+
+alle tage an denen savoca hier ist und zuber weg bin ich psychotisch
+-->ev. kokain konsum oder einfach kompensation wenn der chef weg ist und machtausübung gegenüber schwächeren mitarbeitern
+   ->falls wahr, therapie...
+
+dann werden telefonate gemacht mit einem Wehrli und bei mir wird die szene eigeblendet, adss die wehrlis mich überwachen
+-->psychotisch --> impliziert, dass savoca nicht alleine ist und da nohc eine macht darüber steht...
+
+schildknecht ist auch als actor gegen mich, aber wohl ohne sein direktes bewusstsein...
+eltern schildknecht und savoca der sich von lukas angepisst fühlt weil lukas ihm direkt sagt dass er ein informatik nob ist.
+->best case: maurizio erwirbt die informatik fähigkeiten, wenn das in dem alter noch geht. lukas auch gesagt, oder zumindest wollte ich das
+             die älteren leute ein bisschen respektieren soll...
+
+
+
+drogen nahrungskette
+1. erwischt
+2. leiden weil straftatbestand
+3. einen anderen erwischen
+4a. rache an dem, er hat ja auch -> goto 2
+4b. versuchen die durch die drogen generierte psychose zu neutralisieren
+
+an dem tag nach dem meine tante gestorben ist :'(
+konnte ich einen tag ungestört und produktiv arbeiten
+danach wurde es um so schlimmer
+
+
+entropie im Art+Tech kunden VPN recht fortgeschritten
+
+
+
+weshalb ich die Lehrlingsausbildung in Frage stelle:
+1. Ihnen wird beigebracht Authoritäten zu Respektieren und vor ihnen zu Katzbuckeln
+2. Dadurch dass sie in einem Spezifischen Fach ausgebildet sind haben sie ein Minderwertigkeitsgefühl das durch die anderen Mitarbeiter verursacht wird die besser sind in dem fach
+3. Haben sie dann die Fähigkeiten erworben verpassen sie anderen neulingen einen Minderwertigkeitskomplex
+4. der minderwertigkeitskomplex wird am wochenende durch alkoholkonsum (eskapismus) kompensiert
+5. Durch ihre spezifischen Fähigkeiten in diesem Fach resultieren konflikte z.B. wenn sie mit Leuten in ein Team kommen welche andere fachgebiete haben, z.B. marketing
+
+das ganze hängt auch sehr von den ausbildern ab
+
+
+Tagebuch Do 17 Mai 2012 23:36:29 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+irgendwann vor 8h hat es angefangen mir einen männerkeuschheitsgürtel
+einzublenden, alle paar minuten...
++claudine hätte einen bestellt...
+ -->irgendwo da oben im text
+---->ok das ist für psychologisches profiling gut...
+
+somit versucht man wohl einen psych. rezeptor zu schreiben mittels keuschheitsgürtel 
+würde heissen ich würde wohl das schlimmst möglich bestellen da ich reicht eingebildet bin was meine psychologische stärke betrifft...
+
+
+
+
+ausserdem hat jan odermatt gesagt, sie hätten in der shcule im deutsch "manipulations techniken"
+
+
+mein vater
+ja er wolle schauen, dass ER einen 10mA FI Schalter montiere falls
+kinder in die wohnung von miggeli ziehen dass nichts passiere
+aber dass sein sohn suizidal ist ist ihm scheissegal...
+
+jedes mal first strike von meinem vater
+er vergifte mich mit dem mineral dass er mir einschenke
+
+Soruce: einschenken und den weissen deckel der petflasche in der hand fummeln
+
+interessanterweise har meine hand zufor das shoot vather visual gemacht, aber eigentlcih war der beginn der bewegung um meinen 
+bruder zu zuechtigen weil er etwas unnettes angedeutet hat zum tod meiner tante
+
+hypotehse:
+mein vater leidet weil er seine kinder nicht richtig erzogen hat und projeziert den hass dann auf mich
+
+
+
+

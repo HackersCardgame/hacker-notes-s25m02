@@ -1,0 +1,78 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sun Aug 4 04:55:47 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+urs blum sein terrornetzwerk bestehen aus offistiren möchte jetzt die letzten zwei tagebuch einträge spammen weil das konzept das hauptkonzpet [Microsoft: der zürich versichrung] ist um morde zu vertuschen. Urs Blum verrät die Microsoft, dass ein grosser teil des business von microsoft die bereitstellung von Zensur-Software und Funktionien ist für z.B. Konzerne wie die Zürich Verischrung
+
+Action recognition: bei windows 11 ging das kopieren nicht mehr mit gui, also habe ich robocopy im cmd.exe verwendet, das wurde jetzt scheinbar auch zur zensur software umfunktionert was sticks indexiert und beweismittel löscht. nach dem start waren von 2GB freiem speicher plötzlich wieder 5gb frei
+
+urs blum verrät immer andere natürlcihe oder jursistische personen um diese dazu zu zwingen marc jr landolt anzugreifen, urs blum steht somit in einer machtposition gegenüber microsoft, somit muss davon ausgegangen werden, dass die Zürich verischrung bzw. die offiziere im umfeld der Pfadfinderabteilung adler aarau z.b . in den hauptsitezen der microsoft sprengfallen hat welche sie zünden kann
+
+dann die sprengfallen-thematik benutzt urs blum praktisch immer dann, wenn erwas so wichtiges wie in den letzten 2 txt dokumenten zensiert bzw. gespammt und weggesprengt werden muss
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sun Aug 4 04:58:23 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+dann habe ich jetzt vermutlich das puzzle um den Schreibschutz auf dem Chinesischen USB Stick mit Schreibschutz-Schalter gelöst, VERMUTLICH
+
+
+da würde nur vom Windows bzw. allenfalls auch von der Intel Hardware software mässig der schreibschutz aktiviert, dann haben die aber auch auf mein Neuralink zugriff, und ich hab dann dort den Schreibschutz-Schlater nicht wieder auf Schreibschützt geschlatet und diesen stick mal bei seite gelegt.
+
+den Schreibschutzschlater am stick kann man gemäss meiner expertise als informatiker HF nciht aushebeln, weil der direkt zum Write-Enable des Speicher-Chips geht, ABER wenn ich jetzt nicht darauf geachtet hätte, dass der schreibschutz eingeschaltet ist, und ich hätte den vermeidlich kaputten usb stick mit offenem schreibschutz-schalter eingeschaltet, dann wäre der stick nur software mässig schreibgeschützt und die könnten dann mit military grad backdoors die daten dort trotzdem drab löscher 
+
+marc@debian:~$ figlet Further RESEARCH required -w 400
+ _____           _   _                 ____  _____ ____  _____    _    ____   ____ _   _                        _              _ 
+|  ___|   _ _ __| |_| |__   ___ _ __  |  _ \| ____/ ___|| ____|  / \  |  _ \ / ___| | | |  _ __ ___  __ _ _   _(_)_ __ ___  __| |
+| |_ | | | | '__| __| '_ \ / _ \ '__| | |_) |  _| \___ \|  _|   / _ \ | |_) | |   | |_| | | '__/ _ \/ _` | | | | | '__/ _ \/ _` |
+|  _|| |_| | |  | |_| | | |  __/ |    |  _ <| |___ ___) | |___ / ___ \|  _ <| |___|  _  | | | |  __/ (_| | |_| | | | |  __/ (_| |
+|_|   \__,_|_|   \__|_| |_|\___|_|    |_| \_\_____|____/|_____/_/   \_\_| \_\\____|_| |_| |_|  \___|\__, |\__,_|_|_|  \___|\__,_|
+                                                                                                       |_|                       
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sun Aug 4 05:17:46 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+also normaler ablauf bei mir wäre
+
+1. Schreibschutz-Schalter ausschalten
+2. backup drauf kopieren
+3. unmounten
+4. ausstecken
+5. schreibschutz-schlater einschalten
+6. weglegen
+
+bei 4 (eventtrigger beim ausstecken solch eines sticks) würde bei mir wieder induzierte Temporal-Lappen-Epilepsie (ICD10 G40.2) eingeschaltet, urs blum und co würden wieder mit sprengfallen drohen, ich würde sowieso psychotisch und würde den schreibschutz-schalter nicht einschalten
+
+dann wenn man da sowieso nicht mehr drauf schreiben kann spielte es auch nciht so eine hohe priortät, was nebenläufig noch einfluss auf mich verübt das mit dem schreibschutz weniger exakt zu nehmen
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sun Aug 4 05:23:45 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sun Aug 4 06:21:19 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+dann dissassembly des Rückhalte befehlts
+
+die Sabotage Software welche Resourcen am Computer aber auch in der wohnung mit bioterrorismus-drohungen (hätte könnte CORONA infizeirt worden sein) blockert hat verschiedene terrorismus-stufen
+
+1. nur kurz blockeren, dann grad ICD10 G40.2 bei mir aktivieren
+ -> dies mehrfach über stunden wiederholt deaktiviert ca. 50% des kritischen denkens, menschen die nicht wie ich eher amokläufer und nciht selbstmörder sind würden amok laufen, gif von dem typen der einen computer mit dem baseball schläger zertzrümmert
+ 
+2. blockeren längern
+
+3. blockeren endgültig
+
+diese dinge wären vermutlich primär um meine psyche zu destabiliseren, da wären vermutlcih remote menschen grad aktuell am auf mich und mein neuralink udn meine raumüberwachung am zugreifen. somit wäre die frage, ob die täter die mich angreifen dazu ein GUI, API oder so etwas haben, oder auch z.B. nur die akkustische singnatur z.B. die rasierklinge auf den kokain spiegel zu klopfen ???
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sun Aug 4 06:23:43 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+automated directory traversal rückhaltebefehl vorleger algorithmus um möglschst das ausziehen des sticks heraus zu zögern
+-> also da muss ich ncoh lernen mich weniger von Neuralink beeinflussen zu lassen, und z.B dann wenn cd /mnt/stick/blah gemacht habe nach ende des tasks grad wieder cd ~ zu tippen
+

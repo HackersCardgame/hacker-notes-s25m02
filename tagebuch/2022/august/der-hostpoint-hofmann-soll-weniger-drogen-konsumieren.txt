@@ -1,0 +1,28 @@
+
+
+Guten Tag Hostpoint
+
+ich denke das Sozio-Psychologie-Designpattern dass gegen mich aktiviert worden ist und bei mir Atemnot und Herzrasen verursacht hat (prä-2022-Neuralink, Medulla Oblangata) will mich sabotieren, will mich als unfähigen informatiker diskreditieren
+
+
+schachzug ich:
+
+rsync upload eines verzeichnisses
+
+
+
+Schachzug ungesehener 3. allenfalls bei hostpoint selber:
+
+kopiert parallel zu meinem rsync .htaccess Datei in mein Homedirectory
+
+
+eine Sollbruchstelle im /home/marcland um alle webseiten zu deaktivieren wäre schon mal eher meh weil das riecht seh nach vorbereiteter zensur-funktion. Apache2 könnte man anders konfigieren wenn das nicht sowieso nur eine falsche spur ist
+
+
+dies wäre die erste hürde, aber eigentlich wird auf apache2 zensiert und gefilter, und das .htaccess file das nicht bei mir im verzeichnis ist. nach dem löschen war die webseite immer noch nicht erreichbar. also gibt es entweder einen propagation delay der .htaccess datei, oder da sind noch andere parameter an denen manipuliert wird.
+
+
+als pünktlich zahlender kunde finde ich das eher nicht so toll, hätte auch gerne details, auch weshalb rsync von windows her nicht geht seit ein paar wochen
+
+
+@ an alle jüngeren nerdigen wesen als ich (1978), solche dinge machen einem psychotisch, cyberwar findet leider auch in der schweiz statt. im normalfall wenn Ihr nicht wie ich Zeuge seid gegen einen 50 Milliarden Konzern werdet ihr vermutlich nicht so viel ärger bekommen wie ich.

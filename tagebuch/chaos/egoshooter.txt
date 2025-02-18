@@ -1,0 +1,8 @@
+
+
+Ruleset:
+
+Ego-Shooter && Interesse für richtige Waffen oder gar der Besitz solcher
+=>EVENTTRIGGER=>Regelmässige Überprüfung, und zwar weltweit
+
+Ausserdem wäre es wohl sinnvoll wenn man so wie ich aktiv Foren etc bearbeitet etc...

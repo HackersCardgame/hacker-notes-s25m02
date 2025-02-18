@@ -1,0 +1,31 @@
+System log for account 962320 (icq) connected at 30.01.2007 13::52::26
+---- +++ 962320 hat sich angemeldet @ 30.01.2007 13::52::26 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 30.01.2007 13::52::26 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 30.01.2007 13::52::26 ----
+---- Dominik wurde untätig @ 30.01.2007 13::52::26 ----
+---- tdr-timon hat den Status von Offline zu Verfügbar geändert @ 30.01.2007 13::52::26 ----
+---- tdr-timon hat den Status von Verfügbar zu Offline geändert @ 30.01.2007 13::56::30 ----
+---- tdr-timon hat den Status von Offline zu Verfügbar geändert @ 30.01.2007 14::26::37 ----
+---- vortex hat den Status von Offline zu Verfügbar geändert @ 30.01.2007 14::56::08 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 30.01.2007 15::03::06 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 30.01.2007 15::03::21 ----
+---- tdr-timon hat den Status von Verfügbar zu Offline geändert @ 30.01.2007 15::09::37 ----
+---- +++ 962320 wurde untätig @ 30.01.2007 15::02::07 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 30.01.2007 15::13::46 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 30.01.2007 15::15::45 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 30.01.2007 15::18::51 ----
+---- vortex hat den Status von Verfügbar zu Offline geändert @ 30.01.2007 15::19::01 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 30.01.2007 15::22::48 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 30.01.2007 15::22::49 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 30.01.2007 15::29::14 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 30.01.2007 15::33::34 ----
+---- Dominik wurde tätig @ 30.01.2007 15::33::34 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 30.01.2007 15::39::15 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 30.01.2007 16::09::39 ----
+---- +++ 962320 wurde untätig @ 30.01.2007 16::07::33 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 30.01.2007 16::22::31 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 30.01.2007 16::22::40 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 30.01.2007 16::27::04 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- Dominik wurde untätig @ 30.01.2007 16::41::04 ----

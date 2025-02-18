@@ -1,0 +1,199 @@
+Mir als autist hat dies geholfen..
+
+Fünf Unlösbare Probleme und ihre Kategoresierung. - Typosierung und Theorem von mir..
+
+ 
+
+ 
+
+ 
+
+ 
+
+Fünf Unlösbare Probleme und ihre Kategoresierung. 
+
+ 
+
+ 
+
+Immer wenn ich ein schweres Problem habe, habe ich mir angewöhnt dieses Problem nach meiner Typosierung zu gliedern und zu erkennen ob es unlösbar erscheint bzw. ist! Wenn es ein unlösbares Problem ist habe ich mir angewöhnt und vorgenommen das ich maximal 5 Minuten darüber nachdenke!! Das bedeutet das man diese Typosierung immer wieder in den Alltag einbringen muss und zwangsláufig auswendig lernen muss. 
+
+ 
+
+ 
+
+-- Die 5 unlösbaren probleme haben zwei mögliche Logische Ordnungen -- 
+
+ 
+
+I. Ordnung ist nur lösbar ist mit illegalen oder sozial unkonformen Maßnahmen. 
+
+ 
+
+II. Ordnung ist immer unlösbar. 
+
+ 
+
+ 
+
+Die fünf typen von unlösbaren Problemen sind. 
+
+ 
+
+ 
+
+I. Zeitlich unlösbar. ( Bsp. Du hast einen Gerichtstermin. In den moment kannst du das Problem nicht lösen - in diesen fall maximal eine grobe Strategie erschaffen. Es ist aber nicht lösbar ) 
+
+ 
+
+II. Es hängt von einer anderen Person ab. ( Bsp. Du hast einen Gerichtstermin und der Richter kann nur entscheiden. 
+
+ 
+
+III. Es fehlen dir Informationen. ( Bsp. du hast einen Gerichtstermin und du weisst das der Richter irgendwelche Akten über dich hat.) 
+
+ 
+
+IV. Es ist rein formal logisch nicht lösbar ( bsp. Was war als erstes da ein im lebensverlauf mutiertes geschöpf namens huhn oder das hühner ei zum huhn ) 
+
+ 
+
+V. Du bildest dir das problem nur ein. ( Bsp. Alle Menschen haben etwas gegen mich. Oder wenn ich jemanden in die Augen gucke passiert irgendwas. ) 
+
+ 
+
+Das V. [letzte] Problem ist für aussenstehende meist leicht zu erkennen. Für die Person selbst ist es aber verdamt schwierig. Die Person kann auch in einem Dilemma stecken wenn Sie z.B erfragt ob Sie zu dick ist. Entweder die gefragte person lügt wenn Sie Antwortet oder sagt die wahrheit oder als ironie oder als Beleidigung oder um die person zu manipulieren
+
+Meist treten gleich mehrere unlösbare Probleme in unterschiedlichen Konstellation zusammen auf. 
+
+ 
+
+Als erstes sollte man Sie als das identifizieren was sie sind. 
+
+Dann sollte man sich bewusst machen das es nichts bringt länger als eine kurze spanne darüber nachzudenken! 
+
+Wenn es sich um ein Problem der II Ordnung handelt zu 99% nichts helfen wird.
+
+
+
+
+
+ich hab schon noch mehr Regeln, zB. mache ich mich selber zur LaborRatte oder zum Anschauungsobjekt für Gleichaltrige und Jüngere. Vor allem wenn man dann später noch eine Schizophrenie Diagnose bekommt ist es einfacher für die Jüngeren wenn ich sage ...
+
+"Ich als Schizophrener rede mit meinem Teddy Bären"
+
+... als wenn ich den Jüngeren fragen würde ...
+
+"Hörst du Stimmen"
+
+... weil wenn er Stimmen hört wüsste er, dass er da für die Wahrheit Repressalien erwarten müsste, denn als erwachsener mit Stimmen zu reden die nicht da sind oder wie ich mit dem Teddy Bären rede.
+
+Vielleicht hast Du das auch gemerkt, ich habe Dir einige Fragen gestellt wie z.B. "Wofür Du den Crawler brauchst" aber ich beharre dann nicht stur auf eine Antwort von Dir weil ich Dir als jüngerer Mensch die Option lassen möchte das für dich zu behalten, sich bisschen versteckt zu halten. Autisten brauchen nicht nur Rückszugs-Orte in der realen Welt, man sollte ihnen diese Rückzugs-Möglichkeit auch in Dialogen geben vor allem wenn sie jünger sind als ich (Regel 1)
+
+
+
+
+
+
+
+
+Mir als autist hat dies geholfen..
+
+Fünf Unlösbare Probleme und ihre Kategoresierung. - Typosierung und Theorem von mir..
+
+ 
+
+ 
+
+ 
+
+A ∈ 1..5 (TYP des Problems)
+ 1: Zeitliches Problem
+ 2: Abhängigkeit von Person
+ 3: Fehlt Information
+ 4: Formal nicht lösbar
+ 5: Eingebildetes Probelm
+
+B ∈ 1..2 (ORDNUNG des Problems)
+ 1: Lösbar mit Regelübertretung
+ 2: Unlosbar
+ 
+Problem ∈ A ⨯ B
+===============
+
+1⨯1: ZUR ZEIT nicht lösbar
+1⨯2: Beispiel ?
+2⨯1: zB da sage ich dem Chef: "ok leigt bei Dir, gib mir Anweisungen"
+2⨯2: Beispiel ?
+3⨯1: Informationen zusammen-puzzeln (Interpolation/Extrapolation)
+3⨯2: Beispiel ?
+4⨯1: Beispiel ? -- ausserdem redundant => Entity RelationShip Model !!!
+4⨯2: Beispiel ? /
+5⨯1: Typisch für'n Schizo wie mich, Problem mit meinem Teddy-Bären besprechen
+5⨯2: Beispiel ?
+
+ 
+
+Immer wenn ich ein schweres Problem habe, habe ich mir angewöhnt dieses Problem nach meiner Typosierung zu gliedern und zu erkennen ob es unlösbar erscheint bzw. ist! Wenn es ein unlösbares Problem ist habe ich mir angewöhnt und vorgenommen das ich maximal 5 Minuten darüber nachdenke!! Das bedeutet das man diese Typosierung immer wieder in den Alltag einbringen muss und zwangsláufig auswendig lernen muss. 
+
+ 
+
+ 
+
+-- Die 5 unlösbaren probleme haben zwei mögliche Logische Ordnungen -- 
+
+ 
+
+I. Ordnung ist nur lösbar ist mit illegalen oder sozial unkonformen Maßnahmen. 
+
+ 
+
+II. Ordnung ist immer unlösbar. 
+
+ 
+
+ 
+
+Die fünf typen von unlösbaren Problemen sind. 
+
+ 
+
+ 
+
+I. Zeitlich unlösbar. ( Bsp. Du hast einen Gerichtstermin. In den moment kannst du das Problem nicht lösen - in diesen fall maximal eine grobe Strategie erschaffen. Es ist aber nicht lösbar ) 
+
+ 
+
+II. Es hängt von einer anderen Person ab. ( Bsp. Du hast einen Gerichtstermin und der Richter kann nur entscheiden. 
+
+ 
+
+III. Es fehlen dir Informationen. ( Bsp. du hast einen Gerichtstermin und du weisst das der Richter irgendwelche Akten über dich hat.) 
+
+ 
+
+IV. Es ist rein formal logisch nicht lösbar ( bsp. Was war als erstes da ein im lebensverlauf mutiertes geschöpf namens huhn oder das hühner ei zum huhn ) 
+
+ 
+
+V. Du bildest dir das problem nur ein. ( Bsp. Alle Menschen haben etwas gegen mich. Oder wenn ich jemanden in die Augen gucke passiert irgendwas. ) 
+
+ 
+
+Das V. [letzte] Problem ist für aussenstehende meist leicht zu erkennen. Für die Person selbst ist es aber verdamt schwierig. Die Person kann auch in einem Dilemma stecken wenn Sie z.B erfragt ob Sie zu dick ist. Entweder die gefragte person lügt wenn Sie Antwortet oder sagt die wahrheit oder als ironie oder als Beleidigung oder um die person zu manipulieren
+
+Meist treten gleich mehrere unlösbare Probleme in unterschiedlichen Konstellation zusammen auf. 
+
+ 
+
+Als erstes sollte man Sie als das identifizieren was sie sind. 
+
+Dann sollte man sich bewusst machen das es nichts bringt länger als eine kurze spanne darüber nachzudenken! 
+
+Wenn es sich um ein Problem der II Ordnung handelt zu 99% nichts helfen wird.
+
+
+
+
+
+

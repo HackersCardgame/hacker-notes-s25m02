@@ -1,0 +1,76 @@
+Commodore Goes to Class
+
+by Robert Bernardo
+
+It's another day at my middle school. I push the cart of four Commodore monitors to my classroom.
+Not having an alarm in the class, I have to store the monitors in the library every night. After I reach the
+class, I start unloading the monitors to different corners of the room--one 1701 on one table, two more
+on another table, and the Magnovox 8563 at the front table. I open the locked, steel cabinet that
+houses the 3 C64's, the 1571 drives, and the C128D. The C64's and 1571's go by the 1701's, and the
+8563 is placed on the C128D. I start connecting all the various cables between computers, monitors,
+drives, and power strips.
+
+The power strips are cheap surge protectors bought from the local Target department store, and these
+are connected to outlet surge protectors for double protection. It's questionable whether I have enough
+electrical protection; the school has bad electricity, and several power supplies --heavy duty and
+regular--have gone down in the past. It's too bad that I can't afford an uninterruptible power supply
+(u.p.s.).
+
+All of the equipment is my own property that I have gathered over the years. The school prefers to
+spend their money on the latest computer fad. A few years ago it was a network of Macintosh LCII
+computers connecting almost every classroom. This year it's a network of Pentium 133 computers.
+
+"You are not to load any of your software into the PC's," says our principal. "If the software has a virus
+or somehow brings down the system, then you will be held liable for the $750,000 network." Needless
+to say, students cannot use the PC computer; it's only for teachers' use--taking attendance, searching
+student records, sending grades to the office, e-mailing other teachers, and using the Internet. The PC
+has crashed twice already in four weeks of use, and it takes a specialist to rescue it. The software is still
+full of bugs; our principal throws up her hands, "No, you still can't use that... No, only the office can
+correct that right now... No, I'll have to send over the specialist..." Meanwhile, my students are happily
+using the Commodores.
+
+Life is rough in the school world--students pounding on keys, forcing joysticks wrongly into the ports,
+dropping keyboards and power supplies, throwing unsleeved disks around onto tabletops, spreading
+chalk dust about. Extra C64's come in handy; as soon as one breaks down, I have another to replace it
+immediately, without the need of a specialist.
+
+I seem to have a philosophical difference with the administration; they want teachers to use computers.
+That's fine, but where is the student exposure to computers? It's far easier to bring several Commodore
+computers into the classroom for the students to use than to go through all the red tape and all the
+committees to get just one, very expensive PC.
+
+I've been using Commodore computers in the classroom since 1984. In those days I would transport
+my one C64 and cassette drive back and forth between the class and home. Then I graduated to an
+SX-64 portable with a real, built-in disk drive, and the students would use that. By the late 1980's, I
+was able to afford a C128 and 1571 at home, and keep the SX strictly for student use. By the
+mid-1990's, I was able to obtain more C64's, drives, and TV/monitors for the students to use.
+
+This week the students are using Hangman is improve their word recognition skills. Last week it was
+Word Invaders to improve their keyboarding skills. Next week it will be Word Guess, Wiz Type, or
+Wheel of Fortune. When book reports come, the students will use the Write Stuff (talking version) for
+their papers. To decorate the covers of their book reports, they'll use Koalapad or Koalapen art
+programs. Printouts of the reports will be done on the Citizen 200GX (Epson-compatible), 9-pin
+printer. The Koala pictures are printed on a Canon PJ-1080A color inkjet printer. Later in the school
+year the students will do a bit of desktop publishing by making signs, cards, calendars, and banners
+with Printmaster 1.1a. To improve skills like map-reading, the students will use Agent U.S.A.. If there
+is time in the school year, they may do some creative writing and animation with Show Director. By the
+end of the year, they start compiling lists of their friends' interests with the commercial database, DFile
+64 v.4.
+
+In the meantime, I keep busy with the Commodore in classroom and at home. Grades are done on
+Vizastar 128, usually with three windows open onto this spreadsheet. Papers are written with the Write
+Stuff 128 v.2, or if I don't need to format the text right away, then with Zed.077. Student records are
+dutifully copied into DFile 128 v.1 or v.2. What is not finished with the C128D at school is transferred
+to disk and then worked on with the other C128D at home. At the end of the day, if I get tired of
+staring at numbers or words, I pop in a game disk, a music disk, or a picture disk and relax with my
+Commodore.
+
+The Commodore is my work partner. The Commodore is my play partner. The Commodore is a
+friend, in comparison to the cold, all-business PC sitting in my classroom. The Commodore has a
+personality all its own. I suppose I value the Commodore more than I do the PC. As proof, in my
+classroom the district has provided an expensive Tripp Lite surge strip to be used with their PC. The
+surge strip has 4 outlets--2 with 50 joules of electrical protection and 2 with 75 joules. The C128D and
+its monitor get the outlets with more protection. You can guess which outlets the PC gets.
+
+From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html

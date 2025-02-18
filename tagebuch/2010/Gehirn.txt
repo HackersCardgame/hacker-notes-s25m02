@@ -1,0 +1,11 @@
+
+Das/mein gehirn arbeitet auch mit einer Art register
+
+z.B. lade man eine katzen spielzeug in das eine register
+     dann präsentiere man eine katze
+     ->folglich wird die aktion spiele mit katze ausgeführt
+
+mehrere register und mehrere sinvolle oder weniger sinnvolle rekombinationen
+der geladenen ereignisse / objekte
+
+

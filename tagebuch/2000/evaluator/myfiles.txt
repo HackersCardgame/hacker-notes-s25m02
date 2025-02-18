@@ -1,0 +1,8 @@
+../soundrüümli.txt
+../Wordcount.txt
+../myfiles.txt
+../evaluator/temp.txt
+../evaluator/Wordcount.txt
+../evaluator/myfiles.txt
+../evaluator/fuellwoerter.txt
+../canferari.txt

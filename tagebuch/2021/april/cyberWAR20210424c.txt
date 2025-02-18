@@ -1,0 +1,86 @@
+Sat 24 Apr 2021 02:13:46 PM CEST
+
+GoodMorning CyberVietnam
+
+Die Drücker Malware die das Drocken von Mails verhindert und vermutlcih über Carnivoire bei hostpoint über Thunderbird in einer Debian buster vm in einem Debian Bullseye host injected wird hat mehrere severities für zerstörung des druckers...
+
+Sat 24 Apr 2021 02:14:48 PM CEST
+  7  45 310 cyberWAR20210424.txt
+dfb19f5047c0a100aed6f95a60277487644aef31ffad82e21adaa755311f21658154bc958953b6c9146d176b4e36be424203c98f551f321be6bc99f9c18583f7  cyberWAR20210424.txt
+[master 73a3651] save
+ 1 file changed, 7 insertions(+)
+ create mode 100644 tagebuch/cyberWAR20210424.txt
+
+die "netten" herren der zürich versicherung sind on the fly am malware gegen mich am weiter entwickeln um mich vorm drucken abzuhalten...
+
+Sat 24 Apr 2021 02:21:49 PM CEST
+ 16  92 773 cyberWAR20210424.txt
+38c9d82f5007828a881754facf708a1be6cb35ed9de6390f66fb57a67f1b8093f8c2fc59f3e5dd713c3b2cca98fe2f503c70344e08926a001bc5e185566feeb9  cyberWAR20210424.txt
+[master c31953e] save
+ 1 file changed, 3 insertions(+)
+
+mutmasslich malware vm mit debian buster:
+
+nach dem enter drücken wird der befehl cp durch ls ausgewechselt
+
+Sat 24 Apr 2021 02:48:36 PM CEST
+  26  130 1156 cyberWAR20210424.txt
+2fb56a4587f5d80a94cda576fc04c29417fde6648e0124187b91490e3b84d27f292aea5e1e57968cf2772db3fb077f0d2e16edd45e21d40c7719acf53f2688ba  cyberWAR20210424.txt
+[master e7981fb] save
+ 1 file changed, 5 insertions(+)
+
+
+grad scheinbar für den moment fast DEFCON5 bei mir... YAY...
+
+Sat 24 Apr 2021 03:45:40 PM CEST
+  35  161 1496 cyberWAR20210424.txt
+cd682c3ebd441cdd550dc7efb6383300c4f561d3f9da918c798c13aaa30841f0b81c3e619f236b1ebb59ebb694f2bb056a179dcf8328248474ac964438a5a545  cyberWAR20210424.txt
+[master fa67a5b] save
+ 1 file changed, 4 insertions(+)
+
+
+Prio TODO offline
+
+marc@debian:/disk/marc/hackerscardgame-notes4/PRiO$ figlet TODO
+ _____ ___  ____   ___  
+|_   _/ _ \|  _ \ / _ \ 
+  | || | | | | | | | | |
+  | || |_| | |_| | |_| |
+  |_| \___/|____/ \___/ 
+                        
+
+
+zweite charten seite für "sorts" für die karten
+mit so automatischem kraten flippen zeugs
+
+Sat 24 Apr 2021 07:08:34 PM CEST
+
+dann die funkgeräsuche im kopfhörer sind glaub sync zum amygdala implantat, somit wäre jetzt klar wie das geht, wenn die auf dem eeg erkennen dass ich "blablabla das ist jetzt corona infiziert" nicht schlucke weil es wirklcih nicht infiziert ist versuchen die mit dem amygdala implantat das so zu saghen ein zu brennen, bzw. ein zu raw-hammer-of-the-mind einzubrennen
+
+Sat 24 Apr 2021 07:34:05 PM CEST
+  60  302 2507 cyberWAR20210424.txt
+8acc3e9aac802cd437dac33d4c607575d3f8572b996148b674d73e6b4e0c27ff733a4dd7c344df52bab05895e6e5c7a71f02b07293f50b20d27990743f76bfc7  cyberWAR20210424.txt
+[master 6f97e18] save
+ 1 file changed, 20 insertions(+)
+
+
+
+pfisterer, pantic, schleusener und astrid wären die psychologie spezial experten die psychologische kriegsführung gegen mcih verüben, damit urs blum und gabriel riela "ungesehen" versuchen können meinen endpoint zu hacken?
+
+Sat 24 Apr 2021 08:04:56 PM CEST
+  70  352 3014 cyberWAR20210424.txt
+7b5c0460d1a87ba94ad8c0dd413df39340154dcada3ae43b0c4df39f7903e5c2faa19e49fcc7e94bf6ec79db01f069e6ae0305f00506a7712830703f64e63f0b  cyberWAR20210424.txt
+[master 8cbbf71] save
+ 1 file changed, 5 insertions(+)
+
+jetzt haben die angefangen wieder meine hände zu grillen mit dem active denial system & schweissausbrüche seit ca 30 sek
+
+Sat 24 Apr 2021 08:05:29 PM CEST
+  78  393 3414 cyberWAR20210424.txt
+95c99a9d4dcd508c5db0707a9c801dbeb429dae85647867b517c84a78e18e15300e6f3619e65bae3e94e13781ae8fba27652e387ae20cc981c8e971d8d592f86  cyberWAR20210424.txt
+[master 0421c88] save
+ 1 file changed, 3 insertions(+)
+
+
+git clone https://  arrayxlist<aciton recognition> commands.reverse
+

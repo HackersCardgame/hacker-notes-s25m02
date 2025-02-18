@@ -1,0 +1,3 @@
+System log for account marclandoltaarau (yahoo) connected at 18.05.2007 12::06::43
+---- +++ marclandoltaarau hat sich angemeldet @ 2007-05-18 12:06:43 ----
+---- +++ marclandoltaarau hat sich abgemeldet @ 2007-05-18 12:08:48 ----

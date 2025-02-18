@@ -1,0 +1,90 @@
+A 1581 Write Stuff Boot Disk
+
+by Dick Estel
+
+The new Write Stuff with the spellchecker has provided some interesting challenges. At first I was not
+entirely enthralled with BB Speller, since it seemed fairly slow. When you call up the spell checker, it
+loads each of a number of modules in turn, checks the words in that module and presents a list of words
+for possible correction. After you correct or accept the words, it moves on to the next module. This
+seemed to take a long time, but of course the instructions said it would.
+
+I therefore decided I would have to sit down with the book and master the capability of loading the
+modules into the RAM expansion unit, where, I was assured, a one-page document could be checked
+in three seconds.
+
+Thus began an odyssey of file-copying and program modifying that took about four hours total. The
+result was well worth it--a 1581 disk that autoboots, copies the dictionary modules into the REU, and
+loads TWS in a minute and 39 seconds with no user intervention after turning on the C128.
+
+Spell-checking is very quick with this set-up--the change from one module to another is virtually
+instantaneous. The time consuming part is making the corrections, and how much time this takes
+depends on your typing and spelling skills. With three deliberately misspelled words scattered
+throughout the alphabet, five questionable words that were spelled correctly (but are not in the
+dictionary), and three unintentionally misspelled words, it took one minute and 47 seconds to check and
+correct this document, which would run about two pages if printed out in normal 8 1/2 x 11 format. 
+
+These changes are designed for using the 1581 as drive 8, the REU as drive 10 and any 15X1 drive as
+drive 9. Here are the step-by-step instructions which I followed.
+
+1. Be sure you have made a back-up copy of your disk!
+2. From the back (Program) side of the BB Speller disk, LOAD the file "BB", but do not RUN
+it--SAVE it to a DIFFERENT disk (this can be 1581, 1571 or 1541).
+3. Load the file "RAM FC" and modify it as follows:
+Line 20 - change U=9 to U=10.
+Line 60 - change RE=9 to RE=10.
+Line 95 - delete this line or type REM at the beginning of it to render it inoperative (in case you want to
+change it back some day).
+Line 150 - delete this line or type REM at the beginning.
+Line 151 - add this line as follows: GOTO 120.
+Line 155 - delete this line or type REM at the beginning.
+4. SAVE "RAM FC" to your DIFFERENT disk.
+5. Copy all the files from the BACK side of your BB Speller disk (the program side) to a 1581 disk.
+6. Copy all the files from the FRONT side of your BB Speller disk (the dictionary) to the same 1581
+disk.
+7. SCRATCH the file "RAM FC" from your 1581 copy.
+8. File copy the modified version of RAM FC from your DIFFERENT disk to the 1581 disk.
+9. LOAD and RUN "Auto-Boot 128" from your 1581 disk. When it prompts for the file name, enter
+RAM FC. When it prompts for the program type select BASIC.
+10. SCRATCH the file named "BB" from your 1581 copy.
+11. File copy the original "BB" file from your DIFFERENT disk to the 1581 disk.
+
+This should give you a bootable 1581 disk. Next you will want to set up the defaults to utilize the
+dictionary in the REU. You could make various different choices here; this is how I did it.
+
+12. LOAD the program, then tap [CONTROL] X; then select PRINTER CUSTOMIZER.
+13. Next select DRIVES. Set the default for BBW Program as drive 8, and the small, large and "-U"
+file as drive 10. OR, you can set "-U" file for either of the other drives (more on this later).
+14. Now select SAVE DEFAULTS.
+15. (Instruction 15 is for setting up drives when your second drive is a 1541 without a device number
+change switch.) When you return to the normal edit screen, tap [CONTROL][SHIFT] D. Select
+CHANGE 8->9. Turn off both drives. Turn on the 1541 and press [RETURN], then turn on the other
+drive. When switching from drive to drive you can tap [CONTROL] [SHIFT] D and select drive a (8),
+b (9) or c (10). If you have turned keyboard macros on, you can also hold down the Commodore logo
+key and press z to switch between drive 8 and 9. If doing this prints a graphic character at the cursor
+position, turn on keyboard macros as follows: Tap [CONTROL]; hold [COMMODORE] key and
+press K. There will be a message at the bottom telling whether keyboard macros are on or off.
+
+When you use the spell checker, you will probably be adding words (such as your name and Fresno)
+that are not in the dictionary. These are added to the file named "-u." Using the set-up described above,
+the changes are added to "-u" in the REU. You must remember to load "-u" from drive 10 and save it to
+the 1581 program disk before turning off the power.
+
+There are times you may wish to bypass the spellchecker. This could be during the early stages of a
+document which you expect to work on again. On the disk created as described here you can bypass
+the dictionary modules as follows:
+
+A. Turn on your system.
+B. Insert the 1581 boot disk into the drive.
+C. Type RUN"BB". This will load the word processor program without copying any dictionary files into
+the REU.
+
+It may seem unnecessary to scratch and recopy the "BB" file. Perhaps it is; this is how I had to do it to
+get everything to work right. I suggest that you temporarily bypass this step and if everything works,
+forget it. In step 4 above, changing lines 20 and 60 causes the REU to be drive 10. You could skip
+those changes and it would be drive 9. This is what you would want to do if you have no REU and you
+want to use the 1581 for your spell checker. The other changes merely cause the program to bypass
+several GET statements that prompt you to insert the dictionary disk and then the program disk, since
+all the files are together on one 1581 disk.
+
+From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center http://home.att.net/~rmestel/commodore.html

@@ -1,0 +1,11 @@
+Conversation with 974875 at 05.05.2007 15::01::36 on 962320 (icq)
+(15:01:36) stefan: jo. ubuntu esch ebe debian-basiert aber schpeziell aapasst deför dases of "normale" pcs (arbetsrächner, != server) met allne aaneemlechkäite ond so funkzioniert. aber klar, döfsch ä debian nee :)
+(15:03:21) landev: wiso, het den ubuntu würkli irgendwelchi vorteil, oder isch das eifach s debian för dau's?
+(15:05:28) stefan: i gläub es esch for allen fel äifacher, sone wonderbar funkzionierende desktop z'inschtaliere. bi debian muesch de je nachdem no müesam usefende, weles blöde paket das jetz scho weder feelt, för das ergendsoen chliine schäiss funkzioniert :). i gläb bi ubuntu hesch ä 2-3 tools wo debian ned het, aber an sech setsch alles wo ubuntu cha ä met debian chönne - äifach äiniges omschtändlecher...
+(15:06:45) landev: ah so sache wie xf86config oder XF86cfg ect...
+(15:06:53) stefan: genäu
+(15:07:17) landev: iisi, deför hesch dänk bi debian meh packages oder?
+(15:07:50) stefan: hmm, tänkes ned. an sech setsch alli debian paket ä onder ubuntu chönne inschtaliere. an sech.
+(15:09:07) landev: ok, ich probieres mol uus, hesch du irgend grad en link för iso images? oder choscht ubuntu chli öpis?
+(15:10:23) stefan: http://www.ubuntu.com/getubuntu/download
+(15:10:53) landev: danke...

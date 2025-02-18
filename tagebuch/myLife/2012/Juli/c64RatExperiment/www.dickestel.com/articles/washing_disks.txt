@@ -1,0 +1,114 @@
+Washing Your 5.25" Disks or Give Your Dirty Disks a Bath
+
+by Myron Daniels
+
+A few days ago, I needed to retrieve some critical data from a 5.25" disk.
+
+My trusty old 1571 drive notified me, "File not found!" Tried again and got the same report. Hmmm?
+
+Thinking one or both (lower or upper) read/write heads may be a bit dirty, I wet a 5.25" cleaning disk
+with 99% water free isopropyl alcohol, then placed the disk in the drive.
+
+To spin the disk, I pressed F3, which is the way to do a directory list on a C-128. On a C-64 you
+type, LOAD "$",8 for a directory listing. This too will cause the disk to spin.
+
+For me, it's a quick way to spin the cleaning disk and wipe off any minor grime that may have built up
+on the read/write head, without having to disassemble the drive and cleaning the heads.
+
+That done, I again put the data disk in the drive and attempted to load the data.
+
+Same response, "File Not Found!"
+
+I really needed this data. Yep, you guessed it, NO backup disk.
+
+Fearing the worst, I tried another disk and files loaded without a hitch.
+
+What the heck is going on? Corrupted disk?
+
+Pondering on what to do, or rather, what the problem was with this disk, I looked at disk through the
+window in the disk sheath, and there saw what appeared to be splotches of something on the disk's
+media.
+
+Could this splotch be the cause of "File Not Found" problem? Hmmmmm. Truly needed the data.
+
+No point in trying to do a disk copy.
+
+If it can't find a file, it won't copy; right? Well, not always true.
+
+A few times in the past, a disk copy did work. But not this time.
+
+With nothing to lose and everything to gain, I took the sheath in hand, tapped it on my desk to cause the
+disk inside to go to the bottom of the sheath towards the disk window.
+
+Next, I pushed gently on the hub to ensure it was all the way down in the sheath.
+
+Then, with a sharp scissors, I carefully cut the top off the sheath.
+
+From past experience, I did not try to open the disk seals, as you can very easily damage the disk.
+
+Removed the disk from its sheath and inspected it. Found many splotches on both sides of the disk.
+
+Placed the disk on a clean piece of paper towel on a flat surface.
+
+Then I mixed up a solution of about 1/8 teaspoon of liquid detergent (Dawn) with 4 ounces of tap
+water.
+
+Next I wet a small piece of a clean sponge or cotton ball with the mixture, and gently rubbed the disk in
+a circular orbit, on both sides of the disk.
+
+Next I washed off the disk under the faucet. Reinspection of the disk revealed that most of the
+splotches were gone. Repeated the cleaning a second time to get all of it off.
+
+The splotches appeared to be gone.
+
+Placed the disk between paper towel to absorb most of the water.
+
+Laid the disk on a clean paper towel to complete the drying.
+
+When the disk was dry, I slipped it back into the disk's sheath.
+
+Loaded my Pocket Writer 3 word processor, and, holding my breath, I attempted to load that file from
+the data disk.
+
+Yes, it worked. I've got the file.
+
+Being the coward, I immediately printed a hard copy of the data I desperately needed.
+
+Then I saved that file to a pre formatted 1571 blank disk. I always keep a couple of pre formatted
+disks on hand.
+
+With Maverick 5.2 did a whole disk copy, and now have a back up disk
+
+I'll keep the old sheath for another time, should I need it for some task.
+
+LASTLY: In areas that are high in humidity such as most areas in our lovely Hawaii, these areas are
+prone to the growth of fungus on most any material. It does happen on disks.
+
+So, to the detergent water solution mentioned above, with an eyedropper, add TWO drops ONLY of
+Clorox.
+
+Clean as noted above, then wash the disk under the water faucet to make sure the disk is clean.
+
+Repeat cleaning till disk looks clean.
+
+Dry disk as noted above. You should now have a disk to work with to do a whole disk copy.
+
+Having succeeded with the above methods, I wondered if I could do the same with another type
+cleaner that would evaporate quickly.
+
+So, I made a couple of experiments.
+
+Energine Spot Remover is made up of 100% naptha. Using a small cotton ball, I tried it on a different
+disk having ugly splotches. It works!
+
+CAUTION! BE CAREFUL, this fluid is highly FLAMMABLE. Use in a well ventilated area. NEVER,
+NEVER, CLEAN DRIVE HEADS WITH SOLVENT TYPE FLUIDS LIKE THIS NAPTHA
+PRODUCT.
+
+Well, I hope this article will help some users who have DIRTY DISKS in need of a bath; for the
+reasons I've mentioned in the beginning of this article.
+
+There may be other methods. These worked for me.  
+
+(From Hawaii On-Line, Sept-Oct 1999, via the Commodore Information Center,
+http://home.att.net/~rmestel/commodore.html)

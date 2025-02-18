@@ -1,0 +1,31 @@
+Toaster Comparisons
+
+by Dick Estel
+
+Users of the Commodore Amiga are excited these days about the Video Toaster.  This product allows
+the control of video and graphic effects, such as wipes, dissolves and other visual magic.  Before the
+arrival of the Toaster, equipment to accomplish these tasks was priced in the range of $10,000 and up. 
+The toaster costs around $1500.
+   
+As a Commodore 64/128 user, I cannot use the Video Toaster, but I have achieved good results for
+several years with the Toastmaster toaster.  I thought a comparison would be useful.
+   
+Probably the biggest advantage of the Toastmaster is that it does not have to be connected to a
+computer.  In fact, it is a stand alone device which accomplishes its work without peripherals or even
+software (unless you call bread software).
+   
+The Toastmaster allows control of the visual appearance and texture of the final product, with a range
+from soft light brown to board-hard black.  When it was new, the Toastmaster had an automatic
+control for this, and when the program had finished its work, the finished product popped out magically.
+   
+Due to wear and tear and old age, my Toastmaster has lost its popping ability, and currently requires
+the placement of a heavy object on the up/down lever in order to avoid premature ejection.  This also
+necessitates intensive manual controls (watching it like a hawk) to prevent undesirable results.
+   
+While it is true that the Video Toaster produces a wider range of colors and effects than the
+Toastmaster, the latter costs only one percent of what one has to pay for the VT.  Overall I am satisfied
+with my toaster, and although it won't connect to my Commodore, I am confident that one of our
+technical experts could build an interface for me.
+
+(Circa 1990, From The Interface, newsletter of Fresno Commodore User Group, via the Commodore
+Information Center http://home.att.net/~rmestel/commodore.html)

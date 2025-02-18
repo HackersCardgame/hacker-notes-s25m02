@@ -1,0 +1,20 @@
+Eliminating Excess Carriage Returns
+
+If you capture text information from the Internet or via Email, you may find that there is a [RETURN] at
+the end of each line. This can cause formatting problems if the text is transferred to a word processor
+for printing.
+
+There are several methods to remove the excess [RETURN]'s. The Write Stuff 128 offers an option to
+remove them when the text is converted from PET ASCII to TWS format. This works fairly well, but
+not perfectly. 
+
+You can also use the Search and Replace feature of TWS or other word processors as long as you
+think about what you are doing and take steps to retain desired returns. If you have the need to this,
+contact us for detailed instructions.
+
+LOADSTAR LETTER #39 presents several brief programs to accomplish this. A program called
+Velveeta (available in public domain libraries) also has this capability. If you have a need to do this,
+contact the editor or leave Email and we'll connect you with the program that will serve you best.
+
+
+From the Commodore Information Center http://home.att.net/~rmestel/commodore.html

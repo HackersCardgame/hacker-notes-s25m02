@@ -1,0 +1,69 @@
+Ableton 11
+Cubase 14
+Reason 11
+bitwig studio (8 Kanal)
+
+Steinberg Absolute 6
+
+Voicemeeter Potato
+Virtual Cable
+vbcable-A -B
+loopMidi
+Midi-ox
+
+2getheraudio k1ck
+2getheraudio sn4re
+3x plogue
+ * chipspeak
+ * chipsounds
+ * chipcruher
+ascension
+audacity
+axis
+
+air     -> braucht PACE iLok
+ boom
+ db-33
+ drumsynth 500
+ hybrid 3
+ the riser
+ velvet
+ vacuum
+ vacuum pro
+ mini grand
+ Epand2
+ Loom II
+ Boom
+ 
+hats
+sonic accademy kick2
+rapid vst
+native insturments Abo
+ raum
+ Nectar
+ Ozone
+ ...
+ ...
+ ...
+ trash 2 (bzw. heisst das jetzt nur noch trash)
+izotope (ist jetzt bei native instruments dabei)
+surge xt
+dearVR MICRO
+electra2 full
+Dune3
+Zebra
+voltage modular
+Synthmaster 2.9
+Synthmaster ONE
+wiggle (FM Synth)
+
+Surge XT
+Helm
+
+scaler2
+wavescentral nicht mehr installiert
+ h-reverb 
+ -> shitty lizenz und fummelt am mouse-ponter herum, 
+
+ CR8
+ -> tolle auswal für Samples aber selbes problem wie grad oben

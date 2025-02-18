@@ -1,0 +1,23 @@
+System log for account 962320 (icq) connected at 28.05.2007 11::38::26
+---- +++ 962320 hat sich angemeldet @ 2007-05-28 11:38:26 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-05-28 11:38:26 ----
+---- Dominik wurde tätig @ 2007-05-28 11:38:26 ----
+---- tdr-timon hat den Status von Offline zu Verfügbar geändert @ 2007-05-28 11:38:26 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-05-28 12:11:20 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-05-28 12:12:05 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 12:45:20 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 12:46:22 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 12:49:28 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 13:13:08 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 13:13:28 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 13:24:37 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 13:25:54 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 13:28:09 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 13:28:37 ----
+---- tdr-timon hat den Status von Verfügbar zu Offline geändert @ 2007-05-28 13:30:47 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 13:34:26 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 13:39:26 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 13:53:17 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 13:53:56 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 13:56:09 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 13:56:22 ----

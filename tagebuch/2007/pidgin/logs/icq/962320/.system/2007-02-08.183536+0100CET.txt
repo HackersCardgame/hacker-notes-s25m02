@@ -1,0 +1,32 @@
+System log for account 962320 (icq) connected at 08.02.2007 18::35::36
+---- +++ 962320 hat sich angemeldet @ 08.02.2007 18::35::36 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 08.02.2007 18::35::36 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 08.02.2007 18::35::36 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 08.02.2007 18::42::06 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 08.02.2007 18::42::35 ----
+---- +++ 962320 wurde untätig @ 08.02.2007 18::36::27 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 08.02.2007 18::59::44 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ 962320 wurde untätig @ 08.02.2007 19::39::46 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 08.02.2007 20::07::33 ----
+---- stefan hat den Status von Abwesend zu Offline geändert @ 08.02.2007 20::10::46 ----
+---- +++ 962320 wurde untätig @ 08.02.2007 20::25::09 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 08.02.2007 20::38::53 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 08.02.2007 20::58::07 ----
+---- +++ 962320 wurde untätig @ 08.02.2007 20::51::17 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 08.02.2007 21::08::21 ----
+---- +++ 962320 wurde untätig @ 08.02.2007 21::03::10 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 08.02.2007 21::18::22 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 08.02.2007 21::24::31 ----
+---- stefan hat den Status von Verfügbar zu Offline geändert @ 08.02.2007 21::34::32 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 08.02.2007 21::45::43 ----
+---- Schööfli hat den Status von Verfügbar zu Nicht verfügbar geändert @ 08.02.2007 21::47::19 ----
+---- Schööfli wurde untätig @ 08.02.2007 21::47::21 ----
+---- Schööfli hat den Status von Nicht verfügbar zu Offline geändert @ 08.02.2007 21::53::50 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ 962320 wurde untätig @ 08.02.2007 22::03::03 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ 962320 hat sich abgemeldet @ 09.02.2007 17::00::07 ----

@@ -1,0 +1,44 @@
+PRINTER MAINTENANCE 
+
+by Loyd Couch 
+
+The use of my printer, an NX1000, is basically limited to responding to correspondence received by
+CIVIC 64/128, and for preparing mailing labels for distributing newsletters and labels for copies of
+library disks, newsletter disks, and Disk-of-the-Month.  I use single sheet paper because my responses
+seldom exceeds a page.  Thus, I leave the single width, sprocket fed mailing labels installed all the time,
+ready to print with the flip of a lever.  
+
+Maintenance of the printer has been limited to re-inking or replacing ribbons. Printer performance thus
+deteriorated. Blank lines began appearing when printing the Users Group logo, indicating sticky print
+head pins.  When printing labels, the paper would frequently jump sprockets at the fold, indicating
+weak sprocket cover pressure.  
+
+Rolf Miller noticed the logo problem and said that he had success cleaning print head pins by soaking
+that part of the print head in alcohol for a couple of hours.  I used denatured alcohol, and after soaking
+for two hours, the pins of the print head of my printer worked fine.  A very easy maintenance routine. 
+While the pins were soaking, I corrected the sprocket cover problem.  This was accomplished by
+taping a 3/4 inch by 3 3/8 inch piece of 1/4 inch thick cardboard to the printer's rear cover such that it
+pressured both sprocket covers.  The length allowed the cardboard to apply the pressure without
+interfering with the sprocket wheels.  The corrections were simple and should have been done much
+earlier.  Lesson learned: repairs performed as needed keep repair and operating efforts to a minimum in
+addition to keeping the equipment operating properly.
+
+Cleaning a print head is not difficult. Most printer manuals show how to remove the head for
+replacement and, naturally, the head must be removed to clean it.  If a manual is not possessed, look
+for the screws that secure the head, but before removing them, find and unplug from the board the
+ribbon of wire that runs to the head. (Instead of unplugging the ribbon cable, I just freed it enough to
+allow dipping the pin face of the head in a cut down yogurt cup filled with alcohol.) 
+
+Once removed, let the pins - just the pins, not the entire head - soak in the alcohol a few hours.  Then
+use a SOFT brush - not a toothbrush - to finish the job of removing any dirty stuff still clinging around
+the head area.  (Do NOT lubricate. The ink used for dot-matrix printers contains a lubricant.) Finally,
+remount the head and do a self-test or some printing to make sure everything is working properly.  
+
+The need to clean a print head becomes evident when printing shows ill-formed characters.  Characters
+are formed by a series of dots produced by the pins.  Missing dots are the result of sticking pins.  This
+condition becomes more apparent as the head heats up from continuous printing.  The malady is the
+result on a build up of gunk (a mixture of ink, dust, fibers) around the pins which causes them to stick
+instead of "firing" properly.
+
+(From CIVIC 64/128 GAZETTE, June 1997, via the Commodore Information Center
+http://home.att.net/~rmestel/commodore.html )

@@ -1,0 +1,26 @@
+System log for account 962320 (icq) connected at 09.06.2007 09::03::47
+---- +++ 962320 hat sich angemeldet @ 2007-06-09 09:03:47 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-06-09 09:03:48 ----
+---- Dominik wurde untätig @ 2007-06-09 09:03:48 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-06-09 09:06:13 ----
+---- +++ 962320 wurde untätig @ 2007-06-09 09:04:21 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-09 09:20:33 ----
+---- Dominik wurde tätig @ 2007-06-09 09:20:33 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-09 09:21:23 ----
+---- Schööfli wurde untätig @ 2007-06-09 09:21:23 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-09 09:21:34 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-09 09:23:25 ----
+---- Schööfli wurde tätig @ 2007-06-09 09:23:25 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-09 09:38:19 ----
+---- Schööfli wurde untätig @ 2007-06-09 09:38:20 ----
+---- +++ 962320 wurde untätig @ 2007-06-09 09:37:52 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-09 09:49:34 ----
+---- Schööfli wurde tätig @ 2007-06-09 09:49:35 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-06-09 09:55:29 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-09 10:44:18 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-09 10:47:29 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-09 10:48:49 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-06-09 11:25:56 ----

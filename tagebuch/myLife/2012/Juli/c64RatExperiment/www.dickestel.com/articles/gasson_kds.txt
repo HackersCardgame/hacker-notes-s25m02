@@ -1,0 +1,236 @@
+The Sorceress of the Internet
+
+by K. Dale Sidebottom
+
+(Editor's preface: Increasingly, I find Gaelyne Gasson at the center of important events in our eight-bit
+community. She is fast becoming the central nerve network for much of the Commodore world,
+particularly here in North America. I wanted to find out more about her, to let you get to know her "up
+close and personal." For this, we must go to Australia! I think you are gong to enjoy the trip. - KDS)
+
+
+Editor:   At first, you lived in the United States, and Rod Gasson lived in Australia.  I understand that
+you met on Fidonet.  What is Fidonet and how did that work out?
+
+The way Fidonet works on a BBS (Bulletin Board System) is that you phone the BBS with your
+computer and then go to the message area of your interest such as "CBM".  You would then read the
+messages and if you had anything to contribute, reply to the message just as you do with a mailing list. 
+Your message would be saved on the bulletin board computer. Later in the day (usually middle of the
+night), the bulletin board would connect to a "hub" BBS and they would exchange the day's messages
+in all the various conferences.  Eventually (within a few days) the message you responded to would
+arrive on bulletin boards all around the world.  Times have changed a little and now many Fidonet
+messages also travel via the Internet, so it's much quicker than it used to be.
+
+Now when Fidonet was in its hey day, it wouldn't be unusual for there to be hundreds of new messages
+every day in the CBM message area.  Other message areas were equally busy. It could take an hour or
+more a day to read all the interesting messages about Commodore stuff from the world over.
+
+There's a format (called QWK) for BBS messages that allow people to download all their favorite
+message areas (plus any personal mail) in one big "packet" to read and respond to offline. The
+advantage to this is that your phone line wouldn't be tied up for hours on end and you could read and
+reply to the messages at your leisure. And, since the messages were already on your computer, you
+could save them or print them for later use as well.
+
+The problem for a very long time was that this luxury didn't exist at all for Commodore users.  And you
+know how we hate being excluded from having something nice.  We could download the packets, but
+there were few programs that could "unarchive" the packet into its regular files.  Plus, there weren't any
+programs that allowed us to easily read the messages they contained. 
+
+On my own, with a little experimentation I found that most of the text in the packets were just ASCII
+text with some added characters and such for the beginning of each new message.  I used a
+combination of a little program that would convert some of the odd characters used in the format to
+carriage returns.  Then I'd convert the packet to GeoWrite format with WrongIsWrite and read the
+messages.  The downfall is that it didn't really allow me to read AND reply to them.  It did let me do
+lots of neat things that I hope the WAVE will take advantage of in the future though, things like saving
+information to text-albums.
+
+In June 1992, Rod announced his first QWKRR128 program (a native C128 program) that allowed us
+to (at first) read the messages in these packets, and later he added the ability to reply to messages. This
+was a BIG challenge as the reply packet needed to be archived in a format the BBS could accept --
+meaning that it had to be in a non-Commodore format. Today we take some archive formats such as
+Zip for granted, but this was no easy feat.  Thanks to help from George Hug, Rod was able to add a
+feature to his program to create non-compressed zip archives of reply messages in a format the most
+BBS's will accept.  This was a major hurdle.
+
+Until June 1992, I'd never heard of Rod. I just knew there had to be a way to make use of these QWK
+packets on the Commodore and had been using my own combinations of programs to achieve that end. 
+I was just thrilled to bits that Rod had created his program, but I didn't have a C128 and his program
+doesn't work on the 64.  This didn't stop me from sharing my ideas with him in the CBM echo about
+what I thought a good offline mail reader should have, and Rod listened to me and often either used my
+suggestions or he'd already implemented the same things as his thinking has often been similar to mine. 
+(WOW, is it too early to see a budding romance?)
+
+I didn't get to see his program in action until October 1992 when I finally had a C128 of my own. It
+was love at first load. Once I could see the program I had still more suggestions and features that I
+thought would improve on an already pretty awesome program.  The CBM echo was very busy for a
+long time with messages regarding QWKRR, and it wasn't just Rod and I, as many people helped to
+shape the program.  Today we're seeing a similar situation with the WAVE development in the COPS
+mailing list.
+
+In January 1994, an article I wrote about QWKRR came out in BBS Magazine (I had a monthly
+Commodore column in this magazine at the time).  I mailed Rod a copy of the magazine as well as a
+section of my  CMD FD drive manual so he could have it for use with implementing some specific
+things in QWKRR that had to do with FD drive.  As he'd sent me a picture of himself for the magazine
+article (which I had to beg and plead for), and since we'd been pen pals in the CBM echo for so long, I
+also sent him my photo that had been taken for the magazine.
+
+In a message in the CBM fidonet echo on 9 Feb 94, I typed to Rod about how nice his program was
+and how his attitude of liking things to be nice was something that really had shown throughout
+QWKRR128, and in a joking manner suggested that if it weren't for certain circumstances that I'd
+propose to him in an instant.  His reply, on 13 February ONLY included my proposal and the shortest
+message he's ever written to date: "I accept."
+
+After that, we had some private messages on the now defunct 221B Baker Street BBS. We were both
+phoning there long distance, and that wasn't something we could afford to keep up for long.  Eventually
+we began exchanging QWKRR mail packet messages with each other via direct modem calls to each
+other twice a week.  Our public friendship continued and we had a very private relationship of
+friendship and more as well.
+
+In March 1994, I decided to go to Australia and meet Rod, but being practical and cautious we
+decided not to rush things, so I didn't actually leave until April 1995.  We got on so well in person that
+the few weeks stay needed to be extended, so we had it officially extended and I stayed until April
+1996, when according to law, I had to leave. This was really hard for both of us.  Some of my thoughts
+and feelings on this are online at http://gaelyne.com/inoz.html, quoted below.
+-------------------------------------------------------------------
+After spending a year with Rod (from April '95- April '96), I had to leave Australia so that I could
+begin the process of immigration.  I think the day I left had to have been one of the hardest in my life.  I
+don't think anything could have prepared me for the shock of leaving Rod and coming back to the US. 
+It was a difficult time for me. Emotionally, I was kinda on a holding pattern. Physically, I was
+exhausted.
+
+I felt at such a loss not to have him next to me to share things with.  We had (and still have) things for
+which to be grateful for...and one of them is that the Internet exists and we could communicate with
+each other daily, either through Email or chatting with each other online. Still, it can never replace being
+able to share moments, whispers, hugs and kisses.  I enjoyed our silences as much as our discussions.
+
+About the only thing that really kept me going is setting up a new Internet account in the states so Rod
+and I could share mail and so I have both the Australian and CBM echoes to read and participate in. I
+kept busy (or at least out of trouble) by working on Web pages and The Internet For Commodore
+Users book (TIFCU).
+
+While back in the States, I applied for a permanent residency Visa to return to Australia.  The visa I
+applied for was as Rod's "defacto" spouse. In Australia, you don't need to be actually married - if you
+are together for a long time, it's considered the same as if you were actually married.  This really suits us
+as it's as if we've always been together.  We had to supply proof of our relationship and since we had
+messages and letters from people all around the world to both of us, plus phone bills, this wasn't a hard
+task.  
+
+In November 1996, I received a phone call from the Australian Embassy in Washington D.C. asking
+me to arrange for delivery of my Visa, and I arrived in Australia for life on December 13, 1996.  On
+January 24, 1999 I became an Australian citizen. My reasoning for doing so was two-fold. As a citizen
+it means they can never "send me back" (not that there'd ever be a reason to), and I'd be able to vote. 
+As an American, it bugged me that I would have to pay taxes but wasn't allowed to have my say in
+elections.
+
+While waiting for the Visa to be approved in 1996, I took to using Rod's last name as my own.  Once I
+arrived back in Australia, I legally changed my last name to Gasson, as at that point, we were certain
+we'd continue our lives together forever, but not with the piece of paper and ceremony, since it really
+wasn't a requirement.
+
+Get the Rice!!!
+
+We're planning to have our first (and only ever) BBQ in October between our birthdays, and plan to
+have a surprise wedding ceremony during the day.  The date and time is set for October 15th (2000) at
+4 p.m., and we plan to capture the event on the web with one or two webcams if we can manage it. 
+Our webcams also take static JPEG type pictures so there'll be no problem with sharing the event with
+our Commodore friends.
+
+Editor:  I would also like to know what "Videocam" actually is.  Is it a website, an FTP site, an internet
+services business, or all the above?
+
+Actually it's all of the above and more.  In 1991, Rod started "VideoCam Services", a one person small
+business repairing VCRs and camcorders.  Our workshop today is the same as he started back then,
+with a few changes. During slow days and in the evenings, he would work on his QWKRR program. 
+This is much like Maurice Randall's car garage where he works during the day and occasionally works
+on the WAVE. 
+
+When I arrived back in Australia permanently, we changed VideoCam Services to a partnership.  We
+no longer repair camcorders (a change made a couple years ago), but we've expanded our repairs to
+include CDs and DVDs.  This has always been "Rod's side" of VideoCam Services, as he's very
+particular about many things relating to repairs and customers. This is good, because this is where he
+really shines. 
+
+As a business, we also published The Internet for Commodore Users, and once this was published I
+worked towards developing the Internet side of our business. This includes web design and web
+hosting, as well all of our online Commodore support.  
+
+The Internet side of our business has been a slow but steady development. A few years ago the repair
+side was the main income earner, but now both are nearly even. We have three websites that fall within
+the VideoCam Services name, the first one being for our main business (http://videocam.net.au), the
+second for our Web Development (http://vcsweb.com), and the third but largest is our Commodore
+Support site (http://cbm.videocam.net.au).  Of course, with our Commodore Support site and the
+Internet book, we needed a place where people could download Commodore files and so that's where
+the FTP site (ftp.videocam.net.au) stems from.
+
+Originally, the first VideoCam Services website was started before the book was published and was
+hosted with our Internet provider at that time. Not long after the first edition of TIFCU came out, we
+decided to go online permanently, as this allows us to have the most control over our online services
+(including web pages belonging to other people).  It's due to this change that we can have mailing lists
+such as TIFCU and COPS.  
+
+Our Internet work includes setting up and keeping systems running on the server computer.  Rod's very
+good in this area and a good portion of his time is now spent monitoring the various log files and such to
+maintain our server.  My contribution is in designing and maintaining all of our web pages and
+developing sites for our clients.
+
+
+Editor:  Please tell me exactly what it costs for you to help us when data moves through your website? 
+I understand that in Australia, you do have to pay something for data transmission.  How do these costs
+affect your situation?
+
+We did a break down for Email (this includes mailing lists), the Commodore Website, the FTP site and
+Newsgroups for a month.  We excluded  some of the mail for our personal mail.  The amounts are as
+follows:
+
+Mailing Lists           $30.00
+CBM Web site data        60.00
+FTP site data            20.00
+Newsgroup data            5.00
+Total Cost:             $115.00 month 
+
+This totals to about $1380 a year excluding the cost of hardware and modems. About half of this is
+recovered in Commodore Telnet memberships.  Some is also recovered through book and CD sales,
+and of course the Commodore people who've chosen to have their web hosting with us have also
+contributed. 
+
+This is the first that we've ever done a full accounting for our financial contributions of the Commodore
+support, and it's rather sobering.  The expenses could also be looked upon as advertising, support, and
+goodwill.   Still, I'm sure more than a few accountants would look at these figures and tell us we're
+insane.  
+
+In regards to our Telnet memberships, we try to have as many Commodore related newsgroups and
+Fidonet echos online as we can.  As well as having the Commodore mailing lists, we also have the
+comp.sys.cbm and comp.binaries.cbm newsgroups and naturally also have the CBM, CBM-128 and
+CBM-GEOS Fidonet echos available too.
+
+In addition to this, I moderate an echo in Fidonet named CLASSIC_COMPUTERS which is for
+discussion of any older model computer type. It came about because we didn't like emulator discussion
+in the CBM echos.  The messages in the Fidonet areas are sent automatically once an hour to the
+Fidonet BBS system we belong to.  It's now a remarkably smooth system in this regard. Unfortunately
+the Fidonet echos have become smaller because of the Internet but there are still quite a few of us
+Commodore supporters  who participate in them.
+
+Rod's QWKRR128 program is still in use, and can also be used for reading Email and newsgroups
+offline.  The requirement for this is that the Internet provider must have a set up for creating QWK mail
+packets. This is something that's also part of our Telnet memberships, as we do have the required
+program online and at least a couple of our Commodore members download their mail and newsgroups
+to read and reply offline using QWKRR128.
+
+As Rod's time is now spent on other things, we no longer require a shareware fee for his program. We
+made the registration program for it available from our FTP site, and also put the source code
+QWKRR was created with online as well, so that perhaps others interested can expand upon it. I think
+it's really excellent as it is.  The built in editor is as complete a word processor as many commercial
+programs.
+
+Editor:  Thanks again for being such a good sport..  Thank Rod, too!   I know that you would not be
+doing this without his support!!
+
+That's for sure.  I really wouldn't be the same without him.  He's sure been the nicest thing ever to
+happen in my life.  
+
+Cheers,
+Gaelyne
+
+(From June 2000 Lucky Report (Louisville KY), via the Commodore Information Center,
+http://home.att.net/~rmestel/commodore.html)
+
+ (Return to the Commodore Article Index to view the wedding photos.)

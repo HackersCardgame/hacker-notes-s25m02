@@ -1,0 +1,22 @@
+Sat 15 May 2021 09:30:40 AM CEST
+
+
+so ich geh mal pennen, ganz wichtig: auf keinen fall meine Tweets von Heute lesen
+
+https://twitter.com/FailDef/status/1393456881079918593
+
+
+Sat 15 May 2021 09:30:54 AM CEST
+  9  23 176 cyberWAR20210515.txt
+f1d79db18b3e1de451a4dfa7a38395bcdc658aee09410392f025f6b93b63d9598c2d7c76e3e40267225b20e1b5574744b6de542f3d5f9aa7f1fe89ada482304c  cyberWAR20210515.txt
+On branch master
+Your branch is ahead of 'origin/master' by 3 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+Sat 15 May 2021 09:30:57 AM CEST
+ 17  62 552 cyberWAR20210515.txt
+d02ae14c1f62cb39392f7c280bcf6c4aab7582fcca034edfb7718f9c0844325ec5f594fe2fd41bc39935de35bbadddeb669be1fe04bd84d13575e858181b7919  cyberWAR20210515.txt
+[master 605c315] save
+ 1 file changed, 8 insertions(+)
+

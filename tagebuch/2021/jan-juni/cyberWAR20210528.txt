@@ -1,0 +1,125 @@
+
+Fri May 28 05:22:04 CEST 2021
+  52  248 2121 cyberWAR20210528.txt
+
+landev -d (debug modus)
+
+ich habe einen riesen kater obwohl ich weder alkohol nohc dorgen noch medis hatte ausserdem ist mein windows so in einem halben boot loop und bringt den stop code
+
+spekulation:
+chemische waffe / chemische keule (vermutlich remote aktivierbare chemitrode) die gegen mich aktiviert wurde und gelichzitig blackhats der zürich versichrung die sich an meinem endpoint zu schafen machen
+
+spekulation:
+philip lüscher der mit den drei adminsitratotren in der lavine war wo afaik nur philipp überlebt hat wurde auch eine chemische keule übergezogen
+
+sepkulation:
+ihc tippe dass für blums, pfistererr und auch david utz und den polizisten markus belser chemische keule "usanz" ist
+
+kann wer mal rasch einen bluttest mit mir machen?
+
+Fri May 28 05:24:49 CEST 2021
+ 20 125 822 cyberWAR20210528.txt
+[master 2823ee2] save
+ 4 files changed, 22 insertions(+)
+ create mode 100755 TODO/chemische-keule-ev-chemitrode-und-hack.JPG
+ create mode 100755 TODO/crash-boot-loop.JPG
+ create mode 100755 TODO/stop-code-und-scheinbar-kater-obwohl-ich-weder-alk-noch-drogen-noch-medis-hatte-chemische-keulie-questionmark-ev-auch-die-drei-anderen-admins-vor-dem-toedlichen-snowbaord-unfall-questionmark.JPG
+ create mode 100755 tagebuch/cyberWAR20210528.txt
+1852b9c62751bca713c2d5fe7b455e6e2da0b8e3e64f174815ae9bbc58cd49483190a1c72fc1ed3c999922b0ad01bb996dbc3ebc165356e8b4c5a8e8c7297944  cyberWAR20210528.txt
+
+[DELETED] [REBUILT]
+meine hypothese ist ja, dass irgendwelche ungenannten cia / nsa geheimdienste an SCADA Systemen von produktions-strassen herum fummeln. bei sochen situationen greife ich zu coca cola aber nicht das teure sondern das pendant dass viel billiger ist von denner, migros, ...
+
+wenn jetzt da das scada system gehackt wäre, wäre das vermutlcih irgend ein GPIO der steuert wie viel koffeein in so eine flasdche coca cola kommt...
+
+=> ich red bzw schreib mal nicht weiter...
+
+Fri May 28 05:27:40 CEST 2021
+  37  238 1966 cyberWAR20210528.txt
+[master 27f84ef] save
+ 1 file changed, 8 insertions(+)
+ea5fce83a909508eb9cae09e5a8ade2c19a44483f995e161a0efbf61f7b2a1012f6a599af655d31ed8835ed1ac5c3fbf995e32ccc009eb99914f449314075c7b  cyberWAR20210528.txt
+
+DEFCON2
+
+alle paar sekunden induzierte epilepsie bei mir und bilder die eingeblendet werden wie urs blum und martin blum und georg landolt amok laufen...
+
+Fri May 28 07:50:05 CEST 2021
+  47  282 2394 cyberWAR20210528.txt
+[master 3654e8b] save
+ 1 file changed, 6 insertions(+)
+4e47060d05c5ea182be69746247df893c02d128fd3d54ffc654d0f59c8fbe02c34d069464b93d1bea51d06c9ccafcbd715afa7e48ad41c242c4f67bb3e6094b5  cyberWAR20210528.txt
+
+
+2³ = 8
+
+
+spekulation:
+eintragung "hausverbot bei coop" (auch wenn das nicht legitim ist) würde einem auf die todesliste der scheizer armee eintragen?
+
+Fri May 28 11:57:54 CEST 2021
+  60  325 2821 cyberWAR20210528.txt
+[master 9246f5b] save
+ 2 files changed, 156 insertions(+)
+ create mode 100755 tagebuch/asdfasdgfasdgasdg.txt
+c709311fa380236f9973a5b0c3e3fee1b15fc8024ab90dc764289314c59b0146f513517f2e44613aa2e13dd19c752f1ac74d7b7ab71a76832173a9f11d8e6729  cyberWAR20210528.txt
+
+
+priming mit alle paar sekunden / alle [1] paar minuten epilepsie und mord und terrordrohgunen, würde dann darin gipfeln dass der postbote etwas untolles macht oder irgend so etwas
+
+[1] mir in die lippe gepissen...
+
+Fri May 28 12:16:30 CEST 2021
+  72  384 3365 cyberWAR20210528.txt
+[master 45543bc] save
+ 1 file changed, 6 insertions(+)
+4711049e62f548b6eabb7cd289e8fd90d49373be4858e11809b6ec7da266da7a6012a34738b7e32def7b8a2a8b269db98ef9d400a19344ce7d07163a60774d84  cyberWAR20210528.txt
+
+kommt bei tor node reboot?
+
+Fri May 28 12:17:19 CEST 2021
+  80  409 3666 cyberWAR20210528.txt
+[master 825aac0] save
+ 1 file changed, 5 insertions(+)
+25035a99cd97387fcbc472ab950fc52fe96fe179f872a81cece1d404fc6c3f1c24092d2b902c236a0a5acf991880207152275b3998ba6155648a270b868e51cb  cyberWAR20210528.txt
+
+urs blum an alle um hhärdi und häfliger:
+wenn ihr den mord an [BREAK] tobias moser nicht floppy anhängen könnt geht halt ihr für euren mord in den knast <- ich: ich vermute das ist ein mordauftrag von urs blum gegen mcih, urs lbum leakt ausserdem, dass härdi bei tobias moser footpritning gemacht hat --- apropos lampen die tobias moser bei martin häfliger installiert hat
+
+häfligier sist bei militärischen abschirmidensst
+der militärsihce abschrimdienst funtkoniert schienbar so, dass wenn ein agent aufgelfogen ist kontaktiert er sein ziel (das wäre vermtulcih nach dem tobias moser ich) nicht mehr und mahct auf "gedeckt getarnt"
+
+Fri May 28 18:03:52 CEST 2021
+  92  530 4584 cyberWAR20210528.txt
+[master bf8f421] save
+ 1 file changed, 9 insertions(+)
+06314a8e246907dc6723ceb784f5738675919b6b2bd5d6dff4a4f922e7bdc0c4852ecf52128b52e269a347a19cb652e4f2b118379bcc96c58532d19d33410d25  cyberWAR20210528.txt
+
+
+militäriscdher abschrimdienst <-> Kaufmännsiche Ausbildung <-> OFFICeier
+
+
+- viele aber nicht intelligent
+- portfolio an cyberwaffen die sie immer und immer wieder brauchen und so den source verraten
+- diskrete mathematik <=> vermutlich käufliche produkte / käufliche malware 
+
+häfliger hat das ganze OR und kv verraten, reverse / forward contacting 
+utz david <-> häfliger <-> astrid <-> solitaire spieler (super duper tarnung)
+
+Fri May 28 18:23:55 CEST 2021
+ 109  612 5294 cyberWAR20210528.txt
+[master db2725d] save
+ 1 file changed, 7 insertions(+), 5 deletions(-)
+a19d4c396961dd9bb40d45b5a2e09d7923b83293162c515ee2a0f1df3ec120ad2b6c6dce505eabb56013905759f824008e79431282389d6756e0742d5e7db227  cyberWAR20210528.txt
+
+
+digest access was der gabriel riela erwähnt hat wäre somit kv maus-gesten schreibtishc täter
+
+KV = kaufmännishce ausbildugn...
+
+Fri May 28 18:27:07 CEST 2021
+ 120  652 5716 cyberWAR20210528.txt
+[master 9dfa2e9] save
+ 1 file changed, 6 insertions(+)
+78ce94ca9897ab3f883fff8927a86a1828bca6e2ea0635aa9791a7c388d763d30495718ec2d54fcc788fbc9b122be6cc572e8a518e796d00f98de76bed5d3bc2  cyberWAR20210528.txt
+

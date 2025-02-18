@@ -1,0 +1,111 @@
+System log for account 962320 (icq) connected at 25.02.2007 14::52::17
+---- +++ 962320 hat sich angemeldet @ 2007-02-25 14:52:17 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 14:52:17 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-02-25 14:52:17 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 14:52:17 ----
+---- dikyangel wurde tätig @ 2007-02-25 14:52:17 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 14:57:22 ----
+---- Schööfli wurde tätig @ 2007-02-25 14:57:22 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 14:58:55 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 15:50:43 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 15:58:00 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 15:59:56 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 16:03:11 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 16:35:29 ----
+---- vortex hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 16:40:02 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 17:04:58 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-25 17:06:03 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-25 17:07:03 ----
+---- stefan hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 17:09:14 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 17:09:52 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 17:10:30 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 17:11:04 ----
+---- vortex hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 17:15:32 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 17:15:59 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 17:21:41 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 17:33:39 ----
+---- +++ 962320 wurde untätig @ 2007-02-25 17:36:36 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 18:05:15 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 18:08:22 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 18:08:34 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-25 18:27:01 ----
+---- shrike wurde untätig @ 2007-02-25 18:27:01 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-25 18:27:25 ----
+---- shrike wurde tätig @ 2007-02-25 18:27:25 ----
+---- +++ 962320 wurde untätig @ 2007-02-25 18:37:09 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 18:56:06 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 19:00:09 ----
+---- +++ 962320 wurde untätig @ 2007-02-25 18:50:12 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-02-25 19:06:05 ----
+---- dikyangel wurde untätig @ 2007-02-25 19:06:05 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-02-25 19:06:19 ----
+---- dikyangel wurde tätig @ 2007-02-25 19:06:19 ----
+---- +++ 962320 wurde untätig @ 2007-02-25 19:03:38 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-25 19:14:55 ----
+---- shrike wurde untätig @ 2007-02-25 19:14:55 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 19:25:14 ----
+---- Dominik hat den Status von Abwesend zu Offline geändert @ 2007-02-25 19:50:35 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-02-25 19:50:37 ----
+---- Dominik wurde tätig @ 2007-02-25 19:50:37 ----
+---- Dominik wurde untätig @ 2007-02-25 19:51:10 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-02-25 19:52:19 ----
+---- dikyangel wurde untätig @ 2007-02-25 19:52:19 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-02-25 19:52:21 ----
+---- dikyangel wurde tätig @ 2007-02-25 19:52:21 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-25 20:02:47 ----
+---- shrike wurde tätig @ 2007-02-25 20:02:47 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 20:27:28 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-02-25 20:34:13 ----
+---- dikyangel wurde untätig @ 2007-02-25 20:34:13 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-02-25 20:34:15 ----
+---- dikyangel wurde tätig @ 2007-02-25 20:34:15 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-02-25 20:35:19 ----
+---- dikyangel wurde untätig @ 2007-02-25 20:35:19 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-02-25 20:35:35 ----
+---- dikyangel wurde tätig @ 2007-02-25 20:35:35 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-25 20:39:57 ----
+---- Schööfli wurde untätig @ 2007-02-25 20:39:57 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-02-25 20:46:29 ----
+---- dikyangel wurde untätig @ 2007-02-25 20:46:29 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-02-25 20:46:31 ----
+---- dikyangel wurde tätig @ 2007-02-25 20:46:31 ----
+---- +++ 962320 wurde untätig @ 2007-02-25 20:37:11 ----
+---- Schööfli hat den Status von Abwesend zu Nicht verfügbar geändert @ 2007-02-25 20:59:57 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 21:00:03 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-25 21:06:06 ----
+---- Dominik wurde tätig @ 2007-02-25 21:06:06 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-25 21:07:26 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 21:11:23 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-25 21:15:27 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-25 21:16:27 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-02-25 21:19:13 ----
+---- dikyangel wurde untätig @ 2007-02-25 21:19:13 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-02-25 21:19:23 ----
+---- dikyangel wurde tätig @ 2007-02-25 21:19:23 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-25 21:21:12 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-25 21:23:05 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-25 21:23:07 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-25 21:30:10 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-25 21:30:10 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 21:30:51 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-25 21:32:12 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 21:33:59 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-25 21:42:12 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-25 22:04:20 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-25 22:04:24 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-25 22:05:42 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 22:08:02 ----
+---- Schööfli hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-02-25 22:08:40 ----
+---- Schööfli wurde tätig @ 2007-02-25 22:08:41 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 22:09:57 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-02-25 22:10:04 ----
+---- Dominik wurde untätig @ 2007-02-25 22:19:42 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-02-25 22:23:06 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-02-25 22:25:16 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-02-26 18:24:03 ----

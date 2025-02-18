@@ -1,0 +1,42 @@
+(Editor's preface: The following first appeared about 1990 and is presented here for its historical
+interest to the Commodore world, although the disease described is still prevalent, and is chronic
+among users of high-end PCs)
+
+TECHNOLUST THREATENS AT PC SIG MEETING
+
+by Dick Estel
+
+Technolust (n): An unreasonable desire to purchase the "latest and greatest" hardware for your hobby,
+regardless of your true needs.
+
+If you fear this disease, stay away from the Fresno Commodore User Group/64UM PC SIG meetings. 
+Never was an event more likely to inspire that dangerous feeling. 
+
+In January, Ken Brown demonstrated geoWorks Ensemble, the GEOS of the PC world.  This is a
+program that offers the Commodore 64/128 user an easy transition into the PC world, but goes well
+beyond what can be done with the Commodore.  
+
+With greater speed and a finer monitor dot pitch, there is a major improvement in the sharpness and
+clarity of the screen display.  On the '286 machine used for the demo, the screen redraw was not
+significantly faster than with Commodore GEOS in a RAM expander.  But Ken assured us that speed
+was noticeably greater on his '386 PC.
+
+The major features of Commodore GEOS have been improved and added to in the PC version.  For
+example, in the drawing program, the tool box may be moved around.  Pull-down menus may be
+"locked" open, and can then be moved around if they are in the way.  You can switch back and forth
+instantly from one data file to another.
+
+The PC GEOS drawing program is object-oriented, which means there is no pixel edit and no erase
+(somewhat similar to geoPublish).  Of course, you can get a PC paint program and import the edited
+artwork into GEOS.  You can also convert all your present Commodore GEOS art to PC GEOS
+format, so you could even do your editing with the Commodore.  
+
+The printout on a dot matrix printer is laser-quality; in fact, reviews of Ensemble in the major magazines
+have praised its print quality as one of its best features.  We were fortunate to see it demonstrated with
+a Laser printer, and the output is outstanding.
+
+Now, how do I go about conquering that dangerous desire I feel stirring?  All I have to do is look
+around at the excessive number of Commodore computers I own, and realize that I have to wait till I
+use them up before I get anything new.
+
+(Editor's epilog: PC GEOS of 1990 sounds a lot like Windows 98!)

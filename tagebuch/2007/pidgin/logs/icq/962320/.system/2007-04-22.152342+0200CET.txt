@@ -1,0 +1,7 @@
+System log for account 962320 (icq) connected at 22.04.2007 15::23::42
+---- +++ 962320 hat sich angemeldet @ 2007-04-22 15:23:42 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-04-22 15:23:43 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-04-22 15:23:43 ----
+---- tdr-timon hat den Status von Offline zu Verfügbar geändert @ 2007-04-22 15:23:43 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-04-22 15:23:43 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-04-22 15:25:42 ----

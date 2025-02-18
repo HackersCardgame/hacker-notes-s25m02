@@ -1,0 +1,48 @@
+THE WRITE STUFF SORTING FEATURE
+
+by Dick Estel
+
+Ever wish you could quickly and easily alphabetize a list? Most word processing programs allow you to
+do this. The Write Stuff does it and with a couple of extra bells and/or whistles.
+
+To sort a list, you have to use the "eat text" feature. This can be a little scary (will it give me back my
+processed words?)--but always be sure to SAVE your document first and you can reload it if
+something goes wrong.
+
+Most word processing sort features work on lists which have returns after each item (such as a list of
+club member names) and TWS is no different. If I tried to alphabetize this article, it would re-order the
+PARAGRAPHS by the first letter in each one. If I wanted to alphabetize every word, I would need a
+return after each word.
+
+Once you have typed your list (and SAVED it), type [CONTROL] e and then continue to press p (for
+paragraph) to "eat" all the items you want sorted. Next, hit the back arrow, followed by [CONTROL]
+[SHIFT] r. A prompt will appear at the top allowing a choice between A-Z or Z-A sorting. Next you
+are offered a choice of sorting on column 1 through 10. This is a feature most Commodore word
+processors I've seen don't offer. It's really great if you want to alphabetize a list of names by last name,
+but have them appear in normal order (John Doe, Joe Dokes, etc.) By selecting column 2, TWS will
+alphabetize by the second word in each column. If you have names with middle initials or such names as
+J. Pierpont Morgan or Henry David Thoreau--a second column sort would use Pierpont and David.
+The Write Stuff even has a way to get around this--just use a shifted space between the first and middle
+name and the sort routine will treat the two words as one.
+
+Thus you would type Henry, hold down the [SHIFT] key while pressing the [SPACE BAR], then type
+David Thoreau normally. TWS will see Henry David as the first "column" and Thoreau as the second.
+
+Once you select the column to sort on, press return. The screen will flash for a while and your list will
+magically reappear in the desired order.
+
+The "eat text" feature places the data in a 9K buffer, so in the case of a very large list, you might have to
+do several partial sorts and combine them. This should not be a frequent problem for most users, but I
+have done it successfully; you just need to think about what you are doing. TWS 128 gives you a larger
+buffer than the 64 version.
+
+When using this feature (or any aspect of the "eat text" option), remember that once text is in the buffer
+and you return to edit mode, eating even a single additional character will ERASE everything in the
+buffer! If you need to collect items from different parts of the document for sorting (or moving, copying,
+etc.), use [CONTROL] [SHIFT] E and it will retain the previous data and add the new data to the
+buffer. Note that previewing the document will also erase the contents of the buffer!
+
+(Sorting is covered on page 23 of TWS 64 manual; eating/restoring text on pages 12, 19 and 23.)
+
+(From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html)

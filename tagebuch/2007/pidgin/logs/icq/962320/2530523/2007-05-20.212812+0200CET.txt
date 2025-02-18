@@ -1,0 +1,18 @@
+Conversation with 2530523 at 20.05.2007 21::28::12 on 962320 (icq)
+(21:28:44) shrike: wie nennt man das aufsetzen von betriebssystemen über's netzwerk auf mehrere pc's gleichzeitig? :)
+(21:28:53) landev: multicast
+(21:29:04) landev: oder slip stream... 
+(21:29:12) shrike: hm
+(21:29:21) landev: je nach dem ob mit image oder per unatendant installation
+(21:29:28) shrike: weiss ich nimma
+(21:29:33) shrike: 9 jahre her :)
+(21:30:02) shrike: wir hatten dazu en programm verwendet hmm
+(21:30:04) landev: gut, so kompliziert isch das jo nid
+(21:30:05) landev: ghost
+(21:30:06) shrike: war aber ned ghost
+(21:30:10) landev: hehe..
+(21:30:12) shrike: irgendwas mit open oder könnte es oracle gewesen sein?
+(21:30:26) shrike: jojo war easy
+(21:30:32) shrike: aber muss ja sagen was ich da gemacht hab
+(21:30:34) landev: anwender...
+(21:30:42) landev: so supporter gits wie sand am meer...

@@ -1,0 +1,66 @@
+Coping With Font ID Numbers
+
+by Dick Estel
+
+Recently a co-worker of mine, Steve Jones, was sitting in the waiting room of his lawyer's office.
+Another man was also waiting. The receptionist came to the door and called, "Steve Jones." Both men
+stood up.
+
+This is not a particularly unusual occurrence with a name like Jones, but it doesn't happen every day
+either. All this is a roundabout way of pointing out the confusion that occurs because we have millions
+of people in the world but relatively few names by which we are identified. To get around this, the
+government and most of the businesses we deal with identify us by a unique number.
+
+The same confusion can exist in the GEOS world when an application calls for a font. Sensibly, the
+programmers at Berkeley Softworks identified fonts by number. Unfortunately, nothing was done to
+prevent assignment of duplicate ID numbers. And since the maximum font ID number is decimal 1023,
+duplication is inevitable as the number of fonts increases.
+
+The situation was made worse by the method used by Arthur Dahm III's geoFont program to display
+the font ID--it shows only the low byte (last two digits) of the four-digit hexadecimal ID number. This
+forced font designers using this program to assign a number between 0000 and 00FF, which translates
+to 0 to 255 in decimal. Thus four or five hundred fonts were created using only the first 255 available
+ID numbers.
+
+Most of the time the end user could care less what the font ID number is. You click on the desired font
+name, and that's what you get. But if you have two fonts with the same ID number on your disk, GEOS
+will use the first one, regardless of what you had in mind.
+
+I first became aware of the profusion of duplicate ID numbers when I started compiling the GEOS Font
+Resource Directory, which is essentially a printout of various fonts. In addition to showing users of the
+directory what the font looked like, I wanted to list the ID, to help identify situations where two fonts
+had the same number. At first I was not even aware that some editors display the ID in hex and some in
+decimal, so I listed some incorrect ID numbers. Once this was sorted out, my next lesson was about the
+situation with the two-digit numbers versus four-digit.
+
+After I had learned all this, I started revising the index to my directory, to include a listing by decimal,
+and a listing by correct four-digit hex numbers.
+
+The tools I used for this were Jim Collette's Font Editor, which displays the number in decimal, and a
+printed conversion table to determine the full hex number. This was a long, tedious process, but the
+result was a listing of over 1,000 GEOS fonts with the (hopefully) correct decimal and hex ID numbers.
+      
+Some users of the Directory suggested that I become a clearing house for GEOS font ID numbers.
+That is, I would assign unused ID numbers for new fonts. There are some obvious problems, not the
+least of which is getting all those people making fonts to cooperate! So I declined this honor.
+
+The best suggestions I can offer are these: If you are creating fonts, use decimal ID numbers of 300 and
+above. This will greatly reduce the chances of duplication, although there are many fonts with these
+numbers in the directory. At least you can avoid using numbers like 00AD (173) which has been used
+at least 15 times or 0068 (104) which shows up six times in my directory. Also don't use 400, 500 or
+1000, which have been assigned to a large number of fonts. By the way, you CAN'T assign an ID
+number higher than FF with geoFont, since it will only accept two characters.
+
+For users who have two favorite fonts with the same number, simply use a font editor or an ID edit
+program to change the ID number. After all, even when you have over a thousand fonts available, as I
+do, you probably will use only a dozen or so for most of your work. The early version of Jim Collette's
+editor, 2.2, was available in the public domain when this article was first published. Although it does not
+have all the features for creating and editing fonts that are found in the later commercial versions, it is
+certainly adequate for changing ID numbers. There was also a PD ID edit program that runs from
+BASIC.
+
+The problem with ID number duplication has gone on too long to be undone. The best solution is to be
+aware of it, and have the tools to change ID numbers where necessary.
+
+(Via the Commodore Information Center, http://home.att.net/~rmestel/commodore.html; originally
+published in 1990 by GeoWorld Magazines)

@@ -1,0 +1,26 @@
+Physik-Vorlesung / Physik-Jeopardy:
+Wie wird Druck(wellen) in verschiedenen Medien übertragen
+
+Informatik-Vorlesung / Informatik-Jeopardy:
+Wie modelliert man solches am Computer (Stichwort Finite Elemente)
+
+Medizin-Vorlesung / Medizin-Jeopardy:
+Was ist ein THS / prä-2020-Neuralink?
+
+Psychologie-Vorlesung / Psychologie-Jeopardy:
+Wie motiviert man das Kind dazu?
+
+Jus-Vorlesung / Jus-Jeopardy:
+Wer motiviert das Kind dazu?
+
+
+Schi Schi Schi, ich frage mich gerade, ob man mit so etwas als eingebauten Lügendetektor modden und "brauchen" könnte, für Kinder ähm Verdingkinder ähm Laborratten...
+
+(Zynismus, aber meiner Meinung nach ist ab 1950er (Stimoceiver, Donaled Ewen Cameron im Burghölzli, ZH) genau solches gemacht worden, und das jetzt in der Presse öffentlich dokumentierte: "Die haben Medikamenten-Experimente an Verdingskinder gemacht" ist nur ein Obfuscation-Pattern um von genau solchem abzulenken. Bzw. kamen schon Medikamente zum Einsatz, denn bei grösseren Neurologischen Eingriffen, wären auch zu erwarten, dass z.B. Motorische Störung oder veränderte Wahrnehmung auftreten. Da blame't man dann einfach die Medis dafür, bis die Regelkreise "justiert" sind.
+
+Dazugehörige Software (Regelkreis):
+Guter UseCase: Kind dazu bringen nicht mehr zu lügen.
+Schlechter UseCase: Kind dazu bringen nur noch zu lügen.
+
+Und NEIN, ich würde nie einem Menschen so etwas antun, könnte ich auch nicht, denn sobald ich Blut sehe kippe ich um (Hämaphobiker)
+

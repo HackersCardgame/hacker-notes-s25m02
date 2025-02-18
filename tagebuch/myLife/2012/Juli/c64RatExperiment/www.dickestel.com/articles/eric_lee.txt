@@ -1,0 +1,88 @@
+Who Is Eric Lee?
+
+By himself 
+(creator of The Write Stuff word processor series)
+
+PART I
+
+An exceptionally dull child, I was thought to be backward and uneducable. I never read books, asked
+questions, or did homework. In high school I made an effort, despite a lack of encouragement, to do
+better, and in my senior year I managed two A's (first in 12 years).
+
+I persisted in my efforts by going to a community college. Self-supporting, I did farmwork during the
+summers and lived on the streets in a camper I built on an old pickup truck to minimize expenses. After
+three years of slow progress I dropped out for six years, during which time I continued to spend
+summers "on the road" as a migrant farm worker (a fruit tramp--no truck, bedroll only). Winters (in
+California there are really only two seasons) were spent living in my truck on the streets of Isla Vista (a
+student "Ghetto" near the University of California at Santa Barbara campus), where I generally spent
+ten to fourteen hours a day in the university library pursuing whatever interested me at the time
+(science/philosophy mostly). Since I had no Job, belonged to no groups, and spoke only if spoken to, I
+was socially isolated for extended periods (once lost my voice from disuse).
+
+One fall I was returning to California from picking apples in upper state Washington, sitting in a boxcar
+watching the Oregon landscape pass by, when a thought of going back to school crossed my mind. I
+enrolled in a state University (Cal Poly), where I did surprisingly well (3.6 GPA). Three years and two
+degrees later (crop and soil science), I dropped out again. Several professors encouraged me to pursue
+advanced degrees, but I was burned out at the time on formal study and spent a year reading
+philosophy (and a few months of farm work before an illness forced me to retire).
+
+Needing a creative outlet, I got a Commodore 64 and lacking software, taught myself to program in
+BASIC and eventually ML. When my limited funds ran out, I took a job as a teacher's aide working
+with LH (learning handicapped) children (after all, I had been one). While at a seminar on computer
+applications for LH children, I saw a talking word processor for the Apple computer that sold for 300
+big ones. I thought this an outrageous price. I could write a better talking WP and sell it for a lot less,
+said I. This led me to think about word processors in general, and how I would design one. I thought
+about WP designs for about six months; then, at the end of the school year, I moved to Santa Barbara,
+where I lived on the streets in my truck next to a lovely park about three blocks from the city library.
+
+When I say I lived on the streets, don't imagine I suffered any deprivations (except social -- would you
+think well of someone living on the streets?). I typically went to the beach at about 9each morning,
+where I would jog a few miles, then go for a swim in the ocean (after which the outdoor shower felt
+warm). Ater an hour or so lying on the beach, I would return to my truck (I had a bicycle) to get my
+trusty SX-64 and go to the library, where I worked until it closed. This was how I lived, without
+income, for a year and a half while I coded The Write Stuff (TWS 64).
+
+I had an inverter in my truck which allowed me to run the SX-64 and a printer on batteries to print
+documentation and letters. A 24-pin printer was the best I could afford so the first edition of the manual
+was regrettably crummy looking. I spent all but about $200 of my life's savings to mail out nearly 1000
+demo copies to user groups. One advantage of studying philosophy is that one is never perturbed by
+the little things like being broke. I was honestly much more interested in seeing if my concept of user
+distribution would work than in making money. In a couple of weeks, orders started coming in. Living
+on the streets soon became impractical, and I rented my first apartment in Lompoc (low rent area),
+where my parents live. The rest is history.
+
+PART II
+
+About 250 user groups ended up becoming Userware distributors. Many sold over 50 copies and a
+dozen or so sold over 100, so business was good. I have a wall map bristling with pins showing where
+each group is located. The success of TWS was due largely to user group support and promotion, so
+many thanks to all user groups and their members. 
+
+In 1991 a Commodore user showed up at our local user group meeting with her 10 year old daughter
+in tow, looking for some assistance. I was able to be of some help, and sent her home with a copy of
+TWS. One glance at the manual, however, and she realized that she would need special user support --
+possibly forever. We were, therefore, soon married. We now have a three-year-old son. Ain't
+Commodore wonderful? 
+
+My wife, Sue, wanted to live in the country, so two years ago we moved near the small town of St.
+David in Southeast Arizona. We bought some land along the San Pedro River that includes a three acre
+wetland. We hope to build a straw bale house on part of it some day, and manage the rest as a private
+nature preserve. Currently, we are leasing a 145 acre farm, farmhouse, and country feed store about 12
+miles north of Tombstone. Sue runs the feed store while I do the farming (forage crops -- making hay
+while the sun shines), when not filling the occasional TWS order or providing user support, which I can
+and will do indefinitely. Alas, being married with children has proved incompatible with doing serious
+programming. My life as a programmer appears to be over, which is just was well, as I have other lives
+to live. 
+
+
+Editor's notes: The first part of this article was originally published in the B-Bug newsletter November
+1990 and is reprinted from the November 1996 Mailink, the newsletter of Meeting 64/128 Users
+Through the Mail. Mailink contacted Eric and requested an update; the result was published as Part II
+in the January 1997 Mailink.
+
+Fresno Commodore User Group is part of the history Eric refers to. We were sent one of Eric's demo
+copies in late 1987 or early 1988, and decided to offer it through the group, on Eric's "userware" plan.
+We've sold dozens of copies locally and to users around the country who are isolated from other
+Commodore users.
+
+From the Commodore Information Center http://home.att.net/~rmestel/commodore.html

@@ -1,0 +1,35 @@
+Halli Hallo Markus
+
+ich hätte auch schon ein Thema für das Vegetarier-Grillen:
+
+CANBUS-Attacks
+
+@ Nico: Wasser SCADA System Suhr: ich hatte damals so ein "Bisschen" das Gefühl dass die Brunnen-Meister sich da ein "Bisschen" zu wenig damit auskennen
+
+aber zurück zum Vegetari[sche|er]-Piraten-Grillen
+
+Du beschäftigst Dich ja mit Tesla, da wäre es auch interessant zu wissen was da für einen Feld-Bus in dem Ding drin ist ... 
+
+
+Spekulation:
+wie bei Intel CPU's wo zuerst vorallem das Betriebssystem exploitet wurde und sich dann das immer mehr richtung Hardware gefressen hat (Sceptre, Meltdown ist wäre ja auch zu erwarten, dass der grosse ungenannte Geheimdienst dieser Sorte von Amerikanern sich mit Dingen wie STUXNET auch z.B. in Richtung z.B. Hardware der BusMaster Devices von CAN-BUS, PROFI-BUS, Inter-BUS und solchem durchfressen würde ...
+
+So weit mal Spekluation, aber Du arbeitest ja auch mit so Solarzellen-BUS-Systemen, also hast Du da sicher mehr Ahnung als ich, und wenn ich falsch liege auch gut, aber wenn nicht und man hat irgend ein SCADA System dass bei Migros, Coop, Denner, Aldi, Lidl z.B. so billig-Cola zusammen panscht, und diese Sorte von Amerikanern könnte da an den Parametern herum fummeln und die LD50 von Koffein ist gar nicht so hoch *paranoider Blick von mir in Richtung meines M-Budget-Energy-Drinks der grad auf meinem Tisch steht...*
+
+Dann war ja auch in der Presse, dass ein Tesla von selber oder von "selber" abgefackelt ist in einer Garage, wie gut ist da z.B das Steuer/Ladegerät abgesichert, weil wenn man z.B. mit einer Tesla Batterie das selbe machen würde wie STUXNET mit den Atom Zentrifugen ... nur Spekulation, ABER ABER ABER ... Du bist da der Profi ...
+
+Gruss und bis Morgen 18:00
+
+Marc jr. Landolt
+eidg. nölneder dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau
+062 822 61 31
+078 674 15 32
+
+PS: ACHTUNG, wenn ich recht habe mit meiner paranoiden Spekulation würden die dann allenfalls HUMINT aktivieren und man würde zum Alkaida-Vergewaltiger-Terrorist "upgegraded" wie der Julian oder der Jacob Applebaum oder der Grapschi.
+
+FUNFACT:
+Julian Assange habe das ... so manipuliert, dass das beim ... reisse, soll mir mal ein Materialwissenschaftler erklären wie das gehen soll dass das nicht schon beim Überstülpen reisst...
+
+

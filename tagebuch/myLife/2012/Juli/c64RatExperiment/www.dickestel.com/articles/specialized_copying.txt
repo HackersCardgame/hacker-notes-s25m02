@@ -1,0 +1,37 @@
+Specialized Copying
+
+by Dick Estel
+
+Most of the time any old copy program will transfer data from one disk to another, whether it be
+floppy, hard drive or virtual disk in a RAM expander.
+
+However, there are a number of specialized copying jobs that require specific tools. One notable
+example is GEOS file copying. If you ever tried to use an ordinary file copier to copy GEOS files, you
+discovered that while there were files on your target disk, there was nothing usable.
+
+The unique structure of GEOS files requires that they be copied only within GEOS. The reverse is
+NOT true...GEOS will successfully copy files of most any type.
+
+A GEOS whole disk copy is not a problem; most standard disk copy programs will copy GEOS data
+disks correctly. In the case of system (boot) disks, or disks containing protected applications such as
+geoWrite, the copies will not work unless "treated" with Maverick or other parameter copying systems;
+or copied with a specialized program of some kind.
+
+Setting up a working GEOS program on a Creative Micro Designs hard drive requires the use of
+Maverick (at least if you use the method in the hard drive manual). The latest version of Maverick will
+not work with the hard drive turned on; it is necessary to fall back on the older version 3 or 4 to
+complete this task.
+
+Another specialized area is the copying of 1571 disks. I have only used one program that will copy a
+full two-sided 5.25" 1571 format disk. This is Fast Hack'em 128, V6.0. You could do this with GEOS
+if you have two 1571's, but it is very slow (when GEOS does a disk copy it is actually a file copy
+process). If you don't have this version of Fast Hack'em and need to copy a full 1571 disk, you can
+just use any file copier to copy all the files to a blank, formatted disk. 
+
+However, I had one copy job that could be done only with Fast Hack'em: This was when I set up
+Personal Ancestral File, a CP/M program. The disks are designed for use on Osborn, Kay-Pro, and
+C-128 computers but I needed to keep the originals unchanged as backups, so copies were needed.
+It's unlikely that most users will be in a situation where full disk copying is their only option. However, if you have a copying problem, see if the solution is here.
+
+From "The Interface," newsletter of Fresno Commodore User Group, via The Commodore
+Information Center web site (http://home.att.net/~rmestel/commodore.html) 

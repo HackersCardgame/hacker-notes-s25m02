@@ -1,0 +1,41 @@
+JPEG Conversion Comes to Commodore 
+
+JPEG images are a common format for the PC (the letters stand for Joint Photographic Experts Group,
+and organization that developed this and other computer file formats). Until recently getting a JPEG
+(AKA JPG) file into Commodore format involved at least one intermediate conversion. 
+
+There are at least two programs to do direct JPG to GIF files for the Commodore. One is available
+without charge from Gaelyne R. Gasson's web site.
+
+Here are her comments:
+
+This utility will convert .jpg images to .gif format. It is offered with no guarantees.
+
+The file must be available via FTP or the Web, and the converted GIF file is always named "file.gif", so
+you'll need to save it with a different name if you intend to convert more than one image.
+
+The utility is rather unforgiving, so if you get a file with zero bytes back, check the URL carefully to
+make sure it is correct. Always remember to add the 'slash' at the end of the URL as shown in the
+example, and don't forget to check whether the .jpg extension is lower or uppercase (.jpg is not the
+same as .JPG).
+
+You can use the example as a test if you like - it's a photo of our home.
+
+Example format:
+
+URL : http://videocam.net.au/images/ 
+Filename : house.jpg
+
+To check out this utility, go to http://cbm.videocam.net.au/ then find the JPEG CONVERSION link.
+(You can't access it with a graphic browser, it's just for text-based browsers, which of course you will
+be using if you are accessing the site with a Commodore.) 
+
+And another note from Gaelyne:
+
+Stephen Judd, the smart guy who now edits C= Hacking has just posted a URL to a web page about a
+very new JPEG program for the C=.  It's early days and has a few rough edges, but once again, the
+word impossible has been changed to "oh yea, we can do that too."
+
+The URL is:
+
+http://www.ffd2.com/fridge/jpeg/ 

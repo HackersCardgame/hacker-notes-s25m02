@@ -1,0 +1,22 @@
+Stellenbeschreibung:
+Neben einem tollen Team <font color=red> (ist das Team toll oder haben die den letzten Vergrault und drum den Job ausgeschireben</font> bieten wir viele aufregende Aufgaben in einer der größten Unternehmen Deutschlands, mit einer vielfältigen digitalen Landschaft, die nahezu alles an technischen Herausforderungen mitbringt, die man sich als Security Expert:in nur vorstellen kann – versprochen!
+
+Zum nächstmöglichen Zeitpunkt suchen wir dich als Cyber Defense Expert:in (w/m/d) für [...]
+
+Dies ist ein "Wo du Willst-Job": In Abstimmung mit deiner Führungskraft kannst du deinen Arbeitsort innerhalb Deutschlands selbst disponieren und zwischen mobilem Arbeiten und Arbeiten im Büro wählen.
+
+Deine Aufgaben:
+    Du schützt im Team [...] vor Cyber Angriffen, entwickelst dabei geeignete Maßnahmen zur Erkennung, Aufklärung und Abwehr von Cyber Angriffen und du treibst mit uns gemeinsam die operative Cyber Defense [...] voran
+    Hunting & Incident Response – du entdeckst IT-Sicherheitsvorfälle und steuerst die operative Bewältigung
+    Security Analytics – du analysierst große Datenmengen (mehrere TB/Tag) zur Erkennung von Vorfällen
+    Security Automation – du automatisierst die Behandlung oder reicherst bekannte Alarmtypen an
+    Digital Forensics & Reverse Engineering – du wertest "Tatmittel" zur Aufklärung eines Vorfalls aus, zerlegst Programme und verstehst deren Inhalt
+    Threat Intelligence – du erhebst, erlangst und tauschst Indikatoren für auffälliges Verhalten aus
+
+
+Dein Profil:
+    Basis deines Werdegangs ist ein erfolgreich abgeschlossenes Studium, idealerweise mit technischem Hintergrund. Alternativ bringst du eine abgeschlossene Berufsausbildung mit
+    Du bist begeisterter Security Experte mit mehrjähriger praktischer Erfahrung und hast dein Hobby zum Beruf gemacht
+    Du kennst die Mittel und Taktiken der Angreifer und findest auch die Nadel im Heuhaufen
+    Einzelgänger sind bei uns fehl am Platz, denn der Spirit und der Zusammenhalt in unserem Team steht für uns an oberste Stelle. Wir bieten eine angenehme und vertrauenswolle Arbeitsatmosphäre im Team, wo sich jeder auf den anderen verlassen kann
+    Fließende Deutschkenntnisse runden dein Profil ab

@@ -1,0 +1,6 @@
+Tagebuch Thu 11 Jun 2020 03:23:09 PM CEST @ debian
+
+unknown:
+as soon as the tor node disapears for more than 24h the leaks are sent...
+
+

@@ -1,0 +1,31 @@
+The Golden Age of Computers 
+
+by Dick Estel
+
+In his regular column in the December, 1990 issue of RUN magazine, Editor-in-Chief Dennis Brisson
+laments the fact that the promised golden age when computers are in most homes has not yet arrived.
+
+While there is some truth in this statement, I think Dennis is using a definition of computers that is too
+narrow.  Of course, considering the magazine's focus, he is referring to a device that include a
+keyboard, processing unit and monitor, and that sits on a desk and carries out a multitude of tasks.
+
+In fact, from where I sit writing this I can see at least four devices that depend partially on computer
+control.  Three are stereo components, and the other is a VCR--two areas that have embraced
+computer technology in a major way.  There is also a computer in my pick-up...not on the seat being
+hauled to a user group meeting, but under the hood.
+
+Computers are in wide use in many homes (and garages)--but usually they are invisible and their
+operation is controlled by old fashioned input devices--tuning knobs (or their pushbutton equivalent),
+play and pause buttons, and similar controls that don't call attention to their connection to a processing
+chip.
+
+The computer age is indeed here, but it is not fully visible.  Considering the resistance to computers
+displayed by a large segment of the population, perhaps this "sneaky" approach is a wise one.
+
+(Originally published in March, 1991. The computer in its standard form has made significant advances
+since that time, but is still far from 100%. According to recent published information, about 50 percent
+of U.S. households own a PC, and two-thirds of all new PC purchases are made by folks who already
+own one.)
+
+From "The Interface," newsletter of Fresno Commodore User Group 
+

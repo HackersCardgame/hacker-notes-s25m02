@@ -1,0 +1,7 @@
+System log for account marc.landolt@yetnet.ch (msn) connected at 14.03.2007 08::38::50
+---- +++ marc.landolt@yetnet.ch hat sich angemeldet @ 2007-03-14 08:38:50 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-03-14 09:02:56 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-03-14 09:25:19 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch hat sich abgemeldet @ 2007-03-14 21:16:53 ----

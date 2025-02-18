@@ -1,0 +1,66 @@
+Conversation with 2530523 at 19.01.2007 05::36::59 on 962320 (icq)
+(05::37::14) landev: hehe, s git lüüt wo um die ziit uufstönd...
+(05::45::17) shrike: und solche die dann noch arbeiten
+(05::48::59) landev: naja, weniger schloof als ich hesch warschinli gllich ned, ich han nämli die erste vordiplom prüefige...
+(05::54::11) shrike: wohl nich
+(05::54::42) landev: und was machsch grad so? webdesign?
+(05::55::56) shrike: notebook
+(05::56::05) landev: notebook installiere?
+(05::56::26) shrike: jo
+(05::57::13) landev: iisi, machsch am schluss es ghost image uf cd, das isch no mega praktisch...
+(05::57::21) shrike: verkauft gestern, geholt aufm weg richtung zürich zu nem anderen kunden (support, wlan, etc) ....und jetzt halt alles optimiert und zeugs installiert, konfiguriert blabla
+(05::57::32) shrike: noe, hab meine eigene methode :)
+(05::57::42) landev: wie sicherisches denn?
+(05::57::56) shrike: copy windows windows.bak
+(05::58::07) landev: so nach em motto, "Min computer lauft nümme" :'(
+(05::58::21) shrike: dann benennt man einfach um und es läuft wieder
+(05::58::30) landev: und wenns d feschtplatte verchlöpft?
+(05::58::42) shrike: pech
+(05::58::55) shrike: sie kann den ordner ja noch brennen ;)
+(05::59::09) shrike: +programme und doks von mir aus ....
+(06::00::02) landev: jo guet, das goht au, ich bin eifach fän vom ghost, eimol suuber uufsetze, denn en dvd brönne ud muesch di nie meh ums uufsetze kümmere....
+(06::00::58) shrike: ja privat is das ok, obwohl ich's selber auch ned mach
+aber ...normalerweise wenn du das zeugs 'restorest' ist 50% veraltet
+(06::01::47) landev: du chasch jo schlächt top modernis software uf en alte rächner installiere, vista uf en 700 Pentium 3...
+(06::02::18) shrike: hatte letzte woche notebook hier mit defekter hd ....konnte alles wichtige dennoch sichern ...hat zwar 48h gedauert aber ging fast alles rüber
+(06::02::41) shrike: hm?
+(06::02::51) landev: weles tool hesch gnoh?
+(06::02::57) shrike: das notebook is kein p3 :)
+und meine maschinchen oder die, die ich verkaufe auch ned....
+(06::03::01) shrike: kein's
+(06::03::10) shrike: alles per bartpe
+(06::03::14) shrike: +netzwerk
+(06::03::30) landev: i han gmeint s bart stelli nach 24h ab?
+(06::03::35) shrike: musstest halt en paar mal 'wiederholen' drücken ...
+(06::03::45) shrike: hae? davon weiss ich nix
+(06::04::42) shrike: die hd hatte einfach en knacks, festplattenkopf hast halt gehört ....und zudem hat's witzige beep geräusche gemacht hehe
+und dann hat's halt dateien oft mit irgendwie 100bytes/s kopiert....aber es ging
+(06::04::45) shrike: meistens
+(06::04::49) shrike: dauerte einfach ewigs
+(06::05::10) shrike: acer notebook halt heh
+(06::05::26) landev: denn het sech also de schriibläschopf meischtens vergalopiert...
+(06::05::35) shrike: und wenn das ding von der garantie zurückkommt, spiel ich das ganze zurück +fixboot/mbr
+(06::05::50) shrike: lesekopf ...
+(06::06::34) landev: das ding isch jo so wiit ich weis för beides zueständig..., usserdem werum heists eigentli zylinder?
+(06::06::43) shrike: k.a. :)
+(06::07::21) landev: wenn du 3 schiibe hesch, also 6 chöpf isch ei spuur uf jedere platte, dass git im 3d en zylinder...
+(06::07::59) shrike: weiss auch ned was der genau gemacht hat
+er meinte 'nichts' ...lief ....dann ausgeschalten ....eingeschalten und währenddessen usb stick entfernt ....dann kam 'system32 blabla konnte nich geladen werden' (noch verständlich) aber dass dadurch die ganze HD en schaden erlitten hat bezweifle ich seeehr 
+(06::08::36) shrike: aha ...jo ....mit unterbrüchen :)
+(06::08::55) shrike: aber danke für die aufklärung, wusst ich ned hehe
+hab ich mich auch nie gefragt
+(06::08::56) landev: aber du hesches demmfall begriffe....
+(06::09::10) shrike: jojo :)
+(06::09::43) landev: ich liebes wenn i mit lüüt chan chatte wo ned nur bahnhof verstöhnd wenn me öppis technisches erklärt...
+(06::09::57) shrike: heh
+(06::09::59) landev: übrigens...
+(06::10::36) shrike: premiere is seit nem monat unverschlüsselt sozusagen
+(06::10::44) shrike: leider die meisten filme eh schon gesehen hehe
+(06::10::54) landev: http://ml.buzzernet.com/blog/?p=19 das isch min blog, muesch mol läse... findsch sicher au cool, wenn de fehler findsch besch verdammt guet...
+(06::12::53) shrike: dachte so funzt pgp?
+(06::13::48) landev: ja, ist grad noch ein kommentar von einem meiner dozenten dazugekommen, da kann man es genau nachlesen, es ist anstelle von xor eine exponentialfunktion mit modulo operator....
+(06::13::53) landev: so ich sollte...
+(06::14::06) landev: hab wieder mal prüfung heute...
+(06::14::45) shrike: ok
+gl 
+(06::15::15) landev: cu

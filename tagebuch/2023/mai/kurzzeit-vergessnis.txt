@@ -1,0 +1,155 @@
+
+Mein Stuss Senf Gelaber zu: https://minkorrekt.de/mi249-gefuehlte-kompetenz/#comment-151041
+
+
+
+Hallo Nicholas und Daniel
+
+@ Daniel: die Registerkarte mit dieser Studie ist bei mir im Browser jetzt seit 3 Wochen offen, weil mir deucht auch dass da etwas merkwürdig ist. Dann mach vielleicht auch mal einen Autisten-Test online. Autisten können ja schlecht lügen und als Autist wie der Julian Assange wird man dann auch mit höhrer Wahrscheinlichkeit zu einer Petze oder einem Whistleblower werden. Aber da musst Du Dir wegen dem Test online keine Sorgen machen, das wüsste der NSA sowieso schon.
+
+@ Robert: Lass Dir den gescrambelten Text mal von Sprach-Synthese vorlesen. Das erkennt man dann nicht, weshalb?
+
+Ich hab das auch nicht studiert. Ich habe eine Schizophrenie-Erkrankung und diese zwingt mich genauer mit meinen Denkprozessen auseinander zu setzen. Mir hat es eigentlich sehr geholfen mal noch den Coursera Kurs zu Machine-Learning [1] zu machen um mein Gehirn selber zu verstehen. Oft zwingt einem eine Schizophrenie-Erkrankung auch dazu Meta-Kognitive Fähigkeiten zu erwerben damit man sich besser stabil halten kann.
+
+[1] https://www.coursera.org/learn/machine-learning
+
+Aber zum Thema "Kurzzeit-Vergessnis": Mein Gehirn sagt "die Studie ist falsch oder zu indifferenziert." oder mindestens das Test-Setting.
+(und ja ich hab die ganze Studie sogar mehrfach gelesen)
+
+Schlussendlich um wirklich genaueres sagen zu können müsste man aber das Experiment mit sich selber machen, vielleicht bekommt man die Files für das Mathlab Psychophysics Toolbox irgendwo von denen die die Studie gemacht haben.
+
+
+Jeder hat sein eigenes Weltbild, seine eigenen Wörter, Abkürzungen oder eine Art "Gehirn-Stenographie" um Dinge abzubilden. Bei Menschen mit Autismus oder Schizophrenie sind das vielleicht andere als bei den sogenannt neurotypischen Menschen.
+
+Ich hatte mit 6 meinen ersten C64 und tendiere extrem dazu mein Gehirn mit einem Computer bzw. einer CPU zu vergleichen. zB das was sie in der Studie mit der "Fuzzy Trace Theory" sagen würde ich aus meiner Informatiker-Perspektive als "Named Entity" bezeichnen, was man in Natural Language Processing verwendet.
+
+"perception shapes reality" sagt der Arne Vogelgesang in seinem geilen CCC Talk [1] aber diese Studie sagt ja eher "Weltverständnis shapes memory", somit wäre es naheliegend anzunehmen, dass ein Gehirn ähnlich funktioniert wie ein Computer welches bereits vorhandene Datenobjekte nur referenziert. Also so wie eine Pointer in C/C++ *int p1. Sie nennen das in der Studie eben "Fuzzy Trace Theory", aber mein Informatiker Gehirn kann mit C/C++ Pointern mehr anfangen.
+
+[1] https://media.ccc.de/v/rc3-11500-this_is_not_a_game_de
+
+p2: Der Joscha Bach sagt in Alternativlos 42 [2], dass wir Menschen "generische Funktions-Approximatoren" seien
+
+[2] https://alternativlos.org/42/
+
+
+p3: Wenn man ChatGPT fragt: "Ist ein Neuronales-Netzwerk invariant gegenüber Spiegelungen?" antwortet der "Ein neuronales Netzwerk ist im Allgemeinen nicht invariant gegenüber Spiegelungen, es sei denn, es wurde > > speziell darauf trainiert < < ..."
+
+
+Da vermutlich niemand Buchstaben spiegelverkehrt lernt, kann der "generische Funktions-Aproximator" das "c" und das "spiegelverkehrte ↄ" nur auf das selbe selbe Obiekt "c" im Gehirn referenzieren oder PatterMatch'en und macht jedes mal den Pointer auf das normale "c". (Fuzzy Trace Theory)
+
+p4: Der Daniel Dennett redet aber von einem "Multiple Drafts Model", und wenn ich das richtig verstanden habe, dann würde das bedeuten, dass das Gehirn verschieden Module hat. Verschiedene Module würden wieder bedeuten, dass es zwischen den verschiednen Modulein ein Interface hat. Dieses Interface wäre dann aber wieder ein Neuronales Netzwerk und weder diskret (abzählbar) noch statisch. Somit hat der Immanuel Kant mit seinem "Ding an sich" meint. Man hat von sich auch nur ein Modell (prone to Sekundärer Rationalisierung) man wird sich oder einen anderen Menschen aber nie bis ganz auf das letzte einzelne Neuron verstehen können. Aber selbst wenn man nur ein Modell hat, ich meine die Physiker haben es mit ihren Modellen ja auch geschafft auf den Mond zu kommen.
+
+Wenn ich jetzt das Multiple Drafts Modell so einigermassen richtig verstanen habe, dann würde der Visoelle Input von den Buchstaben in verschiedene Module im Gehirn weitergeleitet
+
+- "Named Entities"-Modul
+  aber je nach dem wenn der Buchstaben spiegelverkehrt dargestellt wird erkennt das Gehirn diese Named Entity vielleicht gar nicht
+  
+- "Pixel- / Augen- / Grafik-Speicher"-Modul
+  in den Teil, der Bilder wie sie sind speichert, also so eine Art Puffer für Pixel, bzw. wird da dann sofort auch wieder die Komplexität reduziert bzw komprimiert und es wird vermutlich zu einem Stilleben von Shapes [3] weiter verarbeitet
+
+- prozentual noch mit Farbe als Hinweis / bzw. komplett zufällige Farbe
+
+[3] https://en.wikipedia.org/wiki/Geon_(psychology)
+  
+Dann würden wie im Space-Shuttel die verscheidenen Module oder Verschiedenen Computer wieder abstimmen, welches der Module jetzt berücksichtigt wird: "The space shuttle flight control system uses four independent, parallel computers. At each step, the computers vote to determine the appropriate step.". Dann ist da wieder das Problem mit dem Interface oder der Zusammenführung, die weder diskret noch statisch ist.  
+  
+Somit kann der Buchstabe nicht mit dem "Named Entities"-Modul identifiziert werden würde das dann z.B. vom "Pixel- / Augen- / Grafik-Speicher"-Modul gemacht. Da wir diese aber nicht schon 1000x geübt haben ist das fehleranfälliger, was erklären würde weshalb die Studie aufzeigt dass bei den speigelverkehrten Buchstaben-Suppe mehr Fehler vorkommen.
+
+Auch das mit den Pseudo-Buchstaben (Vierecken / Dreiecken) umgeht das Problem mit den "NamedEntities" nicht, weil dass jemand explizit verschiedene DatenObjekte für Dreiecke die in einem anderen Winkel "naturalisiert" (Benjamin Bloom Wort für gelernt) hat wäre auch eher nicht zu erwarten. Das würde wieder im "Named Entities"-Modul auf ein Dreick verweise, aber ohne Orientierungs-Informationen zum Dreieck.
+
+
+Der Hinweis von Nicolas das "mehr Demut" etwas gutes sei stimmt aber IMHO.
+
+
+Ab hier wird es sehr spekulativ um nicht SCHWURBELIG sagen zu müssen:
+
+Die Studenten / Forscher verwenden
+
+* Mathlab
+* JASP ANOVA
+* Neurotask scripting
+* Zoom break-out room => ob den Forschern Corona deren Studie teilweise sabotiert hat?
+
+Können sie oder ihr Professor oder ihre Uni gewährleisten, dass der NSA/CIA/NDB/BND (die wie wir seit Snowden dankbarerweise wissen sowieso überall ihre Wurstfinger drin haben), dass diese Software Produkte wirklich so funktionieren wie sie sollen, oder wäre es nicht gescheiter das ganze Bayessche Statistik Dingsie nochmals von Hand nachzurechnen?
+
+Dann sind ja gemäss einem Artikel oder einer Studie die google nicht mehr kennen will sind Psychologie-Studenten oft nicht so die hellsten Leuchten. Findet man aber auch raus über den Umweg wenn man z.B. mal schaut was der Durschnitts-IQ eines Psychologie-Studenten ist und den mit dem Durchschnitts-IQ von Physik-Studenten vergleicht.
+
+Viele wenn auch nicht alle Psychologie-Studenten kommen eher aus privilegierten Familien. Bzw. generell Studenten kommen eher aus privilegierten Familien, das belegen auch Statistiken oder z.B. die Studien des Soziologen Prof. Dr. Aladin El-Mafaalani.
+
+Ist man priviligiert, dann ist gemäss meiner Erfahrung der Output im Falle eines Psychologen auf zwei Beinen oft ein hochmütiger, ignoranter Mensch der die Patienten/innen von oben herab behandelt. Gerade wenn man selber aus der Unterschit ist, in einer akuten Lebenskrise oder Sinnsuche, dann ist das eher nicht so hilfreich. Diese meine Aussage ist episodisch oder allenfalls ein Einzelfall. Aber dank meiner Psychologien die allenfalls auch mal eine Ausnahme ist kann man das auch in Studien über Narzissmus bei Ärzten usw. nachlesen und meine Beobachtungen einfach ignorieren.
+
+Also die Faktoren "NSA", "Durchschnitts-IQ von Psychologie-Studenten", "priviligierte Studenten" und einer Tendenz zu "ignoranz" oder "narzissmus" würde dann im schlimmsten Fall dazu führen, dass die Frage zu der Sicherheit der Informatik-Systeme welche die Forscher verwenden untern Teppich gekehrt würden.
+
+Die Studie sagt, dass sie vor allem 1. Semester Psychologie-Studenten/innen für die Studie verwendet haben. Also die Doktoranten oder die Forscher hätten in dem Fall, wo sie ihre Informatik sowieso nicht im Griff haben (was wie wir seit Snowden wissen eigentlich niemand mehr hat ausser der NSA/CIA) eigentlich zB mit dem Experiment 1 die Gehirne mit Inhalten ge-dDOS'ed haben, bzw. ausgelesen. Detaillierter wird das noch in diesem CCC Talk [] ausgeführt.
+
+[] https://media.ccc.de/v/rc3-641471-muss_man_sich_vor_unterschwelliger_beeinflussung_fuerchten
+=> eigentlich guter Talk, ABER die zwei Psychologen gehen von zu viel Vorwissen des Zuschauers aus weil sie selber Psychologie studiert haben aber die Zuschauer nicht, und auch das Fazit "man muss sich nicht vor unterschwelliger Beeinflussung fürchten" ist meines Erachtes falsch
+
+Somit würden die Doktoranten oder die Forscher im Part 2 ihres Lebens erfahren, dass sie die damals 1. Semester Studenten für den NSA/CIA erfasst und deren Psychie oder zumindest einige Parameter ausgelesen haben.
+
+Dann zu denken, dass selbst wenn man nicht mit seinem eigenen Computer oder Benutzer-Account an dem Test mitgemacht und es hat auch nirgends eine Kamera wäre auch allenfalls ein Fehlschluss NYU "identifying people from typing patterns" []
+
+[] https://www.vocativ.com/428550/keystrokes-reveal-identity-machine-learning-data/index.html
+
+Auch weist die Studie aus, dass ...
+
+... In der Studie Erfasst: "50.6% high confidence trials" wurden => ist ein direkter Indikator für "Selbstsciherheit / Selbstwert"
+... Aus der Studie ausgeschlossen: "8.5% high confidence trials" wurden => bitte langsam fahren, unsere Katzen sind dumm
+
+Gemäss meinem naiven Verständnis von diesem globalen Überwachungsalbtraum integriert der NSA/CIA proaktiv sämtliche neuen Technologien und Entwicklungen um z.B. Personen zu identifizieren, um z.B. Parameter der Psychie auszulesen oder auszuwerten. Das findet man dann immer in solchen Artikeln wie "sein Programm belauscht die digitalen Stammtische" des tagesanzeigers.ch, der schon nicht gelöscht wurde, wo aber der Titel auf "Sein Start-up wurde von Microsoft gekauft" [] und was man jetzt nur noch zugreifen kann wenn man für den Paywall bezahlt. Dann hat François Rüf diese Software vielleicht mal für einen guten Zweck erfunden um zeitnahe über Politische Ereignisse zu berichten, was dann aber umgebaut wurde um mit des selben Software die jetzt aber Microsoft gehört proaktiv gewisse Themen wie z.B. Snowden, Assange ... möglichst auch proaktiv aus dem poltitischen Diskurs raus zu halten. So etwas ist meiner Meinung nach für eine Demokratie auch irgendwie problematisch.
+
+[] https://www.tagesanzeiger.ch/sein-start-up-wurde-von-microsoft-gekauft-961227091237
+
+Meiner Meinung nach ist das vom Mathlab bis Neurotask scripting (privileged?) ein ganzes Ökusystem, und dieses Ökosystem wäre aber vermutlich ins NSA/CIA System eingebunden => und bekommt ihr da die Sicherheit des Informatik hin oder wo sind jetzt diese Daten der Probanden alle? Somit würde ich auch vom Prof bzw. der Ethikkomission wissen wollen ob er die Studenten angehalten hat diese Software / Ökosystem zu verwenden? Und ob wenn ja der Professor / Ethikkommision für dieses Informatik system die Haftung übernimmt. Weil wenn der das nicht macht geht es bei dieser Studie darum die Studenten mit diesen sicherheitstechnischen Fehlern dann schlussendlich erpressbar zu machen und in ein zwangsmasssnahmensystem einzureihen, ich hab auch das Gefühl dass der Zugriff auf den OpenAccess Artikel dann weiteres Uneil auf meinem Computer aktiviert. Und wenn das der NSA wäre, dann wäre es mit Crypto die nicht gebrochen werden könnte und dies auch noch über 7 Umwege.
+
+Dann vermute ich auch, dass jedem der 20 Jährigen Studenten, Doktoranden oder Forscher vermutlich insgeheim ein doppelt so alter Täter zugeordnet ist der überwacht, Rahm abschöpft und diverses Unheil aktiviert wenn der 20 Jährige zu viel berechtigt kritische fragen stellen würde.
+
+Aber eigentlich waren wir ja bei den weniger intelligenten aber priviligerten Psychologie-Studenten. Die ganze studie wirkt ein bisschen so, also ob dann schlussendlich die Doktoranten oder Wissenschaftler an all dem Schuld sein würde, während das NSA/CIA/Windows ... Netzwerk seine Hände in Unschuld reiben würde.
+
+Vor 24 Jahren musste ich bei der Militärischen Eintritts-Untersuchung so einen Reaktionstest machen auf irgend so einem mechanischen Plotter. Ich war vermutlich weil ich meine ganze Kindheit Doom1 gespielt habe richtig gut mit Hand-Augen-Koordination. Ich war da ausserhalb dem Bereich, also schneller als wofür das Testgerät ausgelegt war.
+
+Eure Tests sind ja auch so irgend etwas und dass die Ethik Kommision so etwas genehmigt bedingt zwingend, dass die Ethik-Kommision die Informations-Sicherheit auf der ganzen Testkette gerwärleisten kann damit nicht z.B der NSA/CIA das abgreift und damit Autisten-Früherkennung macht um dann diese Autisten möglichst platt zu machen bevor sie der nächste Julian Assange oder Greta Tunberg werden.
+
+Dann wirkt die Studie auch ein bisschen so, als ob die mutmasslich privilegierten Psychologie-Studenten gar nicht so gut Computer bedienen können, weil erstens hätte man viel mehr Grafiken (ein Bild sagt mehr als 1000 Worte und IMHO eine Grafik allenfalls noch mehr) machen können wie ein Domain-Model bzw eine schematische darstellung der Studie, so dass man die auch in 30 Minuten erfasst und nicht wie ich 3 Wochen in einer Browser-Register-Karte offen haben muss. Zweitens einfach nur 3 Softwaren beidenen könnten die oben aufgelistet sind.
+
+Dann gibt es ja bekannterweise vor allem im Fachbereich Psychologie die sogenannte Replikations-Krise. Da vermute ich all dieser viele Prosa zB Abschnitte "Participants" oder "Stimuli" hätte man wegklappbar machen können und wie bereits gesagt das Relevante vielleicht noch mit ein paar weiteren Grafiken so darstellen dass man das schnell erfassen kann. Wie man Dinge schnell darstellt da kann man alleine 10 Semester studieren, aber man findet auch zusammenfassungen wie diese hier von der Fr. Dr. Schener [] aber ich vermute ja, dass diese Psycholgies Studenten allenfalls gar nicht eine Grafik-Software bedienen können, das ist aber wieder spekulativ und meine subjektive Erfahrung mit Psychologen.
+
+[] https://www.research-collection.ethz.ch/bitstream/handle/20.500.11850/95482/eth-9053-02.pdf?sequence=2&isAllowed=y
+
+Aber schon Ausklappar und nicht löschen, weil für die Replikation wäre das dann wichtig.
+
+Dann auch das "stereotypically black features" in der Studie find ich eher nicht so toll. zB. ich persönlich habe viel weniger Angst in Aarau als Weisser mit 400 Jahre Stammbaum in Aarau wenn ich auf der Strasse einem Afrikaner über den weg laufe als wenn so ein alter weisser Mann auf mich zusteuert. (ein PTBS was ich vor allem wegen älteren weissen Psychiatern habe)
+
+=> und schlussendlich ist mir jetzt aber auch klar, weshalb die psychiater im Kanton Aargau so komplett inkompeten sind vor allem die die doppelt so alt sind wie ich, die mussten gar nicht so viel lerenen im Studium, waren oft in der Kläger-, der Beurteiler- oder der Richter-Rolle. Haben mit vernichtenden Diagnosen wie der Schizophrenie viele Menschen aus der Unterschicht psychsich komplett vernichtet.
+
+Die alten Psychiater haben immer nur gerichtet und über patienten geurteilt ohne selber in der Fabrik, als Tellerwaschger oder Brandsanierer arbeiten zu müssen, ohne überhaupt die Kultur der Unterschicht zu verstehen über die unterschicht-Köpfe geurteilt aus ihrer privilegierten Position aus der Goldküste Tannerstrasse in Aarau.
+
+Und wenn sie über jemanden urteilen müssen der auch aus der Oberschicht kommt, dann fällt logischerweise das Fetternwirtschaft-Urteil milder aus, was auch Studien z.B. zu Schizophrenie belegen, dass "Schizophrene aus der Oberschicht meist die besseren Verläufe haben als solche aus der Unterschicht"
+
+In der Hoffnung, dass dieser Kommentar überhaupt freigeschaltet wird erhoffe ich mir aber so allenfalls zu angehenden Psychologen zu sprechen. Wenn ein 20 Jähriger Patient zu Euch kommt oder auch zu Euch als Psychologe oder Psychiater zu Euch geschleppt wird hat der hoffnung dass der Psychologe seine Probleme lösen wird. Ja ich war als junger Mensch sehr naiv, war offen zum 40 Jahre älteren Psychiater und der hat mir aus allem was ich gesagt habe einen Strick gedreht weil er gerne Unterschicht-Würmer wie mich paltt mach und damit seinen Narzissmus füttert.
+
+Das wäre wirklich verbesserungswürdig. Selbst wenn Ihr aus der Oberschicht kommt müsst ihr ja nicht gleich werden wie diese alten weissen Männer mit Psychiater-Titel welche feige weit oben vom Elfenbeinturm nicht mit einem Sniper-Gewehr schiesst aber mit seiner arroganten und ignoranten Art und weil er nie etwas leisten musste auch inkompetenten Ratschlägen das Leben von 20 Jährigen kaputt macht. Dann hat dieser Mensch entsprechend auch viel Einfuss auf das Sozio-Netzwerk Aarau, hat dann selbst meine Familie und mein Umfeld auf mich aufgehetzt. Wenn man das wissenschaftlicher fassen möchte eignet sich die "Feldtheorie" von Pierre Bourdieu sehr gut für Sozial-Psychologie. Falls ihr priviligiert seid, seid ihr von Geburt an auf einem Feld der Macht, seid Trendsetter und hab Einfluss auf ganze Sozio-Systeme. Diese Macht kann man jetzt wie der 40 Jahre ältere Psychiater dazu missbrauchen 20 Jährige platt zu machen, oder man kann diese privilegierte Position dazu nutzen um Menschen und Sozio-Netzwerke stabil zu halten. Der 40 Jahre ältere Psychiater hat das Sozio-Netzwerk um mich schon auch irgendwie stabil gehalten. Er hat es aber so gemacht, dass er mich zum Sündenbock deklariert hat und somit indirekt, mittelbar, nonverbal allen anderen falsche Absolution gegeben. Absolution (egal ob religiös oder wissenschaftlich) sollte man aber sowieso nie geben, denn die Menschen würden dann nur fett, faul, ignorant und um ein Sozio-System stabil zu halten ist das eher kontraproduktiv.
+
+Ihr die diese Studie gemacht habt, falls ihr das mal findet möget ihr liebevoll mit dem "Multiple-Draft-Model" von Daniel Dennett beworfen werden. Da reicht aber der Wikipedia Artikel nicht. Auch werdet ihr das nicht verstehen, wenn ihr Euch nicht in Informatik einarbeiet und mal ein Kurs für Neuronale Netzwerke belegt.
+
+Meine Maxime ist "Gleichaltrige und Jüngere beschützen tun zu wollen" und ich bin schon nicht genug blöde genug alle Psychologen oder Psychiater in den selben Topf zu werfen. Wenn ihr aber priviligiert und fauls seid, dann wird das mit hoher Wahrscheinlichkeit dazu führen, dass ihr Unterschicht-Patiente falsch beratet. Falsch beraten heisst dann allenfalls dass ein Unterschicht-Patient auch Suizid begeht. Ab diesem Zeitpunkt seid ihr im Zwangsmassnahmen-System der Alten Psychiater für immer gefangen und werdet Euch dann wie der 40 Jahre ältere Selber hassen und Euren tiefen Selbstwert allenfalls auch nur noch aufbessern können, in dem ihr auf 40 Jahre jüngere 20 Jährige Patienten losgeht aus Eurer Macht-Position. --- naja vielleich so lange bis einer wie ich kommt :D
+
+Dann der Habitus (Pierre Bourdieu) den ihr einerseits von Eurem privilegierten Elternhaus mit bekommen habt, andererseits von der Universität ist so zu sagen eine optimierte "Grunsoftware" ein "Mental Operating System" das dafür sorgt, dass Ihr Eure privilegierte Stellung behalten könnt, dennoch werdet ihr in dem Zwnagsmassnahmen-System landen, bzw. denke ich dass das auch ein Ziel dieses Systems ist. Aber das versteht ihr auch erst, wenn ihr Bourdieu nicht nur gelesen sondern auch verstanden habt.
+
+Dann die Einteilung in STM und LTM denke ich ist schon nicht falsch, aber dieses Wissen was ihr deduktiv aus Euren vermutlich outdated'en Lehrbücher habt ist meiner Meinung nach eine massive Komplexitätsreduktion.
+
+dann experiment 2 ist ne brain ddos -< verschwörungtheoretiker style: die 1. semestler deren neuralink wird ausgelesen und adaptiert so?
+
+Euer "world knowledge plays an increasingly large role within STM" ist aber meines erachtens korrekt, was aber auch heissen würde, dass das STM auch auf das World Knowledge im LTM zugreift. Also da lässt sich vermutlich nicht so eine klare Trennlinie ziehen.
+
+Dann habe ich es mit gleichaltrigen oder jüngeren Psychiatern/innen meist besser, aber da bin ich mir nicht sicher, ob das jetzt schon besser geworden ist, oder ob diese trotz dem dass sie oft aus der Oberschicht stammen einfach auch nur abgerichtet worden sind ältere Menschen zu respektieren oder sogar zu fürchten?
+
+Danke Minkorrekt für die (meist) spannenden Themen, lustig ist es ja sowieso immer wie der Kommentar von Julia sagt
+
+Gruss Marc jr.
+
+
+
+
+
+

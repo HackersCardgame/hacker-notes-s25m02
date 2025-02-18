@@ -1,0 +1,61 @@
+----=====  Thu Sep 26 15:41:46 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 8ef2b705fa777f6cf5ad452e7289002f506da942 ====----
+[main 0ea4822b] ... 8ef2b705fa777f6cf5ad452e7289002f506da942
+ 1 file changed, 130 insertions(+)
+ create mode 100644 tagebuch/2024/september/20240926d.txt
+
+
+Guten Tag Fedpol
+
+falls sie das hier lesen, ich vermute je besser ein Zeuge oder ein Autist das puzzle geloest hat desto mehr veruebt Hansjuerg Pfisterer und die Psychaitrie koenigsfelden "Schlafdeprivation"
+
+SCREENSHOT:
+FEDPOL/SchlafdeprivationAuftragsDerZuerichVersicherung/SchlafdeprivationUmDieAussagenDesZeugenMarcJrYuSabitierenVermutlichDurchDiePszchiatrieKeonigsfelden.png
+
+ich bitte darum die befragung des zeugen marc rj landolt so lange [1] nach hinten zu verscheiben und andere zeugen zu priorisieren, bis die schlafdeprivations-infrasstruktur im umfeld der nachbarschaft von marc rj alndolt gefunden und deaktiveirt wurde
+
+
+[1] URS BLUM SPRGENTD DIE GERICHTSVERHANDLUNG IN DIE LUFT
+
+----=====  Thu Sep 26 15:44:23 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 0ea4822b820e2d1515cb236c6db99d2a29eb3ca2 ====----
+[main b106c959] ... 0ea4822b820e2d1515cb236c6db99d2a29eb3ca2
+ 1 file changed, 8 insertions(+), 124 deletions(-)
+
+
+ich:
+ja wenn ich nicht geschlafen habe loese ich puzzles falsch und bin einfacher manipulierbar. und das hiesse auch immer, dass wenn mit einem zeugen eine "Wachtherapie" gemacht wird ist das nur der gedeckt-getarnte manipulation eines zeugen oder einer gerichtsverhandlung mit Schlafdeprivation als wach"therapie" getarnt
+
+Somit alle Akten von Pszchiatrie schweizweit auswerten, ob irgendwo dinge wie Wachtherapie dokumentiert wurden, dann waeren das vermutlich auch rechtsfaelle die manipuliert wurden
+
+----=====  Thu Sep 26 15:47:12 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 96321fc7890a65c00ca6708d2c8e9e66c4ebe079 ====----
+[main 85b9e842] ... 96321fc7890a65c00ca6708d2c8e9e66c4ebe079
+ 1 file changed, 5 insertions(+)
+
+
+
+somit ist herr dr hansjuerg pfisterer der spezialist fuer das manipulieren von rechtsfaellen von urs und astrid blum, somit waeren teile der psychiatrie koenigsfelden aber auch der psychiatrie wo mollath war darauf spezialisiert rechtsfaelle von reichen oberschichtschnoeseln abe auch juristischebn personen zu manipulieren
+
+----=====  Thu Sep 26 15:49:27 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september d2f781f6a1af45373cc707f559c52f49425cf01f ====----
+[main 00f89ac3] ... d2f781f6a1af45373cc707f559c52f49425cf01f
+ 1 file changed, 6 insertions(+)
+
+----=====  Thu Sep 26 15:54:48 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 020ae92cace8ad2e25c60ebcf18d4022a8ccd954 ====----
+[main 5ba7fdaa] ... 020ae92cace8ad2e25c60ebcf18d4022a8ccd954
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 FEDPOL/SchlafdeprivationAuftragsDerZuerichVersicherung/dieZuerichVersicherungSabotiertSeitTagenSystematischMeineTiefschlafPahasen.png
+ 
+ 
+Somit hat die Zurich Versichrung bzw der Teil der zuerich versichrung welcher vorsaetzlich und proaktiv morde vertuscht fuer reiche kunden spezialisten wie psychaiter und aerzte welche jetzt z.b. bei mir wo es nicht geklappt hat mir die tat unter zu schieben systematisch die tiefschlafphasen
+
+FEDPOL/SchlafdeprivationAuftragsDerZuerichVersicherung/dieZuerichVersicherungSabotiertSeitTagenSystematischMeineTiefschlafPahasen.png
+ 
+SELECT * FROM Mitarbeiter der zurich versichrung oder auch nur berater, welcher sich mit medizin oder pszchiatrie auskennt
+
+dann bis ich wieder schlafen kann waren allenfalls auch regelmaessige bluttests sinnvoll, weil VERMUTLICH sind da auch ncoh dinge wie elektro-responsive polymere beteiligt wo irgend ein geisteskranker nachbar vermutlcih sendeinfrasturktur auf mich oder mein schalfzimmer gerichtet hat um diese auszuloesen
+
+----=====  Thu Sep 26 15:57:26 CEST 2024 /home/marc/hacker-notes-s24m09/tagebuch/2024/september 5ba7fdaacd649b6e6f95e3a5e1563b4b8745fb0a ====----
+On branch main
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+

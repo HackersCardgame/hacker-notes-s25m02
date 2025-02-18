@@ -1,0 +1,275 @@
+Sun May 23 23:40:56 CEST 2021
+ 131 1079 8261 cyberWAR20210524.txt
+
+HUMINT hat ein incentives system um die proteinrechner anzutreibne
+
+
+https://twitter.com/PainDef/status/1396575968081416192
+
+dann prärequisit wäre schon die fishing crusade, aber der suicide death bot code kommt vermutlich von urs / astrid blum, zürich, pfsiterer, und der psychiatrie
+
+Sun May 23 23:42:00 CEST 2021
+ 11  45 357 cyberWAR20210524.txt
+d0cd6173eb809915ec4701db5a34b5f9e9fce1b7f9aa6905f61c10a0a01a6af08add1a377b692fe7d4214fccd56eff64daca3059b8dad8295de95c9b09a734eb  cyberWAR20210524.txt
+[master 2431cee] save
+ 2 files changed, 142 insertions(+)
+ create mode 100644 tagebuch/cyberWAR202105224.txt
+ create mode 100644 tagebuch/cyberWAR20210524.txt
+
+
+Vorlesung Psychologie:
+
+Jungs und Väter
+
+das bedürfnis eines jungen ist einen vater archetyp er einem hilft, der einem nicht das messer in den rücken steckt, allenfalls ein ja4 archetyp.
+
+wir hatten in den piraten aargau mal einen bisschen älteren menschen vom FEDPOL der sehr nahe an dieser rolle gekommen ist
+
+- intelligent
+- belesen
+- hat verantwortung in der partei übernommen
+
+das problem schein zu sein, dass sobald das system erkennt, dass ich z.B. inselbegabt bin auf irgend etwas wie hacking versucht das system aus dem ja4 (karte) eine ja1 karte zu basteln
+
+sündenkatalog <<- pfisterers "Spontane entladung"
+überforderung / forderung / peter prinzip
+
+dann würde der mongo georg landolt (der allenfalls mein genetischer vater aber sicher nicht mein intelekutleer vater ist) das adrenochrom klauen und sich diese rolle aneignen, ca nach 3min, m160 karte recog?
+
+sound rush -- guide you würde allenfalls implizieren dass das das bedürfnis vieler jungen jungs wäre...
+
+das übergelagerte system macht dann wieder alles kaputt, somit muss man in die gleichung integrieren, dass auch ein gutartiger vaterarchetyp des FEDPOL dem scheiss-kotz-übergelagerten-militär sysetem unterlegen ist...
+
+Mon May 24 00:46:33 CEST 2021
+  43  252 1940 cyberWAR20210524.txt
+cb1c54a89e76f562bf60e930711d39de95eb8e0787be4f27f63866a75328186761a6bbc92c05fb06e503ca7c619994a060e77a0243811ba9289aa8d8c9e12a48  cyberWAR20210524.txt
+[master db8842e] save
+ 1 file changed, 25 insertions(+)
+
+weshalb mein biologischer vater nicht mein intellektueller vater ist (und sorry für das fotographische gedächtnis)
+
+ich hab so mit 12 Jahren mal gefragt, ob er mir sinus und cosinus erklären könne, dann sind wir an einen tisch gehockt im keller, er hat das erklärt: sinus ist sindus weil sinus sinus ist und consinus ist cosinus, begreif das doch jetzt und blödes 12 jähriges kind, hat sich auch nciht wirklcih die mühe gemacht das zu erklären
+
+wissenschaftlcih korrekt würde man das mit dem einheitskreis erklären / herleiten ...
+
+
+TOPD: schauen dass alle gleichaltrigen und jügneren im umfeld eine möglichkeit haben solche dingen gegenüber ihren söhnen besser zu machen ....
+
+das würde allenfalls auch erklären weshalb z.B. minkorrekt oder hoaxilla bleiebt ist...
+
+irgender: oder myth busters
+ihc: nö die sind doof die machen einfach dinge kaputt...
+
+Mon May 24 00:53:16 CEST 2021
+  63  406 3085 cyberWAR20210524.txt
+3ee666172bf59691c6f5b06967e7de5aff351d8a1fb1ddf386a27b3881df481c3d64a15c161a2ecb56bd4cb389b19b66e206a8a56369b2d365abb3f77f6c9dca  cyberWAR20210524.txt
+[master 85ac8a7] save
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+
+
+das buch "Demian" von hermann hesse thematisiert das so ein bisschen
+
+
+marc@DESKTOP-4129AN1:~/hackerscardgame-notes5$ figlet Jungs
+     _
+    | |_   _ _ __   __ _ ___
+ _  | | | | | '_ \ / _` / __|| |_| | |_| | | | | (_| \__ \
+ \___/ \__,_|_| |_|\__, |___/
+                   |___/
+
+
+blöde nicht-monospace fonts; MITIGATION:
+
+figlet -f banner Jungs und Vaeter -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+☆☆☆☆☆☆★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆★★★★☆☆☆★★★★☆☆☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★★★★★☆☆☆☆☆★☆☆☆☆☆★☆☆☆★★☆☆☆★★★★★★☆★★★★★☆★★★★★★☆★★★★★☆☆
+☆☆☆☆☆☆★☆★☆☆☆☆★☆★★☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆☆☆☆☆☆★☆☆☆☆★☆★★☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆☆★☆☆★☆☆★☆☆☆☆☆☆☆☆★☆☆☆★☆☆☆☆☆☆★☆☆☆☆★☆
+☆☆☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆★☆★☆☆☆☆☆☆☆★★★★☆☆☆☆☆★☆☆☆☆★☆★☆★☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★★★★★☆☆☆☆★☆☆☆★★★★★☆☆★☆☆☆☆★☆
+★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆★☆★☆★☆☆★★★☆☆☆☆☆☆★☆☆☆☆★☆☆☆☆★☆★☆☆★☆★☆★☆☆☆☆★☆☆☆☆☆★☆☆☆★☆☆★★★★★★☆★☆☆☆☆☆☆☆☆★☆☆☆★☆☆☆☆☆☆★★★★★☆☆
+★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆★★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆☆★☆☆☆☆★☆★☆☆☆★★☆★☆☆☆☆★☆☆☆☆☆☆★☆★☆☆☆★☆☆☆☆★☆★☆☆☆☆☆☆☆☆★☆☆☆★☆☆☆☆☆☆★☆☆☆★☆☆
+☆★★★★★☆☆☆★★★★☆☆★☆☆☆☆★☆☆★★★★☆☆☆★★★★☆☆☆☆☆☆★★★★☆☆★☆☆☆☆★☆★★★★★☆☆☆☆☆☆☆☆★☆☆☆☆★☆☆☆☆★☆★★★★★★☆☆☆★☆☆☆★★★★★★☆★☆☆☆☆★☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+
+
+das permaenete 
+- an mein medulla spinalis ths dran schlagen
+- pavlov stimuli
+- cyber-würge-kette
+- (gelognere) corona treffer
+
+sind erstens alles breakpoints in meinem leben (timeline im sinne von programmiersprache bzw. debugger), weitens ist es diskrete mathematik, somit ist die gegenpartei user von irgend einer software von der sie abhängig sind, und vermutlich ist das dazu da [1] [DELETED] [REBUILT] dass sich die täter noch mehr schuld auflagen die dann vom entwickler protokolliert wird und womit die super duper SUPERUSER *HUST* noch mehr in der Sche*** landen...
+
+[1] pfisterer: das ist nur psychologsiche kriegführung <- ich: oder der pfisterer gibt den tätern zuspruch dsas die mehr terror machen?
+
+Mon May 24 03:29:45 CEST 2021
+ 106  617 7034 cyberWAR20210524.txt
+44227865a9e87cd4990d596762f7f50827bc2574b3d9fdd598e883cbd2c174aa63eae45c2cd1e5938bcb2dca482a87ceaf0f6507f0f7b60b9cb68739a6ab0cac  cyberWAR20210524.txt
+[master 0e7e107] save
+ 1 file changed, 12 insertions(+)
+
+die proteinrechner sind für pfisterer nur mittel zum zweck damit die für [1] die für ihn für jeden usecase cyberwar soziopsychologie desingpattern entwickeln
+
+[1] loop { lasst ihn machen dass er das nicht aufschreibt}
+
+Mon May 24 03:34:46 CEST 2021
+ 116  671 7531 cyberWAR20210524.txt
+1e8431e264c12803067fca5b1d6b2778d5875fb69524218453f52fd671cec30db54345047fe83a5c34e8c5f9397ebcb890303ce3297b3a564a5da0dea23191c3  cyberWAR20210524.txt
+[master 27a0a59] save
+ 1 file changed, 1 deletion(-)
+
+- myrtha pfisterer hat sich ausgeschlchen
+- die intaf container haben sich ausgeschlichen, da wären vermutlich die proteinrechner und pfisterer erlaubt den super duper offizieren sihc mit "es ist nur eine militärische übung" rauszureden, die wüssten aber alle dass "ursula pozanzki" dass dsa spiel töten will
+
+dann dass das intaf aus israel ist oder sei wäre der implizite divide et impera, ähm studentenverbindungen von 1800?
+
+Mon May 24 03:41:31 CEST 2021
+ 127  756 8237 cyberWAR20210524.txt
+038dc821bc5329b403946f080811c704c61e9cc68c91bb5e006eb3077115f63f1488358ceef74d07b1500541b2d157290f67546647e198098fd4149394fb3f75  cyberWAR20210524.txt
+[master 204c9b9] save
+ 1 file changed, 2 insertions(+), 5 deletions(-)
+
+dann ein statischer teil der corona tracing malware scheint zu sein, wenn die benetzungsfläche klein / zu klein ist (obwohl die potentiell infizierte stelle komplett abgedeckt ist) wird das desinfizieren zum "UNGüLTIG" erklärt ... um zeit zu verschwenden und desinfektionsmittel aufzubrauchen was dann wieder nicht so toll für die umwelt ist, wir haben es also mit einer nach uns die sindflut und verbrannte erde fraktion zu tun...
+
+Mon May 24 03:50:27 CEST 2021
+ 135  845 8963 cyberWAR20210524.txt
+d4bde97810d3543b84bb1932ddb3ef2622441345a1131ef1dec62743aad60ac822e13deda13d8cea38410d14c21f800539627f54f4dacf3a514d9d6f44f9dc35  cyberWAR20210524.txt
+[master 89c76bf] save
+ 1 file changed, 3 insertions(+)
+
+pivot elemente:
+stefan winter
+elmar hutter
+six group
+banken netzwerk / kassensysteme (eventtrigger: kassendäster (ist ein schlüsselwort für wernder dester des steueramts kanton aargau)
+
+Mon May 24 03:59:08 CEST 2021
+ 147  889 9425 cyberWAR20210524.txt
+046fec9c49dcfe9e9e27947f9b9dc887621a77e7501b7f6d51a501763cfb38922ad9638c205fce202c4ea57f1f4a4c7f01f9ba1017e825fdd04e538ee2ea2300  cyberWAR20210524.txt
+[master 22e1d0f] save
+ 1 file changed, 7 insertions(+)
+
+breakpoint: alle 0.5 sek mein kurzzeitgedächtniss löschen und mich in einen random raum steuern wo ich nichts machen muss
+
+
+
+Mon May 24 04:08:02 CEST 2021
+ 157  928 9825 cyberWAR20210524.txt
+7131297c44a5c967e59a34a4829d0c89e7218a86a534070c7c31351473ec4f3847e0ca948a81de7a62ae58a157bd2b04af184b2f842ab981bc9e94ff9e1e712e  cyberWAR20210524.txt
+[master e01c149] save
+ 1 file changed, 5 insertions(+)
+
+m160 und/oder action recognition => action prediction "JETZT SIEGEL AN HAUSTüRE MACHEN" 
+
+ ====[nerviger EventTrigger]====>
+   
+   cyberwürgekette, würg, kotz, ganz zur toilette, also auch eine art Breakpoint für meine raumüberwachung, breakpoint im sinne von software/deppugging zeugs
+   
+Mon May 24 05:13:36 CEST 2021
+  169   982 10393 cyberWAR20210524.txt
+0f01bba59142302445e3c45fa65c3e9f81c059abf977713302cb1a302a09670a5d6519855d664b0ef3187bfba78a0d8e98a06c967588d372aaae2a5ef70a2951  cyberWAR20210524.txt
+[master 9291049] save
+ 1 file changed, 6 insertions(+)
+
+corona tracing malware, sie versuchen mich dazu zu treiben immer nur noch eine option zu haben, also die hände werden als "ist potentiell corona" - brain flag register eingeblendet bis ich mindestens 50cl desinfektionsmittel verburacht habe ... indzueirte zwnagsneurose und eher nciht so toll für umwelt...
+
+Mon May 24 06:21:27 CEST 2021
+  177  1048 10979 cyberWAR20210524.txt
+914924156491694cb87b3bd70361e63059ad0b11fb3e6884d230d531679bc710a39bbb6a629393ffe08622bb643d5728c8e51bd76d522f9a594da3fd7c7b3bce  cyberWAR20210524.txt
+[master 3983ed1] save
+ 1 file changed, 3 insertions(+)
+
+also so etwas wie "du must das richtig machen, du hast jetzt das falsch gemacht" - mangesplaine durch die alte generation um noch mehr meine zeit zu verschewnden und breakpoints zu verlängern
+
+urs lbum: amkdrohung <- ich: urs blum seine allzeweck drohung
+=> also urs blum fängt mti sprenfallen, amok und bioterrorismus drohungen an wenn er konzeptwissen vershcleiren will wenn epilepsie bei mir oder einem zuschauer eingeschatlet wird zeitgliche solte man urs blum jedes einzelne mal auch grillen mit anzahl altersjahre mehr als die opfer von urs blum (meinung)
+
+EventTrigger
+Konzept-wissen ==[EventTrigger]==> amokdrohung durch urs blum
+
+50cl desinfektionsmittel verschwenden eventtrigger = breakpoint
+
+Mon May 24 06:25:55 CEST 2021
+  192  1169 11960 cyberWAR20210524.txt
+eefd4c633ecc2ae6d690406bd63ac7f211391254e12277ef616c8f70bc857ceb799a61af41f49bf30d40d1a4d856c80f6c8f729bc2496c05e68aac3def521e3e  cyberWAR20210524.txt
+[master 9746072] save
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+
+DEFCON5
+
+sonntag / feiertag am bahnhof einkaufen gehen war ursprünlich mal eine gute idee, das haben die jetzt aber auch kaputt-adaptiert mit dem bölden auto-npc und drohnen-auf-zwei-beinen
+
+idee für "is lieb" oder xkcd:
+Section: My Hobby:
+Making Paranoja Agents paranoid ... bzw. revenge für hunted dingo und deppenmagnet
+
+dann pferde mädchen die pferde als hobby haben wo oft jeweils nur ein männlicher reiter ist sind allenfalls als sündenböcke vorgesehen um militärische kavallerie oder studentenverbindische fuchsjagd zu kettenrasseln
+
+irgend etwas was "potentiell corona infiziert sein könnte" aktiviert den poltergeist in der wohnung oben dran und verschlimmert die paranoja, wenn man das per voice in seiner skinnerbox ähm wohnung protokolliert kommen random klopf-polter-geräusche um das konzept zu verschleier
+
+on ANY-event auf dem spinalis THS (z.B. tropfen auf haut gelandet) oder m160 recog: doch könnte auch the same thing und brain flag-register: "ist corona" && brain flag-register [1] aktiviert und wieder poltergeist etc...
+
+[1] draussen aktiivert ein hells angles archetyp töff fahrer <- "zufällig" übernormalverteilt "zufällig" mitten im satz, wo waren wir
+
+unknown:
+so würde man lernen MüSSEN bzw. "müssen" die leisen stimmen zu ignorieren, leise hilfe schreie würde man dann auch lernen zu ignorieren und ein mongo-npc werden ähm wir meinen cyber-man (doctor who)
+
+allenfalls "Stands der Militärische Abschirmdienst auch Devided" also z.B. wenn man jetzt jemand hochrangigeren kennenlernen würde als z.B. urs / riela / pfisterer und würde verpetzen, dass das in aarau vorallem dazu da ist die straffälligen menschen beim MilAD zu schützen ... somit wäre der MilAD mehr angetrieben mich zu isolieren
+
+todo:
+buch über blumenläden kaufen
+
+ Die Mutter von Schinja (Pfadi Name) soll damals gesagt haben (rechtlich "hören sagen" von Dominik Brändli):
+"De Schinja min Kchliine Roiber"
+(de-sg: der <Name des Pfadfinders> mein kleiner Räuber)
+Könnte seine Mutter allenfalls gemeint haben, dass sie ihn zum "RegelÜbertreter" abgerichtet hat bzw. "erzogen" [1] mit den Stimulus-Response-Habits die ihm aufgespielt worden sind dann "legal" ähm >> LEGAL << Profit aus den induzierten RegelÜbertretungen erziehlt und ihn im letzten Schachzug wenn er das merken würde und/oder wie ich anprangern würde von ...
+- der Psychiatrie
+- dem Rechtssystem 
+- mitten im Wald zufällig herunterstürzenden Konzertflügeln
+- mit #LawFare 
+... zerfetzt würde?
+bzw. wenn das ja jetzt bekannt wäre, wäre das ein Rechtlich afaik Planspiel genannt und Mami-Schinja dürfte dann ...
+[1] *Epilepsie bei mir eingeschaltet worden, "ausnahmsweise" zufällig Mitten im Satz*
+Interessanterweise immer meist als ältere Menschen dargestellt in Google
+[EDIT]
+Oder z.B. Sprayereien in der Nähe eines nicht weiter spezifizierten Mahler Betriebs im Umfeld der Menschen, die Früher in der Opium Launge (heute @lesamis.aarau) waren, wo dann das Graffiti auch von dem "zufällig" nahe gelegenen Bonzen-Wagen-Fahrenden Mahlerbetriebs Reparations-repariert worden ist ...
+
+Mon May 24 13:38:34 CEST 2021
+  237  1631 15342 cyberWAR20210524.txt
+8c2d1e32197a1d1cdf7b1fed0aad1af11d6d267251dda1088dedeba09c4f3527f35395f0457bd6c9ecfc109422f41760ae76f1b71c26871ddb4cb9bed739a316  cyberWAR20210524.txt
+[master c56aa3b] save
+ 1 file changed, 40 insertions(+)
+
+dann scheinen die einen neuen corona-hinein-FNORDungs-Algorihtmus an mir zu testen: immer mehr dinge werden in abhängigkeit der zeit "ist corona infiziert" eingebledet, dass man immer mehr hände wäscht und desinfiiziert, wasserhänen mag satan besonders und auch desinfektions sprit...
+
+Mon May 24 13:40:27 CEST 2021
+  245  1689 15909 cyberWAR20210524.txt
+1a32bcd8b33dc1f20acd1a267ac462e5c19198536e03226aee313e35e9396b7e3d8385b3882f854db57c09c9d485b5cfe3d0209c91ca11654fa3ed12db3863ff  cyberWAR20210524.txt
+[master e5565ed] save
+ 1 file changed, 3 insertions(+)
+
+
+ich geh mal pennen, das täternetzwerk der 1970er und älteren nervt ja wieder mal maximal .....
+
+Mon May 24 13:48:26 CEST 2021
+  254  1725 16284 cyberWAR20210524.txt
+901c4e01df0cf4a7cda14a20c9d8b5484b7a28017ba5157d61ce83146034df5a8efe3f5299a0b5ae56e26980d7d4a358705154e02c741b43692ecfdc92d5d967  cyberWAR20210524.txt
+[master f4ce64b] save
+ 1 file changed, 4 insertions(+)
+
+
+
+
+marc@DESKTOP-4129AN1:~$ figlet -f banner GEFAHR -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆★★★★★☆☆★★★★★★★☆★★★★★★★☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆★★★★★★☆☆
+☆★☆☆☆☆☆★☆★☆☆☆☆☆☆☆★☆☆☆☆☆☆☆☆☆★☆★☆☆☆★☆☆☆☆☆★☆★☆☆☆☆☆★☆
+☆★☆☆☆☆☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆☆☆☆☆★☆☆☆★☆☆★☆☆☆☆☆★☆★☆☆☆☆☆★☆
+☆★☆☆★★★★☆★★★★★☆☆☆★★★★★☆☆☆★☆☆☆☆☆★☆★★★★★★★☆★★★★★★☆☆
+☆★☆☆☆☆☆★☆★☆☆☆☆☆☆☆★☆☆☆☆☆☆☆★★★★★★★☆★☆☆☆☆☆★☆★☆☆☆★☆☆☆
+☆★☆☆☆☆☆★☆★☆☆☆☆☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆☆★☆★☆☆☆☆★☆☆
+☆☆★★★★★☆☆★★★★★★★☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆☆★☆★☆☆☆☆☆★☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+
+

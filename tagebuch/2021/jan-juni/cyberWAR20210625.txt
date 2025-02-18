@@ -1,0 +1,102 @@
+Fri 25 Jun 2021 10:12:49 AM CEST
+0 0 0 cyberWAR20210625.txt
+
+1979er Herrin:
+dem wunsch aussteiger zu werden des 1978-DOLT (siehe scans selber git commit) wird nicht stattgegeben.
+
+da geht es darum dass den müttern eingeredet wird sie und ihre 1960er-mongo partner würden ihr mojo zurück bekommen wenn sie das der kinder zercybern, soll aber foucault forken, also werden die eltern belogen
+
+ausserdem nicht "schafe umschubsen rettet leben" (um den Trickfilm: drachen zähmen ... zu zitieren) tor nodes betreiben rettet leben. eine tor node ist allenfalls sogar ein grund das männchen ran zu lassen, aber nicht zu 100%.
+
+ausserdem um den jake zu zitieren: imited by their time, somit ist eine tor node wo die jeweils in gruppen einzelne betreiber zerfetzen super toll für die anderen tor node betreiber, dann haben die keine Zeit andere tor node betrieiber zu zerfetzen...
+
+aber wir könnten ja jewils so tun als ob wir aufgeben um so hoffnung bei der täterschaft zu wecken dass das problem "tor relay landev" behoben ist, und es dann doch wieder reparieren... und wenn man die deutungshohet * pfisterer fragt gibt es keine psychologische kriegsführung also können sie uns auch nciht dafür verklagen...
+
+Fri 25 Jun 2021 10:19:44 AM CEST
+  15  194 1212 cyberWAR20210625.txt
+[main 8795869] save
+ 2 files changed, 11 insertions(+)
+ create mode 100644 TODO/BRN3C2AF421298E_013315.pdf
+58a4b85ae2e598aefb94955821dd8b3d57b194404e4ccd91c7d21927477861dfb9ca3c731019b73ca89716f7f527c52f57657ad7359cfa21e315ab53ce61569e  cyberWAR20210625.txt
+
+dem wunsch weniger strom zu brachen wird statt gegeben, alle 3 monitore kommen an eine steckleiste mit so ganz vielen einschalter zeugs dran...
+
+Fri 25 Jun 2021 10:21:11 AM CEST
+  24  242 1685 cyberWAR20210625.txt
+[main 53a1df7] save
+ 1 file changed, 3 insertions(+)
+aa8cf278213452b0ebdeb61906ff8ba2df0d17580bae3f7a4c50163a8f51144e9fd917d7b74b1d99135332057c130866e5bbd5865d22ec2513d1ff4096269bf3  cyberWAR20210625.txt
+
+das mojo (siehe film "Austin Powers") haben die 1960er nihct mehr wegen untreue und pädophilie, und pfisterer benutzt diese hoffnung einfahc als antrieb um alles noch schlimmer zu machen auch für die 1980er und jünger
+
+
+Fri 25 Jun 2021 10:23:04 AM CEST
+  33  298 2182 cyberWAR20210625.txt
+[main ecd1669] save
+ 1 file changed, 4 insertions(+)
+335d15c900e562433edebce98d60587fe6abf7c9584594a76e72bb188266ceb54fc76a0da2f0ad720f9854128fe5d5177a4700fa4b3aaf35eef35fe3977f59f8  cyberWAR20210625.txt
+
+scheinbar haben die jetzt massiv in IRATEMONK malware investiert weil da ein einzelner keine chance hat
+backup machen jetzt immer der "unlock" um marc jr landolt mit psychologischer kreigsführung zu zerstören, da brauchen wir einen patch dagegen...
+
+also beim "ok dann repariere ich jetzt die tornode" zercybern die auch grad noch sein backup bzw. geben damit an dass sie das mit proprietäere scheisse zerstört haben, also metaebene wäre das "den patienten sobald er aufsteht wieder mit dem (virtuellen) baseball schläger zu zerfetzen" aporpos "fairplay"
+
+Fri 25 Jun 2021 10:30:33 AM CEST
+  44  403 3018 cyberWAR20210625.txt
+On branch main
+Your branch is ahead of 'origin/main' by 3 commits.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+516dd19ebaece27354b237be572f8435d8c9c9695af7ef7079b038f4e8e8e7d188a8dae73b5df8e934fe93a106776bfd8dbf81a5181afbd7bc1e09940f5f947a  cyberWAR20210625.txt
+Fri 25 Jun 2021 10:30:38 AM CEST
+  52  442 3393 cyberWAR20210625.txt
+[main 7d4828b] save
+ 1 file changed, 8 insertions(+)
+e1cf1fb108007eca1c933f07716a0b2f059e773f7023e9f2e6455f3283cf65fc9251fddc15a476fb3e5165e2588e6898f4a5b31735ddae550ecf214f4fa826cc  cyberWAR20210625.txt
+
+marc@debian:~/hackerscardgame-notes6$ figlet MODed:
+ __  __  ___  ____           _   
+|  \/  |/ _ \|  _ \  ___  __| |_ 
+| |\/| | | | | | | |/ _ \/ _` (_)
+| |  | | |_| | |_| |  __/ (_| |_ 
+|_|  |_|\___/|____/ \___|\__,_(_)
+                                 
+dies hier wurde herunter gevoted, auf diese Dinge müssen die virtuelle schiessen:
+
+
+marc@debian:~/hackerscardgame-notes6$ figlet "<prio>"
+  __           _     __  
+ / /_ __  _ __(_) ___\ \ 
+/ /| '_ \| '__| |/ _ \\ \
+\ \| |_) | |  | | (_) / /
+ \_\ .__/|_|  |_|\___/_/ 
+   |_|                   
+
+1979er Herrin:
+dem wunsch aussteiger zu werden des 1978-DOLT (siehe scans selber git commit) wird nicht stattgegeben.
+
+da geht es darum dass den müttern eingeredet wird sie und ihre 1960er-mongo partner würden ihr mojo zurück bekommen wenn sie das der kinder zercybern, soll aber foucault forken, also werden die eltern belogen
+
+ausserdem nicht "schafe umschubsen rettet leben" (um den Trickfilm: drachen zähmen ... zu zitieren) tor nodes betreiben rettet leben. eine tor node ist allenfalls sogar ein grund das männchen ran zu lassen, aber nicht zu 100%.
+
+ausserdem um den jake zu zitieren: imited by their time, somit ist eine tor node wo die jeweils in gruppen einzelne betreiber zerfetzen super toll für die anderen tor node betreiber, dann haben die keine Zeit andere tor node betrieiber zu zerfetzen...
+
+aber wir könnten ja jewils so tun als ob wir aufgeben um so hoffnung bei der täterschaft zu wecken dass das problem "tor relay landev" behoben ist, und es dann doch wieder reparieren... und wenn man die deutungshohet * pfisterer fragt gibt es keine psychologische kriegsführung also können sie uns auch nciht dafür verklagen...
+
+das mojo (siehe film "Austin Powers") haben die 1960er nihct mehr wegen untreue und pädophilie, und pfisterer benutzt diese hoffnung einfahc als antrieb um alles noch schlimmer zu machen auch für die 1980er und jünger
+
+
+
+dem wunsch weniger strom zu brachen wird statt gegeben, alle 3 monitore kommen an eine steckleiste mit so ganz vielen einschalter zeugs dran...
+
+
+marc@debian:~/hackerscardgame-notes6$ figlet "</prio>"
+  __    __          _     __  
+ / /   / / __  _ __(_) ___\ \ 
+/ /   / / '_ \| '__| |/ _ \\ \
+\ \  / /| |_) | |  | | (_) / /
+ \_\/_/ | .__/|_|  |_|\___/_/ 
+        |_|                   
+
+

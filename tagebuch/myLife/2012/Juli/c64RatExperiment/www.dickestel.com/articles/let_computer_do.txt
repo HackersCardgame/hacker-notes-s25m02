@@ -1,0 +1,103 @@
+Let The Computer Do It
+
+by Rolf Miller
+
+A local user group member asked me to repair his malfunctioning 64. But before I could dig into it, the
+work table needed clearing. It had several pieces of equipment on it for lack of knowing where else to
+put it. Looking for a place found an empty box in the middle of a stack containing other machines in
+various states of disrepair kept mostly for parts. Consolidating this pile of stuff uncovered an old
+VIC-20. These have their own stack. So..... Needless to say, I didn't get to repairing the 64 until the
+next day. 
+
+And lately, this proclivity for one thing leading to another seems to be getting worse. I should have
+known, therefore, that introducing my son to the benefits of programming would lead to more requests.
+He, like most of those who use bigger PCs, had no idea his computer was subject to individual
+programming. Consequently, his board-game invention efforts consumed a great amount of time as he
+played them by hand to work out the details. Hence, the discussion which led to a little dice rolling
+simulation. Discovering that his computer could relieve him of actually throwing the dice stirred the
+inventive juices. 
+
+"Why," he asked in an e-mail, "couldn't the computer also be programmed to simulate the whole
+game?" "Wait a minute," I began my reply. 
+
+There are reasons why a bigger PC has not replaced the Commodore as my primary computer. One of
+those reasons is the ease with which the 64 can be programmed. And while it is not a particularly hard
+task to convert small BASIC programs for use on other platforms, larger efforts can become complex. 
+
+I shouldn't have said anything. All he needs to do is prove the validity of the game. He can determine
+this from a breakdown of outcomes. I can do that on the 64! Yes indeed: one thing leads to another.
+When I sent him the results of the game simulation (he won't let me tell you about it), he expressed
+disappointment at the numbers. 
+
+"Are you sure the dice rolling simulation is accurate?" he asked. (I can tell you about that.)
+Commodore's random function is expressed as RND(X) and produces a random value greater than
+zero but less than one. This value is generated from a seed value determined by the sign of X. If X is
+zero, the seed value is taken from the computer's internal clock each time it is executed. If X is positive,
+the seed value is that which the computer set at turn on, or that which is set by first executing RND with
+X set to a negative value. If RND(-X) is used first to establish the seed, the random sequence is
+repeated by using X set to a positive value. Because RND(0) reseeds itself on each call, some
+programmers choose it for dice simulation. 
+
+However, since RND(0) takes its seed value from the computer's clock, the results can be skewed
+because clocks are not random. This explains my use of RND(-TI) to initialize the seed from the
+continually changing clock, but then utilize RND(1) thereafter to generate the random values apart from
+the clock. As an aside, it's noted that establishing the value of TI outside the routine with T=TI, then
+saving the value of T, allows reproducing the sequence of numbers by reintializing the routine with
+RND(-T) and using RND(1). This can be a valuable debugging tool, especially for games. To test the
+dice rolling code brought about this little routine.
+
+10 dimd(6):t%=rnd(-ti):forx=1to10000 
+44 d1%=rnd(1)*6+1:d(d1%)=d(d1%)+1:next 
+50 forx=1to6:printx"="d(x):next
+
+Since there are 6 equal possibilities, each should occur some 1666 times in 10,000 throws, optimally.
+The results of one run came up as follows, which are judged acceptable. 
+1 = 1623 
+2 = 1695 
+3 = 1677 
+4 = 1701 
+5 = 1663 
+6 = 1641 
+
+Next came a test for two dice.
+
+10 dimd(12):t%=rnd(-ti):forx=1to10000
+44 d1%=rnd(1)*6+1:d2%=rnd(1)*6+1:d=d1%+d2%:d(d)=d(d)+1:next
+50 forx=2to12:printx"="d(x):next
+
+Here the odds are different. According to son the odds are:
+
+1 in 36 for 2 and 12, or 277 in 10,000 throws;
+2 in 36 for 3 and 11, or 555 in 10,000 throws;
+3 in 36 for 4 and 10, or 833 in 10,000 throws;
+4 in 36 for 5 and 9, or 1111 in 10,000 throws;
+5 in 36 for 6 and 8, or 1388 in 10,000 throws;
+6 in 36 for 7, or 1666 in 10,000 throws.
+
+The results of one run follow, also judged acceptable.
+
+2 = 257 
+3 = 553 
+4 = 847 
+5 = 1091 
+6 = 1408 
+7 = 1634 
+8 = 1355 
+9 = 1112 
+10 = 883 
+11 = 561 
+12 = 299 
+
+In both instances, multiple runs provided similar results with slight variations. In other words, son is
+going to have to revise some aspects of his game -- which in turn, of course, leads to more
+programming on my part.
+
+(To make these little routines into a Commodore programs, simply save the listing as a PETASCII text
+file, then read the text file to the screen with a file reader, carefully execute NEW so the listing doesn't
+scroll off screen, then move the cursor over the top program line number and press RETURN over
+each program line.
+
+July 2000
+
+(From the Homestead Commodore Mail List via the Commodore Information Center,
+http://home.att.net/~rmestel/commodore.html) 

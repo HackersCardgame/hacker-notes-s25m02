@@ -1,0 +1,39 @@
+Our Trusty Little Computers
+
+by Val DeCot
+
+Oh, no! Not another pep talk article about Commodore computers? Well, sorta.
+
+It seems that when you speak to people about your C-64 or C-128, they sigh, and predictably answer,
+"It didn't die?" No, it didn't die. The reason it didn't is that it is an excellent platform with a lot of room
+for expansion. There is as much future in front of it as it has history behind it. The C-64 today, does
+more, does it faster, handles more RAM, prints using the latest printer technology, and runs larger and
+more sophisticated programs than Commodore's Research & Development team ever envisioned.
+Many of us still remember when 256k or, God forbid, 512k of expanded memory made you the king of
+Commodore hill!
+
+As I type this, many of us die hard Commodore users are already running our C-64's and 128's at 20
+mHz and with RAM capacities as high as 16 megabytes. Certainly that wasn't foreseen 10 years ago.
+Soon we will have the capacity to increase our RAM another 16 MB through the use of Fast Page and
+EDO 72 pin SIMMS and the rocket socket which will fit directly into the Super CPU.
+
+What does the future hold for us and our favorite computers? Who's to really say at what speed they
+will run and the amount of information they will process?
+
+I guess the point I'm trying to make is this...Many of us purchased our computers in the 1980's when
+Commodore was king. We were witness to the changes taking place in the late 1980's and early
+1990's. We hung on and watched from the sidelines as Commodore slid into its corporate grave. A
+strange thing then occurred, the little 8 bit computers lived on. I think that it would not be news if I
+stated, we all know that our friendly, trusty, little ole C-64 and 128's are not cutting edge computer
+technology today, but, keep in mind, we're closer than we were last year. I personally think our
+machines will keep getting closer to the cutting edge. After all, these are probably some of the most
+expandable computers ever sold to the public.
+
+Our 64's and 128's send and receive FAX documents that can be saved, converted and/or printed. We
+have point and click technology which is very near to being upgraded. It's the machine you stuck with,
+the machine you know, and it's the easiest platform to learn on. We have not caught up to the big boys,
+but we're getting a little closer and I think I can just see them off in the distance. From where I stand, I
+think that it's only going to get better.
+
+(From Input/Out, newsletter of the Arizona Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html)

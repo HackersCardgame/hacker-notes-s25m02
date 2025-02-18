@@ -1,0 +1,63 @@
+Viruses and Commodore 
+
+Virus checking is becoming a must-do activity at every turn on for those in the megacomputer world.
+To fail to check for viruses is to risk the entire contents of the hard drive. And since megacomputers
+rely on the hard drive for every aspect of their operation, an infected hard drive passes the organism to
+the whole system.
+
+For that reason, it is becoming common practice to install a virus checking program that boots along
+with the Disk Operating System (DOS). This germ detector searches through the entire Disk Operating
+System and other data on the hard drive, looking for what shouldn't be there. If it finds any microbes, it
+eradicates them.
+
+This process, of course, is time consuming. And when added to the time it takes to boot the Disk
+Operating System in the first place, it can leave the user waiting for what seems an eternity on these
+otherwise lighting-fast machines. This interminable startup delay prompted one who forsook what he
+called the "slow-as-a-slug" Commodore to utter an unprintable remark.
+
+A computer virus, naturally, is not organic. It is a little bit of virulent program code that wedges itself
+into the Disk Operating System and spreads itself throughout the infected disk to cause what- ever
+chaos it is programmed to do. Most viruses are coded to lie dormant until a specific event occurs, like a
+date, time, or other computer related activity. The number of different computer viruses now count in
+the thousands.      There is an interesting parallel between the real world of microorganisms and this world
+of computer diseases. Filthy environments provide the breeding ground for both. Just as the one
+plagues those who share needles, so does the other curse those who share copyrighted software. As
+one said, pirated software is nothing more than a painted woman offering herself as the real thing,
+carrying the scourge of all those who pass her around.
+
+Viruses, as such, are not a problem for Commodore 8-bit machines. This is mainly due to the fact that
+the disk drives used, including hard drives, rely on a ROM-based Disk Operating System. ROM, being
+Read Only Memory on a chip, cannot be changed. Therefore, Commodore's Disk Operating System
+cannot be infected.
+
+MS-DOS, etc., on the other hand, is itself a program. It resides on the hard disk. Hence, infecting the
+Disk Operating System with the nefarious coding not only affects the whole machine, but allows its
+spreading to everything coming into or going out of the machine. 
+
+However, there are a few dirty tricks to which Commodore users are susceptible. One such nasty is a
+countdown routine hidden in a program that causes the disk to be unexpectedly reformatted But these
+mean-spirited shenanigans are limited to the programs in which they reside and imperil only disk in the
+drive. 
+
+Other malevolent schemes designed to wipe out files or corrupt data do exist. And some of these do
+have the ability to copy themselves to any disks used in conjunction with the disk containing them.
+Again, though, that is the limit of their viability. The spurious coding dies at turn off, and it cannot
+resurrect itself until the disk containing it is again used.     The foregoing should not alarm anyone in the
+Commodore community. Besides the built-in immunities inherent with the Commodore Disk Operating
+System, the reprobates given to inventing such maladies no longer find any satisfaction afflicting the
+beggarly world of Commodore. They have mega-fish to fry! Hence, most of their dirty work has long
+since seen the light of day and been eradicated. 
+
+A related benefit is that during the same time users uncovered the mischievous deeds, the bugs that
+invariably accompany initial program development and new equipment designs also came to light. As a
+result, the critters whose tracks and droppings make for messy use are all but nonexistent in today's
+popular programs. To a slightly lesser extent, the insects crawling around inside Commodore equipment
+have also been exterminated. And as for the surviving bugs, today's programs for the most part avoid
+them, making them of little consequence. Commodore users, therefore, operate in a relatively virus-free
+and bug-free environment. That makes for a generally healthy computer experience. And, like good
+health, the worth of this blessing is fully appreciated only by those who don't have it.
+
+(Compiled from various sources; reprinted from The Gazette, newsletter of CIVIC 64/128 User
+Group, Oxnard CA, via The Commodore Information Center web site
+(http://home.att.net/~rmestel/commodore.html) )
+

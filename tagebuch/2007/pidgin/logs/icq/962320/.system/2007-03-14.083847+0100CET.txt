@@ -1,0 +1,18 @@
+System log for account 962320 (icq) connected at 14.03.2007 08::38::47
+---- +++ 962320 hat sich angemeldet @ 2007-03-14 08:38:47 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-03-14 08:38:48 ----
+---- Weep ist jetzt Offline @ 2007-03-14 08:45:41 ----
+---- cute fairy ist jetzt Offline @ 2007-03-14 08:46:21 ----
+---- cute fairy hat den Status von Offline zu Verfügbar geändert @ 2007-03-14 08:47:10 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-03-14 09:12:32 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-03-14 09:12:33 ----
+---- +++ 962320 wurde untätig @ 2007-03-14 09:02:56 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-03-14 09:25:19 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-14 09:48:46 ----
+---- michi wurde untätig @ 2007-03-14 09:53:41 ----
+---- cute fairy hat den Status von Verfügbar zu Offline geändert @ 2007-03-14 09:55:27 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-14 09:58:16 ----
+---- michi wurde tätig @ 2007-03-14 09:58:16 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-03-14 21:17:18 ----

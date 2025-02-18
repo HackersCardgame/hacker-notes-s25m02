@@ -1,0 +1,59 @@
+Trailing Edge Technology 
+
+by Rolf Miller
+
+A 64 accomplishes 90% of the work done with computers at this desk.  The other 10% is done with a
+pre-Pentium computer cobbled together from discards.  It uses Windows 3.1 to accomplish its primary
+function of sending and receiving e-mail via Juno.  The bridge between these two platforms is a 1541
+disk drive connected via an X1541 cable to the Windows machine running the Star Commander
+program. 
+
+Putting together this pre-Pentium computer necessitated learning a little bit of MS-DOS.  And let me
+say that compared to Commodore's DOS, MS-DOS is a terribly clumsy way of doing things. 
+Nonetheless, DOS allows activity not easily accomplished, if it can be done at all, from within
+Windows.  This explains why Windows contains an MS-DOS icon that allows entering DOS.  This
+also explains a late evening call from a former Commodore user struggling with the MS-DOS prompt
+on his Windows 95 machine. 
+
+The sad thing about this is that what he was trying to do is something he used to easily accomplish with
+his Commodore.  Adding insult to injury, his Windows machine was leading edge technology when he
+bought it just a couple of years ago for well over $1000.  That's the injury.  The insult is that a similar
+machine can be had today for a tenth as much.  The truth of this is known because a recent
+development required obtaining a like machine. 
+
+The need stemmed from the occasional use of certain sites on the web which invoke high security
+encryption.  Recent upgrades to those sites now require the newest web browsers.  And you guessed it:
+Windows 3.1 can no more handle the newest web browsers than can GEOS 1.3 run Wheels.*  And if
+you think loading a program from a datasette is slow, you haven't seen a pre-Pentium computer trying
+to run Windows 95. 
+
+I had initially thought to patch together a Windows 95 machine. But for not much more than the cost of
+an evening out, it's not worth the effort.  I also rejected out of hand the option of purchasing a new
+machine.  And in spite of those who make fun of what I choose to call "frugality," cost is not the only
+consideration.  It rather has to do with maintaining the link with Commodore. 
+
+Commodore fell off the back edge of technology some years ago. That doesn't affect the usefulness of
+the machine within its capabilities, but the leading edge of technology is rapidly widening the gap that
+must be bridged if a Commodore is to be used interactively with the other platform. 
+
+There are, of course, several means to form that link, some more efficient than others.  They include
+telecommunications, direct RS-232 connections, and disk media manipulation via Big Blue (or Little
+Red) Reader.  But for every day use, I have found nothing easier than the X1541 connection. 
+
+The widening technology gap is beginning to strain this bridge. First, the X1541 cable connects to the
+IBM-type computer's 25-pin printer port.  Newer machines are appearing without this porting.
+Second, the Star Commander program must run in DOS outside of Windows; to do otherwise messes
+up the timing requirements of the 1541.  This is still possible in both 95 & 98, but DOS is scheduled to
+be abandoned in newer versions of Windows.  Third, the 1541 cannot handle data at the high speeds of
+these machines.  The Star Commander program compensates for this with a built-in delay which is
+adjustable to a limit.  Newer machines exceed that limit. 
+
+For me, therefore, working with the oldest technology that does the job is essential to maintaining the
+Commodore at the hub my computer activities.  And every time I get a call for help from Windows
+users, especially former Commodore users, the decision to stay with my 64 is reaffirmed.
+
+*The latest version of Wheels can be installed using any version of GEOS, 1.3 or higher (the same can't
+be said for the Windows 3.1/new web browser incompatibility).
+
+(From the Internet, via the Commodore Information Center,
+http://home.att.net/~rmestel/commodore.html) 

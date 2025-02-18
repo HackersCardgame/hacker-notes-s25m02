@@ -1,0 +1,4 @@
+
+figlet -f banner PSY Vulnerability port scanner  -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+
+

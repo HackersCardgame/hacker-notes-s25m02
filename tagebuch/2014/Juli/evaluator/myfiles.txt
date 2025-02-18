@@ -1,0 +1,5 @@
+../evaluator/myfiles.txt
+../evaluator/Wordcount.txt
+../evaluator/temp.txt
+../evaluator/fuellwoerter.txt
+../all.txt

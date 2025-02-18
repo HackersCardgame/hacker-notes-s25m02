@@ -1,0 +1,62 @@
+Tagebuch Mi 2 Jun 2010 20:56:47 CEST @ Marc-Landolts-MacBook-Pro.local
+
+ich schreib mal wieder.
+
+Hypothese:
+wenn (46cc)
+
+{
+    wenn männlein.elementOf(Militär.kader)
+  {
+     set weiblen.aura = lovely
+     set töchterlein.aura = lovely
+  }
+
+  |---> magnetische wirklung auf andere männlein und sönchen
+    |---> recode the männlein und sönlein for military purpose, even if he has a really good heart
+
+  für das kaderlein wird das wohl einfach ein effekt sein, welches es profitiert, aber es nicht bewusst zur
+  kenntniss nimmt, denn wäre es ihm bewusst währe es eine gefahr für das system militär
+}
+
+implementation, genealisierte frequenz (klangfolge), z.B. ultraschall als eine technologie welche ich implementieren könnte, oder ev TMS, sprich man müsste sich einfach überlegen wie man die nötigen teslas hinbringt, ev mit
+supraleiter. 
+
+(hey stimme: ich hatte montags meine spritze, stimme agierst du auf schall oder TMS?)
+
+counter measures: tesla-meter + ultraschall mikro + KO
+
+NEXT TOPIC
+man schreibe (für anwälte) eine IT richtlinie die alles erlaubt, z.B. inklusive dem lesen von privatmails
+und nutze die dadurch gewonnen informationen am arbeitsplatz um diesen menschen weiter so zu formen, dass 
+er die ganze arbeit macht ohne sich zu wehren, moderne psychische sklaverei
+
+genau so könnte z.B. ein milionenreicher schnösel(in) seine mitmenschen studieren
+und konditionieren (z.B. gdi und alphakanal) ohne rechtliche repressalien zu fürchten
+das problem ist das, dass man durchaus mit diesen mitteln einen menschen dazu bringen
+kann seine dienstwaffe an die schläfe zu halten und (sich) zu ermorden.
+
+goto mcse stupid frontend
+
+
+http://www.hohle-erde.de/body_a-senkowski.html   ---> genie oder wahnsinn, ich glaube so genie, dass er
+							ein bisschen wahnsinn absichtlcih eingebaut hat
+
+ein problem der menschen die das gute wollen und die die schlechten leute durchschauen
+ist dass diese guten menschen nie einen wirklich schlechten menschen ermorden würden
+nicht mal wenn andere menschen dadurch sterben würden, also sagen wir mehr als der 
+einzelne, somit wäre es die pflich einen menschen, der durch seine (egoitsich, 
+gierig etc motivierten) handlungen andere menschen in den tod treiben zu ermorden
+so dass die anderen guten menschen am leben bleiben und nur der anti-altruistische
+mensch sein leben lassen müsste.
+
+
+
+
+
+
+
+
+
+
+

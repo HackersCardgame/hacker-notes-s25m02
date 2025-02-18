@@ -1,0 +1,7 @@
+System log for account marc.landolt@yetnet.ch (msn) connected at 26.01.2007 18::46::07
+---- +++ marc.landolt@yetnet.ch hat sich angemeldet @ 26.01.2007 18::46::07 ----
+---- Sonja hat den Status von Offline zu Abwesend geändert @ 26.01.2007 18::46::08 ----
+---- Sonja hat den Status von Abwesend zu Offline geändert @ 26.01.2007 19::21::04 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 26.01.2007 23::40::34 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ marc.landolt@yetnet.ch hat sich abgemeldet @ 27.01.2007 00::10::31 ----

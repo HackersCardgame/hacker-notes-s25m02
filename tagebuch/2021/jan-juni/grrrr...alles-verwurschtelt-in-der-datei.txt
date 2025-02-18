@@ -1,0 +1,4 @@
+
+ fgrep -ri pessimal * --color |sed -e "s/,/\n/g" |grep -v typename |grep -iP "(title|name|position)" --color
+
+

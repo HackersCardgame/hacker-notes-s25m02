@@ -1,0 +1,28 @@
+System log for account marc.landolt@yetnet.ch (msn) connected at 28.01.2007 13::29::56
+---- +++ marc.landolt@yetnet.ch hat sich angemeldet @ 28.01.2007 13::29::56 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 28.01.2007 13::30::08 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 01.01.1970 01::00::00 ----
+---- Çanlar kimin için çalıyor? hat den Status von Offline zu Verfügbar geändert @ 28.01.2007 15::54::50 ----
+---- Çanlar kimin için çalıyor? hat den Status von Verfügbar zu Offline geändert @ 28.01.2007 15::55::09 ----
+---- Çanlar kimin için çalıyor? hat den Status von Offline zu Verfügbar geändert @ 28.01.2007 16::00::33 ----
+---- Çanlar kimin için çalıyor? hat den Status von Verfügbar zu Offline geändert @ 28.01.2007 16::23::04 ----
+---- Çanlar kimin için çalıyor? hat den Status von Offline zu Verfügbar geändert @ 28.01.2007 16::25::27 ----
+---- Çanlar kimin için çalıyor? hat den Status von Verfügbar zu Offline geändert @ 28.01.2007 16::31::16 ----
+---- Çanlar kimin için çalıyor? hat den Status von Offline zu Verfügbar geändert @ 28.01.2007 16::31::17 ----
+---- Çanlar kimin için çalıyor? hat den Status von Verfügbar zu Offline geändert @ 28.01.2007 16::58::10 ----
+---- Çanlar kimin için çalıyor? hat den Status von Offline zu Verfügbar geändert @ 28.01.2007 16::58::11 ----
+---- Çanlar kimin için çalıyor? hat den Status von Verfügbar zu Offline geändert @ 28.01.2007 16::58::33 ----
+---- Çanlar kimin için çalıyor? hat den Status von Offline zu Verfügbar geändert @ 28.01.2007 16::58::34 ----
+---- Çanlar kimin için çalıyor? hat den Status von Verfügbar zu Offline geändert @ 28.01.2007 17::28::21 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 28.01.2007 18::32::17 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 28.01.2007 19::06::06 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 28.01.2007 19::19::48 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 28.01.2007 20::27::37 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 28.01.2007 21::29::16 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ marc.landolt@yetnet.ch hat sich abgemeldet @ 29.01.2007 00::51::22 ----

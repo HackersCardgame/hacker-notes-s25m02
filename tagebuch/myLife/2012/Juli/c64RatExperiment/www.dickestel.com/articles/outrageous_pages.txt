@@ -1,0 +1,111 @@
+OUTRAGEOUS PAGES REVIEW
+
+by JackA7 (Qlink-ID)
+
+(Article Index Editor's Note: Although this program was not on the market long, you may be tempted
+to pick up a used copy some time. Read and be warned)
+
+This review is really in two parts. The first part after looking at the program and playing with it for a few
+hours and the second after seriously working with it trying to turn out some decent pages for a
+newsletter. Be sure to read the last half of it. The errors referred to were in other pages of the
+newsletter and what happened was that the first pass printed ok, but the second pass (which prints the
+bottom half of the text) would be off by a half space to as much as four spaces shifted right.
+
+AT LAST! We now have a DTP (Desk Top Publisher) for the C-64. I know a few of you GEOS
+lovers will object to the first statement, but I do not consider a program that requires you to own
+another hundred dollars of specific software to be anything more than an enhancement for that specific
+software.
+
+In my opinion, a true DTP should allow you to use your favorite word processor, data base,
+spreadsheet or graphics files. It should also allow you to TOTALLY create a page without having to
+own anything else besides a printer. This one does it and it is the first! There are several more promised
+and some of them may be better, but this one priced reasonably ($50.00 at full retail -- discounted to
+about $35) and is available now!
+
+WHAT IT DOES:
+
+Batteries Included suggests that you can create Newsletters ( 2-column, 3-column or diamond),
+calendars, certificates, invitations, greeting cards, signs, flyers, banners, letterheads, stickers, labels,
+menus, message pads, name tags and coupons. They have included sample templates and instructions
+for most of these, but once you have waded through the program and documentation you should be
+able to create just about any layout scheme you like 
+
+It prints full pages, full screens and partial screens (boxes).
+
+They call it a "Creative Page Designer," and it is just that. It allows you to place graphics or text
+anywhere you want and to put circles, ellipses, boxes, or borders around it. If you bring in text from
+your favorite word processor it will flow the text around the graphics you have placed. Menu driven
+commands allow you to copy, flip, rotate, expand or reduce any area of the page. Fonts can be mixed
+in just about any manner. If you don't like any of the 50 fonts that are included, you can modify them or
+create your own. The program comes with 80 different graphics, patterns (for background or fill) and
+borders, or you can use any of your favorites from Print Shop or Newsroom. These will have to be
+converted, but the conversion program is included and is very simple to use. If you already have a
+Newsroom panel that you like you can bring it into Outrageous Pages. 
+
+
+Printer drivers are supplied for 15 of the most popular printers so most users should be able to pick one
+that will work for them. The NLQ mode provides a darker and somewhat clearer printout, but is only
+available through the Epson drivers. All printer files (except CBM9) allow you to choose serial, parallel
+or RS-232 ports for output.
+
+The program is copy protected. They recommend that you make copies of all 6 sides to work from, but
+you will have to insert one of the Master Key disks for verification at the beginning of each session.
+
+Like most programs of this scope it is not fast or simple to operate. With two drives is has fewer disk
+changes, and if you would plan a little ahead you could have all your fonts, graphics, borders and
+patterns on one disk which would eliminate any disk changes. The program is not real fast, but
+considering what it does I think it does real well. Unlike some programs of this type, it will abort the
+print process fairly quickly if you change your mind.
+
+The programming seems to be very thorough. Some of the safeguards are a little annoying if you are in
+a hurry, but it is almost impossible to foul things up and lose or destroy your work with just one
+accidental key stroke.
+
+The program will work with a joystick, mouse (either 2 or 3 button) or from the keyboard. It also will
+work with a fastload cartridge. You can switch input drivers at anytime.
+
+The documentation is thorough, but like all documentation is not laid out in a very logical manner. If you
+read the manual through before you start you should get a pretty good feel for the program just by
+running through their "Guided Tour" section.
+
+ON THE NEGATIVE SIDE:
+
+If you want to drastically alter the size of a graphic you may need a full screen to do it. This would
+present a problem if you are close to the end of the page. Correcting a spelling error is simply a matter
+of hitting the delete key, UNLESS you have hit RETURN. Once you do that it becomes a graphic and
+it is easier to replace the entire line, than to try and correct a single letter. I would also suggest that you
+re-save all the graphics in postage stamp size as it is definitely easier to enlarge to fit than to load a
+picture in and have it overwrite an area because you forgot to turn the autoflow function on.
+
+While this program does not take advantage of any of the C-128's features, it definitely fills a need for
+Commodore enthusiasts, and nothing like it is planned for the 128 in the immediate future. Many of
+these features are available in Basic 8, but Outrageous Pages does a great deal more and does it more
+simply.
+
+Well it seems there may be a few more negative things to say about the program. There seems to be a
+very serious problem with margins and/or printer resets. Every few lines the printer appears to do a
+reset. Whether this is something within the printer or due to software commands, I am not sure yet.
+Since my Epson 1000 took a dump this week (I certainly hope not because of printing half a dozen
+Outrageous Pages) I used an EX-800 for this newsletter. I have re-checked the graphics using the
+zoom feature and they are intact, and yet, the borders on all multiple column pages are printing
+erratically. Every time the border fails to print, the line with it and sometimes the following line are off by
+anywhere from one half to four full spaces. It makes for some strange graphics and some totally
+unreadable text.
+
+I expect that when I contact the Epson dealer tomorrow, he will blame the software and that Batteries
+Included will blame the printer. We went through this same stuff in August with Epyx and Create a
+Calendar. As it turned out in that case it was a problem with both the software and the Xetec Interface.
+As of this writing neither company has contacted us to say they have solved that problem.
+
+LATE UPDATE -- I called Batteries Included (Electronics Arts) this afternoon and after wasting seven
+minutes with someone who knew nothing, was told that "Mike" would call me back right after lunch.
+Well folks it is now supper time and the newsletter has to go out -- warts and all! I will go on Q-Link
+tonight and post this review and a note to EA and see what happens.
+
+
+(Interface Editor's Comments: I have used this program, as well as Paperclip Publisher and geoPublish.
+I found Outrageous Pages terribly tedious and difficult to work with. It was withdrawn from the market
+due to problems with the printer drivers. I guess "Mike" is still out to lunch! --Dick Estel 3/89)
+
+(From COMM'PUTOY CULT Newsletter, February 1998, via the Commodore Information Center,
+http://home.att.net/~rmestel/commodore.html) 

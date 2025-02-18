@@ -1,0 +1,94 @@
+Halli Hallo Ihr zwei
+
+In der Nerd-Community ist das Herumbasteln mit ARDUINO üblich, der Teil wie ein Computer funktioniert bleibt aber verborgen weil der Arduino als SoC Mainboard, CPU und RAM vereinigt, somit dieses Wissen nicht benötigt wird im ein Blinklicht oder ein Feinstaubsensor zu basteln.
+
+Man könnte deshalb für Interessierte "eine kleine Geschichte der Computer-Architektur" erzählen um zu verstehen wie ein CPU/Mainboard funktioniert.
+
+Herleitung:
+1. Transistor [1] (das habt ihr ja gerade erklärt [0])
+2. nicht-Und-Gatter oder NOR-Gatter aus Transistoren [2]
+3. FlipFlop aus nicht-Und-Gatter oder NOR-Gatter [3]
+4. Schieberegister aus Flipflops [4]
+5. 8-Bit-Addierer mit Übertrag (Behalte 1) [5]
+
+=> ab da kann man sich noch nicht unbedingt vorstellen wie eine ALU (Arithmetische Logische Einheit) funktioniert. Man muss noch den Microcode erklären. Wenn man dann ganz einfaches Assembler anschaut, also zB die Universal Register AX, BX, CX, den Befehlspointer IP und irgend ein Befehl MOV oder ADD oder JNZ anschauen (x86 Assembler bzw. [6]) dann begreift man das ungefähr. Also der Microcode der CPU schaltet das Rechenwerk im Prozessor so wie es benötigt wird, also ob jetzt das AX und das BX Register zur Integer-Addition *) verknüpft werden (ADD) oder zur Integer-Subrtaktion (SUB)
+
+*) Ganzzahl
+
+Dann braucht man noch ein Mainboard, da kann man den Fokus auf Datenbus, Adressbus und Steuerbus legen
+
+DatenBus: darüber werden die Daten übertragen
+AdressBus: der sagt in welche SpeicherStelle
+Steurbus: der sagt ob lesen oder schreiben
+
+Diese Dinge kann man ganz gut am Beispiel des C64 Mainboards [7] erklären. Logischerweise ist ein aktueller Intel i7 komplizierter, funktioniert aber ungefähr nach dem selben Prinzip.
+
+Das ist ungefähr der Vorlesungs Stoff eines 1. - 2. Semester Informatik Studiums, Quellen zu z.B. dem Schieberegister oder Assembler muss man aber lesen wie man auch in Mathe Aufgaben machen muss um irgend ein Konzept zu verstehen.
+
+
+[0] und versifft dabei denjenigen verbal zu Bashen der die Technische und Physikalische Stromrichtung verwechselt hat was alles nur noch komplizierter macht für Anfänger.
+
+[1] https://de.wikipedia.org/wiki/Transistor
+
+[2] https://de.wikipedia.org/wiki/NAND-Gatter
+
+[3] https://www.elektronik-kompendium.de/sites/dig/0209302.htm
+
+[4] https://de.wikipedia.org/wiki/Schieberegister#Aufbau
+
+[5] https://de.wikipedia.org/wiki/Addierwerk#Von-Neumann-Addierwerk
+
+[6] bzw. auf dem C64 wäre es LDA, ... https://www.c64-wiki.de/wiki/%C3%9Cbersicht_6502-Assemblerbefehle
+
+[7] https://www.c64-wiki.de/wiki/Hauptplatine
+
+Gruss
+Marc jr. 
+
+
+
+Halli Hallo Ihr zwei
+
+In der Nerd-Community ist das Herumbasteln mit ARDUINO üblich, der Teil wie ein Computer funktioniert bleibt aber verborgen weil der Arduino als SoC das Mainboard, den CPU und das RAM vereinigt, somit dieses Wissen nicht benötigt wird im ein Blinklicht oder ein Feinstaubsensor zu basteln.
+
+Man könnte deshalb für Interessierte „eine kleine Geschichte der Computer-Architektur“ erzählen um zu erklären wie ein CPU/Mainboard funktioniert.
+
+Herleitung:
+1. Transistor [1] (das habt ihr ja gerade erklärt [0])
+2. nicht-Und-Gatter oder NOR-Gatter aus Transistoren [2]
+3. FlipFlop aus nicht-Und-Gatter oder NOR-Gatter [3]
+4. Schieberegister aus Flipflops [4]
+5. 8-Bit-Addierer mit Übertrag (Behalte 1) [5]
+
+=> ab da kann man sich noch nicht unbedingt vorstellen wie eine ALU (Arithmetische Logische Einheit) funktioniert. Man muss noch den Microcode erklären. Wenn man dann ganz einfaches Assembler anschaut, also zB die Universal Register AX, BX, CX, den Befehlspointer IP und irgend ein Befehl MOV oder ADD oder JNZ anschauen (x86 Assembler bzw. [6]) dann begreift man das ungefähr. Also der Microcode der CPU schaltet das Rechenwerk im Prozessor so wie es benötigt wird, also ob jetzt das AX und das BX Register zur Integer-Addition (ADD)verschaltet werden oder zur Integer-Subrtaktion (SUB)
+
+*) Integer = Ganzzahl
+
+Dann braucht man noch ein Mainboard, da kann man den Fokus auf den Datenbus, Adressbus und Steuerbus legen
+
+DatenBus: darüber werden die Daten übertragen
+AdressBus: der sagt in welche SpeicherStelle
+SteurBus: der sagt ob lesen oder schreiben
+
+Diese Dinge kann man ganz gut am Beispiel eines C64 Mainboards Schemas [7] erklären. Logischerweise ist ein aktueller Intel i7 komplizierter, funktioniert aber ungefähr nach dem selben Prinzip.
+
+Das ist ungefähr der Vorlesungs Stoff eines 1. – 2. Semester Informatik Studiums, Quellen zu z.B. dem Schieberegister oder Assembler lesen wie man auch Mathe Aufgaben machen muss um irgend ein Konzept zu verstehen.
+
+[0] und versifft dabei denjenigen verbal zu Bashen der die Technische und Physikalische Stromrichtung verwechselt hat was alles nur noch komplizierter macht für Anfänger.
+
+[1] https://de.wikipedia.org/wiki/Transistor
+
+[2] https://de.wikipedia.org/wiki/NAND-Gatter
+
+[3] https://www.elektronik-kompendium.de/sites/dig/0209302.htm
+
+[4] https://de.wikipedia.org/wiki/Schieberegister#Aufbau
+
+[5] https://de.wikipedia.org/wiki/Addierwerk#Von-Neumann-Addierwerk
+
+[6] bzw. auf dem C64 wäre es LDA, … https://www.c64-wiki.de/wiki/%C3%9Cbersicht_6502-Assemblerbefehle
+
+[7] https://www.c64-wiki.de/wiki/Hauptplatine
+
+Gruss
+Marc jr.

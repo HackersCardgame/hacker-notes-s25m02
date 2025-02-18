@@ -1,0 +1,4 @@
+Conversation with 2530523 at 01.04.2007 13::06::35 on 962320 (icq)
+(2007-04-01 03:14:00) shrike: geht vull niid maaan!
+(2007-04-01 03:15:00) shrike: ff portable same ohne qos/EA/topolgie/ipv6 same   meine sites funzen alle :)  (ie7@xp funzt)
+(13:09:50) landev: frage: chasch du mol no probiere öbs goht wenn "netsh int tcp set global autotuninglevel=disable" itöggelisch?

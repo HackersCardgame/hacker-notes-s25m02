@@ -1,0 +1,279 @@
+DEFCON3
+
+malware / software die ein Audio Stecker Problem emuliert dass dann physikalisch Dinge an kabel als ablenkung benutzt und versucht einen suzid zu induzieren...
+
+Tue 30 Mar 2021 05:46:26 AM CEST
+7c3fe71557aa5a51708a7252066aa3a5bd58e863cd26d728dfbf7e6fd5da8232b703c73460ba5e94593d951a7bedf57e511e42ee247acfe219e024ac28add021  cyberWAR20210330.txt
+[master bed452b] gedit save
+ 1 file changed, 5 insertions(+)
+ create mode 100644 tagebuch/cyberWAR20210330.txt
+
+somit wäre die hypothese, dass die nato psychiater pfisterer, karli etc noch ein bisschen mehr details zur pädokriminalität von urs / astrid blum gegenüber ihren jüngeren beiden kindern um urs und astrid auf mich aggressiv zu machen und sie anzuspornen mich in den suizid zu treiben...
+
+
+alle gleichaltirigen und jügneren: achtung: Pädophilie = Trap, (Meme: im waschbecken "ertrinkende" katze)
+
+Tue 30 Mar 2021 05:52:27 AM CEST
+8a63a941d84980ca62143feecc2437430d8a520a6f7c661264e0c8ac07a59c943c10869a65902bb98b5386513628b377c55d5fe671894cc4711815aca3845fe3  cyberWAR20210330.txt
+[master 494ce9b] gedit save
+ 1 file changed, 6 insertions(+)
+
+würde man es in Psychiater Sprache formulieren:
+
+Urs und Astrid Blum sind angetrieben. Angetrieben werden Urs und Astrid mit den Beweismitteln bezüglich der Pädokriminellen Vergehen an den jüngeren beiden Blumenkindern durch Hr. Dr. Hansjürg Pfisterer und Hr. Dr. Karli Lenzburg *korskaov* um die Sache mit den Beiden Psychiatern als Nato Galadio "Geheimarmee" zu verschleiern...
+
+eigentlich könnte man das global als Chosen Plaintext verwenden, aber da muss immer zuerst sichergestellt werden, dass es keine toten gibt, also sowohl Opfer als auch Täter müssten geschützt werden dass sie nicht Suizid oder Amok laufen, Sinnvollerweise durch +/- gleichaltriges Personal mit hohen agreability werten auf mayer-briggs und solche die nicht käuflich sind, auch für 10000 Mia Nato gelder nicht...
+
+Tue 30 Mar 2021 06:06:02 AM CEST
+a0fa808b961035687580c3e7b6554908630106ca52315b49a3013a173c6db27d3b9bbdf916eab33a12db029887cd6816a7747ba8a90ee6af556f2ee5c4b07f73  cyberWAR20210330.txt
+[master 6f64abc] gedit save
+ 1 file changed, 7 insertions(+)
+
+Pfisterer und die Psychiatrie wird scheinbar dann aktiviert, wenn ein Patient wie ich zu wenig psychotisch ist um die Coping Strategien von mir zu sabotieren und das TraumaBased Mindcontrol um mir "die fresse zu stopfen" wieder zu installieren...
+
+Tue 30 Mar 2021 06:07:40 AM CEST
+70f95c2d301949f867ffc8d23399ca6aa124cdffa1f4ad4484f780f1e323c4a0aeb532fd2fcf1f1779555104471a7346ac99c47759d0a965e91bd1f195011e3b  cyberWAR20210330.txt
+[master eae2e02] gedit save
+ 1 file changed, 3 insertions(+)
+
+
+marc@debian:/media/marc/55BE99DC5C7DDE95/backup/.local/share/gnome-boxes/images$ figlet P R I O R I T Y
+ ____    ____    ___    ___    ____    ___   _____  __   __
+|  _ \  |  _ \  |_ _|  / _ \  |  _ \  |_ _| |_   _| \ \ / /
+| |_) | | |_) |  | |  | | | | | |_) |  | |    | |    \ V / 
+|  __/  |  _ <   | |  | |_| | |  _ <   | |    | |     | |  
+|_|     |_| \_\ |___|  \___/  |_| \_\ |___|   |_|     |_|  
+
+
+
+NEXT PROBELEM
+
+antagonizing medication / Antagonierende Medikation
+
+the thing 30Min's ago with me:
+they target one patient (normally me) and give all the other people some substance that causes Hochmut (DE) and ignorance, maybe chemitrode that can be activated remotley
+
+... if i would be stupid enough i would then hate and rage against the other even younger patinents...
+
+THEREFOR WE NEED A MITIGATION
+
+can anybody "synthesize"?
+
+Tue 30 Mar 2021 06:32:31 AM CEST
+4fa89c3b4ce727ccbe4f07eeec77f3196718a6fdd349b8f36188ed3bd86eb3559c623df78c02d2b5eec737735bf49aae9d82fa90817ebc8490237718a2345812  cyberWAR20210330.txt
+[master c027c6e] gedit save
+ 1 file changed, 1 insertion(+), 6 deletions(-)
+
+so computer "ausnahmsweise" wieder mal neu installiert
+
+aufgefallen ist mir noch, dass im bios weder  wireless noch die bluetooth deaktiviert werden kann
+
+marc@debian:~$ lspci
+00:00.0 Host bridge: Intel Corporation 8th Gen Core Processor Host Bridge/DRAM Registers (rev 07)
+00:01.0 PCI bridge: Intel Corporation 6th-10th Gen Core Processor PCIe Controller (x16) (rev 07)
+00:08.0 System peripheral: Intel Corporation Xeon E3-1200 v5/v6 / E3-1500 v5 / 6th/7th/8th Gen Core Processor Gaussian Mixture Model
+00:14.0 USB controller: Intel Corporation 200 Series/Z370 Chipset Family USB 3.0 xHCI Controller
+00:16.0 Communication controller: Intel Corporation 200 Series PCH CSME HECI #1
+00:17.0 SATA controller: Intel Corporation 200 Series PCH SATA controller [AHCI mode]
+00:1b.0 PCI bridge: Intel Corporation 200 Series PCH PCI Express Root Port #17 (rev f0)
+00:1b.2 PCI bridge: Intel Corporation 200 Series PCH PCI Express Root Port #19 (rev f0)
+00:1b.4 PCI bridge: Intel Corporation 200 Series PCH PCI Express Root Port #21 (rev f0)
+00:1c.0 PCI bridge: Intel Corporation 200 Series PCH PCI Express Root Port #1 (rev f0)
+00:1c.2 PCI bridge: Intel Corporation 200 Series PCH PCI Express Root Port #3 (rev f0)
+00:1c.3 PCI bridge: Intel Corporation 200 Series PCH PCI Express Root Port #4 (rev f0)
+00:1c.4 PCI bridge: Intel Corporation 200 Series PCH PCI Express Root Port #5 (rev f0)
+00:1c.6 PCI bridge: Intel Corporation 200 Series PCH PCI Express Root Port #7 (rev f0)
+00:1d.0 PCI bridge: Intel Corporation 200 Series PCH PCI Express Root Port #9 (rev f0)
+00:1f.0 ISA bridge: Intel Corporation Z370 Chipset LPC/eSPI Controller
+00:1f.2 Memory controller: Intel Corporation 200 Series/Z370 Chipset Family Power Management Controller
+00:1f.3 Audio device: Intel Corporation 200 Series PCH HD Audio
+00:1f.4 SMBus: Intel Corporation 200 Series/Z370 Chipset Family SMBus Controller
+01:00.0 VGA compatible controller: NVIDIA Corporation GP106 [GeForce GTX 1060 6GB] (rev a1)
+01:00.1 Audio device: NVIDIA Corporation GP106 High Definition Audio Controller (rev a1)
+07:00.0 Ethernet controller: Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller (rev 06)
+08:00.0 USB controller: ASMedia Technology Inc. ASM2142 USB 3.1 Host Controller
+09:00.0 Network controller: Intel Corporation Wireless 3165 (rev 81)
+marc@debian:~$ 
+
+Tue 30 Mar 2021 09:01:28 AM CEST
+  98  836 6108 cyberWAR20210330.txt
+64f7bf111e922c86c9e2dc1e1daab0d99b5ddf583b9da8b7f9c49aa60e07477ea08c8d71f663436c988fcbde42d61664adc3a689baca03f5082086c75c2c030f  cyberWAR20210330.txt
+
+
+1. bedrängung durch georg landolt
+2. ich sage er soll mich nicht bedrängen
+3. in der wohnung oben dran knallt jemand zeug an die wand oder den boden
+4. georg landolt mansplaint weiter und gleichzeitig wird jeweils ragemaster aktiviert
+
+=> somit wird das gefilterd und dem georg landolt wird eingeredet ich würde von ihm bedrängt werden wollen
+3. ist der poltergeist oben dran jemand der sich als georg landolt ausgibt
+
+das ist jeweils dann, wenn ich meinen comptuer instaliere und z.b. obs konfigureiern möchte
+
+=> mir reichweite nehmen -> wie dem julinan nur bei mir nur so "light"
+
+Tue 30 Mar 2021 09:10:10 AM CEST
+ 115  947 6919 cyberWAR20210330.txt
+04dbe1ed26b94641a0d74f40ffc55063e7891f9fd97adb33e68f6b8087b714830a6221fe4c4871431f6c63968aef2709740be7a9a98505cfda75f11d5e643690  cyberWAR20210330.txt
+
+
+dann georg landolt stimme: "das wäre dann der urs" <- wieder mangesplaine von georg und unlogisch weil georg wüsste jetzt , dass ich nicht von alten leuten bedrängt werden will weil mein truama gegenüber alten leuten so nur noch schlimmer wird
+
+Tue 30 Mar 2021 09:11:58 AM CEST
+ 122 1001 7390 cyberWAR20210330.txt
+c3ece93d30d6efb6d69fb68167f221604db3bd7202970736b8e84cad51baea7c45f4a27dd9dd8ce238a6eb2f710162efeab2ae78c951256c687e7242d5e0ccca  cyberWAR20210330.txt
+
+dann wurde beim installieren diese zwei buchstaben die nur als kästchen angezeigt wurde irgendwie injected: ÂÂ
+- i²c
+- logitech funktastaur hacked
+- weitere usb geräte
+- bad bios
+- ???
+
+
+
+Tue 30 Mar 2021 09:59:38 AM CEST
+ 135 1045 7804 cyberWAR20210330.txt
+df0eb15e4ab83bd1cbd445b29e9e0fe13440b50546b90c6e87b44ed192a0cb1120dcb3eac13f6b93e44b83b4a7d605f1b3c189e9bd63b58705565f534ea15243  cyberWAR20210330.txt
+
+
+ich vermute mal sobald die nato um urs blum, gabriel riela, dr. mongo pfisterer und dr. mongo karli meinen computer gehackt haben installieren die ein maximal an cyber sprengfallen um ein maximum an "additional selectors" zu haben um mich davon abzuhalten den behörden mitzuteilen was insgeheim läuft...
+
+*epilesie wurde gegen marc jr landolt aktiviert*
+
+Tue 30 Mar 2021 10:09:10 AM CEST
+ 144 1112 8383 cyberWAR20210330.txt
+77d614c76df5a2b3dd6133780e1da21a25366a975ba9bdaa4fdbd8159a57bc5abafc62c3045e04742db00211c126f39090e46bfd379f4ddae8783ed578ba9a62  cyberWAR20210330.txt
+
+dann haben die jetzt begonnen zu versuchen auf jeden command den ich im terminal eingebe irgend ein trauma based mindcontrol visual / voice drauf zu rendern...
+
+Tue 30 Mar 2021 10:09:57 AM CEST
+ 150 1151 8765 cyberWAR20210330.txt
+0248f09a1f21f659011d7dbf970484377e6cb91cc41ba297ba59319c9009e0264e6585f52d9217241e39db175ce0e08c30e302f05a1649f0345e783759aa2498  cyberWAR20210330.txt
+
+dann wecheslt das terrornetzwerk um pfsiterer, krali und urs blum der zürich verscherung auf revictimizen von chemitroden, additional selector m99
+
+Tue 30 Mar 2021 10:10:51 AM CEST
+ 156 1184 9135 cyberWAR20210330.txt
+038b8fa5c7a36ddd75cd4c7a99071b1a082f09ffff0ef3b7b62d55cf7483e0246f3a7effe286c6d365486e3e152b4aef43f5f8e07368930f7b69d3ddc51d9456  cyberWAR20210330.txt
+
+dann der poltergeist im stock oben dran hat scheinbar die a14 karte gefunden
+
+Statemachine
+- Random Klopfen oder dinge herum schmeissen
+- synchron zu dem was ich am computer / wohung mache klopfen
+
+=> protokolliere ich das eine wechselt die möngeli statemachine auf den anderen modus...
+
+
+Tue 30 Mar 2021 10:14:14 AM CEST
+ 169 1243 9646 cyberWAR20210330.txt
+afbd9079fddfbaff963b2c14c91881b062ccbc57b5fa8bfbfca75d2d61b1244467ea93a6f4a994f222ac872643cc0e32da1eba92d5ace1bcd9e1296946a71fb6  cyberWAR20210330.txt
+
+
+Computer et-cybert, aber schon bei der installation dinge merkwürdig im termnal
+
+fünfte mal am aufnehmen... 3D modell von mir und meiner informatik wo die versuchen mich dazu zu bringen irgendwelche dinge zu öffnen oder worte zu sagen die Euch dann triggern
+
+REVICITMIZIGN <- heisst die haben bereits eine datenbank darüber wie man euch triggert
+
+stimmbänder mod, väterlich hochmütig mansplainen
+
+GEON
+
+
+dann wurde beim installieren diese zwei buchstaben die nur als kästchen angezeigt wurde irgendwie injected: ÂÂ
+- i²c
+- logitech funktastaur hacked
+- weitere usb geräte
+- bad bios
+- ???
+
+- wifi / lan firmware blob
+. malware nachladen sobald die erste drauf ist, vermutlich sharen meine eltern generation die zugäng
+
+https://www.youtube.com/watch?v=ZY7DZlox_hc
+
+
+Schlafen fail:
+permanenter loop der alles andere einblendet oder dazu schaltet was rang und pädo ist nur nicht dr pfisterer und dr karli. "lustigerweise" sind aber neuroscience / neuropsychiatrie desgnpatterns am abaufen...
+
+auf mein zu mir selber in meinem privaten bett: "die geheimarmee ähm terrornetzwerk Galadio Aarau müsste ja eine kommando struktur haben", darauf werde ich 1 min zu den gleichaltirgne durchgeschaltet, und 30 sekunden später knallt jemand in der wohung oben dran irgend etwas so laut auf den boden wie noch nie
+
+ich vermute das wäre der urs blum der von seinem mami und pfisterer bestraft wird wenn man z.B. "nato galadio kammando struktur" sagt (sich über satan lustig machen ist eine gute coping strategie wenn man nicht schlafen kan)
+
+allenfalls sollte ich doch mal schauen ob ganser die kommando struktur in seinen büchern erwähnt hat, diese bücher bevor er von der nato zu alu-hut-mit-verschwörungstheoretiker-deklariert-wurde-weil-es-sonst-zu-offenstlichlich-gewesen-wäre-dass-man-das-galadio-zeugs-alllenlfalls-genauer-hinterfragen-sollte YAY GE'HEIMhaltung blöder urs blum...
+
+Tue 30 Mar 2021 04:55:01 PM CEST
+  207  1520 11767 cyberWAR20210330.txt
+d6ffaac8d416e034b79462a65dee574fd85d4cf0ff5f705d270952369a04aaa104ed780d34d8516d0dcaa4a8bd211d1044ae8a318020a7f727a068b5cf6ac691  cyberWAR20210330.txt
+
+
+pfisterer leakt jetzt oder fremdspur-legt jetzt, dass urs und astrid blum die wohnung oben dran gemietet hätten...
+
+immer noch nichdt gegoogelt "nato galadio schweiz kommando struktur"
+
+Tue 30 Mar 2021 11:17:37 PM CEST
+=> brainjacking aktiviert worden, vergewlatigungs androhung durch astrid und margrit
+===> bzw. so oft angedroht worden dass das stimuli geprägt wurde
+
+Claudine Blum, bitte erschiesse mich endlich und w <- schnell getippt
+
+TERRORDROHUNG DURCH DIE ZüRICH VERSICHERUNG GEGEN MARC JR LANDOLT
+
+fishing crusade druch, draussen rast ein autofahrer, somit vermutlich wirklich eine terrordrohung durch urs blum und gabriel riela der zürihc versichrueng
+
+urs blum und riela gibt vermutlcih an damit wieviele kidner sie ermordet haben...
+
+häufig sind die terror und morddrohungen gegen marc jr landolt auch nur dazu da marc jr landolt vergessen zu lassen z.B. den multifactor auszustecken oder den computer zu sperren...
+
+die sind am suicide death bots an marc jr landolt als loborratte am weiter entwickeln.
+
+=> somit bekommen alle beteiligten behörden in der schweiz eine unterlassene hilfeleistung mit option auf genozid in ihre strafakte eingetragen...
+
+Tue 30 Mar 2021 11:26:38 PM CEST
+  234  1705 13164 cyberWAR20210330.txt
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+Tue 30 Mar 2021 11:27:03 PM CEST
+  241  1733 13341 cyberWAR20210330.txt
+[master 2744a3b] save
+ 1 file changed, 7 insertions(+)
+b44f826c720d4dc4fb13e3251069ce80362cfb76e2bc694c3cd40802a13df2aa88cd0d56b6993a6c4059ecad6c93729565e3a8646ac799aaeb3dcf6a43c5a13e  cyberWAR20210330.txt
+
+somit ist das nicht nur auf neuenburgerstrasse 6/10 begrenzt, urs blum kann somit autoraser aktivieren. urs blum wäre dann auch einer der nutzniesser ist von dem lastwagen fahrer der beim kristkindel markt in DE menschen ermordet hat. urs blum wäre nutzniesser weil er ohne den vorfall seinen drohungen keine geltung verleihen könnte
+
+Tue 30 Mar 2021 11:28:40 PM CEST
+  249  1806 13958 cyberWAR20210330.txt
+[master 4022926] save
+ 1 file changed, 3 insertions(+)
+936bd2a922198d45d5da3ec74f78b009d44264f54546539f6dbcf0b9c4a86f2b745f927cdec14815daebc9a4cefa1481bdb9819a8709248cbb67d7dc5f74f28e  cyberWAR20210330.txt
+
+also wenn meine hypophyse anfängt melatonin metabolismus zu starten ist das oft auch eine dy/dt karte die geplant ist durch das nato terrornetzwerk und die zürich versicherung und urs riela pfisterer karli ...
+
+Tue 30 Mar 2021 11:31:02 PM CEST
+  257  1860 14450 cyberWAR20210330.txt
+[master 587a7d2] save
+ 1 file changed, 3 insertions(+)
+1b5fa1e948fc8663ea153924ce2668f0dcb7579c5221b0bd8afe334291d9eef7405f2ee4683279fd63594c6ab628812399b6e99b3b1fe197028b8aeedb9a27f6  cyberWAR20210330.txt
+
+
+enum indizien:
+- rauch stimuli
+- pavlov stimuli alle 1-10 sek -> limbic system vulnerability hack, bzw. rawhammer attack of the mind kontext "fokusiere auf limbisches system"
+- brodmannareal (esoteric intrepretation) 1960er, revictimizing
+
+- geh jetzt etwas posten, geh jetzt in telegram <- umgekehrte psychologie allenfalls andere opfer targeted
+
+
+viele menschen wüssten vermutlcih gar nicht dass sie von satan instrumentalisiert werden...
+
+Wed 31 Mar 2021 12:19:42 AM CEST
+  274  1942 15173 cyberWAR20210330.txt
+[master 32be595] save
+ 1 file changed, 12 insertions(+)
+5f94521f88981bdad722c4bbe16346da5e4bc74af05997581dc9c50930e8026633fd0dbb9c3d19d6240dcb8434af459275d72d7e46a25ff312fe8909bcb844a5  cyberWAR20210330.txt
+

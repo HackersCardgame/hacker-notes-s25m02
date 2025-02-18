@@ -1,0 +1,55 @@
+System log for account 962320 (icq) connected at 03.04.2007 18::55::52
+---- +++ 962320 hat sich angemeldet @ 2007-04-03 18:55:52 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 2007-04-03 18:55:54 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 2007-04-03 18:55:54 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-04-03 18:55:54 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-04-03 18:55:54 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-04-03 18:57:28 ----
+---- dikyangel wurde untätig @ 2007-04-03 18:57:28 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-04-03 18:58:18 ----
+---- dikyangel wurde tätig @ 2007-04-03 18:58:18 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-03 19:00:49 ----
+---- shrike wurde untätig @ 2007-04-03 19:00:49 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-03 19:01:13 ----
+---- shrike wurde tätig @ 2007-04-03 19:01:13 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-04-03 19:12:27 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-03 19:27:36 ----
+---- shrike wurde untätig @ 2007-04-03 19:27:36 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-04-03 19:37:26 ----
+---- dikyangel wurde untätig @ 2007-04-03 19:37:26 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-04-03 19:37:28 ----
+---- dikyangel wurde tätig @ 2007-04-03 19:37:28 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-03 19:38:36 ----
+---- shrike wurde tätig @ 2007-04-03 19:38:36 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-04-03 19:40:48 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-04-03 19:49:24 ----
+---- dikyangel wurde untätig @ 2007-04-03 19:49:24 ----
+---- +++ 962320 wurde untätig @ 2007-04-03 19:57:56 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-04-03 20:08:24 ----
+---- dikyangel hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-03 20:08:24 ----
+---- dikyangel hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-03 20:10:18 ----
+---- dikyangel wurde tätig @ 2007-04-03 20:10:18 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-04-03 20:14:26 ----
+---- dikyangel wurde untätig @ 2007-04-03 20:14:26 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-04-03 20:14:28 ----
+---- dikyangel wurde tätig @ 2007-04-03 20:14:28 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 2007-04-03 20:18:18 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-04-03 20:24:22 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-04-03 20:38:01 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-04-03 20:40:46 ----
+---- shrike hat den Status von Verfügbar zu Offline geändert @ 2007-04-03 20:47:02 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-04-03 21:18:11 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-04-03 21:35:24 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-04-03 21:36:18 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-04-03 21:40:37 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-04-03 21:41:08 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-04-03 21:50:42 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-04-03 21:59:18 ----
+---- michi hat den Status von Offline zu Abwesend geändert @ 2007-04-03 21:59:19 ----
+---- michi hat den Status von Abwesend zu Offline geändert @ 2007-04-03 22:09:10 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-04-03 22:09:11 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-04-03 22:09:48 ----
+---- +++ 962320 wurde untätig @ 2007-04-03 22:24:59 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-04-04 16:36:18 ----

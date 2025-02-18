@@ -1,0 +1,62 @@
+System log for account 962320 (icq) connected at 17.03.2007 12::18::48
+---- +++ 962320 hat sich angemeldet @ 2007-03-17 12:18:48 ----
+---- tdr-timon hat den Status von Offline zu Nicht verfügbar geändert @ 2007-03-17 12:18:48 ----
+---- tdr-timon wurde untätig @ 2007-03-17 12:18:48 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- tdr-timon hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-17 12:30:28 ----
+---- tdr-timon wurde tätig @ 2007-03-17 12:30:28 ----
+---- tdr-timon hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-17 12:33:21 ----
+---- tdr-timon wurde untätig @ 2007-03-17 12:33:21 ----
+---- tdr-timon hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-17 12:33:28 ----
+---- tdr-timon wurde tätig @ 2007-03-17 12:33:28 ----
+---- tdr-timon hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-17 12:34:02 ----
+---- tdr-timon wurde untätig @ 2007-03-17 12:34:02 ----
+---- tdr-timon hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-17 12:34:50 ----
+---- tdr-timon wurde tätig @ 2007-03-17 12:34:50 ----
+---- tdr-timon hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-17 12:35:12 ----
+---- tdr-timon wurde untätig @ 2007-03-17 12:35:12 ----
+---- tdr-timon hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-17 12:35:18 ----
+---- tdr-timon wurde tätig @ 2007-03-17 12:35:18 ----
+---- tdr-timon hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-17 12:35:25 ----
+---- tdr-timon wurde untätig @ 2007-03-17 12:35:25 ----
+---- tdr-timon hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-17 12:35:26 ----
+---- tdr-timon wurde tätig @ 2007-03-17 12:35:26 ----
+---- tdr-timon hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-17 12:35:38 ----
+---- tdr-timon wurde untätig @ 2007-03-17 12:35:38 ----
+---- +++ 962320 wurde untätig @ 2007-03-17 12:27:14 ----
+---- tdr-timon hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-17 12:37:48 ----
+---- tdr-timon wurde tätig @ 2007-03-17 12:37:48 ----
+---- tdr-timon hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-17 12:37:56 ----
+---- tdr-timon wurde untätig @ 2007-03-17 12:37:56 ----
+---- tdr-timon hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-17 12:38:04 ----
+---- tdr-timon wurde tätig @ 2007-03-17 12:38:04 ----
+---- tdr-timon hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-17 12:38:50 ----
+---- tdr-timon wurde untätig @ 2007-03-17 12:38:50 ----
+---- tdr-timon hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-17 12:39:30 ----
+---- tdr-timon wurde tätig @ 2007-03-17 12:39:30 ----
+---- tdr-timon hat den Status von Verfügbar zu Offline geändert @ 2007-03-17 12:39:32 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- tdr-timon hat den Status von Offline zu Verfügbar geändert @ 2007-03-17 14:01:23 ----
+---- tdr-timon hat den Status von Verfügbar zu Offline geändert @ 2007-03-17 14:09:33 ----
+---- +++ 962320 wurde untätig @ 2007-03-17 14:23:40 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-03-17 14:44:03 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-03-17 14:56:46 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-03-17 15:32:04 ----
+---- vortex hat den Status von Offline zu Verfügbar geändert @ 2007-03-17 16:05:21 ----
+---- vortex hat den Status von Verfügbar zu Offline geändert @ 2007-03-17 16:05:49 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-17 16:25:25 ----
+---- vortex hat den Status von Offline zu Verfügbar geändert @ 2007-03-17 16:27:27 ----
+---- vortex hat den Status von Verfügbar zu Offline geändert @ 2007-03-17 16:32:23 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-03-17 16:41:15 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-17 16:50:30 ----
+---- shrike wurde untätig @ 2007-03-17 16:50:30 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-17 16:57:28 ----
+---- shrike wurde tätig @ 2007-03-17 16:57:28 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-17 17:04:51 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-17 18:03:40 ----
+---- shrike wurde untätig @ 2007-03-17 18:03:40 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-17 18:14:19 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-17 18:16:34 ----

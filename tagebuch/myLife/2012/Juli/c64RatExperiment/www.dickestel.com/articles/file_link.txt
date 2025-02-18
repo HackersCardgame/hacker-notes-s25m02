@@ -1,0 +1,38 @@
+Write Stuff File Link Feature
+
+by Dick Estel
+
+Most good Commodore word processors have a file linking feature, because of the relatively small file
+sizes permitted.
+
+If your efforts are confined to the traditional letter to Aunt Martha or a brief article for the newsletter,
+you may have no use for this feature. But if you are writing the Great American Novel, or a lengthy term
+paper, file linking can simplify your life when it comes time to print out your masterpiece.
+
+TWS 64 allows about 21,000 bytes in a file, roughly equivalent to 5 pages of text. The 128 version
+offers considerably more memory, over 62,000 bytes. When your file exceeds these limits, you must
+break it into two or more files.
+
+Simply put, the linking feature allows you to tell the computer, "when you finish printing this file, load
+and print another one." This is accomplished by placing a reverse l (lower case "L") at the end of your
+text, followed by a colon and the file name. It appears that you must use the standard TWS leading
+hyphen in your file name for this feature to work. The exact format is:
+
+l:-newfile (but the  l  is reversed)
+
+Once the first file finishes printing, a file named "newfile" will be loaded and printed. Be sure you have
+saved your original file first, since loading the new one will erase the original from memory. You must
+also be sure you have saved your second file with the exact file name that you specify. The file linking
+command should be at the beginning of a new line, immediately following the end of your text.
+
+If you are using headers or footers, they will appear correctly in the second and subsequent files. Page
+numbering, if used, will continue correctly in the new files. This feature makes it simple to print out a
+very long document without having to stop and load additional files.
+
+When you send the command to print (either to screen or printer), you will see the following on your
+screen:  
+
+            ?   Yes   No
+
+The Yes will be flashing. To print the second file, just press [RETURN]. If you cursor to No and press
+[RETURN] only the first file will be printed.

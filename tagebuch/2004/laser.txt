@@ -1,0 +1,3 @@
+Die Strahlung der Pumpquelle wird in einem Wellenleiter so homogenisiert, dass am Ort des Kristalls in der breiten Richtung eine »top-hat« Verteilung und in der schmalen Richtung eine Gauss-ähnliche Verteilung entsteht. Der Seederstrahl durchläuft den Hybridresonator mehrfach in einer Multipassanordnung.
+
+quellenangabe vergessen, however, es fehlen eh die beiden spiegel

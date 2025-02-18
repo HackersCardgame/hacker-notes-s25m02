@@ -1,0 +1,97 @@
+Book Review:
+
+The Internet for C64/128 Users by Gaelyne R. Gasson
+
+by Bev Harvey (bharvey@the.link.ca)
+
+If I were to be limited to one single word in describing this instruction manual, I would have no
+hesitation in choosing the word "COMPLETE."  
+
+As a hobby Commodore user since way back in 1984, I have been wading through instruction
+manuals; some I could master, others with perseverence I managed, with great difficulty, to get
+something somewhat close to what was supposed to be. It seems while for the most part Commodore
+programmers were ever brilliant in writing computer programs, I had difficulty following their
+instructions. For me, these important people were under the assumption the reader had several degrees
+in computer science, or was at least on a computer intelligence level of the writer. How wrong some of
+them were.     
+
+I had heard Gaelyne was writing this manual quite some time before it was available. I waited with
+anticipation; I made discreet inquiries. Finally, my good friend Tom Adams sent me e-mail and told me
+the instruction manual was ready and gave me Gaelyne's address. I immediately contacted her and gave
+her my Visa number, and within a week the book was in my hot little hands.      
+
+Quickly, I thumbed through it. I expected volumes of instructions similar to the "Dummy" books - but
+no, here was a neat little book, about half the size of those other instruction books mentioned, neatly
+ring bound for easy handling and the whole works outlined in seventeen chapters with the usual
+Appendix Resource Listings and Index.   
+
+Further study showed this lady certainly knew her stuff. The workings of the Commodore Computer,
+both C-64 and C-128, were clearly outlined. She shows an exceptional knowledge of the Internet as
+related to the Commodore, and has organized her book in such a manner that it could apply to the
+beginner anxious to "Surf The Net" as the saying goes, or to those who have been on the Net for
+considerable time, but never fully realized the potential of our often maligned Commodores. All the
+reader had to do was go to the index at the front of the book, figure out about where his knowledge
+level was, and jump on board. She has covered the most used terminal programs - Nick Rossi's
+Novaterm (there's even a sort of a demo to get you started), Desterm, Dialogue, and Bob's Term for
+complete coverage. Strictly your choice.
+
+I can't speak too highly of this book. To me it's a relief to follow instructions aimed at the average
+Commodore fan. I think she should have named it "Everything You Wanted to Know About The
+Internet Using a 64 or 128 but Were Afraid to Ask." I was pleasantly surprised to learn procedures
+that other platform users were bragging about are available on the Commodore. She even outlines the
+dialogue to use if the Internet provider has any doubts about the capabilities of the Commodore. A
+source list of providers is listed complete with voice phone numbers and e-mail addresses. Free-Nets
+are listed by State including Hawaii and even two locations in Canada. 
+
+I have used this book extensively for the last ten days now and can say I have learned more in that time
+by referencing the manual when I logged on than I ever did the last year and a half I have been using the
+World Wide Web. The only disadvantage I can think of, and that's difficult to do, is the price, including
+Nick Rossi's Term Program, was over $50.00 Canadian. Of course, at the present rate of exchange
+US to Canada the American price would be much cheaper. However when you compare this cost and
+the valued content to the "Dummy" instruction books there is no comparison. The value is obvious. 
+     
+For any Commodore user presently using the Internet - or those thinking of jumping on the Net, I
+personally recommend this instruction manual. Once you start to use it, in conjunction with logging on, it
+will become your constant reference for easy access and use in the complicated world of cyberspace. 
+     
+(Reprinted from Mailink, newsletter of Meeting Commodore Users Through the Mail, July 1997)
+
+
+The book has been updated to a second edition, now available; and a third edition is in the works. The
+following ordering information was obtained from Gaelyne in mid-July 1998 for this reprint:
+
+If mailing a personal check or bank draft from the US, the price is: $29.95 US each plus shipping. ($12
+Express /$9 Airmail /$7 Economy Air)
+
+If ordering using a credit card (Phone/Fax/Email/Web orders) we must  charge in Australian dollars. 
+
+The price is $36.95 AU and the shipping options are the same - but in  Australian dollars, it's: $15
+Express / $11.50 Airmail / $9 Economy Air
+
+Based on today's currency exchange rates (16 July '98), one book shipped Economy Air using a credit
+card would cost $45.95 in Australian, and US customers would have $28.69 US debited to their credit
+card.
+
+A Currency Conversion utility is available on the web at: http://www.xe.net/currency/
+
+We can accept Master Card, Visa, Bankcard and American Express. Personal cheques are welcome -
+they should be made payable to: "VideoCam Services".
+
+VideoCam Services
+90 Hilliers Rd.
+Reynella  SA 5161
+Phone:  +61 8 8322-2716
+Fax: +61 8 8387-5810
+Email: videocam@videocam.net.au                                                    
+WWW: http://videocam.net.au
+
+
+For those who prefer to order from a US company, the book is available from Loadstar in the USA
+(1-800-831-2694). Item #900920.  The price is $30 including shipping in the USA. Loadstar accepts
+credit card, check and money orders. (VideoCam Services can not accept money orders).  
+
+The 3rd Edition will have an additional chapter covering TCP/IP Connections (such as PPP or SLIP),
+so the number of chapters has increased to 18, plus appendix material. I'll be putting together a press
+release regarding the 3rd Edition soon.
+
+Via The Commodore Information Center web site (http://home.att.net/~rmestel/commodore.html) 

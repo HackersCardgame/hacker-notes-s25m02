@@ -1,0 +1,46 @@
+MEDIOCREWRITER - The Word Processor for No One
+
+by Anonymous
+
+MediocreWriter from Joe's Garage Inc.; 1/2-sided, sloppy-sectored, 5 3/8 inch droopy disk.  39
+cents.
+
+As you might expect from this program's name and price, it's a bare-bones, no-frills word processor
+package.  What does "bare bones" mean?  For one thing, you don't get multiple screens--in fact, you
+get no screens at all.  Joe, the program's writer, claims that in about six months, an update (19 cents)
+will be available that'll give the program video-display capabilities.  In the meantime, you'll simply have
+to remember what you key in.
+
+Another upgrade will enable you to type upper-case characters and numbers greater than seven.  But
+don't let these seemingly negative comments dissuade you from buying the program.  In reality, the 39
+cent price makes it a good value for the money.  For example, you can use the disk as a coaster for
+large beer mugs.
+
+What are the program's good points?  It contains a three-word spelling correction program called
+MediocreSpeller.  If you misspell the words A, AND, or THE, it causes your computer to shut off and
+locks the disk drive head on track 42.
+
+MediocreWriter's documentation is in keeping with the program's other annoying features.  It consists
+of a barely legible mimeographed sheet with the following instructions on it:
+
+Turn computer on
+Insert disk
+Use program
+
+The program is not copy-protected.  Explains Joe: "Who would want to copy it?"  And it takes little
+memory space: 323 bytes.  It's available for the Lemming/DOS operating system for use on Joe's PC
+(available from Joe for $9.95).
+
+Fundamentally, MediocreWriter is Joe's latest attempt to write software that works.  It doesn't pretend
+to be anything other than what is:  the sleeziest, most limited, bug-ridden word-processing program that
+exists.
+
+Joe admits, "It stinks."  In addition to its lack of a video-display capability, it has a tendency to set
+computers on fire and trigger nearby automatic washing machines.  It handles 21 lower-case alphabetic
+characters and numbers from one to six; punctuation is limited to the exclamation point.
+
+The program is interactive with Joe's other two packages, Lousycalc, a 1-column, 1-row spreadsheet;
+and RottenFiler, a database management program that accepts one entry.  In short, I like it!
+
+(from SCOPE, Society of Computer Owners and Pet Enthusiasts, Dallas-Ft. Worth TX, 6/89, via the
+Commodore Information Center, http://home.att.net/~rmestel/commodore.html)

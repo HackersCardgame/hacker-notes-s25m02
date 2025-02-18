@@ -1,0 +1,17 @@
+A Quick and Dirty Drive Alignment Test
+
+Fortunately, when a disk drive is asked to read, it automatically searches to the sides of where the file
+should be if it doesn't find the data on its first attempt.  Thus, it's probable that disks written by drives
+that are slightly out of alignment can be read by a correctly aligned drive. Conversely, it's likely that
+slightly misaligned drives can read disks created on properly aligned drives.
+
+Unfortunately, there is a limit to the searching.  Consequently, drives that are too far out of alignment
+can neither read nor create readable disks.
+
+An easy way to check the alignment of a 1541 is to command it to search once and only once for the
+data.  To do that, turn the drive off and on, then type on one line: openl5,8,15,"m-
+w"+chr$(106)+chr$(0)+chr$(1)+chr$(193):closel5 then press RETURN.  Then insert a commercial
+disk and try to load it.  If it loads, the alignment is good.
+
+(From Commodore Mailink May 1997, via The Commodore Information Center web site
+(http://home.att.net/~rmestel/commodore.html) )

@@ -1,0 +1,10 @@
+Wed Nov  1 04:53:56 PM CET 2023
+
+MOVe
+
+möglicher 0day / malware auf debian bookwörm:
+
+malware die mir verbietet einzuloggen wenn ich das internet ausgeschlatet hat, so etwas wie kerberos, vermutlich über die Linux version von telegram übertragen worden
+
+Wed Nov  1 05:27:31 PM CET 2023
+

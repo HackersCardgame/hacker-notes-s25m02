@@ -1,0 +1,60 @@
+------- --------
+Tue Dec 10 08:03:12 AM CET 2024
+23a9562d8f84825bd7d68d8f6d493e185ad992e9
+------- --------
+
+dann wurde scheinbar eine neue Publizistik-Sabotage Software installiert oder aktiviert.
+
+* Also der gjs von Gnome frisst plötzlich viel zu vieler ressource
+* allenfalls über ungesehene Maus oder Tastatur inserts über die funktastatur eingespiesen oder aktiviert
+* sabotiert alle aufnahme-möglichkeiten auf gnome: OBS, eingebauter screen recorder
+
+
+------- --------
+Tue Dec 10 08:04:34 AM CET 2024
+23a9562d8f84825bd7d68d8f6d493e185ad992e9
+------- --------
+
+------- --------
+Tue Dec 10 07:58:40 PM CET 2024
+bce3772bde7028187917e3780ea4757e560054f3
+------- --------
+
+dann 16:00 ins Füchschen-Bettchen gegangen, 2h so halb geschlafen, bzw. auch nicht, nach ca 1h halb geweckt worden, dann 1h irgend ein Kopfkino Film der abgespielt wurde (Priming) dann will Urs Blum und Walter Brigger wieder mit den Inhalten des Primings über mich als unfreilwilligen Lautsprecher auf 2 Beinen Sprengfallen Drohungen abschicken
+
+übermittlung war:
+Die Firma UPC/CableCom, bzw. deren Modem welche grossflächig und feinkörnig in urbanen gebieten aufgestellt werden haben ein zusätzliche WiMax Sende-Funktion um auf
+
+* INTEL Hardware Backdoors
+* allenfalls SD-Karten zuzugreifen mit etwas wie Eye-Fi aber für WiMax
+* wirst case Sprengfallen Zünder welche in der Telli angebracht wurden
+   -> bzw. ich denke diese Politer-Geist infrastruktur praktisch aus allen Richtungen ausser von der Wohnung unten dran wären allenfalls auch an so etwas angeschlossen
+   
+Plausibilitäts Abschätzung:
+* Wifi hätte ca. 300m, mit WiMax bekommt man locker 5km hin
+* dann der CCC wo es öfter LoRa-Wan Vorträge [1] gibt wäre allenfalls der vorgesehene Sündenbock und Ablenkungsmanöver
+* ich hier in der Telli Aarau kann auch die Sicherung rausnehmen, da sind mindestens noch 5 UPC-Wifi's sichtbar, weil ca 500 Parteien in der Neuenburgerstrasse Wohnen, mit WiFi komme ich kaum vom 10. Stock ins Parterre ohne Aussenantenne
+
+[1] dass die Firmen Semtex (Sprengstoff) und die Firma Sentech (LoRa Produkte) fast ähnlich heissen finde ich irgendwie zu offensichtlich unauffällig auffällig
+
+
+WiMax würde vermutlich so einen GAP perfekt füllen.
+                                ===
+                                
+
+Dann dass das mal in INTEL CPU's war, dann redet hier in der Schweiz nach dem Pilot-Projekt aber nie wieder jemand über WiMax finde ich auch merkwürdig
+
+Dann der Stefan Kählin welcher an der ABB TS einen Vortrag über WiMax gehalten hat hat auch von "Totmanschaltern" gesprochen und ist ein Kollege von Offizier Ruedi Müller
+
+Also FALLS das grad jemand weiss, gibt es Produkte von zB Waffen-Herstellern welche WiMax Produkte verkaufen, wirst case Sprengzünder ???
+und falls es solche Produkte gibt sollten da Menschen zB von INTERPOL oder FEDPOL diese Datenblätter etc sichten und analysieren + Risikoberechnung, Berechnung wie schnell so etwas angebracht wäre, ob etwas wie Fast Frequenz Hopping zum Einsatz kommt wie beim SE235, damit man die Sprengung nur mit einem Breitband-Verstärker verhindern kann ODER sogar mit Totmann Schlater (ein Wort was wie bereits gesagt Herr Stefan Kälin mir gegenüber als erster erwähnt hat)
+
+Dann scanne ich grad mal noch wieder alles WEIL ...
+
+Scans: /hacker-notes-s24m11/scans/29/BRN3C2AF421298E_048786--951-987.pdf
+
+------- --------
+Tue Dec 10 08:12:11 PM CET 2024
+bce3772bde7028187917e3780ea4757e560054f3
+------- --------
+

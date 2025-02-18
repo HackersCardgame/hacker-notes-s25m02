@@ -1,0 +1,4 @@
+Conversation with 2530523 at 10.03.2007 00::56::35 on 962320 (icq)
+(00:57:10) landev: http://www.netzwelt.de/news/66549_2-tutorial-festplatte-loeschen-aber-sicher.html 
+
+"Für den Behördenbereich empfiehlt das BSI für das Löschen vertraulicher  Daten ein siebenmaliges Überschreiben. Ob dann ein Wiederherstellen der Daten  unmöglich ist, ist nicht klar. Jedenfalls wäre für eine Reproduktion ein  erheblicher technischer Aufwand und das entsprechende Wissen erforderlich, um  die stark gedämpften Signale von den anderen Signalen, mit denen überschrieben  wurde, zu trennen", so Schneider.

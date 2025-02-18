@@ -1,0 +1,6 @@
+System log for account marclandoltaarau (yahoo) connected at 09.01.2007 17::29::25
+---- +++ marclandoltaarau hat sich angemeldet @ 09.01.2007 17::29::25 ----
+---- +++ marclandoltaarau wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ marclandoltaarau wurde untätig @ 09.01.2007 17::49::10 ----
+---- +++ marclandoltaarau wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ marclandoltaarau hat sich abgemeldet @ 09.01.2007 19::20::06 ----

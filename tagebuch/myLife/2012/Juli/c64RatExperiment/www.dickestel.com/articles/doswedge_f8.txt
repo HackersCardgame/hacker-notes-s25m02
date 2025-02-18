@@ -1,0 +1,39 @@
+How to Save Money and Have a DOS Wedge in 128 Mode
+
+A friend of mine told me about a neat trick built into the C-128 Machine Language Monitor, accessed
+by pressing F8. Since then, I've been looking for some documentation of it in my books, and have yet
+to find it. It's one of the best kept secrets I know of, and I'm going to let the cat out of the bag! 
+
+Using the built-in ML monitor on the 128, you can type "," and follow it with most of the DOS wedge
+commands, and it works like a charm to format disks, new a disk, scratch, validate, and rename files.
+To get out of the monitor, type X and press [RETURN].
+
+Below are the commands I've tested myself with my 128. You wouldn't want to load and run or save a
+file under normal circumstances with this method, but it does make a few things easier. 
+
+128 Mode ML Monitor DOS Commands
+
+,n:diskname,id - Formats a new disk 
+,n:diskname - Quick formats a previously formatted disk.    
+,$ - Lists disk directory
+,s:filename - Scratches a file
+,r:newname=oldname - Renames a file on the disk
+,v - Validates the disk. 
+,I - Initializes the disk in the drive. 
+,uj - Resets the disk drive (1571 disk only) 
+x:RETURN - Exits the monitor back to BASIC 
+
+128 mode F-Keys: The Cl 28 comes with the F-keys already defined to serve specific functions. 
+
+Fl GRAPHIC          Not a very useful command for general use
+F2 DLOAD            Type in the filename and the quote
+F3 DIRECTORY        Lists disk directory.
+F4 SCNCLR           This clears the screen
+F5 DSAVE            Add filename and quote
+F6 RUN                   Runs a previously loaded program.
+F7 LIST                  Lists a BASIC program or directory, if loaded.
+F8 MONITOR          An easy way to use DOS commands.
+
+(From Gaelyne Gasson's web page http://videocam.net.au/~gaelyne via the Commodore
+Compendium, via Random Bits 1/98, via The Commodore Information Center web site
+(http://home.att.net/~rmestel/commodore.html) )

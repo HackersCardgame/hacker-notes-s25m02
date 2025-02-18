@@ -1,0 +1,58 @@
+My Favorite GEOS Utility
+
+by Dick Estel
+
+A program's most important aspect is what it DOES for you. But other factors can make it a special
+favorite. Paint Scrap by Dennis Seitz has the characteristics to be a classic, and also does an important
+job that I need to do.
+
+In 1989, several programs appeared on Q-Link, the Commodore on-line service, that allowed the user
+to create photo scraps larger than the geoPaint drawing window. This is especially important to users of
+geoPublish; and as artists began creating large images, the desire to clip them and use them in our own
+creations increased.
+
+Among the programs that accomplish this task are the following:
+
+Big Clipper - requires entering coordinates, a tedious hit and miss task
+Scrap It - works OK, but scrap size is limited
+Scrapit! - Also does the job, but is quite slow. This program is redeemed by numerous other useful
+features
+ScrapCan - A close second to my favorite, but it's commercial, and requires the purchase of
+GeoCanvas
+Paint Scrap - the king of the heap, and here's why:
+
+When you first open any GEOS program, the pointer has to appear somewhere. In some programs, it
+appears where you last left it. Other times, the programmer has it appear in a particular spot. When you
+first run the Desktop, it appears on the FILE icon in the command line, which always seemed foolish to
+me, since you can't use anything under that menu until you do something else first.
+
+When Paint Scrap opens, the pointer appears on the OPEN icon. Since you can't do anything till you
+open a geoPaint file, this is the exact right spot. When you click on OPEN, a list of geoPaint files
+appears, with the pointer on the OPEN icon (a click now opens the first file in the list; or you can scroll
+through the file names till you find the one you want). 
+
+After you select the desired file and it is displayed, the pointer appears within the display, where you
+define the area to be clipped with an edit box. After you click to set the box, it stays there, and you can
+go to the EDIT icon at the top. A click here displays the choices COPY and PASTE (the latter never
+implemented). With the double-click mouse driver that I use, I can use the right button on EDIT to
+produce two clicks, and it will active both the EDIT and COPY commands. 
+
+At this point a dialog box listing all active drives appears, allowing you to select the disk you want to
+copy to. Lo and behold, the disk you are using is highlighted, and the pointer appears on the OK icon.
+Normally this is the choice you want to make, and a click at this point causes the scrap to be copied.
+Now the pointer moves to the FILE icon at the top, and you can CLOSE (with a double click) or
+QUIT. My normal choice is either to move to the GEOS icon in order to paste the scrap into an album,
+or to CLOSE the file in order to clip from another one.
+
+All this may seem to be a rather minor consideration, since moving the pointer around is not exactly an
+onerous chore. But the technique DOES save time, and more importantly, it reflects the kind of thought
+and consideration for the user that went into the creation of the program. 
+
+Unfortunately, I exchanged only one or two messages with Dennis commending him for his efforts (and
+I did send the modest $5 shareware fee). Shortly after this he disappeared from Q-Link and apparently
+from the Commodore world. Whatever you're up to now, Dennis, we who are about to clip salute you.
+Paint Scrap is a worthy monument to your involvement in GEOS.
+
+
+From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center http://home.att.net/~rmestel/commodore.html 

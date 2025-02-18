@@ -1,0 +1,35 @@
+Sun Nov  6 11:37:38 AM CET 2022
+
+Es gäbe Wiedersehen mit Claudine Blum @UniBasel wenn ich
+
+* Alle Computerspiele die ich als Kind raubkopiert habe nachlizenziert hätte
+* ich meine Unschuld bewiesen hätte
+* wenn ich die wohnung aufgeräumt hätte von dem was bei mir als müll abgeladen wurde
+* ...
+
+habe ich alles, Sklavere in dem man den Sklaven permanent beschuldigt und Monkey Island dann schlussendlich 4x nachlizenziert habe, und die Stimmen über das Implantat wird getarnt in dem man ihm eine Schizophrenie Diagnose anhängt um die Stimmen und somit die Sklaverei abstreiten zu können
+
+CC: @fedpolCH 
+
+
+Urs Blum [LOCK]
+
+Urs Blums anweisung an die Poliziei war als falsche spuren neben dem hjacken der computer auch dinge zu stehlen als unlock um marc jr landolt in den suziid zu treiben weil jemand in seiner privatshäre war (suizidgrund für autsiten). es wurden 3 Happy Cubes geklaut, vermutlich von den polizisten selber die die computer infrastruktur gehackt haben
+
+polizisten müssen somit 24h überwacht werden auf ihre kosten denn wenn dieses vertrauen in die polizei fällt (und das ist es schon) dann werden in der schweiz bürgerkriege beginnen. jeder einzelne polizist muss somit 24h/7 überwacht werdne auf seine eigenen kosten
+
+
+
+Hi @hostpoint 
+
+auch wieder schräg
+
+rsync twitter-Archiv auf Euren Server
+1. Mal:bricht bei 99% ab
+2. Mal:wird übertragen ist dann aber nicht auf dem Server drauf
+
+Dann verschwindet auch der command der im history der Bash sein müsste, also wie wenn der Server gewechselt hätte
+
+ihr oder /32 Route und z.B. #qFire?
+
+

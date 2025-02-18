@@ -1,0 +1,21 @@
+Rounding Decimals
+
+I have a need to round off decimal numbers to various places depending upon how they will be used in
+the program. Is there a simple way to do it? 
+
+Early in the program write:
+
+1 DEF FNR(N)=INT(N/DP+.5)*DP
+
+DEF defines the function FNR(N) to equal the integer result of N/DP+.5 which is then multiplied by
+DP.  The number of decimal places is determined by DP.  DP=.1 gives one place, DP=.01 gives two,
+etc. So, in a later program line like:
+
+100 DP=.01: N=DV: V=FNR(N)
+
+where DV=12.176, V would be made 12.18 because 12.176/.01 yields 1217.6 and +.5 makes it
+1218.1 which INT truncates to 1218 and then multiplying by .01 yields 12.18. Of course, the value
+assigned to N can be held in another numeric variable.
+
+(From CIVIC 64/128 Gazette, May 1997, via the Commodore Information Center
+http://home.att.net/~rmestel/commodore.html)

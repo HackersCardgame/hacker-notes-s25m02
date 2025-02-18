@@ -1,0 +1,80 @@
+System log for account 962320 (icq) connected at 05.04.2007 18::05::35
+---- +++ 962320 hat sich angemeldet @ 2007-04-05 18:05:35 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-04-05 18:05:35 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-04-05 18:05:36 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 2007-04-05 18:05:36 ----
+---- dikyangel hat den Status von Offline zu Nicht verfügbar geändert @ 2007-04-05 18:05:36 ----
+---- dikyangel wurde untätig @ 2007-04-05 18:05:36 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-04-05 18:13:35 ----
+---- dikyangel wurde tätig @ 2007-04-05 18:13:36 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-04-05 18:13:43 ----
+---- dikyangel wurde untätig @ 2007-04-05 18:13:43 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-04-05 18:14:23 ----
+---- dikyangel wurde tätig @ 2007-04-05 18:14:23 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-04-05 18:14:29 ----
+---- dikyangel wurde untätig @ 2007-04-05 18:14:29 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-04-05 18:14:31 ----
+---- dikyangel wurde tätig @ 2007-04-05 18:14:31 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-04-05 18:14:33 ----
+---- dikyangel wurde untätig @ 2007-04-05 18:14:33 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-04-05 18:15:13 ----
+---- dikyangel wurde tätig @ 2007-04-05 18:15:13 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-04-05 18:15:41 ----
+---- dikyangel wurde untätig @ 2007-04-05 18:15:41 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-04-05 18:16:57 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 18:18:56 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 18:19:22 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-04-05 18:22:09 ----
+---- dikyangel wurde tätig @ 2007-04-05 18:22:09 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-04-05 18:24:43 ----
+---- dikyangel wurde untätig @ 2007-04-05 18:24:43 ----
+---- stefan hat den Status von Verfügbar zu Offline geändert @ 2007-04-05 18:24:58 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 18:32:40 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 18:32:43 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 18:33:52 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 18:33:55 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-04-05 18:40:10 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-04-05 18:40:27 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-04-05 18:41:01 ----
+---- dikyangel wurde tätig @ 2007-04-05 18:41:01 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-04-05 18:42:56 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-04-05 18:46:30 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 18:50:16 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 18:52:03 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 18:58:46 ----
+---- shrike wurde untätig @ 2007-04-05 18:58:46 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 19:06:12 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 19:06:14 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 19:07:26 ----
+---- shrike wurde tätig @ 2007-04-05 19:07:26 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 19:11:21 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 19:14:09 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-04-05 19:24:13 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 19:26:21 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 19:38:48 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 19:39:58 ----
+---- Dominik wurde untätig @ 2007-04-05 19:40:20 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 19:51:38 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 19:52:58 ----
+---- dikyangel hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 20:09:49 ----
+---- dikyangel wurde untätig @ 2007-04-05 20:09:49 ----
+---- dikyangel hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 20:11:08 ----
+---- dikyangel wurde tätig @ 2007-04-05 20:11:08 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 20:21:18 ----
+---- Dominik wurde tätig @ 2007-04-05 20:21:18 ----
+---- dikyangel hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 20:21:28 ----
+---- dikyangel wurde untätig @ 2007-04-05 20:21:28 ----
+---- dikyangel hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 20:28:32 ----
+---- dikyangel wurde tätig @ 2007-04-05 20:28:33 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 20:33:48 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 20:35:43 ----
+---- dikyangel hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 20:38:50 ----
+---- dikyangel wurde untätig @ 2007-04-05 20:38:50 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 20:40:57 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 20:43:02 ----
+---- dikyangel hat den Status von Abwesend zu Nicht verfügbar geändert @ 2007-04-05 20:58:52 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 21:00:32 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 21:09:13 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-05 21:17:09 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-05 21:17:32 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-04-05 21:22:08 ----

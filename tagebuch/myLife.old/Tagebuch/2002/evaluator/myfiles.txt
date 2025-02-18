@@ -1,0 +1,10 @@
+../besuchBeiNoelBlum.txt
+../evaluator/myfiles.txt
+../evaluator/Wordcount.txt
+../evaluator/temp.txt
+../evaluator/fuellwoerter.txt
+../myfiles.txt
+../Februar/030202.txt
+../sonjaStoeklin.txt
+../Nachtrag.txt
+../Wordcount.txt

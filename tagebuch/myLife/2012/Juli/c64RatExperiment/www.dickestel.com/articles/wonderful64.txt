@@ -1,0 +1,105 @@
+JORDAN'S JOURNAL: My Wonderful C-64: How Do I Use Thee?
+
+by Mark Jordan
+
+(copyright 1990 LOADSTAR/Softdisk Publishing; reprinted by permission)
+
+
+There comes a day in the life of a home computer owner that is traumatic to the uttermost. That is the
+day when he realizes that the computer is not going to change his life, save his soul, or make him
+ultimately and completely happy. Or even get him dates.
+
+For some, this realization results in panic. Looking at $1000 worth of equipment paralyzes them. For
+others, depression is the outcome. Somehow, they blame themselves for their loss of interest. Others
+get mad: I thought this thing was supposed to be so great, they rage. And for the poor computers
+involved, it often means a trip to the closet, attic, or...the unspeakable--the want ads.
+
+It's all so unnecessary. Nobody goes raving mad when they discover their microwave was over-hyped.
+As a matter of fact, I don't know of a single person who, upon buying one and discovering its limited
+use, sold it and went back to a microwave-less state. It just doesn't happen, because even if all you use
+your microwave for is warming donuts, you aren't about to give up that simple pleasure.
+
+The problem with computers is that we believed all the hype (and there was plenty of it), even our own.
+I know I'm guilty. We expected a miracle machine but the computer isn't a miracle machine. It's time to
+put into a realistic perspective just exactly what a computer is. We'll do it the way Elizabeth Browning
+put her love into perspective when she wrote, "How do I love thee? Let me count the ways." Except,
+instead of "love," we'll count "uses"--we wouldn't want this to get mushy.
+
+Allow me the honors, please, to start counting. And be thinking...because you're next.
+
+How do I use thee, O Commodore? Mainly for word processing, that's how. I write a lot. I have disks
+of articles, essays, and letters I wrote over seven years ago. I have a friend in Ohio who I haven't
+written to in years, but when I do, I'll load in my last correspondence with him, reread it to refresh
+myself on our last communication, and start typing.
+
+Occasionally I'll be forced to type something on a typewriter instead of with my computer (forms
+mandate this). I hate it. I am constantly trying to do a block move or wish I could go back up to the top
+to rewrite that introductory paragraph. If my computer did nothing else but process words, I'd still have
+no regrets.
+
+The second main use I get out of my computer is for programming. I've had lots of hobbies in my life:
+photography, woodworking, house construction, writing, guitar and piano playing, magic, ventriloquism,
+baseball card collecting, and about every sport invented. None--make that NONE--offers the same
+type of diversion that programming does. It allows me to exercise my artistic talents (if any) in designing
+sprites and screens, my logic capabilities (if any) in tracking down bugs, my intuition (if any) in setting up
+a user interface. Just as two sets of tennis stimulate my physical being, an evening of programming gives
+my intellectual being an enjoyable workout.
+
+The use of other programs (besides word processing) is a distant third. No false claims here, folks. I
+admit I don't do much databasing, spread-sheeting, or game-playing. In fact, (and this is embarrassing
+to admit as a teacher), I don't even use a computer to figure my grades. I do them by hand because it's
+less hassle. But sometimes I do use programs and when I do, I'm very glad to have my computer. Let
+me give you some f'rinstances.
+
+Sub-point 1 of Use #3) Recently I was in charge of creating a goodbye video for a retiring fellow
+teacher. I used my C128 and GEOS to draw a likeness of the man. Then, using a program I wrote
+several years ago for Commodore Magazine, I created a hand writing in cursive around the picture I
+had drawn. I routed the whole thing through the VCR and had an animated title screen which gave the
+entire video a special appeal.
+
+Subpoint 2) When my weight edged upward a while back, I decided something had to be done. I got
+out FOODCALC, a program I wrote for LOADSTAR 128 and started using it nightly. I kept it up for
+two months and during that time I actually lost weight. Of course, FOODCALC was only one factor
+that helped. But I think it was instrumental because using the program made me more conscious of my
+eating habits.
+
+Sub-point 3) A great idea occurred to me just the other night: categorizing the nuggets of wisdom in the
+book of Proverbs might reveal startling insight into life. What better way to do that than with a
+computer and database? And so I have begun.
+
+Sub-point 4) When I wrote a column on GEOS for Commodore Magazine (Pumping GEOS), I used
+GEOS a lot. But the real test of the value of GEOS came when Commodore Magazine went down
+(thus taking my column with it). I've used geoPaint to draw maps, geoPublish to create handbills,
+geoWrite (with unusual fonts) to make cryptograms. I seldom use GeoCalc and geoFile because they're
+too slow.
+
+Sub-point 5) I don't know how many times I've booted up my financial calculator so I can figure loan
+payments in an attempt to solve, once and for all, my financial problems. (Please note the ironic tone
+here. Do not mistake it for hype.)
+
+These three main uses--word processing, programming, and program-using--are MY main computing
+activities. But the 128 in my house runs a whole lot more than the hours I spend at it. I have three kids,
+all proficient game-loaders (freeloaders too, but that's another article). I roughly calculate that my
+Commodores over the years (I've had four different machines) have had over 5400 hours of
+game-playing done on them. Since the four machines (and their peripherals) cost me about $2000 all
+told, that's a measly 37 cents an hours for entertainment alone. A TV is probably cheaper, but still, 37
+cents an hour ain't bad. In fact, I'd gladly pay my kids that much NOT to watch Brady Bunch reruns.
+
+Just considering these points makes me appreciate my computer anew. And now, as promised, it's your
+turn. I have no doubt that you could add a few uses to the list. Perhaps you have a modem and
+telecommunicate, a big use missing from my list.
+
+But that's okay; I personally feel no great need to force my computer to do more than it does already.
+At our house the computer, like the microwave, has a niche. We don't spend time analyzing the niche
+much. We just pop in the disks, or as the case may be, donuts, and turn it on.
+
+If I go a week or a month without turning it on, I don't panic, get depressed, or rage. I don't ask
+existential questions or write abject poetry. I just go about my life and when the need arises--or when
+the next LOADSTAR disk arrives in the mail--I turn 'er on.
+
+(Comment from the editor of LOADSTAR: I wholeheartedly agree, Mark....I still get more enjoyment
+out of my computer than any other gadget in the house. One point I would like to add is
+companionship. I've lived alone a lot in my life, and I firmly believe it is healthier to babble and curse at
+a machine than at yourself. Or at your cat.)
+
+(Via the Commodore Information Center http://home.att.net/~rmestel/commodore.html)

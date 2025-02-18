@@ -1,0 +1,10 @@
+Conversation with 974875 at 02.05.2007 21::25::29 on 962320 (icq)
+(21:25:29) stefan: jo, dasch so. wend de pfad ned explizit aagesch (ebe z.b. met ./foo) werd $PATH dorsuecht - z.b. /usr/bin
+(21:26:48) landev: also de path het priorität, das ned irgend en geilie siche es su programm mit mailfunktion selber schriibt (was eigentli eusi husufgab wär) 
+(21:27:06) stefan: genäu
+(21:27:20) landev: ich fühle mich erlüchtet....
+(21:27:57) landev: merci
+(21:28:09) stefan: kes problem
+(21:28:34) landev: hey die linux entwickler dänke jo meh als windows benutzer...
+(21:28:40) stefan: :)
+(21:28:46) landev: cool...

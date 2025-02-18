@@ -1,0 +1,171 @@
+apt-get -y -o Acquire::ForceIPv4=true install chromium
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt-get -y -o Acquire::ForceIPv4=true install valkyrie
+pip install youtube-dl
+pip3 install music-dl
+apt-get -o Acquire::ForceIPv4=true install arp-scan
+apt-get -o Acquire::ForceIPv4=true install sshfs
+apt-get autoremove
+apt remove gnome-shell-extension-ubuntu-dock
+apt-get -o Acquire::ForceIPv4=true install chrome-gnome-shell
+sudo apt install vanilla-gnome-desktop
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt remove gnome-shell-extension-ubuntu-dock
+sudo apt install vanilla-gnome-desktop
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt remove gnome-shell-extension-ubuntu-dock
+sudo apt install vanilla-gnome-desktop
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt remove gnome-shell-extension-ubuntu-dock
+sudo apt install vanilla-gnome-desktop
+apt-get -y -o Acquire::ForceIPv4=true update
+apt-file -o Acquire::ForceIPv4=true update
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt-get -y -o Acquire::ForceIPv4=true install valkyrie
+apt-get -y -o Acquire::ForceIPv4=true install mixxx
+pip install youtube-dl
+apt-get update
+apt remove gnome-shell-extension-ubuntu-dock
+sudo apt install vanilla-gnome-desktop
+apt-get -y -o Acquire::ForceIPv4=true update
+apt-file -o Acquire::ForceIPv4=true update
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt-get -y -o Acquire::ForceIPv4=true install valkyrie
+apt-get -y -o Acquire::ForceIPv4=true install mixxx
+pip install youtube-dl
+apt-get update
+apt remove gnome-shell-extension-ubuntu-dock
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt remove gnome-shell-extension-ubuntu-dock
+sudo apt install vanilla-gnome-desktop
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt remove gnome-shell-extension-ubuntu-dock
+sudo apt install vanilla-gnome-desktop
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt remove gnome-shell-extension-ubuntu-dock
+sudo apt install vanilla-gnome-desktop
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt remove gnome-shell-extension-ubuntu-dock
+sudo apt install vanilla-gnome-desktop
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt remove gnome-shell-extension-ubuntu-dock
+sudo apt install vanilla-gnome-desktop
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt remove gnome-shell-extension-ubuntu-dock
+sudo apt install vanilla-gnome-desktop
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt remove gnome-shell-extension-ubuntu-dock
+sudo apt install vanilla-gnome-desktop
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt remove gnome-shell-extension-ubuntu-dock
+sudo apt install vanilla-gnome-desktop
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt-get -y -o Acquire::ForceIPv4=true install rdfind
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt-get -o Acquire::ForceIPv4=true install guitarix
+apt remove gnome-shell-extension-ubuntu-dock
+sudo apt install vanilla-gnome-desktop
+apt-get -y -o Acquire::ForceIPv4=true install gconf-editor
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt-get -y -o Acquire::ForceIPv4=true install valkyrie
+cat -e /var/lib/dpkg/lock
+apt --fix-broken -o Acquire::ForceIPv4=true install
+apt-get -y -o Acquire::ForceIPv4=true upgrade
+apt-get -y -o Acquire::ForceIPv4=true dist-upgrade
+apt-get -y -o Acquire::ForceIPv4=true install sudo git vim nano
+apt-get -y -o Acquire::ForceIPv4=true install keepassx
+apt-get -y -o Acquire::ForceIPv4=true install build-essential linux-headers-5.10.0-4-amd64
+apt-get -y -o Acquire::ForceIPv4=true install md5deep
+apt-get -y -o Acquire::ForceIPv4=true install mixxx
+apt-get -y -o Acquire::ForceIPv4=true install rdfind
+apt-get -y -o Acquire::ForceIPv4=true install xdg-utils
+apt-get -y -o Acquire::ForceIPv4=true install nmap
+apt-get -y -o Acquire::ForceIPv4=true install rsync
+apt-get -y -o Acquire::ForceIPv4=true install snmp
+apt-get -y -o Acquire::ForceIPv4=true install jigdo-file
+apt-get -y -o Acquire::ForceIPv4=true install build-essential
+apt-get -y -o Acquire::ForceIPv4=true install pkg-config
+apt-get -y -o Acquire::ForceIPv4=true install libdbus-1-dev
+apt-get -y -o Acquire::ForceIPv4=true install apt-file
+apt-get -y -o Acquire::ForceIPv4=true install figlet
+apt-get -y -o Acquire::ForceIPv4=true install git
+apt-get -y -o Acquire::ForceIPv4=true install tcpdump
+apt-get -y -o Acquire::ForceIPv4=true install iptraf
+apt-get -y -o Acquire::ForceIPv4=true install gparted
+apt-get -y -o Acquire::ForceIPv4=true install lightdm lxde
+apt-get -y -o Acquire::ForceIPv4=true install gdm3 gnome gnome-shell
+apt-get -y -o Acquire::ForceIPv4=true install gconf-editor
+apt-get -y -o Acquire::ForceIPv4=true install chromium
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install inkscape
+apt-get -y -o Acquire::ForceIPv4=true install gimp
+apt-get -y -o Acquire::ForceIPv4=true install libreoffice
+apt-get -y -o Acquire::ForceIPv4=true install libreoffice-help-de
+apt-get -y -o Acquire::ForceIPv4=true install libreoffice-l10n-de
+apt-get -y -o Acquire::ForceIPv4=true install cups-pdf
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt-get -y -o Acquire::ForceIPv4=true install thunderbird
+apt-get -y -o Acquire::ForceIPv4=true install vlc
+apt-get -y -o Acquire::ForceIPv4=true install valkyrie
+apt-get -y -o Acquire::ForceIPv4=true install valgrind
+apt-get -y -o Acquire::ForceIPv4=true install blender
+apt-get -y -o Acquire::ForceIPv4=true install qrencode
+apt-get -y -o Acquire::ForceIPv4=true install kdenlive
+apt-get -y -o Acquire::ForceIPv4=true install screenkey
+apt-get -y -o Acquire::ForceIPv4=true install simplescreenrecorder
+apt-get -y -o Acquire::ForceIPv4=true install audacity
+apt-get -y -o Acquire::ForceIPv4=true install mixxx
+apt-get -y -o Acquire::ForceIPv4=true install lmms
+apt-get -y -o Acquire::ForceIPv4=true install posterazor
+apt-get -y -o Acquire::ForceIPv4=true install gconf-editor
+apt-get -y -o Acquire::ForceIPv4=true install mumble
+apt-get -y -o Acquire::ForceIPv4=true install font-manager
+apt-get -y -o Acquire::ForceIPv4=true install quassel
+apt-get -y -o Acquire::ForceIPv4=true install spyder
+apt-get -y -o Acquire::ForceIPv4=true install spyder3
+apt-get -y install fontforge
+apt-get -y -o Acquire::ForceIPv4=true install gnome-disk-utility
+apt-get -y -o Acquire::ForceIPv4=true install whois
+apt-get -y -o Acquire::ForceIPv4=true install obs-studio
+apt-get purge youtube-dl
+pip install youtube-dl
+pip3 install music-dl
+apt-get -o Acquire::ForceIPv4=true install arp-scan
+apt-get -o Acquire::ForceIPv4=true install sshfs
+apt-get -o Acquire::ForceIPv4=true install wine64
+apt-get -y -o Acquire::ForceIPv4=true install gconf-editor
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt-get -y -o Acquire::ForceIPv4=true install valkyrie
+apt-get -y -o Acquire::ForceIPv4=true install gconf-editor
+pip install youtube-dl
+pip3 install music-dl
+apt-get -y -o Acquire::ForceIPv4=true install gconf-editor
+apt-get -y -o Acquire::ForceIPv4=true install chromium-browser
+apt-get -y -o Acquire::ForceIPv4=true install icedove
+apt-get -y -o Acquire::ForceIPv4=true install valkyrie
+apt-get -y -o Acquire::ForceIPv4=true install gconf-editor
+pip install youtube-dl
+pip3 install music-dl
+apt remove gnome-shell-extension-ubuntu-dock
+sudo apt install vanilla-gnome-desktop

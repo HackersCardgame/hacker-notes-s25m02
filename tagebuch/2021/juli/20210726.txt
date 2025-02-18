@@ -1,0 +1,262 @@
+Mon Jul 26 00:01:38 CEST 2021
+0 0 0 20210726.txt
+
+auf jedem usecase (auch auf dem handy) sind sabotage und cybersprengfallen vorbereitet (reserve) welche die täter aktivieren können um zeit von mir zu verschwenden und einfluss auf meinen tagesablauf zu nehmen
+
+Mon Jul 26 00:02:20 CEST 2021
+  6  41 264 20210726.txt
+[main f2845e31] save
+ 1 file changed, 8 insertions(+)
+ create mode 100644 tagebuch/2021/juli/20210726.txt
+8dad1cafe793722bb125ce9043209db75f94512f4d7eb85f6fd4741963c27caf444dbbb2b2bd78421a3f5294db4a132193aeda3cd3eb736610ef4be85afbe425  20210726.txt
+
+vollständig über medulla spinalis ths gesteuert, und dann wird immer geschaut dass es so aussieht dass man selber der depp ist der etwas falsch gemacht, also da wird schon jeweils eine falsche problemursache injected über das sprachzenturm ths
+
+Mon Jul 26 00:05:36 CEST 2021
+ 15 103 817 20210726.txt
+[main a720ad13] save
+ 1 file changed, 7 insertions(+)
+c5b97a44754cab4be936a67650c1a96462d14ea0f679c3a1d902a55d27b6f10e4168a511e194a6f2fc5a68e1334e686f18bf13accbf11c565b18985bc883e6f2  20210726.txt
+
+
+   32152191..2e17f3a1  main -> main
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m07$ figlet -f banner " P " -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆★★★★★★☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆★☆☆☆☆☆★☆☆☆
+☆☆☆☆★★★★★☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★★☆☆☆
+☆☆☆☆☆☆☆☆★☆☆☆☆
+☆☆☆☆☆☆☆★☆☆☆☆☆
+☆☆☆☆☆☆★☆☆☆☆☆☆
+☆☆☆☆☆★☆☆☆☆☆☆☆
+☆☆☆☆★☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★★☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★★☆☆☆
+☆☆☆☆☆☆☆☆★☆☆☆☆
+☆☆☆☆☆☆☆★☆☆☆☆☆
+☆☆☆☆☆☆★☆☆☆☆☆☆
+☆☆☆☆☆★☆☆☆☆☆☆☆
+☆☆☆☆★☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★★☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★★☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★☆☆☆☆☆☆☆☆☆
+☆☆☆★★★★★★☆☆☆☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+
+zwischengespeichert, allenfalls nützlcih
+
+Mon Jul 26 00:25:09 CEST 2021
+  77  197 3237 20210726.txt
+[main d3208015] save
+ 1 file changed, 62 insertions(+)
+46a420f3706d6c336ce4fb12eec02997e99c5f7e6140ff79ad232f162ddb6406fe0178c3542482297136160123e3fab456ccd232c3abde6a989819bd6827e542  20210726.txt
+
+
+dann zurück zu den cyber sprengfallen, die werden jeweils strategisch/taktisch gegen mich gezündet um einfluss auf meine zeitplanung und tagesablauf zu nehmen, 
+
+das ist somit vermutlcih militärisch, würde heissen da wo amerika irgendwie mit killer drohnen oder killer drohnen auf zwei beinen menschen ermorden ist auch immer ncoh etwas wichtigers was die "geheim halten" möcthen
+
+militärische taktik / strategie würde dann vermutlcih heissen dass die HTL offziiere um urs blum und härdi über die htl und auch den studenkollegen brack ag von härdi ihr "spiel" treiben
+
+Mon Jul 26 00:27:14 CEST 2021
+  90  303 4074 20210726.txt
+[main 2a6e9292] save
+ 1 file changed, 13 insertions(+)
+f7ba2eff026a9e83ba68e503e166a2b4ae07e522a49ac0e185ff2864e489aa4484d4b817be07afc0df6465488fc69e012b3549013a01fbff92c880edb37e11af  20210726.txt
+
+
+und drumm wollen die nicht, dass der präzedenzfall der mutmasslich drei morde als unfall durch die zürich verischrung, urs blum, gabriel riela, michel eichenberger etc. vor gericht kommt weil das unlockt konzeptwissen über das vorgehen eines global operiernden mutmasslich amerikansich gesteuerten terrornetzwerks, apropos dem george bush seinem angeberische "the war /against/ terror is only beginnein"
+
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️ wenn ich recht hab ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+PS: ich hab ncoh nie soviele warn symbole in einem dokument verwendet...
+
+Mon Jul 26 00:30:34 CEST 2021
+ 109  402 7260 20210726.txt
+[main 581338f0] save
+ 1 file changed, 14 insertions(+)
+c6399c64ab753820939c75ab47984f7d170f2787992fb08b71b369e2dbf647907ef92cc5f35b2b6dec9f7bb28262bada31169c3a600f26a5c8565f3adb1f824f  20210726.txt
+
+
+permanentes tourette syndrom [ICD F95.2] über sprachzenturm ths übermittelt wäre eine rawhammer-attack of the mind und eine morddrohnug bzw "nur" psycholgosiche Kriegsführung gegen den der das "selber" nachplappert...
+
+ICD10 wäre dann somit langsm wirklich als das identifitziert was es eigentlich ist: ein toolkit für psychologische / medizinische kriegsführung
+
+ IDC stands for Inter Device Communication.
+
+
+Mon Jul 26 01:04:26 CEST 2021
+ 123  476 7935 20210726.txt
+[main 978986fe] save
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+50e53a1acdf692060d6a16696c133aa36640cb17c9364e05c04fd47424c855a1745d54a43e4b00fd5b9874c6a1a0d8d0151ca5c16538dd00e027a5dcc9eeae16  20210726.txt
+
+ICD-EXCEL-rose...
+
+
+Mon Jul 26 01:04:52 CEST 2021
+ 132  499 8226 20210726.txt
+[main 759b12dc] save
+ 1 file changed, 4 insertions(+)
+d3b97f7554f030db1efde4cda8bb6d5073b9f2fd36e22640b095f4e8bbcba9e0731f61e1feb1fe92782ca7b10b95962926e00a676595fcb66f2d3583b9d9365c  20210726.txt
+
+
+cyberwürgekette ist ein breakpoint (Brakpoint im sinne einer IDE) die wird aktiviert wenn die täterschaft abgeloost hat, also da gibt es für denjenigen dann jeweils eine gelbe oder rote karte
+
+dann wichtiger, der dem RetinaCCD nachgelagerte CPU hat vermutlcih ein Deep Learning Netzwerk dass trainiert und uploaded werden muss, das ding erkennt innerhalb paar milisekunden wo es jetzt auf mein medulla spinalis ths rauf hacken muss um das siegel zu sabotieren so dass man es fälschen könnte
+
+dann hat man das behoben schlatet mein neocortext vermutlcih 0.3 s auf ICD10 F44.x bis erhitze siegellack wieder fest ist
+
+=> das machen die allenfalls auch, weil die einen recog haben wie das siegel dann sicher wäre, also auch gelb rot, und aber auch ein rückkanal für mich dass das siegel nach dem man das auch behoben hat jetzt sicher ist...
+
+Mon Jul 26 01:53:44 CEST 2021
+ 147  657 9329 20210726.txt
+
+
+
+content dDOS gegen mich
+
+migros gebäude buchs, quadratische neues dach auf gartenterasse es restaurants, nonverbaler hinweis auf baustatik
+
+-> aktiert belser
+ -> belser aktiviert
+
+
+pädo content den urs blum von georg / margrit gesichert hat der uns 3 kinder 1983 mit ... drauf abbildet wird von urs blum an all seine agenten verteilt damit auch diese die eltern der zielepersonen mit informatik skills aktiveren können die eigene kinder zum selbstschutz abzshclachten
+
+olfaktorsichers kettenrasseln
+
+für kinder erklärt: mehrere karten gleichzeitig [1] ist meist eine cyber-attacke ... da wird auch reserve für späteren terror schon vorbereitet
+
+[1] (olfaktorisches kettenrasseln, chemitrode in meinem genitalbreeich aktiviert worden, seit ca 1h viel pavlov stimuli, seit ca 1h dauarhusten eingeschaltet, double timeslotting GMILF und drohung gegen meine sexuelle integrität = prägung dass dora landolt in der wohung oben dran mich umbringen / retten wolle
+
+fising crusade vor ca. 1h schon durch
+
+Mon Jul 26 12:28:15 CEST 2021
+  170   812 10395 20210726.txt
+[main e8b119a8] save
+ 1 file changed, 21 insertions(+)
+ee8f9e3c33d56df9d039fef0957c887fde557124b6a5221824e8cd4cbaf5fa9f089c1f2c74f07a91912403975fe5f54904d5f530dda409ca7ec3695f6781bc27  20210726.txt
+
+
+mitte zwischen lautsprechern
+
+
+NEHMT ALLES, 0.5Mio habt ihr mit mir als sklave ja schon erwirtschaftet, nehmt alles und danke für die erneute schädelverletzung.
+
+lock un 03:00 ist damit ich nicht in blums garten suizid begehe, was dann heisen würde postfaktisch bin ich schon tod, nehmt alles und meine einzige forderung ist dfass meine verstümmelte leiche in blums garten geworfen wird, veto bei einer claudine blum v/o aquila die mir marc jr landolt v/o floppy gegenüber ihr treue versprechen gehalten hat und sonst werft die andere hälfte meines mittlerweile verstümmelten körper auch in die universietät basel,
+
+statemachine truppen moral verübt körperverletzungen, damit die anderen täter nciht das gefühl haben dass sie in den knast kommen und weiter terror machen
+
+[DELETED] [REBUILT] marc-georg landolt (1950) hilft urs blum mit der induzierten existenzangst mich zu schwächen damit urs blum mit der induzierten epilepls
+
+falls urs blum der justiz droht mich zu ermorden wenn das verfahren gegen urs blum und die zürcih versichrung eröffnet wird kann man das dennoch als lehre drohungen von urs blum betrachten, denn wenn urs blum mich richtig ermordet hat urs blum kein druckmittel [2] mehr ==[EventTrigger]==> erneute schädelverletzung <- urs blum weiss somit bestens wie er körperverletzungen an zeugen so in rechtsfälle verflechtet um die justiz einzuschüchtern. urs blum müsste somit von der schweizer armee eine ausbildung in psycholgischer kriegsführung [3] erhalten [4,5]
+
+[3] LOCK <- aussage wird abgebrochen über die militärsiche infrastruktur
+
+[1] urs blum: projeziert das jetzt auf marc jr landolt ums zu vertuschen
+
+[2] urs blum: wir haben auch noch sämi hangartner als geisel
+
+[4] rus blum: es ist nur eine offiziersausbildnug <- fette lüge und schutzbehauptugn, auch "therapie" ist eine schutzbehauptung, denn selbst wenn ich mihc zu untreue "therapieren" liesse wären immer noch die drei morde welche urs blum und gabriel riela and den drei abb mitarbetiern mit dem admin passwort verübt haben in ihrem EDV-CTF for dem milliarden raub über sieben ecken. selbst wenn urs blum nciht gemordet hat sind deswegen vermutlcih familien zerbrochen, väter amok oder suizid gelaufen weil job verloren ... also selbst wenn das die wahrheit wäre hätte urs dennoch mindestens 10 Jahre haftstrafe vor sich...
+
+[5] da deucht mir dass jetzt ein noch ranghöhrere als der urs blum seinen müll dazu beiträgt, minimaler spannbaum, ich vermute das ist der vater von urs blum der dann irgendwann aktiviert wird...
+
+wenn urs blum schachmatt ist und die zürcih versichrung somit wegen massenmord auffliegt [7] wird vermutlcih die täter-zwangsneurose von urs/astrid blum-truffers vater/mutter aktiviert welche noch mehr accesscodes auf dem illegalen militärsichen waffensystem das gegen unschuldige zivilisten missbraucth wird hat...
+
+[7] bioterrrormsus drohugn durch einen dieser herren <- grad hier mitten im satz?
+
+Mon Jul 26 15:36:01 CEST 2021
+  204  1272 13610 20210726.txt
+[main 5196a3ae] save
+ 1 file changed, 31 insertions(+)
+81f924a11ae559dca8caad2c141b51e3b88f784ff45a802052cd09f1ab0dd32e9a85e544e6b9335ed27196f05c6cd2d442fa5363aa906dafd256040f500acb27  20210726.txt
+
+
+dann das mit dem "Sprengfallen aktivieren" wenn marc jr landolt aus dem haus geht ist reproduzierbar <- code fingerpreinting müsste sowieso urs oder astrid blum gewesen sein, sonst hätten die nichtd dem minderjährigen phillip blum beigebracht uz bellen "ich will spengmeister werden"
+
+-> da wäre es interssant zu wissen ob dieser code auch andere familie brauchen, ob es ander kinder wie philip blum gibt mit dem Pfadinamen "Funken" die von ihren eltern als sündenböcke für sprengfallen drohungen mit a14 karte sind?
+
+Mon Jul 26 15:39:04 CEST 2021
+  215  1373 14396 20210726.txt
+[main 2855ed06] save
+ 1 file changed, 9 insertions(+)
+de1fc9da662ef90324de5a3b24821c66fb702da4b7c617cfa9acd3d7569e6ba1253bbb857ac8ce1708851d3a2ba73c689ef8907fcc892d77a9bfe6be8b406ad2  20210726.txt
+
+
+dann bitte an die behörden: bitte die namen welche georg landolt zurück hält mit gerichtsbeschluss einfordern, das sind wichtige puzzle teile...
+
+Mon Jul 26 15:41:41 CEST 2021
+  224  1414 14805 20210726.txt
+[main 555a370b] save
+ 1 file changed, 4 insertions(+)
+69c5e40fc6690e734844446b6d0ecfc5671d3a80f21a73996ec7e6980d8fbe1b68a305257b47290eb3256c09b58913d5aed5a1da608ef938022d5891ec5600ef  20210726.txt
+
+
+
+IF #PsychologicalWarfare generated by #ReinforcementLearning 
+->consciousness does grow our trees
+(greets to fr-032  #Demoscene):
+
+#AutomatedTargeting #ConcentricCircles of annoying CAR #NPC's #Map #CellTracking #ActionPrediction 
+
+CC: @leonard_ritter @mueller_maguhn
+
+[1/2]
+
+if you once realized that:
+the CAR-NPC's start targeting vector(L·T⁻²) just when you decided path, Map/EEG, eg. 2 Minutes ago but they then all pop up at the next crossroad + induced #Epilepsy / #Rage 
+
+
+
+#NPC's OrderedList<TODO's / GOTO's> just reordered
+
+
+
+also gerog landolt spielt ein "Spiel"
+
+vermutlcih bekommt er von urs blum irgend 10000 wenn er marc jr landolt mit exitsnzängsten in den suizid treibt und dann "legitim" (ungehört: intelligenzmidnernde) psychopharmaka verpasst werden kann und irgend 100'000 wenn georg landolt es schafft marc jr landolt in den suizid zu treiben
+
+wenn wir da mal eine so ausschreibung in die finger bekommwn würden wäre das echt nützlich um die alten weissen männer endlich dazu zu zwingen mit dem terror gegen die kinder mit jahrgang 1980 und jünger zu machen...
+
+Mon Jul 26 21:47:33 CEST 2021
+  257  1590 16160 20210726.txt
+[main 9aebe91b] save
+ 1 file changed, 7 insertions(+)
+80c40ad52342b7b83a87b578b5f425c3d00509b87ac6e4d9fe31aacfc38772a848742010784e16e2084cff524d2bc76b00fec7313c94ee8830a18edd00d91a94  20210726.txt
+

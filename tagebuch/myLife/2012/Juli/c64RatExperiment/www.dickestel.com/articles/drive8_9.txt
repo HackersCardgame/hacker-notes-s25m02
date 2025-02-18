@@ -1,0 +1,37 @@
+Painless 8/9 Drive Select
+
+I have discovered an interesting method of adding unit eight/nine selection to a 1541. My technique
+does not require any external switches, only a single two inch wire inside the case.
+
+1. Open up the drive and expose the main printed circuit board. If you don't know how to do this, then
+you probably shouldn't be trying this modification.
+
+2 Cut the PCB jumper labeled El. There are two of these. El and E2. El is nearer the front. They are
+about a quarter inch in diameter, and are close to the center of the board about two inches back from
+the front edge. There is a thin strip of metal connecting the two halves. Carefully cut it with a sharp
+knife. Reconnect the drive to the computer, put in a disk and see if you can LOAD "$",9. If the drive
+comes to life, then the jumper has been completely cut.
+
+3 Now carefully solder a two inch wire to the right hand half circle of El.
+
+4. Next find R44. This is a l00 K resistor (brown, black, yellow) between UD1 (a 7406) and UD2 (a
+7417).  These are near the long connector on the left edge of the board. Solder the other end of the
+two inch wire to the end of R44 nearest the front of the drive.
+
+5 You're done. Put it back together. Easy wasn't it?
+
+Connect the drive to the computer and with no disk in the drive, turn on the 1541. You should be able
+to use it normally as good old unit eight. Now turn the drive off, insert a disk half way, and turn it back
+on. You will find the unit now is number nine.
+
+HOW DOES IT WORK?.....
+
+You have just wired the disk controller address option pad to the write protect sensor. Since the 1541
+reads these option pads on power up, if you have the write protect sensor blocked when you turn it on,
+the drive becomes a nine. If there is no disk or a non-write protected disk in the drive, it will be unit
+eight Sure beats boring holes in the case.
+
+Jim Harvey, 18538 Inkster, Redford, MI 48240
+
+(Reprinted from Tri-City Commodore Club newsletter February 1997, via the Commodore
+Information Center http://home.att.net/~rmestel/commodore.html )

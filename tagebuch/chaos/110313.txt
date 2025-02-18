@@ -1,0 +1,57 @@
+Tagebuch So 13 Mär 2011 12:54:51 CET @ Marc-Landolts-MacBook-Pro.local
+
+ich habe von claudine geträumt
+ich habe ihr durch ein sprachrohr gesasgt, dass ich nicht leben kann ohne sie und früher oder später sterben werde ohne sie
+->sie war am basel fussball match schauen, das geht gar nciht :)
+
+ausserdem habe ich eine kater von dominic zschokke und daniel turkiers party
+twitter: wofür ist kater schon wieder gut? ->offenheit, wahrheit, leaking
+wäre ein positiver aspekt: offenheit im beziehungsnetz, keine geheiminsse voreinander. ist es sicherheitsrelevant müsste das netz abgeschottet sein VS. security by obscurity
+->auf welcher seite ich wäre, auf der von NSA oder der piraten
+ich: auf der seite die es schafft keine leichen zu produzieren, und auch keine toten seelen oder verstümmelungen.
+-->mein konf spruch: ein verlohrenes leben kann durch nichts zurück gekauft werden<-
+grüsse an noha... :)
+
+
+ABSTRAKT
+ich hab einen 1h slot bei alex zschokke bekommen. über die informatik beim bund geredet. der brauche die privatwirtschaft denn dort sei das motto möglichst keine it systeme anfassen
+->er hat den durchblick, habe gesagt er soll mal an einen piratenstammtisch kommen. vielleicht kommt er mal.
+=>induktion: sebek virus war erfolgreich, damit besthet eine grosse chance, dass ich auch irgend ein NSA ding auf der kiste habe, ich hoffe es ist brav und gutartig und macht nicht einen auf colateral murderer.
+die amis hätten wirklich ein paar profis, da soll es einen hacker gegeben haben, der direkt vom knast mit der limusine ins NSA hauptquartier gefahren wurde und einen neuen namen bekam, denn die NSA stellt keine verbrecher ein
+es habe einen vorfall gegeben wo Microsoft NSA ein backdoor für das EFS geben musste.
+
+aber auch andere organisation hätten das backdoor
+
+internetartikel: 
+http://board.gulli.com/thread/950949-nsa-backdoor-in-vistas-zufallsgenerator-bruce-schneier-warnt/2/
+
+zufallsgenerator manipuliert, dass der schlüssel raum klein ist, selbes problem mit pre lenny debian. ->schweizer firma die erlaubt den verschlüsselungsalgorithmus zu manipulieren, weshalb, ich vermute sie wussten das
+->folglich den deutschen dozenten fragen wie die firma heiss udn dann dort fragen ob man auch mal mit so NSA leuten reden dürfte..
+
+END ABSTRAKT
+
+->dann hat er noch etwas gesagt wie: der wachstum dürfe nicht behindert werden -- Linux???
+conter: wachstum zwingt einem mehr zu wachsen, irgendwann hätten wir / haben wir ein problem dass wir nicht mehr genügent rohstoffe haben
+->gesunder wachstum :)
+
+und er hat die eth nicht beenden könnnen, das verstehe ich komplett nicht.
+
+dann unter uns, und ich fühle mich dem systemerhalt mehr verbunden als meinem arbeitgeber:
+die safecom böxli müssten mal noch geprüft werden
+ftp zugann, standardpasswort
+passwort nicht gesetzt bei default
+telnet zugan, standard passwort
+integrierter webbrowser, nur kompatibel zu IE, stream bei deflate irgendwo problem.
+
+->stimme von reto inversini: oder sein text
+ob man für das entdecken des sicherheitsloch wenigstens ein danke oder nur ärger bekommen habe???
+
+->grundregel, man bekommt ärger...
+=> es ist vermutlich die angst der leute, allenfalls paranoid udn sogar psychiatrische behandlung
+->CCCradio: wie bleibe ich als hacker am leben.
+
+eines der beiden roten geschwister büsis in der nachbarschaft hat irgend ein geschwühr und haarausfall am kopf, könnte man da bitte den besitzer mal dazu bringen es zum doktor zu bringen...???
+
+
+
+

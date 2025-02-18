@@ -1,0 +1,25 @@
+Und was ich eigentlich noch erklären wollte, bevor Du gegangen bist:
+
+Man kann soziologische [1] / psychologische [2] Konzepte auch als Programmcode mit Generics [3] bzw meta-template-programmierung [4] darstellen, also das was die Programmierer mit den Generics tun, ist abstrakt betrachtet das selbe wie Psychologen tun. Irhgendwo hab ich gelesen, dass Informatiker auch zum Psychologen und umgekehrt eignen. -> Mayer Briggs. Aber richtig begriffen hast Du es erst, wenn Du schnallst weshalb, da noch das Wort abstrakt steht. Aber da überfordere ich Dich vermutlich. Ich vermute das kommt bei Dir eher wie etwas unverständliches oder wie ne Denial of Service Attack an, was es aber nicht ist. Ist aber eigentlich recht intelligent wenn man intelligent genug ist. Niklas Luhman mit seiner System-Theorie geht in das selbe rein.
+
+
+[1] https://de.wikipedia.org/wiki/Soziologie
+die sich mit der empirischen und theoretischen Erforschung des sozialen Verhaltens befasst
+
+[2] https://de.wikipedia.org/wiki/Psychologie
+allgemeingültige Gesetzmäßigkeiten in grundlegenden psychischen Funktionsbereichen,
+
+[3] https://de.wikipedia.org/wiki/Generische_Programmierung
+Dabei werden Funktionen möglichst allgemein entworfen, um für unterschiedliche Datentypen und Datenstrukturen verwendet werden zu können. 
+
+[4] https://de.wikipedia.org/wiki/C%2B%2B-Metaprogrammierung
+
+[5] https://de.wikipedia.org/wiki/Systemtheorie_(Luhmann)
+ist eine soziologische Theorie, durch die Gesellschaft als ein „umfassendes soziales System, das alle anderen sozialen Systeme in sich einschließt
+
+
+würde moch rasch interessieren welcher Meyer-Briggs Typ Du bist, Du musst auch nur 4x klicken oder so
+
+-> http://www.typentest.de/
+
+meiner ist irgedwas ENTJ oder ENFJ, Du bist vermutlich etwas mit ISTJ, würde mich interessieren ob ich recht habe... also klickt dich da mal durch die 4 klicks

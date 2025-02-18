@@ -1,0 +1,203 @@
+The Gaelyne Gasson Story
+
+(Editor's note: I have been reading articles by Gaelyne Gasson for more years than either of us want to
+admit. At the beginning she was Gaelyne Moranec, writing for her local club newsletter in Michigan.
+Over the years her writing began to appear in magazines, and it was clear she was going through a
+major life change, as her home base became Australia and her name became Gasson. We sat down in
+the virtual living room and asked her to fill us in on the Gaelyne Gasson Story.  -- Dick Estel)
+
+MAILINK: Tell us about your early years, starting at zero.
+
+GAELYNE GASSON: I was born in Saginaw, Michigan, the last of five kids. I didn't speak until I was
+about four due to a growth on my voice box. 
+
+ML: Maybe that lack helped inspire the communication skills that you have brought to the Commodore
+world.
+
+GG: In school, I discovered that I loved writing. I could communicate much easier by writing my
+thoughts than by speaking, and that's continued to this day. My first discovery of this was when I
+enjoyed writing about my summer vacation. I was a bit upset to get a D on it--it seems the assignment
+had nothing to do with summer vacation, but I was supposed to demonstrate the use of paragraphs, and
+hadn't. I think I've grasped the concept these days.
+
+ML: Indeed you have. I supposed things got better after that?
+
+GG: I went to school in the same district through high school graduation from Swan Valley High in
+1979. My grades were average -about 2.96 average if I recall. 
+ML: Looking at your computer skills, one would think you might have been a science and math whiz.
+
+GG: Actually I really enjoyed English classes and did well in those subjects, but science and math were
+my weak subjects.  
+
+ML: With high school behind you, did you choose work or college?
+
+GG: During high school I worked in the school library and often would spend extra time sorting cards
+(how quaint now!) and doing other tasks. I quite enjoyed it. Right after graduation I had a very brief
+stint in Air Force--three weeks. After that I worked for many years in a very old dime store in Saginaw
+while attending Delta College.  I also worked for K-Mart and at one point had two jobs plus college
+courses. 
+
+ML: What was your major?
+
+GG: I took business management and advertising courses. I attended college for two years, but did not
+get a degree. In college, I discovered I liked math (I had a great instructor), and computers.  
+
+ML: Did you start with a Commodore?
+
+GG: My first hands on computer experience was the Lemonade game on a Commodore Pet at college,
+but we weren't allowed to use these computers on a daily basis. Most of what we did was on a
+PDP-11 main frame computer.  There's a story about the college computer messaging system I'll need
+to tell some time as it was a precursor to my online involvement, one that is both funny but sad. (See
+"An Early Computer Lesson" under Light Side in the Commodore Article Index.)
+
+ML: I believe around this time you started a family.
+
+GG: Yes, my oldest son was born while I was attending college.  His name is Terry, and he's 18 years
+old this year. For his birthday, I gave him his own domain name and web hosting as it was something I
+could give that I felt he'd enjoy. His website is at http://saberstrike.com/ -he's come quite a long way
+with web design.  Hopefully he won't take my job away!
+
+My other two children are Christopher, 13, and Kerstin, 12.  All my children live with their father in the
+US. 
+
+ML: I suppose there was a family computer back about this time?
+
+GG: My first computer was a VIC 20 we bought from my brother because he was "upgrading" to an
+IBM-PC-jr.  Within a year we put a C64 on layaway and it was a family Christmas gift that year
+instead of a Nintendo system. 
+
+ML: A wise choice! So this led you into a computer club?
+
+GG: We joined SACUG (Saginaw Area Commodore User Group, now defunct) when we had the
+VIC 20, but everyone had either C64s, 128s or Amiga's.  We didn't start attending meetings regularly
+until after we had the C64.  I was really nervous about speaking up but found that my computer
+experiences outweighed my nervousness.
+
+ML: So this got you into the newsletter business?
+
+GG: It did once I discovered the online world I wanted to share that world with anyone willing to
+listen, er, read about it. And of course, as with anyone who speaks up at club meetings, I was elected
+to office (club secretary) and attended board meetings as well as the regular meetings.  One of the first
+arguments I had with my ex-husband had to do with my being a few minutes late coming home from a
+board meeting.  It was the first I'd been away from home at night for many years, but it seems that I'm
+always in the last group to leave any computer meeting. Conversations are hard to interrupt! :-)
+
+The first article I wrote about using my C64 was about using Novaterm to call local Bulletin Boards,
+and I wrote it the following September after "Santa" had delivered our computer.  This article was
+picked up by Fresno Commodore User Group and republished, giving me a boost in confidence that I
+truly needed at that time. It was also this that sparked my desire to write other articles about computing,
+and my enjoyment of being online really helped too.
+
+ML: It sounds like your interest in telecommunications goes back to your first computer use. Was this
+how you met Rod Gasson?
+
+GG: I met Rod in the CBM Fidonet echo on BBS's in 1992 when he started working on his
+QWKRR128 program. There's a format called QWK for BBS messages that allows people to
+download messages and mail in one big packet to read and respond off line. Rod's program brought
+this capability to the Commodore. (Read more about how Rod & Gaelyne got together and also about
+QWKRR128 in an article by Dale Sidebottom in the July 2000 Lucky Report, also available on line at
+http://home.att.net/~rmestel/articles/gasson_kds.txt.)
+
+Rod and I were only acquaintances until early 1994. We shared messages with each other by phoning
+each other's modem and uploading or downloading files to each other once or twice a week -EVERY
+week. It was the only way we could be absolutely certain our private conversations really were private. 
+This was before either of us were on the Internet, but I think neither of us would ever have shared as
+much of our lives with each other had we been using Email or similar. 
+I decided to visit Rod in Australia, and arrived in April 1995 on a three month visitor visa.  I soon had it
+extended for a full year, and that's when I returned to the states to tidy up my affairs and to apply for a
+permanent visa.  The approval arrived in November, and on 13 Dec 1996, I arrived back in Australia
+for good. 
+
+ML: Were you working on your book before you went "down under," or did you get started there?
+
+GG: I started The Internet for Commodore Users (TIFCU) in 1995 while in Australia on the visitor's
+visa.  I was reading an Internet book for PCs, and looked up at Rod and said "I should write a book
+on using the Internet for Commodore Users."  I worked on the book when I went back to the states,
+and took it with me to work on when I was called for jury duty. I think the fact I was a writer kept me
+from actually being on any jury, but the experience was good for the book--I got an awful lot of writing
+done while waiting.
+
+ML: Had you already started working with HTML at this time?
+
+GG: I liked HTML even before finishing the book, and I used it as a carrot to dangle in front of me so I
+would finish the book. I kept telling myself I'd start a web design business after finishing TIFCU. The
+business is called VCSWEB, and now also offers web hosting -which is where the Mailink website
+(http://mailink.videocam.net.au/) is located. 
+
+ML: Along with other sites and the mail lists that you provide for Commodore users.
+
+GG: Something I am glad to do!
+
+ML: You also wrote for Commodore World and as I recall you edited a disk magazine too.
+
+GG: Yes, I edited CEE-64 Alive! with Jack VanderWhite as publisher for a couple of years. I tthink he
+gave me the job because I kkept telling him how it could be done better. You'd think I'd learn about
+volunteering in this way after awhile! 
+
+The first magazine I had a regular column in was BBS Magazine. I got the job only because I rang the
+publisher to ask a question and after a conversation, ended up with the job of writing a monthly column
+for Commodore users. I was very sad when they decided to quit publishing. Then Doug Cotton asked
+me to write for Commodore World early in the magazine's history.  I first wrote as Les Songa, but after
+I stopped editing CEE-64 Alive!, I wrote under my own name.  I still write for Go64!, and lately I've
+written a few articles for Linux Journal as well. 
+
+ML: It sounds like you keep very busy. I suppose you're making big money with your writing?
+
+(Long, loud laughter by both parties...)
+
+GG: If it weren't for the long spaces between payments, I would probably enjoy writing for publication
+much more often, but on a practical side, it's best to write about what you know, and to do that, you
+need to do other things.  Most of the articles for Linux Journal have been about things I've learned in
+the process of being a Commodore user, web designer and web host.
+
+A recent article for Linux Journal's web area really involved how to deal with Operating System
+prejudice -something we C' folks have long had to deal with. The article is at
+http://www.linuxjournal.com/articles/culture/0017.html
+
+ML: I understand you and Rod have an "official" announcement to make.
+
+GG: We just got married on the 15th of October. The photos are online at http://gaelyne.com/gallery/
+:-) We've just caught up with editing our wedding video/vcd for which we did all the effects and music,
+and have a stack of mail to send out to family and friends tomorrow. 
+
+ML: This brings us to present. What are you doing now?
+
+GG: Currently, Rod and I each work for each other (we are business partners as well as partners in
+life). Our plans currently are to slowly grow our business and see where it takes us.  
+
+ML: Anything you'd like to add to sum it all up?
+
+GG: Online, I have a page that describes my philosophy for Web Design, and what it says pretty much
+holds true for me for other aspects of life.  Communication is the most precious thing we have in our
+lives. No matter what form we use, the ability to communicate our thoughts and ideas -and to "hear"
+what others are saying is essential to our lives.  Whether it's speech, text, reading sign language, reading
+braille --all of these things are forms of communication, and are so important. 
+The lines of communication must also be a two-way street -even if two different methods are used for
+getting information and for giving.  It's not right if only one party gets to do the talking/typing all the time.
+
+
+I recently (this week) merged the TIFCU mailing list with the Homestead mail list. I did this not because
+TIFCU was a failure--if anything, it was very successful, but over time, I realized there were more
+people listening than people talking, and we need for everyone to have a chance to speak up and ask
+questions and have them answered in a timely manner.  The Homestead list now has just over 250
+members--half of which receive Email as it arrives and the other half receive the Digest version (all
+messages for the day in one big Email).  As this list is not moderated it means that when a question is
+asked, there's a very good chance it will be answered the same day, and often before I've come into
+the workshop for the day.  Before, questions would wait until I had the time to forward the message to
+the list and type out an answer.  It also means that when someone sends an announcement, they can be
+sure that a really high proportion of the online Commodore folks have received it. 
+
+Even though merging the two mailing lists was a pretty drastic change, I did it because I felt the
+communication of us Commodore folks far outweighs the pride I've always had in the TIFCU lists.  I
+guess being willing to improve the lines of communication is also important as well.  :-)
+
+ML: The Commodore community can be thankful for the day you first got hooked on a computer...and
+we hope you'll stay connected and communicating for many more years.
+
+(Gaelyne's masterwork, The Internet for Commodore 64/128 Users, 3rd Edition, is available at
+http://cbm.videocam.net.au/tifcu. Photos in this article are from her website at
+http://gaelyne.com/gallery/)
+
+(Originally published in the Commodore Mailink, newsletter of Meeting 64/128 Users Through the
+Mail. Permission given to reprint material if credit is given to Meeting 64/128 Users Through the Mail.
+Via the Commodore Information Center, http://home.att.net/~rmestel/commodore.html)

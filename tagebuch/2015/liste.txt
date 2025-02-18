@@ -1,0 +1,27 @@
+2011-08-04
+Daten.2014
+Desktop
+Documents
+Downloads
+evaluator
+examples.desktop
+Firefox_wallpaper.png
+hsl.pdf
+jsvp
+liste.txt
+login.keyring
+MOV00986.MPG
+Music
+osx
+output.pdf
+PDF
+Pictures
+Public
+sklavenz
+temp
+Templates
+test
+tweet
+tweet.txt
+Videos
+VirtualBox VMs

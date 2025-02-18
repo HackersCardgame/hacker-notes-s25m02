@@ -1,0 +1,9 @@
+System log for account marc.landolt@yetnet.ch (msn) connected at 03.04.2007 18::55::58
+---- +++ marc.landolt@yetnet.ch hat sich angemeldet @ 2007-04-03 18:55:58 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-03 19:57:56 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- missisipi hat den Status von Offline zu Verfügbar geändert @ 2007-04-03 21:57:35 ----
+---- missisipi hat den Status von Verfügbar zu Offline geändert @ 2007-04-03 22:02:03 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-03 22:24:59 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch hat sich abgemeldet @ 2007-04-04 16:36:19 ----

@@ -1,0 +1,75 @@
+KNOWLEDGE MANIPULATION
+
+by Rick Handrich
+
+From DIMENSIONS, New Mexico Commodore Users' Group, Inc., July 
+1988
+
+
+One of the big buzzwords in computing these days is "artificial 
+intelligence." Some people would argue that the words are a 
+contradiction in terms, and that there could never really be such 
+a thing. 
+
+I think that argument is mainly about semantics. There certainly 
+is a field of computing that calls itself by that name and whether 
+or not it is true intelligence isn't really the point. This area 
+is the future of computing to a large degree, and if you're 
+interested in a career in data processing, you needn't be ignorant 
+of it because you own an eight bit machine. 
+
+Artificial intelligence works best in a narrowly defined area such 
+as bridge building or medical diagnosis which has a lot of 
+vocabulary and theory that applies only to that discipline. 
+
+Programming for knowledge processing, as it's also known, involves 
+presenting the computer with a lot of different options for the 
+solution to a problem, and teaching it to make a "good guess" as 
+to which solution to try. Chess, checkers, and other games of 
+skill which the computer is good at are examples of this art. The 
+computer doesn't just evaluate every possible chess move, then 
+select the best one. If I remember correctly there are something 
+like 10 to the 26th power possible moves in a chess game, and the 
+sun would go out before your computer had time to analyze them 
+all. 
+
+This "good guess" technique is called heuristic programming. I'm 
+not going to attempt to explain it here, but as a fan of good 
+words, I like that one a lot. The most common programming language 
+used in the field is LISP (List Processing). There are several 
+versions of this language available for the C-64/128. I recently 
+heard of a new one, which I believe is available on Compuserve, 
+that is supposedly very good. 
+
+Certainly such a language can't be developed for a 64k machine 
+with all the power and flexibility of a mainframe application, but 
+it is enough to get you started, to teach you the fundamentals and 
+the "feel" of the language. There is also an ABACUS program 
+available called X-PER which uses techniques similar to LISP. You 
+could easily set up a file to, for instance, identify birds, or 
+predict the weather. I don't know that it would forecast New 
+Mexico weather any better than a meteorologist, but a well 
+designed file would identify, say a spotted brown bird, 6-8 inches 
+long with a reddish tail as some type of thrush. Then it might ask 
+you if it displayed any characteristic movements, and when you 
+said, "Yes, it picks its tail up, then slowly lowers it," the 
+machine would say, "Aha! it's a hermit thrush." Setting up such a 
+file for an area in which you have a special interest, would be 
+rewarding for you both personally and very possibly 
+professionally. That kind of knowledge base is the direction that 
+data processing is headed, and if computing is more to you than a 
+hobby, you should pick up the concepts wherever you can.
+
+The Japanese have embarked on a national crash program to bring 
+knowledge processing to the consumer market within the next ten 
+years. If they are successful, you should be preparing yourself 
+now to take advantage of these systems as they become available. 
+Once again technology will have taken a quantum leap, and the 
+people who have the conceptual knowledge to use it will be in 
+short supply. You could be one, and your eight bit machine could 
+be a strong contributor to your preparation. If you know of a 
+serious program for any Commodore machine that is probing this 
+area, I'd like to hear about it. Computing is serious business, 
+and those who realize it the quickest, and capture the momentum 
+early on will be the people with the power in the next decade.
+

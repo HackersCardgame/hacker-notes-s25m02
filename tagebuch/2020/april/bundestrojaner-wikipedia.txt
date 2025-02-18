@@ -1,0 +1,12 @@
+
+== Bundestrojaner ==
+
+Hallo "Bambis Kater", Du hast mit Hinweis auf [[WP:DS]] meinen Diskussionsbeitrag bezüglich Honey-Pots als Gegenmassnahme gegen '''Bundestrojaner''' gelöscht. Ich hab mir [[WP::DS]] zweimal durchgelesen und sehe nicht ganz was ich falsch gemacht habe. Ich denke für den durchschnittlichen Bürger oder gar jemanden der ein ganzes Mainframe betriebt ist es allenfalls Sinnvoll sich sowohl über Informationstechnische als auch Inhaltliche Honey-Pots als letzte Eskalationsstufe Gedanken zu machen. Ich will ja auch nicht die Taten der Behörden die den Bundestrojaner missbrauchen anpranger. Solches sollte aber aufgedckt werden denn es ist ein Machtmittel und Machtmittel implizieren meist Machtmittel-Missbrauch. Derjenige der den Beamten zum Machtmittel-Missbrauch angestiftet hat kann den Beamten danach Fremdbestimmen. Im Sinne einer besseren Welt sollte solches korrigiert werden aber dafür müsste man ja erstmal rausfinden dass man einen Trojaner hat, Folglich '''Honey-Pot technisch, dann inhaltlich'''.
+
+Und dass sowohl der CIA, Firemn, Anwälte, andere Justiznahe Institutionen sich kaufen, schmieren und erpressen lassen ist ja auch mittlerweile hinlänglich Dokumentiert betrachtet man z.B. das Justizsystem das den [[Gustl_Mollath]] zu 10 Jahren Therapie verurteilt hat obwohl er sachdienliche Hinweise zu Straftaten der Bank hatte.
+
+Meiner Meinung nach spielen bei solchen Dingen Footprinting und Ennumeration eine Wesentliche Rolle welche, und bekommt man das Footprinting / Enummeration irgendwie mit kann man sich, seine System und sein Umfeld besser vor solchem Missbrauch schützen.
+
+Ich finde das gehört irgendwie so ähnlich in den Artikel als Hilfestellung.
+
+Und ich begründe hier meine Kritik und versuche konstruktiv zu sein.

@@ -1,0 +1,27 @@
+System log for account marc.landolt@yetnet.ch (msn) connected at 06.03.2007 06::43::04
+---- +++ marc.landolt@yetnet.ch hat sich angemeldet @ 2007-03-06 06:43:04 ----
+---- Sonja hat den Status von Offline zu Abwesend geändert @ 2007-03-06 06:43:04 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-03-06 06:43:36 ----
+---- Sonja hat den Status von Abwesend zu Offline geändert @ 2007-03-06 09:12:32 ----
+---- Sonja hat den Status von Offline zu Abwesend geändert @ 2007-03-06 09:12:33 ----
+---- Sonja hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-06 14:14:51 ----
+---- Sonja wurde untätig @ 2007-03-06 14:28:25 ----
+---- Sonja hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-06 14:43:24 ----
+---- Sonja wurde tätig @ 2007-03-06 14:43:24 ----
+---- liebesreligon hat den Status von Offline zu Verfügbar geändert @ 2007-03-06 15:00:27 ----
+---- liebesreligon hat den Status von Verfügbar zu Offline geändert @ 2007-03-06 15:00:44 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-03-06 17:51:42 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-03-06 18:58:54 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-03-06 19:14:20 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-03-06 19:46:02 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-03-06 20:31:09 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-03-06 20:50:10 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch hat sich abgemeldet @ 2007-03-07 06:24:35 ----

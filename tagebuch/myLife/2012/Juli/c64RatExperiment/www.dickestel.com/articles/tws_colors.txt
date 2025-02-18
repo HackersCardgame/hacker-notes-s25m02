@@ -1,0 +1,41 @@
+CHANGING COLORS IN THE WRITE STUFF
+
+This is all in the book, of course, but hey! Who has time to read that?
+
+You can change the colors on the help screen by pressing b for background and \ for text while viewing
+the screen. To access the help screen in TWS 128, press and hold [COMMODORE], then press
+[SHIFT]. Press either key to switch between the two screens; press [ESCAPE] or [BACK ARROW]
+to return to edit mode.
+
+In TWS 64, there are three screens; you can exit by pressing [BACK ARROW] or [RETURN].
+
+To change the colors in the print preview screen, load or create a file, then enter preview mode by
+pressing [CONTROL] [SHIFT] P; or [UP ARROW] p [RETURN].
+
+BEFORE the entire file scrolls by, press [SHIFT LOCK] (it helps to use a longer text file unless you
+have a very quick trigger finger). Then change colors as above, b for background and \ for text.
+
+To change colors in the standard edit screen, press [CONTROL], then b for background and \ for text.
+
+Other color changes (after pressing [CONTROL]):
+
+[SHIFT] B for menu color
+[SHIFT] \ for menu letter color
+[COMMODORE] \ for position color
+[COMMODORE] c for clock color
+[COMMODORE] b for border color (40 column only in 128)
+
+In 80 columns, if the "edge effect" is toggled on, [COMMODORE] b will toggle its color. Try this:
+Press [CONTROL] *. If nothing happens, press [COMMODORE] b, and you should see the edge
+effect change colors. If not, press * again, then [COMMODORE] b.
+
+After you get all the colors set the way you want them, press [CONTROL] x s to save the changes.
+Anything else you've changed, like margins, printer controls, etc. will also be saved; it's best to do this
+as soon as you load the program, then save the changes before doing anything else. For example, if the
+file you load and preview has built-in margin settings, those settings will be saved.
+
+
+(Reference: Pages 5 and 15-22, TWS 128 manual; p 6 and 17-22, 64 manual.
+
+
+--Dick Estel

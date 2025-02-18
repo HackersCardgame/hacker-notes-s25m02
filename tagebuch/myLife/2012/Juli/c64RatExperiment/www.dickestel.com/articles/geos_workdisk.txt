@@ -1,0 +1,79 @@
+Creating GEOS Work Disks
+
+by Dick Estel
+
+In helping folks figure out GEOS, I've observed that the ones who have the most trouble creating work
+disks were all using one-drive systems. Possibly Berkeley Softworks had an interest in encouraging
+people to buy a second disk drive; at any rate, it is tedious and discouraging to use the program with
+only one drive. And making work disks is especially difficult and confusing for new users.
+
+For anyone using GEOS who has this problem, here is a step-by-step tutorial, as well as some
+DON'Ts. These instructions are the best procedure in my opinion, and in some cases conflict with the
+gospel according to Berkeley.
+
+First, DON'T copy your system disk or application disk for use as a work disk (DO copy it as a
+backup, and put it away). 
+
+1. Format a disk for each major application. I suggest one for geoWrite and one for geoPaint to start. If
+you have a 1571 drive, use double-sided format.
+
+2. Open GEOS. You must use the system disk (also known as the boot disk) to load GEOS. At this
+point you are looking at the Desk Top. The rectangle in the middle of the screen with eight little pictures
+(icons) on it is referred to as the note pad. At the top of the screen is a menu bar. Below the Desk Top
+is the border. On the right side of the border is the waste basket. On older versions of GEOS there is a
+picture of a printer next to it. On newer versions the printer is on the left side. DON'T confuse this
+printer icon with the printer DRIVER icons on the desk top. I will refer to this icon as the printer
+command icon and the others as drivers. At the lower left corner of the note pad is a turned-up corner.
+Clicking on either part of this changes to the next or previous page of the Desk Top. You can also just
+press the number keys to go to a specific page number. To the right of the note pad is an icon that
+looks like a disk. It should be black, and will have a name under it, something like System or System
+Backup. This icon shows whether the drive is active or not (in a multiple-drive system there can be up
+to three icons here).
+
+3. Go through the pages and find the printer driver icon for your printer. Move the pointer over it, and
+click once. The printer icon colors should be reversed. Now click on it again. A white outline of the
+icon should appear, and will become attached to the pointer. Move this "ghost icon" to the border and
+click once. The icon will disappear from the note pad and appear on the border. If you have a 1571
+drive, repeat the process with the file named Desk Top. 
+
+4. Remove the source disk (your System disk at this point) and insert your work disk. Move the pointer
+over the disk icon to the right of the note pad and click once. The display will change to show what is
+on your work disk (a blank note pad if it's a newly formatted disk).
+
+5. The printer driver icon that you moved to the border should still be visible. Move the pointer over it
+and click once; then click again. A ghost icon should appear. Move it to the note pad and click once.
+
+6. You will now be prompted to insert the source disk. After you have done so, move the pointer to the
+box next to OK and click once. The program will now start to read the printer driver file.
+
+7. Next you will be prompted to insert your work disk. Do so and click on OK. The driver file will be
+written to your work disk. Repeat steps 5 though 7 with the Desk Top file if you have a 1571 drive.
+
+8. Remove your work disk and insert the disk with geoPaint on it. (At this point the disk you copy from
+will change depending on what version you are using. For the old 64 it will be the system disk. For the
+old 128 it will be the back of the system disk. For all 2.0 versions it will be the Applications Disk.
+
+9. Repeat the process of moving the files to the border as described in Step 3. You should move
+geoPaint, the Photo Manager, and the desired fonts to the border (note that fonts may not be on the
+same disk with geoPaint and Photo Manager).
+
+10. When you have moved all desired files on a particular disk, repeat the copying process described in
+Steps 4 through 7. 
+
+11. Repeat the process to create a geoWrite work disk, substituting geoWrite for geoPaint. If you are
+using a 1541 drive, be conservative in selecting your fonts. You have very little room to work,
+especially for your geoPaint disks.
+
+12. Now, you are probably eager to start using geoPaint or geoWrite. DON'T.
+
+13. Get out of GEOS and get out your best whole-disk copy program (Maverick or Fast Hack'em are
+fine). Make several copies of your work disks. The purpose of this is to have basic work disks ready
+when you start a new project, so you don't have to go through the hassle of file-copying to make work
+disks. You can always delete some fonts and replace them with others, or change printer drivers if you
+have more than one printer.
+
+14. If you are having a problem creating a work disk, re-read all the instructions from start to finish
+without doing anything; then try it a step at a time. If that doesn't do it, send Email to DickEstel@att.net.
+
+(From The Interface, newsletter of Fresno Commodore User Group, 12/90; via the Commodore
+Information Center, http://home.att.net/~rmestel/commodore.html)

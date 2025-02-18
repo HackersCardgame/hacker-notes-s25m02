@@ -1,0 +1,77 @@
+Vintage Computer Show 1997 Part 2
+
+by Robert Bernardo
+
+What! Have I turned? Have I gone over to the dark side? Have the forces of light fallen to the
+shadows? Have I become a traitor, a turncoat, a Benedict Arnold? Have I turned my back on the
+Commodore universe?
+
+In October of 1997 I went to the first annual Vintage Computer Festival, a mostly 8-bit computer fair,
+held in Pleasanton, California. I went looking for Commodore; I found many Commodore hardware
+exhibits and several software vendors. After going around the vendors' tables to scan what they had for
+sale, I decided to start buying...a few accessory Koala programs here, a few older Amiga programs
+there.
+
+My friend, Larry Anderson, and his wife, Diane Hare, had set up a few tables. It had only cost them
+$15 for the tables, but as vendors, they didn't have to pay the $15 weekend entrance fee. I had met
+Larry months earlier when he helped me with a software problem. He was also the SYSOP of the
+Commodore bulletin board system, Silicon Realms, at 209 754-1363.
+
+As I looked through the various hardware and software goodies on Larry's table, I spied a dream
+computer. There it was--a Tandy 100 portable laptop computer. No, we're not talking of modern-day
+laptop computers with full-color screens, Pentium processors, big hard drives, and CD-ROM
+capability. This was a Tandy 100, a laptop sold by Radio Shack back in the early 1980's. It had almost
+a full-sized keyboard, and it had several programs built into ROM. It had no disk drive, but it did have
+a built-in modem. The entire computer ran off of 4 pen-light batteries. I remembered Radio Shack
+selling it for $595 or $695; in fact I should have an old RS catalog with the advertisement for the
+computer.
+
+Larry's Tandy 100 was missing a very important part, though. It didn't have the liquid crystal display!
+Yes, it would be very difficult to gauge what was going on with the computer if I didn't have the
+40-character per line, 8-line screen. I asked Larry about the missing part. He wanted $50 for the
+Tandy but was willing to go lower. He was certain that others would have the screen, for example,
+Club 100, the Tandy 100 club of the San Francisco Bay Area. Larry even mentioned that another
+vendor may have LCD panel for sale, and he pointed me to another table across the room. It was the
+end of the day. He and the wife were leaving for dinner, and because the room was closing, they would
+leave the materials at their table for the next day. Larry trusted me; he said that I could bring the 100 to
+the other vendor for comparing the required part and that if I wanted to buy his machine, I could leave
+the money in a bag by his table. If I didn't want the computer, I would just leave the machine in the bag.
+
+Surprised at his trusting me, I walked across the room to the table of Stephen Stone of Santa Barbara.
+Stephen had been one of the speakers that weekend, and his specialty was CP/M. He had quite a
+number of CP/M computers at his table, including transportable Kay-Pro Computers (bigger than a
+Commodore SX-64). I asked him whether he had a LCD screen for the Tandy 100 I was carrying. He
+didn't have any extra ones, but he was selling complete NEC-8201 laptops. The NEC was a sister
+computer to the Tandy 100. They were both manufactured by Kyocera in Japan, and they differed in
+some details. The NEC was decorated in 3 shades of gray and beige compared to the black of the
+Tandy. The NEC had dedicated cursor keys and a wedge profile; the Tandy had neither. However, the
+Tandy had that built-in modem; the NEC had an accessory modem that plugged into the back.
+
+Though the fair was officially over for the day, Stephen let me stay, let me try out the NEC's to my
+heart's delight, let me pore over the instruction books, and let me ask him plenty of questions. I was
+sold. I bought an NEC-8201 which came with the outboard modem, greater internal memory, 2 ram
+expansion packs, a datasette recorder (!), and 3 instruction books. I paid $75 for everything.
+
+This NEC is not a Commodore. When the computer is powered up, the top line of the screen says "(C)
+Microsoft." It does have a version of BASIC, numbered 1.2, and it is rumored that this was the last
+BASIC that Bill Gates personally worked on. And so, why should I want it when I'm a Commodore
+person? This is where long-term memory comes into play. Years ago in RUN magazine I had read an
+article in which the author interfaced his Tandy laptop with his Commodore. The NEC/Tandy came
+with a text editor in ROM. Via a null modem cable and the built-in term program, the author could
+transfer anything from the laptop to the Commodore. I bought the NEC to be a slave to my
+Commodore 128! When on the road, I could pack the NEC and write my articles on it. Upon my
+return home, I could dump the text article to the Commodore and read the article into Zed 0.77 for
+more text editing or into the Write Stuff for further word processing. Another method--I could be on
+the road and E-mail the article to myself; then upon my return, I could read the E-mail into the
+Commodore.
+
+Thus I have my first PC, a 2.4 mhz. tool to serve my Commodore. I seem to look at all modern
+hardware from that viewpoint--how can they serve the Commodore? When I pass by the latest
+Pentiums, I think, "I wonder how well a Commodore emulator would run on them?" When I pass by
+Macintosh computers, the same question pops up--can a Commodore emulator run on them? From my
+travels to England in 1997, I brought back a Commodore emulator which runs on accelerated Amiga
+computers. I look at the newest printers...you've got it...I think about whether they are
+Commodore-compatible. After years of training, this way of thinking is pretty much automatic.
+
+From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html

@@ -1,0 +1,1024 @@
+Das Computing Grid für den europäischen
+Teilchenbeschleuniger des CERN
+Grenzdimensionen
+Bernd Schöne
+In der Nähe von Genf betreiben Physiker den größten
+Teilchenbeschleuniger der Erde, den Large Hadron Collider.
+Damit das riesige Physiklabor gleichzeitig Tausenden von
+Wissenschaftlern in aller Welt zur Verfügung steht, hat das
+CERN zusammen mit anderen Organisationen das
+derzeit größte Rechen- und Speicher-Grid aus der Taufe
+gehoben. Nun haben sie das nächste Ziel im Visier:
+die Brücke vom Grid zur Cloud.
+
+Einer der wenigen Orte, an denen
+man Informationstechnik der ande-
+ren Dimension bewundern kann, ist das
+CERN, das Europäische Zentrum für
+Teilchenphysik (Conseil Européen pour
+la Recherche Nucléaire). Dort bereitet
+sich das hauseigene Rechenzentrum auf
+gewaltige Rechenaufgaben und Daten-
+mengen vor. Sie sollen anfallen, wenn
+der weltgrößte Teilchenbeschleuniger,
+der Large Hadron Collider (LHC), am
+CERN im Jahr 2013 seine maximale
+Leistungsfähigkeit erreicht.
+Zwar muss etwa auch der ameri-
+kanische Nachrichtendienst NSA (Na-
+tional Security Agency) gigantische
+Bit-Mengen speichern, um all die mit-
+geschnittenen Telefon- und Internetver-
+bindungen zu konservieren, doch die
+Tore dieser Institution bleiben für Be-
+sucher leider genauso versperrt wie die
+Rechenzentren der Atomenergiebehör-
+de, auf deren Großrechnern das US-
+Militär Atomexplosionen simuliert.
+Dagegen macht das CERN aus sei-
+ner Tätigkeit kein Geheimnis; das insti-
+tutseigene Besucherzentrum ist für jeden
+zugänglich. Ausgewählte Gruppen dür-
+fen sogar das Rechenzentrum betreten,
+einen Ort, der schon vielen Systemen ei-
+ne Heimat geboten hat: Mainframes,
+Vektorrechnern und Unix-Servern jeg-
+licher Art. An deren Stelle entstand ei-
+ner der größten Linux-Cluster der Welt.
+Er ist der Ausgangspunkt für ein fünf-
+stufiges weltweit verteiltes Speicher-
+und Rechen-Grid, das LHC Computing
+Grid (LCG).
+Um die kleinsten Partikel der Mate-
+rie zu erforschen, hat das CERN einen
+knapp 27ˇkm langen Ringbeschleuniger
+plus kleinere Ringe zur Vorbeschleuni-
+gung in die Genfer Erde gebuddelt. Ge-
+nauer gesagt unter Gebiete in Frank-
+reich und der Schweiz. Um im stabilen
+Gestein arbeiten zu können, liegt der
+große Ring leicht schief. Unter dem
+Genfer See verläuft er in 50 Meter Tie-
+fe, in Frankreich sind es 150 Meter.
+Bevor der Eurotunnel zwischen Frank-
+reich und Großbritannien gebaut wur-
+de, war der Ring das größte Tiefbau-
+projekt der Geschichte. Je nachdem,
+wie man rechnet, hat das Ganze min-
+destens 1 bis 2,5 Milliarden Euro ge-
+kostet, viele Sachspenden und die Ar-
+beitsleistung der Wissenschaftler in den
+Partnerinstituten nicht mitgerechnet.
+Als Lohn für die Mühen sollen spek-
+takuläre Erkenntnisse über die Zusam-
+mensetzung der Materie und der eine
+oder andere Nobelpreis winken. For-
+schungsziel ist es auch, durch die Kol-
+lisionen ganz kurzfristig das eine oder
+andere Teilchen zu erzeugen, das es im
+Universum seit dem Urknall nicht mehr
+gegeben hat. Das brachte dem LHC die
+Bezeichnung „Urknallmaschine“ ein.
+Die Physiker am CERN hören dieses
+Wort höchst ungern, haben aber noch
+keine griffige Alternative.
+Keine Chance,
+alles aufzuzeichnen
+Ähnlich kolossal wie die Dimensionen
+des Experiments mit seinen vier Detek-
+toren ALICE, ATLAS, CMS und LHCb
+– der größte so hoch wie ein achtstö-
+ckiges Haus – sind die dabei anfallen-
+den Datenmengen (siehe Kasten „Der
+Large Hadron Collider“). Nach den bis-
+herigen Kalkulationen der Forscher wird
+der LHC 40 Millionen Ereignisse pro
+Sekunde (40 MHz) erzeugen, bei jedem
+Zusammenstoß entstehen im Schnitt
+100 bis 1000 neue Teilchen, die in alle
+Himmelsrichtungen auseinanderfliegen.
+Möglichst viele, so hoffen die Forscher,
+verfangen sich in den Sensoren und
+hinterlassen dort Informationen über Im-
+puls, Energie und Richtung. Daraus ent-
+steht ein Datenstrom von einer Million
+GByte/s oder 1ˇPByte/s.
+Beim gegenwärtigen Stand der Tech-
+nik wäre es vollkommen illusorisch, die
+Rechen- und Speichersysteme direkt
+mit den Messdaten der vier Großexperi-
+mente zu füttern. Daher gibt es bereits
+innerhalb der Experimente spezielle
+Embedded-Rechner, die in drei Stufen
+eine erste Auswahl der Ereignisse tref-
+fen. Die von den Rechnern für relevant
+erachteten Daten von 1500 Ereignissen
+pro Sekunde gehen mit 2ˇGByte/s vom
+Ring in das ein paar Kilometer entfernte
+Rechenzentrum. Die Auswahl ist flexi-
+bel und geschieht nicht ganz freiwillig.
+Wenn sie könnten, würden die Physiker
+gern mehr Daten aufzeichnen, denn um-
+so schärfer ist später das mathematisch
+rekonstruierte Bild der Vorgänge in der
+Kollisionskammer. Selbst für die Aus-
+wertung der übrig bleibenden Daten ist
+das Genfer Rechenzentrum trotz seiner
+großzügigen Dimensionen zwei Num-
+mern zu klein. Eine Analyse und Ereig-
+nissimulation vor Ort würde 100ˇ000
+Computer erfordern – angesichts des
+zur Verfügung stehenden Budgets ein
+illusorischer Gedanke; schon den Ring
+und seine Experimente mussten die
+Genfer auf Pump bauen.
+Unerwartete Schwierigkeiten mit
+wasserführenden geologischen Schich-
+ten sprengten den ursprünglich ange-
+setzten Finanzrahmen und zwangen das
+Management, einen Kredit bei der Eu-
+ropäischen Bank aufzunehmen. Wenn
+man sich die nötige Rechenleistung
+nicht selber leisten kann, muss man sie
+sich eben borgen, dachten die Verant-
+wortlichen.
+Ein weltweit verteiltes Rechen- und
+Speicher-Grid, das Large Hadron Colli-
+
+
+KASTEN
+
+Der Large Hadron Collider: Dem Higgs-Teilchen auf der Spur
+Schon immer wollte der Mensch wissen,
+was die Welt im Innersten zusammenhält.
+Heute wissen wir: Vier Grundkräfte sind
+es. Gravitation, elektromagnetische Kraft
+sowie die starke und schwache Kernkraft.
+Sie wirken auf Elektronen, Protonen und
+Neutronen, die unsere sichtbare Welt in
+Form von Atomen formen. Protonen und
+Neutronen sind aber nicht wirklich ele-
+mentar. Sie sind aus jeweils drei Quarks
+zusammengebaut. Eine auch von den meis-
+ten Physikern kaum verstandene Theorie
+besagt, dass die vier Grundkräfte durch
+ganze Schauer von Partikeln übertragen
+werden, die ständig zwischen den Quarks
+und den Elektronen hin- und herwabern
+und Kräfte übertragen. Sie sind ein Produkt
+der Quantenwelt, entstehen aus dem Nichts,
+verschwinden wieder und existieren nur so
+kurze Zeit, dass sie den Energieerhaltungs-
+satz der Physik nicht stören.
+Der italienische Nobelpreisträger Enrico
+Fermi legte schon 1934 Beweise vor, dass
+insbesondere die schwache Kernkraft noch
+eine weitere Eigenschaft hat: Sie ist indi-
+rekt für den radioaktiven Zerfall von Atom-
+kernen verantwortlich. Leider gibt es für
+eines der mitwirkenden Austauschteilchen
+außer einem inzwischen fast zum Mythos
+gewordenen Namen wenig konkretes Wis-
+sen: das Higgs-Boson. Es muss vorhanden
+sein, wenn sich die Kernphysik der letzten
+dreißig Jahre nicht sinnlos im Kreis bewegt
+haben soll. Beobachtet hat man es aber
+noch nie.
+Daher sprechen viele Physiker auch lieber
+von Higgs-Teilchen, schon der Name „Bo-
+son“, nach dem indischen Physiker Bose, ist
+eine Festlegung auf ein Objekt mit ganzzah-
+ligem Eigendrehimpuls (Spin). Aber auch
+die sind ebenso wenig bestätigt wie andere
+Eigenschaften. Dabei wäre vor allem die
+Masse des Teilchens nicht nur für die Kern-
+physik von großer Bedeutung. Denn in al-
+len Sternen laufen permanent Zerfallspro-
+zesse ab, an denen sie beteiligt sein müssen.
+„Ohne Kenntnis des Higgs keine exakte
+Theorie der Sonne“ lautet das einfache Re-
+sümee. Manche Theoretiker gehen noch
+weiter, sie glauben, dass Materie überhaupt
+nur indirekt über eine Masse verfügt. Das
+Meer von Higgs-Bosonen, das sie umgibt,
+würde ihnen die Eigenschaft „Masse“ über-
+haupt erst verleihen. Ganz besonders fatal
+wäre es, wenn es das Higgs gar nicht geben
+würde. Dann wären etliche Physiklehr-
+bücher reif fürs Altpapier. Kein Zweifel:
+Das Higgs muss gefunden werden!
+Wissenschaftler, die sich den kleinsten
+Bausteinen der Materie verschrieben ha-
+ben, forschen mit gigantischen Anlagen. In
+Ermangelung anderer Beobachtungsgeräte
+bleibt ihnen nichts anderes übrig, als sub-
+atomare Teilchen stark zu beschleunigen
+und aufeinanderprallen zu lassen. Aus dem,
+was dann folgt, können sie Hinweise auf
+die innere Struktur der beteiligten Teilchen
+erlangen.
+Zum Betrieb geeignet sind alle frei vor-
+kommenden, geladenen Atombausteine, al-
+so Elektronen und Protonen sowie deren
+spiegelsymmetrische Gegenstücke aus Anti-
+materie. Neutrale Teilchen sind ungeeignet:
+Sie reagieren nicht auf die elektrischen
+Leitfelder des Rings. Auch Quarks kann
+man nicht direkt verwenden, denn sie la-
+gern sich infolge der starken Kernkraft so-
+fort zusammen.
+Doch auf der Suche nach dem Higgs-Teil-
+chen schwiegen bislang alle Detektoren.
+Ganz aussichtslos ist die Sache nicht. Schon
+die Vettern des gesuchten Teilchens, die W-
+und Z-Bosonen – auch sie sind in die
+schwache Kernkraft involviert – gingen den
+CERN-Teams schon zu Zeiten des alten Be-
+schleunigers ins Netz. Damals rasten noch
+die verhältnismäßig leichten Elektronen
+durch die Röhren. Als es keine Aussicht auf
+weitere Erkenntnisse über Higgsˇ&ˇCo gab,
+weil sich seine Leistung nicht weiter stei-
+gern ließ, wanderte der Elektronenbeschleu-
+niger LEP (Large Electron and Positron
+Collider) ins Altmetall.
+Mit fast Lichtgeschwindigkeit
+im Kreis
+Begonnen hat alles 1931 mit einem Be-
+schleuniger, der aussah wie eine Keksdose.
+Die nächste Generation fand in einer Garage
+Platz, dann folgten Fabrikhallen. Schließlich
+buddelten die Forscher ihre Beschleuniger
+unter die Erde. Die in Elektronenvolt ge-
+messene Beschleunigungsenergie stieg von
+einigen Tausend Elektronenvolt in den Be-
+reich Mega, Giga und heute Tera – Sprünge
+wie bei der Speicherkapazität der Festplat-
+ten. Entsprechend wuchs der Aufwand.
+Noch in den 80er-Jahren gab es mehrere
+solcher Anlagen, alle von zumindest ver-
+gleichbarer Leistungsfähigkeit. Momentan
+existieren noch zwei Großprojekte: der
+3,8 km lange Relativistic Heavy Ion Colli-
+der (RHIC) in Upton, New York, aus dem
+Jahr 2000 und der gut 6 km lange Tevatron
+in Batavia, Illinois, von 1987. Alle weite-
+ren Großprojekte fielen dem Rotstift zum
+Opfer; denn jegliche Überlegungen, die gi-
+gantischen Kernkräfte in einer übermächti-
+gen Quarkbombe zum Einsatz zu bringen,
+erwiesen sich bereits in den 90er-Jahren als
+nicht zielführend. Auch einem bereits aus-
+geschachteten Ring in Texas drehte der
+US-Senat den Geldhahn zu.
+Spätestens, wenn der LHC seine volle Leis-
+tungsfähigkeit von 14 TeV erreicht, sollen
+die deutlich kleineren und langsameren
+Ringe Tevatron und RHIC in den Ruhestand
+gehen. Denn dann beschleunigt man in
+dem 26,7 Kilometer langen LHC-Ring Pro-
+tonen und Ionen auf das auf Erden machba-
+re – auf 99,9999991ˇ% der Lichtgeschwin-
+digkeit. Dabei herrschen im Moment der
+Kollision Zustände wie am Anfang aller
+Zeiten, als sich – so glaubt man – kurz
+nach dem Urknall Energie und Materie
+voneinander schieden und sich die Natur-
+gesetze herauskristallisierten.
+Um die schweren Elementarteilchen in
+der Bahn zu halten, sind 9ˇTesla starke
+Felder nötig. Das erfordert supraleitende,
+auf minus 268,7 Grad Celsius oder 4,3
+Kelvin gekühlte Spulen, in denen der
+Strom widerstandslos zirkuliert. Dafür
+musste die Konstruktion des Beschleuni-
+gerrings, die Erdkrümmung und sogar die
+von den umliegenden Alpenmassiven ver-
+ursachten Gravitationsasymmetrien be-
+rücksichtigen. In die Kalibrierung der Ex-
+perimente gehen ebenso die Gezeiten und
+die Mondphasen ein.
+Genau genommen besteht der LHC aus
+zwei Ringen, eng nebeneinander ge-
+schmiegt. In diesen beiden Röhren zirku-
+lieren die Teilchen – momentan nur Proto-
+nen – gegenläufig. Beide Ringsysteme
+nutzen dieselben Magnetspulen und das-
+selbe Kühlsystem. Von außen sichtbar
+sind nur die blauen, jeweils 15 Meter lan-
+gen Dipol-Röhren, die alles umschließen.
+An vier Stellen des Rings eingelassen sind
+die Großexperimente – Detektoren – CMS,
+ATLAS und ALICE sowie der LHCb, die
+die eigentlichen Daten liefern. Im Fokus ste-
+hen neben dem Higgs-Teilchen das Quark-
+Gluon-Plasma, Verletzungen der CP-Inva-
+rianz (Charge Parity) sowie Mesonen, das
+Bottom-Quark und Neutrinos. Letztere ent-
+stehen bei den Experimenten in Massen.
+Ihre Analyse übernimmt ein italienisches
+Partnerinstitut in der Nähe von Rom.
+–ˇCMS:ˇDer Compact Muon Solenoid
+zeichnet Proton-Proton-Kollisionen auf.
+–ˇATLAS (A Toroidal LHC Apparatus): Er
+nimmt wie der CMS Proton-Proton-Kol-
+lisionen auf, ist aber anders konstruiert. Er
+dient unter anderem zur Kontrolle der beim
+CMS gewonnen Erkenntnisse.
+–ˇALICE (A Large Ion Collider Experi-
+ment) ist ein Vielzweckdetektor, der den
+Zusammenprall schwerer Ionen aufzeich-
+nen soll.
+–ˇLHCb:ˇDas Experiment Large Hadron
+Collider beauty soll Symmetrieverletzun-
+gen und seltene Hadronen-Zerfälle beob-
+achten.
+Pleiten, Pech und Pannen
+Doch das teuerste und wertvollste am LHC
+ist der Ring selbst. Wenn eines der vier
+großen Experimente nicht funktionieren
+würde, wäre das ärgerlich, aber keine Ka-
+tastrophe. Der Ring aber mit seinen 1232
+61iX Special 2/2010 – Cloud, Grid, Virtualisierung
+handgefertigten Dipolmagneten – ein jedes
+so teuer wie ein Einfamilienhaus – ist nicht
+zu ersetzen. Selbst eine Reparatur würde
+enorm viel Zeit verschlingen, da man die
+Röhren mühsam Stück für Stück aus
+100ˇm Tiefe holen müsste.
+Um so ärgerlicher für die Wissenschaftler,
+als sich bei Tests herausstellte, das einer
+der zahlreichen Übergänge zwischen den
+Dipolen schadhaft war. Diese Übergänge
+sollen die Längenänderungen ausgleichen,
+die auftreten, wenn der Ring herunterge-
+kühlt wird. Im Betrieb gehört der Ring zu
+den kältesten Orten im Universum. Denn
+nur in supraleitendem Zustand knapp über
+dem absoluten Nullpunkt lassen sich die
+Magnete energieeffizient betreiben. Um
+den Schaden zu lokalisieren, ließen die
+Techniker einen Tischtennisball mit Sender
+im Ring zirkulieren, der ihnen das defekte
+Element zeigte. Sonst hätten sie über Mo-
+nate alle Verbindungen lösen müssen.
+Weitere Schwierigkeiten bereiteten die so-
+genannten Quadropolmagnete, von denen
+jeweils drei zusammengehören. Sie pressen
+den Teilchenstrom kurz vor dem Kolli-
+sionspunkt auf ein Hundertstel Millimeter
+zusammen, um die Wahrscheinlichkeit ei-
+ner Kollision zu erhöhen. Sie war bereits
+im Tunnel eingebaut, als sich im März
+2007 ein Designfehler herausstellte – ihr
+Schutzmantel war zu schwach. Erst nach
+langem Nachdenken fanden die Ingenieu-
+re einen Weg, sie im Tunnel nachzubes-
+sern. Ein Umbau über Tage hätte Jahre ge-
+dauert. Eine derart lange Verzögerung hätte
+aber das Aus für das multinationale Projekt
+bedeuten können.
+Dass die Quadropole aus den USA kamen,
+dem Land mit dem einzigen halbwegs ver-
+gleichbaren Beschleuniger Tevatron, der
+zudem mit dem Start des LHC seinem En-
+de entgegensieht, sorgte in langen Winter-
+nächten für Gesprächsstoff beim CERN.
+Am 10. September 2008 folgte endlich die
+Eröffnung mit viel Prominenz. In den Folge-
+tagen wurde die Energie im Ring zwar
+langsam gesteigert, aber wohl doch zu
+schnell. Eine der zahllosen elektrischen
+Übergänge erwies sich als kalte Lötstelle.
+Die enorme Stromstärke produzierte eine
+solche Hitze an dem schlecht leitenden
+Übergang, dass das Metall schmolz. Große
+Mengen des als Kühlflüssigkeit verwende-
+ten Heliums traten mit lautem Knall aus
+und verschoben 53 weitere Magnete. Wie-
+der schien kurze Zeit alles verloren. Im-
+merhin dauerten die Reparaturarbeiten
+diesmal ein volles Jahr.
+Seit Ende 2009 arbeiten die Magnete wie-
+der. Am 30. März 2010 dann glückliche
+Gesichter. Zwar hatte man kein neues Teil-
+chen zu verkünden, aber einen Weltrekord:
+Die Kerne pulsierten mit einer Energie von
+3,5 TeV durch den Genfer Untergrund.
+Das ergibt eine Kollisionsenergie von
+7ˇTeV. Ein Jahr wird jetzt bei 7ˇTeV ge-
+messen, allerdings zunächst mit wenigen
+Protonen, was die Aussicht auf spektaku-
+läre Erfolge mindert. 2013, nach einem
+Umbau, soll es weitergehen. Das Ziel heißt
+dann: 14ˇTeV Kollisionsenergie und volle
+Teilchenzahl.
+Wenn alles läuft
+Unter Volllast erhoffen sich die Physiker
+dann mehr als 30 Millionen Kollisionen
+pro Sekunde. Obwohl Milliarden Atomker-
+ne im Ring zirkulieren, ist die Wahrschein-
+lichkeit eines frontalen Zusammenstoßes
+zweier winziger Kerne extrem gering. Zu-
+dem legt der Zufall fest, mit welcher Ener-
+gie und unter welchem Winkel die Proto-
+nen zusammenprallen. Nur hin und wieder
+entstehen dabei jene Teilchen, die es so seit
+dem Urknall nicht mehr gegeben hat, und
+auf die die Forscher so sehr gespannt sind.
+Sie möchten den ganzen Teilchenzoo ver-
+einfachen und auf wenige Grundelemente
+reduzieren.
+Die heute so komplizierten physikali-
+schen Gesetze könnten damals ganz ein-
+fach gewesen sein. „In den ersten Mo-
+menten des Universums muss zwischen
+Teilchen und Kräften eine einfache Be-
+ziehung geherrscht haben, die uns heute
+verborgen ist“, vermutet der CERN-Phy-
+siker und Nobelpreisträger Carlo Rubbia.
+Diese verborgenen Beziehungen könnten
+dann endlich so sein, wie es der grie-
+chisch gebildete Abendländer am liebsten
+hat: klar und von einfacher, symmetri-
+scher Struktur.
+Doch das sind Spekulationen. Zunächst
+gilt es, nach jeder Kollision die darauf fol-
+genden, rasend schnell ablaufenden Um-
+wandlungen durch ganze Batterien von
+Sensoren zu erfassen, denn direkt lassen
+sie sich nicht beobachten. Noch in den
+70er-Jahren leitete man die beim Zusam-
+menprall entstehenden Teilchenschauer
+durch Kammern mit überhitzter Flüssig-
+keit und fotografierte die Spuren der Kern-
+teilchen. Hier zeichneten sie ihre Flugbahn
+in Form von kleinen Bläschen in den in-
+stabilen Flüssigkeits-See, die dann foto-
+grafiert wurden.
+Die Damen, die vor dreißig Jahren an
+schweren Pulten die Bilder digitalisieren
+mussten, sind nur noch Geschichte. Heute
+fangen Blei-Wolfram-Kristalle die Gam-
+mastrahlung der an den Prozessen beteilig-
+ten Teilchen auf und verwandeln sie pro-
+portional zu ihrer Energie in sichtbare
+Lichtblitze, die dann von Fotodioden in
+computergerechte, elektrische Signale um-
+gewandelt werden. Allein der Detektor
+„ALICE“ besitzt 20ˇ000 dieser Platten,
+zum Stückpreis von 200 Dollar. Ein Prin-
+zip der Blasenkammer ist geblieben: Nur
+die Folgeerscheinungen, also die Spuren
+der Ereignisse, lassen sich messtechnisch
+erfassen. Kein Wunder, das die Physiker
+erst Monate oder gar Jahre nach einem Ex-
+periment genau wissen, was sie beobachtet
+haben. Ohne Rechenleistung läuft in die-
+sem Feld der Physik nichts.
+Geduld werden die Forscher auf jeden Fall
+brauchen. So zeigt sich das Higgs, wenn
+überhaupt, nur alle 108 Kollisionen. Wenn
+es soweit ist, fällt hoffentlich nicht der
+Rechner aus.
+
+
+KASTEN
+
+der Computing Grid (LCG), soll den
+Engpass beheben. Um den Datenfluss
+und Rechenaufwand organisatorisch in
+den Griff zu bekommen, haben seine
+Konstrukteure fünf Stufen oder Tiers
+vorgesehen: Das CERN-eigene Re-
+chenzentrum bildet mit seinem Linux-
+Cluster und den großen Tape Libraries,
+die alle im RZ eintreffenden Daten hor-
+ten, die Stufeˇ0 oder Tierˇ0.
+Über eigene 10-GBit-Leitungen flie-
+ßen Kopien ins weltweite Speicher- und
+Rechen-Grid, in dem die eigentlichen
+Analysen stattfinden. Erste Stationen
+sind zwölf über den Erdball verstreute
+Rechenzentren mit großen Storage-Sys-
+temen und Clustern mit mehreren Tau-
+send CPUs (Tierˇ1). Darüber verteilen
+sich die Daten und Rechenjobs auf über
+hundert Rechenzentren nationaler In-
+stitute und Universitäten (Tierˇ2) und
+schließlich auf die Server und Worksta-
+tions der Arbeitsgruppen (Tierˇ3) und
+Anwender (Tierˇ4). Ab Mai wird das
+Eurogrid in Amsterdam die Organisa-
+tion übernehmen.
+Stufe 0 –
+der Genfer Linux-Cluster
+Sah es lang so aus, als müsste die Phy-
+sik auf die Informatik warten, war es
+letztlich umgekehrt. Durch zahlreiche
+Pannen und Fehler (siehe Kasten „Der
+Large Hadron Collider“) verzögerte
+sich der Start um mehr als drei Jahre.
+Zeit genug für die IT, ihre Systeme zu
+aktualisieren.
+Am meisten hat sich in den letzten
+Jahren am hauseigenen Linux-Cluster,
+dem Tierˇ0, getan. Dass seine Knoten
+alle drei Jahre dem Austausch zum
+Opfer fallen, führte dazu, das von der
+ursprünglichen IT des Jahres 2006,
+unmittelbar vor dem geplanten Start,
+heute außer den Kabeln und der Küh-
+lung nichts mehr vorhanden ist. Die
+5000 Server-Tower mit je zwei Single-
+Core-Xeons sind 6900 Mehrkern-Sys-
+temen mit insgesamt 41ˇ000 Cores ge-
+wichen.
+Lange versuchten die Vertreter von
+IBM, HP und anderen Computerherstel-
+lern vergeblich, die Leitung des Rechen-
+zentrums von den Vorteilen von Blade-
+Rechnern zu überzeugen. Erst jetzt
+hatten sie Erfolg. Unterm Strich zählen
+für das CERN vor allem die Kosten und
+der in HEPSpec06 gemessenen Integer-
+Rechenleistung. Die Experimente sind
+schließlich schon teuer genug. „Wir sind
+Physiker“, erläuterte Wolfgang von Rü-
+den, „Vorteile müssen sich rechnen.“
+Außer der Rechenleistung zählt auf-
+grund der beschränkten Kühlkapazität
+vor allem die Power-Effizienz. Daher
+verwendet das Rechenzentrum mo-
+mentan Quad-Sockel-Blades mit Vier-
+Kern-CPUs. Insgesamt steht im CERN
+eine Rechenleistung von 235 000
+HS06 (= 60 Millionen SI2000) zur Ver-
+fügung – im gesamten Grid sind es ga-
+rantierte 1 000 000 HS06.
+Raummangel herrscht im CERN-
+Rechenzentrum nicht, und die für die
+Administration nötigen Hilfskräfte sind
+auch in ausreichender Zahl vorhanden.
+Inzwischen ist auch das ganze CERN-
+Gelände mit redundant ausgelegten
+10-Gigabit-Ethernet-Leitungen durch-
+zogen. Gerne würde die IT-Abteilung
+noch mehr Cluster-Knoten ordern, doch
+wie so oft spielt die Kühlung nicht mit
+– das Rechenzentrum stammt aus den
+Mainframe-Tagen. Von den fünf Mega-
+watt, die dem Rechenzentrum zur Ver-
+fügung stehen, wandern drei in die
+Rechner und zwei in die Kühlung. Doch
+wenn 2012 der Ring aufgerüstet ist,
+sind noch mehr Daten zu erwarten. Ab
+diesem Zeitpunkt, so die aktuellen Über-
+legungen, könnten kleine Rechenzen-
+tren, die in Containern untergebracht
+würden, das große ergänzen.
+Momentan liefert der Ring in jeder
+Sekunde 2000 MByte Rohmaterial ans
+Rechenzentrum. Pro Jahr beläuft sich
+der Output des gesamten Rings auf über
+20 PByte, das entspräche der Speicher-
+kapazität von 4ˇMillionen DVDs. Als
+schneller, aber kurzfristiger Speicher
+dienen NAS-Server, deren Disk-Arrays
+14 PByte auf 60ˇ000 Disks fassen. Von
+dort verteilen sich die Aufnahmen der
+Ring-Sensoren zur Nachbearbeitung
+auf die Cluster-Knoten.
+Der IT kommt entgegen, dass sich
+die dafür notwendigen Berechnungen
+leicht parallelisieren lassen – jeder
+CPU-Kern im Cluster bearbeitet je-
+weils ein Event. „Diese Berechnungen
+kann man sich vorstellen wie die
+Nachbearbeitung der Urlaubsbilder im
+RAW-Format auf dem heimischen
+PC“, erläutert Wolfgang von Rüden,
+„alle Bilder sind unabhängig vonein-
+ander. Es kommt darauf an, durch den
+Rechner Kontrast und Helligkeit zu
+optimieren, damit sich eine brillante
+Abbildung ergibt.“ Bei den Messdaten
+der CERN-Experimente sind es vor al-
+lem die örtlich und zeitlich variieren-
+den Kalibrierungen der Sensoren, die
+der Rechner in die Rohdaten einarbei-
+ten muss.
+Viel Arbeit
+für die Tape-Roboter
+Auf diese Daten müssen die mit
+der Analyse der Experimente befass-
+ten Physiker später jederzeit zugreifen
+können – die Archivdaten sind also
+Produktivdaten. Und damit die Theo-
+retiker ihre Modelle auch präzise über-
+prüfen können, ist jedes Bit gefragt.
+
+KASTEN
+
+Gegründet wurde das CERN (Conseil Européen pour la Recherche
+Nucléaire) 1954 im dünnbesiedelten Grenzgebiet zwischen der
+Schweiz und Frankreich. Aus zunächst elf Mitgliedsstaaten wurden
+inzwischen zwanzig. 3000 Mitarbeiter sind beim CERN beschäf-
+tigt, vernetzt sind sie mit rund 8000 Gastwissenschaftlern von Uni-
+versitäten und Forschungsinstitutionen. Hauptarbeitsgebiet des
+CERN sind Bau und Betrieb großer Teilchenbeschleuniger und der
+dazugehörenden Messtechnik. Das CERN erforscht weder Kern-
+spaltung noch Kernfusion, sondern den inneren Aufbau von subato-
+maren Teilchen. Dazu beschleunigt man diese auf hohe Energien
+und lässt sie kollidieren. Nach dem Baustopp für eine vergleichbare
+Anlage in den USA hat das CERN in der Wissenschaft einen ein-
+zigartigen Status: Die durch CERN-Experimente gewonnenen For-
+schungsergebnisse lassen sich praktisch nur durch andere CERN-
+Experimente oder durch theoretische Berechnungen widerlegen. Die
+Physiker können nicht exakt steuern, welche Teilchen unter welchen
+Winkeln und Geschwindigkeiten kollidieren. Daher ist jede Kol-
+lision ein Unikat, sie lässt sich nicht gezielt wiederholen.
+Schon früh erkannten die CERN-Wissenschaftler, dass es ange-
+sichts des streng limitierten Budgets nicht möglich sein würde, die
+gesamte Datenverarbeitung wie bei früheren Experimenten im ei-
+genen Haus zu halten. Mehr Mittel könnte es nur geben, wenn
+dem alle Mitgliedsstaaten zustimmen würden. Aus der Not wurde
+eine Tugend. Ein genauso schneller wie sicherer Grid-Datenver-
+bund schaufelt die Messwerte zu den angeschlossenen Partner-
+organisationen. Das CERN behält aber die Übersicht. Es weiß
+stets, in welchem Knoten sich die Daten befinden. Mit Rechner-
+netzen kennt man sich am CERN aus. 1989 legte Tim Berners-Lee
+hier die Grundlage für das World Wide Web.
+Auch unter Physikern ist das CERN umstritten gewesen. Zu teu-
+er, zu schwerfällig und zu ineffizient, lautet der Vorwurf. Nur
+zwei Teilchen, das W- und das Z-Boson hat das CERN als Erstes
+entdeckt, und auch das nur, weil die eigentlich schnellere US-
+Gruppe ihre Ergebnisse so lange überprüfte, bis ihr das CERN
+um einen Tag den Ruhm und den Nobelpreis vor der Nase weg-
+schnappte.
+Die Befürworter sehen das anders. Ohne das CERN wäre das heu-
+te allgemein akzeptierte Standardmodell der subatomaren Teil-
+chen, bestehend aus Quarks, Photonen, Mesonen und vielen ande-
+ren Partikeln, nicht so weitreichend bestätigt. Außerdem war das
+CERN der einzige Ort, an dem sich Spitzenforscher aus Ost und
+West auch während des Kalten Krieges ungestört treffen konnten.
+Ähnliches gilt auch heute noch für China und Taiwan.
+Das CERN sucht ständig den Kontakt mit Universitäten und
+Fachhochschulen, um qualifizierte Gaststudenten zu bekommen.
+Es winken genauso spannende wie lehrreiche Monate in der
+Schweiz, denn alles, was es nicht in ausreichender Qualität von
+der Stange gibt, muss selbst programmiert werden. Eine Chance
+haben nicht nur Physiker, sondern auch Informatiker und Tech-
+niker. Linux-Fans dürften auf ihre Kosten kommen, denn das
+CERN setzt verstärkt auf dieses Betriebssystem. Generell ist
+Open Source gern gesehen. Bekannte IT-Firmen zahlen manch-
+mal sogar Geld, um dem CERN bei seinen Spitzenleistungen hel-
+fen zu dürfen. Einen besseren Erfolgsnachweis kann man sich
+schwer vorstellen. Dieses sogenannte Partnerprogramm ist eben-
+falls eine Möglichkeit, eine Zeit lang als IT-Spezialist beim
+CERN Erfahrungen zu sammeln.
+
+
+
+KASTEN
+
+„Unsere Daten liefern ein hologra-
+fisches Bild der Vorgänge in der Mess-
+kammer. Fehlen einige Datensätze,
+wird das Bild dadurch zwar nicht un-
+vollständig, es nimmt aber immer mehr
+an Detailreichtum ab“, erläutert Bernd
+Panzer-Steindel, Physiker am CERN.
+Das bedeutet aber auch, dass alte Da-
+ten für neue Berechnungen überaus
+wichtig sind, und dass neue Erkennt-
+nisse nur mit den Erfahrungen der
+Vergangenheit möglich sind. „Die al-
+ten Messwerte verbessern die Statistik“,
+ergänzt er, „gerade bei schwachen Ef-
+fekten in der Nähe des statistischen
+Rauschens sind sie eine wichtige Hilfe,
+auf die wir nicht verzichten können.“
+Deshalb bleibt – trotz weltweit ver-
+teilten Rechnens – eine Kopie aller ins
+Grid gestellter Daten beim CERN.
+Das sind immer noch 2000 MByte/s,
+die einerseits ins Tierˇ1 und gleichzeitig
+auf die eigenen Bandbibliotheken zu
+schieben sind. In ihnen füllen insgesamt
+150 Enterprise-Bandlaufwerke des Typs
+TS1130 von IBM und StorageTek
+T10000B von Sun/Oracle parallel den
+momentan auf 48 PByte ausgelegten
+Langzeitspeicher, bestehend aus 48ˇ000
+Tapes mit je 1ˇTByte Kapazität. Hier la-
+gern die Aufzeichnungen der laufenden
+Experimente einträchtig neben den Er-
+gebnissen des alten Elektron/Positron-
+Beschleunigerrings ebenso wie die be-
+rechneten LHC-Daten aus den Bau- und
+Test-Phasen. „Platten wären einfach zu
+teuer“, so Wolfgang von Rüden.
+Da das Institut seinen gesamten Da-
+tenbestand alle vier Jahre auf die je-
+weils aktuelle Generation von Bandsys-
+temen umkopiert, halten sich Ausfälle
+in Grenzen. Statistisch „lebt“ ein Daten-
+träger zehn Jahre. Bei der großen Men-
+ge der eingesetzten Bänder macht das
+im Schnitt trotzdem ein defektes Band
+pro Monat. Können die CERN-Techni-
+ker dem lädierten Datenträger nicht aus
+eigener Kraft seine Geheimnisse entlo-
+cken, fliegt das widerspenstige Exem-
+plar zu einem herstellereigenen Spezial-
+labor in die USA.
+2003 gelang es den Technikern des
+CERN im Test für den für Ende 2007
+geplanten Start des Beschleunigers,
+mithilfe von 45 Stk-9940B-Bandlauf-
+werken über mehrere Stunden hinweg
+1,1 GByte pro Sekunde auf Bänder zu
+schreiben, in Spitzen 1,2 GByte. Heute
+liegen die kontinuierlich speicherbaren
+Ströme im Mittel bei 2ˇGByte/s, maxi-
+mal bei 4ˇGByte/s mit Spitzenraten von
+über 5ˇGByte/s.
+Eine Kopie aller Bilder wandert
+nach Themen klassifiziert zur Analyse
+in die nächste Stufe des Grid, das soge-
+nannte Tierˇ1. Die 12 dort zugehörigen
+Rechenzentren stellen sowohl garan-
+tierte Rechenleistung als auch Spei-
+cherkapazität zur Verfügung. Jedes ein-
+zelne unterhält einen Rechen-Cluster
+mit jeweils mehreren Tausend CPUs
+sowie Disk- und Bandsystemen mit
+mehreren PByte Kapazität.
+Stufe 1 bis 4 –
+zur Auswertung verteilt
+Für die schnelle Weiterleitung der Da-
+tenfracht zwischen den Instituten sorgen
+die nationalen und internationalen Wis-
+senschaftsnetze, ein separater Teil des
+Internet für die Vernetzung nichtkom-
+merzieller Forschungseinrichtungen.
+Das CERN ist direkt mit dem im Juni
+2005 in Betrieb genommenen Europäi-
+schen Backbone GÉANT2 verbunden,
+der aus Dark Fiber (nicht an bestimmte
+Protokolle gebundene Glasfaser-Bün-
+del) und gemieteten Leitungen besteht.
+Über Erstere lassen sich per Wellenlän-
+gen-Multiplexing 10 GBit/s pro Wellen-
+länge und Faser übertragen.
+Vom GÉANT gehen die Daten zum
+einen über die daran angeschlossenen
+nationalen Netze (National Research
+and Education Networks, NREN) an die
+beteiligten europäischen Tier-1-Kno-
+ten CNAF (Bologna), IN2P3 (Lyon),
+GridKa (Karlsruhe), SARA (Amster-
+dam), NorduGrid (Skandinavien), PIC
+(Barcelona) und RAL (Didcot, UK).
+Über den großen interkontinentalen
+Backbone gelangen sie zum anderen
+durch das kanadische CA*net4 nach
+Vancouver, BC (TRIUMF) sowie in das
+US-amerikanische ESnet, von hier aus
+zu den Knoten Brookhaven (Upton,
+NY), Fermilab (Batavia, Illinois) sowie
+über das ASnet zum ASCC in Taipeh.
+Für die gesamte Tier-0-Tier-1-Vernet-
+zung sind in allen beteiligten Netzen
+mehrere 10-GBit-Links permanent re-
+serviert und bilden das Optical Private
+Network (OPN) des LCG.
+Etwa 100 Universitätsrechenzentren
+in 40 Ländern bilden das Tierˇ2. Sie
+stellen weitere garantierte Rechenka-
+pazität und sogenannte Managed Disk
+Storage – hauptsächlich für Simulatio-
+nen und Analysen – bereit. Außerdem
+gewähren sie den LCG-Zentren des
+Tierˇ3 Zugang zum Grid und stellen
+ausreichend Netzwerkbandbreite und
+entsprechende Dienste für den Daten-
+austausch mit den Tier-1-Knoten bereit.
+Weitere 1000 Institute, die Berech-
+nungen mit den CERN-Daten vorneh-
+men, stellen das Tierˇ3 dar, die lokalen
+Arbeitsplatzrechner von etwa 8000 Wis-
+senschaftlern das Tierˇ4. Denn je nach-
+dem, was bei der betreffenden Kollision
+passiert ist, interessieren sich unter-
+schiedliche Wissenschaftler für das Er-
+eignis. Die betreffenden Gruppen kön-
+nen sich die Daten kopieren und mit
+ihren Formeln weiterbearbeiten. Oft
+reicht dazu ein Desktop-PC.
+Sind die jeweiligen Berechnungen
+im Tierˇ2 und darunter abgeschlossen,
+geben sie die ursprünglichen und die
+errechneten respektive durch Simula-
+tionen erzeugten Datensätze an das zu-
+ständige Tier-1-Zentrum zurück, denn
+nur hier stehen die Bandspeicher für
+die Langzeitspeicherung. Das CERN
+kann bei Bedarf ebenfalls auf diese Da-
+ten zugreifen. Die Experimentdaten
+werden aus Sicherheitsgründen mehr-
+fach, in unterschiedlichen Tier-1- und
+Tier-2-Zentren vorgehalten.
+Für die Verteilung der Daten an
+die deutschen Tier-2-Zentren ist das
+GridKa (Grid am Forschungszentrum
+Karlsruhe) zuständig. Die Anbindung
+sowohl ans GÉANT als auch an die
+Tier-2-Zentren sowie deren Anbindung
+an die Tier-3-Standorte übernimmt das
+deutsche Forschungsnetz X-WIN, das
+Anfang 2006 das Wissenschaftsnetz G-
+WIN ablöste.
+Karlsruhe selbst ist momentan über
+eine redundante 20 GBit/s schnelle
+Leitung an das Grid angeschlossen.
+Das Forschungszentrum stellt eine Re-
+chenkapazität von knapp 22ˇ250 kSI2k
+sowie über 1ˇPByte auf Disks und
+15 PByte auf LTO-3- und LTO-4-Bän-
+dern zur Verfügung. Das deutsche Grid-
+Ka erhielt am 20.11.2009, unmittelbar
+nach dem erneuten Start des Rings, als
+weltweit erstes Schicht-1-Zentrum die
+Daten des Experiments CMS zur Bear-
+beitung. Kurze Zeit später trafen auch
+die Daten der anderen LHC-Experi-
+mente in Karlsruhe ein.
+Auf europäischer Ebene verwaltete
+das EGEE (Enabling Grids for E-
+sciencE) die Rechenressourcen für wis-
+senschaftliche Anwendungen und damit
+auch für den LHC. Allerdings endete
+EGEE am April 2010. Die neue Euro-
+pean Grid Initiative (EGI) mit Sitz in
+Amsterdam soll dessen Rolle überneh-
+men. Sie wird für zunächst vier Jahre
+gefördert. Beteiligt sind etwa 34 natio-
+nale Grid-Initiativen in Europa. Eine
+Aufgabe von EGI wird es sein, die tech-
+nisch verwandten Bereiche Grid und das
+kommerziell geprägte Thema Cloud zu
+verschmelzen. Nicht nur der LHC, son-
+dern auch datenintensive Forschungs-
+bereiche wie die Systembiologie sollen
+vom Grid/Cloud in Europa profitieren.
+Dazu sollen die Cloud-Ressourcen über
+das Grid zugänglich gemacht werden.
+Vier Firmen und zwei Universitäten ha-
+ben sich hierzu im Projekt „Open Cir-
+rus“ zusammengeschlossen. Die offene
+Wolke soll den Sprung vom Grid zum
+Cloud erleichtern.
+Egal, wie es mit den Fördergeldern
+der EU weitergeht, bereits im Vorfeld
+des Übergangs von EGEE zu EGI ei-
+nigten sich die wichtigsten CERN-
+Staaten darauf, das lebensnotwendige
+Rechennetz für den Beschleunigerring
+auf jeden Fall weiter zu unterhalten.
+Budgetbedingte Stellenkürzungen beim
+CERN schließt das allerdings nicht aus.
+LHC Computing
+für zu Hause
+Neben dem LCG setzt das CERN noch
+auf ein weiteres Rechnernetz, nämlich
+das seiner Freunde. Die stellen, ähnlich
+wie beim SETI-Projekt, die Rechen-
+power ihrer unterbeschäftigten PCs zur
+Verfügung. Das CERN spricht diese
+Rechner über das normale Internet an
+und bündelt sie zu einer schlagkräftigen
+Armada. Diese zusätzlichen Rechner
+schultern vor allem lästige, aber nicht
+unbedingt zeitkritische Simulationsbe-
+rechnungen der Großexperimente. Ob-
+wohl die CERN-Wissenschaftler ihr
+virtuelles Hilfsrechenzentrum ohne gro-
+ßen Werbefeldzug in Umlauf brachten,
+überstieg die Rechenkapazität an Spit-
+zentagen schon rasch die des eigenen
+Rechenzentrums.
+Jeder der will, kann bei LHC@home
+auch weiterhin mitmachen und wird mit
+dem Gefühl belohnt, am größten Expe-
+riment der Welt teilzunehmen (siehe
+Kasten „Links zu CERN-Projekten“).
+Die Kapazität der freiwilligen Helfer ist
+beim CERN fix eingeplant. Von Afgha-
+nistan bis Simbabwe ist fast jedes Land
+der Erde vertreten. Viele der freiwilligen
+Helfer sind in den derzeit fast 5400 re-
+gistrierten Teams organisiert, von denen
+das größte über 2200 Mitglieder zählt.
+Neben einem Sicherheits-Backup der
+Rohdaten bleibt das zentrale Register
+aller Messdaten beim CERN. Das Insti-
+tut weiß also stets, welche Partnerorga-
+nisation welche Bits auf welchen Tape-
+oder Disk-Systemen in Verwahrung hat
+und führt zudem Buch über mögliche
+Versionsabweichungen der Daten im
+Grid von denen im eigenen Archiv.
+„Dazu haben wir eine spezielle Middle-
+ware entwickelt, sie hält uns Versions-
+kollisionen vom Leib“, so von Rüden.
+Kein Grid
+ohne Software
+Da die beteiligten Institute unmöglich
+alle immer auf dem gleichen Software-
+stand zu halten sind, soll das Grid ge-
+nügend Intelligenz mitbekommen, um
+jedem Teilnehmer die Informationen
+„mundgerecht“, seinem Softwarestand
+entsprechend, zu liefern. Dies über-
+nimmt ein Release-Management für die
+Middleware.
+Fünf Mitarbeiter feilen außerdem
+ständig an den Sicherheitsmechanis-
+men des Grid, um Angriffe über das
+Netz abzuwehren; weltweit sind rund
+50 Personen ständig damit befasst.
+Zwar haben die CERN-Experimente
+weder einen militärischen noch einen
+kommerziellen Nutzen, doch jeder Zu-
+sammenprall ist ein Unikat, das man
+ungern verlieren möchte. Außerdem
+sollen sie verhindern, dass Cracker das
+Rechen-Grid kapern und es als mäch-
+tige Waffe gegen Server für DoS-An-
+griffe einsetzen. Schon jetzt zählt das
+Rechenzentrum allein auf den Tier-0-
+Cluster mindestens zwei Kaper-Versu-
+che täglich.
+Wie bei der voluminösen Hardware
+gilt auch bei der Software die CERN-
+Philosophie: Alles, was bereits vorhan-
+den ist, wird benutzt, der Rest selbst ent-
+wickelt. Um das Budget zu schonen,
+setzt man bevorzugt auf freie Software
+oder, wo die nicht weiterhilft, auf Part-
+nerschaften mit kommerziellen Her-
+stellern. Erst danach wird dazugekauft
+– oder selber programmiert. So sind
+wesentliche Teile der Speichersoftware
+im CERN entstanden. „Die verfügbare
+Software war für unsere Anforderungen
+einfach nicht schnell genug“, so von Rü-
+den. „Unser CASTOR (CERN Advanced
+Storage Manager) sorgt etwa dafür, das
+die Nutzer statt diverser Bandsilos nur
+einen einzigen virtuellen Datenträger zu
+sehen bekommen, den Rest regelt das
+Programm im Hintergrund.“
+Die selbstentwickelte Software stel-
+len die Grid-Entwickler ihrerseits wie-
+der für andere Projekte zur Verfügung.
+Eine Open-Source-Lizenz des EGEE
+regelt die Bedingungen für Umgang
+mit und Weitergabe der Grid-Software
+wie etwa der Lightweight Middleware
+for Grid Computing (gLite).
+Als Plattform für eine Partnerschaft
+mit IT-Firmen hat sich das CERN das
+„Open Lab“ erdacht. Und da sich mit
+Namen des renommierten Forschungs-
+zentrums gut werben lässt, zahlen Kon-
+zerne minimal 800ˇ000 Schweizer Fran-
+ken (500ˇ000 Dollar), um im Open Lab
+mitarbeiten zu dürfen. Hier testen sie
+Dinge, die erst Jahre später auf den
+Markt kommen.
+Fazit
+Endlich läuft der Ring und mit ihm die
+Experimente, wenn auch nur mit halber
+Kraft – mit 2ˇxˇ3,5 statt 2ˇxˇ7ˇTeV. Doch
+auch das ist deutlich mehr als irgendwo
+sonst auf der Welt und dürfte für neue
+Erkenntnisse locker reichen. Denn be-
+reits ab 3ˇTeV erwarten die Physiker ein
+supersymmetrisches Teilchen, das es seit
+dem Urknall nicht mehr gegeben hat.
+Auch wenn noch keine weltbewe-
+genden physikalischen Entdeckungen
+durch den LHC vorliegen – eines hat
+das CERN bereits erreicht: An dem
+Ort, an dem das World Wide Web ent-
+standen ist, haben sich nun alle renom-
+mierten Forschungseinrichtungen dieser
+Welt virtuell zusammengefunden – wie-
+der über ein Netz, das LHC Computing
+Grid. 
+BERND SCHÖNE
+ist freier Journalist.
+

@@ -1,0 +1,43 @@
+-------------
+fbc36eb5ddf437fc11f464112a0604cce0321b13
+Sun Jan  5 03:47:24 PM CET 2025
+502c76f66398f835246298c8036203c43399d1a0
+-------------
+
+dann seit ich meine Monitore nicht mehr an der NVIDIA Grafik-Karte sondern an der Intel eigenen angeschlossen habe crasht mein Mixxx nicht mehr, auch sonst weniger Probleme ...
+
+Somit VERMUTE ich, dass die 
+
+07:00.0 VGA compatible controller: NVIDIA Corporation GK208B [GeForce GT 730] (rev a1) 
+
+-> welche ich 
+
+ 2x bei Brack gekauft habe
+ 
+ dann bin ich mir nicht 100% sicher, aber die wurde in der Brack.ch bestell history nicht aufgelistet, erst als ich die ensprechende Rechnung geöffnet habe wurde diese dann aufgelistet
+ 
+Und Herr Brack AG ist ein Kollege von Simon Härdi ... Pivot
+
+WICHTIG: (was jetzt irgend 15 Minuten Gespamnmt wurde nach dem das schon auf meinem EEG abgegriffen wurde)
+
+Ich VERMUTE entweder die Treiber (egal ob Nouveau oder Proprietäre Nvidia Treiber in der Debian Distro) oder die Hardware hat backdoors drin welche über den PCI Bus dann task sabotiert, und vermutlich auch mitliest
+
+--> da scheinbar auch offline mitgelesen wird tippe ich auf funk hardware backdoors, von solcehn dingen hat jake appelbaum ja bereits 2013 berichtet apropos "... up to 8 miles ..."
+
+-------------
+4cb557514db939e600046b5498ce01b598e1f14a
+Sun Jan  5 04:09:29 PM CET 2025
+dc55799608f1b0db36589d5e032616323901e3a4
+-------------
+
+dann bei dem MUTMASSLICHEN Nvidia GrafikKarten Hardware-Funk-Backdoor VERMUTE ich sobald ich das behoben habe würden die dann versuchen über einen anderne Kanal auf meinen PCI Bus zuzugreifen
+
+-------------
+caa25d1cfbbf35634acd4dd00daa4c225c1e8197
+Sun Jan  5 04:26:55 PM CET 2025
+9c5db991f36dd7669e14aa24bfde2aae64874b0d
+-------------
+
+
+
+

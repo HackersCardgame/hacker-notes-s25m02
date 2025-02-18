@@ -1,0 +1,19 @@
+System log for account 962320 (icq) connected at 09.05.2007 16::43::45
+---- +++ 962320 hat sich angemeldet @ 2007-05-09 16:43:45 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-05-09 16:43:46 ----
+---- Schööfli hat den Status von Offline zu Abwesend geändert @ 2007-05-09 16:43:46 ----
+---- Schööfli wurde untätig @ 2007-05-09 16:43:46 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-05-09 16:43:46 ----
+---- Dominik wurde untätig @ 2007-05-09 16:43:46 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 2007-05-09 16:43:46 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-09 16:46:53 ----
+---- dikyangel wurde untätig @ 2007-05-09 16:46:53 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-09 16:49:46 ----
+---- dikyangel wurde tätig @ 2007-05-09 16:49:46 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-09 16:49:46 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-09 16:50:13 ----
+---- Schööfli hat den Status von Abwesend zu Offline geändert @ 2007-05-09 16:50:23 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 2007-05-09 16:56:20 ----
+---- Schööfli hat den Status von Offline zu Abwesend geändert @ 2007-05-09 17:43:51 ----
+---- Schööfli wurde tätig @ 2007-05-09 17:43:51 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-05-09 17:48:06 ----

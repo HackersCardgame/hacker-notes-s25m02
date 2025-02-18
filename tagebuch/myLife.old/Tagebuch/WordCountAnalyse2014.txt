@@ -1,0 +1,396 @@
+marc@kali:~/Daten.2014/myLife/Tagebuch/2014/evaluator$ ./evaluateWordcount.sh 
+     94 psychiater
+    102 mutmassung
+    111 hypothese
+    112 aarau
+    112 psychiatrie
+    126 p
+    128 gt
+    144 system
+    270 nsa
+
+marc@kali:~/Daten.2014/myLife/Tagebuch/2013/evaluator$ ./evaluateWordcount.sh 
+    701 vater
+    717 visual
+    838 irgendwer
+    911 blank
+    913 system
+   1025 stimme
+   1468 allenfalls
+   1791 pfisterer
+   1978 claudine
+
+marc@kali:~/Daten.2014/myLife/Tagebuch/2012/evaluator$ ./evaluateWordcount.sh 
+    239 mutter
+    248 kind
+    255 mafia
+    271 eltern
+    301 stimme
+    303 vater
+    368 primezettel zuber
+    372 system
+    453 claudine
+
+marc@kali:~/Daten.2014/myLife/Tagebuch/2011/evaluator$ ./evaluateWordcount.sh 
+    230 hypothese
+    251 pc
+    254 mäni
+    256 kind
+    275 frau
+    277 variante
+    291 zettel
+    325 visual
+    338 menschen
+    351 leute
+    438 nowzettel
+    493 system
+    688 claudine
+    957 stimme
+
+marc@kali:~/Daten.2014/myLife/Tagebuch/2010/evaluator$ ./evaluateWordcount.sh 
+    202 systemerhalt
+    205 recht
+    221 mann
+    248 eltern
+    249 vater
+    309 hypothese
+    315 sex
+    322 mutter
+    337 leute
+    338 menschen
+    341 frauen
+    362 liebe
+    386 ev
+    388 leben
+    440 kind
+    445 frau
+    496 system
+    592 kinder
+    845 claudine
+   1336 stimme
+
+marc@kali:~/Daten.2014/myLife/Tagebuch/2009/evaluator$ ./evaluateWordcount.sh 
+     78 computer
+     78 mutter
+     81 psychiatrie
+     84 familie
+     86 club
+     88 frauen
+     92 geld
+     92 kopf
+     93 welt
+     99 firma
+    105 gruppe
+    106 romino
+    110 frau
+    110 mensch
+    111 kind
+    112 probleme
+    112 weg
+    116 florio
+    118 drogen
+    128 claudine
+    128 eltern
+    139 liebe
+    154 arbeit (en)
+    158 zeit
+    167 recht
+    171 kinder
+    177 system
+    197 menschen
+    243 leben
+    266 anderen
+    267 naja
+
+marc@kali:~/Daten.2014/myLife/Tagebuch/2008/evaluator$ ./evaluateWordcount.sh 
+     13 meili
+     14 nico
+     15 insmod
+     16 abb
+     16 lösen
+     18 kopf
+     18 meta
+     21 claudine
+     21 leute
+     21 lösung
+     24 improware
+     24 jenni
+     93 florio
+     98 romino
+
+marc@kali:~/Daten.2014/myLife/Tagebuch/2007/evaluator$ ./evaluateWordcount.sh 
+     14 club
+     14 geld
+     15 arbeit
+     15 lesen
+     15 stimmen
+     15 welt
+     17 gruppe
+     20 recht
+     21 drogen
+     21 fall
+     25 kinder
+     27 menschen
+     29 leben
+     30 leute
+
+marc@kali:~/Daten.2014/myLife/Tagebuch/2006/evaluator$ ./evaluateWordcount.sh 
+     11 claudine
+     11 leute
+     11 visual
+     11 zeit
+     12 ödipus
+     12 eltern
+     12 frau
+     12 justiz
+     12 kind
+     12 laubetxt
+     12 psychiatrie
+     12 sohn
+     13 liebe
+     13 milit�r
+     13 wissen
+     14 arbeit
+     14 layer
+     15 select
+     16 drogen
+     16 leben
+     18 kinder
+     18 system
+     28 creed
+     48 fhakündigung
+     50 gap
+     50 psychi
+     50 windisch
+
+marc@kali:~/Daten.2014/myLife/Tagebuch/2005/evaluator$ ./evaluateWordcount.sh 
+     11 freundin
+     11 herz
+     11 plan
+     11 problem
+     11 schischi
+     11 stream
+     11 verhalten
+     12 club
+     13 aarau
+     13 image
+     13 nachtrag
+     14 deprivation
+     14 eltern
+     14 tochter
+     15 familie
+     15 frauen
+     15 schlange
+     15 sicherheit
+     17 menschen
+     17 psychiatrie
+     17 system
+     17 zeit
+     18 alleine
+     19 kinder
+     20 drogen
+     20 pfisterer
+     23 mutter
+     24 claudine
+     24 person
+     26 kind
+     26 vater
+    156 allfaelliger sohn
+
+marc@kali:~/Daten.2014/myLife/Tagebuch/2004/evaluator$ ./evaluateWordcount.sh 
+      6 story
+      6 target
+      6 töff
+      6 tod
+      6 wirtschaft
+      6 zumindest
+      6 zwischendrinn
+      7 ahv
+      7 ca
+      7 claudine
+      7 erkenntnis
+      7 herz
+      7 hypagogic
+      7 jeden
+      7 kind
+      7 psychologie
+      7 speed
+      7 tot
+      7 vater
+      7 xtc
+      8 auto
+      8 beziehungsebene
+      8 ödipus
+      8 drogen
+      8 fha
+      8 gemeindehaus
+      8 jemand
+      8 königsfelden
+      8 matt
+      8 patient
+      8 p�dagogik
+      8 utz
+      9 damokles
+      9 imagery
+      9 k�ttigen
+      9 mafia
+     10 aarau
+     10 chemie
+     10 system
+     10 terror
+     10 waffe
+     11 kontrast
+     11 schulden
+     11 selbstmord
+     11 zugriff
+     12 kanti
+     13 geld
+     15 kinder
+     15 rödlach
+     24 cpr
+     25 credo
+
+
+marc@kali:~/Daten.2014/myLife/Tagebuch/2003/evaluator$ ./evaluateWordcount.sh 
+      1  hass
+      1  headshot
+      1  illegitimer
+      1  implikation
+      1  interface
+      1  isolationsangst
+      1  jugendliche
+      1  kiffen
+      1  konditionierung
+      1  konsumenten
+      1  kontrollfunktion
+      1  kopfschmerzen
+      1  kriegswichtig
+      1  mafia
+      1  medic
+      1  militär
+      1  mind
+      1  mirror
+      1  missbraucht
+      1  mittäterschaft
+      1  mörder
+      1  mutmassung
+      1  neocortex
+      1  nsa
+      1  objekten
+      1  öku
+      1  opfer
+      1  papis
+      1  partie
+      1  pasquale
+      1  patient
+      1  pfahl
+      1  problem  staat
+      1  psychologische
+      1  psychoogische
+      1  psychopath
+      1  psychotisch
+      1  reconginitions
+      1  richter
+      1  select
+      1  sklaven ja
+      1  soziale
+      1  soziophaten
+      1  täter
+      1  telemetrie
+      1  terrorismus
+      1  tx von
+      1  umstand
+      1  us system
+      1  utilitraismus
+      1  vergewaltit
+      1  vergewatigt
+      1  vermeidungsverhalten
+      1  verwanntenkreis
+      1  viele
+      1  waffe
+      1  wartsaal
+      1  weissenschaftlihc
+      1  weltkrieg
+      1  wertesystem
+
+marc@kali:~/Daten.2014/myLife/Tagebuch/2002/evaluator$ ./evaluateWordcount.sh 
+      3 handschinstöckli
+      3 herunterzust�rzen
+      3 konditioniert
+      3 krieg
+      3 kriese
+      3 liebe
+      3 opfer
+      3 rausschmiss
+      3 riela
+      3 schutzbehauptung
+      3 sonja
+      3 utz
+      3 weber
+      4 behandelt
+      4 besuchbeinoelblumtxt
+      4 privatsph�re
+      4 sonjastoeklintxt
+     26 
+
+marc@kali:~/Daten.2014/myLife/Tagebuch/2001/evaluator$ ./evaluateWordcount.sh 
+     19 gute
+     20 hoi
+     22 club
+     24 marc
+     25 claudine
+     26 super
+     27 menschen
+   1033 
+
+marc@kali:~/Daten.2014/myLife/Tagebuch/2000/evaluator$ ./evaluateWordcount.sh 
+      3 trigger
+      3 triggert
+      3 tue
+      3 universe
+      3 unlogisch
+      3 unterwegs
+      3 urs
+      3 us
+      3 utz
+      3 vapi
+      3 vater
+      3 vergewaltiger
+      3 vergewaltigt
+      3 vergewaltigung
+      3 verlieren
+      3 vernetzung
+      3 veto
+      3 visuals
+      3 ��voice
+      3 waffen
+      3 wetter
+      3 wirtschaft
+      3 wohnung
+      3 zeugen
+      3 zh
+      3 zombies
+      4 arbeiten
+      4 auslaender
+      4 belser
+      4 claudine
+      4 engel
+      4 eraser
+      4 fischer
+      4 folter
+      4 frauen
+      4 mafia
+      4 pfisterer
+      4 rache
+      4 recht
+      4 selbstjustiz
+      4 show
+      4 suizidal
+      4 telemetrie
+      4 tod
+      5 drogen
+      5 gerichtet
+      5 geschichte
+      5 richten
+      5 verhoer
+

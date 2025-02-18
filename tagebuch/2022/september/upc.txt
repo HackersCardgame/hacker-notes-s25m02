@@ -1,0 +1,46 @@
+Halli Hallo @DOMINIK 
+
+ich bin grad mal Offline-Politiker, bzw. UPC ist kaputt, aber ich hab ja einen DualWAN Router mit einem Access Point mit dem ich auf's Handy bridge'n kann
+
+
+kleine Frage(n):
+
+* hast Du die Wisi-Dose in der Neuenburgerstrasse mal gewechselt? Meiner Meinung nach hätte diese eine zu grosse Auskoppelungsdämpfung.
+
+* weisst Du grad wieviel Auskoppelungsdämpfung diese hätte falls ja, dass ich das nicht aufschrauben muss?
+
+* Du hattest ja ein UMTS Modem, hattest Du damals auch Ärger mit UPC?
+
+
+
+Die neue Sunrise-UPC ist ein riesen Schlammassel:
+
+- Der First Level Support ist jetzt ims Kosovo-Albanien. Für SVP Wähler "perfekt" um den Konflikt zwischen rechten Schweizern und Kosovo-Albanern zu schüren wenn etwas nicht geht (Thema aufgebrachte Kunden)
+
+- vor ca. 3 Jahren hat mir der alte UPC Support gesagt das Signal sei auf 63DBµV, also eher knapp
+
+- jetzt haben die im Kosovo keinen Zugriff mehr auf die Signalwerte, also Herumgefluche und Konflikt schon vorprogrammiert weil die im Kosovo können nichts machen und würden dann einfach von Kunden angeflucht und die dürfen auch nicht den Second Level kontaktieren ausser per Mail. Ausserdem Sprachbarriere
+
+- Die Schweizer Armee hockt auf dem Konfigurations-Server für die Cisco Geräte:
+=> https://www.cisco.com/c/en/us/products/cloud-systems-management/configuration-engine/index.html
+
+- Damit können die Zeugen vom Internet trennen in dem die einfach den Sendepegel für diesen Strang herunter schalten. Das kann man auf der UBR einstellen.
+
+- Allenfalls überträgt sich Malware vom UPC-Management-API wo der Frist und Second Level drüber zugreift
+ * stimmt das wäre das Büro in Kosovo gehackt
+ * stimmt das wären auch die Techniker die vor Ort kommen gehackt (das sind ja jeweils so kleine lokale Firmen die das machen)
+
+- Das Arris Modem der UPC hat vermutlich einen SDR drin, der dann auf andere Geräte wie Bluethooth, Wifi, Funk oder worst case Herzschrittmacher zugreifen könnten, das geht nicht über die öffentliche IP sondern über das Management Netzwerk 10.0.0.0/24 wo auch der Telefonie Teil drauf hockt.
+=> SDR: https://de.wikipedia.org/wiki/Software_Defined_Radio
+
+Sag das dem dem (s)Meili falls das bei Euch allenfalls auch gemacht würde ohne Euer wissen, Meili weiss dass ich gut bin, hab ja vor Dir schon in diesen Dingen gearbeitet sowohl für Ziknet als auch Yetnet. Netzwerk Security ist nicht Dein Job und Deine Aufgabe und nicht Deine Verantwortung falls da mal irgendjemand dumm kommen würde. Da müsste (s)maili dann schauen. wenn Du das Meili gemeldet hast bist Du sowieso aus der Verantwortung raus was Dein grosser Bruder so heraus gefunden hat. Kannst (s)meili grad diesen Text weiterleiten und ein Gruss von mir.
+
+Ich werde die heute die ganze Nacht einen ausführlichen Bericht schreiben, der wird dann so gegen 04:00 auf https://marclandolt.ch/upc.html verfügbar sein
+
+
+Sorry dass das etwas ist, was einem das Leben nicht gerade einfacher macht, aber schlussendlich ist das der Job von Meili und nicht von Dir.
+
+also falls Du das mit den drei fragen mit * gerade weisst gerne rasch Hilfe von Dir.
+
+Grüsschen
+Marc jr.

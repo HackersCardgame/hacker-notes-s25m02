@@ -1,0 +1,70 @@
+The Indestructible Floppy Disk Experiment
+
+by Alma Peterson
+
+Carrying the 64 library disks back and forth to every meeting can be a real test of courage sometimes.
+Especially when it is in the 90 degree range outside, and I'm carting somewhere between 1,000 to
+1,500 disks in the trunk of my non-air conditioned car. Of course, we keep an entire back-up library
+just in case a disaster does strike someday, but would you want to have to re-copy each and every 64
+disk in the club library? Ugh! Have you ever wondered just how much abuse a disk could take?
+Curiosity finally got the best of me last week and I decided to find out. The experiment started out
+rather small, simple and to the point, but then I got a little carried away.    
+
+Using our own DCMR library catalog on side one and a full disk of library data on side two, I quickly
+made up two "experimental" copies of the disk, marking one "SUN" and the other "FREEZE." That's
+when the abusive side of me took over.  
+
+Happily cackling to myself, (cackling happily?) I cranked out another called "STOMP," then one called
+"KOOL AID," and finally one called "MICRO WAVE."  
+
+My first victim was the "SUN" disk. I threw it out the back door into full-blazing sunlight for two hours.
+In the meantime, "FREEZE" got popped into my handy kitchen freezer and promptly forgotten. 
+     
+Fun! But when I brought the "SUN" disk in a full two hours later, both sides still worked perfectly.
+Hmmmm! Not at all what I expected. Did I do something wrong? Maybe the black vinyl jacket was
+enough of a shield to keep the sun's rays from doing any damage.      
+
+The next day I took the jacket apart with the flat edge of a little screwdriver. It's real easy, you just
+slide it under the edge of the little seam on back of the disk and then rip! and tear! and slash! til it
+comes apart. Scratch one black vinyl jacket. The temperature was between 85-90, so I put the actual
+floppy, you know, the part you're never supposed to touch, right out there in the sun with absolutely no
+protection for another couple of hours, brought it back in, and faced another dilemma: no floppy will
+work in these drives without a jacket! Okay, but I'm dying to see what these "scrambled up" files must
+look like.     
+
+So I carefully sliced off a thin section of one side of a good jacket, removed the blank floppy and put
+"SUN" inside. Even with one side of the jacket cut open, the disk slid right into the drive like it should,
+and both sides of "SUN" still worked perfectly.   
+
+Well, maybe it hadn't received quite the right amount of heat like disks closed up in a hot car would get.
+At this point I was getting rather frustrated at the durability of this floppy. I scratched out the word
+"SUN" on the label and re-named it "CLOTHES DRYER." Then I heated up the dryer real good and
+put the entire disk in, all alone, still in the sliced jacket. I figured half an hour ought to do it. It came out
+sort of deformed looking, and the label was half off so I just flattened it out with a rolling pin while it
+was still warm. I guess I should have flattened it out with a hot iron instead, because when I tried once
+again to load the disk it still worked just fine.      
+
+It's pretty hard to continue, with any sort of enthusiasm, in an experiment that's not producing expected
+results. I thawed out "FREEZE" overnight and the next day it worked perfectly. Both sides.     
+
+I set the "SUN" disk up on the dashboard of my car all day long. After about an hour, that disk had
+curled up into the shape of a cereal bowl. When I finally brought it back in the house it was barely
+recognizable. The vinyl jacket, after its initial curl up earlier, had actually swollen and bubbled up from
+the intense heat. With trembling fingertips, I pulled the SUN floppy from its twisted, blistered prison,
+placed it in a new jacket, and then into the drive, and guess what? It worked perfectly!  
+
+Both sides of the disk called "MICRO WAVE" were totally zapped in less than 30 seconds, so
+consider that rumor proven. But attempts to re-format resulted in a perfectly working disk.
+
+Stay tuned next month for another report on the "SUN" floppy, which, in its shiny new sliced-open
+jacket, has been renamed to "boil in saucepan on kitchen stove as long as it takes."
+
+Ed note: Kids, don't try this at home. Alma Peterson is a trained professional.
+
+(Editor's PS: A greatly condensed version of this article was printed in The Interface in September
+1990. A year or two ago I attempted to contact Ms. Peterson to request an update on her further
+experiments, but I was informed by the man who answered that she is no longer involved with
+Commodore. Perhaps all her disks melted.)
+
+(From the Dayton Area Commodore Users Group newsletter via The Commodore Information Center
+web site (http://home.att.net/~rmestel/commodore.html) )

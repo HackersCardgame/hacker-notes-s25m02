@@ -1,0 +1,27 @@
+Hello Daniel 
+
+What can you do?
+
+Possibly nothing, i guess that's some sort of Windows Built-in Function that gives every "Thing" in the Windows a unique ID (GUID). IMHO these things are used by blackhat's for Behavioral "Sciences" EventTrigger to make people hate for exaple the "mail button", see classical conditioning.
+
+we already found out that the even set such GUID's through libraries like GTK3 oder QT5. The Blackhat's maybe thought it would be the easiest thing to just own (all) Frameworks, Inkscape has some similar problems [1], pam_usb died because of Udisks2 [2].
+
+so the eventtrigger that also kills the driver from my rode microphone when i start mixxx > 2.2.2, so it would be likely that this is some sort of customized. but since mixxx doent start up at all, also not with new config directory in %appdata% would imply that there is some problem, maybe they just set the task in process table in halted/zombi mode.
+
+If it's not in the operating system itself there would be some bug, off by one... If there iswe should do further research. so my windows 10 has still the problem, they uploaded it when i started windows today, yesterday same version still worked, new install also not helped.
+
+===================================================
+how to get the -d -v -v -v .v mode in windows?
+so i could maybe provide some more details
+===================================================
+
+Affects also 2.3 beta, 2.2.2 works.
+
+
+Could you set this but to public, since they could also use this attack against others it would maybe helpful for others, that then could also mitigate the problem with 2.2.2 without reinstalling everything on their streaming computer...
+
+[1] https://www.youtube.com/watch?v=OgJRkNAYTC0
+Martin Owens: nkscape Extension Manager Eaten by Upstream Snakes!
+
+[2] https://github.com/braindef/pam_usb
+me: mitigated for the moment but not fixed yet: braindef / pam_usb, (forked from aluzzardi/pam_usb)

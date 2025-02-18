@@ -1,0 +1,35 @@
+ALL CAPS VS. UPPER/lower CASE
+
+by Rolf Miller
+
+Correspondence is occasionally seen typed in all caps. In fact, several variously named fonts substitute
+smaller upper case letters in place of the normal lower case characters. When those who use all upper
+case letters are asked why the preference, the answer usually reflects the idea that it's easier to read. 
+
+Those who read for a living disagree with them. Publications that accept manuscripts for consideration
+have editors who read submissions. However, these publications have Writer's Guidelines detailing
+form. Material that does not follow those guidelines is rejected forthwith. One of the requirements
+invariably found in Writer's Guidelines is: use normal fonts, preferably Pica, though Elite is acceptable.
+Also undesirable is dot-matrix printing. Material submitted using script or other unorthodox fonts, and
+all upper case letters are rejected. The reason given is readability. A study of the evolution of writing
+finds that the development of lower case letters is rather recent. Upper case characters used to be the
+norm. And it's thought that readability is what prompted creation of the lower case alphabet. Simply, it
+is easier for the eye to recognize words using lower case characters. While letters are distinguished by
+their shape, a look at the upper case alphabet sees that all letters fill the same vertical space.
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+THUS, WORDS TYPED IN UPPER CASE POSSESS NO DISTINCTION AS VIEWED ON
+THE VERTICAL PLANE. CONSEQUENTLY, IN DECIPHERING WORDS TYPED IN CAPS,
+THE EYE IS LIMITED TO THE SHAPE OF THE INDIVIDUAL LETTERS.
+
+A look at the lower case alphabet sees that all characters do not occupy the same vertical space.
+
+abcdefghijklmnopqrstuvwxyz
+
+As a result, words typed in lower case not only possess distinctive characters, but the varying vertical
+dimensions often gives words a look all their own. Consequently, in addition to the shape of characters,
+the eye also learns to recognize the distinctive appearance of lower case words.
+
+(From Civic 64/128, August 1999, via the Commodore Information Center
+http://home.att.net/~rmestel/commodore.html)

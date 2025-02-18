@@ -1,0 +1,39 @@
+    ==============================
+-=[ Fri May 10 12:11:45 PM CEST 2024 ]=-
+    ==============================
+
+    ==============================
+-=[ Fri May 10 11:53:07 AM CEST 2024 ]=-
+    ==============================
+
+Disassembly der Zensur Malware, bzw. verhaltensanalyse der Zensur-Malware
+
+1. löscht wichtige Mails / backup von Mails
+ -> hat somit eine Liste was zensiert werden soll
+
+2. bezichtigt automatisch über etwas wie neuralink schon mal einen sündenbock
+ * es sei die festplatte aus aliexpress, das sei eine betrugsfestplatte die blockiert bei 251GB das schreiben, hätte aber 500GB
+    -> habe aber 2 davon gekauft, identische, macht nur diese
+ * es sei der ICY USB HUB der ein Schreibschutz gemacht habe
+    -> ausgeschlossen, macht es auch ohne USB HUB
+
+
+ -> also die Malware bezichtigt immer den 
+     * rangtiefsten (firma mit dem kleinsten Kapital)
+     * möglichst weit entfernt (zB. China)
+     * immer mehrere (verantwortungsdiffusion, impliziert auch vorsatz)
+
+also ist VERMUTLICH auf der North/South Bridge und/oder im Betriebssystem, allenfalls an hand der DatenTräger Seriennummer, deshalb hat der Polizist Michal Ritter der "nur kontrollieren wollte ob ich Schusswaffen im Bankschliessfach bei der UBS hätte" ein Foto von allen Seriennummern gemacht
+
+Es wäre dann nicht IntelCPU selber, sondern der Chip-Satz (meist auch von Intel)
+
+    ==============================
+-=[ Fri May 10 12:20:53 PM CEST 2024 ]=-
+    ==============================
+
+und das mit dem IntelME ist ja bekannt, aber scheinbar soll niemand wissen, dass die Zürich Verischrung da die Schlüssel für die Backdoors hat
+
+    ==============================
+-=[ Fri May 10 12:28:03 PM CEST 2024 ]=-
+    ==============================
+

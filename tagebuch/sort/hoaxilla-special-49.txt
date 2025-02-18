@@ -1,0 +1,60 @@
+sorry muss schon wieder nerven
+
+Frage:
+Ist es Zufall dass NLP sowohl …
+
+– N euro L inguistisches P rogrammieren
+– N atural L anguage P rocessing [1,2,3]
+
+… heisst oder *verschwörungstheoretiker mode on* hat man da geschaut dass das „zufällig“ gleich heisst um das InterNETz / Google zu spammen. *verschwörungstheoretiker mode off*
+
+Ersteres ist meiner Meinung Schwurbel, letzteres soll vermutlich geheim bleiben aber wenn das nicht Wissenschaft ist dann mindestens Mathematik …
+
+HackerEthics :: HandsOn:
+1. z.B. seit 20 Jahren Tagebücher elektronisch schreiben
+
+2. WorthäufigkeitsAnalyse machen [4], erkennt einfacher wenn ein Artikel manipulativ ist und und und und und und und kann man damit auch seinen Schreibstil damit verbessern
+
+3. wenn man den Rockzipfel von Ibn Josch berühren möchte, würde es dann vermutlich mit zB. GENSIM [5,6] weiter gehen zB. mit den eigenen Tagebüchern …
+
+[1] Überwachen und Sprache — How to do things with words
+https://media.ccc.de/v/30C3_-_5377_-_de_-_saal_6_-_201312271245_-_uberwachen_und_sprache_-_josch
+afaik Prof für Sprachwissenschaften trotz dem Hoody
+
+[2] Mein Bot, der Kombattant – Operative Kommunikation im digitalen Informationskrieg
+https://media.ccc.de/v/31c3_-_6184_-_de_-_saal_g_-_201412271715_-_mein_bot_der_kombattant_-_josch_-_arche3000
+
+[3] https://fahrplan.events.ccc.de/congress/2019/Fahrplan/speakers/4168.html
+
+[4] zB. https://wordcounter.net/ (gibt aber bessere)
+
+Beispiel: https://www.deutschlandfunkkultur.de/ahnungslos-im-lsd-rausch-die-menschenversuche-der-cia.976.de.html?dram:article_id=383734
+
+Keyword Density x3
+3 (1%)aus dem fenster
+2 (1%)film „einer flog
+2 (1%)flog über das
+2 (1%)über das kuckucksnest
+2 (1%)historiker bernd stöver
+2 (1%)die genannte folterforschung
+2 (1%)dem fenster gestürzt
+1 (0%)der film „einer
+1 (0%)„einer flog über
+1 (0%)das kuckucksnest mit
+
+=> zusammenfassend ohne den Artikel gelesen zu haben will mir
+
+1. der Artikel will mir “ one flew over the cuckoo’s nest“ andrehen
+2. referenziert den Fenstersturt (Netfilx Serie MKULTRA)
+3. der Jurnalist hat Quellen gesichtet *)
+*) Einspielung: „Meine Bildung hab ich aus dem Fernsehen“
+=> Lucilectric – Fernsehen 1996
+
+[5] https://radimrehurek.com/gensim/
+
+[6] richtig shitty-ges Script von mir
+https://github.com/braindef/deepLearning
+aber hat mindestens vor 3 Jahren mal halb funktioniert. z.B. wenn man irgend eine Diagnose Aufgedrückt bekommen hat hilft es definitiv seine Tagebücher auszuwerten [7]
+
+[7]
+https://github.com/braindef/deepLearning/blob/master/beispiele.txt

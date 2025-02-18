@@ -1,0 +1,22 @@
+
+
+https://arxiv.org/pdf/2009.05334.pdf gelesen bzw. einigermassen seriös überflogen, jetzt Fragen:
+
+z.B. Mux/Demux könnte ja auch grundsätzlich mit MicroCode / Firmware implementiert sein, bzw. generell haben CPU's ja auch Mocrocodes [1] was auch etwas wie eine Firmware ist, somit wäre meine Frage: "Dein Ziel ist es sämtliche Firmware zu reverse-engineeren und selber als Open Source zu schreiben"
+
+Falls das das Ziel ist, hattest Du schon fälle wo es Problem gibt, z.B. ist es ja schon einigermassen schwierig das DCF77 Protokoll mit dem richtigen Timing zu lesen, bei einer WLAN Firmware wäre das ja dann noch mühsamer?
+
+#FUNFACT: man kann einen WiFi Chip als SDR missbrauchen: http://nexmon.org/sdr: Use your Wi-Fi chip as Software-defined Radio
+
+Das mit den "Memory Management Units für L1 + L2 Cache habe ich nicht so genau gelesen, ich will ja (vorerst) nicht einen eigenen CPU bauen. :D. Danke für das Paper, das hat mir einen einblick in CPU's gewährt die als Netzwerk aufgebaut sind. Damit hat ja afaik die ZEN Engine von AMD angefangen afaik?
+
+Gibt's irgend eine RiscV Board/Computer/Laptop für Erschwinglich, weil was ich bisher gesehen hab ist nur so Arduino ähnliches, nichts aber womit man wirklich arbeiten könnte oder erwähnst Du das im Talk am 30.?
+
+[1] https://media.ccc.de/v/32c3-7352-towards_reasonably_trustworthy_x86_laptops
+=> bei diesem Talk ist der Output, dass ein Computer und all seine Bauteile "stateless" sein müssen, also dass zB Firmware möglichst zu vermeiden sei, weil da könnte dann der NSA sich ein Backdoor installieren
+ * das geht zB. bei Festplatten mit dem IRATEMONK was der Jake Applebaum im Rahmen der Snowden Leaks veröffentlich hat
+ * das geht zB. beim Bios (Badbios) auch in den Snowden leaks
+ * das geht mit einer Gamer Maus, die dann Keystrokes ausführt wie [WindowsKey - r] und dann die URL eines potentiellen Exploits mit Payload
+ * das geht an vielen anderen Orten in einem Computer
+ 
+

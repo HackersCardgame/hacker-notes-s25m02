@@ -1,0 +1,15 @@
+
+hypothese
+mensch komplett von der aussenwelt isolieren
+
+könnte man real bringen:
+etherfilter
+zugriff auf ubr oder bgr
+
+kellerzeile
+->es brauche nun keinen keller mehr dafür, es sei jeder computer
+prinzipiell könne man auch einen proxyfilter verwenden, den man bei entsprechenden computer 
+
+
+
+

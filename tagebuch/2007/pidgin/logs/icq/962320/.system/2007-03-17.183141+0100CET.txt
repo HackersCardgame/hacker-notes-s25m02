@@ -1,0 +1,23 @@
+System log for account 962320 (icq) connected at 17.03.2007 18::31::41
+---- +++ 962320 hat sich angemeldet @ 2007-03-17 18:31:41 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-03-17 18:31:42 ----
+---- shrike hat den Status von Offline zu Abwesend geändert @ 2007-03-17 18:31:42 ----
+---- shrike wurde untätig @ 2007-03-17 18:31:42 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-17 19:44:48 ----
+---- shrike wurde tätig @ 2007-03-17 19:44:48 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-17 19:54:19 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-17 20:04:19 ----
+---- +++ 962320 wurde untätig @ 2007-03-17 19:54:29 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-17 20:14:19 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-17 20:21:49 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-17 20:32:09 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-17 20:32:24 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-17 20:43:09 ----
+---- +++ 962320 wurde untätig @ 2007-03-17 20:41:51 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-17 20:53:09 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-17 20:53:18 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-03-17 21:01:22 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-03-18 00:59:24 ----

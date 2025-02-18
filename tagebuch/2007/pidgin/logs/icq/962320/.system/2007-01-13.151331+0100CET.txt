@@ -1,0 +1,26 @@
+System log for account 962320 (icq) connected at 13.01.2007 15::13::31
+---- +++ 962320 hat sich angemeldet @ 13.01.2007 15::13::31 ----
+---- Schööfli hat den Status von Offline zu Abwesend geändert @ 13.01.2007 15::13::32 ----
+---- Schööfli hat den Status von Abwesend zu Abwesend geändert @ 13.01.2007 15::13::32 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 13.01.2007 15::13::32 ----
+---- Dominik wurde untätig @ 13.01.2007 15::13::32 ----
+---- Dominik hat den Status von Abwesend zu Abwesend geändert @ 13.01.2007 15::13::32 ----
+---- Schööfli hat den Status von Abwesend zu Abwesend geändert @ 13.01.2007 15::56::44 ----
+---- Schööfli hat den Status von Abwesend zu Abwesend geändert @ 13.01.2007 15::59::12 ----
+---- Dominik hat den Status von Abwesend zu Abwesend geändert @ 13.01.2007 15::59::12 ----
+---- vortex hat den Status von Offline zu Verfügbar geändert @ 13.01.2007 16::31::22 ----
+---- vortex hat den Status von Verfügbar zu Verfügbar geändert @ 13.01.2007 16::31::29 ----
+---- vortex hat den Status von Verfügbar zu Verfügbar geändert @ 13.01.2007 16::31::30 ----
+---- vortex hat den Status von Verfügbar zu Verfügbar geändert @ 13.01.2007 16::31::33 ----
+---- vortex hat den Status von Verfügbar zu Verfügbar geändert @ 13.01.2007 16::31::39 ----
+---- Dominik hat den Status von Abwesend zu Abwesend geändert @ 13.01.2007 16::46::44 ----
+---- Schööfli hat den Status von Abwesend zu Abwesend geändert @ 13.01.2007 16::46::44 ----
+---- vortex hat den Status von Verfügbar zu Verfügbar geändert @ 13.01.2007 16::46::44 ----
+---- vortex hat den Status von Verfügbar zu Offline geändert @ 13.01.2007 16::49::41 ----
+---- +++ 962320 wurde untätig @ 13.01.2007 17::12::55 ----
+---- Dominik hat den Status von Abwesend zu Abwesend geändert @ 13.01.2007 17::34::16 ----
+---- Schööfli hat den Status von Abwesend zu Abwesend geändert @ 13.01.2007 17::34::16 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ 962320 wurde untätig @ 13.01.2007 18::01::51 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ 962320 hat sich abgemeldet @ 14.01.2007 07::02::26 ----

@@ -1,0 +1,15 @@
+Easy Connector Labels 
+
+by Cecil Serfent - Chesapeake Beach
+
+Like most computers, mine sits on a desk underneath an overhanging shelf, attached to a rat's nest of
+wires and cables.  It's hard to see the back panel at all, let alone well enough to plug in another wire. 
+So when I need to work with the plugs, it's very hard to locate them.
+
+I've solved the problem by labeling each connector on the TOP surface of my computer, way at the
+back, immediately above the connector itself.
+
+Now, when I need to locate the serial bus or some other connector, I know it's right below it's label. 
+Once I have it located so precisely, it's easy to replace it by feel alone.
+
+Via The Commodore Information Center web site (http://home.att.net/~rmestel/commodore.html)

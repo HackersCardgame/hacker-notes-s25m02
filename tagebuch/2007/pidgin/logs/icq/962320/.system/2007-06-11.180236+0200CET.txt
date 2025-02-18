@@ -1,0 +1,7 @@
+System log for account 962320 (icq) connected at 11.06.2007 18::02::36
+---- +++ 962320 hat sich angemeldet @ 2007-06-11 18:02:36 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-06-11 18:02:37 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-06-11 18:02:37 ----
+---- Schööfli hat den Status von Offline zu Abwesend geändert @ 2007-06-11 18:02:37 ----
+---- Schööfli wurde untätig @ 2007-06-11 18:02:37 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-06-11 18:02:37 ----

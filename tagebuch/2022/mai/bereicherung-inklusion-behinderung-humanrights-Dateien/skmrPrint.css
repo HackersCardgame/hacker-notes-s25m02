@@ -1,0 +1,65 @@
+* {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+line-height: 16px;
+}
+
+#header, 
+ul#subnav,
+#newsListeFlag,
+#newsArtikelFlag,
+#agendaListeFlag,
+#agendaArtikelFlag,
+#titelMigr img,
+#logo2 {
+display:none;
+}
+
+#sidebar {
+float:none;
+width:100%;
+/*margin:0;*/
+}
+
+
+#text h2 {
+font-size: 16px;
+}
+
+#text h3 {
+font-size: 14px;
+margin-top: 2em;
+margin-bottom: .5em;
+}
+
+#text p {
+font-size: 12px;
+}
+
+
+table#struktur {
+border: 1px solid #000;
+border-collapse: collapse;
+}
+
+table#struktur tr {
+vertical-align: top;
+width:30%;
+}
+
+table#struktur td {
+border: 1px solid #000;
+padding: .5em;
+}
+
+table#struktur a {
+padding: .5em;
+}
+
+table#struktur ul {
+margin-left: -1.5em;
+}
+
+table#personen  {
+margin-bottom: 3em;
+}

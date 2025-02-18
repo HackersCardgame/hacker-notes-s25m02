@@ -1,0 +1,46 @@
+Two State of the Art Terminal Programs for Commodore 
+
+NOVATERM
+
+Novaterm is usually considered the best communications software available for the Commodore 64.  It
+supports today's high-speed modems as well as older Commodore modems.  And of course it supports
+80-column emulations as well as traditional Commodore color/graphics.  Novaterm 9.6 supports a
+variety of memory expansion devices for capturing text.  In addition it supports all of the most common
+file transfer protocols, including Zmodem.  
+
+Novaterm is perfect for the Internet, for major on-line services, and for local Commodore and
+non-Commodore bulletin boards.  Novaterm provides for all of your telecommunication needs.
+
+Have questions, ideas, or comments about Novaterm?  The author, Nick Rossi, is available thru his
+Internet address.  Nick's e-mail address is shown below along with his regular mailing address.
+
+Now for the cost of the program, there's even good news here, at least for the Novaterm registered
+users among us.  If you are a registered user of an earlier Novaterm version you can get the upgrade for
+only $5.00.  If you are buying Nova for the first time it will be $29.95 and $1.50 shipping.
+
+Nick Rossi's Internet address:  voyager@eskimo.com
+
+For orders or comments thru regular mail:  Nick Rossi, 10002 Aurora Ave. N #3353, Seattle, WA
+98133.
+
+
+DESTERM
+
+Desterm 2.0 is a C128, 80-column, menu-driven terminal program capable of speeds up to 57.6K
+baud.  It is Commodore and Hayes-compatible, and supports ASCII, VT-52, VT-102, ANSI, and
+Commodore Color Graphics. Desterm allows comprehensive configuration over its environment.  It
+comes with over 60 pages of documentation, ready to be printed out.
+
+If you use and like Desterm V2.00, please send the shareware fee of $25 (US or Canadien) to:
+ Matthew Desmond 265 Beechlawn Drive, Waterloo, Ontario N2L 5W8 Canada
+
+This name and address is different from those published in the various versions of Desterm so far.
+Matthew can no longer cash checks made out to Desmond Software Industries.
+
+Desterm 2.0 can be downloaded from various sites.  Some of the more common are Genie (files
+8198-8201), Delphi, and from the author's website at: www.ionline.net/~mdesmond/Desterm.html
+
+A demo version of the enhanced Desterm 2.01 is also available on the Delphi network. 
+
+
+Via The Commodore Information Center web site (http://home.att.net/~rmestel/commodore.html)

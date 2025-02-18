@@ -1,0 +1,14 @@
+MONITORS ADJUSTING BARS
+
+by John Lindeman
+
+Monitors rarely need replacement but occasionally you may want to adjust
+the color. Here is a color bar program to help you do it.
+
+     10 FOR X=l to ll: READA
+     20 FOR Y=1 to 80
+     30 PRINT CHR$(A); "(RVS-ON) (SPACE)";:
+     40 NEXT: NEXT: END
+     50 DATA 5,28,30,31,144,156,158,159,150,149,153
+
+(From Commodore User Group of Springfield, MO, via Bug Bytes, Boise ID, 8/97)

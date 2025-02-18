@@ -1,0 +1,84 @@
+Jordan's Journal: Boy-Testing
+
+by Mark Jordan
+
+(copyright 1991 by Mark Jordan, reprinted by permission from Loadstar 72)
+
+This month whilst toolin' around on my C-128, I got to thinking about one of the darker sides of
+computing: hardware failure. Ever bought a computer component that was broken before you removed
+it from the box? Ever bought a computer that had an impossible-to-reach joystick port, on/off switch,
+or reset button? (My 128-D comes quickly to mind.)
+
+It's enough to make a person yearn for simpler times when products were lo-tech and worked. You
+know, hand-cranked satellite dishes and stuff like that.
+
+I've got a simple, direct, and cost-effective solution to the problem. It borrows from the software
+industry's concept of beta-testing. As you're probably aware, before a software company ships a
+product, they send out copies of it to a bunch of grizzled, cynical computer hackers to whom finding an
+obscure software bug is a religious experience.
+
+Now why couldn't hardware manufacturers do the same type of thing? Instead of having in-house
+product testing, they could ship out pre-release models to the toughest, most unkind beta-testers of all.
+And who would these meanies be? Boys. Good old American pain-in-the-behind boys. If you have a
+boy, or were once a boy, or even just know a boy, you should have some idea how effective this
+system would be.
+
+Boys, as we all know, live by the principle, If it ain't broke, break it. Give a boy a walkie-talkie and
+after two minutes of -- "Where are you at? What? Where are you now? What? Quit pushing the button
+while I'm talking. What?" -- you'll see him exhibit traits of his true calling: Surgery. Object surgery. The
+true joy of owning a walkie-talkie kicks in when the screws that hold it together are taken out.
+
+Of course, a boy enjoys the tear-down operation more than the put-back-together operation. Does a
+boy save the screws? What for? Does a boy memorize how it came apart? No need to, he's a boy, isn't
+he?
+
+All of which is a pain royale in normal life but would work wonders in the computer testing realm. A
+boy would be the ideal tester of computer equipment because a boy would treat it without one shred of
+respect. You may ask me, Would a boy test the firmware? the system software? the bla, bla, bla-ware?
+Of course not. Any ninny can do that. A boy would test in ways that engineers and company
+employees would never think (let alone dare) to try.
+
+Want some examples? A 20-year veteran of the engineering department would never think to test the
+durability of the disk drive door latch by biting it off. A 54-year-old woman in the quality control
+department would never test a mouse by dangling into the toilet bowl and flushing. A production
+manager might think to test out a keyboard by striking the keys forcefully but would he ever dream of
+pressing them with a plastic straw stuck up his nose? Never. A boy would not only do so, but he would
+do so while trying to sniff-hold a strawful of Kool-Aid throughout the process. Admit it, boy-testing
+beats in-house testing hands down.
+
+Unfortunately, it isn't only computer manufacturers that don't test their products in this logical way.
+Recently I heard about a house-paint manufacturer who wanted to prove their paint was great for
+re-painting old house siding. They tested their product by sending the engineers out to paint a simulated
+house in the factory. They melted off all the old paint down to bare wood, re-primed the wood using
+real paint primer, waited the recommended amount of time, and finally re-painted. Is this a legitimate
+test? Give me a break.
+
+Here's the way a real American repaints his house: he starts scraping on a Saturday morning at 10 AM
+under the eaves.
+
+Wasps!
+
+He runs inside to get some wasp spray, climbs back up the ladder and fires away at the wasps. The
+ensuing scene has great potential for "America's Funniest Home Videos" but that's not the point. The
+point is that it's several Saturdays later before Mr. America is ready to hit the ladder again.
+
+Once there, he follows the manufacturer's edict: "Scrape off ALL loose paint" for a good 11 minutes or
+so. Bored, paint-flecked, and angry he declares, "What do they know, anyway?" To heck with primer,
+to heck with the light rain that's starting to fall, to heck with covering bushes below, it's time to, as he
+puts it, "Just start painting."  Well, there's no sense carrying this little side-track any further than to say
+that the paint eventually gets put on the house over the flaked old paint, over dirt, over unprimed bare
+spots, over wasps, over anything that gets in the American's way. And for two years it looks pretty
+good. My point is this: if you're going to test paint in the lab, you better test it like it's going to be used.
+Get a boy, or in this case, an American male, to test it, not an army of employees wearing white
+coveralls.
+
+After the boy has extracted all joy out of the device, his mother would collect the remains of the
+equipment and send it back to the company for examination with no explanatory note. If what was in
+the box could simply be identified, the manufacturer would know he had a product with potential. If it
+actually still worked (that is, listed directories and so forth), it would be deemed ready for market.
+
+All that would be left is to place a Boy-Tested Seal of Approval on the console. And what would that
+sticker look like? Well, what I have in mind is the image a boy standing over a computer with a
+sledgehammer raised high and the words, "He Couldn't Bust It and Neither Can You."
+
+Via The Commodore Information Center web site (http://home.att.net/~rmestel/commodore.html) 

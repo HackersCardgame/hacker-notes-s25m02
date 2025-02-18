@@ -1,0 +1,6 @@
+System log for account 962320 (icq) connected at 20.01.2007 23::12::18
+---- +++ 962320 hat sich angemeldet @ 20.01.2007 23::12::18 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 20.01.2007 23::12::19 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 20.01.2007 23::12::19 ----
+---- Dominik wurde untätig @ 20.01.2007 23::12::19 ----
+---- +++ 962320 hat sich abgemeldet @ 20.01.2007 23::19::29 ----

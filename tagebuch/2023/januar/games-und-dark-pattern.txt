@@ -1,0 +1,23 @@
+Hallo @DOMINIK und @Kathi
+
+Es ist wieder mal Zeit für so ein Thema
+
+Es gibt ComputerSpiele für 6 Jährige welche absichtlich mit grossem "Suchtpotential" entwickelt werden.
+
+https://www.zdf.de/dokumentation/zdfzoom/zdfzoom-computerspiele-sucht-games-spielsucht-100.html
+
+=> schaut diese Doku unbedingt
+
+Killerspiele Diskussion, also Gewaltdarstellung und daraus resultierende allfällige Amokläufe ist eigentlich komplett an der Diskussion vorbei, da gibt es schon Einzelfälle, aber das eigentliche Problem von Computer-Spielen ist Verhaltenssucht. Da werden mittlerweile auch 20 Jährige in die Psychiatrie Königsfelden eingeliefert weil sie Computer-Spielesüchtig sind. Habe da einen 20 Jährigen kennen gelernt der betroffen war. Hab den jetzt ein paar mal zu mir eingeladen und versuche ihm als "Ersatzdroge" Elektronik (Arduino) näher zu bringen. Von Sucht betroffen sind schon vor allem Jungs, aber nicht ausschliesslich und das zu wissen ist sicher nicht verkehrt.
+
+Der selbe Fall ist hier nochmals in Prosa beschrieben:
+https://www.express.de/koeln/koeln-spielsuechtig-mit-11-jahren-mutter-befreite-sohn-aus-ueblem-sog-26262?cb=1674695726825
+
+Das Game "Brawl Stars" das ab 6 Jahren freigegeben ist, das sieht sehr Kinder gerecht und knuddelig aus, hat aber Dark-Patterns [1] drin. Mit Dark Patterns ist einfach gesagt so programmiert, dass es süchtig macht und da kann sich ein Kind noch überhaupt nicht wehren dagegen. In der Psychologie würde man von "Verhaltens-Suchte" reden. Also stellt da auch gard immer die Altersfreigabe in Frage. Das Spiel gibt es leider sowohl im App-Store von Apple als auch im Playstore von Google. Und sobald Kinder dann ein Handy haben würden dann in der Schule sowieso auch unter den Schülern solches empfohlen werden.
+
+Wie bei der Computerspiele-Amokläufer-Diskussion wäre es da aber auch falsch einfach die ganze Technologie zu verteufeln. Da wäre es wichtig dem Kind grad zu zeigen wenn ein Spiel versucht eine Verhaltenssucht zu installieren dem Kind aufzuzeigen wie das jetzt technisch-psychologisch funktioniert, so dass das Kind wenger manipuliert werden kann. Und wie Werbung funktioniert das schon, da will nur niemand zugeben dass er durch Werbung beeinflusst wird. Frag mal einen 20 Jährigen was er für ein Deo oder für einen Nassrasierer kauft.
+
+[1] Dark Pattern in Spielen: https://de.wikipedia.org/wiki/Dark_Pattern
+
+
+

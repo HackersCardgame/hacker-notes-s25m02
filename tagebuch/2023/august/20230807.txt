@@ -1,0 +1,38 @@
+Mon Aug  7 05:41:22 CEST 2023
+
+Mon Aug  7 22:03:12 CEST 2023
+
+Halli Hallo Hi Ivo
+
+mich würde Deine Meinung zu den kommenden BCI's (Brain Computer Interface).
+
+Gemäss dem was ich finden konnte gibt es das schon seit 1950. Hiess damals Stimociver von Dr. José Manuel Rodríguez Delgado der Yale University.
+
+Diese Dinger vor 70 Jahren waren analog, also aus heutiger Perspektive ein Security Nightmare, die haben nicht mal schlechte Crypto sondern gar keine Crypto. Dennoch könnte man mit heutiger Technologie selbst aus so einem viel mehr heraus holen als man damals konnte. Das hatte eine lesende und eine schreibende Elektrode.
+
+Habe man nur an Tieren ausprobiert -- was ich für ein Gerücht halte. Grundsätzlich hätten diese Dinge militärischen Ursprung und Ziel ist es seit damals den Soldaten nicht zum schwächsten Element werden zu lassen.
+
+Recherchiert man zu diesen Dingen dann wird sehr viel Cyber-Terror sowohl auf dem Computer, dem Handy aber auch auf der Raumüberwachung und einem mutmasslichen BCI eingeschaltet.
+
+Die Karte ne04 zeigt das CT von mir von 2021. Der Psychiater hat gesagt, dass das seine Verkalkung sei, was dann aber nicht die Verdickung am Hinterkopf erklärte. Googlet man solches findet man raus, dass verkalkungen eher wie ein gewachsener Strauch aussehen müsste und dass praktisch keines der CT Fotos die man auf google findet so eine Verdickung hat.
+
+Ich hab die beiden Bücher book00 und book01 gelesen als laie. Der Rethorische Automatismus in der Bevölkerung ist ja "Man weiss bis heute nicht wie das Gehirn funktioniert" -- und das weiss man auch nicht, das ist die Sache mit dem "Ding an sich" was Susi mal dem Georg erklärt hat von Immanual Kant.
+
+Wie man es aber adaptiert weiss man seit mindestens 1969 (book00), das Buch erachte ich ausserdem als geeignet für irgend 1. oder 3. Semester Medic Studenten. Bei uns bei den Informatikern ist "Vintage Computing" total im Trend. Bei alten Computern ist vieles noch viel einfacher, also versteht man das an den früheren Modellen viel besser und kann dann dieses Wissen auf moderne Computer übertragen. Das selbe Konzept kann man meiner Meinung nach in den meisten Fachgebieten verwenden. Bzw. ist es ja auch Medizin-Geschichte.
+
+Die URL des Buches dass Du das nicht von der Karte abtippen musst:
+https://ia800902.us.archive.org/18/items/PhysicalControlOfTheMindJosM.R.Delgado1969/Physical%20Control%20of%20the%20Mind%2C%20Jos%C3%A9%20M.%20R.%20Delgado%20%281969%29.pdf
+
+Da würde mich Deine Meinung zu sochen Dingen wie BCI interessieren. Kommende gefahren -- bzw. erachte ich das Neuralink von Elon Musk nicht als problematisch, denn das hat keine Leitung zur Amygdala, somit kann zwar Inahlt übertragen werden, aber nicht einen Menschen in den "Beiss-Modus" geschaltet werden (Fight or Flight)
+
+Generell wird es aber sowieso probleme geben mit Dingen wie verantwortung, wer ist schuld wenn etwas passeirt
+A) der Neurologe ders verpasst hat
+B) der Neuralink-Glasfaser-Netzwerk betreiber des VBS
+C) ein Hacker der das BCI erfolgreich gehackt hat (da gibts auf Pubmed arbeiten zum Thema "Brainjacking")
+D) nicht abschliessend
+
+Gruss
+Marc jr.
+
+
+

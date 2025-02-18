@@ -1,0 +1,10 @@
+Conversation with 50590990 at 06.04.2007 11::22::38 on 962320 (icq)
+(11:23:14) landev: Wenn ich über meinen Proxy gehe (und dieser Proxy filtert diverse Dinge raus) geht es nicht. Wenn ich den Proxy ausschalte geht es. 
+
+Jenach dem welchen Browser ich verwende geht es oder es geht nicht. Das könnte auch erklären, warum der Vista IE nicht geht.  Kann es sein, dass vor dem Server eine etwas 'komische' Firewall steht, die die Pakte zu genau anschaut?
+
+Ein Problem mit den Routern bis zum Router der vision-it in Aarau kann ich ausschliessen, denn diese habe ich persönlich konfiguriert.
+
+Schöne Ostern
+ Ueli Heuer
+(11:23:17) Dominik <AUTO-REPLY>: I am currently away from the computer.

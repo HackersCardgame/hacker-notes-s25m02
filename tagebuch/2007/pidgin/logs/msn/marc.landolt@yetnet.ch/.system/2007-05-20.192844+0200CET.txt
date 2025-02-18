@@ -1,0 +1,20 @@
+System log for account marc.landolt@yetnet.ch (msn) connected at 20.05.2007 19::28::44
+---- +++ marc.landolt@yetnet.ch hat sich angemeldet @ 2007-05-20 19:28:44 ----
+---- Michi - 鲁光 hat den Status von Offline zu Abwesend geändert @ 2007-05-20 19:28:45 ----
+---- Michi - 鲁光 hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-20 21:19:15 ----
+---- Michi - 鲁光 wurde untätig @ 2007-05-20 21:19:15 ----
+---- Michi - 鲁光 wurde tätig @ 2007-05-20 21:19:16 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-05-20 21:10:55 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- Michi - 鲁光 hat den Status von Verfügbar zu Offline geändert @ 2007-05-20 21:48:17 ----
+---- Michi - 鲁光 hat den Status von Offline zu Verfügbar geändert @ 2007-05-20 21:49:09 ----
+---- Michi - 鲁光 hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-20 21:54:10 ----
+---- Michi - 鲁光 hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-20 22:06:00 ----
+---- Michi - 鲁光 wurde untätig @ 2007-05-20 22:06:01 ----
+---- Michi - 鲁光 wurde tätig @ 2007-05-20 22:06:01 ----
+---- Michi - 鲁光 hat den Status von Verfügbar zu Offline geändert @ 2007-05-20 22:55:28 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-05-20 23:04:50 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-05-20 23:20:09 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch hat sich abgemeldet @ 2007-05-21 17:35:51 ----

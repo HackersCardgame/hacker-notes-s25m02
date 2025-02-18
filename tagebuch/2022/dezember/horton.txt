@@ -1,0 +1,94 @@
+I'm from Switzerland. As far is i heard they put her into "Psychiatrie (Psych ward) Königsfelden" in the Canton Aargau. 
+
+Maybe not silenced but drugged with "Anti Psychotics", Normally this sort of legal drugs reduces the Dopamine levels in the brain. If your Dopamine is reduced the brain "works slower". "Anti Psychotics" often reduces intelligence. Makes you think way less complex. On one hand this helps somehow not becoming to paranoid but reduces your ability to recognize patterns in data.
+
+Brain does pattern matching, some sort of generic function approximation. Since this is reddit generation i try to explain that with a sample code, eg. with the Jaro-Winkler [1] Algorithm. There you can input two words and the algorithm calculates the String-Similarity. For example if you input "Autistic" and "Altruistic" it calculates a similarity of 90%. Brain does such things not just for letters and words but also for images or content (Named Entities). If you use 60% as the limit for equal data objects "Autistic" and "Altruistic" would have a common denominator.
+
+Since your brain stores objects not in lexical order like the example above lets take. "Tomato" and "Orange", that are somehow similar (brain does fast thinking [2] except you studied vegetables-sciences, then maybe not). After such an intuitive decision one needs to verify if this is technically true (thinking slow [2]). It is likely that "Tomato" and "Orange" is somehow similar, you normally can buy both in grocery.
+
+But if your Brain says "Tomato" and "Dog" is somehow similar then you maybe should really visit your shrink.
+
+the lower this limit is the more hypothesis one has to verify, that normally leads to a burnout. So if the drugged her she would be less stressed but maybe would also become fat because this legal drugs makes you eat and consume more.
+
+i was in Königsfelden 15 times, so if she ended up in Königsfelden they would annoy her, destroy her worldview, but she would not hurt her physically. Though i don't really like this institution. Shrinks in Mental Institutions are often that students that were to stupid to study something relevant. So many bad students end up as Shrinks. My former girlfriend that is a medical doctor joked also to me "that doctors that are incapable or useless in a real hospital end up as shrinks", i think that's often very true.
+
+Like "Agent K" in the movie "Man in Black" they erased her brain, but not with a flash but with legal drugs. In "Man in Black II" they restore the memory of Agent K back. As soon as she would be back she will ask the same questions that remained unanswered before. I think she got not everything right, but she got many things right. So when/IF she is back help her to answer the remaining questions.
+
+One Example: She says 20% work and are payed by the NW*, i think that is technically wrong, society and schools train our children like a dog than than to educate them. Somehow this is good for the Structural functionalism (Talcott Parsons), makes the world, the economy, and many things more efficient by reducing the complexity, utilitarianism. For people with low income this is not that cool, also not for that people are very spiritual or people that would reach completeness. But if Structural functionalism does not work no one is going to restock the shelves at Walmart. World su** for that part, but i though enjoying it that i can buy my tomatoes almost 7/24h no matter if summer or winter.  
+
+[1] https://asecuritysite.com/forensics/simstring
+
+[2] https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
+
+
+I come from Switzerland. From what I heard, she was admitted to the "Psychiatrie Königsfelden" (psych ward) in the canton of Aargau.
+
+Perhaps not silenced, but drugged with "antipsychotics." Usually, these types of legal drugs lower dopamine levels in the brain. When your dopamine is reduced, the brain “works” more slowly. "Antipsychotics" often reduce intelligence. Makes you think a lot less complex. On the one hand, "antipsychotics" help that one not get too paranoid, but reduces your ability to spot patterns in data.
+
+The brain performs pattern matching, a sort of generic functional approximation. Since this is a Reddit, I'll try to explain it with example code, e.g. with the Jaro-Winkler [1] algorithm. There you can enter two words and the algorithm will calculate the string similarity. For example, if you enter "autistic" and "altruistic", a similarity of 90% is calculated. Brain does such things not only for letters and words, but also for images or content (named entities). If you use 80% as the cutoff for equal data items, Autistic and Altruistic would have a common denominator.
+
+Because your brain doesn't store objects in lexical order, like in the example above lets take a different example: "Tomato" and "orange" are kind of similar (fast thinking [2]), unless you studied vegetable-sciences, then maybe not. After such an intuitive decision, it must be checked whether this is technically correct (thinking slow [2]). It's likely that "tomato" and "orange" are somehow similar, you can usually buy both at the grocery store.
+
+But if your brain is telling you that "tomato" and "dog" are somehow similar, then maybe you really should see your shrink.
+
+The lower this fictional limit for similarity is (depends on the level of dopamine in your brain), the more hypotheses have to be tested, if the limit is very low it will give you a headache and lead to burnout. So if they drugged her, she would be less stressed, but she might also gain weight because these legal drugs make you eat and consume more.
+
+I've been to Koenigsfelden 15 times, so if she ended up in Koenigsfelden, they would hurt her physically, but they will destroy her worldview, her maximes, her altruism, but she would not hurt her physically. Although I don't really like "Psychiatrie Königsfelden". Shrinks in mental hospitals are often that students who were too stupid to study anything relevant. So many bad students end up as shrinks. My ex girlfriend who is a doctor also joked to me once that "doctors who are incompetent or useless in a real hospital end up as psychiatrists", I think this is very true.
+
+Like "Agent K" in the movie "Man in Black" they erased her brain, but not with a flash, but with legal drugs. In "Man in Black II", they restore Agent K's memory. Once back, she will ask the same questions that previously went unanswered. I don't think she got everything right, but she got a lot of things right. So when/IF she's back, help her answer the remaining questions.
+
+An example of her mistakes:
+She says 20% work and get paid by the NW*, I think that's technically incorrect, the society and the schools train our children like a dog instead of raising and educating them. Somehow this is good for structural functionalism (Talcott Parsons), makes the world, the economy more efficient by reducing complexity, utilitarianism. It's not so cool for people on low incomes, nor for people who are very spiritual, or people who would like to achieve completeness. But if structural functionalism doesn't work, nobody's going to restock the shelves at Walmart. It's a shame for the world, but though I enjoy the fact that I can buy my tomatoes almost 7/24h, whether it's summer or winter.
+
+[1] https://asecuritysite.com/forensics/simstring
+
+[2] https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
+
+
+I come from Switzerland. From what I heard, she was put into the "Psychiatrie Königsfelden" (psych ward) in the canton of Aargau.
+
+Perhaps not silenced, but drugged with "antipsychotics." Usually, these types of legal drugs lower dopamine levels in the brain. When your dopamine is reduced, the brain “works” more slowly. "Antipsychotics" often reduce intelligence. Makes you think a lot less complex. On the one hand, "antipsychotics" help that one not get too paranoid, but reduces your ability to spot patterns in data.
+
+The brain performs pattern matching, the brain is sort of generic functional approximation. Since this is Reddit, I'll try to explain it with example code, e.g. with the Jaro-Winkler [1] algorithm. There you can enter two words and the algorithm will calculate the string similarity. For example, if you enter "autistic" and "altruistic", a similarity of 90% is calculated. Brain does such things not only for letters and words, but also for images or content (named entities, NLP). If you use 80% as the cutoff for equal data items, Autistic and Altruistic would have a common denominator.
+
+Because your brain doesn't store objects in lexical order, like in the example above lets take a different example: "Tomato" and "orange" are kind of similar (fast thinking [2]), fast thinking unless you studied vegetable-sciences, then maybe not. After such an intuitive decision, it must be checked whether this is technically correct (thinking slow [2]). It's likely that "tomato" and "orange" are somehow similar, you can usually buy both at the grocery store.
+
+But if your brain is telling you that "tomato" and "dog" are somehow similar, then maybe you really should see your shrink.
+
+The lower this fictional limit for similarity is (depends on the level of dopamine in your brain), the more hypotheses have to be tested, if the limit is very low it will give you a headache and lead to burnout. So if they drugged her, she would be less stressed, but she might also get fat because these legal drugs make you eat and consume more.
+
+I've been to Koenigsfelden 15 times, so if she ended up in Koenigsfelden, they would hurt her physically, but they will destroy her worldview, her maxims, her altruism, but she would not hurt her physically. Although I don't really like "Psychiatrie Königsfelden". Shrinks in mental hospitals are often that students who were too stupid to study anything relevant. So many bad students end up as shrinks. My ex girlfriend who is a doctor also joked to me once that "doctors who are incompetent or useless in a real hospital end up as psychiatrists", I think this is very true.
+
+Like "Agent K" in the movie "Man in Black" they erased her brain, but not with a flash, but with legal drugs. In "Man in Black II", they restore Agent K's memory. Once back, she will ask the same questions that previously went unanswered. I don't think she got everything right, but she got a lot of things right. So when/IF she's back, help her answer the remaining questions.
+
+An example of her mistakes:
+She says 20% work and get paid by the NW*, I think that's technically incorrect, the society and the schools train our children like a dog instead of raising and educating them. They are not bad, it's just  You got to do what you got to do. Somehow this is good for structural functionalism (Talcott Parsons), makes the world, the economy more efficient by reducing complexity, utilitarianism. It's not so cool for people on low incomes, nor for people who are very spiritual, or people who would like to achieve completeness. But if structural functionalism doesn't work, nobody's going to restock the shelves at Walmart. It's somehow a shame for the world, but though I enjoy the fact that I can buy my tomatoes almost 7/24h, whether it's summer or winter.
+
+[1] https://asecuritysite.com/forensics/simstring
+
+[2] https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow
+
+
+
+I come from Switzerland. From what I heard, she was put into the "Psychiatrie Königsfelden" (psych ward) in the canton of Aargau.
+
+Perhaps not silenced, but drugged with "antipsychotics." Usually, these types of legal drugs lower dopamine levels in the brain. When your dopamine is reduced, the brain “works” more slowly. "Antipsychotics" often reduce intelligence. Makes you think a lot less complex. On the one hand, "antipsychotics" help that one not get too paranoid, but reduces your ability to spot patterns in data.
+
+The brain performs pattern matching, the brain is sort of generic functional approximation. Since this is Reddit, I'll try to explain it with example code, e.g. with the Jaro-Winkler [1] algorithm. There you can enter two words and the algorithm will calculate the string similarity. For example, if you enter "autistic" and "altruistic", a similarity of 90% is calculated. Brain does such things not only for letters and words, but also for images or content (named entities, NLP). If you use 80% as the cutoff for equal data items, Autistic and Altruistic would have a common denominator.
+
+Because your brain doesn't store objects in lexical order, like in the example above lets take a different example: "Tomato" and "orange" are kind of similar (fast thinking [2]), fast thinking unless you studied vegetable-sciences, then maybe not. After such an intuitive decision, it must be checked whether this is technically correct (thinking slow [2]). It's likely that "tomato" and "orange" are somehow similar, you can usually buy both at the grocery store.
+
+But if your brain is telling you that "tomato" and "dog" are somehow similar, then maybe you really should see your shrink.
+
+The lower this fictional limit for similarity is (depends on the level of dopamine in your brain), the more hypotheses have to be tested, if the limit is very low it will give you a headache and lead to burnout. So if they drugged her, she would be less stressed, but she might also get fat because these legal drugs make you eat and consume more.
+
+I've been to Koenigsfelden 15 times, so if she ended up in Koenigsfelden, they would hurt her physically, but they will destroy her worldview, her maxims, her altruism, but she would not hurt her physically. Although I don't really like "Psychiatrie Königsfelden". Shrinks in mental hospitals are often that students who were too stupid to study anything relevant. So many bad students end up as shrinks. My ex girlfriend who is a medical doctor also joked to me once that "doctors who are incompetent or useless in a real hospital end up as psychiatrists", I think this is very true.
+
+Like "Agent K" in the movie "Man in Black" they erased her brain, but not with a flash, but with legal drugs. In "Man in Black II", they restore Agent K's memory. Once back, she will ask the same questions that previously went unanswered. I don't think she got everything right, but she got a lot of things right. So when/IF she's back, help her answer the remaining questions.
+
+An example of her mistakes:
+She says 20% work and get paid by the NW*, I think that's technically incorrect, the society and the schools train our children like a dog instead of raising and educating them. They are not bad, it's just  You got to do what you got to do. Somehow this is good for structural functionalism (Talcott Parsons), makes the world, the economy more efficient by reducing complexity, utilitarianism. It's not so cool for people on low incomes, nor for people who are very spiritual, or people who would like to achieve completeness. But if structural functionalism doesn't work, nobody's going to restock the shelves at Walmart. It's somehow a shame for the world, but though I enjoy the fact that I can buy my tomatoes almost 7/24h, whether it's summer or winter.
+
+[1] https://asecuritysite.com/forensics/simstring
+
+[2] https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow

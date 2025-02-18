@@ -1,0 +1,13 @@
+Lightning Detectors 
+by Frank Coaricci, Winter Park, FL
+
+Remember this tip during thunderstorm season:  A radio tuned to a clear channel at the low end of the
+AM band makes an excellent lightning detector.  You can usually hear the characteristic lightning
+crackle on the radio long before you hear the thunder or see the approaching darkness.
+
+When you hear the static, it's a good time to save the program, shut down and unplug.  It's not very
+likely that lightning will damage anything, but you're better safe than sorry.
+
+Don't forget the modem - it's a good idea to unplug it from the telephone line.
+
+(Via the Commodore Information Center, http://home.att.net/~rmestel/commodore.html)

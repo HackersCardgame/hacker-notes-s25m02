@@ -1,0 +1,178 @@
+Conversation with 50590990 at 21.05.2007 19::11::04 on 962320 (icq)
+(19:11:13) landev: so wie geits wie steits?
+(19:11:24) Dominik: guet guet und dir ?
+(19:11:28) landev: mäntig...
+(19:11:30) landev: argh
+(19:11:33) Dominik: :-)
+(19:11:52) Dominik: wie bring ich es gäschtebuech uf mim iis zum laufe ?
+(19:11:53) landev: ned emol de 6er i de mathi het mi chönne uufheitere...
+(19:12:00) landev: het er asp?
+(19:12:07) Dominik: weis nid
+(19:12:10) landev: moment
+(19:12:36) Dominik: http://www.geocel.com/aspguestbook/
+(19:13:13) landev: mach es asp file uf dim server und teschts uus
+(19:13:15) landev: , den , 
+------------------------------------
+
+
+// ---------------------- -->
+Dim First, Space
+Const Last = "Landolt"
+First = "Marc Jr."
+Space = " "
+//Last = "Landolt" muss Fehlermeldung bringen.
+Response.Write(First+" "+Last)
+// ---------------------- %>
+Rombachtäli 13
+5022 Rombach
+079 291 07 87
+
+{www.yetnet.ch/marc.landolt}
+
+------------------------------------
+>Station02
+
+------------------------------------
+#04:00:00# Then %> Guten Morgen  = #12:00:00# And _ Time  Guten Tag   #18:00:00# Then %> Guten Abend  
+If // sIPAddress="" Then sIPAddress = Request.ServerVariables("REMOTE_ADDR") // // One other thing worth bearing in mind. If the user also accesses the // internet via a Proxy server, then HTTP_X_FORWARDED_FOR will contain the Proxy's // IP address. If this is the case, there is no way to get the users 'real' IP // address. Dim sIPAddress, User, Servername sIPAddress = Request.ServerVariables("HTTP_X_FORWARDED_FOR") If sIPAddress="" Then sIPAddress = Request.ServerVariables("REMOTE_ADDR") // User = Request.ServerVariables("LOGON_USER") ServerName = Request.ServerVariables("SERVER_NAME") %>  sehr geehrter Benutzer von der IP  auf dem Server  
+
+------------------------------------
+Zufallszahl : 
+Zufallszahl Gerundet : 
+Das Signum davon:   
+------------------------------------
+
+(19:13:16) Kann die Nachricht nicht senden: Abgelehnt vom Client
+(19:13:31) Dominik: hmm chunt error wenn ich das ufelade
+(19:13:41) Dominik: liit wohl a de berächtigung
+(19:13:44) landev: hmm... vileich söttis besser als file schicker, das zeigt eifach d uhrziit a
+(19:14:00) landev: was för en mäldig?
+(19:14:10) Dominik: www.away.ch/gb
+(19:15:13) landev: gseh kei fehlermäldig, aber funktioniere tuets gliich irgendwie ned...
+(19:15:27) Dominik: mol wenn öppis iigisch
+(19:15:32) Dominik: und sende tuesch
+(19:15:38) landev: hani gmacht..
+(19:15:41) landev: chont nüt...
+(19:15:57) Dominik: hmm bi merASP GuestBook Lite v1.0 - Error!  
+
+Please fill out all required fields! (Marked by '*') 
+
+Go back 
+(19:15:58) landev: bliibt eifach hange..
+(19:16:05) Dominik: hmm
+(19:16:51) landev: moment iprobiers mol mit em firefox...
+(19:17:10) Dominik: hmm
+(19:18:01) landev: moment mues ne no rasch installiere...
+(19:19:20) Dominik: ich mues eifach es gäschtebuech ha wo uf mim iis funktioniert
+(19:20:07) landev: also so wiit ich weiss, isch asp amigs standardmässig debii..., aber velech falschi version... im firefox chont uf jedefall au nüt...
+(19:20:24) landev: probiersch du lokal oder au vo dim pc uus?
+(19:20:50) Dominik: vo mim pc uus
+(19:21:04) Dominik: was heisst chunt nüüt ? gar nüüt ?
+(19:21:11) landev: er ladt eifach endlos...
+(19:21:20) landev: warten auf www.away.ch...
+(19:21:23) Dominik: hesch vista ? :-)
+(19:21:29) landev: nei w2k...
+(19:21:33) Dominik: :-)
+(19:21:41) landev: und s goht mit ff und ie ned...
+(19:21:49) landev: moment i probiers no mit linux...
+(19:21:53) Dominik: komisch 
+(19:22:03) Dominik: bi mer chunt eifach en fählermäldig
+(19:22:22) landev: moment versuech gliich mol miis file...
+(19:23:09) landev: chasch abelade vo: http://ml.buzzernet.com/Time.Asp
+(19:25:04) Dominik: http://www.away.ch/gb/time.asp
+(19:25:38) landev: also jetzt wüsse mer das dis asp funktioniert, also liits a de berächtigunge oder das teil isch schrott...
+(19:26:07) Dominik: hmm er wott jo nöime speichere, i ha s gfühl das isch s problem
+(19:26:14) landev: das mues jo es file schriibe, also mues de dienscht wo iis / asp druff lauft uf das file chönne zuegriife...
+(19:26:27) landev: hehe miir händ di gliich idee...
+(19:26:38) Dominik: jo
+(19:26:44) Dominik: und wei mach ich das
+(19:26:53) landev: übrigens söttsch mol d ur uf dim server stelle....
+(19:27:00) landev: ok velech au ned...
+(19:27:12) landev: also jetzt startisch d mmc
+(19:27:43) landev: denn gosch s snap-in dienste go lade, denn luegsch was de iis för en bentzer het...
+(19:28:38) Dominik: hää
+(19:29:13) landev: Start > mmc.exe > Datei > snap-in hinzufügen > hinzufügen > dienste > 2x ok...
+(19:29:29) landev: start > ausfühern ...
+(19:29:36) landev: denn mmc, hani vergässe....
+(19:29:54) Dominik: ha kei datei
+(19:30:04) landev: was kei datei?
+(19:30:17) Dominik: i de konsole
+(19:30:27) landev: jo denn muesch äbe das snap in hinzue füege...
+(19:30:48) landev: chan mer en doppel vnc session mache, denn wärs eifacher för mich....
+(19:31:03) landev: also ich uf din pc, din pc uf de server...
+(19:31:21) landev: denn chasch gäbig zueluege...
+(19:31:33) Dominik: jo sött glaub scho goo
+(19:31:43) landev: ok , denn suechi rasch s vnc...
+(19:31:54) Dominik: www.realvnc.com
+(19:32:19) landev: version 3 oder 4?
+(19:32:40) Dominik: 4
+(19:32:43) landev: ok 4 well rückwärts kompatibel...
+(19:33:06) Dominik: "lokales Systemkonto"
+(19:33:35) landev: ???
+(19:34:07) landev: dini ip?
+(19:34:23) landev: (www.whatismyip.com)
+(19:35:05) landev: usserdemm muesch de entsprächend port offe ha uf em firewall/router....
+(19:35:11) landev: und kein lokale firewall....
+(19:35:26) Dominik: nei uf min server
+(19:35:36) landev: ah ich diräkt?
+(19:35:42) landev: denn gsehsch jo ned wasi mache....
+(19:36:36) landev: gibs zue, du hesch wider en rägetanz gmacht...
+(19:37:38) Dominik: gönd nid 2 sessione uf 1 mol
+(19:38:06) landev: aber ich en session uf din pc und du vo dim pc us en session uf de server sött jo goh...
+(19:38:26) Dominik: jo aber dasch z kompliziert
+(19:38:37) Dominik: ich goo jetzte nid go min router umstelle
+(19:39:08) landev: ok, wär äifacher... sölli demmfall vo mir uus probiere?
+(19:39:29) Dominik: ich han eh de iis zum chartze brocht
+(19:39:38) landev: ugh....
+(19:39:38) Dominik: ha "entladen" drückt
+(19:39:46) landev: chasch jo wider starte...
+(19:39:49) landev: no prob...
+(19:40:01) Dominik: cha s fänschter nid schliesse
+(19:40:03) landev: also bi mir gohts no...
+(19:40:14) landev: weles fänschter?
+(19:41:09) Dominik: vo de iis istellige
+(19:41:27) landev: hesch en watchdog drinne?
+(19:41:37) Dominik: weis nid
+(19:42:25) landev: also söscht wenn weisch das er suuber bootet, chasch jo rasch neu boote..., allfälligi mailserver wo dim mailserver öppis wänd säge probieres sowieso nomol, wenn din server down isch...
+(19:42:59) Dominik: bi scho dranne
+(19:43:07) landev: hehe... merkes grad...
+(19:43:17) Dominik: :-)
+(19:43:18) landev: was isch es eigentli för es os ?
+(19:43:23) landev: w2k server?
+(19:43:25) Dominik: win 2000 s
+(19:43:30) landev: service pack?
+(19:43:37) Dominik: weis nid
+(19:43:42) landev: ugh...
+(19:43:51) landev: jo guet, sött au nüt säge...
+(19:44:07) landev: 4 wär aktuel und jenschtig hotfixes....
+(19:44:23) Dominik: ich glaub isch au s 4i druffe
+(19:44:51) landev: ok, dasch suuper, denn chani 1: 1 uf mim notebook luege...
+(19:45:49) Dominik: chasch mol probiere öb per vnc druuf chunsch
+(19:45:59) landev: ip?
+(19:46:08) Dominik: für was ip ?
+(19:46:15) landev: ok passwd?
+(19:46:19) Dominik: irgendöpper het webadrässe erfunde
+(19:46:23) Dominik: remote
+(19:46:28) landev: s passwort?
+(19:46:31) Dominik: jo
+(19:46:48) landev: passwörter über es unsichers icq verschicke isch ned grad ser gschickt... 
+(19:46:52) landev: chont mer grad in sinnn...
+(19:47:09) Dominik: isch doch glich .. ok hett mi usegschmisse
+(19:47:24) landev: mich au...
+(19:47:50) Dominik: jo wart schnäll
+(19:47:59) landev: bi scho wider drinn...
+(19:48:09) landev: cha der söscht jo mit printscreens en doku mache...
+(19:48:19) landev: printscreen und wordpad....ö
+(19:48:26) landev: ohi ö (tippfehler)
+(19:48:41) Dominik: prober nomol
+(19:49:00) landev: chome nömme ine...
+(19:49:09) Dominik: w8
+(19:49:23) Dominik: probier nomol
+(19:49:36) landev: ok goht wider...
+(19:49:47) Dominik: ok bin dinne blibe
+(19:49:56) landev: wie hesch das gschafft?
+(19:51:34) Dominik: han i jo gseit
+(19:51:48) landev: ok i mues immer zerscht alles sälber sichte....
+(19:52:19) Dominik: nööööö
+(19:52:25) landev: wo denn?
+(19:52:31) Dominik: d:\www\away\db

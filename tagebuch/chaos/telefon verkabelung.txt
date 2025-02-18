@@ -1,0 +1,132 @@
+RV 13a.1.1	Amt von KK		NT-Ba1.4.vorne						17.01.2006	LM
+RV 13a.1.2	Amt von KK		Leeres Kabel						17.01.2006	LM
+RV 13a.1.3			Leeres Kabel							
+RV 13a.1.4	Amt von KK		NT-Ba1.2.vorne						17.01.2006	LM
+RV 13a.1.5	Amt von KK		NT-Ba1.3.vorne						17.01.2006	LM
+RV 13a.1.6										
+RV 13a.1.7										
+RV 13a.1.8	Amt		Splitter-Box YCL.line	YCL.Phone auf NT.BA1.1.vorne					17.01.2006	LM
+RV 13a.1.9			leer						17.01.2006	LM
+RV 13a.1.10			leer						17.01.2006	LM
+RV 13a.1.11			leer						17.01.2006	LM
+RV 13a.1.12			leer						17.01.2006	LM
+RV 13a.1.13			leer						17.01.2006	LM
+RV 13a.1.14			leer						17.01.2006	LM
+RV 13a.1.15			leer						17.01.2006	LM
+RV 13a.1.16			leer						17.01.2006	LM
+RV 13a.2.1	TNS 1.17.1 bzw. EAZ 1.17.1		R25	noch Dose montieren		"Integrated
+Services
+Digital
+Network"	600		17.01.2006	LM
+RV 13a.2.2	TNS 1.17.2		leer				601		17.01.2006	LM
+RV 13a.2.3	TNS 1.18.1		leer				602		17.01.2006	LM
+RV 13a.2.4	TNS 1.18.2		leer				603		17.01.2006	LM
+RV 13a.2.5	TNS 1.19.1		leer				604		17.01.2006	LM
+RV 13a.2.6	TNS 1.19.2		leer				605		17.01.2006	LM
+RV 13a.2.7	TNS 1.20.1		leer				606		17.01.2006	LM
+RV 13a.2.8	TNS 1.20.2		leer				607		17.01.2006	LM
+RV 13a.2.9	NT 1		NT-Ba1.1.hinten						17.01.2006	LM
+RV 13a.2.10	NT 2		NT-Ba1.2.hinten						17.01.2006	LM
+RV 13a.2.11	NT 3		NT-Ba1.3.hinten						17.01.2006	LM
+RV 13a.2.12	NT 4		NT-Ba1.4.hinten						17.01.2006	LM
+RV 13a.2.13			Blende						17.01.2006	LM
+RV 13a.2.14			Blende						17.01.2006	LM
+RV 13a.2.15			Blende						17.01.2006	LM
+RV 13a.2.16	Eingang 1/2		RV 13a.5.16						17.01.2006	LM
+RV 13a.3.1	TNA 2.1		RV 13a.5.1			Analog	30		17.01.2006	LM
+RV 13a.3.2	TNA 2.2		leer			Analog	36		17.01.2006	LM
+RV 13a.3.3	TNA 2.3		RV 13a.7.14			Analog	41		17.01.2006	LM
+RV 13a.3.4	TNA 2.4		leer			Analog	42		17.01.2006	LM
+RV 13a.3.5	TNA 2.5		RV 13a.7.11			Analog	43		17.01.2006	LM
+RV 13a.3.6	TNA 2.6		RV 13a.7.15			Analog	610		17.01.2006	LM
+RV 13a.3.7	TNA 2.7		RV 13a.8.13	Modem Tech+		Analog	611		17.01.2006	LM
+RV 13a.3.8	TNA 2.8		RV 13a.5.3			Analog	666		17.01.2006	LM
+RV 13a.3.9			leer						17.01.2006	LM
+RV 13a.3.10			leer						17.01.2006	LM
+RV 13a.3.11			leer						17.01.2006	LM
+RV 13a.3.12			leer						17.01.2006	LM
+RV 13a.3.13			leer						17.01.2006	LM
+RV 13a.3.14			leer						17.01.2006	LM
+RV 13a.3.15			leer						17.01.2006	LM
+RV 13a.3.16			leer						17.01.2006	LM
+RV 13a.4.1	AD 3.1		RV 13a.7.5	R19.rechts		Tel digital	51		17.01.2006	LM
+RV 13a.4.2	AD 3.2		RV 13a.7.3	R19.links		Tel digital	56		17.01.2006	LM
+RV 13a.4.3	AD 3.3		RV 13a.7.6	R19.mitte		Tel digital	20		17.01.2006	LM
+RV 13a.4.4	AD 3.4		RV 13a.7.4			Tel digital	25		17.01.2006	LM
+RV 13a.4.5	AD 3.5		RV 13a.7.2	R23.links		Tel digital	53		17.01.2006	LM
+RV 13a.4.6	AD 3.6		RV 13a.8.11	R25.rechts		Tel digital	35		17.01.2006	LM
+RV 13a.4.7	AD 3.7		leer			Tel digital	80		17.01.2006	LM
+RV 13a.4.8	AD 3.8		RV 13a.8.12	R25.mitte		Tel digital	37		17.01.2006	LM
+RV 13a.4.9	AD 3.17		RV 13a.6.1			DECT			17.01.2006	LM
+RV 13a.4.10	AD 3.18		RV 13a.6.2			DECT			17.01.2006	LM
+RV 13a.4.11	AD 3.19		RV 13a.6.3			DECT			17.01.2006	LM
+RV 13a.4.12	AD 3.20		RV 13a.6.4			DECT			17.01.2006	LM
+RV 13a.4.13	AD 3.21		RV 13a.6.9			DECT			17.01.2006	LM
+RV 13a.4.14	AD 3.22		RV 13a.6.10			DECT			17.01.2006	LM
+RV 13a.4.15			leer						17.01.2006	LM
+RV 13a.4.16			leer						17.01.2006	LM
+RV 13a.5.1	X		RV 13a.3.1							
+RV 13a.5.2	X		RV 13a.6.5							
+RV 13a.5.3	X		RV 13a.3.8							
+RV 13a.5.4			leer						17.01.2006	LM
+RV 13a.5.5			leer						17.01.2006	LM
+RV 13a.5.6			leer						17.01.2006	LM
+RV 13a.5.7			leer						17.01.2006	LM
+RV 13a.5.8			leer						17.01.2006	LM
+RV 13a.5.9			leer						17.01.2006	LM
+RV 13a.5.10			leer						17.01.2006	LM
+RV 13a.5.11			leer						17.01.2006	LM
+RV 13a.5.12			leer						17.01.2006	LM
+RV 13a.5.13			leer						17.01.2006	LM
+RV 13a.5.14			leer						17.01.2006	LM
+RV 13a.5.15			leer						17.01.2006	LM
+RV 13a.5.16	X		RV 13a.2.16							
+RV 13a.6.1	X		RV 13a.4.9							
+RV 13a.6.2	X		RV 13a.4.10							
+RV 13a.6.3	X		RV 13a.4.11							
+RV 13a.6.4	X		RV 13a.4.12							
+RV 13a.6.5	Fax, Empfang Parterre		RV 13a.5.2	Kable direction Keller					17.01.2006	LM
+RV 13a.6.6			Blende						17.01.2006	LM
+RV 13a.6.7			Blende						17.01.2006	LM
+RV 13a.6.8			leer						17.01.2006	LM
+RV 13a.6.9	X		RV 13a.4.13							
+RV 13a.6.10	X		RV 13a.4.14							
+RV 13a.6.11			leer						17.01.2006	LM
+RV 13a.6.12			leer						17.01.2006	LM
+RV 13a.6.13			leer						17.01.2006	LM
+RV 13a.6.14			leer						17.01.2006	LM
+RV 13a.6.15			leer						17.01.2006	LM
+RV 13a.6.16			leer						17.01.2006	LM
+RV 13a.7.1			leer						17.01.2006	LM
+RV 13a.7.2	R23.links	Zentrale 4	RV 13a.4.5	Carmen	Telefon	Ascom	63	Office 30	17.01.2006	LM
+RV 13a.7.3	R19.links	Zentrale 3	RV 13a.4.2	Ela Hauptnummer	Telefon	Ascom	66	Office 30	17.01.2006	LM
+RV 13a.7.4			RV 13a.4.4							
+RV 13a.7.5	R19.rechts	Zentrale 2	RV 13a.4.1	Amaline Hauptnummer	Telefon	Ascom	25	Office 30	17.01.2006	LM
+RV 13a.7.6	R19.mitte	Zentrale 1	RV 13a.4.3	Laube Hauptnummer	Telefon	Ascom	20	Office 30	17.01.2006	LM
+RV 13a.7.7	X		leer							
+RV 13a.7.8			Blende						17.01.2006	LM
+RV 13a.7.9			keine Blende						17.01.2006	LM
+RV 13a.7.10			keine Blende						17.01.2006	LM
+RV 13a.7.11	X		RV 13a.3.5							
+RV 13a.7.12			leer						17.01.2006	LM
+RV 13a.7.13			leer						17.01.2006	LM
+RV 13a.7.14	X		RV 13a.3.3							
+RV 13a.7.15	X		RV 13a.3.6							
+RV 13a.7.16			leer						17.01.2006	LM
+RV 13a.8.1			keine Blende						17.01.2006	LM
+RV 13a.8.2			keine Blende						17.01.2006	LM
+RV 13a.8.3			keine Blende						17.01.2006	LM
+RV 13a.8.4			keine Blende						17.01.2006	LM
+RV 13a.8.5			keine Blende						17.01.2006	LM
+RV 13a.8.6			keine Blende						17.01.2006	LM
+RV 13a.8.7			keine Blende						17.01.2006	LM
+RV 13a.8.8			keine Blende						17.01.2006	LM
+RV 13a.8.9			keine Blende						17.01.2006	LM
+RV 13a.8.10			keine Blende						17.01.2006	LM
+RV 13a.8.11	R25.rechts	Zentrale 5	RV 13a.4.6	Senay	Telefon	Ascom	65	Office 30	17.01.2006	LM
+RV 13a.8.12	R25.mitte	Hotline	RV 13a.4.8	Semra	Telefon	Ascom	57	Office 40	17.01.2006	LM
+RV 13a.8.13			RV 13a.3.7							
+RV 13a.8.14	R23.Rechts		leer	Bei Jubi, noch frei					17.01.2006	LM
+RV 13a.8.15	R25.mitte-links (oranger Faden)		leer	R 2T Modem, wieder frei	Modem				17.01.2006	LM
+RV 13a.8.16	R25.mitte		leer	hinter Semra, noch frei					17.01.2006	LM
+		Bitte Liste jeweils auch auf dem Netz nachtragen								

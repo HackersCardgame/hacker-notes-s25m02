@@ -1,0 +1,43 @@
+Doublesiding: Thrifty or Foolhardy?
+
+by Reggie Ramloose
+
+
+The good news is that, due to the rising sales of computers, the price of diskettes is falling. The bad
+news is that the near future is likely to bring higher prices for paper supplies.  However, if you still use
+the old No. 2 bonded lead word processor, I have some useful information: You can double-side your
+notebook paper!
+
+Although paper manufacturers only certify the "front side" of a piece of paper, it is a little-known fact
+that the back side is capable of holding the same amount of written information.  You, too, can use the
+back side of your paper.  But before you do, I must warn you there are mixed feelings about doing so.
+
+Paper manufacturers are quick to warn that writing on the back side can cause problems for the data
+on both sides of the paper, and will not honor warranties if the back side has been used.  The biggest
+problem is "write-through."  This occurs if the wrong pen or pencil is used, or if too much pressure is
+applied during the writing process.  There is a problem with standardization, also, with some users
+turning the paper upside down when writing on the back, and others leaving it right side up.  (If the
+paper is held upside down during the reading process, it will be in the wrong alignment to the head, and
+a read error will occur).  Also many public school teachers, publishers, and governmental offices frown
+on the practice of using the back of the paper, and will not accept material if both sides of the paper
+have been used.
+
+Students and other paper users, however, claim they have used the backs of many thousands of pages
+with little or no loss of data.  A few go so far as to say that there is a conspiracy among paper
+manufacturers, merchandisers, and public officials to discourage the use of the backs.
+
+You must decide yourself if you will use the back side of your paper.  But if you decide to give it a go,
+here's how:
+
+Look at the sheet of paper.  You can tell the front by several methods.  First, the row of alignment holes
+goes toward the left.  Secondly, the watermark can be read if you hold the paper up to a light.  To
+double-side a sheet, turn it over.  Examine the back, looking especially for obvious flaws and defects. 
+If the overall appearance is satisfactory, then with a ruler and pen, mark locations on the left side
+corresponding to the holes which are now on the right side. (You should try this initially with paper
+containing no valuable data.)  Use a regular hole punch to make the holes.  (You can buy a hole punch
+at a department store, but I don't recommend that you tell them what you plan to use it for.)
+
+Your paper is now double-sided.  Good luck!
+
+from NCUG via Commodore Users Group of Atlanta, February 1990, via The Commodore
+Information Center web site (http://home.att.net/~rmestel/commodore.html) 

@@ -1,0 +1,37 @@
+weil das problem ist, dass die befehle anhand der spaces erkannt werden z.B. 
+
+site BBR rule TV1 
+site BBR rule TV1 add x265
+site BBR rule TV1 del x264
+site BBR rule TV1 set TV x264 265
+
+bzw.
+site BBR rule TV1
+site BBR rule TV1 + x265
+site BBR rule TV1 - x264
+site BBR rule TV1 = TV x265
+
+das problem ist, dass der Befehl (add/del/set) immer an der selben stelle ist
+
+wenn du jetzt z.B.
+
+site BBR rule TV1 TV
+
+hättest, dann weiss er nicht wirklich was machen mit dem TV weil er nicht weiss ob er das jetzt hinzufügen, löschen oder setzen soll
+
+bzw. das wäre auch noch eine Variante
+site BBR rule TV1
+site BBR rule TV1 + x265 - x264
+site BBR rule TV1 = TV
+
+die gefällt mir aber nicht deshalb habe ich damals 
+
+site BBR rule TV1 +x265 -x264
+
+genommen, da man so gleichzeitig hinzufügen und löschen kann
+
+und ich hab diverse male geagt, dass dieser teil getestet werden soll, und dann als antwort einfach bringen: Marc ist böse weil die User beklagen sich über das gleich ist nicht so toll. wenn ihrs getestet hättet dann hätt ich es erklärt weshalb es so sein muss. ich muss als programmierer lernen den "kunden" auch mal nein zu sagen wenn sie wünsche haben die das projekt unnütz komplizieren, insbesondere wenn man es besprechen könnte wie hier oder dem user halt sagen muss er müsse halt noch ein = eingeben (maske 23 scheuring ETH)
+
+auch finde ich es untoll, dass ich von den testern keine direkte rückmeldung habe, der kann ja auch noch in den pci30 kanal kommen, so dass wenn ihr es schon nicht erklärt dass ich es dann wenigstens erklären kann weshalb es das ein = braucht. und macht vor den "endkunden" noch keien zusagen die ich dann ausbaden muss. ich hab gestern ca 8h rumgetestet und komme zum schluss, dass so wie ich es am anfang hatte (also eindeutige rule names) und mit = oder set eigentlich die richtige variante wäre und das andere alles nur komplizierter und fehleranfälliger macht...
+
+ich bin nicht sauer, aber das geht halt in die selbe geschichte rein wie mit den (1.) 500ms die Du anfangs gesagt hast. (2.) mit dem über meinen kopf hinweg entscheiden ohne einen plan zu haben (auch wenn ihr es danach relativiert) (3.) mich warten zu lassen udn zu ignorieren und diese dinge die ich sage immer gegen mich zu verwenden, insbesondere wenn ich damals auf dinge hingewisen habe. das macht mich unnütig frustriert und wenn man schon für 1000h gratis arbeit bekommt, kann man sich ja mindestens mühe geben denjenigen der gratis programmiert nicht oder so wenig wie möglich zu frustrieren... wie bereits erwähnt, ich bin nicht sauer, ich finde einfach dass muss einmal gesagt werden. und mir ist bewusst, dass ihr beide als phase member es super untoll findet, wenn der landev immer das letzte wort hat. aber in sachen software entwicklung macht es einfach sinn, wenn ich das letzte wort habe, weil ich das auch studiert habe. da wäre ein bisschen mehr vertrauen in mich wünschcenswert. denn auch euer "mach mehr regex" war ja falsch wie ihr jetzt seht, denn das problem ist die langsame python3-regex library und mit PCRE2 ist es 10-20x schneller, wie ich voraus gesagt habe.

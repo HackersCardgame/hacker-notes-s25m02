@@ -1,0 +1,29 @@
+System log for account 962320 (icq) connected at 06.06.2007 12::15::29
+---- +++ 962320 hat sich angemeldet @ 2007-06-06 12:15:29 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-06-06 12:15:30 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-06-06 12:15:30 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-06-06 12:15:30 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-06 12:16:01 ----
+---- michi wurde untätig @ 2007-06-06 12:21:03 ----
+---- tdr-timon hat den Status von Offline zu Nicht stören geändert @ 2007-06-06 12:24:55 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-06-06 12:54:20 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-06 13:11:22 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-06 13:13:33 ----
+---- stefan hat den Status von Verfügbar zu Offline geändert @ 2007-06-06 13:13:49 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-06-06 13:22:50 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-06 13:40:41 ----
+---- michi wurde tätig @ 2007-06-06 13:40:41 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-06-06 13:54:27 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-06-06 13:54:29 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-06-06 14:08:43 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-06-06 14:08:44 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-06-06 14:09:48 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-06-06 14:09:49 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-06-06 14:21:37 ----
+---- tdr-timon hat den Status von Nicht stören zu Offline geändert @ 2007-06-06 14:40:21 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-06-06 14:46:25 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-06-06 14:46:26 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-06-06 15:24:46 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-06-06 15:24:47 ----
+---- stefan hat den Status von Verfügbar zu Offline geändert @ 2007-06-06 15:28:10 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-06-06 15:35:53 ----

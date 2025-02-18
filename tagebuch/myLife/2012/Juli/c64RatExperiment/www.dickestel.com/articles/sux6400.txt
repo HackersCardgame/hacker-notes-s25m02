@@ -1,0 +1,52 @@
+SUX 6400 / Digimaster Commodore Sound Digitzier
+
+On July 24, 2011, at the Commodore Vegas Expo v7, the Sound Ultimate Xpander 6400 (SUX 6400) and its Digimaster 64 software made their premiere.  Developed after hours and hours of work, the SUX 6400 is a new audio digitizer cartridge produced by the Fresno Commodore User Group and PDXCUG.org.  From Chris Brenner of Autumn Technologies, Digimaster 64 is a re-release of his audio-digitizing and editing program.
+
+The SUX 6400 with Digimaster 64 make up the most sophisticated audio digitizing hardware and software ever made for the Commodore 64 and the Commodore 128 (in C64 mode).  With the SUX 6400 and Digimaster 64, you can capture audio into the Commodore and play back the recording - all in 8-bit sound quality.  You can use the recording in your own programs. Full documentation is included.
+
+The SUX 6400 / Digimaster 64 package has the following:
+
+1. the SUX 6400 audio digitizer
+2. a "flippy", two-sided disk with Digimaster 64 software
+3. the Digimaster CD disc
+4. a quick-start sheet of instructions
+
+Below is Chris Brenner's original description of Digimaster 64.
+
+-----
+
+Digimaster is a unique software product which allows you to process digital audio on your Commodore 64.
+
+This advanced software utilizes a fully graphical interface with pull-down menus.  Incorporated into its operation are many powerful features, such as Cut, Copy, and Paste, which makes editing sound as easy as editing text in a word processor.  Using an optional audio digitizer [like the Sound Ultimate Xpander 6400], live sound can be grabbed into the computer, edited, and then saved to disk.  There is even a utility included which will convert Amiga sound samples, giving you access to a vast library of sounds.
+
+Probably the most impressive feature of this software is its ability to replay sounds in true eight-bit digital audio on your Commodore 64 without the need for extra hardware.  This is made possible by a revolutionary method of controlling the sound chip inside the Commodore 64.  The result is crystal clear audio reproduction.
+
+Digimaster Features:
+
+Fully graphical interface
+
+Many powerful editing functions
+
+Ability to replay sounds in true eight-bit digital audio without the need for extra hardware
+
+Included software which allows replaying sounds from your own programs
+
+Requirements:
+
+Commodore 64 computer
+Commodore 1541 or compatible disk drive
+Joystick or mouse (mouse highly recommended)
+
+-----
+
+Photos of the SUX 6400 and its production can be found throughout http://retro-link.blogspot.com
+
+The SUX 6400 / Digimaster 64 package is priced at $22 without a cartridge case or $25 with a case.  Within the U.S., shipping is via U.S. Priority Mail flat rate for $5.20.  For other countries, shipping rates are to be determined.  Send a check or money order to the
+
+FCUG
+502 Whitney Lane
+Visalia, California  93277-1940
+U.S.A.
+
+Payment by PayPal is available; send an e-mail to rbernardo@iglou.com for more information on that payment option.
+

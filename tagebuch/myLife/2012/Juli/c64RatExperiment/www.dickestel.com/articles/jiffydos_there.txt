@@ -1,0 +1,21 @@
+Is JiffyDOS in There?
+
+Say you picked up a 1571 or maybe a 1581 disk drive at a rummage or wherever, to go with your 128
+system with JiffyDOS installed, but you don't want to open it just to see if it has a JiffyDOS chip in it.
+Forget the stopwatch idea. On start up in 128, 80 or 40 column, just type in: PRINTS$ and a message
+will come up saying either: 73 CBM DOS and what version of DOS it is and the type of drive you are
+using, or, 73 JiffyDOS and what version of DOS, maybe a date and the kind of drive you have. 
+
+If you have JiffyDOS in your computer, you can just hit the @ sign and press RETURN.
+
+So, what does JiffyDOS do? JiffyDOS is installed in your 64 (or 128) when you replace a ROM in
+your 64 and drive (or 2 in a 128 and one in the drive). This involves opening the case and probably
+soldering, too. With JiffyDOS in place one or two keystrokes can do a lot. You get increased speed in
+all your disk functions (load, save, read, write and verify) working with all file types. Users report a
+significant difference in speed (we see it at club meetings). The only thing needed is the proper
+keyboard combinations (i.e. Fl = display directory, F8 = LIST basic program, F5 = LOAD and RUN
+a program, and so on). JiffyDOS is manufactured by Creative Micro Designs, Inc. (CMD), P.O. Box
+789, Wilbraham, MA 01095.
+
+From C=HUG Gazette, Commodore Hayward Users Group, September 1999, via the Commodore
+Information Center, http://home.att.net/~rmestel/commodore.html)

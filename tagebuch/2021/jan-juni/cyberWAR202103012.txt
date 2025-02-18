@@ -1,0 +1,393 @@
+Thu Mar 11 23:03:00 CET 2021
+[master 2714ea8] tempsave
+ 1 file changed, 48 insertions(+)
+ create mode 100644 unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR202103012.txt
+
+
+Chellenge:
+
+Familien Wappen maximal DatenSprasam mit Unicode basteln:
+Vorlage Landolt Aarau Wappen
+
+
+_______
+|  ☘️  |
+| ╭∩╮ |
+\_____/
+
+32 Unicode Character inklusive \n
+
+#OFFTOPIC: #Challenge: #Familien-#Wappen maximal daten-sparsam in Unicode, 
+ich bekomm's mit 32 Unicode Zeichen hin:
+_________
+|    ☘️   |
+| ╭∩╮ |
+\_______/
+
+allenfalls auch interessant für ...
+
+ich frag mich ausserdem, ob man das auch mit dem standard #CharcterBuffer des #C64 hin bekommt ... anybody C64.COM Commodore 64 C64/128 Graphics
+
+[EDIT]
+da jedes Betriebssystem so ein bisschen eine eigene FONT hat noch nen Screenshot wie das bei mir aussieht, bzw. könnte man ja mit FontForge eine eigene Font machen ... aber "dank" CyberWar habe ich vermutlich dafür wieder Mal keine Zeit ...
+
+und JA stattgegeben, da gibt es noch Optimierungs-Potential ...
+
+
+Thu Mar 11 23:20:03 CET 2021
+172b6f230faa942fc05c39f7d71dc4dfbc9504779f9cce5bcfd9cbc1bbbe4431f653b17504dc7ea9370ccba9cea3f30e7bb5426a9d0b36393af04a97de85355b  cyberWAR202103012.txt
+[master 3098850] tempsave
+ 1 file changed, 37 insertions(+), 48 deletions(-)
+ rewrite unfreiwilligerCyberWarBzwDokumentationDazu/cyberWAR202103012.txt (96%)
+ 
+ 
+Meta Konzept der Zürich Versicherung:
+
+die aktivieren mittlerweile viele Nat/Jur Personen gleichzeitig gegen mich ein einem blitzkrieg, das hat aber ncichts mit detushcland zu tun, sondern ist eher amerikanisch, und da sind es auch nicht alle amerikaner sondern vermutlich einige wenige maximal-vollbehinderte Amerikaner
+
+Deep Packet Injection:
+URS BLUM: (oder sprachsynthese)
+werner erismann war ein gehülfe von gabriel riela
+                        ======= Natural Language Processing
+
+Fri Mar 12 02:02:39 CET 2021
+f281a885edb1d1ba6155a6d01c8e1957bd702b9cefb952e1366aeba0f165920876153395e756f60d04b14a859eb94a3fb8d34b57033b400b1e867e5176d48cf7  cyberWAR202103012.txt
+[master a6e4500] tempsave
+ 1 file changed, 11 insertions(+)
+
+
+für eine Firma wie die Zürich Versicherung die auch Rechtsschutz in ihrem Portfolio haben ist es vermutlich günstiger einfach alle staatsanwälte und richtier aufzukaufen oder einmal zu kaufen und dann zu erpressen...
+
+Fri Mar 12 02:05:14 CET 2021
+1668c74bbbb63d43410ac27e338498d65528545c0e55ee95f027ea2410f64cbc30609789e16038c37080f745ac09184a34bfbdcbf57deb523a7a647a4aad44ab  cyberWAR202103012.txt
+[master fe8d227] tempsave
+ 1 file changed, 4 insertions(+)
+
+URS BLUM: ich machdi chalt (er meint vermutlich mich)
+
+URS BLUM:
+David utz hat sabrina lüthi ermordet
+
+"Lieber" Urs Blum, wollen wir wieder das relevante Konzeptwikssen verschleiern mit den Staatsanwälten und Richtern in dem ihr euren Mittäter David Utz ans messer liefert
+
+=> Pivot Element Pfadi Adler Aarau, auch schon mindestens ein indizi dass es wirklich urs blum ist...
+
+generelles Konzept der Zürich versicherung:
+
+1. Geld, Incentives, Pädohpilie anbieten
+2. beweismittel sammeln oder produzieren
+3. den mittäter gratis den rest seines lebens verwenden
+
+
+Meta Konzept der Zürich Versicherung:
+
+die aktivieren mittlerweile viele Nat/Jur Personen gleichzeitig gegen mich ein einem blitzkrieg, das hat aber ncichts mit detushcland zu tun, sondern ist eher amerikanisch, und da sind es auch nicht alle amerikaner sondern vermutlich einige wenige maximal-vollbehinderte Amerikaner
+
+
+für eine Firma wie die Zürich Versicherung die auch Rechtsschutz in ihrem Portfolio haben ist es vermutlich günstiger einfach alle staatsanwälte und richtier aufzukaufen oder einmal zu kaufen und dann zu erpressen...
+
+
+Fri Mar 12 02:08:40 CET 2021
+472d2396cdc177d5432dd2afaf852383fd26ed2941591bea02543879098e00deb5e68ccb87ce3673bb4f6f56e0601b3f91f70f1f6635617c76d8f03b2ff1578f  cyberWAR202103012.txt
+[master ebf7b24] tempsave
+ 1 file changed, 19 insertions(+)
+ 
+urs blum macht nach der meldung an die usb wieder einen auf corona und bio terror
+
+Martin Hangmann ist mittäter bei der zürich verischrueng
+
+1. Maritn hagmann bei CHFAC die dann minimiert wurde
+2. Martin Hagmann bei ATLNF die dann auch minimiert wurde
+
+
+Urs Blum aktiviert martin hagman zum cyber-terroristen gegen mich mit genau dem konzept von oben was ich protokolliert habe, rechtlich wäre es voererst spekulation aber vermutlich "vorerst spekulation
+
+hagmann:
+urs/astrid ziehe kokain, jemand breeitet das im 3d raum vor was urs / astird konsujmermen
+
+Fri Mar 12 02:56:46 CET 2021
+b0c1eafce0693bf7db871868e1c578deff25437496b695896e8a19ac9117457265c2a5b5dff04cb9525b35c63d9a6ea169413313132161b88d422aa95f7fc804  cyberWAR202103012.txt
+[master 69814eb] tempsave
+ 1 file changed, 14 insertions(+)
+
+dennoch zu dem "kokain rupfen durch urs / astird"
+
+das wären dann mehrere konsumenten die in einer linie sind und linien ziehen, von etwas was zuvor in mienem m98 m99 vorbereiter / gerendert wurde, muss auch nciht unbedingt kokain sein, kann auch whisky oder irged so etwas sein
+
+wir könnten das ein kokin-line-line nennen, bzw. der sou-chef bei csb hatte scheinbar ein whisky zimmer, somit craftet man whisky allenfalls mit kokain oder umgekehjrt?
+
+Fri Mar 12 03:11:51 CET 2021
+af2989314d98982339a18582fca5fd58719a4f0ceb984c808369c56f0f17f4a3d93d3261059134a0839d318c88e9b863f16e56c7057524d47717a10aa9f790d4  cyberWAR202103012.txt
+[master fc1ca5e] tempsave
+ 1 file changed, 7 insertions(+)
+
+
+dennoch hat das line-line trotzdem abge-looooooooooooooosed.... HAHAHA
+
+falluntersche3windungen
+
+corona - line-line
+haushalt unfall line-line
+you've just been poisoned line-line
+
+rawhammer attack of the minde ähnlihc, mongos in legion, mil abgeleite von pwa und pil
+
+Fri Mar 12 03:14:22 CET 2021
+5cd4e0ef39019dd2c8abe7e98d690f7d22c75ecd3e1bbf5627141ad435e1e4beaabbfe754b6d25d559effbd76e11c9d5ab67bf85ec3f8321381915c9e5c6b86f  cyberWAR202103012.txt
+[master 2bfbba3] tempsave
+ 1 file changed, 12 insertions(+)
+ 
+ also der task wohnung verlassen hat dann irgendwann einen state (state diagram) wo alles was man anfasst potentiell mit corona infiziert sein soll ...
+ 
+sanduhr funktion, ex falso quodlibet und alle mitspilielre gestehen so dass es kein spile geht und dass alle die straftaten bis mord vertuschen MöCHTEN öööööö
+
+Fri Mar 12 03:28:59 CET 2021
+1944220b170098aeb1929a488fc298c0a4761c9c8e113c683b59adf11978f86432bfe1d8780edf8c93192006f58f1833b61d2a638d3add4f7b23e5fc0052fd86  cyberWAR202103012.txt
+[master 642781f] tempsave
+ 1 file changed, 5 insertions(+)
+
+und die anderen mörder lieben den pfisterer weil er ihnen hilft ihre morde zu vertuschen,
+
+technisch gesprochen gibt er den idioten einfach schreibrecht auf meine wohnung jedes mal wenn ich die wohnung verlasse bzw. zuvor
+
+=> 
+
+
+
+
+die ownen alle firmen / services die ich benutze, bzw. sabotieren die wie z.B. 3x falsches passwort das dann den zugang von post.ch verhindert, und das passwort mail sperren sie mit dem hostpoint server abschuss....
+
+Fri Mar 12 03:44:10 CET 2021
+99d764ebf8afb9863cc3278e234e2a2fce22be09ba30599f8a89c62e2382a4b71db3fdc26695343400f92714ab68b770769bfab2ad1ce231534efb8bd0c5e533  cyberWAR202103012.txt
+[master 6baabcf] tempsave
+ 1 file changed, 6 insertions(+)
+ 
+ zug zwang der zürich versicherung, weil da relativ viele menschen in den kanst müssen wegen massenmord bis genozid... also kämpfen die auch unfair (und das wäre noch ein euphemismus)
+ 
+ Fri Mar 12 03:45:01 CET 2021
+568f29ef6b2e728b679e7343ec98c07db4dfda359f10fbed707e729b3ad9b48c26e9546fe621b23231486ded9b5e86b299eefd2ba9d38f4187a346e4213b9a81  cyberWAR202103012.txt
+[master a19094b] tempsave
+ 1 file changed, 8 insertions(+), 1 deletion(-)
+
+
+UNBEKANNT:
+Du hast die ganze Zürich versicherugn der ubs verschachert
+
+ich: verschachert wäre allenfalls mit natural language processing einer person / personenkreis zuzuordnen...
+
+
+todo's:
+planen um 05:00 in den kiosk aarau bahnhof gehen lesen die logischerweise mit etwas wei m160 aus und klicken da schon mongos wie der typ beim letzten mal hin der mich angreifen wollte
+
+logischerwese macht man dann allenfalls etwas anders
+
+z.B. interdiscount, aber suhr oder aarau
+
+oder baumarkt, aber coop schachen oder jumbo suhr
+
+
+da können die nichts mehr vorbereiten, da müssen die so eine art fast driven NPC super-duper-joker verwenden, wir könnten diese algorithmen ncoh ein bisshen mehr choosen plaintexten...
+
+bzw. will ich ja nciht belästigt werden, also bin ich "blue team" und die sind eigentlcih selber schuld dass sie sich chosen plaintesxten...
+
+
+da wäre das etwas wie eine broadcast message: "alle alten mongo npc's jetzt einkaufen gehen"
+
+sigint / comint
+
+ist das wie stuxnet und würde jetzt ausgerollt (euphemismus) werden oder interaktiv
+
+militärisches glasfasernetzwerk für marschbefehle bzw. "marschbefehle" bzw. ARSCHbefehle ?
+
+somit können wir die algorithmen da auslesen ohne dass wir red team gegen das militärische intaf/glasfaser "spielen" müssen...
+
+das finden die vermutlich nciht so lusig, ich selber finde das SEHR lustig...
+
+somit können wir mindestens die algorihtmen des militärischen terrornetzwerks ähm glasfasernetzwerks auslesen und hacken ohne dass wir uns strafbar machen...
+
+A) Marc jr will nur dass ihr ihn nciht mehr terrorisiert
+B) wenn ihr ihn terrorisiert verpetzt er euch bzw. eure super duper algorihmen
+
+Fri Mar 12 04:05:46 CET 2021
+cedf6a776ea9ed6c7a6a8d2c681c38da6ebebc1f3c16b12d41ed4e76595785efb9642accb4a82b1d23f67a7d21aa2807857f86382e2ce42b12b47af5cce5a07c  cyberWAR202103012.txt
+[master 574dc23] tempsave
+ 1 file changed, 5 insertions(+)
+
+Versiegelungs malware wäre vermtulich das eignetlihce problem, das verlassen der wohnung machen die terror damit ich dann die wohung nicht richtig versiegle udn urs blum / astrid blum weitere beweismittel entwenden könnten wie den prospekt mit den fingerabdrücken von urs und astrid drauf wo die psyhciatrie königsfgelden beihilfe geleistet hat diese beweismittel zu entwenden
+
+
+notfallplan von urs blum ist somit immer menschen mit tieferem rang ans msser zu liefern
+
+- staatsanwalt marco spring
+- psychiatrie köngigsfelden
+- michael ritter
+- claudie/philipp, lustigerweise nie oder selten melanie oder dominic blum <- weshalb?
+
+
+Fri Mar 12 04:17:06 CET 2021
+6537c249db992b663fdf4398ea8db917e0d4f251e6bc7681180186d1340542a7fc7f968da0c27ab2525e3dd0a2c446238f12462be8022b2af5cfc438e69d2bd8  cyberWAR202103012.txt
+[master 700d7c1] tempsave
+ 1 file changed, 1 insertion(+)
+
+das würde dann ein ganzes 1990er netzwerk von kindern freischalten bzw. in den fokuss rücken, wo vermutlich urs / astrid und pfisterer [1] eine weitere generation von sündenböcken produzieren möchte. liebe doofe gleichaltrige aquila herrin, könntest du allenfalls mal schauen, ob du das mit menschen mit viel agreable im big five überprüfen / überprüfen lassen
+
+es gäbe hänlcihkeiten in den soziopsychologie design patterns, und wenn mehrfach die selben "blueprints" verwendet wurde würde das satan und co nur noch mehr auffliegen lassen...
+
+
+[1] *klickgeräusch bei meiner rechten schläfe/ohr*
+
+Fri Mar 12 04:21:25 CET 2021
+2bbd243fa1a39cc555e2828a8bb2563088d47019a1bcce31d8b7e9b7be64792ed5ef402a23a162cd8e25ce3176b507daaf5149aefd227d6ade48b50b52a419f3  cyberWAR202103012.txt
+[master 47d731b] tempsave
+ 1 file changed, 8 insertions(+)
+ 
+wer gemordet hat wie urs blum oder härdi häfliger wird dann automatisch zum
+
+saboteur, waffenkäufer, amokläufer ...
+
+deren plan ist vermutlcih das konzept der verbrannten erde: "mich / meine familie ausrauben und dann wenn es einen rechtsfall gibt einfach immer alles zu sabotieren und virtuell in die luft zu sprengene"
+
+Fri Mar 12 04:46:03 CET 2021
+2135bedf60eb59c70fff5080845ca39a34ad7073fae535088875c33d4dcff6e6485e172e69bbec7cac3c5b09bc6b866cba7e1ef9b74fd3927600183809f22f06  cyberWAR202103012.txt
+[master 1e32ac0] tempsave
+ 1 file changed, 7 insertions(+)
+ 
+ güter zu zerstören ist im interesse des kapitalismus damit er neues verkaufen kann aber definitiv nicht im interesse der umwelt und verschlimmert die co2 problematik
+ 
+ auch mir die rombachtäli wohnung weg zu sprengen war eigentlich nicht im interesse der umwelt...
+ 
+Fri Mar 12 04:50:44 CET 2021
+9b30e12a4910c9676587a27ff60d1bb55b9517ce7c49568bff410bd683bc2fdd0bcf754dcba0fa7083f9f05f13dec566b662c0c14104b3c6f8b3713c73fd25ad  cyberWAR202103012.txt
+[master 84a5dac] tempsave
+ 1 file changed, 5 insertions(+)
+
+https://www.digitec.ch/de/s1/QuestionAndAnswer/NewQuestionConfirmation?productId=6178083&communityQuestionId=374887&productTypeId=10
+
+=> löschung impliziert zürich hat auch digitec gehackt oder geownt
+
+Fri Mar 12 04:59:17 CET 2021
+99ee48b0b2611ceec48c686fe3f4aedc597b49952122830d25425e8548b2afad5ff798fc093add53689543ac4e9eae4551eb46951e82aedb45611ee0091e72bb  cyberWAR202103012.txt
+[master 9c28fb7] tempsave
+ 1 file changed, 9 insertions(+)
+ 
+ https://www.brack.ch/brother-multifunktionsdrucker-mfc-l8690cdw-543973
+ => mit dieser 4/5 sterne berwertung was dem produkt eine gute note gibt und eigentlich im interesse von brack wäre würde man dann sehen wenn der kommentar gelöscht wird bzw. nicht freigeschaltet wrid, dass die täterkätte zürich versicherung -> urs blum -> simon härdi -> herr brack keine spinnerei von marc jr landolt ist
+ 
+ Fri Mar 12 05:08:36 CET 2021
+d7fb6e6b1681c285f08f9ad7a7b09cfbe23506114ddb553aebe128fcc8656ba1de44919c7e53faf1f6e3b695e8da64b2c9b05a72bfe8203753e9d9f3a41ba742  cyberWAR202103012.txt
+[master 5b420e8] tempsave
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+DEFCON2
+Simon Härid eindeutig als angreifender Täter identifiziert (dpij) 
+einblendung von bruno franz abb ausbilder
+
++ sample PornoBruno was der härdi bzw. die generation von härdi jeweils gesagt hat aber nciht unsere generation...
+
+
+Fri Mar 12 09:05:16 CET 2021
+c006eec4465a4f9d35da6c6a291b0d3a145d33e7fcfda001423205ec5b32572ebf770640ddfce2e1adcded1dbbd3d2421aa8b53d1f8bb2590507831147c35ed0  cyberWAR202103012.txt
+[master 93543ac] tempsave
+ 1 file changed, 1 insertion(+)
+
+schauen wir mal ob der kommentar auf brack freigeshcatlet wurde
+
+pavlovstimule alle paar sekunden und zwischendurch cyberwürdge-kette. limbic system aktiveiren und dann cAPI traumabased mindcontrol kokntext jus primae noctis nach dem mich urs / astrid angelockt haben mit einem computer kurs
+
+Fri Mar 12 09:09:46 CET 2021
+9c394e2a760cb4bd27b58e11a7c761ba0a99e6097bc4d1c1ad0b5721175e62e467da7dc5f67a356fb4e6825c9498fb367017fbd653dc374c1fb228d5619fef8b  cyberWAR202103012.txt
+[master 39f0470] tempsave
+ 1 file changed, 5 insertions(+)
+
+computer / git commit laged
+
+ich solle jetzt upc wegen des netzwerk problems anrufen
+
+Hohle gasse im sinne eines mongo-pusher-lemming-teams...
+
+Fri Mar 12 09:11:00 CET 2021
+83ab4708fb7c671140ece0321d73d52443efb41222bd7ce79cbe792ffb113ee722c9c4f8d287cb86755c9259ff0f0fdd16c617d73adf698ec84d78677f1a423c  cyberWAR202103012.txt
+[master b1f4c4d] tempsave
+ 1 file changed, 7 insertions(+)
+
+somit hätte die zürich versicherung brack abgeschrieben und versucht jetzt "digitec kann man vertrauen" zu häucheln und alles da schön zu reden?
+
+die "pistolentrommel" brack ist aufgebraucht also wechseln die auf die "pistolentrommel" digitec.ch?????
+
+
+
+vorgehen von blackhats => eine basis aufgeflogen => nächste basis selbe konzepte
+konzept der verbrannten erde?
+
+Fri Mar 12 09:18:50 CET 2021
+2d5653d12ba5443486a20672460c8ed6a79bcdc87d38184c66c0fbb446c814434c86e775cb87f47db7489d9ae01ce9cfa2db6be53c126dca03072ab65b74c3c4  cyberWAR202103012.txt
+[master 51ac89c] tempsave
+ 1 file changed, 10 insertions(+)
+
+gestern ich so protokolllllllierend: "um 11:00 fangen die mit grösserem cyberwar gegen mcih mit mehreren jur personen / teams an" heute: lüge, schon um 09:00 <- somit wäre das ein geständnis das dann zur haftstrafe führt für die angreifenden 1970er und älteren mongo-herren?
+
+Fri Mar 12 09:30:02 CET 2021
+be10db9aaa0c932747eaea3d8ef7d1b21242b7a0a50178f75c1ee21947bd051110d81f9b578304edb5a46ed73dde92ae70d2236589dffdae9acedc4d7ae9d328  cyberWAR202103012.txt
+[master fae6001] tempsave
+ 1 file changed, 3 insertions(+)
+
+
+das nervt ... ich geh pennen ...
+
+Fri Mar 12 09:31:05 CET 2021
+3b2c291477532ae041ab11fc29ea88d91a8669227d96411c3cb1e6f3b86fc8bf065416c78cf34dc2e3bfb33a527fcf7fe1d8065d62e990e98ccbf1cbf1b66405  cyberWAR202103012.txt
+[master ab1423f] tempsave
+ 1 file changed, 4 insertions(+)
+ 
+ 
+ DEFCON2
+ 
+ diff wohnung
+
+
+- corona tretminen wurden überall drauf gerendert
+- urs blum will mich dazu anstriften ihn zu ermorden <- das macht urs um zu verschleiern dass er marc jr landolt in den suizid treiben will
+
+simultan
+
+zürich versicherung vordert einstellung der vervahren oder marc jr landollt ist in 1h tod
+
+urs hat das gefühl er sei im recht, somit ist er schon im pädo netzwerk, der secret curt wären alles pädokriminelle und hätten auch das gefüh sie seine im recht...
+
+
+dann neues konzept: jemand vernichtet wasserreserven, bzw. rendert da drauf dass man wenn man das trinke zustimme von den eltern vergewaltigt zu werden
+
+dann würden sich die 1980er kinder gegenseitig ermroden weil sie kein wasser mehr haben, "ein wasser bitte" <- foter thechnik, suizidwahrscheinlichketi hoch, mordeversuch durch zürich versicherung...
+
+Fri Mar 12 21:08:51 CET 2021
+6b7f8449d0f3c581eae39d518a92a7a3584bb4b856784bfe9e30c66c983101f4bbd4a22ac34d0884c8cf7c9197d4d7643e5b2ad0d90ba5ef233250bc6a3767c0  cyberWAR202103012.txt
+[master 182b305] tempsave
+ 1 file changed, 21 insertions(+)
+ 
+ 
+ pavlov stimuli wird allenfalls ankonditioniert um dann durst zu erzeugen
+ 
+ medulla spinalis auch schon wieder hacked
+ 
+ blackhat team der zürich versicherung, meherere blackhat teams, urs blum droht den behörden mit sprengladungen wie sie das migors parkaus gesprengt habe
+ 
+ 
+urs blum: philip blum war das
+
+urs blum will über meinen account terrodrohungen absetzen
+
+urs blum drot mit mord an mir und nutzt meine hilfeschreie um terrordrohungen für die zürich versicherung abzusezen...
+
+*epilepsie*
+
+117 anrufen <- urs hat die 117 telefonzentrale gehownt, gahackt und den mitarbetiern kokain und geld gegeben dass sie ignorant sind...
+
+medulla spinalis & epilepsie bei marc jr ladnolt aktiviert worden <- konsumenten / proteinrechenr
+
+die brauchen zuspurch weil sie gester so abgeloost haben.....
+
+Fri Mar 12 21:12:57 CET 2021
+93696fd4a4319069344a8e38ffa0e8553a2306a32318f1e45d6f45b0102ae11f2d695f4a6e96cdb30f3f3397cfcada25f8415062a7783846e28b575907f227a1  cyberWAR202103012.txt
+[master 0821624] tempsave
+ 1 file changed, 8 insertions(+)
+

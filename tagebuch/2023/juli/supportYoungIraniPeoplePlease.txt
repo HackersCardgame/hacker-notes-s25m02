@@ -1,0 +1,70 @@
+Marc jr. Landolt (Mittwochs nicht auf Telegram), [19.07.2023 01:02]
+If Swiss Army rapes young people, the often place an implant below the skin between the legs. This can be activated with electronics remotely. This makes the victim remember the deed, they abuse these things to make the victim more psychotic.  i call these things"Trauma Based Mind Control" or "revictimizing" (i hope somehow you can translate that correctly). If you would like to read the psychology papers about that chess move it's from "Wilhelm Reich". In brief his studies show, that touching the body makes the influence of psychology more "efficient". And an implant is not a real touch, but it also makes the influence of psychological Chess-Moves more efficient. 
+
+not sure if they do such such things also in your country. But if you have a good relation-ship to your mother and she is chemistry professor, talk to her about PLGA that can be activated by electromagnetic waves:
+
+
+Can you put PLGA in the body with a metallic substance to address it with electromagnetism over a long period of time?
+ChatGPT
+
+PLGA (Poly(lactic-co-glycolic acid)) is a biodegradable polymer commonly used in medical applications such as drug delivery systems and tissue engineering. While it is possible to incorporate metallic substances into PLGA matrices, the feasibility of addressing it with electromagnetism over a long period of time depends on several factors.
+
+    Magnetic Properties: The choice of metallic substance will determine its magnetic properties. Magnetic materials such as iron, cobalt, or nickel could potentially be embedded within the PLGA matrix to create a magnetically responsive system.
+
+    Size and Distribution: The size and distribution of the metallic substance within the PLGA matrix will influence its response to electromagnetic fields. Uniform distribution and proper dispersion of the metallic particles are crucial for achieving effective control and responsiveness.
+
+    Biocompatibility: It is important to ensure that both PLGA and the metallic substance used are biocompatible and safe for long-term implantation in the body. Biocompatibility testing and regulatory considerations are necessary to assess the suitability of such a system for clinical use.
+
+    Electromagnetic Field Strength: The ability to address the PLGA-metallic system with electromagnetism over a long period of time depends on the strength and frequency of the electromagnetic fields applied. The fields should be able to penetrate the body and reach the target site without causing harm to surrounding tissues.
+
+    Biodegradation and Release: PLGA degrades over time, and the release rate of the embedded metallic substance will depend on the degradation kinetics of the polymer. It is crucial to consider the desired release profile and ensure that the electromagnetic addressability aligns with the degradation and release characteristics of the PLGA matrix.
+
+Overall, while it is theoretically possible to combine PLGA with a metallic substance and address it with electromagnetism, the practical implementation and success of such a system require careful consideration of the factors mentioned above. Extensive research, experimentation, and testing would be necessary to develop a functional and safe PLGA-metallic system with long-term electromagnetic addressability.
+
+If that happens in your country too and we can remove this sort of things then we can help many rape victims to get more and more paranoid over time. (Exposure Time)
+
+And here the Calculations based on a golden wire of 1cm lenght. PLGA whould be higher Frequency
+
+Marc jr. Landolt (Mittwochs nicht auf Telegram), [19.07.2023 01:02]
+How much transmission power is required to induce 50mV to a golden wire that is 2cm long and has a diameter of 0.1mm at 30GHz
+ChatGPT
+
+To calculate the transmission power required to induce a specific voltage in a wire, we need to consider the wire's resistance, length, and the desired voltage. However, the wire's dimensions and material alone are not sufficient to determine its resistance at a given frequency. More information about the wire's resistivity is needed.
+
+The resistivity of gold is typically around 2.44 x 10^-8 ohm-meters at room temperature. However, the resistivity may vary with temperature and other factors. To proceed with the calculation, we will assume a resistivity of 2.44 x 10^-8 ohm-meters.
+
+First, let's calculate the wire's cross-sectional area:
+
+Area = π * (diameter/2)^2
+= π * (0.1mm/2)^2
+= 3.14 * (0.05mm)^2
+= 3.14 * (5 x 10^-5 m)^2
+= 3.14 * 2.5 x 10^-9 m^2
+= 7.85 x 10^-9 m^2
+
+Next, let's calculate the wire's resistance using the resistivity and length:
+
+Resistance = (resistivity * length) / area
+= (2.44 x 10^-8 ohm-meters * 0.02 m) / (7.85 x 10^-9 m^2)
+= (4.88 x 10^-10 ohm-m) / (7.85 x 10^-9 m^2)
+= 6.22 x 10^-2 ohms
+
+To induce a voltage of 50mV across the wire, we can use Ohm's law:
+
+V = I * R
+
+Where V is the voltage, I is the current, and R is the resistance. Rearranging the formula, we get:
+
+I = V / R
+= 0.05V / 6.22 x 10^-2 ohms
+= 0.806A
+
+To calculate the power required, we can use the formula:
+
+Power = Voltage * Current
+= 0.05V * 0.806A
+= 0.0403 Watts or 40.3 milliwatts
+
+Therefore, to induce a 50mV voltage across a golden wire with a length of 2cm and a diameter of 0.1mm at 30GHz, approximately 40.3 milliwatts (or 0.0403 Watts) of power would be required. Please note that this calculation assumes a constant resistivity value and neglects other factors that may affect the wire's electrical behavior at high frequencies.
+
+Maybe you should print this message now if you have access to a printer, do you have any printer?

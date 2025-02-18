@@ -1,0 +1,45 @@
+
+
+Da ich keine Autismus-Diganose habe sondern eine falsche Schizohprenie-Diagnose antworte ich mal so
+
+
+EgoState :: Kind-ICH:
+unsere Schaukel von damals haben sie abgerissten
+
+EgoState :: Gefühls-ICH:
+Yay Erinnerungen, sehr schön gemacht beim Anime
+
+EgoState :: Informatik-ICH:
+Bilderkennung / Action Recognition => PatternMaching "optischen nicht inhaltliche Ähnlichkeit der Szenen"
+
+EgoState :: Philosophie-ICH:
+was wohl besser ist für ein Kind, Schaukel oder GTA 5?
+
+EgoState :: Beichtendes-ICH:
+Je nach Diagnose bei der Schizophrenie oder bei Autismus würde das gehirn hibbeliger sein und beim Pattern-Matching früher sagen "passt zusammen". Ist das Parameter beim Jaro-Winkler bei 0.6 statt 0.8 für gleich, müssten dementsprechend mehr Hypothesen getestet werden. Mussen mehr Hypothesen getestet werden muss das Gehirn mehr denken.
+
+Wenn man jetzt spontan sagt "das ist gleich" (Schnelles Denken) und dann aber diese Aussage zB im Chat überprüft (Langsames Denken) dann würde ich mal eine Schizophrenie Diagnose ausschliessen. Wenn man aber nur "Schnelles Denken" macht ohne Quellen hinzu zu ziehen, dann wäre es vermutlich Schizohprenie
+
+
+Schnelles Denken / Langsames Denken nach dem Buch "Thinking, Fast and Slow" von Daniel Kahneman
+
+Anime-Trickfilm:
+
+Start-Frame: anfang
+End-Frame: 3 Sekunden später
+Agent: Mädchen
+> verb: glitchende Schaukel <
+probablity: 100%
+
+
+
+
+GTA-Zeugs:
+
+Start-Frame: anfang
+End-Frame: 10 Sekunden später
+Agent: Auto
+> verb: glitchende Schaukel <
+probablity: 100%
+
+

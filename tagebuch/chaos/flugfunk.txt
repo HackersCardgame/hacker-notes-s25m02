@@ -1,0 +1,7 @@
+ins
+
+inertial navigation system
+
+http://de.wikipedia.org/wiki/Inertiales_Navigationssystem
+
+transponder zahl parallel zum radar

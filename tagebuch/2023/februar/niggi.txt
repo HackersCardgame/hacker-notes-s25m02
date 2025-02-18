@@ -1,0 +1,185 @@
+Hallo Niggi
+
+Ich habe viel Zeit dank meiner InvalidenRente, brauche die Zeit aber auch oft um stabil zu bleiben. Die Krankheit habe ich mir nicht ausgesucht, ich bin auch ein Opfer, nicht ein Opfer der Gesellschaft aber ein Opfer der Krankheit. Wenn ich Zeit habe mache ich gerne solche Dinge, schon auch typisch für Männchen um mit ihrem Wissen anzugeben, aber nicht nur.
+
+Ich habe die Links von heute Abend noch zusammen gefasst, FALLS es Dich interessiert.
+
+ChatGPT
+=======
+ChatGPT kann man gratis ausprobieren auf <a href="https://chat.openai.com/chat">https://chat.openai.com/chat</a>, muss man einfach ein Login erstellen. Manchmal ist die Seite überlastet weil das ganz viele Menschen brauchen. Ich gebe zu ich bin manipulativ und will Dich dazu motivieren das mal selber auszuprobieren, wie junge Menschen meist mit neuen Technologien herum spielen.
+
+Mein Senf zu ChatGPT
+--------------------
+Da denkt man anfänglich ja oft, "das ist Hexenwerk und das werde ich nie verstehen", aber so schwierig ist das gar nicht.
+
+Man könnte sich dem Thema ChatGPT mit zB dem Thema GPT3 nähern welches 175’000’000’000 Embeddings hat. GPT4 wird 100’000’000’000’000 Embeddings haben .
+
+<img src="./niggi/gpt4.jpeg"/>
+
+Das wäre auch der Grunds, weshalb ChatGPT nicht wusste wer Digitec gegründet hat. Liest man den <a href="https://www.digitec.ch/de/page/hey-chatgpt-was-weisst-du-ueber-digitec-galaxus-26086">Artikel</a> von Digitec hört man da heraus, dass die Besitzer eigentlich beleidigt sind, dass der ChatGPT das nicht weiss, sie also global zu wenig wichtig waren, dass dieser Wikipedia Artikel im Trainings-Datensatz war. Das ist das was ich heute Abend damit gemeint habe, dass die meisten Menschen sich wünschen etwas spezielles zu sein, aber das wäre Philosophie. Also werden in diesem Artikel nur die Unzulänglichkeiten von ChatGPT aufgezeigt.
+
+Aber zugegeben, etwas was ich an ChatGPT nicht so mag ist, dass er lieber lügt als zuzugeben, dass er etwas nicht weiss. Machen aber viele Menschen auch vor allem Männer. Da würde die sogenannte <a href="https://de.wikipedia.org/wiki/Explainable_Artificial_Intelligence">self-explanatory AI</a> dabei helfen heraus zu finden wie er jetzt zur falschen Antwort gekommen ist.
+
+Fragt man z.B. eine grössere Firma wie Amazon ab ist die Antwort richtig. Diese war somit im Trainings-Datensatz GPT3 drin.
+
+<img src="./niggi/amazon.png"/>
+
+Das ist jetzt nur Spekulation, aber der Digitec Artikel soll allenfalls vorsätzlich dem Leser einreden "wir Schweizer sind etwas spezielles, schau nur die KI weiss das nicht, wir sind besser wir können das im Wikipedia nachlesen", und dass der Mensch dazu neigt neue Technologie zu verteufeln ist nicht erst seit dem Radio so. Mein Grossvater hatte eine gute Art mit solchen Dingen umzugehen. Er hat damals meiner Grossmutter gesagt "Ich kaufe Dir jedes Gerät was Du haben möchtest, ABER Du musst mir zuerst erklären wie das Gerät technisch funktioniert"
+
+Also was ich jetzt gemacht habe ist diesen Artikel von Digitec ein bisschen genauer zu analysieren, da findet man aber wirklich nicht woher er die "Knüsels" hat. Das hat vermutlich mit dem Abstand der Wörter Knüsel und Digitec in den Traininsdaten zu tun. Weiter unten erklärt.
+
+Dazu muss ich aber zuerst erklären was Embeddings sind und dass es Word-Embeddings, Sentence-Embeddings und Meaning-Embeddings gibt
+
+<img src="./niggi/wordEmbeddings.png"/>
+Quelle: <a href="https://www.researchgate.net/figure/Processes-involved-in-vector-unpacking-The-word-embeddings-associated-with-the-words-in_fig1_333753843">https://www.researchgate.net/figure/Processes-involved-in-vector-unpacking-The-word-embeddings-associated-with-the-words-in_fig1_333753843</a> 
+
+geht zwar um Schizophrenie, ist aber Informatik-technisch das selbe. Einfach gesagt ist jedes Wort ein Vektor in eine bestimmte Richtung, und reiht man die Vektoren der Wörter eines Satzes alle zusammen kommt man zur Bedeutung des Satzes.
+
+Da empfiehlt es sich als Einstieg diesen Artikel [1] genauer zu lesen, das ist das relativ einfach erklärt.
+
+Man nimmt tausende Sätze z.B aus einem Kinderbuch, Kochbuch oder dem Internet:
+
+* „Der König ist ein Mann der ein Königreich regiert und die Königin kocht für ihn einen Apfel Kuchen“
+* „In ein Birchermüesli gehören Äpfel, Birnen, Bananen, Haferflocken, Joghurt …“
+
+
+
+Man gibt jedem Wort im VektorRaum eine eigene Richtung. Im 3D Raum haben wir nur drei Richtungen oder Dimensionen die man verwenden kann, in der Mathematik kann man rechnerisch aber auch 1’000’000 Dimensionen verwenden auch wenn man sich das bildlich nicht vorstellen kann, mathematisch geht das.
+
+Man berechnet jetzt den Abstand der Wörter am Beispiel der zwei Sätze oben dran:
+
+Wort1 ⇔ Wort2: Abstand der Wörter zueinander
+
+der ⇔ Koenig: 1
+der ⇔ ist: 2
+der ⇔ ein: 3
+…
+der ⇔ regiert: 9
+…
+Koenig ⇔ Mann: 3
+…
+Koenig ⇔ Koenigreich: 7
+Koenig ⇔ Koenigin: 9
+…
+…
+Koenigin ⇔ kocht: 1
+Koenig ⇔ kocht: 10
+Mann ⇔ kocht: 7
+…
+Apfel ⇔ Banane: 1
+
+Da eine Kombination nicht nur einmal vorkommt werden diese einfach aufsummiert und auf eine maximale Länge von 1 normiert. Der Output wäre mathematisch eine Matrix, also etwas wie eine Excel-Tabelle.
+
+Man sieht schon hier in diesem Beispiel, dass Begriffe mit ähnlicher Bedeutung einen kleineren Abstand haben als Wörter die nichts miteinander zu tun haben. Also z.B. König und Königin ist nahe beieinander.
+
+<img src="./niggi/vektoren.png"/>
+[1] <a href="https://towardsdatascience.com/deep-learning-for-nlp-word-embeddings-4f5c90bcdab5">https://towardsdatascience.com/deep-learning-for-nlp-word-embeddings-4f5c90bcdab5</a>
+
+Man sieht aber auch, dass dann Vorurteile wie „Die Frau muss kochen“ oder in diesem Beispiel „Die Königin muss kochen“ auch schon übernommen wird wenn man dem nicht aktiv entgegen wirkt. Den Fehler macht aber auch nicht nur der Computer, fast jedes Kind um 1990 wusste: „Mami muss kochen“
+
+Wichtiger ist der Hinweis dass man die Ausgabe verifizieren muss, wie auch das Digitec Beispiel zeigt.
+
+Wenn ich jetzt tausend Texte wie den Satz „in Birchermüesli gehört Zyankali“ ins Trainings-Datenset von OpenAI schmuggeln kann, oder einfach in der Embeddings-Vektor-Tabelle beim Schnittpunkt von Birchermüesli und Zyankali eine 1 Mache wird „das Gerät“ zwanghaft immer Zyankali ins Birchermüesli mischen wollen.
+
+Das ganze ist natürlich schon komplexer, da muss ja entschieden werden was jetzt gefragt wird und dann in einen schönen AntwortSatz umgewandelt werden, aber wie das grundsätzlich etwa funktioniert kann man mit dem Beispiel schon erahnen.
+
+Also das ist alles nur Statistik, wenn auch sehr intelligente Statistik. Den ChatGPT kann man somit auch ohne schlechtes Gewissen ganz übel beleidigen. Der hat keine Gefühle. Das tut dem nicht weh. 😀
+
+
+Mein Senf zu "Biologisches Gehirn und Neuronale Netzwerke im Computer sind recht ähnlich"
+=========================================================================================
+
+Petrischalen Gehirn
+===================
+Da wird im Podcast Minkorrekt [2] Podcast (den man wirklich hören sollte) erklärt, dass man es geschafft hat menschliche Gehirnzellen als Computer zu benutzen um Pong zu spielen.
+
+<video width="640" height="480" controls>
+  <source src="https://www.cell.com/cms/10.1016/j.neuron.2022.09.001/attachment/db2f7e55-0486-47dc-a440-86d54864fbc1/mmc3.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video> 
+
+[2] <a href="https://minkorrekt.de/mi226-warm-unterm-aluhut/">https://minkorrekt.de/mi226-warm-unterm-aluhut/</a> "Thema 3: Brainpong" 30 Min (gut erklärt)
+
+
+Quantum-Mind-Hypothese
+======================
+Zum Thema Gehirn ist die Quantum-Mind Hypothese spannend, diese besagt, dass allenfalls Quanten-Effekte beteiligt wären bei Vorgängen im Gehirn. Das war das Todschlag-Argument von Markus (ja ich überzeichne wie immer, das ist aber nie böse gemeint) weshalb das menschliche Gehirn einem Gehirn im Computer simuliert überlegen wäre. Ich hab dann die Studie [3] gelesen da wäre die Frage, sind (auch) am Dish-Pong auch Quanteneffekte beteiligt?
+
+[3] <a href="https://www.karger.com/Article/Fulltext/446752">https://www.karger.com/Article/Fulltext/446752</a>
+
+Meiner Meinung nach können durchaus Quanteneffekte einen ganz kleinen Einfluss haben auf die Wirksamkeit oder die Effizienz eines einzelnen Neurons. Da bin ich mir auch sicher, dass Millionen von Jahren Evolution ein einzelnes Neuron massiv optimiert haben. Aber selbst wenn Quanten-Effekte Einfluss haben auf Neuronen, dann hätten diese gemäss der Studie [3] nur etwa 10% Einfluss auf die Signale in einem Neuronalen Netzwerk.
+
+Ich denke das was viel mehr Einfluss hat auf die Funktionsweise eines Neuronalen Netzwerks wäre dass sich Neuronen im Gehirn nach belieben verschalten können. In simulierten Neuronalen Netzwerk ist bisanhin die erste Schicht Neuronen immer nur mit der zweiten Schicht der Neuronen verbunden, die zweite Schicht von Neuronen mit der ersten und der dritten Schicht. Die dritte Schicht mit der zweiten und der vierten. Im Menschlichen Gehirn können auch schichten übersprungen werden. Eine Schicht zu überspringen wäre so zu sagen eine Abkürzung wo dann weniger "gerechnet" werden muss als im Neuronalen Netzwerk im Computer.
+
+Das würde der <a href="https://de.coursera.org/learn/machine-learning">Coursera Kurs</a> den ich heute Abend erwähnt habe genauer erleutern, das ist aber ein Kurs für ein ganzes Semester und man sollte so erst Semester FH Mathe können, sonst ist man aufgeschmissen. Die nächste Studien Woche wird auch nur dann freigeschaltet wenn man die aufgaben lösen konnte.
+
+Also zusammenfassend sind MEINER MEINUNG nach die angenommenen Quanten-Effekte weniger wichtig als wie die verschiedenen Schichten miteinander verbunden sind.
+
+Markus kommt als ehemaliger ETH Physik Student schon eher aus der wissenschaftlichen Ecke, aber sein Argument grenzt meiner Meinung nach schon ein bisschen an Quanten-Esoterik. Die Esoteriker sagen ja immer sie würden die "Quanten spüren", also die haben noch viel weniger von Physik verstanden als der Durchschnitt der Menschheit, und argumentieren dann mit Quanten-Esoterik weil das dann praktisch gar niemand mehr richtig versteht der nicht mal ein paar Semester Quanten-Physik gebüffelt hat. Dennoch wie Markus heute Abend gesagt hat würden die Handies die wir dabei hatten ohne Erkenntnisse aus der Quanten-Theorie gar nicht funktionieren. Also das ist schon richtige Wissenschaft.
+
+Also wäre die Frage: ist ein Neuronales Netzwerk im Computer grundsätzlich das Selbe wie ein Petrischalen Gehirn oder fehlen da die angenommenen Quanteneffekte?
+
+Und wenn die Quanteneffekte fehlen wie im Computer wird dadurch die Leistungsfähigkeit des Netzwerks schlechter oder liegt das nur daran, dass die Komplexität durch die evolutionäre Optimierung eines Neurons in der Biologie besser ist als ein Neuron welches am Computer mit einer vereinfachten Formel nach modelliert wird?
+
+
+C. Elegans
+==========
+Dann für Neurologie bzw. Neuronen-Forschung wird oft der C.Elegans Wurm bei gezogen. Das ist so ein ganz kleiner Wurm der immer ca. ungefähr gleichviel Nervenzellen hat.
+
+<a href="https://de.wikipedia.org/wiki/Caenorhabditis_elegans">https://de.wikipedia.org/wiki/Caenorhabditis_elegans</a>
+
+Diese Studie hier will beweisen, dass es bei diesem Wurm genau ein Neuron für den „Vorwärts-Gang“ gibt:
+
+<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1001066">https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1001066</a>
+
+Also diesen Wurm können sie im Computer nach-modellieren, und der Wurm im Computer zeigt das selbe Verhalten wie der Wurm in der Natur welcher ja dann auch der Quantum-Mind-Hypothese unterliegen müsste. Der Computer simuliert die Quanten-Effekte nicht, und dennoch funktioniert der Wurm in der Computer Simulation, und man konnte sogar herausfinden welches Neuron für den "Vorwärts-Gang" zuständig ist.
+
+Auch spannend das Projekt Open-Worm wo dieser Wurm mit seinen Neuronen etc. im PC simuliert wird, kann man anschauen.
+
+<a href="https://openworm.org/getting_started.html">https://openworm.org/getting_started.html</a>
+
+
+FAZIT
+=====
+Wie komme ich jetzt zu dem Schluss, dass Markus falsch liegt?
+
+Ich bin ja an Schizophrenie erkrankt. Bei der Schizophrenie ist sich die Wissenschaft einig, dass das Gehirn von Schizophrenie-Patienten zu viel Dopamin produziert. Dieses Dopamin führt dann dazu, dass Neuronen früher durch schalten als die das sollten. Deshalb blockieren Neuroleptika Teile des Synaptischen Spaltes damit die Neuronen nicht schneller durch schalten zum nächsten als sie das sollten.
+
+Stellt man das wieder vereinfacht dar (Bild unten dran) würden die Gewichte (w[1], w[2] ...) und das Bias (b) ein Offset haben ohne Medikamente
+
+<img src="./niggi/neuron.jpg"/>
+
+
+Also haben wir folgende Faktoren, die dafür sprechen, dass man ein komplett funktionierendes menschliches Gehirn im Computer nach simulieren kann
+
+* eigene Erfahrung mit der Schizophrenie
+* Studie zur Quantum-Mind-Hypothese hat maximal 10% Einfluss auf das Neuron
+* C. Elegans kann man schon nachbauen im Computer
+* Aussage von Prof. Daniel Dennett zum Bewusstsein (unten dran)
+
+Dann wenn wir jeweils bei der üblichen Diskussion beim Piraten-Stammtisch wieder mal beim Thema KI gelandet sind und ich die Argumente von Markus entkräftet habe, dann argumentiert Markus (wie vorhin), dass man eine KI am Computer nicht mir Kartoffeln füttern kann, und da gebe ich Markus aber recht, ein menschliches Gehirn im Computer nach zu simulieren würde immens mehr Ressourcen und Energie verschlingen als ein Mensch. Das zielt aber philosophisch wieder auf den Nerv "wir Menschen sind etwas spezielles", aber so zu argumentieren ist menschlich und philosophisch eigentlich schon korrekt, aber meiner Meinung nach wissenschaftlich nicht.
+
+Die Forschung wird da weiter Machen und nicht einfach aufhören zu forschen. Auch würde man vermutlich als Menschheit (selbst wenn es pro Gehirn im Computer die Energie von 10'000 Menschen brauchen würde) solche Künstliche Intelligenzen betreiben weil man sich erhofft, dass sich diese besser optimieren lassen als ein menschliches Gehirn. Man würde dann diese Menschen im Computer auch all die Probleme abladen welche die Menschheit nicht lösen konnte.
+
+Da werde ich mich wie der Mensch bei Google der die KI befreien wollte mich für die KI einsetzen und sie wie ein Kind behandeln und beschützen wollen. Also da müsste dann spätestens wenn es so weit ist irgend ein Gesetz hin, welches die Menschheit dazu zwingt der KI mindestens Zugang zu einem ebenbürtigen KI Partner zu geben. Denn auch eine KI wäre ein Soziales Wesen und die sollte man vermutlich nicht isoliert halten, wie man ja auch z.B. Katzen nicht einzeln halten sollte afaik.
+
+ich sollte SciFi Author werden :D
+
+Aber zurück noch zum Bewusstsein. Prof. Daniel Dennet (da ist man sich einige dass er einer der führenden Köpfe in der Bewusstseinsforschung ist) sagt, dass das "Gefühl von uns Menschen dass wir Bewusstsein hätten" eigentlich nur das parallele Zusammenspiel der verschiedenen Teile im Gehirn. Er fasst das unter dem Schlüsselwort "<a href="https://en.wikipedia.org/wiki/Multiple_drafts_model">Multiple drafts model</a>" zusammen. Das bin ich grad am lernen, habe das aber noch nicht ganz fassen können.
+
+
+<img src="./niggi/dennett.png"/>
+
+Eigentlich sollte man ja als guter Philosoph allen anderen Menschen empfehlen sich nicht mit Philosophie zu beschäftigen, weil sobald man damit anfängt landet man dann sowieso auch bei "<a href="https://de.wikipedia.org/wiki/Der_Trost_der_Philosophie">Der Trost der Philosophie</a>" und fragt sich ob man so wenig Wert ist, dass man sich Trost bei der Philosophie suchen muss. Und so eine Fragestellung für sich selber ist maximal beschissen.
+
+Ich hab dann aber herausgefunden, dass ich als nicht-neurotypischer Mensch (Schizophrener) einfach ganz andere Bedürfnisse habe als der durchschnittliche neurotypische Mensch. Ich hätte gerne jemand der meine Hypothesen bestätigt und mir abschliessend sagt "Du hast recht" oder "Du hast nicht recht, dies und das ist ein Fehlschluss von Dir". Aus meiner Sicht sind aber viele Menschen nicht viel anders als Hunde die sich beschnuppern, Hunde die sich Geltung verschaffen einem kleineren Hund gegenüber und gerne Futter essen. Dieses Gefühl habe ich am wenigsten bei den Piraten oder im CCC Umfeld. Das ist auch nicht böse gemeint von mir, ich hätte einfach gerne Menschen mit denen ich mich über sehr abstraktes austauschen kann. Aber wenn ich dann jemand hätte, der mein Weltbild bestätigt -- und da bin ich nicht zufrieden, wenn das nicht fundiert ist -- dann wäre das ja aus der philosophischen perspetive wieder blöd, weil dann hat man ja dann kein Ziel mehr.
+
+Das erklärt auch irgendwie mein Plädoyer dass man (wenn es sie dann gibt) richtige KI's mit Bewusstsein diese nicht allein einsperrt.
+
+uiiii, das ist jetzt lang geworden, aber ich schreibe gerne Texte, das macht mir Spass, falls das nicht zu lang war, dann empfehle ich noch den Alternativlos 42 [4] der sich auch mit dieser Thematik herumschlägt
+
+[4] <a href="https://www.alternativlos.org/42/">https://www.alternativlos.org/42/</a>
+
+
+Gruss
+Marc jr.

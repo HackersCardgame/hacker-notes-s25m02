@@ -1,0 +1,71 @@
+The Genesis of Wheels
+
+A Look At How It All Came About
+
+Once upon a time, Maurice Randall bought a Commodore 64, and it came with a graphical operating
+system called GEOS. At first he had little to do with it. It seemed cumbersome and slow, and he didn't
+have much use for it. Of course, like most people early on, he only had one disk drive! GEOS is awful
+to use with a single drive. There really isn't much point in it. 
+
+Soon, he acquired a second drive, a 1581, and then he got a Commodore 1700 REU and found out
+that he could increase the capacity of this 128K ram expansion unit to 512K. He bought the chips and
+performed the operation. He began to take another look at that GEOS system and got so interested in
+it that he upgraded to GEOS 2.0. Soon afterward, he got a 128 and had to have GEOS for that. He
+was hooked. 
+
+Over the next several years, Maurice learned how to write GEOS programs, and he got quite familiar
+with the system. Back when he sent in his GEOS registration card, he filled out the little questionnaire
+that came with it. It asked what type of applications you would like to see developed for GEOS. He
+filled in a suggestion about a fax program. They probably had a good laugh back at Berkeley
+Softworks when they saw that one! Little did he know that he would someday create that piece of
+software himself. 
+
+A few years back, Maurice realized a need for something better in the way of disk drivers for GEOS.
+Sure, that was already done, Configure had disk drivers, and gateWay had disk drivers. But there was
+just something there that was missing. For one, the native driver support on the CMD devices was
+never perfected. The RAMLink was supported, but not really like it should be. There were RAMdisk
+drivers, but they could also be improved. 
+
+Maurice jumped in and started a new project. He began to study a couple of the existing drivers to see
+what there was that he didn't like. He saw there was room for improvement. So, he wrote his own
+variation of the drivers and adapted them to work on the CMD Hard Drive in the native partitions.
+Previously, only gateWay supported this type of driver. But Maurice had already created a user
+interface known as geoSHELL, and it was flexible enough to be used with any GEOS driver. Soon,
+Maurice had his own version of the native driver that he could use with geoSHELL and did not need
+gateWay to use it. GeoSHELL had the ability to install the drivers during bootup. He had to avoid using
+the Desktop, though, as it was written in such a way that it would only work with 1541, 1571, and
+1581 type devices. And it was really a cobble job making it work with 1581 drives. The Desktop failed
+to follow certain GEOS programming rules, which caused it to not work with the native driver. 
+
+Using the native drivers was nice, since subdirectories allowed better organization of files as well as
+making better use of the available space. Pretty soon Maurice did a version of the driver for the FD
+drive and then the RAMLink. But these drivers still were not perfect. Using native partitions within
+GEOS was difficult, not from a user standpoint, but from the actual design of the operating system. The
+biggest problem was that the block allocation map (BAM) couldn't be stored in memory, like GEOS
+has always done it. A native BAM can be as big as 8K. The BAM is what keeps track of the sectors
+that are in use on the disk. 
+
+Eventually, Maurice got the idea of replacing Configure. This only seemed logical since he had a small
+collection of disk drivers and it was Configure that has always stored and installed the drivers during
+bootup. But that also meant coming up with drivers for the other types of disk devices. This included
+the 41, 71, 81, and drivers for the FD, HD, and RAMLink using 1581 partitions. Then there was the
+41, 71, and 81 RAMdisks too. Maurice took the drivers he had created and modified certain parts that
+were specific to the type of device that the driver was to be used with. 
+
+Then a wild idea popped in his head. OK, now we've got a new Configure, but we could really use a
+new Desktop. Sure there's geoSHELL, but a good Desktop was still needed. He had started on
+something like that a few years ago and never finished it. It was called Dashboard and was to be
+released for the 128. Maurice dug out the source code to it and started modifying it and changing things
+until he came up with something even better. 
+
+One thing led to another, and another, and another. Before you knew it, Maurice was working on
+upgrading the whole darn operating system. So, what began as a rather simple project of studying the
+problems in one disk driver, led up to a rather major undertaking. Maurice created an operating system
+with the feel of the old GEOS in many ways, but with a whole fresh new look to it and many new
+possibilities buried within. 
+
+This material is Copyright 1997 by Maurice Randall. It may be reproduced without permission by any
+recognized Commodore User Group.
+
+(Via the Commodore Information Center http://home.att.net/~rmestel/commodore.html)
+

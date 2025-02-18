@@ -1,0 +1,8 @@
+
+immer wenn man alleine ist werden etwa 10 threads geöffnet, post, störung, schalter etc.
+
+ineffizient, dann muss es bis spät abends abgearbeitet werden...
+
+
+
+

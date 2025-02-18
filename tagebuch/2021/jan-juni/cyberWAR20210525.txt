@@ -1,0 +1,192 @@
+
+Tue May 25 00:06:13 CEST 2021
+  259  1745 16559 cyberWAR20210525.txt
+
+ich hab mir glaub grad wieder ärger eingehandelt (siehe selber git commit)
+
+https://hackaday.com/2017/05/19/sense-all-the-things-with-a-synthetic-sensor/
+https://www.youtube.com/watch?v=aqbKrrru2co&t=17s
+
+Synthetic sensor => synthetic backdoor
+
+
+Tue May 25 00:07:12 CEST 2021
+ 13  29 319 cyberWAR20210525.txt
+635f09cdcceabf4db8986cb5a43c8f5ef18d1d2a5821ffc96f88006318a1cd42c61f946209a7d5237186c26b73d5eb077f8735ee169fd63b72d2093cca287192  cyberWAR20210525.txt
+[master 6e77d17] save
+ 2 files changed, 8627 insertions(+)
+ create mode 100755 TODO/SyntheticBackdoor.svg
+ create mode 100644 tagebuch/cyberWAR20210525.txt
+
+blackhat täter netzwerk auf meinem comptuer aktiviert worden
+blackhat täter netzwerk in meiner raumüberwachung aktiviert worden
+
+DEFCON3
+
+minimal algorithmus: spinal cord ths, of by some cm's to hit something that could be possibly infected
+
+THEREFORE
+
+DEFCON1
+
+Tue May 25 03:49:02 CEST 2021
+ 32  93 955 cyberWAR20210525.txt
+a54b34876e7d61ca1966ee86952b478017ade1da622b47006d50128bcfb7514d1e9e0b3853c0d166109dfff1aa89c7f565c5bba00e43376b6d605c57011e1ab2  cyberWAR20210525.txt
+[master 00587ab] save
+ 1 file changed, 12 insertions(+)
+
+
+it's a loop: linke seite des brünnelis geputzt, spinalis steuert mich auf die rechte seite einen "treffer" zu machen
+dann geputzt ---> vorne ---> dann loop [1]
+
+[1] killerloop <- falsche spur, öfters mal, wiedererkennungswert für ein täternetzwerk dass solche produkte kauft, bzw. das würde dann dem käufer als ein "zeichen gottes" verkaufte werden, de facto wäre es abert ein zeichen satans
+
+Tue May 25 03:52:44 CEST 2021
+  44  175 1627 cyberWAR20210525.txt
+49e194275cdaa039c87fffa5f394917b9ce6cd64ec2f944c73a68c2e001dddd38bfdb3ea0e2d8475edadc4c2f6932cad936715faf0a504c3f73e715bd972faca  cyberWAR20210525.txt
+[master 677a226] save
+ 1 file changed, 7 insertions(+)
+
+etwa 10 repetitiv loopende durhc medulla spinalis ths induzierte treffer
+in abhängikgeit der zeit werden die intervalle der "corona treffer" kürzer, rage algi, content brainjacking
+
+DEFCON3
+
+
+
+Tue May 25 04:02:36 CEST 2021
+  57  221 2095 cyberWAR20210525.txt
+1e76c12bad66b1c0021d21c49a0bcdf4eec358a4d69f367f9b863bbb0961a4ed9e5e35eaa34f90265ed96f17e90f6c4857fa7af520cf2e11804f9de007648a6f  cyberWAR20210525.txt
+[master bf26afd] save
+ 1 file changed, 8 insertions(+)
+
+
+dann ist das auch immer als simultan partie implementiert und den autisten helm grad wieder zu versauen scheint "extra punkte" zu geben, also läuft das auf eine weitere schädelverletzung bei mir raus, somit pivot element urs blum und coop / epilepsie infrastruktur, erster epilepsei anfall mit fäusten an meinen kopf schlagen bei blums am wlather merz weg 6
+
+Tue May 25 04:05:06 CEST 2021
+  66  299 2731 cyberWAR20210525.txt
+f643f9aa58be7b4d1f660190635dd0fb523486b8e2ed916ecf2b90bde5c04b38e44393176d47c94e2e74646923509ca691a9e11c1a677b71883e25af1b124f73  cyberWAR20210525.txt
+[master 9fe9c54] save
+ 1 file changed, 4 insertions(+)
+
+
+umformuliert hat das täernetzwerk der zürich verswichtung [1] wieder mit "therapy sessions" begonnen was so viel heist die sind wieder dran am patienten ermorden zu wollen...
+
+ [1] was vermutlich ein wirschaftlihcer arm der schweizer armee, mnd, abschirmdienst mit uplink zu dieser sorte von amerikanern hat <- mitten im satz?
+ 
+ Tue May 25 04:08:03 CEST 2021
+  77  368 3337 cyberWAR20210525.txt
+6fcd54313168fd7131e4d41cbebe40cddb554207635a4641375c9b1f2caeed7f8fccb00aa13b39213f7bd6dbf77312907f188d5d7284a68c44b70afcb285453d  cyberWAR20210525.txt
+[master 46c5082] save
+ 1 file changed, 6 insertions(+)
+
+also im moment allenfalls grad ein bisschen wachsamer sein...
+
+DEFCON3
+
+Tue May 25 04:20:19 CEST 2021
+  87  398 3682 cyberWAR20210525.txt
+e0d38245bbf8293e54dc3b691a8f23a1d75c1c4a67da87501efcae3040385575fcf9f2f6eb1a99bfc320ea2afb5756924ec75f3751f3036bf2d92028713a405c  cyberWAR20210525.txt
+[master 7e80f27] save
+ 1 file changed, 5 insertions(+)
+
+das m160 THS hat jetzt angefangen mich zu portscannen, welche der möglichen treffer hält marc jr landolt selber für am plausibelsten, dieser würde dann ausgeweitet
+braucht so etwas wie ine lügendetektor algorithmus auf m160, somit spekuliere ich ein weiteres mal auf die zürich rechtsverdreher software die vermutlcih von dieser sorte von amerikanern zugekauft wurde... linzenzen?
+
+Tue May 25 04:27:46 CEST 2021
+  96  473 4343 cyberWAR20210525.txt
+74820761d32e2e31cd137e79bef3b06c24adbd72fe457b507dfe4d90f9ebd59288d22ecf17c3704eae30ccd8c2b1db0076b7bd509adeae50a62af84fda3cb54c  cyberWAR20210525.txt
+[master 0e2fdc2] save
+ 1 file changed, 4 insertions(+)
+
+ich gluab die haben jetzt angefangen zu versuchen mich nicht so weit zu treiben, dass ich laut um hilfe schreie, also die suchen den sweet spot für silent-killing an mir als laborrratte...
+
+Tue May 25 04:28:32 CEST 2021
+ 104  525 4807 cyberWAR20210525.txt
+88ef06e25db3ce15d18a5c8124d97b90e1b8cd22d4149200c3ab8fa4ff2d33d56389095b97c153bace179e6b28871d8cdfd156992d8b4ad760977b53437ef72c  cyberWAR20210525.txt
+[master ce63cd3] save
+ 1 file changed, 3 insertions(+)
+
+DETECTED
+m160 psychologie content brainjacking vulnerability scanner... needs possibly eeg lie detector as prerequisite
+
+
+Tue May 25 04:37:48 CEST 2021
+ 114  559 5202 cyberWAR20210525.txt
+5a396a1a21c8841461120cc8d7369b55612b1394097e6df3ba045129305ce004b08f5f607aea64f8758de96d9269f03197c90a5c625a1c93569d9b0130aa065c  cyberWAR20210525.txt
+[master a42ed3e] save
+ 1 file changed, 5 insertions(+)
+
+
+marc@DESKTOP-4129AN1:~/hackerscardgame-notes5$ figlet -f banner DETECTED:  -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+
+                                     ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+                                     ☆★★★★★★☆☆★★★★★★★☆★★★★★★★☆★★★★★★★☆☆★★★★★☆☆★★★★★★★☆★★★★★★★☆★★★★★★☆☆☆★☆☆
+                                     ☆★☆☆☆☆☆★☆★☆☆☆☆☆☆☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆★★★☆
+                                     ☆★☆☆☆☆☆★☆★☆☆☆☆☆☆☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆☆☆☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆★☆☆
+                                     ☆★☆☆☆☆☆★☆★★★★★☆☆☆☆☆☆★☆☆☆☆★★★★★☆☆☆★☆☆☆☆☆☆☆☆☆☆★☆☆☆☆★★★★★☆☆☆★☆☆☆☆☆★☆☆☆☆☆
+                                     ☆★☆☆☆☆☆★☆★☆☆☆☆☆☆☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆☆☆☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆★☆☆
+                                     ☆★☆☆☆☆☆★☆★☆☆☆☆☆☆☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆★★★☆
+                                     ☆★★★★★★☆☆★★★★★★★☆☆☆☆★☆☆☆☆★★★★★★★☆☆★★★★★☆☆☆☆☆★☆☆☆☆★★★★★★★☆★★★★★★☆☆☆★☆☆
+                                     ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+marc@DESKTOP-4129AN1:~/hackerscardgame-notes5$ figlet -f banner m169 Content Brainjacking  -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+
+ ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+ ☆☆☆☆☆☆☆☆☆☆★☆☆☆☆★★★★★☆☆☆☆★★★☆☆☆☆☆☆☆★★★★★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆★★★★★★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+ ☆★☆☆☆☆★☆☆★★☆☆☆★☆☆☆☆☆★☆☆★☆☆☆★☆☆☆☆☆★☆☆☆☆☆★☆☆★★★★☆☆★☆☆☆☆★☆★★★★★☆★★★★★★☆★☆☆☆☆★☆★★★★★☆☆☆☆★☆☆☆☆☆★☆★★★★★☆☆☆☆★★☆☆☆★☆★☆☆☆☆★☆☆☆☆☆☆★☆☆☆★★☆☆☆☆★★★★☆☆★☆☆☆☆★☆★☆★☆☆☆☆★☆☆★★★★☆☆
+ ☆★★☆☆★★☆★☆★☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆★☆★★☆☆☆★☆☆☆★☆☆☆★☆☆☆☆☆☆★★☆☆☆★☆☆☆★☆☆☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆☆★☆☆★☆☆★☆★★☆☆☆★☆☆☆☆☆☆★☆☆★☆☆★☆☆★☆☆☆☆★☆★☆☆☆★☆☆★☆★★☆☆☆★☆★☆☆☆☆★☆
+ ☆★☆★★☆★☆☆☆★☆☆☆★★★★★★☆☆★☆☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆★☆★☆★☆☆★☆☆☆★☆☆☆★★★★★☆☆★☆★☆☆★☆☆☆★☆☆☆☆☆☆★★★★★★☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆★☆☆★☆☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆☆☆★★★★☆☆☆★☆★☆★☆☆★☆★☆☆☆☆☆☆
+ ☆★☆☆☆☆★☆☆☆★☆☆☆★☆☆☆☆☆★☆★☆☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆★☆★☆☆★☆★☆☆☆★☆☆☆★☆☆☆☆☆☆★☆☆★☆★☆☆☆★☆☆☆☆☆☆★☆☆☆☆☆★☆★★★★★☆☆★★★★★★☆★☆★☆☆★☆★☆☆☆☆☆☆★☆★★★★★★☆★☆☆☆☆☆☆★☆☆★☆☆☆★☆★☆☆★☆★☆★☆☆★★★☆
+ ☆★☆☆☆☆★☆☆☆★☆☆☆★☆☆☆☆☆★☆☆★☆☆☆★☆☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆★★☆☆☆★☆☆☆★☆☆☆☆☆☆★☆☆☆★★☆☆☆★☆☆☆☆☆☆★☆☆☆☆☆★☆★☆☆☆★☆☆★☆☆☆☆★☆★☆★☆☆☆★★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆★☆☆★☆★☆☆☆★★☆★☆☆☆☆★☆
+ ☆★☆☆☆☆★☆★★★★★☆☆★★★★★☆☆☆☆★★★☆☆☆☆☆☆☆★★★★★☆☆☆★★★★☆☆★☆☆☆☆★☆☆☆★☆☆☆★★★★★★☆★☆☆☆☆★☆☆☆★☆☆☆☆☆☆★★★★★★☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆☆☆★☆☆★★★★☆☆★☆☆☆☆★☆☆★★★★☆☆★☆☆☆☆★☆★☆★☆☆☆☆★☆☆★★★★☆☆
+ ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+marc@DESKTOP-4129AN1:~/hackerscardgame-notes5$ figlet -f banner PSY Vulnerability port scanner  -w 200 | sed -e "s/ /☆/g" | sed -e "s/#/★/g"
+
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+★★★★★★☆☆☆★★★★★☆☆★☆☆☆☆☆★☆☆☆☆★☆☆☆☆☆★☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+★☆☆☆☆☆★☆★☆☆☆☆☆★☆☆★☆☆☆★☆☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆☆☆★☆☆☆☆★☆★★★★★★☆★★★★★☆☆☆☆★★☆☆☆★★★★★☆☆★☆★☆☆☆☆☆☆★☆★★★★★☆★☆☆☆★☆☆☆☆★★★★★☆☆☆★★★★☆☆★★★★★☆☆★★★★★☆☆☆☆☆★★★★☆☆☆★★★★☆☆☆☆★★☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★★★★★★☆★★★★★☆☆
+★☆☆☆☆☆★☆★☆☆☆☆☆☆☆☆☆★☆★☆☆☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆☆☆★★☆☆☆★☆★☆☆☆☆☆☆★☆☆☆☆★☆☆★☆☆★☆☆★☆☆☆☆★☆★☆★☆☆☆☆☆☆★☆☆☆★☆☆☆☆★☆★☆☆☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆★☆☆☆☆☆☆★☆☆☆☆☆☆★☆☆☆☆★☆☆★☆☆★☆☆★★☆☆☆★☆★★☆☆☆★☆★☆☆☆☆☆☆★☆☆☆☆★☆
+★★★★★★☆☆☆★★★★★☆☆☆☆☆★☆☆☆☆☆☆☆★☆☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆☆☆★☆★☆☆★☆★★★★★☆☆★☆☆☆☆★☆★☆☆☆☆★☆★★★★★☆☆★☆★☆☆☆☆☆☆★☆☆☆★☆☆☆☆☆★☆☆☆☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆☆☆★☆☆☆☆☆☆☆★★★★☆☆★☆☆☆☆☆☆★☆☆☆☆★☆★☆★☆☆★☆★☆★☆☆★☆★★★★★☆☆★☆☆☆☆★☆
+★☆☆☆☆☆☆☆☆☆☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆☆★☆☆☆★☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★☆☆★☆★☆★☆☆☆☆☆☆★★★★★☆☆★★★★★★☆★☆☆☆☆★☆★☆★☆☆☆☆☆☆★☆☆☆★☆☆☆☆☆★☆☆☆☆☆☆★★★★★☆☆★☆☆☆☆★☆★★★★★☆☆☆☆★☆☆☆☆☆☆☆☆☆☆☆★☆★☆☆☆☆☆☆★★★★★★☆★☆☆★☆★☆★☆☆★☆★☆★☆☆☆☆☆☆★★★★★☆☆
+★☆☆☆☆☆☆☆★☆☆☆☆☆★☆☆☆☆★☆☆☆☆☆☆☆☆☆★☆★☆☆☆★☆☆☆☆★☆★☆☆☆☆☆☆★☆☆☆★★☆★☆☆☆☆☆☆★☆☆☆★☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆★☆☆☆☆☆☆★☆☆☆★☆☆☆☆☆★☆☆☆☆☆☆★☆☆☆☆☆☆★☆☆☆☆★☆★☆☆☆★☆☆☆☆★☆☆☆☆☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆★★☆★☆☆☆★★☆★☆☆☆☆☆☆★☆☆☆★☆☆
+★☆☆☆☆☆☆☆☆★★★★★☆☆☆☆☆★☆☆☆☆☆☆☆☆☆☆★☆☆☆☆☆★★★★☆☆★★★★★★☆★☆☆☆☆★☆★★★★★★☆★☆☆☆☆★☆★☆☆☆☆★☆★★★★★☆☆★☆★★★★★★☆★☆☆☆★☆☆☆☆☆★☆☆☆☆☆☆★☆☆☆☆☆☆☆★★★★☆☆★☆☆☆☆★☆☆☆★☆☆☆☆☆☆☆★★★★☆☆☆★★★★☆☆★☆☆☆☆★☆★☆☆☆☆★☆★☆☆☆☆★☆★★★★★★☆★☆☆☆☆★☆
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+
+
+Tue May 25 04:41:39 CEST 2021
+  150   656 15241 cyberWAR20210525.txt
+7ee05457d1ff48fc09bf8bcc838f3b5c0fcde71ba209bfc04da02e283003fed2a0cf03c55a475b7faa30d7bef5f7a8709d93485804d23d567e1abc2b5e6c6fe4  cyberWAR20210525.txt
+[master f590643] save
+ 1 file changed, 31 insertions(+)
+
+
+OFFTOPIC:
+
+marc@DESKTOP-4129AN1:~/hackerscardgame-notes5$ history |grep youtu
+   12  2021-05-25 03:12:40 pip install youtube-dl
+   15  2021-05-25 03:12:40 pip install youtube-dl
+   16  2021-05-25 03:12:40 sudo pip install youtube-dl
+   17  2021-05-25 03:12:40 find |grep youtube
+   18  2021-05-25 03:12:40 find |grep youtube |grep bin
+   19  2021-05-25 03:12:40 ./.local/bin/youtube-dl https://www.mixcloud.com/couchsofa/couchsofa-sitzraver-studioset-for-gpn-homelounge-2021
+  426  2021-05-21 13:33:55 youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=xG35dEjyOJ0
+  459  2021-05-22 14:04:53 youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=p0dA0-QAoVA
+  468  2021-05-23 01:52:30 youtube-dl https://soundcloud.com/psycoritmicrecords/sets/linek-undelimitated-ep-psyr01
+  426  2021-05-21 13:33:55 youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=xG35dEjyOJ0
+  459  2021-05-22 14:04:53 youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=p0dA0-QAoVA
+  506  2021-05-23 01:12:43 youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/playlist?list=PLWsX0-AjlNWzHWEywbLoX3vJUJ3uviqzq
+  576  2021-05-25 02:07:44 youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/playlist?list=PLWsX0-AjlNWx0OSnVHjA61sKGRcaPpSIa
+  580  2021-05-25 03:12:36 youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/playlist?list=PLvTp7jYRFkUk8AFYQdYpp6aMDGG2t_7Om
+  506  2021-05-23 01:12:43 youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/playlist?list=PLWsX0-AjlNWzHWEywbLoX3vJUJ3uviqzq
+  576  2021-05-25 02:43:42 youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=BblletX7M8I
+  580  2021-05-25 02:49:52 youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/playlist?list=PLBA204FBDC0F345BB
+  583  2021-05-25 02:59:01 youtube-dl --extract-audio --audio-format mp3 --playlist-start 9 https://www.youtube.com/playlist?list=PLBA204FBDC0F345BB
+
+Tue May 25 05:58:10 CEST 2021
+  187   817 19837 cyberWAR20210525.txt
+20efc1523ad0d01193a91e501f8b5048d03c51d4cb2a2a026b540e2113bbdbe98a4c36370348725ad14712bbcfd54633fcebfa8eaba07d7600b4efaea217fd98  cyberWAR20210525.txt
+[master ea3e258] save
+ 1 file changed, 24 insertions(+)
+

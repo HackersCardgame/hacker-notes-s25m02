@@ -1,0 +1,658 @@
+Inyerface
+Somewhere Out West; April 1 2000
+Taking 8 Bucks to the Movies
+
+"What, me worry?" 
+--Maharishi Aeneuman
+
+
+Contents:
+
+More Apple Lawsuits
+A Tale of Two Toasters 
+Editor: The Return of Inyerface
+Measurement Conversions 
+Commodore Pix on the PC
+UPPER and Lower Case
+President: Giving it Up for C= 
+Retroactivism  
+Rounding Decimals 
+
+
+More Computer Company Lawsuits
+
+by Andrew Smith 
+
+Apple Computers of Cupertino has announced today that they will bring suit against anyone using 
+the set of characters known as the alphabet as they are of the opinion that the alphabet is covered 
+under several of Apple's patents issued in 1978. Attorneys for the company refused comment when 
+questioned on the rumors that Apple was investigating the feasibility of pursuing users of the 
+Arabic numeral set.  One highly placed Apple source stated that the company would aggressively 
+pursue infringers of Apple patents, however minor the infraction. 
+
+In other news today, McDonalds and Apple both filed suit against each other in different venus 
+regarding the trademark "Mc" and "Mac."  It is McDonald's position that Apple be enjoined from 
+using the trademark "Mac" as it is too similar to McDonalds own trademark "Mc" and that people 
+may confuse Apple products with McDonald's products.  Attorneys for McDonalds were especially 
+concerned with the possibilities inherent in the confusion of McDonald's "BIG MAC" and Apple's 
+"MAC PLUS." Said one, "Can you imagine  the lawsuit possibilities  if a McDonalds customer 
+were to break some teeth biting down on a MAC PLUS?"
+   
+In another court, Apple lawyers moved to prevent McDonalds from using the "Mc" trademark 
+because it was too similar to Apple's own "Mac" trademark and that customers may confuse the 
+two companies' products.  Of particular concern to Apple attorneys was the possible confusion 
+between McDonald's "BIG MAC" and Apple's "MAC PLUS."  Said an attorney for Apple, "Can 
+you imagine the damage that might be done if a user were to attempt to load a $750 copy of 
+Pagemaker into a BIG MAC?"
+   
+Both Apple and McDonalds refused comment on the other's lawsuits beyond the regret that ours is 
+such a litigious society.
+
+
+Toaster Comparisons
+
+by Dick Estel
+
+Users of the Commodore Amiga are excited these days about the Video Toaster.  This product 
+allows the control of video and graphic effects, such as wipes, dissolves and other visual magic.  
+Before the arrival of the Toaster, equipment to accomplish these tasks was priced in the range of 
+$10,000 and up.  The toaster costs around $1500.
+   
+As a Commodore 64/128 user, I cannot use the Video Toaster, but I have achieved good results for 
+several years with the Toastmaster toaster.  I thought a comparison would be useful.
+   
+Probably the biggest advantage of the Toastmaster is that it does not have to be connected to a 
+computer.  In fact, it is a stand alone device which accomplishes its work without peripherals or 
+even software (unless you call bread software).
+   
+The Toastmaster allows control of the visual appearance and texture of the final product, with a 
+range from soft light brown to board-hard black.  When it was new, the Toastmaster had an 
+automatic control for this, and when the program had finished its work, the finished product popped 
+out magically.
+   
+Due to wear and tear and old age, my Toastmaster has lost its popping ability, and currently 
+requires the placement of a heavy object on the up/down lever in order to avoid premature ejection.  
+This also necessitates intensive manual controls (watching it like a hawk) to prevent undesirable 
+results.
+   
+While it is true that the Video Toaster produces a wider range of colors and effects than the 
+Toastmaster, the latter costs only one percent of what one has to pay for the VT.  Overall I am 
+satisfied with my toaster, and although it won't connect to my Commodore, I am confident that 
+Doug or Del could build an interface for me.
+
+(Circa 1990)
+
+
+What the Editor Did
+
+The editor, having grown increasingly lazy (although gaining in wisdom and charm), recycled the 
+graphics and most of the text for these two pages from the early 90's.
+
+The first April Fool edition of Inyerface appeared in 1990, followed by a second and final 
+appearance in 1991.
+
+By the way, your fly is unzipped. Made ya look!
+
+--Rick Mason (the editor's biographer)
+
+
+Measurement Conversions
+
+10*12 microphones = 1 megaphone
+10*12 pins = 1 terrapin
+10*21 piccolos = 1 gigolo
+10 rations = 1 decoration
+10 millipedes = 1 centipede
+1 centipede/second = 1 velocipede
+3 1/3 tridents = 1 decadent
+10*6 bicycles = 2 megacycles
+10 monologues = 5 dialogues
+10^ -18 boys = 1 atta boy
+10^ 9 goats = 1 nanogoat
+2*10^ 3 mocking birds = 2 kilo mockingbird
+10*5 dollars = 1 Millicent
+2*10*3 millinaries = 4 seminaries
+1 milli-Helen = the amount of beauty required to launch one ship
+
+(from SCOPE, Society of Computer Owners and PET Enthusiasts, Dallas-Fort Worth TX, 1/90)
+
+
+The Interface
+
+Commodore Pictures Visible on PC
+
+by Dick Estel
+
+February 26, 2000: Today I achieved a goal I have been wanting to accomplish for about three 
+years: I watched a picture that I had scanned on the Commodore appear on my PC.
+
+I had asked some people how to do this a couple of years ago, but the steps they described required 
+going through several different formats, and the effort seemed too much with everything else I have 
+to do.
+
+In late February I posted the question to the Commodore MaiLink list, and received a number of 
+replies within a few hours. Several people suggested using Jim Collette's geoPCX, a program I 
+already had. This program should convert geoPaint files and GEOS albums to the PCX format, 
+which can be read by nearly any PC graphic program in use today.
+
+Jeff Adolph and I had tested this program when I first downloaded it from Q-Link about eight years 
+ago. We accomplished the file format transfer via the club BBS. To the best of my memory, I sent 
+GEOS files that had been changed to CBM SEQ format with the GEOS program Convert. He then 
+used geoPCX and successfully converted an album of photos.
+
+I had tried geoPCX, but it would not run on the PC, either under Windows or from DOS. After 
+posting my question, I was told that it runs in GEOS. However, I question this. My memory is 
+pretty good, and I am 87% sure it is intended to run on a PC (or at least an old PC from the early 
+90's before Windows).
+I tried converting it to GEOS, with no success. I tried running it from BASIC, again with no luck. 
+So I proceeded to plan B, which was to download several conversion programs from C64 Com 
+(http://www.c64.com). Among the items offered are tools for use in moving between PC and C=, 
+and the program that did the job is CBM2BMP, found at 
+http://www.fairlight.to/tools/pc.html.
+
+After converting geoPaint files to CBM SEQ files, and transferring them to a PC readable disk via 
+Big Blue Reader, I ran this program, and was presented with a simple interface. Shortly after I 
+clicked on LOAD CBM, my picture started to appear. I then clicked on SAVE BMP and voila! it is 
+available for further manipulation.
+
+I found that my usual photo editing program, ArcSoft Photo Studio, did not recognize this bitmap 
+(BMP) format; however, my premier graphic viewer, ACDSee loaded and converted the files to 
+.JPG. Now if we wanted to get carried away, we could use one of the new JPG converters for 
+Commodore to get the file back into a non-GEOS Commodore format!
+
+All of the above took place on my Compaq Presario. A few days later I got a partly-new 
+"homemade" PC from a friend at work (we put the Zip drive and CD-ROM drive from the Compaq 
+into this one). When I started to convert another batch of geoPaint files, I got an unpleasant 
+surprise.
+
+When CBM2BMP converts a file, it displays a view of it, about half the normal size. During 
+conversion, the display was broken up into pieces like one of those computer picture puzzles. The 
+saved file was not scrambled, but the bottom 20% was missing. I tried converting some of the files 
+I had originally done, and had the same problem.
+
+Since I had set up my Compaq with an old monitor I had around, I went back and tried the program 
+on it...and everything worked fine. The new one has the same operating system and virtually the 
+same software, but there is something about it that CBM2BMP does not like. Email to the author 
+has gone unanswered so far.
+
+Looking for an alternative, I downloaded ConGo, a highly touted program that allows a lot of 
+manipulation of graphics, and converts both ways. With little documentation, it took a while to 
+figure out how to use it, but once I did, it converted the files but not cleanly. Around the edges of 
+each image or text object, there is what looks like a shimmering effect (in fact it's just a few extra 
+grey pixels). Email to the author brought the suggestion to save as BMP files instead of JPG. I did 
+this; then saved the BMP as JPG in a photo editing program, and got a clean conversion. This 
+program also successfully converted color Koala files and a color geoPaint file.
+
+The graphics throughout the newsletter are converted from pictures I scanned into the Commodore 
+with the Handyscanner, then converted to geoPaint.
+
+To see more such pictures, visit http://home.att.net/~rmestel/geos.html (you must have a graphical 
+web browser). (Commodore users can get these scanned files from me in GEOS format for a 
+modest price.)
+
+
+ALL CAPS VS. UPPER/lower CASE
+
+by Rolf Miller
+
+Correspondence is occasionally seen typed in all caps. In fact, several variously named fonts 
+substitute smaller upper case letters in place of the normal lower case characters. When those who 
+use all upper case letters are asked why the preference, the answer usually reflects the idea that it's 
+easier to read. 
+
+Those who read for a living disagree with them. Publications that accept manuscripts for 
+consideration have editors who read submissions. However, these publications have Writer's 
+Guidelines detailing form. Material that does not follow those guidelines is rejected forthwith. One 
+of the requirements invariably found in Writer's Guidelines is: use normal fonts, preferably Pica, 
+though Elite is acceptable. Also undesirable is dot-matrix printing. Material submitted using script 
+or other unorthodox fonts, and all upper case letters are rejected. The reason given is readability. A 
+study of the evolution of writing finds that the development of lower case letters is rather recent. 
+Upper case characters used to be the norm. And it's thought that readability is what prompted 
+creation of the lower case alphabet. Simply, it is easier for the eye to recognize words using lower 
+case characters. While letters are distinguished by their shape, a look at the upper case alphabet 
+sees that all letters fill the same vertical space.
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+THUS, WORDS TYPED IN UPPER CASE POSSESS NO DISTINCTION AS VIEWED ON THE 
+VERTICAL PLANE. CONSEQUENTLY, IN DECIPHERING WORDS TYPED IN CAPS, THE 
+EYE IS LIMITED TO THE SHAPE OF THE INDIVIDUAL LETTERS.
+
+A look at the lower case alphabet sees that all characters do not occupy the same vertical space.
+
+abcdefghijklmnopqrstuvwxyz
+
+As a result, words typed in lower case not only possess distinctive characters, but the varying 
+vertical dimensions often gives words a look all their own. Consequently, in addition to the shape 
+of characters, the eye also learns to recognize the distinctive appearance of lower case words.
+
+(From Civic 64/128, August 1999)
+
+
+C=Scape
+
+By Robert Bernardo
+
+"O.K., I want you to lie in the middle of the road."
+
+I looked incredulously at Chris Beck, the Wired photographer who had come from New York City. 
+"O.K.!" I replied, and I obeyed his order. From my sitting position on the asphalt, I lay down 
+full-length upon the cold, slightly damp asphalt of the street. Ah, the things I do to promote 
+Commodore!
+
+It all started back on October 2 and 3 at the Santa Clara Convention Center. I was attending the 
+Vintage Computer Festival, manning a table there for the Fresno Commodore User Group. With me 
+on that first day were Ed Hart, president of the Fremont-Union City-Newark-Hayward User Group, 
+and Todd Elliott, programmer of demos, utilities, and GEOS enhancements. It was the first time 
+that we had a table at the show, and I had come with many things to demonstrate in front of the 
+crowd --Wheels, the SuperCPU, Loadstar, various European demos, and various 
+magazines/newsletters, like GO64!, Commodore Scene, Commodore Zone, the Interface, and 
+C=Voyages. I had brought a C128D set-up, a C64 set-up, a European Plus/4 set-up, and a European 
+C128D. Todd had brought his high-powered C128D system, complete with CMD HD, FD-4000, 
+RAMLink, and SuperCPU, while Ed had brought various disks and a SX-64.
+
+Morning discussion sessions were held in the meeting rooms upstairs, and when they were over, 
+then the doors of our "flea market" room would be opened. When the doors finally opened at 2 
+p.m., to our surprise, hundreds of people poured through. We had the enviable position of being the 
+first table by the door, and everyone seemed to stop at ours first. Overwhelmed, Todd, Ed, and I 
+tried to answer all of the questions of the people who were lining up.
+
+"What's that?"
+
+"That's a SuperCPU. It's a 20 mhz. accelerator for the Commodore."
+
+"Could I buy one here?"
+
+"Uh, sorry... you'll have to buy it from Creative Micro Designs. We're just a demonstration table. 
+...But here's their catalog, and here's a membership application for our club."
+
+"What's that?"
+
+"It's a hard drive for the Commodore."
+
+"I didn't know there were hard drives for the Commodore. Can I buy it?"
+
+"Uh, sorry... you'll have to buy it from Creative Micro Designs. We're just a demonstration table. 
+...But here's their catalog, and here's a membership application for our club."
+
+"What's that? It looks like the Amiga desktop or Atari desktop."
+
+"It's Wheels for the Commodore 64/128. It's the operating system upgrade for GEOS 64/128."
+
+"Could I buy it here?"
+
+"Uh, sorry... you'll have to buy it from Maurice Randall, the creator of it. We're just a 
+demonstration table. ...But here's his address, and here's a membership application for our club."
+
+"What's that?"
+
+"That's a SX-64. It's a transportable C64, disk drive, and monitor."
+
+"We didn't know that was made. Can we buy it?"
+
+"You'll have to talk to Ed over there. That's his machine."
+
+"What's that?"
+
+"That's CAD-M, a multi-color CAD program for the Commodore 64."
+
+"Is it for sale here?"
+
+"Uh, sorry... you'll have to buy it from Loadstar. It was on issue #150. We're just a demonstration 
+table. ...But here's Fender Tucker's address, and here's a membership application for our club."
+
+Along with the slew of interested new and veteran fans came the reporters. A reporter and video 
+cameraman from the magazine, Dr. Dobb's Journal. A reporter and photographer from Shift 
+magazine. A reporter from Wired magazine. Dr. Dobb's was first up...
+
+"Look straight at the camera. What made you come to the Vintage Computer Festival?"
+
+"We came to promote Commodore 8-bit computing to the public. ...That we're still around. ...That 
+our club is the strongest in the South San Joaquin Valley."
+
+"No, don't look at me. Look at the camera. Why do you still use a Commodore?"
+
+The questions kept coming. Then a little while later came the Shift reporter.
+
+"Why did you come to the Vintage Computer Festival?"
+
+I gave the same answer that was given to Dr. Dobb's Journal.
+
+"Why are you still into Commodore gaming?"
+
+Huh, a new question! And one that I wasn't prepared for.
+
+"Well, it brings back a time when things were more innocent, when all you had to do was..."
+
+I was reaching for answers off the top of my head. I wasn't really an intense gamer, but the reporter 
+kept asking me gaming questions. Looking for a way out, I finally sent her off to Ed. (Sorry, Ed!) 
+The Shift photographer took out his Hasseblad and wanted a few pictures of me. Well, at least, I 
+thought it was going to be a few.
+
+"Put your arms down to the side. Look at the camera. O.K., good. Now look over the camera. O.K.. 
+Now look to the left. Good. Now look to the right. O.K.. Don't smile. Look serious. Good. Now 
+cross your arms. Look straight at the camera..."
+
+Ay-yi-yi, he took more and more. Finally, he finished and went on his way to photograph other 
+attendees at the show.
+
+The Wired reporter was last. Basically, he had the same questions as the other reporters, and I gave 
+him the same answers, well-practiced by now. Satisfied, he departed, and I breathed a sigh of relief 
+that the reporters had gone. Now I go back to demoing the software/hardware to the crowd and talk 
+a bit more to Ed and Todd before they left for the day.
+
+Sunday was quieter. About half as many people came into the flea market room as the previous 
+day. Clark Murphy from FUNHUG had come to help me out that day, Ed having gone to attend 
+some other computer show and Todd having to return to Southern California. The Shift 
+photographer was still buzzing around.
+
+"Haven't I seen you before?" he joked with me, but he didn't stay and went in search of fresh 
+fodder. The other newspeople were long gone.
+
+After that weekend, I thought I was finished with being in the limelight. I had given my answers to 
+the reporters. I would be troubled no more.
+
+Wrong! A few weeks later a Shift editor called all the way from Toronto, Canada in order to 
+confirm a few things, e.g., how was my name exactly spelled, how many members were in the club, 
+what was the motto of the club? I duly answered all the questions and again thought that was the 
+end of that.
+
+Wrong! Mark Frauenfelder, the Wired reporter who had gone to VCF, e-mailed, saying that he 
+wanted to come to one of our meetings to do a follow-up. Well, this was a big deal, and I 
+telephoned as many members as possible to come to the December meeting so that we could show 
+our Commodore solidarity. I planned an exciting, jam-packed meeting in order to show him the 
+interesting things we did. Mark was a no-show. I thought that was the end of that.
+
+Wrong! Wired called again, this time wanting verification of certain points (how do you spell your 
+name, how many members in the club, what is the motto of the club, etc.) and wanting a time to set 
+up a photo shoot. Skeptical, I voiced my complaints about Mark not showing up at our meeting and 
+my doubts whether such a shoot was really true. Carolyn, the editor, assured me that this was true 
+and that they wanted to photograph me the first week of January. Well, that would be after my 
+Christmas vacation; I'd be back to work by then. We mutually agreed on Friday, January 7, 3:30 
+p.m., after school let out.
+
+I had some Commodores in the classroom, but I wanted to show off the home C128D with multiple 
+drives, SuperCPU, and 20-inch monitor. I decided I would set up the home system in the 
+classroom. The photographer would have to be satisfied with that.
+
+January 7 arrived. The classroom was ready. The equipment was set up. The photographer was late. 
+From his cell phone, he confirmed the directions to the school, and I told him that he was still an 
+hour away. Finally, he rolled in, a bit before 5 o'clock.
+
+Chris and his assistant, Kyoko, immediately started pulling equipment out of the Ford Explorer.
+
+"We're losing the light," he told me. "Is there a sign on the road that says 'school' around here?"
+
+"There's one by Fremont School a couple of blocks from here."
+
+"Great. Let's go."
+
+Surprised that he wasn't going to film me in the classroom, I obediently walked with him and 
+Kyoko, showing him where the word, school, had been painted in yellow on the street. Looking at 
+the site, he took a minute to scan the scene with his photographer's eyes. Then he knew what to do.
+
+"I want you to sit on the street, right there by where it says school."
+
+Here I was in my good school clothes... and he wanted me to sit in the street? Without protest, I did 
+what he said. He took out a Mamiya RZ67 and adjusted the focus while Kyoko took the light 
+readings.
+
+"O.K., cross your legs and look at the camera. O.K., purse your lips but smile. Purse them tighter. 
+Oh, you can give a better smile than that. O.K., now just put your legs out straight. Look at the 
+camera. Look over here to the side."
+
+Roll after roll was shot. Car after car passed by. Fortunately, Kyoko diverted the traffic while the 
+shoot was going on.
+
+"Bernardo!" screamed some former student as he drove by. Another teacher and his wife drove by 
+and parked at their house just a few doors away, all the time staring at the activity going on in their 
+street. I thought, "Oh, boy!"
+
+Nearly 6 o'clock... daylight was nearly gone. Streetlights glinted through the trees. We'd have to go 
+indoors by now, right? Wrong!
+
+"Hmm, o.k., sit up now and look directly into the headlights of the my car."
+
+This was Chris' idea? I stared at the lights just 10 feet away from me as he set up the camera, as 
+Kyoko took the light readings, and as he starting firing away again. At last, he was finished.
+
+"Let's go back to the classroom and take some more shots."
+
+The day wasn't over for me yet!
+"No, I don't like the computer there. Can you move it?"
+
+I moved the entire system to another table.
+
+"I don't like the photos on the wall. Can you cover them with those posters there?"
+
+I hid the student photos.
+
+"O.K., increase the brightness of the screen."
+
+I turned up the brightness and contrast of the monitor until it was glaringly bright.
+
+"Put a game on the computer and play with it."
+
+I disappointingly removed Wheels and loaded up Super Mario Bros..
+
+Many shots later, he was finished. While he and Kyoko packed away their equipment and helped 
+me with my equipment, I told them the way to some restaurants.
+
+"Aren't there any good, non-chain restaurants in this town?"
+
+"Uh, not here in Corcoran. Why don't you follow me to Visalia? There are some trendy restaurants 
+along Main Street."
+
+We drove off with me leading the way in my car. We found a nice California/Italian restaurant, and 
+Chris treated me to dinner, while we talked about computers, photography, and travel. ...And he 
+had called me, "Baby", only once during the entire photo shoot.
+
+
+Magazine of the Future 
+Looks Back
+
+Wired magazine started out, to the best of this writer's recollection, as a magazine about the 
+Internet. Whether this memory is foggy or not, the magazine has grown from an ordinary 1/8 inch 
+thick publication to a half-inch thick monthly that focuses largely on the future, and the movers and 
+shakers who are leading us there.
+
+On its web site, Wired declares:
+"Wired magazine is the journal of record for the future. It's daring. Compelling. Innovative. 
+Courageous. Insightful. It speaks not just to high-tech professionals and the business savvy, but 
+also to the forward-looking, the culturally astute, and the simply curious."
+
+How the Commodore fits into this vision only the editors of Wired can know. Nonetheless, a visit 
+last fall to the Vintage Computer Faire in Santa Clara by a free lance author who frequently 
+contributes to Wired led to the strange events in Corcoran described by Robert Bernardo in his 
+column this month. 
+
+Overall the tone of the article is respectful. Those who continue to stick with the computing 
+technology of the 1980's are described as "retroactivists." The article recognizes several subgroups. 
+Many people continue to use their Commodore (Amiga, Osborne, TRS80, whatever) because it still 
+does what they need it to do.
+
+Others could be more appropriately called collectors or archivists. They have computers that they 
+don't use (and sometimes can't use, due to malfunctions). But they're cool because they're from the 
+old days, like a classic car.
+
+Another approach is that of NewDeal, a company that provides upgraded software that will run on 
+pre-Pentium PC's. As new programs require more computing horsepower, many users are "stuck on 
+an upgrade merry-go-round that forces them to shell out $2500 or so very couple of years for a new 
+machine." As NewDeal's CEO, Clive Smith says, "The fact is that those older machines work fine. 
+You don't need a Ferari to go to the supermarket."
+
+Here's another quote from the Wired article, on their encounter with our president:
+
+"Why struggle with a machine that has no graphical Web browser? 
+
+'Because it's an old friend,' says Robert Bernardo, patting the monitor of his C64. I've encountered 
+Bernardo, president of the Fresno Commodore User Group, at the Vintage Computer Festival in 
+Santa Clara, California. The club's motto, Bernardo tells me, is 'Taking 8 Bits to the 21st Century,' 
+and the majority of its members use the C64 as their primary computer. 
+
+Lots of diehards are like Bernardo: They use orphaned platforms no longer supported by the 
+original manufacturer, and they depend on a network of tiny third-party software and hardware 
+developers to keep their machines going."
+
+Finally, here's Wired's summary of the history of Commodore: 
+
+"Commodore VIC20/C64 -  Introduced: 1981; Died: 1992 
+Resurrection Hot Spots: Commodore 8-bit server www.hut.fi/Misc/cbm - Vast listing of 
+Commodore links, history, and resources; C=Ring www.ncf.carleton.ca/~ag090/cbmring.htm - 
+Webring of 170 revivalist sites 
+
+Many teenage hackers in the early '80s got their first exposure to computers with the VIC20 or its 
+successor, the Commodore 64. Based on the 8-bit 6510 chip, both computers featured high-quality 
+sound capabilities, sprite-based graphics, and the ability to load and save programs on tape."
+
+You can find the entire article on the web at 
+http://www.wired.com/wired/archive/
+
+Rounding Decimals
+
+I have a need to round off decimal numbers to various places depending upon how they will be 
+used in the program. Is there a simple way to do it? 
+
+Early in the program write:
+
+1 DEF FNR(N)=INT(N/DP+.5)*DP
+
+DEF defines the function FNR(N) to equal the integer result of N/DP+.5 which is then multiplied 
+by DP.  The number of decimal places is determined by DP.  DP=.1 gives one place, DP=.01 gives 
+two, etc. So, in a later program line like:
+
+100 DP=.01: N=DV: V=FNR(N)
+
+where DV=12.176, V would be made 12.18 because 12.176/.01 yields 1217.6 and +.5 makes it 
+1218.1 which INT truncates to 1218 and then multiplying by .01 yields 12.18. Of course, the value 
+assigned to N can be held in another numeric variable.
+
+(From CIVIC 64/128 Gazette, May 1997)
+
+
+
+
+
+
+OFFICERS and KEYPERSONS
+(Area Code 559)
+
+President:	Robert Bernardo 627-2438
+Vice President:	Helen Silvas 227-8005
+Secretary-Treasurer  Zella Mallard 291-2452
+Past President:	Ralph Parrott 229-9912
+
+Board of Trustees:
+	Del Contreras 227-5375
+	Sandy Dippollet 299-1275
+	Chester Sohm 855-8543
+	Bill Gilbert 439-8202
+	Henry Fry 291-0581
+
+The Interface Editor: Dick Estel 224-4163
+Contributing Editors:
+Bob Bernardo
+Mailing List:	Sandy Dippollet	
+Technicians:	Del Contreras, Doug Cunningham
+Librarian:	Dick Estel
+Programs:	Ralph Parrott
+Demo Coordinator:	Helen Silvas
+Club Equipment:	Helen Silvas
+Store:	Dick Estel
+Meeting Place Reservation, Setup & Cleanup: 
+	Dick Estel, Zella Mallard & Del Contreras
+Ribbon Reinking:	Robert Bernardo
+
+On-Line Contacts:
+
+FCUG home page-- is http://videocam.net.au/fcug/
+or http://home.att.net/~rmestel/fcug.html
+Robert Bernardo rbernardo@value.net
+
+Editor's Internet Exchange Offer
+
+We'll be happy to send any of the articles in our newsletter to other clubs via 
+E-mail, to save the hassle of typing. 
+And we'd appreciate the same from those clubs that have access to Internet E-
+mail. Send requests to: 
+dickestel@att.net.
+
+
+
+
+Fresno PC Users Group
+Meetings 1st Monday of each month, 7:30 p.m. at Ramada Inn, Shaw & Fresno.
+Recorded information phone: 496 3974
+Membership: 434 0941 or 225 8824
+6751 N Blackstone # 395
+Fresno CA 93710
+
+
+
+THE SMALL PRINT
+
+The Fresno Commodore User Group/Sixty-Fourum is a club whose members share an 
+interest in Commodore 8-bit 
+computers. Our mailing address is 3487 E Terrace Ave, Fresno, CA 93703. We meet 
+at 10 a.m., the first Saturday of the 
+month,  in the Sarah McCardle Room of the main library, 2420 Mariposa, between N 
+& O St.  See the back page for a map. 
+The Board of Directors meets immediately following the general meeting. The 
+meetings generally include demonstrations, 
+discussion, drawings, and individual help.
+
+Dues are $12 for 12 months. New members receive a "New Member Disk" containing a 
+number of useful utilities. 
+Members receive a subscription to this newsletter, access to a public domain 
+disk library, technical assistance, and reduced 
+prices on selected software.
+
+The Interface is sent to our members and other Commodore Clubs on an exchange 
+basis. Clubs publishing newsletters with 
+informative content are encouraged to add us to their mailing list. Permission 
+to reproduce content from The Interface is 
+granted provided credit is given to the source and, when identified, the author. 
+Club members are encouraged to submit 
+articles, tips or ideas for articles. To insure inclusion, any material should 
+be submitted prior to the 15th.
+
+Disclaimer: The club, its officers, members, and authors are not responsible for 
+the accuracy of the contents of The 
+Interface or the results of actions based on its contents.
+
+Our disk library contains over 2000 public domain programs for the C64 and C128. 
+Members are entitled to copies of these 
+disks at no cost if a blank disk is provided. We do not deal with pirated, 
+violent or obscene programs. Please call our 
+attention to any programs found in our library which may violate these 
+standards. 
+
+Sales and Services:
+Disk Notchers $5
+Disk drive trouble diagnosis and minor repair: $10 (members only)
+Computer Reset switches: $7 (members only)
+Ribbon reinking: $1 (members only, 2 per month max)
+31 graphics disks: $3 each, $50 for all, plus $1 per disk if to be mailed.
+Blank disks: $.50 each, 25 for $10
+The Write Stuff 64: $12 ($14 for non-members)
+The Write Stuff 128 $16 ($18 for non-members)
+The Write Stuff Spell Checker 64/128: $8 ($10 for 
+non-members)
+Postage & Handling for mail orders: $1.25
+
+
+Next meeting
+June 3 10 a.m.
+Fresno County Library
+2420 Mariposa, 
+between N & O St.
+(Sarah McCardle Room - Upstairs)
+(for elevator, use main entrance on Mariposa St.)
+
+
+Fresno Commodore Users Group
+3487 E Terrace Ave
+Fresno CA 93703
+
+
+

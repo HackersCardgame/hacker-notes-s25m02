@@ -1,0 +1,35 @@
+Motiv eine Gerichtsverhandlung zu manipulieren hätten vorallem Urs, Martin, Astrid Blum und Pfisterer.
+
+Prämisse 1: man kann z.B. mit QAM64 oder mit der Komplexen Ebene und 2 Frequenzen mit verscheidenen Amplituden 3D Positionen im Kopf darstellen. Dies wird im D-Raum mit Positionsdaten von uns umgebenden Personen trainiert, oder z.B. in einem Computer Game, somit können Personen über ihre Position im Gehirn hervorgehoben werden
+-&gt;würde vermutlich auch Akkustisch machbar sein
+--&gt;Nennen wir das mal &gt;Positionsregister&lt;, also dem was grad im Fokus des Geistes ist
+
+Prämisse 2: Es gibt ein weiteres Stimuli das am TV und und den Massenmedien ausgebildet wird, das "Der da (im Positionsregister) ist ein Terrorist"-Flag oder Stimuli
+
+P1+P2=Man kann jeden in der Nähe zum Feind deklarieren und so z.B. in der Migros der Zielperson des CIA "Anti" Terrornetzwerks, die gutgläubige (TV gläubige) ungebildete Gruppe würde über ihn/sie herfallen.
+
+Vermutlich gibt es auch
+-istEinVergewaltiger()-Flag
+-istEineSchlam**()-Flag (sorry für Wortwahl)
+-istEinBöserBöserHacker()-Flag
+-istEinSpinner()-Flag
+...
+Generalisiert: istFeind()-Flag
+
+&nbsp;
+
+genau so müsste es aber ein
+
+-istVertrauenswürdig()-Flag
+-istDieWahrheit()-Flag
+-istFreund()-Flag
+
+geben, das wohl schon seit dem Frey Effect (1961) und den ersten TV Geräten.
+
+Somit muss man davon ausgehen dass die "eigenen" Gedanken (Unterbewusstsein <-> MouseTracker) einem anlügen.
+
+[UPDATE]
+Diese Funktion scheint auch z.B. bei Polizisten implementiert zu sein, führt dann dazu dass Dinge wie Ferguson passieren (Amygdala-Implantat [1950er Technik] zuvor aktivieren würde die Schiesswütigkeit des Polizisten wohl erhöhen) und z.B. dazu führen dass der lokale Stadtrat problemlos Mädchen vergewaltigen und ermorden kann, und da es dem Polizist dann das istFreund()-Flag oder das istLie()-Flag oder das sagtImmerDieWahrheit()-Flag einschaltet würde das dann nie aufgeklärt werden... würde... 
+
+Vermutlich am TV / Massenmedien ausgebildet... (1980er TV und seine Chips scheibeln um nicht reverese engineeren sagen zu müssten?)
+ich hätte gesagt irgendetwas wie Komplexe Ebene => QAM64, also eine 2D Fläche von Datenpunkten wo man hinzufügen kann... da man mit Analoger Elektronik z.B. die Komplexe Ebene relativ einfach darstellen kann L-C(-R)

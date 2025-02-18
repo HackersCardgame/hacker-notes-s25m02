@@ -1,0 +1,28 @@
+System log for account 962320 (icq) connected at 17.02.2007 19::25::26
+---- +++ 962320 hat sich angemeldet @ 2007-02-17 19:25:26 ----
+---- Schööfli hat den Status von Offline zu Abwesend geändert @ 2007-02-17 19:25:26 ----
+---- Schööfli wurde untätig @ 2007-02-17 19:25:26 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 2007-02-17 19:25:26 ----
+---- dikyangel hat den Status von Offline zu Nicht verfügbar geändert @ 2007-02-17 19:25:26 ----
+---- dikyangel wurde untätig @ 2007-02-17 19:25:26 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-17 19:25:26 ----
+---- Schööfli hat den Status von Abwesend zu Offline geändert @ 2007-02-17 19:32:21 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-02-17 19:34:55 ----
+---- dikyangel wurde tätig @ 2007-02-17 19:34:55 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 2007-02-17 19:35:13 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-17 19:40:15 ----
+---- +++ 962320 wurde untätig @ 2007-02-17 19:30:36 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-17 19:41:09 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-17 19:46:24 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik wurde untätig @ 2007-02-17 19:54:14 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-17 19:57:00 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-17 19:57:01 ----
+---- +++ 962320 wurde untätig @ 2007-02-17 19:49:42 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-02-17 20:04:32 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-17 20:13:42 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-17 20:13:45 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-17 20:14:26 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-17 20:39:16 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-02-18 09:33:37 ----

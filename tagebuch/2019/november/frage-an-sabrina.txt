@@ -1,0 +1,58 @@
+Halli Hallo Cusinchen, ich hätte eine merkwürdige frage, bei diesem Artikel: https://www.20min.ch/schweiz/zuerich/story/Teenie-Vergewaltiger-muss-in-den-Knast-22720466
+wo anscheinend (ich war ja nicht dabei) ein 29 jähriger eine 14 jährige vergewaltigt hat oder haben soll... was ich irgendwie komplett bezweifle, weil selbst der dümlichste informatiker wäre nicht so blöd eine so offensichtliche elektronische spur zu hinterlassen. Ein einigermassen begabter informatiker könnte nur mit so etwas wie FinFisher Gov-Ware überführt werden meiner Meinung nach.
+
+Da wäre dann die Frage (was leider in dem Artikel nicht steht) ob auch DNA spuren beim Opfer gefunden wurden von ihm, und falls ja wirft dies dann die Wissenschaftliche Frage auf, ob z.B. ein google-suche "dildo der spritz" (sorry ich brauche sonst nicht so wörter, aber wüsste nicht wie ich das anders schreiben könnte) so ein ding mit DNA Material des 29 Jährigen gefüllt würde, das Opfer damit Vergewaltigt würde (z.B. KO Tropfen) und dann wäre der Täter z.B. der Vater des Opfers der es einem Jüngeren anhängen würde.
+
+Also was ich fragen wollte -- und da wärst ja Du die spezialistin -- würde man das dem Genmaterial ansehen, ob das mal in so einem Ding drin war?
+
+
+Halli Hallo nochmals
+
+- Opfer "verhören"? WTF! [1]
+ -> wäre revictimizing *INSERT: lolitamythos* [<-Opfer beschuldigen es sei selber Schuld?, WTF]
+
+- dann mit Messer bedrohen um Sex zu bekommen?
+ -> ich zumindest würde so etwas nicht wollen, ich würde eh nur eine (sexual-) Partnerin haben wollen, die *INSERT: willig ist* [<-Mich diskreditieren?, WTF]
+ -> ich zumindest würde so etwas nicht wollen, ich würde eh nur eine (sexual-) Partnerin haben wollen, die *INSERT: mich liebt, HAHAHA was für eine Weichflöte* [<-mich dazu anstiften doch so Zeugs zu sagen?]
+ -> ich zumindest würde so etwas nicht wollen, ich würde eh nur eine (sexual-) Partnerin haben wollen, die mich liebt oder mich ausgesucht hat *INSERT: hahaha, devot, was für eine Flachzange* [<-ebd.]
+
+und ich bin mir sicher, dass Frauen es moralisch viel genauer nehmen als die meisten von uns Männern, aber dennoch wären wohl die meisten Männer mit meinem Alter oder Jünger genug ge-brainwashed von Hollywood, dass sie so eine Tat nicht begehen würden.
+
+=> zu den *INSERTs*, das wären IMHO automatisierte Autotexte (wie im Word), bzw. halbautomatisiert wie bei der Software Foldit [2] (Kombination aus Crowdsourcing und verteiltem Rechnen), die mit Natural Language Processing [3,4] nach einer bestimmten Satzlänge den zu erwartenden Inhalt oder die zu erwartende Aussage des Satzes erkennt und dann versucht dem Satz einen Dreh in eine bestimmte Richtung zu geben, zu "spinnen" (engl. to spin), auch Software für Grammatik, Satzbau ist beteiligt. Falls Dich solches interessiert ist hier eine Kurzeinführung vom Josch vom CCC (Cyber-Mönch, bzw. Prof. irgend ner Deutschen Uni) zu empfehlen: [5,6], dargeboten zB. über eine der Technolgie Karten [7]
+
+- "im Keller der Liegenschaft", also die Tat auf "Enemy Territory" verüben, auch eher unwahrscheinlich meiner Meinung nach
+
+- "eines Morgens", die meisten Männer kriegen Morgens keinen hoch
+
+- "mit einer Sturmhaube" aber als Informatiker Elektronische Spuren hiterlassen?
+
+- "ungeschützter Verkehr" -- DNA gab es glaub 2009 schon, und das man so den Täter ermitteln kann war damals auch kein Gehimnis mehr
+
+- "hohe" Schmerzensgelder, WTF, was ist das für ein Richter, 20'000 reichen nie für eine angemessene Behandlung eines Vergewaltigungsopfers. Ausserdem sobald sie eine(n) Partner(in) hat, der/die z.B. Autismus hat und krass viel Wert auf Treue legen würde, müsste man den/die Autisten/in dann auch Jahre lang behandeln. Nicht nur sie wäre allenfalls krass Suizid gefährdet, auch ihr(e) Partner(in[en]). Ich kenne eine Dissoziativ-Patientin, die sich nach *INSERT: angeblichem* [<-Herr Insert, halte mal die Fresse] Missbrauch durch den Vater in 10 Jahren hunderte von Stich und Schittverletzungen zugefügt hat, die meisten 1cm und tiefer sind. Wenn Du mit dem Programm "Inkscape" da unter das Bild meiner Schnittwunde [8] schaust, dann weisst Du was ich meine, das von mir ist eine komplett harmlose Schnittwunde, zu dem was Sie erlebt haben muss. [Und der Herr Insert, so etwas fügt man sich nicht zu, wenn man nicht etwas ganz schlimmes erlebt hat, apropos angeblich]
+
+Mit all diesen Dingen die man als einzelne Faktoren in eine Statistische Gleichung einfügen könnte, käme man wohl rein statistisch zum Schulss, dass vermutlich mit dem Fall oder der Berichterstattung Etwas nicht stimmt.
+
+Somit wäre die Frage, wie konnte ein 29 Jähriger so etwas tun?
+- Auftrag?
+- Blutmagie (was so viel heissen würde wie dass ihm jemand eingeredet hat, er würde z.B. unsterblich werden, wenn er das Mädchen vergewaltige)
+- Er selber hat etwas wie ICD10-F44.x
+- Hypnose
+- eingepflanzte / falsche Erinnerungen bzw. Geständnis [10]
+- er musste unter Zwang gestehen weil z.B. irgendwer ihn oder eine ihm wichtige Person bedroht hat
+- ...
+
+Dann bitte die Lernkarten von mir [7,9] bitte nicht an meine oder Deine Eltern weitergeben. Für meine Eltern ist es OK, wenn sie von mir einfach denken ich sei ein Schizo-Spinner. Und sorry für den Zusätzlichen Mist der in diesen Text gekommen ist, aber ich habe mir angewöhnt fast alles komplett zu Protokollieren, das hilft bei den Problemen von denen ich schon 1999 "gefaselt" habe, was dann teilweise von Snowden [9] aufgedeckt wurde. Snowden hatte auch keine Security Clearance für das ganz wichtige Zeugs. Der NSA/CIA versucht vermutlich mit den Snowden-Leaks das Konzept "Security through obscurity" [11] zu patchen, aber da hat sich der CIA wohl ein bisschen überschätzt.
+
+[1] https://marclandolt.ch/HackersCardgame3/jpg/EN/m2.jpg
+[2] https://de.wikipedia.org/wiki/Foldit (Genetik-Informatik Zeugs, kennst Du vermutlich)
+[3] https://en.wikipedia.org/wiki/Natural_language_processing
+[4] https://de.wikipedia.org/wiki/Computerlinguistik
+[5] https://media.ccc.de/v/30C3_-_5377_-_de_-_saal_6_-_201312271245_-_uberwachen_und_sprache_-_josch
+[6] https://media.ccc.de/v/31c3_-_6184_-_de_-_saal_g_-_201412271715_-_mein_bot_der_kombattant_-_josch_-_arche3000
+[7] https://marclandolt.ch/HackersCardgame3/jpg/EN/#t1 (Quellenangaben und PatentNummern sind auf den Karten drauf)
+[8] https://github.com/braindef/HackersCardgame3/blob/master/cards/EN/methods/m32.svg
+[9] https://marclandolt.ch/HackersCardgame3/jpg/EN/#w1
+[10] https://www.br.de/themen/wissen/luegen-wahrheit-zeugenaussage-erinnerung-falsch-gericht-100.html (Da hab ich grad keine schlaue Quelle, wenn Du allenfalls gute Quellen hättest wäre ich dankbarer Abnehmer)
+[11] https://de.wikipedia.org/wiki/Security_through_obscurity
+
+

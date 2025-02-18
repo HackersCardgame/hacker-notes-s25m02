@@ -1,0 +1,34 @@
+Disk Drive Cleaning
+
+by Larry Hawkes
+
+
+Lately, members have asked me, "how often should my disk drive be cleaned and why?"
+
+To answer the first part of that question I'll say that Commodore gives no recommended cleaning
+intervals, and it seems every expert has a different opinion.  I've heard extremes from weekly to no
+cleaning at all until a read/write error occurs.  My personal opinion is that with average use the drive
+should be cleaned every six months with the heads cleaned more often if the drive is used in a dusty or
+smoke-filled room.
+
+You can use one of the commercial head-cleaning disks, BUT be sure to choose a non-abrasive type! 
+These cleaners require you to apply solvent (generally isopropyl alcohol) to the cleaning pad on the disk
+and have it spin in the drive for about 30 seconds.  While this does the job in most cases, a more
+thorough job can be done by cleaning the heads manually.  Also, while inside your drive other important
+maintenance can be performed, like lubrication of the read/write guide rails and disk door mechanism,
+speed adjustment, and head alignment check.
+
+As to the why part of the question, your drive has many moving parts that are subject to wear and
+require periodic adjustment and lubrication.  With some/all of us using both sides of our disks, we are
+defeating part of the built-in head protection system, a dust-catching liner, which sweeps abrasive
+particles off the disk surface as it rotates.  By using the back side of the disks we've taken the dirt and
+iron oxide build-up on the liner and redeposited it on the other side, causing build-up on the edge of the
+read/write heads and potentially scratching the disk surface.
+
+As a final note I would caution any do-it-yourselfers that your disk drive contains some very delicate
+parts which could be damaged if handled improperly.  In particular there are several NMOS chips
+which are very sensitive to static electricity.  A small charge from walking across your carpet is enough
+to fry these chips!  This warning is not meant to frighten you; only to save you the frustration of doing
+more harm than good.
+
+(From "The Interface," newsletter of Fresno Commodore User Group, August 1989)

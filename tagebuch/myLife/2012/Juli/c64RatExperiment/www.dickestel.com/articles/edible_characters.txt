@@ -1,0 +1,77 @@
+Edible Characters and Shifty Spaces
+
+by Dick Estel
+
+I maintain my list of compact disks in a Write Stuff file, with two columns, artist and title (i.e.):
+
+Gin Blossoms                       New Miserable Experience
+Big Sandy and His Flyright Boys     Lost in the Fog
+
+When I set up the file several years ago, I did not allow enough room for long artist names, but I
+realized I had a little extra room on the right margin. I could improve the file by moving all the titles over
+about 10 spaces.
+
+There are several ways to accomplish this in TWS. The most tedious is to cursor to each line and type
+in 10 spaces while in insert mode. Since I have around a thousand titles, this idea did not appeal to me.
+
+I could also tab to the beginning of each title, and press [SHIFT][RUN/STOP], which would insert
+three blank lines. I could then tab to the desired position 10 spaces over and press
+[CONTROL][SPACE], which would pull the text back to the cursor position. This also seemed to be
+a formidable task.
+
+I could also do a SEARCH and REPLACE, which would be partially successful. I could SEARCH for
+10 spaces (or any other reasonable number), and REPLACE with 20 spaces. This would correct all
+lines where there were 10 or more spaces between the end of the artist name and the beginning of the
+title. Following this, I could use any of the other methods to shift the lines that had not been moved
+(those with less than 10 spaces). In retrospect, this would have been my best choice.
+
+As the words "in retrospect" imply, before I thought of method three, I implemented method four, as
+follows:
+
+I used the program's EAT and RESTORE capability to insert 10 spaces on each line. First I typed a
+number of spaces at the bottom of the file, then I pressed [CONTROL] E followed by pressing C 10
+times. This placed 10 spaces in the buffer.
+
+I then went to each line, tabbed to the beginning of the title, and pressed [CONTROL] R. This inserted
+ten spaces, shifting the following text over. As you can guess, even this was not a fast or pleasant task,
+and I accomplished it in several sessions spread over a couple of weeks.
+
+The actual sequence of key presses in this procedure was as follows:
+
+F5        Moves the cursor to the beginning of the next paragraph
+[TAB]     Tabs to the pre-set position at the beginning of the title
+[CONTROL] R Inserts the 10 spaces
+(Repeat as needed until brain fatigue sets in or the job is finished.)
+
+The point of all this, besides giving the appearance of an informative article on TW Stuff, is to discuss
+the EAT CHARACTER feature, which is mentioned in the manual, but which does not appear on the
+command line in TWS 64.
+
+It has one useful feature that eating words, sentences and paragraphs lacks: When you use any of those,
+a return character which follows the block of text will be "eaten" along with the text. The period at the
+end of a sentence will also be picked up. (The paragraph, of course, is always followed by a return.)
+This may cause remaining paragraphs to be run together, and you will have to remember to add a return
+if needed. And the return character will be restored wherever you dump the text, which may or may not
+be what you want.
+
+If you want to "eat" a word that's at the end of a sentence and restore it elsewhere without the period
+or return character, you can use the EAT CHARACTER feature to capture only the letters of the
+word.
+
+Notice that I also slipped in instructions on the use of [SHIFT][RUN/STOP] to insert blank lines, and
+[CONTROL][SPACE] to bring the text back to cursor position. I use these features with virtually
+every text file I create, other than perhaps a quick letter. Here's an example of how and when:
+
+When you insert into an existing file at a point where there is a lot of text below the insert point, text
+entry slows down (due to the computer having to move all following test one character ahead). If I am
+going to insert several sentences, I press [SHIFT][RUN/STOP] several times to insert a dozen or so
+blank lines. I then turn insert mode off (by tapping [CONTROL] i). The new text is typed over the
+blank space that I have inserted, and the existing text does not have to be shifted down. When I'm
+done I press [CONTROL][SPACE] to bring the old text back to the cursor position.
+
+Another interesting note: In TW Stuff, when you tab from the beginning of an existing line, the cursor
+moves PAST the existing text to the tab setting, which is just what I needed for method 4. In a PC
+word processor a tab in front of existing text is INSERTED, and the text moves over. Another case
+where Commodore is actually better than the high priced spreads.
+
+From "The Interface," newsletter of Fresno Commodore User Group 

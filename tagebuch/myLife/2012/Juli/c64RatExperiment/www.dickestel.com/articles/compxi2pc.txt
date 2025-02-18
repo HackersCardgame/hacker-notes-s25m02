@@ -1,0 +1,66 @@
+Commodore Pictures Visible on PC
+
+by Dick Estel
+
+February 26, 2000: Today I achieved a goal I have been wanting to accomplish for about three years: I
+watched a picture that I had scanned on the Commodore appear on my PC.
+
+I had asked some people how to do this a couple of years ago, but the steps they described required
+going through several different formats, and the effort seemed too much with everything else I have to
+do.
+
+In late February I posted the question to the Commodore MaiLink list, and received a number of
+replies within a few hours. Several people suggested using Jim Collette's geoPCX, a program I already
+had. This program should convert geoPaint files and GEOS albums to the PCX format, which can be
+read by nearly any PC graphic program in use today.
+
+A fellow club member and I had tested this program when I first downloaded it from Q-Link about
+eight years ago. We accomplished the file format transfer via the club BBS. To the best of my memory,
+I sent GEOS files that had been changed to CBM SEQ format with the GEOS program Convert. He
+then used geoPCX and successfully converted an album of photos.
+
+I had tried geoPCX, but it would not run on the PC, either under Windows or from DOS. After posting
+my question, I was told that it runs in GEOS. However, I question this. My memory is pretty good, and
+I am 87% sure it is intended to run on a PC (or at least an old PC from the early 90's before
+Windows).
+
+I tried converting it to GEOS, with no success. I tried running it from BASIC, again with no luck. So I
+proceeded to plan B, which was to download several conversion programs from C64 Com
+(http://www.c64.com). Among the items offered are tools for use in moving between PC and C=, and
+the program that did the job is CBM2BMP, found at http://www.fairlight.to/tools/pc.html.
+
+After converting geoPaint files to CBM SEQ files, and transferring them to a PC readable disk via Big
+Blue Reader, I ran this program, and was presented with a simple interface. Shortly after I clicked on
+LOAD CBM, my picture started to appear. I then clicked on SAVE BMP and voila! it is available for
+further manipulation.
+
+I found that my usual photo editing program, ArcSoft Photo Studio, did not recognize this bitmap
+(BMP) format; however, my premier graphic viewer, ACDSee loaded and converted the files to .JPG.
+Now if we wanted to get carried away, we could use one of the new JPG converters for Commodore
+to get the file back into a non-GEOS Commodore format!
+
+All of the above took place on my Compaq Presario. A few days later I got a partly-new "homemade"
+PC from a friend at work (we put the Zip drive and CD-ROM drive from the Compaq into this one).
+When I started to convert another batch of geoPaint files, I got an unpleasant surprise.
+
+When CBM2BMP converts a file, it displays a view of it, about half the normal size. During conversion,
+the display was broken up into pieces like one of those computer picture puzzles. The saved file was
+not scrambled, but the bottom 20% was missing. I tried converting some of the files I had originally
+done, and had the same problem.
+
+Since I had set up my Compaq with an old monitor I had around, I went back and tried the program on
+it...and everything worked fine. The new one has the same operating system and virtually the same
+software, but there is something about it that CBM2BMP does not like. Email to the author has gone
+unanswered so far.
+
+Looking for an alternative, I downloaded Congo, a highly touted program that allows a lot of
+manipulation of graphics, and converts both ways. With little documentation, it took a while to figure
+out how to use it, but once I did, it converted the files but not cleanly. Around the edges of each image
+or text object, there is what looks like a shimmering effect (in fact it's just a few extra grey pixels).
+Email to the author brought the suggestion to save as BMP files instead of JPG. I did this; then saved
+the BMP as JPG in a photo editing program, and got a clean conversion. This program also
+successfully converted color Koala files and a color geoPaint file.
+
+To see some of these pictures, visit http://home.att.net/~rmestel/geos.html (you must have a graphical
+web browser). (Commodore users can get these scanned files from me in GEOS format for a modest
+price.)

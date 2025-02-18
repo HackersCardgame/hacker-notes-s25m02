@@ -1,0 +1,60 @@
+=============
+351e46cba7bb673d5631026a7e8256bbc233e39b -- 20250215 06:02:09 
+=============
+
+DIREKTE Rede an Urs Blum, Martin Blum, Astrid Blum und die Zürich Versicherung ...
+
+
+... ich habe ein Angebot was ihr eigentlich nicht ablehen könnt.
+
+Ein Produkt, bzw. einen Dienstleistung, bzw. eine Software as a Service um ein Internet-Buzzword zu bemühen.
+--> obwohl das auch zu Euren Gunsten wäre, scheinen Eure Automated EEG Recognition und automated intimidation Surveillance Algorithmen das Mail verhindern zu wollen [1]
+
+Die IDEE:
+
+Ein Versicherungsprodukt welches
+
+* Wirtschaftskriminelle weiter ihr "business ist business" tun lässt
+* aber mit Überwachung [2] und einem Advisor, oder eine Software wie ChatGPT, oder so ein Typ von Supporter wie im Film "Vanilla Sky" welcher interveniert, welcher dafür sorgt ...
+
+ ... dass mindestens keine Menschen sterben.
+     ======================================
+
+Pros:
+=====
++ Jeder Kriminelle welcher noch keine richtigen Leichen im Keller hat und es gibt ein Versicherungs-Produkt, was verhindert dass er zum Mörder wird würde das Produkt vermutlich kaufen wollen
+
++ ich vermute viele Mensch würden sogar sehr viel Geld zahlen für so ein Produkt [hier die Disney Figur mit den Dollarzeichen in den Augen einblenden]
+
++ es wäre eine Win-Win Situation
+  + unsere Seite hätte keine toten Kinder, toten Autisten, toten Zeugen ... mehr
+  + Eure Seite hätte ein Produkt was man haben will und vermutlich auch versteht, dass das Produkt teuer wäre
+  
+Cons:
+====
+- Nat-/Jur-Personen welche schon eine Leiche im Keller haben könnt ihr aber weder versichern (weil dort macht es keinen sinn mehr, diese Leute sind schon erpressbar)
+
+- Developer und Mitarbeiter welche schon eine leiche im Keller haben würden das Produkt vermutlich sabotieren
+
+
+Technisch Mathematisch wären VERMUTLICH das Algorithmen welche Reversibility erzwingen ...
+                             ==========
+                             anybody good in maths && gamedev?
+
+
+FRAGE AN CHATGPT:
+Nenne mir Algorithmen weliche man in 3D Games / GameDevelopment verwenden könnte um "Reversibilty" (Umkehrbarkeit) zu erzwingen.
+
+Also dass ein 3D Game Level nie in einen Zustand überführt werden kann in dem es einen oder interlocking "Dead Locks" gibt, wo man das ganze Game resetten müsste und alles von Vorne beginnen müsste.
+
+
+
+[1] Das ist einfach nur DUMM, ihr schiesst so ein Eigengoal, schmeisst Hass und Triebgesteuerte Developer am besten raus
+
+[2]  das mit den "2 speziell gesicherten Terminals bei der Zürich Versichrung" (C4ISR) hast Du ja bereits 2001 verraten
+
+
+=============
+351e46cba7bb673d5631026a7e8256bbc233e39b -- 20250215 06:02:21 
+=============
+

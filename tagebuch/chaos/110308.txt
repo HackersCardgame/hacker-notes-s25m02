@@ -1,0 +1,189 @@
+Tagebuch Di 8 Mär 2011 12:35:17 CET @ Marc-Landolts-MacBook-Pro.local
+
+auch irgendwie symtpmatisch wenn ich jetzt mit dem bund zu tun habe (nämlich der informatik abtielung) und an der ffhs wird mit deutschen unterlagen gearbeitet
+
+
+iniziative fizepräsident PPS Aargau in die bundesinformatik
+
+wild stimme: ich solle 10 leute aufzählen die fähig wären
+
+ott
+ranko veselinovic
+ev. urs blum
+ev. claude henchoz
+grenoulle
+ganto
+amsi
+heuer
+honegger
+der deutsche mit dem cisco zeugs
+stähli (der nerd von beiden)
+christian weber
+yves lüthi
+noch ein paar aus der ts...  stimme: UNI/ETH, FH, (HF {hf witze...})
+
+jeder der linux bedienen kann und nciht die grafische oberfläche benötigt.
+
+ev. meine ffhs kollegen udn dozenten
+stimme: ich solle ich sagen, ich sag dann ich wenn ich 0-day exploits schreiben kann...
+
+und der wild nicht stimmelt es, wie bediene ich VI???
+->gibt es allenfalls einen best practice toolkit um das zu lernene oder muss man damit aufgewachsen sein?
+
+windows server/client (Batch, kixtart, AD, DHCP, ISS, ASP, DNS, LDAP...) ->mit vorteil zuerst die linux variante da diese mehr details an den tag bringt
+Linux,BSD <-
+OSX  <-
+
+shellscript
+C / C++
+
+-katalog von techniken
+Netzwerkkurs
+-Socket programmierung
+-netzwerkkomponenten, cisco, zyxel, open wrt
+kurs mit netzwerktools, et[h|t]er*
+-backtrack (CH)
+elektornik kurs, seitenband attacken etc.
+
+
+wöchentliche tereffs wären gut für den austausch, und man würde ziele brauchen die legal sind. pentests
+
+entweder ist er sehr gut gedeckt und getarnt oder eine bratwurst...
+
+
+TO BE CONTINUED
+
+
+
+
+
+
+Tagebuch Di 8 Mär 2011 21:10:48 CET @ Marc-Landolts-MacBook-Pro.local
+wiederentdeckung meines rotierenden würfels
+
+reflexive stimme: ich bin super
+andere stimme: das kann ja jeder
+->ich: berechung anzahl europär geteilt durch produkte im pouet.net
+ ->so viele gibt es wohl schon nicht, wenn geliclh ich auch nciht (hoffentlihc nohc nicht) wirklich ein demo programmierer bin
+claudine stimme: es gibt wichtigeres zu tun ->aufblinken vom "to be continued" von oben
+ich: ja sie hat wohl recht.
+
+
+
+CONTINUING
+1. seed vaoult (chip vault) mässige doku vom gestein über den chemischen stoff (Phosphor silizium aluminium...)
+2. -transistorarten + herstellungsverfahren
+   -wiederstände
+   -kondensatoren
+   -quarze
+   -spulen, einfach draht aufwicklen :)   drahtdurchmesser, spuhlendurchmesser, magnetische konstante des kernes...
+3. chip arten + herstellungsverfahren (am besten ost)
+4. chip module (Flip flop, schiebe register ... alu... dsp, mmx, gpu...) VHDL
+5. Printplatten herstellung etc.
+6. Microcode
+7. Assembler sprache
+8. C compiler
+9. betriebssystem, ich persönlich kann mich sehr gut mit linux / unix / freeBSD anfreunden, dort wäre der SRC verfügbar, aber es müsste auch für jedes wichtige modul experten geben die den code kennen
+
+
+Wild stimme: ob man das ost machen muss oder auch kommerziell vernünftig sei -> vernünftig ist vernünftig stAhltOn
+->schönes logo...
+
+wild stimme: kunststoff experte
+ich: natürlich, und wenn möglich ein verfahren entwicklen welches aus a) biostoffen b) C02 c) weiteres kunststoffe herstellen kann
+
+das für die medizin sollte a) mein knuddel bärli b) die ärzte c) die mafiaärzte machen... da hab ich eh keinen plan (experte beigezogen :)
+x) weiteres ist teilmenge jeder auswahl, das habe ich fürher mal definiert...
+
+stimme: gpu sei nicht möglich
+ich: ok, wir verstecken uns im gpu, haben dort einen empfangsteil eingebaut und einen sendeteil (wenn es entdeckt wird ist es aus versehen, seitenbandattacke tempest)
+->oder auf alle länder verteilt und in jedem land ein par spezialisten die eingeweiht sind
+stimme: auch terroristische länder, ich: kann ich mich da politisch raus halten, ich bin idealist und knuddle auch ausländer... (in der metaebene)
+
+->das mit den terroristenlädern auf der sachebene, security by obscurity, das system muss sicher sein auch wenn die internas bekannt sind.
+===>ccc: auch die postkard sei einmal sicher gewesen weil die internas nicht bekannt waren... :)
+->colambo, das muss ja ein deutscher ausländer sein :)
+
+
+überschlagsrechnung schweiz
+7000000 Menschen
+10% studenten   pfu stimme: man mache es mit 1%
+700000 spezialisten
+
+da könnte man ganz gut z.B. 100 zur gpu abdetachieren, nicht?
+jeder kanton 4
+
+100 prof cpu
+
+100 prof memory
+...
+...
+100 prof elektronik
+...
+100 prof Forstwissenschaftler (z.B. Quirli)
+...
+...
+...
+100 star musiker
+---------------------------------------
+das wäre aber planwirtschaft ->stAhltOn
+->muss nicht zwingend aus der bildungslandschaft kommen, einer der 20 jahre geschweisst hat ist warscheinlich mehr prof schweisstechnik als einer der das theoretisch angeschaut hat, ABER die beiden müssen miteinander plaudern
+   ->folglich brauchen sie ein gemeinsames betriebssystem, pluralismu: die eine Vielzahl grundlegender und irreduzibler Ebenen in der Welt annehmen, und die müssen (smart spider) matchen.
+
+
+
+vater: reicht es wenn diese spezialisten sind auf dem gebiet oder sollten diese auch über den tellerrand blicken
+a) vorteil wenn man über den tellerrand sieht
+ ->in der mitte
+b) nachteil da man sich nicht auf das spezielle konzentreiren kann
+
+
+intermezzo mäni:
+privat netz separat vom firmen netz, bei abb hat einer mal einen virus über privat eingeschleppt
+2. TEST DomainController in vm
+3. nciht alle als domain admin arbeiten
+4. testdomäne, ev separates subnetz
+5. fixe ip address (ev braucht es das nicht, aber testmailserver der ans netz angebunden ist wäre allenfalls nohc vernünftig, smarthost bei privider, dann kann man sich das spam zeugs sparen.)
+6. chaos aufräumen !!! :)  ->ehrliche notiz, bei mir in der garage sieht es allenfalls schlimmer aus... :)
+7. wie martin sagt, vmotion wäre allenfalls noch etwas gescheites mit 2. server
+ storage würde ich nicht kaufen, ich würd dem 385 noch 3 hd's schenken, dann sind wir auf 9 -> ergo gute performance (gemäss wikipedia, write penalti bei raid)
+  ->aber ich kenne vmware jetzt erst 2 monate, allenfalls gibt es da experten :)
+
+kosten nutzen, ich hätte einen identischen genommen, aber so finanzen zeugs weiss ich nicht
+->wild stimme: oder wares damaris? ich müsse mich auch mit dem finanz zuegs auskennen oder es lernen... (ich: kann man das nicht outsourcen?)
+-->ich bin ein techie, :) ich habe nie soll und haben von meinem taschengeld geführt, ich hab's einfach ausgegeben
+
+zettel: alle mitarbeiter um mäni sind nicht viel länger als 2 jahre dort
+Langjäriger mitarbetier sein / add scope: langjährige mitarbeiter haben
+
+langjärig:
++								-
+selbstständig							lässt sich nichts mehr sagen	
+								gartenbau
+keine schulungskosten
+routine
+								keine weiterentwicklung, betriebsblindheit
+								ev. entwicklung von frustration da immer die selbe arbeit
+
+					WEITERE
+
+gibt wohl keine allgemeine lösung, ev. wissen da die psychologen mehr
+
+
+psychologe: wo will der mitarbeiter hin
+
+unter-ich: auf den bauch seiner EX :)
+
+wild stimme: helikopter perspektive
+jst stimme:  best practice generieren und auf die restlichen % applien ->VWL
+
+ich: kann mir mal jemand noch einen crashkurs mit dem best practice tools von M$ geben?
+
+off topic: benutze best practice mit bananen leibhaber *GRIN*
+christ: sünde
+
+
+stimme: ich müsse ins bett sonst gäbe es schläge oder wenn ich maso sei gäbe es keine schläge :)
+
+
+

@@ -1,0 +1,12 @@
+Hihihi, magst Du Dich erinnern, als ich Dir gesagt habe Du und alle EDV-Fritzen seinen eingebildet. Dann hast Du über meine schlechten Fähigkeiten in psychologie hergezogen, beschönigt, rausgeredet, verdrängt (Vermeidungsverhalten) 
+
+Jetzt schreibt aber Heise (welche im Deutschen EDV ja nicht ganz unwichtig ist) genau das, was ich Dir damals vorgeworfen habe.
+https://www.heise.de/developer/artikel/IT-Chauvinismus-Warum-sich-die-IT-ueberschaetzt-4494332.html
+(falls tl;dr, lies nur den mittleren Abschnitt)
+
+Weshalb schreibe ich Dir das? Naja einerseits für meinen Selbstwert super weil ICH RECHT HATTE, andererseits damit Du mal über Dich reflektierst. Und ja Dich reflektieren lassen finde ich lustig; auch weil ich mich dann besser fühle, weil ja nicht ich der bin der über sich reflektieren muss. Und das gute ist, dass ich ja wirklcih etwas verbessern will bei Dir bzw. Dir etwas aufzeigen will, wo Du gemäss Deinem Mayer-Briggs Test noch grottenschlecht bist. So kann man Böse und Gut sein zugleich (irgendwie Schizo). Aber vorallem weil meine Aussage von eben diesem Artikel bestätigt wird und das somit belegt, dass Dein Zynisches "Du bist ja ein Psychologie-Genie" eigentlich nicht angebracht ist und das in mir nur unnötig selbstzweifel schürt.
+
+Von Dir käme nun zu diesem Thema wohl etwa folgendes:
+Es beträfe (konjunktiv II, deshalb nur 1f) Dich ja nicht, und sicher seien alle andern aber nicht Du gemeint (Abstreiten). Oder Du ignorierst es (Vermeidungsverhalten) oder Du relativierst es. Da mache ich jede Wette.
+
+Und noch etwas zum Projekt, bin jetzt mit Valkyrie am Speicherlöcher suchen (werde das auch in den Unittests automatisieren im CI/CD) und sonst irgendwelche bugs. Also irgendwie testen wäre langsam toll. Und YAY, Boris hat einmal etwas gemacht. Wenn Du ihm jetzt beibringen könntest, dass er endlich das CI/CD installiert (den gitlab runner) dann könnten wir wieder auf groot weiter arbeiten.

@@ -1,0 +1,9 @@
+Tagebuch Do 30 Jun 2011 15:14:21 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+system.setKernelSelf(denyAlcohol, denyMeatEtc)
+system.physics(calculateMostContactsPossible)
+
+
+

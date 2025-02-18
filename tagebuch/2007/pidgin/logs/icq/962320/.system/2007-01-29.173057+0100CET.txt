@@ -1,0 +1,35 @@
+System log for account 962320 (icq) connected at 29.01.2007 17::30::57
+---- +++ 962320 hat sich angemeldet @ 29.01.2007 17::30::57 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 29.01.2007 17::30::58 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 29.01.2007 17::30::58 ----
+---- vortex hat den Status von Offline zu Verfügbar geändert @ 29.01.2007 17::30::58 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 29.01.2007 17::30::58 ----
+---- dikyangel hat den Status von Offline zu Nicht verfügbar geändert @ 29.01.2007 17::30::58 ----
+---- dikyangel wurde untätig @ 29.01.2007 17::30::58 ----
+---- vortex hat den Status von Verfügbar zu Offline geändert @ 29.01.2007 17::41::24 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 29.01.2007 17::42::53 ----
+---- dikyangel wurde tätig @ 29.01.2007 17::42::53 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 29.01.2007 17::43::27 ----
+---- dikyangel wurde untätig @ 29.01.2007 17::43::27 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 29.01.2007 17::43::40 ----
+---- dikyangel wurde tätig @ 29.01.2007 17::43::40 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 29.01.2007 17::43::48 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 29.01.2007 17::46::16 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 29.01.2007 17::46::34 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 29.01.2007 17::49::55 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 29.01.2007 17::50::09 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 29.01.2007 18::02::18 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 29.01.2007 18::02::22 ----
+---- +++ 962320 wurde untätig @ 29.01.2007 18::04::02 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 29.01.2007 18::15::10 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 29.01.2007 18::17::16 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 29.01.2007 18::18::25 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 29.01.2007 18::18::30 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 29.01.2007 18::19::42 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 29.01.2007 18::20::55 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 29.01.2007 18::27::51 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 29.01.2007 18::33::55 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ 962320 wurde untätig @ 29.01.2007 18::37::16 ----
+---- +++ 962320 wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ 962320 hat sich abgemeldet @ 29.01.2007 22::18::40 ----

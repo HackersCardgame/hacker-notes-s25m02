@@ -1,0 +1,55 @@
+CMD SmartMouse Review
+
+by Mike Riccobono   
+
+Creative Micro Designs is the major supplier of new hardware for our C64 & 128 computers. While
+CMD's SmartMouse is not a new product, having been produced for several years, it is remarkable
+enough to justify this review.     
+
+First of all, what makes SmartMouse so "smart" anyway?      
+
+SmartMouse is not just an input device, it can tell time. With it's built-in battery-backed RTC, (real time
+clock), SmartMouse allows GEOS to display the connect time and date on the deskTop. These are
+also "stamped" onto data files each time the file is saved. You can view the Last Modified time and date
+by choosing file from the Command Menu on the top of the deskTop, then info.    
+
+Before SmartMouse, most GEOS aficionados used either a Commodore 1350 or 1351. The 1350 was
+not a true mouse, but actually a rolling joystick of sorts. It cannot keep track of distance like a real,
+proportional mouse. While the 1351 was a true proportional mouse, it is somewhat cumbersome both
+in size and in use. SmartMouse is smaller and more stylish, making your Commodore very comfortable
+to use, and looking much more up to date. You can put SmartMouse into Joystick Emulation Mode by
+holding down the left button while turning on your computer, for use with programs that require a
+joystick. 
+
+SmartMouse has three buttons, all three used by GEOS. The left button functions as you might expect.
+You use it to click on the icon or menu item you wish to select. Many other programs besides GEOS
+make use of the left button. The right button is very handy, because it gives a "double click", which
+GEOS requires to load an application. You no longer have to "click the left button twice in rapid
+succession" to boot your programs. The center button is also a great GEOS convenience. This is your
+"Turbo" button. It doubles the distance SmartMouse physically travels, making your pointer (or cursor)
+very speedy indeed! Press the center button to move your pointer great distances across the screen,
+then release it for precise placement of the pointer.  
+
+Left-handed users can reverse the right and left buttons' functions by altering jumpers on SmartMouse's
+internal circuit board. You can have CMD perform this modification if you're unsure of doing this
+yourself.      
+
+SmartMouse comes with a Utilities Disk, with Smart-Tools for setting the RTC, and AutoSmartTime,
+for updating the GEOS clock. Also included is GEOS 64 and 128 mouse input drivers, as well as
+programming modules for use by developers of new software. For GEOS non-users, RUN Paint is
+included on the disk. This is a great multi-featured paint program originally from RUN magazine. 
+
+The only negative thing I could find about my SmartMouse is the rather short (42") cable attached to
+mine. The cable is just a little too short to run behind my desk and down to my keyboard drawer. A
+DB9 Male/Female "extension cord" is the quick fix for this problem.   
+
+CMD includes a detailed User Guide with SmartMouse, with instructions for programmers, and a 90
+day limited warranty. Some may consider the $49.95 price tag a bit steep, but when you consider that
+Commodore hardware is usually produced in low numbers, and also what goes into the SmartMouse,
+it's really a bargain.   
+
+I recommend SmartMouse for all GEOS users, and anyone who uses software that allows usage of a
+1351-type mouse. 
+
+(From The First Byte, December 1998 via Keywords (Commodore Users Group of St. Louis), August
+1999, via the Commodore Information Center, http://home.att.net/~rmestel/commodore.html)

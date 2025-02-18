@@ -1,0 +1,68 @@
+PC vs Commodore: Side by Side
+
+by Dick Estel
+
+A great deal of space in Commodore club newsletters over the years has been devoted to explaining
+why people use this "outdated" machine or why it is better than a PC for most people. Most of these
+reports are subjective. I thought it might be useful to present some side-by-side comparisons that offer
+the opportunity for a somewhat more objective view.
+
+Graphic display: It would be hard for anyone to claim that the visual display on a modern PC,
+whether text or graphics, is anything but miles above what the Commodore can do. This alone is reason
+enough for many people to make the switch.
+
+Word processing: I can only compare the programs I am most familiar with, The Write Stuff  (TWS)
+for the C128, and Word Perfect (WP) for the PC. For desktop publishing, WP takes the lead. You
+can create a large newsletter or similar document, in one single Word Perfect file, which contains all the
+text, headlines, graphics, etc. TWS does let you use large type, but control over the placement is
+limited. Including graphics with the Illustrator version seemed to me to be a form of torture when I tried
+it. You can't put a line around a paragraph or shading behind it. 
+
+However, don't fault TWS--for pure word processing it has some features that beat WP. When it
+comes to sorting lists, TWS is easier to use than WP. Consider this list:
+
+Jones, William
+Jones, Al
+Jones, Kevin
+Jackson, Dale
+
+TWS will sort this list in exact order, Dale, Al, Kevin, and William. WP looks only at the first word, so
+while Dale will move to the top, all the Joneses will be left in the order you type them. You have to
+define additional sort fields in order to sort the way TWS does by default.
+
+Searching and replacing is another area where TWS takes an edge. For normal text search, WP works
+fine and is quite a bit faster. But there are times when I want to search for non-text characters. For
+example, at the end of each paragraph, TWS puts a return character in the form of a back arrow.
+Again, look at my name list. Suppose I want to list these people and their job title, and I list all the
+System Programmers first. Instead of typing System Programmer over and over, with TWS I can tab
+and hit [RETURN], then go back, search for the [RETURN]'s and replace them with the words
+"System Programmer." WP will do this, but you have to enter the code for the character from a
+complicated and not always clear list.
+
+Let's give WP a few points--I don't know what the file-size limit is, since I've never encountered it. I
+have a number of TWS files that I've had to divide into as many as four parts, even with TWS128...a
+big plus for WP. Up through WP 6.xx spell checking was not much faster than TWS operating with the
+dictionary files in a RAM expander. WP 7.0 takes a big step forward with on-the-fly spell
+checking...any questionable word is underlined in red.
+
+Astronomy Program: I'm sure there is an astronomy program for the PC somewhere that would
+knock anyone's socks off. I haven't found it yet, and it probably costs over $100. I've used Sky Travel
+for Commodore for a number of years, but I was sure anything I bought for my PC would blow it
+away. The first program I got cost $40 and was a piece of junk...it would not let you select the sky
+view from anyplace on earth as advertised on the box, just from a very small list of cities. It was clunky
+and hard to use, and offered a very confusing sky view.
+
+Then I spotted Swift Guide to the Galaxy for $10; I figured it could not be worse and might be better,
+and I was willing to gamble that amount. It turned out to work pretty much as expected. It allows views
+from any time or spot on earth, searching for a particular star, planet or constellation, and real time
+motion--all things that Commodore's tiny Sky Travel program have offered for over 10 years. It beats
+Sky Travel with a nice set of planet pictures and a display of all positions of the moon for any month
+selected. However, when you ask to see an object that is below the horizon, it will not display it (you
+would have to move to another part of the earth). Sky Travel shows the object with shading that
+indicates you are looking down "through" the earth. This gives you an idea if Orion is going to be rising
+into view soon; whereas Swift Guide makes you hunt around till you position yourself where (and
+when) it is actually in the sky. Overall Swift Guide is a flashier program, and setting the time and
+location is a lot faster. But considering its use of the C64's small memory, Sky Travel does not have to
+take a back seat in any way.
+
+(Via the Commodore Information Center, http://home.att.net/~rmestel/commodore.html)

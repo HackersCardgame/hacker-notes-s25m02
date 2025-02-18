@@ -1,0 +1,20 @@
+System log for account 962320 (icq) connected at 17.05.2007 13::06::15
+---- +++ 962320 hat sich angemeldet @ 2007-05-17 13:06:15 ----
+---- tdr-timon hat den Status von Offline zu Bereit zum Chatten geändert @ 2007-05-17 13:06:16 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-05-17 13:06:16 ----
+---- Dominik wurde untätig @ 2007-05-17 13:06:16 ----
+---- +++ 962320 wurde untätig @ 2007-05-17 13:27:33 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-05-17 14:10:42 ----
+---- +++ 962320 wurde untätig @ 2007-05-17 14:01:57 ----
+---- tdr-timon hat den Status von Bereit zum Chatten zu Offline geändert @ 2007-05-17 14:16:43 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-05-17 14:17:03 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-05-17 14:50:17 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-17 15:00:50 ----
+---- Schööfli wurde untätig @ 2007-05-17 15:00:50 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-17 15:00:52 ----
+---- Schööfli wurde tätig @ 2007-05-17 15:00:52 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-05-17 15:12:21 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-05-17 15:14:48 ----

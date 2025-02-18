@@ -1,0 +1,94 @@
+Using the Commodore RAM Expansion Unit
+
+by Dick Estel
+
+
+This information applies to the 1764 and 1750 REU's and units that have been expanded to 1, 1.5 or 2
+megabytes.  GEOS is the only program listed that conveniently makes use of the expanded units (1 meg
+and larger).  Maverick may be modified to use the expanded unit.  The expansion normally includes
+installation of a toggle switch to convert the unit back to the normal 512k.  Some of the programs will
+not recognize the REU at all unless the toggle switch is changed.
+
+Remember in every situation where a file is created within the REU or is SAVEd to the REU, it must be
+copied to a real disk or it will be lost when power is turned off.
+
+There are several commonly-used programs that are programmed to utilize the REU:
+
+GEOS: 
+
+GEOS 1.3 and 2.0 will normally recognize the 256k and 512k REU when the program is booted.  The
+REU will appear as a second disk drive icon with the name RAM 1541 (256k) or RAM 1571 (512k).  
+
+If your REU has been expanded above 512k, you must use the modified version of the configure file
+(2.1) in order for GEOS to recognize the additional RAM.  As far as I know, you cannot use these
+expanded REU's with GEOS 1.3.  CONFIGURE 2.1 is available from many on-line sources and most
+user group libraries. It is also provided by some technicians when they expand the REU.
+
+Refer to your GEOS 2.0 manual for information on using the CONFIGURE program.
+
+When used with GEOS, a REU is configured to emulate real Commodore disks drives, as follows:
+
+256k: 1541
+512k: 1571
+1024k: 1581
+
+Larger REU's emulate various combinations of drives; for example, a 2-meg REU will emulate two
+1581's.
+
+GATEWAY, the alternative GEOS operating system from Creative Micro Designs, utilizes a larger
+portion of the RAM and is not confined to emulating actual disk drive sizes.
+
+
+THE WRITE STUFF:
+
+If you LOAD and RUN the file RAMBOOT, it will set up the REU to work as if it were a second
+drive.  RAMBOOT then automatically loads BB writer.
+
+RAMBOOT is a BASIC program which can be modified to load a file copy utility FC, which then
+copies files of your choice into the REU.  FC may be modified to load the desired files.  Complete
+instructions are found in the TWS manual, as will as in my article "THE WRITE STUFF: 1581 Boot
+Disk," which will be available at http://home.att.net/~rmestel/commodore.html.
+The most beneficial use is to place the spellchecker dictionary files in the REU.  This allows virtually
+instantaneous spell-checking of a document.
+
+
+POCKET PLANNER and POCKET FILER:
+
+Both these programs automatically recognize the REU as an additional disk drive, into which files may
+be saved or loaded.  The logical use of this would be with Pocket Filer.  Entering data in Pocket Filer
+involves frequent disk access.  By placing the data base file in the REU, data can be added in the REU
+much faster.  The updated file must then be copied to a real disk.
+
+
+MAVERICK:
+
+Later versions of Maverick will recognize the REU and use it as a storage buffer during disk copy
+operations.  This is particularly useful when using a single (real) drive system; it is possible to copy a
+disk in two passes instead of the five or six that may be required without the REU. (Copying a 1581
+disk with a single drive requires 15 or more swaps!)
+
+
+USING THE REU "ON YOUR OWN:"
+
+In order to use the REU in your own programs or to load and save programs, you must run a program
+that configures the REU as a drive.  These programs are available in the public domain, and also are
+provided on the utility disk that comes with the REU when purchased new from a commercial dealer. 
+Units purchased second hand or through surplus outlets often lack the utility disk.
+
+Once the REU is configured as a drive, it works just like any drive as far as copying, loading, or saving
+BASIC programs.  LOAD and SAVE operations are virtually instantaneous.  Remember, any file
+saved to the REU must be copied to a real disk or it will be lost.
+
+The REU is used in BASIC programs through three BASIC commands:
+
+STASH:  Copies a specified block of memory from computer memory to the REU.
+FETCH:  Retrieves a specified block of memory from the REU to computer memory.
+SWAP: Exchanges a specified block of memory between computer memory and the REU.
+
+Use of these commands is beyond the scope of this article and require a knowledge of memory
+locations and other specifics of programming.
+
+A personal comment: For frequent GEOS users, an REU is a virtual necessity.  I would also
+recommend an REU for someone who uses the Pocket Filer with large database files that require
+frequent updating.  For non-programmers who do not use GEOS, the REU is a luxury that may have
+little practical use.

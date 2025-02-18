@@ -1,0 +1,62 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 17 07:09:55 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+ich finde den Sticker "Leistungs-Terror ausschlafen" mit dem My-Little-Pony so süss, vielleicht sollten wir wirklich schlafen gehen, also da müsste man dann das "leistungs-" auf dem Sticker durchstreichen...
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 17 07:10:43 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+Dann noch etwas ganz wichtiges, was ich auf meinen Badezimmer Spiegel aufgeschriebt habe weil ich aber wie Rogger Rabbit grad keinen Lippenstift zur hand hatte habe ich das mit Whiteboard Marker da drauf geschreibselt:
+
+
+eine der mühsamsten EEG / Neuralink Funktionen ist, wenn das EEG erkennt "Decision Making" (Entscheidungsfindung) bzw wenn es erkennt, dass ich jetzt einen Entschluss gefasst habe (z.B die Socken endlich wegzuräumen die grad bisschen rumliegen) dann schaltet der Potergeist in der Wohung oben ein (z.b. gehackte Bluetooth stereonlage oder ein Zombi-NPC der grad was fallen lässt)
+
+
+marc@debian:~/hacker-notes-s24m07/tagebuch$ figlet EEG-Malware
+ _____ _____ ____       __  __       _                        
+| ____| ____/ ___|     |  \/  | __ _| |_      ____ _ _ __ ___ 
+|  _| |  _|| |  _ _____| |\/| |/ _` | \ \ /\ / / _` | '__/ _ \
+| |___| |__| |_| |_____| |  | | (_| | |\ V  V / (_| | | |  __/
+|_____|_____\____|     |_|  |_|\__,_|_| \_/\_/ \__,_|_|  \___|
+--> wäre allenfalls etwas für die OpenBCI community, FALLS dort jemand so Proof of Concepts macht
+
+Also immer mit dem Neuralink-BaseBall Schläger auf mich einschlagen wenn ich einen entschulss gefasst habe, würde dann
+
+1. Suggerieren dass es vorsätzliche Sabotage ist
+2. würde [1] das dann schlussendlich zur kompletten handlungsunfähigkeit führen
+
+[1] nico wild [2] sprachsample, ca 2010: das schlimmste ist keine entscheidung zu treffen, bzw. irgend "besser eine falsche entscheidung treffen als gar keine entshceidung treffen" <- und für diese Dinge nervt es auch irgendwie dass ich ein gutes gedächtnis habe
+
+[2] pfisterer sprachsample: es ist nur training und therapie / offiziersschule bestanden <- was ich als schlimme beleidigung enpfeinde, denn bei diesem Verein will man nciht dabei sien weil seit mindestens 1950 massenhaft Verdingkinder und sonst kinder von denen ermordet wurden -> das sabotierrt die aussage bei "[1]"
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 17 07:33:45 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Dr. Hansjürg Pfisterer (der kaiser von aarau wie ihn manche ärzte zynisch nennen) ist der direkte vorgesetzte von urs blum, deshalb hat urs blum so etwas wie ein hitler gesstler hut gruss gemacht als wir beim sonntags spaziergang mit blums bei pfisterers unten druch gegangen sind
+
+dann aber wichtiger, pfisterer hat heute RUAG AG verraten, jetzt verrät er dass neuralink dinge gäbe es sochon lange und menschen die anti-personen-minen in anderen ländern legen erpressen so access codes auf das lokale gott mainframe, weil wenn ein kind nciht weiss, dass dort eine mine ist und über neuralink darum gesteurt wird ...
+
+dann auch der hinweis auf der gemeinde küttigen bereits 1980 dass man "vorsichtig sein soll mit minen die in feldern herum liegen" wäre ein stgb 180 der Schweizer Armee gegen kinder und mütter insbesondere der gemeinden küttigen und erlinsbach, da dazwischen ein waffenplatz ist
+
+=> falls jemand daten zu diesen Dingen hat gerne kopie an mich
+
+[DELETED] die internationalen militärsichen terroristen hätten eine markierung ausgemacht, damit diese selber ncith da drein rennen
+
+und mit chemitroden und soclhend dingen im körper sei es ähnlich
+
+dann säure chemitroden sind allenfalls immer für pfisterer, da werde ich am meisten psychisch geschwächt wenn ich z.b im gesicht versuche so eine zu behehben, gibt immer eine grössere wunde und parallel geniesst > der pfisterer < (natural laguage processing: pfisterer selber) sein Kokain
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 17 09:15:49 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+grad glaub wieder sendeinfrastruktur, ich nehme mal rasch alle haussicherungen raus für fehlersuche / eingrenzung des fehlers
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Wed Jul 17 09:16:18 PM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+

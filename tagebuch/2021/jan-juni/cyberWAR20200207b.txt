@@ -1,0 +1,32 @@
+
+
+~1:35:00 Induktive Logik, Erfahrungswerte sind durch Bildung nicht vermittelbar?
+
+ich hoffe das mit dem "Ritzen" (schon das Wort geht gar nicht) ist dazu da um zu schauen wer diesen Erfahrungswert schon gemacht hat, bzw. Kurs in induktiver Logik...
+
+Falls Induktive Logik (weil zu viel Wissen-schlau , wie konnte sich das von einer älteren Mitpatientin die das gemacht hat die ich in der Psychiatrie kennen gelernt habe auf mich übertragen?
+
+Sun Feb  7 20:17:18 CET 2021
+Sun Feb  7 20:18:03 CET 2021
+ 10  75 476 cyberWAR20200207b.txt
+Sun Feb  7 20:18:41 CET 2021
+ 10  75 476 cyberWAR20200207b.txt
+d9ba956710a26a7f4dfbd571e2b9bdf3fd8f8a7e64b7cee798c5903f53882b178753a8f49e658911267b1e86ba32963a5e102b62cf8fecf5b7ec7ce4cc92ae2b  cyberWAR20200207b.txt
+#!/bin/sh
+date
+wc $GEDIT_CURRENT_DOCUMENT_NAME
+sha512sum $GEDIT_CURRENT_DOCUMENT_NAME
+
+
+
+
+~1:35:00 Induktive Logik, Erfahrungswerte sind durch Bildung nicht vermittelbar?
+
+ich hoffe das mit dem "Ritzen" (schon das Wort geht gar nicht) ist dazu da um zu schauen wer diesen Erfahrungswert schon gemacht hat, bzw. Kurs in induktiver Logik...
+
+Falls Induktive Logik (weil zu viel Wissen-schlau , wie konnte sich das von einer älteren Mitpatientin die das gemacht hat die ich in der Psychiatrie kennen gelernt habe auf mich übertragen?
+
+ammonyak <-> icd F44.x?
+
+
+

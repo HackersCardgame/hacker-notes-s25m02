@@ -1,0 +1,19 @@
+Printer Ribbon Sources
+
+(No guarantees that this is up to date; if you have additional sources, please send Email and we'll
+update this article)
+
+MPS-801 and Comrex Model 220: Ribbon number DMP 110, Radio Shack
+Blue Chip, Compac CP-80 and Okidata 1600 printers use the same ribbons as the Commodore MPS-
+802 and 1526.
+MPS-803, Brother M1009 and 9010, and Axiom SLP ribbons are all the same.
+Vic 1525: Ribbon number LP-VII, Radio Shack; also same as Seikosha gp80a/100a/100at and the
+Axiom A-80m and Gp100.
+A number of different Commodore ribbons are available from H.T. Orr Computer Supplies, 249
+Juanita Way, Placentia CA 92670, ph 714-528-9822, Fax 714-993-6216; credit card orders 800-
+377-2023.
+Another sourcee of many brands of ribbons is Unique Services, 68 Velma Ave, Pittsfield MA 01201;
+413-496-9275.
+
+(From Aug-Sept 1996 ?Syntax, Commodore Houston User Group via the Commodore Information
+Center http://home.att.net/~rmestel/commodore.html)

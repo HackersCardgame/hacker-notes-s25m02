@@ -1,0 +1,24 @@
+System log for account marc.landolt@yetnet.ch (msn) connected at 11.02.2007 16::03::49
+---- +++ marc.landolt@yetnet.ch hat sich angemeldet @ 2007-02-11 16:03:49 ----
+---- Sonja hat den Status von Offline zu Abwesend geändert @ 2007-02-11 16:03:50 ----
+---- Sonja wurde tätig @ 2007-02-11 16:03:50 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-02-11 16:21:16 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-02-11 16:40:32 ----
+---- gizembakgor@hotmail.com hat den Status von Offline zu Verfügbar geändert @ 2007-02-11 17:00:45 ----
+---- gizembakgor@hotmail.com hat den Status von Verfügbar zu Offline geändert @ 2007-02-11 17:00:56 ----
+---- Cthulhu'nun çağrısı... hat den Status von Offline zu Verfügbar geändert @ 2007-02-11 17:54:10 ----
+---- Cthulhu'nun çağrısı... hat den Status von Verfügbar zu Offline geändert @ 2007-02-11 17:54:24 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- Cthulhu'nun çağrısı... hat den Status von Offline zu Verfügbar geändert @ 2007-02-11 17:59:57 ----
+---- Cthulhu'nun çağrısı... hat den Status von Verfügbar zu Offline geändert @ 2007-02-11 18:00:28 ----
+---- Cthulhu'nun çağrısı... hat den Status von Offline zu Verfügbar geändert @ 2007-02-11 18:10:31 ----
+---- Cthulhu'nun çağrısı... hat den Status von Verfügbar zu Offline geändert @ 2007-02-11 18:16:44 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-02-11 18:09:41 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-02-11 19:51:57 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-02-11 21:04:43 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch hat sich abgemeldet @ 2007-02-12 00:57:26 ----

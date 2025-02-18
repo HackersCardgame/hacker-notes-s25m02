@@ -1,0 +1,3 @@
+System log for account marc.landolt@yetnet.ch (msn) connected at 15.01.2007 17::58::02
+---- +++ marc.landolt@yetnet.ch hat sich angemeldet @ 15.01.2007 17::58::02 ----
+---- +++ marc.landolt@yetnet.ch hat sich abgemeldet @ 15.01.2007 18::40::37 ----

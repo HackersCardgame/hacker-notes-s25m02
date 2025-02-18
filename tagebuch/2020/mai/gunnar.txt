@@ -1,0 +1,53 @@
+
+
+Hi Gunnar, das soll Konstruktive Kritik sein: mir deucht KI schreckt Dich ein bisschen ab (ok das ist jetzt eher destruktiv). Du tendierst auch dazu Technokraten generell ihre Existenzberechtigung abzusprechen. Mein Tip, lass Dich doch mal auf eine Reise mit einem Technokraten ein, denn es gibt viele Technokraten die noch alle Steine auf der Schleuder haben. z.B. der Mitch Altman war einer der Google Mitarbeiter, der Google verlassen [hat/musste] als Google KI entwickeln wollte für militärische Drohnen Anwendungen. Ihn in den Topf derer zu werfen die sich ihre Existenzberechtigung rein nur durch technische Weiterentwicklung geben ohne die Konsequenzen ihres Handelns zu überdenken wäre IMHO falsch. KI wird entzaubert, in dem man einfach mal einen Online Kurs zu Deeplearning belegt, danach sieht man auch, dass KI bzw. Deeplearning eigentlich Statistik ist. Vorbedingung für den Kurs ist es eine Ahnung von Statistik, Vektoren und Matrizen (nicht die Matrix aus dem Film mit Keanu Reeves) zu haben: https://de.coursera.org/learn/machine-learning
+Gunnar Kaiser
+Gunnar Kaiser
+vor 1 Tag
+Ich glaube du verstehst unter Technokraten etwas anderes als ich.
+3
+Der Dicke mit der Zigarre!
+Der Dicke mit der Zigarre!
+vor 1 Tag (bearbeitet)
+@Gunnar Kaiser ich fühle diese Antwort
+Marc Jr. Landolt
+Marc Jr. Landolt
+vor 12 Minuten
+@Gunnar Kaiser Ich denke wir verstehen schon das selbe unter Technokratie. Meiner Meinung nach ist das für viele Menschen die ihre Existenzberechtigung (ihr Ich) durch Fertigkeiten legitimieren der Startpunkt. Ich meine der Output von Schulen sollen ja funktionale Menschen sein, den Menschen deswegen zu bashen ist dann suboptimal. -> mehr tiefen Selbstwert -> mehr Technokratie...
+Marc Jr. Landolt
+Marc Jr. Landolt
+vor 11 Minuten
+Die lach-smileys sind ganz ganz ganz schlecht für meinen Selbstwert...
+Der Dicke mit der Zigarre!
+Der Dicke mit der Zigarre!
+vor 7 Minuten
+@Marc Jr. Landolt Ich bitte um Verzeihung
+Gunnar Kaiser
+Gunnar Kaiser
+vor 4 Minuten
+Nach deiner Antwort bin ich mir eigentlich relativ sicher, dass wir etwas völlig verschiedenes unter Technokratie verstehen. Nach meinem Verständnis hat Technokratie in dem Sinne nichts mit Technik, Technologie, KI, funktionale Menschen, Deeplearning zu tun, sondern es ist eine Form der Herrschaftslegitimation durch "Experten" - Wissenschaftler, Ingenieure etc.
+
+
+
+
+
+
+​ Gunnar Kaiser
+
+Doch "Legitimation" trifft eigentlich schon halb den Kern dessen was ich sagen möchte. Als Kind ist man Narzistischem Machtmissbrauch ausgesetzt. Die dummen Eltern wissen eh alles besser, was auch einleuchtend ist wenn die Eltern 20-40 Jahre älter als sind das Kind. Eltern wissen folglich 20-40 Jahre mehr, was sie dem Kind gegenüber aber nicht als Faktor für die Bewertung seiner Handlungen eingestehen. "Sei erwachsen"
+
+Folglich ist das Kind in der Diskussioenen unterlegen und muss sich den Eltern oder dem Lehrer ("den Experten") fügen. Wenn dann die Mutter basierend auf dieser "Experten-Rolle" ein "Geh raus spielen" präsentiert, adss von der Mutter (nonverbal) so verkauft wird, als ob es im Interesse des Kindes sei, da merkt das Kind irgendwann, dass die Mutter dies wegen Egoneeds so verkauft. -> Misstrauen.
+
+Aber kann sein, dass ich als technisch vorbelasteter Mensch da mehr triggere als nötig.
+
+Gegenfrage, weshalb sollte man nicht den Philosophie Lehrer auch als einen solchen Experten bezichtigen, der wegen mangelnden Skills in Statistik, Informatik, Wissenschaft, "DeepLearning", Wissenschaften, Mathe sich so einfach Trost in der Philosphile sucht. Genesung von Narzistischem Machtmissbrauch Älterer gegenüber, weil er als Kind eben nicht der Experte war? Hat er ein Trauma von [Ä|E]ltern und wettert statt gegen das Alter gegen die Technokratie?
+
+Ich finde es eigentlich selber super toll, wenn ich mich mit gleichaltrigen Experten meines Fachgebiets austauschen kann oder Schwanzlängenvergleiche machen kann.
+
+Was ich eigentlich sagen wollte, auch für Informatiker ist KI so etwas was man nicht genau einordnen kann: "Hexenwerk", aber der besagte Kurs hilft eigentlich recht gut das ganze zu demystifizieren.
+
+
+
+
+
+

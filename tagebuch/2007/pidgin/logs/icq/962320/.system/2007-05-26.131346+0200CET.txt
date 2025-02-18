@@ -1,0 +1,77 @@
+System log for account 962320 (icq) connected at 26.05.2007 13::13::46
+---- +++ 962320 hat sich angemeldet @ 2007-05-26 13:13:46 ----
+---- tdr-timon hat den Status von Offline zu Verfügbar geändert @ 2007-05-26 13:13:46 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-05-26 13:13:46 ----
+---- Dominik wurde untätig @ 2007-05-26 13:13:46 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-05-26 13:13:46 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 13:14:07 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 13:19:56 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-05-26 13:22:51 ----
+---- +++ 962320 wurde untätig @ 2007-05-26 13:14:03 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 13:36:20 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 13:39:50 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 14:08:05 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 14:08:26 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 14:14:05 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 14:24:49 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 14:30:36 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 14:41:54 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 14:50:55 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 14:57:54 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-05-26 15:00:35 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 15:02:57 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 15:11:53 ----
+---- +++ 962320 wurde untätig @ 2007-05-26 15:04:38 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- tdr-timon hat den Status von Verfügbar zu Offline geändert @ 2007-05-26 15:31:34 ----
+---- +++ 962320 wurde untätig @ 2007-05-26 15:22:55 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 15:47:54 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 15:49:02 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 15:54:08 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 15:54:11 ----
+---- vortex hat den Status von Offline zu Verfügbar geändert @ 2007-05-26 16:00:35 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 16:07:26 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 16:18:39 ----
+---- Dominik wurde tätig @ 2007-05-26 16:18:39 ----
+---- FairyLady hat den Status von Abwesend zu Nicht verfügbar geändert @ 2007-05-26 16:27:26 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-05-26 16:28:11 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 16:30:06 ----
+---- Dominik wurde untätig @ 2007-05-26 16:44:05 ----
+---- vortex hat den Status von Verfügbar zu Offline geändert @ 2007-05-26 16:48:16 ----
+---- FairyLady hat den Status von Nicht verfügbar zu Offline geändert @ 2007-05-26 16:48:35 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-05-26 16:48:36 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-05-26 16:48:47 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-05-26 16:49:32 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-05-26 17:03:50 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-05-26 17:19:24 ----
+---- shrike wurde tätig @ 2007-05-26 17:19:24 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 18:02:02 ----
+---- +++ 962320 wurde untätig @ 2007-05-26 17:55:50 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 18:12:02 ----
+---- +++ 962320 wurde untätig @ 2007-05-26 18:11:41 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 18:22:02 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-05-26 18:28:33 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 18:42:02 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 18:52:02 ----
+---- +++ 962320 wurde untätig @ 2007-05-26 18:45:52 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 19:00:08 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 19:12:08 ----
+---- +++ 962320 wurde untätig @ 2007-05-26 19:04:10 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 19:20:03 ----
+---- Dominik wurde tätig @ 2007-05-26 19:20:03 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 19:22:08 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 19:48:23 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-26 19:57:37 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-26 20:01:57 ----
+---- Dominik wurde untätig @ 2007-05-26 20:15:56 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-05-26 20:29:31 ----
+---- +++ 962320 wurde untätig @ 2007-05-26 20:34:53 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-05-27 10:13:44 ----

@@ -1,0 +1,58 @@
+Why Commodore
+
+by Rolf Miller
+
+Since I continue to do most of my work using a Commodore 64, acquaintances ask, Why? That
+curiosity is understandable because I have and use more powerful machines. 
+
+My answer to the question is simply: The 64 isn't changing. It's true that the unit currently on the desk is
+not the original one purchased. It is also true that its internal circuitry represents numerous revisions
+from the original. But its operating system is the same. This means my knowledge of this machine
+acquired over the years is still viable. So are the many programs accumulated. And that means I can
+concentrate on doing work rather than wrestling with how. 
+
+This is not to suggest that what is required never changes. However, much of the work in this office
+ends up as text in one form or another, and the variations affect the form more than the underlying
+work. Consider this article as an example. In times past these words would end up printed on paper,
+copied, and mailed. Today they end up printed to disk, copied, and e-mailed. The effort to produce the
+words in both cases is the same. While the difference in this instance is provided for by The Write Stuff
+word processing program, not all variations are so readily accommodated. 
+
+That is when knowledge of the 64 comes into play. Seldom is the occasion that writing a little routine in
+BASIC doesn't answer the need. This familiarity with the 64 also allows programming to simplify jobs.
+For example, when it comes to dealing with a data base which consists solely of text, I find it much
+easier to create the base of data using the word processor. 
+
+To use a word processor in this way needs only a BASIC routine or two to handle the resulting data
+file. The most valuable aspect of this unchanging long-term relationship, though, is when it helps keep
+my other long-term relationship from changing. The reference is to my spouse: like the time she
+requested a sheet of paper printed with numbers 1 through 1000. Why? 
+
+To understand this fully, you need to know she married her first date. Consequently, she reads romance
+novels. She has hundreds of them. Fortunately, she trades them in from time to time. What triggers this
+housecleaning is when books start filling her shoe racks. A recent trading junket, though, left her quite
+depressed. She found she'd traded for a bunch of books already on her shelves. To understand how
+this could happen, one need only look at the covers surrounding the lust-filled pages. But the publishers
+sequentially number each book in a series. So, with a sheet of numbers, she could cross off the ones
+already read. No problem. Directly executing this line of code did it.
+
+OPEN4,4:FORX=1TO1000:PRINT#4,X;:NEXT:CLOSE4
+
+Well, not quite. That's the trouble with extemporaneous programming. What seems right often isn't. But
+since executing it demonstrates the result, there's no need to further describe the embarrassment.
+Besides, that format isn't what she had in mind. She wanted the numbers to read down the page in
+columns. 
+
+After forty something years of marriage, you learn a few things. To get all you want, for instance,
+requires not making remarks about the wife's imprecise declarations of what she wants. Furthermore,
+there is no defense to, "You didn't ask." And this is especially true when you know that the first step in
+writing any program is determining the WHAT. Formatted printing requires a little thought, and the wife
+graciously granted the time. 
+
+The following little routine produced the wanted results.
+
+10 open4,4:forx=1to63:fory=0to15 20 print#4,right$(" "+str$(y*63+x),5);:next:next:print#4:close4
+
+
+(From the Internet, via the Commodore Information Center,
+http://home.att.net/~rmestel/commodore.html) 

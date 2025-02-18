@@ -1,0 +1,99 @@
+Tagebuch Sa 12 Feb 2011 17:41:15 CET @ Marc-Landolts-MacBook-Pro.local
+
+Heute engelberg -> studium ffhs -> engelberg
+
+
+ABSTRAKT
+Sicherheitsarchitektur
+----------------------
+so wie ich das verstanden habe
+
+einteilen der gesammten infrastruktur in Kanäle und Systeme
+
+Kanäle xy
+=========
+1y interner kanal
+2y externer kanal
+x1 public (z.B. http)
+x2 geheim (z.B. https)
+x3 authentisch (mit gültigem CA signierten zertifikat)    
+  ->pre-requisits:
+    die CA's haben es wirklich im griff
+    keine man in the middle attack
+    der dns des providers des spitals ist bei einem vertrauenswürdigen ISP
+x4 geheim und authentisch
+
+confidentiality
+integrity
+authenticity
+
+
+Daten xyz
+=========
+xyz
+1yz interne Daten
+2yz externe Daten
+x1z public
+x2z lesebeschränkung
+x3z schreibbeschränkung  
+ ->es macht nicht wirklich sinn, schreiben zu dürfen und nicht lesen zu können
+ ->das windows rechte konzept erlaubt allenfalls zu viel möglichkeiten
+  ->allenfalls kann man die menschen in drei kathegorien einteilen
+   ->kinder und sünder
+   ->leute die noch am lernen sind und besser noch nichts sagen / schreiben
+   ->leute die einen masters haben und sich der konsequenzen ihres handelns bewusst sind und zuerst einen entsprechenden kollegen fragen bei unklarheiten bevor sie etwas falsche schreiben
+x4z lese und schreib beschränkung
+xy1 keine Zugriffsbeschränkung  <- diverse möglichkeiten was das heissen könnte
+xy2 Zugriffsbeschränkung
+
+*)
+
+somit besteht allenfalls ein bedürfnis iener vereinheitlichten abstrakten darstellungsweise von informatik objekten
+nehmen wir luhman, ein system besteht aus relationen und elementen
+
+relationen und elemente
+kanten und knoten
+kanäle und daten
+
+wurde der Ethernet bzw. der TCP/IP standard zur lösung eines problems entwicklet oder wurde da bereits schon darauf geachtet, dass er in einer bestimmten abstrakten form daher kommt, z.B. ports
+->tcp ip standards zuhause mal lesen.
+
+das thema ist sicherheitsarchitektur.
+layer 1 pysical
+layer 2 data link layer / media access control
+layer 3 tcp/ip
+
+übung:
+kleines netz mit 5 computer die verschiedene verbindungen untereinander haben
+wie mache ich nun qualitative aussagen über eine verbindung, grundsätzlich könnte man den port nehmen, jedoch lösst sich jedes protokoll auch auf einem anderen port betreiben
+somit kann z.B. ein autonom arbeitender virus/trojaner z.B. über den port 80 seinen c&c server kontaktieren
+
+somit muss die firewall, zumindest bei grösseren firmen entsprechend eine intelligenz darin haben, welche unterscheinden kann ob es ein einfacher web zugriff ist oder ob es sich um 
+andere daten handelt, das problem wäre, entsprechend würde der trojaner coder über http kommunizieren und z.B. die messages in ein forum schreiben, verbindet man es mit ELBOT like algorithmus
+würde es vermutlich für eine menschliche kommunikation gehalten werden
+
+->stift: du firewall du sicher ... jaja
+=>unwissenheit ist ein segen....
+
+repetitiv: das buch: "in den zwischenwelten" - zwischen wissen und nichts wissen
+
+
+
+
+
+
+
+
+
+*)
+visual, claudine rasiert meinem lieblingsteddy von ihr mit dem rasierapparat eine glatze + visual "ich" der das mit mir gemacht hat
+->finde ich total uncool...
+->vermutlich fand das claudine, meine schwester, meine mutter etc auch total uncool...
+=>Notiz, der teddi wird nicht kahl gemacht, es reicht dass er an der hand schon keine haar mehr hat.
+
+
+allgemeines gelächter *GRÖHL*
+
+
+
+

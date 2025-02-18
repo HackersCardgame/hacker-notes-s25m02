@@ -1,0 +1,2 @@
+KleinesLachendesGör.mute()
+Muss das kleine jetzt auch noch dauervisualisiert werden?

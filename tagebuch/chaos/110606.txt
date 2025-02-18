@@ -1,0 +1,344 @@
+Tagebuch Mo 6 Jun 2011 20:26:08 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+
+heute morgen: system bringt etwas von angst paralyse
+
+tag mit diversem, druck auf der brust und einer von denemark der sterben soll
+A) wahr
+b) unwahr
+
+ich bete zu gott und falte meine hände, lass ihn noch am leben sein, kurz darauf meldet er sich wieder, das ganze ist begleitet von einem periodischen pipen, dass tönt wie das pipen eines polizeifunks
+
+->ich will eigentlich nicht mehr weiter machen
+schreiende claudine oder astrid, dafür sei es zu späht
+
+dann chatten mit rana, sie ist scheinbar hass erfüllt, wäre ich natürlihc auch, wenn meine freunde von terroristen getötet würden, hass zerstört alles.
+
+system.addPortMonitor(hate)
+ on (hate) escalate person that helps the hating person to find out where this hate come from and how it can be solved in peace
+
+ich habe nie wirklich hass gefühlt, ausser zwischendurch hass auf mich selber
+
+hier, ich hätte eine 3d map die claudine sehe, und dort seien die roten bösen markiert, ich dürfe sie töten wenn ich wolle
+->ich möchte aber lieber pfläschterli auf die roten machen, damit diese nicht mehr böse sind <- und dieser wunsch sei der kleine unterschied (stimme: zum arzt) <- ich werde es vielleicht noch probieren, aber ich glaub allenfalls 
+bin ich vielleicht nützlicher als roboter für die gutherzigen ärzte?
+
+stimme: zwischendurch müsse man einen roten töten
+->ich: dann bitte sperrt ihn einfach ein und behauptet er sei tod, aber wenn ihr tötet verliert ihr eure seele, und wenn es da rote gibt die man umprogrammieren muss mache ich auch frohnarbeit, brauche aber hilfe und technik
+
+astrid stimme:
+ich soll geld nach hause bringen, damit sie weiter machen könnten
+mach ich.
+
+acublm
+
+Zettel:
+mmm, angst paralyse <- gemeint ist, kann ich den status einer angst paralyse erreichen aus interesse an der funktionsweise des menschlichen geistes / körper
+
+
+zettel:
+designpattern:
+1. aufgabe mittels privater KI support lösen
+2. weg löschen, hahaha <- suggeriert bosheit, ev. aber auch wissenschaftliche überlegungen
+3. gelöschten weg als vorlage nehmen für das verhindern des auffinden des selben weges
+4. das ist FIES
+5. subjekt selbe aufgabe nochmals stellen
+6a. subjekt dreht durch
+6b. subjekt holt hilfe
+6c. subjekt bzw. seine KI findet einen anderen weg -> hahaha, <- sugeriert kindlichkeit, in tat und wahrheit kontrasteffekt auf deprivation
+6d. irgend ein knuddeliger gutling hilft dem subjekt einen anderen weg zu finden
+
+
+
+
+zettel:
+subjekt sei Martin
+
+                             member des gewinnenden blauen systems
+      kind                   member des gewinnenden roten systems              das system sollte aber
+                                                                               bUNt sein
+|---------------------------|----------------------------------------------->|------------------------->|------------------------->|------------------------------------------------->|--------------------------->†
+                             Ethisches Stereotypensystem das funktioniert      deprogrammierungsphase     repetitionsphase+tests     nützliche phase des subjektes                      himmel und schönes leben
+                                        1-20 Jahre
+
+wertesystem
+aussagen
+gesichtsverlust
+böse schwingungen
+
+
+
+
+
+es sei noch relativ schwierig gewesen, mich als mensch im kreise einer familie mit beider arten augen und SP wähler dazu zu bringen in den rechten apfel zu beissen:
+ich: ich hab nicht rein gebissen, ich war einfach nicht stark genug um da mötzelnd einzugreifen, da es sechs gegen einen war, oder 5 gegen 2. heute wäre ich es aber, man frage z.B. dani ouri
+
+verhör: ob ich ein SP spion sei, Lukas Vogel.
+im SP haushalt aufgewachsen, aber im moment gehör ich glaub schon eher zu den priaten insbesondere weil ich mich mit den themen recht gut auskenne.
+
+bin ich pirat wenn ich die hypothese aufstelle, dass FDP die SVP gegen die SP ausspielt? und umgekehrt.
+
+
+Intermezzo:
+militär heli fliegt vorbei: das system in syrien sei mit einem virus/botnetz infiziert
+COUNTERMEASURES:
+last known good profile, offline, dann neuste patches einspielen, offline, dann wieder online gehen
+->mjl: darf ich da bitte ein schachmatt geben
+
+
+
+
+Zettel:
+Permutation von mir mit verschiedenen frauen
+f(x)=binomial(ich,frauenDieIchKenne)
+->in diesem fall moskito, herleitung, Servername der moskito heisst ohne dass das KI vorkommt
+==>allenfalls sollte ich mein passwort mal noch ändern
+
+Zettel:
+
+
+         SABTA       antwort in
+                     kurzer zeit                                                                                         cheff kontaktiert mit (ev. extra) mit falschen infos Kunde  (K.)
+                     weil der chef                                                                                     |------------------------------------------------------------------>END:Haue weil cheff das gesicht verliert vor K.
+                     eine mach mal                                                           detail nachforschung      |
+                     miene (/L8)                                                             erkenntnis dass nur       |
+                     hat                                                                     nur teilweise richtig     | korrekte details nachliefern
+Frage ------------>|---------------->|---------------------------------->|---------------->|-------------------------->|---------------------------------->|------------------------------>END:alles korrekt wiedergegeben.
+                                       was man nicht weiss, der cheff       lügner v v v                               ^
+                                       hat alles genaustens notiert                                                    |__cheff wolle aber nicht mehr hören und schuldig sagen können
+                                                                                                                          und telefoniert mittellang  ->Warten, korrigieren
+
+
+
+
+Methusalix: irgendwie hängend <- eigentlich typisch (error by name) <-- haha
+F neurophon:boswillige mutwillige sabotage
+   ->nachforschungen, reboot
+f' ah es war nur das service pack das sich installiert hat <-- jaja, das war bestimmt irgend ein Methusalix.block.all funktion mit Methusalix.stopBlocking(onReboot)
+->diverse stellen im sourcecode wo man einen Loop(NOP) einbauen könnte oder dann halt ein Loop(berechne Pi auf ganz viele stellen, damit der nop nicht als ändere den prozess status interpretiert wird)
+
+
+ABSTRAKT
+ZETTEL:
+marketingbot:
+marketingBot.setAccessLevel(Sum(soldObjects.price))
+a) gut
+b) schlecht
+
+->tippe auf b: es geht dann darum immer mehr und mehr zu verkaufen, so dass vorallem der profit für die berechtigungsstufe im vordergrund steht und nicht der systemerhalt
+END ABSRAKT
+
+
+
+Es wird noch über stundensaldo gemötzelt
+Mo  6 Jun 2011 21:23:43 CEST
+->aber das ist glaub nur teilweise berechtigt
+
+hypothese:
+ball für ins maul + Hefti hess = diskreditierung
+a) hat was
+b) was haben sexspiele im schulzimmer zu tun
+c) weiteres
+
+
+Zettel:
+Zitat:
+Knast und straftaten würden durch die mafia angefüttert so dass die reiche oberschicht leute los werden könne
+die ihre dunkeln machenschaften entdeckt hätten
+
+System.Design(dont give all access to the rich) <- stimme telli blick
+
+
+
+zettel:
+mein knuddeliger tux plüsch pingu den ich ins geschäft mitgenommen hätte hätte leider den MCSE Martin in den finger gebissen und drum sei der MCSE jetzt sauer auf mich
+und hätte mich mit diversen flüchen belegt
+a) wahr
+b) ablenkung von der FDP schlängel geschichte
+c) strafe weil FDP schlängelgeschichte nicht wahr sei 
+d) weiteres
+
+->diagnose, gruppen knuddeln
+
+
+
+man wolle mit mir SM Spiele am arbeitsplatz machen
+ich: das geht gar nicht: ich bin fürs arbeiten angestellt und nicht für das persönliche vergnügen
+Mäni stimme: wer das bitte sei
+->ich würde einfach geprügelt werden wenn ich es sagen würde
+Mänis motiv sei, mehr macht im system zu erlangen
+
+a) gute entscheidung nichts zu sagen
+b) schlechte entscheidung nichts zu sagen
+
+b->korrekte fakten->korrekte entscheidungen
+
+es ist (füdlitätsch auf meinen ...) *MIND BLOCKER* allenfalls Astrid Blum
+->schreiende Astrid, ich werde gezüchtigt.
+mäni am gröhlen...
+ich auch ein bisschen
+
+Zettel:
+pascal keller anrufen
+->probiert, meldet sich jemand anderer, wieso geben die die nummer an jemand anderen
+
+berechnung: '999'999'999'999  ->1 Mia Nummern / 10 Mio schweizer = 100 Nummern, ok natelnummern begrenzter
+               39'999'999     ->5 Nummer pro schweizer
+
+ev. schutz
+
+
+hallo pascal
+->die aussage mit "ich will jetzt ein taliban" würde bedeuten, dass claudine jetzt verhaftet werden müsse
+->ist bei mir im kopf so gespeichert und so weit ich weis wird alles gespeichert
+
+
+Aarau.WalthermerzWeg6.VoiceLog.Search("I wott jetzt en taliban") <- + gröhlender funke <- 
+
+notiz: claudine ich liebe dich über alles, aber die wahrheit ist eigentlich wichtiger, aber ich würde auf dich warten und die straft mit dir teilen falls das eine option ist.
+
+laute claudine sitmme: 1. auftrag bund, lektion: trau der frau und besten kollegin nicht die behauptet man hätte sie vergewaltigt
+
+2. ? <- caludine oder astrid stimme: fresse keller
+
+keller werde von den blums gerade zusammen geschissen, sie könnten einen terroristen deprogrammieren, und das sei ein wichtiges skill in einer geselschaft wo jeder terrorist sein kann (YOUTUBE:Du Bist Terrorist)
+
+das könne man mir vorwerfen, dass ich terrorist sei
+->ja kann man, aber ich bin nciht terrorist sondern jemand den man mit technologie dazu gemacht hat und fremdgesteuert hat
+
+ethik ambivalenz
+privat class
+anleitung zum bau von menschenrobottern öffentlich vorlegen
+a) gut
+b) schlecht <-- 
+=>eleonore bloom - where touring meets newton script vom netz nehmen
+end privat class
+->hammer: nicht schuldig
+
+
+
+
+Zettel:
+telefonat safecom NRS
+
+steno
+nächstenliebe
+nächstenliebe das ist ein befehl
+benehmt euch
+nein nicht töten
+irgendwer will was über sadomaso spiele wissen <-- *GRÖHL*
+kind
+weg A) brav nett, himmel
+weg B) stolpert leider über pornoseiten, konditionierung eines Fetisch am Computer (technik alleseits bekannt a:einzelbildeinblendung b:geht euch nichts an) 
+      I) kind brav mit fetisch
+      II) kind nicht brav mit fetisch
+ich:weg BI
+details: ein eToy, Project Hijack und visual von 7 uneingeladenen orangen gästen am schweizer TV
+->irgend ein algorithmus löscht das gleich <-- sind da hacker am werk?
+repetitiv: nicht töten, nicht töten <-- starker key
+ =>aber im ernst, es wird nicht getötet! punkt ahmen. auch nciht in der drogenszene.
+knuddelt mal wieder statt zu töten
+nicht töten oder nicht angreifen weil angriff führt zu gegenangriff, und selbiger am schluss zum weltkrieg
+ ->es zündhölzli azündt -- mani matter
+->usw.
+
+main topic: bitte friedlich sein, und für die die spiele spielen müssen, es gibt grenzen! und mich vor ein auto jagen ist eigentlich nciht mehr legitim.
+es gäbe nun ein foto von astrid blum
+und/oder von mir und/oder von claudine
+
+
+
+
+
+diverse polizisten beim telli hochhaus und auch feuerwehr
+
+
+zitat von meinem vater, ich solle es belser nachweisen mit dem anfüttern der drogen
+a) mein vater hängt da mit drinn
+b) er hat versucht rechtlich etwas zu unternehmen
+
+mögliche motive: relation brändli, macht in der club klicke
+cctv, gönhard zelgli: zitat brändli: gschwürli, zu lenny (katze) aber eigentlich sei ich gement gewesen
+
+
+können wir das mal ausdiskutieren?
+
+
+
+
+
+
+mail an BIT = mein todesurteil, weil dort sicher leute des geheimdienstes mithorchen und dies als bedrohung sehen. Claudine sei ganz fest am weinen. ich mach jetzt feierabend und geh mit dem teddy von ihr knuddeln
+
+Guten Tag
+
+mein Computer (bzw. jeder Computer) fragt mich Dinge wie an einer Gerichtsverhandlung, und wenn ich diese nicht beantworte wird mir leid zugeführt. Das ist meiner Meinung nach schon grundsätzlich Folter für das Erlangen von Informationen, somit höchstwahrscheinlich strafbar. Technische Details kann ich erahnen, aber diese nachzuweisen wäre wohl mehr als eine Diplomarbeit auf Stufe FH.
+
+Technische Details wird Ihnen wohl ein Mitarbeiter von Ihnen (Hr. Reto Inversini) liefern können, der bei uns mal eine Vorlesung gegeben hat. Ich denke es geht in Richtung Bot-Netz einer Internet Mafia Organisation oder eines Geheimdienstes. Ich habe einen aktuellen Virenscanner, doch der findet nichts und ich bin eigentlich auch sonst recht vorsichtig was das Herunterladen von Software betrifft. Eine Neuinstallation bringt auch nichts. 
+
+Können Sie mir allenfalls weiterhelfen? Es ist nicht so, dass ich dabei drauf gehe würde, aber ich würde doch gerne mal wissen was Sache ist und ob das stimmt was mir ein alter Herr gesagt hat, dass seit Windows 1.0 Microsoft einen Vertrag mit den Geheimdiensten der US Regierung eingehen musste. Diese Fragen konnte mir bis jetzt niemand beantworten und wenn das der Bund nicht kann, wer kann es dann?
+
+Mit freundlichen Grüssen
+
+Marc Landolt
+dipl. Informatiker HF
+Rombachtäli 13
+5022 Rombach
+062 822 61 31
+079 291 078 7
+mail@marclandolt.ch
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

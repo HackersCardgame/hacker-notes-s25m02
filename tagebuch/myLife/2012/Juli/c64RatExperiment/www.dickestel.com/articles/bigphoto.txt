@@ -1,0 +1,63 @@
+Big Photo Scraps
+
+by Dick Estel
+
+
+In the early days of GEOS, users were delighted with the capability in geoPaint of being able to create
+designs and drawings, and then copy a part of the design to another geoPaint document or to a
+geoWrite document.
+
+This same capability extended to geoPublish when it was released in 1987. However, creative users
+also began to experience the major limitation of this feature--the area copied can be no larger than the
+drawing window, which is about 1/10 of the page in 40 column mode.
+
+Patient computerists could get around this limitation by copying larger artwork in sections, but pasting
+the pieces back together correctly took patience, time and a lot of touch up work.
+
+In 1989 programmers in the public domain arena came to the rescue with several programs that
+allowed the creation of photo scraps larger than the drawing window.
+
+One of these was Big Clipper by Nick Vrtis, which requires you to define the desired copying area in
+terms of pixel locations. This can be done by intelligent guesstimates, with a series of trial and error
+steps, or you can view the document in geoPaint and measure the pixel locations before opening Big
+Clipper.
+
+About the same time Dennis Seitz uploaded Paint Scrap, which would create a photo scrap of the
+entire geoPaint document. While these programs were a major step forward, the oversize photo scraps
+created could only be pasted into geoPublish, which is the only GEOS application that allows you to
+work on the full page.
+
+Within the last three months, Dennis has upgraded Paint Scrap, and two new programs have been
+uploaded, that greatly increase the flexibility of working with photo scraps. Big Clipper 2.0 and ScrapIt
+both allow you to create your photo scrap from a screen that is just like the preview mode in geoPaint.
+In this mode you can see a small representation of your entire document, but you can't actually work on
+it. These two programs allow creation of a scrap by framing the desired area just like geoPaint, but with
+a view of the whole document.
+
+Although Dennis planned to upgrade Big Clipper to allow pasting the oversize scrap into geoPaint, this
+upgrade never appeared
+
+The other new program is the similarly named Scrap It! This program has enormous flexibility, although
+in its current version it is incredibly slow, even when used in the RAM expander.
+
+This program allows conversion of Doodle, Koala and other drawing formats to geoPaint documents or
+photo scraps, as well as the conversion of geoPaint photo scraps to geoPaint documents and vice
+versa. It does NOT appear to support creation of oversize scraps, but it does allow conversion of
+geoPaint to Doodle, Koala, Print Shop and other formats. This is the first program I have seen that
+allows conversions FROM GEOS.
+
+A program with similar capabilities that opens up creative opportunities is geoFetch, which is found on
+Lodestar Disk 65. This program creates a photo scrap from any part of any GEOS screen when you
+are able to access desk accessories. It cannot be used when there is a pull-down menu or dialog box
+displayed, since you are limited to clicking in those areas. But it can be used while in normal editing
+mode in all the GEOS applications, allowing you to create photo scraps of parts of the desk top or
+something like the geoPaint tool box graphic which appeared in last month's GEOS column.
+
+With these add-on programs by independent programmers, GEOS has taken on a degree of usefulness
+and flexibility that even the bright minds at Berkeley Softworks did not envision.
+
+(A year 2000 PS: Nate Fiedler's geoCanvas finally gave us the ability to paste oversize scraps intoeoPaint as well as get them out.)
+
+(From The Interface, newsletter of Fresno Commodore User Group, 3/90, via the Commodore
+Information Center, http://home.att.net/~rmestel/commodore.html)
+

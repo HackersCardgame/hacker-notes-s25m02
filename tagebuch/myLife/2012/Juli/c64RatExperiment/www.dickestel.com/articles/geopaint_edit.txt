@@ -1,0 +1,52 @@
+GeoPaint Editing
+
+by Dick Estel
+
+One area where confusion can arise in discussing geoPaint is the fact that there are two different
+meanings to the term "edit."
+
+The top right item in the geoPaint toolbox is the Edit Box tool, which I often refer to as the framing tool. 
+When you click on this, the pointer becomes a crosshair.  It is used to define an area to be cut or
+copied as a photo scrap; or an area into which a scrap can be pasted.  
+
+To use the Edit Box tool, the crosshair is positioned at one corner of the area you wish to select.  After
+clicking, move the crosshair to the diagonal  corner.  A rectangular outline will appear, and the second
+click sets the region in place.  The frame that appears is a guideline only, and does not become part of
+your document.
+
+Once an area has been defined, click on EDIT in the top menu line.  To create a photo scrap of the
+defined area, click on CUT or COPY (CUT will also clear the defined area).
+
+If you want to paste a photo scrap into your document, click on PASTE.  You will then be offered
+several options, including the ability to scale the size of the scrap.  Once you make your choices and
+click OK, the current photo scrap is pasted into the defined area.
+
+The other method of editing is to select one of various options from the bottom of the screen.  This
+menu area appears whenever you have selected the EDIT tool.
+
+The choice selected will affect the area inside your frame.  The default selection is MOVE.  Once you
+have defined a frame area, two small black squares appear at the upper left and lower right corners of
+the frame.  Clicking on the lower right box allows you to change the size of the frame.  Clicking on the
+upper left box allows you to move the frame around within the drawing window.
+
+COPY allows you to make a copy of the framed area in the drawing window (it does NOT create a
+photo scrap).  Just click on the upper left box; wherever you move the frame, a copy of the framed
+area will appear.
+
+The other options are:
+
+ROTATE: Rotates the area one quarter
+
+MIRROR X:  Flips the area left to right
+
+MIRROR Y:  Flips the area top to bottom
+
+INVERT:  Changes the area to a negative image (black becomes white; white becomes black)
+
+CLEAR:  Blanks the framed area (you can recover by immediately clicking UNDO, but once you
+make any other selection, the cleared area is permanently lost)
+
+GEOS is a program with many features.  During the learning period this adds greatly to the complexity
+and difficulty of figuring everything out.  The best way to deal with it is to load the program, and try out
+all the features and menu items.  Don't be afraid to experiment...you can always dump your failed
+efforts into the waste basket!

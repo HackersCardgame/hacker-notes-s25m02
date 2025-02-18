@@ -1,0 +1,39 @@
+System log for account 962320 (icq) connected at 13.05.2007 10::56::53
+---- +++ 962320 hat sich angemeldet @ 2007-05-13 10:56:53 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-05-13 10:56:53 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-05-13 10:56:53 ----
+---- Dominik wurde untätig @ 2007-05-13 10:56:53 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-05-13 11:09:34 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-13 11:35:54 ----
+---- Dominik wurde tätig @ 2007-05-13 11:35:54 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-13 11:39:21 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-13 11:39:37 ----
+---- tdr-timon hat den Status von Offline zu Bereit zum Chatten geändert @ 2007-05-13 11:46:39 ----
+---- tdr-timon hat den Status von Bereit zum Chatten zu Offline geändert @ 2007-05-13 11:47:46 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-13 11:55:06 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-13 11:55:07 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-13 11:59:29 ----
+---- Dominik wurde untätig @ 2007-05-13 12:13:29 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-13 12:16:25 ----
+---- Dominik wurde tätig @ 2007-05-13 12:16:25 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-13 12:19:59 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-05-13 12:23:02 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-13 12:24:56 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-13 12:28:19 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-13 12:40:17 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-13 12:47:08 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-05-13 12:47:30 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-13 12:48:40 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-05-13 13:05:12 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-13 13:06:53 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-13 13:10:53 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-13 13:15:00 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-13 13:17:36 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-13 13:19:00 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-13 13:19:28 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-13 13:21:06 ----
+---- Dominik wurde untätig @ 2007-05-13 13:35:07 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-13 13:37:22 ----
+---- Dominik wurde tätig @ 2007-05-13 13:37:22 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-13 13:40:19 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-05-13 13:42:35 ----

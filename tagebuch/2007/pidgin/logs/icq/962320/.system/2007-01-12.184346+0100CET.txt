@@ -1,0 +1,13 @@
+System log for account 962320 (icq) connected at 12.01.2007 18::43::46
+---- +++ 962320 hat sich angemeldet @ 12.01.2007 18::43::46 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 12.01.2007 18::43::46 ----
+---- Schööfli hat den Status von Verfügbar zu Verfügbar geändert @ 12.01.2007 18::43::46 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 12.01.2007 18::43::46 ----
+---- shrike hat den Status von Verfügbar zu Verfügbar geändert @ 12.01.2007 18::43::46 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 12.01.2007 18::43::46 ----
+---- Dominik hat den Status von Verfügbar zu Verfügbar geändert @ 12.01.2007 18::43::46 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 12.01.2007 18::45::25 ----
+---- Schööfli wurde untätig @ 12.01.2007 18::45::25 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 12.01.2007 18::56::25 ----
+---- Schööfli wurde tätig @ 12.01.2007 18::56::25 ----
+---- +++ 962320 hat sich abgemeldet @ 12.01.2007 18::56::49 ----

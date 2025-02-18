@@ -1,0 +1,17 @@
+Wed Aug 11 01:26:22 CEST 2021
+0 0 0 20210810.txt
+
+unknown:
+das unbedingt rückdatieren sonst sind wir lügner
+
+floppy steht auf consensual schmerzen bei ... durch seine einizige gleichaltrige die Ein, wir sollten ihm das unbedingt austreiben
+
+und im stgb schweiz steht gewalt ist verboten bei ... und da wir zu blöd für deutsch sind schmiessen wird gewalt und schmerz besser mal in den selben dings nur um sicher zu gehen ... 
+
+Wed Aug 11 01:30:01 CEST 2021
+ 11  72 431 20210810.txt
+[main 6a4e2d8] save
+ 2 files changed, 5 insertions(+)
+ create mode 100644 tagebuch/2021/august/20210811.txt
+10262e8ca5e56a664d36aa66888179770eeebea90f280b2c85ce0d058e38db85ed32e5193550160ca7adef5200915378ff8ba235abfde1a4c1c066ce8c02c66a  20210810.txt
+

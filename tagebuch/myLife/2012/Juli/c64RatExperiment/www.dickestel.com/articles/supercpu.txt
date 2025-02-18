@@ -1,0 +1,26 @@
+SuperCPU
+
+(Note: The SuperCPU is now what we would call "mature technology," but this article is still useful as a basic description of its functions.)
+
+
+The SuperCPU is an accelerator module that plugs into the C64/128 Cartridge port. At its heart is the W65C816S microprocessor running at 20 MHz, along with 128K Bytes of high-speed Static RAM (the same type of high-speed cache memory found in 486/Pentium systems), 128K Bytes of ROM, and a Complex Programmable Logic Device IC (CPLD).
+
+The SuperCPU is contained within an enclosure approx. 6-1/4" wide x 4" tall x 2" deep. The enclosure has an opening for the Cartridge-Port Pass-Thru connector at the rear, in line with the host computer's own Cartridge Port. The main circuit board in the SuperCPU mounts vertically, so as to keep the depth of the unit to a minimum. This helps to prevent devices plugged into the pass-through port on the CPU from extending too far back from the computer. Three toggle switches line the upper front edge of the unit: A Unit Enable/Disable switch; a JiffyDOS Enable/Disable switch; and a speed selection switch. A push-button Reset switch and Turbo mode indicator LED are also provided.
+
+Installing the SuperCPU 64 is simple: just plug it into the Cartridge port. No wiring or jumpers need to be installed inside of the computer, and there's no manual 'fine-tuning' adjustments to be made. 
+
+Operating the SuperCPU requires no special knowledge. The user can perform all computer tasks in exactly the same manner as with a stock system, while gaining the benefits of accelerated speed. The toggle switches on the unit are clearly labeled, easily accessible, and can be used without having to refer to a manual in order to determine their function.
+
+The SuperCPU 64 operates with C-64 and C-64c computers as well as the C-128/128-D in 64 mode. The processor provides a very high level of compatibility with existing software, including GEOS. 
+
+The JiffyDOS Kernal ROM for the computer is built into the SuperCPU, providing DOS-Wedge commands and enabling high-speed serial transfer rates to and from JiffyDOS-equipped disk drives. A JiffyDOS disable switch is provided so that the SuperCPU can load programs which are not compatible with JiffyDOS. This switch can be used to enable or disable JiffyDOS while the CPU is running, and does not affect the operating speed.
+
+The SuperCPU includes a Cartridge Port Pass-Thru connector which enables the full use of most plug-in hardware devices such as Commodore REU's, RAMLink, Swiftlink, SID Cartridge, and GEORAM. These devices will work with the CPU running at 20 MHz and will not require a slowdown to 1MHz. Most ROM cartridges (generally games) will either force the SuperCPU to 1 MHz mode, or require that you manually switch off Turbo.
+
+Special features for GEOS include the necessary Configure and driver software to optimize GEOS for operation with the SuperCPU. In addition, an intelligent write-thru hardware circuit designed especially for GEOS effectively eliminates a major performance bottleneck associated with earlier accelerator designs such as the Turbomaster and Flash-8. This design feature, coupled with the speed of the unit, boosts the performance of GEOS far beyond anything currently possible or imaginable.
+
+The SuperCPU is equipped with an internal connector which is to be used for the C-128 option board and for an optional RAM Expansion card. Each of these cards will have on-board SIMM sockets and can contain from 1 to 16 Megabytes of Dynamic RAM (DRAM). The RAM on this card can be used as additional programming space for advanced applications software.
+
+Speed Selection: The speed selection switch provides on-the-fly switching between 1 MHz mode and 20 MHz (Turbo) mode. The 1 MHz option can be used for compatibility with programs (such as some games and cartridges) that may operate too quickly in the Turbo mode. Speed can also be altered via software using a simple POKE command, provided the unit is in Turbo mode. (Note: The SuperCPU performs disk access functions properly in any speed mode.)
+
+

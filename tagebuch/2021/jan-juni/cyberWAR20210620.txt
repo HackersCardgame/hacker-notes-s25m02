@@ -1,0 +1,31 @@
+
+Sun 20 Jun 2021 12:41:01 AM CEST
+2 0 2 cyberWAR20210620.txt
+
+echt mühsam
+
+vermutlich endpoint && irgend eine drossel *deep packet injection: auf dem weg zu* bei github / gitlab
+
+gitlab ist sowieso der prefekte ort um malware zu injecten, apropos octocat wo die jungen dann incentives bekommen und irgendwann zum sündenbock upgegraded werden
+
+Sun 20 Jun 2021 12:42:37 AM CEST
+ 11  54 346 cyberWAR20210620.txt
+[main 21417f9] save
+ Committer: marc <marc@debian>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 13 insertions(+), 2 deletions(-)
+ create mode 100644 .gedit-external-tools.txt.swp
+ create mode 100644 tagebuch/cyberWAR20210620.txt
+0ce6c550b6af48caacffffc21d7b7540d41d6d0f0645433bb5c4ba0deab1c39360721cddb20a479cd9a55b61f3556c3b14a0f33c4c14a004b4cee1ce4a4e19d5  cyberWAR20210620.txt
+

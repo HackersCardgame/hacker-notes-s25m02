@@ -1,0 +1,8 @@
+
+die summe der zufliessenden geldströme von stellen und der
+abfliessenden geldströme für kurse sind gleich.
+
+
+
+
+

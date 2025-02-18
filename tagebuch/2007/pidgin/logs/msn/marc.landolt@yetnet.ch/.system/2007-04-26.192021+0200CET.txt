@@ -1,0 +1,29 @@
+System log for account marc.landolt@yetnet.ch (msn) connected at 26.04.2007 19::20::21
+---- +++ marc.landolt@yetnet.ch hat sich angemeldet @ 2007-04-26 19:20:21 ----
+---- Sonja hat den Status von Offline zu Abwesend geändert @ 2007-04-26 19:20:22 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- Michi - 鲁光 hat den Status von Offline zu Verfügbar geändert @ 2007-04-26 19:47:07 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-26 19:41:18 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- Sonja hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-26 19:58:19 ----
+---- Sonja wurde untätig @ 2007-04-26 19:58:19 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-26 20:02:28 ----
+---- Sonja hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-26 20:13:19 ----
+---- Sonja wurde tätig @ 2007-04-26 20:13:19 ----
+---- Michi - 鲁光 hat den Status von Verfügbar zu Offline geändert @ 2007-04-26 20:13:28 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-26 20:27:08 ----
+---- Sonja hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-26 20:45:53 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- Sonja wurde untätig @ 2007-04-26 20:50:54 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-26 20:47:32 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- Sonja hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-26 21:05:53 ----
+---- Sonja wurde tätig @ 2007-04-26 21:05:53 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-26 21:04:00 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-26 21:14:33 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 2007-04-26 23:00:18 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ marc.landolt@yetnet.ch hat sich abgemeldet @ 2007-04-27 17:22:30 ----

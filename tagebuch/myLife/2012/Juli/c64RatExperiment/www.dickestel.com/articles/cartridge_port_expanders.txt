@@ -1,0 +1,48 @@
+Cartridge Port Expanders
+
+by Dick Estel
+
+When Commodore Business Machines released the original Commodore 64, they wisely included a
+cartridge port. Originally this slot was primarily used for game cartridges, but programmers soon came
+up with numerous other devices to plug into that spot to improve the capability of the machines.
+
+One of the first was the Fastload by Epyx, which not only improved the notoriously slow loading rate of
+programs, but also gave users a built-in DOS wedge, eliminating the need to load it as a separate
+program. RAM expanders (REU's) from CBM and other utility cartridges followed, and soon a
+Commodore user could find himself with three or more items in regular use, all vying for the single
+cartridge port.
+
+Realizing that removing and inserting different cartridges was a lot of trouble, as well as a source of
+wear on both the computer and the plug-in device, Aprotek and other companies soon came to the
+rescue with cartridge port expanders. These devices plug into the cartridge port and have several slots
+to allow several cartridges to be plugged in at once (usually three or four). They have switches to allow
+a specific cartridge to be on or off, and even permit the use of two or more cartridges at once. 
+
+This was particularly useful for combining the services of a utility cartridge with a REU (attempting to
+use two or more utility cartridges together usually produces conflicts). 
+
+I have the Aprotek 4-slot unit, and find that the REU and the Super Snapshot function together in
+perfect harmony. The only serious drawback is that the expansion slots require the cartridge to be
+inserted vertically. This is not a problem with most game and utility cartridges, which usually measure
+about 3 1/4 by 2 3/4 inches. However, the REU is a much larger device (CBM's unit is 6 1/4 by 5 1/2
+inches), and is a bit wobbly this way. Even so, barring earthquakes and sudden hard bumps to the
+computer, the REU seems to "stand up" to this configuration with no problem.
+
+Another problem affects these units in some conditions. I had experienced some problems with my
+Pacman cartridge not working, and asked Del Contreras if he thought it was due to wear on the slots.
+He pointed me toward the solution--some programs demand to be in the first or second slot. I moved
+Pacman to the number one position and it worked fine.
+
+Recently there have been solutions to the other problems mentioned. Not surprisingly, they come from
+Creative Micro Designs. With no other expansion units still in production, about two years ago CMD
+brought out the EX3, priced at $34 and the EX2+1 at $39. The first is similar to earlier devices, with
+three vertical slots. But the EX2+1 has two vertical and one horizontal slot, the latter at the end,
+allowing the larger Commodore REU to plug in and lie flat. CMD also produces their own variation on
+the RAM expansion units, the CMD 1750 and 1750XL (reviewed in our October-November 1997
+issue). Both are the size of a standard game or utility cartridge, allowing stable vertical installation.
+
+Other than the CMD units, the only way you can obtain a cartridge port expander is to find one on the
+used equipment market. If you use a utility cartridge and REU extensively, or find yourself pulling some
+of your old game cartridges in and out, it's worth investing in one of these useful devices.
+
+From "The Interface," newsletter of Fresno Commodore User Group 

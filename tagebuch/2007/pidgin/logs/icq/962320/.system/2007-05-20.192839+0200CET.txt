@@ -1,0 +1,57 @@
+System log for account 962320 (icq) connected at 20.05.2007 19::28::39
+---- +++ 962320 hat sich angemeldet @ 2007-05-20 19:28:39 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-05-20 19:28:40 ----
+---- michi hat den Status von Offline zu Abwesend geändert @ 2007-05-20 19:28:40 ----
+---- michi wurde untätig @ 2007-05-20 19:28:40 ----
+---- FairyLady hat den Status von Offline zu Nicht verfügbar geändert @ 2007-05-20 19:28:40 ----
+---- shrike hat den Status von Offline zu Nicht verfügbar geändert @ 2007-05-20 19:28:40 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 2007-05-20 19:28:40 ----
+---- FairyLady hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-20 19:46:02 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-05-20 20:00:23 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-20 20:17:30 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-20 20:21:51 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-20 20:25:20 ----
+---- Dominik wurde untätig @ 2007-05-20 20:35:49 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-05-20 20:39:21 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-20 20:41:09 ----
+---- Dominik wurde tätig @ 2007-05-20 20:41:09 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-20 20:43:34 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-05-20 20:43:37 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-20 20:48:35 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-20 21:05:01 ----
+---- Schööfli wurde untätig @ 2007-05-20 21:05:01 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-20 21:05:03 ----
+---- Schööfli wurde tätig @ 2007-05-20 21:05:03 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-20 21:19:15 ----
+---- michi wurde tätig @ 2007-05-20 21:19:15 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-20 21:19:49 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-20 21:20:20 ----
+---- +++ 962320 wurde untätig @ 2007-05-20 21:10:55 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-20 21:28:21 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-20 21:29:05 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-20 21:32:54 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-20 21:38:24 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-05-20 21:45:07 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-05-20 21:45:08 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-20 21:45:50 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-20 21:49:05 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-20 21:49:10 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-20 21:51:31 ----
+---- Dominik wurde untätig @ 2007-05-20 21:52:23 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-20 21:54:10 ----
+---- michi wurde untätig @ 2007-05-20 21:59:05 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-20 22:06:01 ----
+---- michi wurde tätig @ 2007-05-20 22:06:01 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-20 22:10:04 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-05-20 22:14:21 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-05-20 22:19:07 ----
+---- FairyLady hat den Status von Abwesend zu Nicht verfügbar geändert @ 2007-05-20 22:30:05 ----
+---- FairyLady hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-20 22:32:47 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-20 22:39:27 ----
+---- FairyLady hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-20 22:58:52 ----
+---- +++ 962320 wurde untätig @ 2007-05-20 23:04:50 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-05-20 23:20:09 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-05-21 17:35:52 ----

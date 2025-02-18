@@ -1,0 +1,34 @@
+Programs and Data Files
+
+Some of the confusion people seem to have in using GEOS comes from a lack of understanding of this
+simple principle: There are two common types of files used on any computer platform: 
+
+Programs, often called Applications, are files you can RUN. Sometimes the word used is LAUNCH
+or OPEN or START. The idea is the same. A program DOES something, and you have to run it to get
+it to do that thing. Often a program consists of more than one file--but the idea is still the same; that
+group of files are used by the program to make things happen.
+
+Data Files are what you create with a program. The Write Stuff creates text files, which can be as
+simple as a letter to your uncle, or the Great American Novel. GeoPaint creates graphic files. And the
+GEOS Photo Manager creates Photo Albums. 
+
+Almost without exception, a program that creates a data file can later modify that file. Equally important
+in many cases, different programs can share the same files. Sometimes you have to do something to
+convert the data file from its original format to the other program's format; sometimes it can be used as
+is.
+
+And guess what: When the data file is being converted, that task is handled by a program--sometimes
+the second program, sometimes a separate program, sometimes even the original program. 
+
+For example, Write Stuff can convert its standard screen code text files to PETASCII or standard
+ASCII format; and can convert both those formats to screen code. But geoPaint can't convert a Koala
+or Doodle file. So some clever programmer wrote a separate program to do this. 
+
+Most of these stand-alone conversion programs don't do anything but convert. Import Runner can
+convert several file formats to geoPaint, but can't do anything else with the original file or the new file.
+
+Your computing life will be a lot easier if you can program your mind to file this information where it's
+easily accessible!
+
+From The Interface, newsletter of Fresno Commodore User Group via the Commodore Information
+Center http://home.att.net/~rmestel/commodore.html)

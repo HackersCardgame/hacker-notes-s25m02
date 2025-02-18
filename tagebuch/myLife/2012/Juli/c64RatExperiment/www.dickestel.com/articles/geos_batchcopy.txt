@@ -1,0 +1,54 @@
+BATCH FILE COPYING
+
+by Dick Estel
+
+One of the negative aspects of using a RAM expander with GEOS is the necessity of copying files into
+the REU every time you use the program.
+
+The REU acts just like a very fast regular disk drive, but it forgets everything you taught it the minute
+you turn off the power. With the one megabyte REU capable of emulating a 1581 drive, file copying
+can be a fairly long chore.
+
+Fortunately, several of the private programmers who create things for use with GEOS have come to
+our rescue: Joe Buckley and Jim Collette.
+
+Buckley (aka Red Storm) offers his program, REU ZAP, on Storm Systems Disk 1.
+
+To use REU ZAP, you first file copy whatever you plan to use into the REU. Whenever you want to
+save the contents of the REU, you run REU ZAP from a real disk drive. This creates a single file which
+contains everything that was in the REU.
+
+The next time you use GEOS, you can click on this file, and everything that you saved previously will be
+copied into the REU (overwriting anything already there).
+
+The ZAPPED file is NOT compressed--in fact, it is bigger than the total of the original files. Although
+the 1-meg REU will hold up to 790K, you can't ZAP more than about 550K. That seems to be this
+program's only real drawback.
+
+Jim's program is found on the RUN GEOS Companion disk. It is supposed to copy programs to the
+other active drive, REU or real. I have not tested this program.
+
+If you are using a real drive that is the same type as the REU drive (i.e., a 1571 and a RAM 1571), you
+can also do a whole disk copy. If you don't have very many files, this can be faster than single file
+copying. This is only useful if you want to transfer everything on the disk to or from the REU.
+
+Despite the trouble you may go to finding the best way to get the stuff you're using into the REU, the
+speed increase is well worth the set-up time. There are also programs that will automatically run the
+copy programs when you boot GEOS, but I have never tested them. When I do, I will give you a
+report. 
+
+(The above was first published in November, 1990; read on for a 1993 update.)
+
+
+As of 1993, and for a couple of years in fact, the program I use for this process is QwikStash, a
+shareware program from Q-Link that copies a pre-selected list of files into the REU. With GEOS 64
+only it can be set up as an auto-exec file. In my opinion it far outshines REU ZAP. You first run a
+module called QwikPik, to create the list of files to be copied. It lists all files on the disk, and you
+highlight the ones you want, then save a the data file. Then you can run QwikStash any time to copy the
+files in the list. You can go into QwikPik and change the list any time, and you can even create more
+than one list. The program creates a data file called QwikData. Rename it and create another list.
+QuickStash will use the first file on the disk, but a file named QwikData will take precedence over other
+data files, even if they are first on the disk. Just move the ones you don't want to use to the border and
+it will use the file on the note pad.
+
+(Via the Commodore Information Center, http://home.att.net/~rmestel/commodore.html) 

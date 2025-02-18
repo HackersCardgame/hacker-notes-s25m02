@@ -1,0 +1,41 @@
+Conversation with 974875 at 16.05.2007 23::30::39 on 962320 (icq)
+(23:30:39) stefan: halo! klar doch...
+(23:32:50) landev: also frog: hesch du irgend es biischpil för so öppis in java
+
+class irgendwas<T>
+
+isch das ähnlich wie in cpp?
+(23:33:21) landev: argh... het d chlammere ned druckt
+
+class xy<T>
+(23:33:26) landev: argh...
+(23:33:36) stefan: hehe, chont scho aa bi mer
+(23:33:40) landev: aha...
+(23:33:54) landev: den isch de gaim för windows buggy
+(23:33:59) landev: weisch wasi meine?
+(23:34:43) stefan: jo, aber da hani ä no nie gmacht - wäis nor, das mer ergendwsosache cha mache met de nöie java versione - was genäu, läider ke aanig :)
+(23:36:10) landev: also in cpp isches eifach z.B.
+
+template<class T>
+void tausche(T& a, T& b) {
+// a und b vertauschen
+const T TEMP = a;
+a = b;
+b = TEMP;
+}
+
+
+(23:37:09) landev: denn chasch universelli dinger för type schriibe... i wott drum es es teil schriibe um beliebigi 2 dimensonali arrays azzeige...
+(23:37:33) landev: als egal öb int oder double oder
+(23:37:37) landev: was au immer...
+(23:38:36) stefan: hmm, aso bi java esches gläb eher för so sache we
+List foo<MeineKlasse>;
+MeineKlasse foo = foo.getElement(0);
+
+schprech, dasd bi generische liischtene etc. chasch de typ aagee...
+
+(23:38:48) stefan: aber wäiss ned, öbmer ä no anderi sache cha mache demet :)
+(23:41:41) landev: also das heisst wenn die generischi klass ned vo dem typ erbt chasch es eh vergässe?
+(23:44:07) stefan: tänkes, aber i wördmi do ned of mech ferloo :)
+(23:49:02) landev: naja, i probiere mol wiiter öbi irgendöppis in internet finde... merci...
+(23:49:32) stefan: bettebette, no fel erfolg...

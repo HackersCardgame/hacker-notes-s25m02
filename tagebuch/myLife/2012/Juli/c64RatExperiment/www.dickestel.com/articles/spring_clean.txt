@@ -1,0 +1,69 @@
+Spring Cleaning? Don't Forget the Computer 
+
+by Dan Gutman
+
+In more civilized times, spring cleaning meant taking up the heavy rugs and cleaning out the closets.
+These days, it means dusting off the VCR and getting the car washed--if we have the time.
+
+But there's one thing you should give a thorough cleaning once a year--your computer system. All sorts
+of problems occur when dirt and dust get into delicate electronic parts.
+
+Monitor: Spray Windex or Glass Plus on a lint-free cloth and wipe the screen well. Computer stores
+also sell anti-static screen cleaners. You might want to run around the house and clean all your TV
+screens at the same time.
+
+Keyboards: Computerists are constantly told not to eat anywhere near the computer. Hardly anybody
+ever follows that advice. Consequently, most of us have keyboards filled with Chips Ahoy crumbs,
+pretzels, and last year's salami sandwich. 
+
+Common sense should tell you not to pour Fantastic or any other fluid onto your keyboard. And don't
+try to pry off the key caps to clean the innards. You're just opening a can of worms!
+
+The only way to clean a keyboard safely is with air. Use a powerful vacuum with an attachment that can
+fit into small places, or better yet, blow the dirt out by spraying compressed air. These cans are
+available in most computer and office supply stores.
+
+Printers: This is where the dirt is the worst, because you have all that ink flying around. Clean the print
+head carefully with a damp rag or Q-tip soaked in alcohol. While you're at it, use a very small nozzle on
+the vacuum and suck up all those bits of dust and debris. (Note: This article dates from the days of
+impact printers and may not apply to ink jets and laser printers.)
+
+The Computer Itself: If you know how to open up your computer and aren't afraid to poke around
+inside, there's nothing wrong with carefully cleaning it with a dry-damp Q-tip.
+
+If the thought of opening up your computer makes you break out in hives, don't do it. You may do
+more harm than good.
+
+If you've got a service contract, bring your computer in once a year even if nothing is wrong with it, so
+a professional can fully clean and check it out. A good time to do this is when you go away on vacation
+or business and won't be needing the computer for a few days.
+
+If you smoke or have a cat that prowls around the computer, it's all the more important to clean it
+occasionally. You don't have to buy an expensive cleaning kit --but on the other hand, just any old rag
+will cause more problems than it is trying to resolve! Lint-free cloths and the correct cleaning solution
+will do wonders.
+
+Before you clean ANYTHING, look at the instruction booklet that came with the component to see if
+any special procedures are indicated, and make sure everything is turned off AND unplugged first! 
+
+More Tips For Regular Computer Maintenance:
+
+Keep computer equipment away from radiators, direct sunlight, and other sources of heat. Make sure
+to leave a few inches of breathing room around all your components so air can circulate.
+
+Computers don't like static electricity. Get an anti-static mat for your desk and the floor below the
+computer. Get in the habit of touching your lamp or other piece of metal before you touch the
+computer, especially in the winter or if the room is carpeted.   
+
+Stash the cords and cables out of the way so children and pets don't trip over them.      
+
+Fumes from nail polish remover, ammonia, glue, and other liquid chemicals can react with magnetic
+surfaces. Keep them away from your floppy disk.   
+
+Get a dust cover, not just for the computer, but also for your printer, copy machine, and other
+electronic equipment.    Tape a cardboard flap in front your floppy disk drive opening and leave it there
+all the time. Less dust will get sucked into your computer, so there will be less to clean out next year.
+(Today's equipment usually has a built-in cover over the opening of the floppy drive.)
+
+(From The Computer Chronicle via Random Bits, newsletter of Northern Virginia Computer Users
+Group via the Commodore Information Center http://home.att.net/~rmestel/commodore.html)

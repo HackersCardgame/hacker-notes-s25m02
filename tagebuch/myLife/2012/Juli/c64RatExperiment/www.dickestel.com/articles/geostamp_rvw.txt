@@ -1,0 +1,69 @@
+Did you ever like to play with those rubber stamp sets as a kid?  You could print your own newsletter
+(primitive Desk Top Publishing!), make pictures of all kinds, and get ink all over your hands.
+   
+GEOS programmer David B. Ferguson has taken the rubber stamp concept and applied it to the
+computer with a program called geoStamp.  The program works successfully only within geoPaint, and
+allows you to capture or create a small image, and then quickly and easily repeat it anywhere on the
+page.
+   
+This type of thing can be done within the drawing window by use of the edit feature, outlining an image
+and then copying.  To transfer it to an area of the page outside the window, it must be saved as a photo
+scrap, and pasted in the desired new location.
+   
+Just how does geoStamp improve on this ability?  First, geoStamp is really a set of programs:
+geoStamp itself, which works as a desk accessory; Stamp Collect, also a DA which allows you to grab
+an existing image from geoPaint, and Stamp Edit, which is used to create new stamps or change existing
+ones.  
+   
+The program creates data files called stamp albums, each of which can hold up to 30 images.  When
+any of the geoStamp programs are opened, you are prompted to open or create an album.  This allows
+building up files of related images.  There are several stamp sets available on Q-Link, and several are
+included with the program, including cartoon characters.
+   
+I have found one of geoStamp's most useful features is in creating borders.  There are many fancy small
+borders, and I have tediously made them into large borders by copying and pasting photo scraps. 
+Getting the little curlicues or whatever to line up when blindly pasting a photo scrap is a mind boggling
+and sometimes virtually impossible task.
+   
+When using geoStamp, the image to be stamped is visible as you move it around the screen.  This
+allows overlapping parts to be lined up perfectly.
+
+RUBBER RINGMASTER
+
+Long ago I had a set of circus animal rubber stamps.  The instructions that came with it suggested a
+way to print out pictures of animals standing side by side.  You could stamp one elephant picture on a
+piece of scrap paper and cut it out.  Then you could stamp another one on your "good" paper, overlay
+the cutout, and stamp a second one, slightly offset from the first.  The second one would appear to be
+behind the first, since the parts of the image that went onto the mask would not appear on the finished
+art.
+   
+Using the "cookie cutter" option of geoStamp, I was able to recreate this technique on the computer. 
+The cookie cutter feature actually reverses any area touched by a pixel in the stamp image (good for
+making neat white on black pictures too).  To make my line of elephants, I had to create two identical
+stamps, one of them reversed.  Then I used the cookie cutter option to eliminate all pixels in the offset
+image area, switched to the black on white image, and stamped it in the exact spot.  This required
+changing images without moving the mouse, something I found was quite easy to do.
+   
+Many of the controls in geoStamp are via keyboard, since the pointer is busy placing the picture.  The
+codes can be viewed any time by pressing H for Help.  The numerals 1 and 2 move forward and
+backward between pictures.  This allowed me to hold the mouse pointer still while changing pictures for
+my elephant parade.  The current stamp is displayed in the lower right in all geoStamp modules.
+   
+To be honest, I have not found a lot of uses for geoStamp, but it's a fun program (I believe even
+productivity programs should be fun most of the time).  You could use it to create interesting tile pattern
+effects, including reverse images.  If you were creating artwork with many repetitive images, it would be
+easier in most cases to use geoStamp than the standard cut and paste method.
+   
+I asked Dave to comment on other possible uses for geoStamp:  "One of the things I really wanted to
+use it for was doing building design, kind of like the part of CAD where you can place figures anywhere
+you want. I am currently working on a set of home design stamps, but it is a slow process."
+   
+GeoStamp has some limitations which I hope David will overcome in a future upgrade.  I would like to
+see the ability to have larger stamps...the stamp size is slightly smaller than a Print Shop image.  The
+elephant stamp is actually made of four separate stamps, one for each quarter of the picture.
+   
+However, I'm glad this program exists...it's fun to play with, and you don't get ink on your hands!
+
+(Dave did later create a variation that created bigger stamp images.)
+      
+(Originally published in The Interface, newsletter of the Fresno Commodore User Group)

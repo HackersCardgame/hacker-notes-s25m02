@@ -1,0 +1,15 @@
+
+
+vorfall sita gartner und mensch der nicht ins jojo drufte
+
+-> sie hole jetzt die poliziei ...
+
+double time slotting kurzzeitgedächtnis, andrea gartner (partnerin von jürg)
+
+Tue Aug 24 06:53:11 CEST 2021
+  9  26 178 20210824.txt
+[main 6fff619] save
+ 1 file changed, 9 insertions(+)
+ create mode 100644 tagebuch/2021/august/20210824.txt
+1a48dfe86bf8bacf03e262931310b1859ea188bc9fb6583e39dc58d6f264222e96f214dbc1c65482cb17bb26b7caad5c86a87e8f9688214cf29ce46c55dffc8f  20210824.txt
+

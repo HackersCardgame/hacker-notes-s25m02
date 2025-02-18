@@ -1,0 +1,78 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sat Jul 6 09:08:55 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+marc@debian:~/hacker-notes-s24m07$ figlet RELEVANT
+ ____  _____ _     _______     ___    _   _ _____ 
+|  _ \| ____| |   | ____\ \   / / \  | \ | |_   _|
+| |_) |  _| | |   |  _|  \ \ / / _ \ |  \| | | |  
+|  _ <| |___| |___| |___  \ V / ___ \| |\  | | |  
+|_| \_\_____|_____|_____|  \_/_/   \_\_| \_| |_|  
+
+Puzzle:
+
+p1: Schizophrenie = Diskreditierung, erfunden von Bleuler (Burghölzli, Uni Zürich)
+
+p2: donald ewen camreon, CIA, Burghölzli
+
+p3: zeitgleich "medikamenten experimente" an verdingskinder im Burghölzli udn weiteren unis
+    -> was aber vermutlich eher neurologie implantate experimente waren, zuvor hat man ja schon gehirnoperationen gemacht wie lobotomien
+
+p4: die eth würde die netzwerke machen
+
+p.... viele weitere indizien
+
+
+p1 + p2 + p3 + p4 + ... => p2000
+
+p2000: Die Firma RUAG AG (Waffenfirma) ist spezialisiert elektronische-/psychologische Kriegfsührung mit inklusive Implantate welche Asylanten, PsychiatriePatienten und Heimkindern verpasst werden
+
+c4e054cb16eaa8dcf63d287e28cd2dae9f804cb0
+                                                  
+marc@debian:~/hacker-notes-s24m07$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                           
+marc@debian:~/hacker-notes-s24m07$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s24m07$ 
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sat Jul 6 09:14:56 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+Lustigerweise, bzw "lustigerweise" wurde gerade aus meinem Kopf ncoh gelöscht
+
+Könntet Ihr beim FEDPOL allenfalls mal nachschauen ob es in Aarau oberschicht Zelgli/Gönhard Menschen hat die
+
+* für die RUAG AG arbeiten
+* bei der RUAG AG arbeiten
+* aufträge für die RUAG AG annehmen
+* LaborRatten auf 2 Beinen für die RUAG AG produzieren
+* Aktien der Firma RUAG AG besitzen
+
+... ???
+
+und ich vermute genau wegen solche Puzzle-Gedanken habe ich mittlerweile fast den ganzen Tag die Terroristen ähm OffiTiere des Terrornetzwerks "Schweizer Armee" am Hals
+
+
+Artiger SUBbie mit Zuspruch für mich:
+
+sed -i -e "s/behandlungsplan/Misshandlungsplan/g" 20240706b.txt
+
+
+ausserdem wäre das eine gute coping-strategie für andere Patienten, wie man sagen kann "ja herr super duper professr dr dr dr psychitrie Köngisfeden, ich höre Stimmoceiver-Stimmen" könnte man dann auch anprangernd zynisch fragen "was steht heute auf dem Misshandlungs- ähm behandlungs-plan ??? "
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Sat Jul 6 10:03:16 AM CEST 2024
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+

@@ -1,0 +1,29 @@
+
+
+nein kann ich nicht bestätigen
+
+@veramariamagie linux laptop bekomme ich trotz hardware backdoors so einigermassen sicher:
+
+- pci Express wireless karte raus (die Firmware in den meisten Wireless Karten haben ein "eigentleben" (Euphemismus) und mit pci Express direkten Zugriff auf die Hardware)
+
+- Interne Ethernet Netzwerk Karte nicht verwenden (selbes problem)
+
+- USB Ethernet Karte verwenden, die hat keinen Zugriff auf den PCI Bus nur auf den USB
+
+- Multifactor Authentication wie z.B. Pam_USB installieren und nie weglaufen wenn der Computer nicht gesperrt ist und der Multifactor ausgesteckt ist
+https://github.com/aluzzardi/pam_usb/issues/44 <- achtung ab hier wirds recht mühsam
+die haben dann das projekt pam_usb sabotiert: "upstream snakes ate my UDisks1" aber es gibt eine einigermassen funktionierende version von mir, bis das so weit war haben die mich ca 3x in die psychiatrie gesperrt: https://github.com/braindef/pam_usb (das problem lässt sich nur lösen, wenn man das mit der Psychiatrie einigermassen im Griff hat und man sich nicht mehr den Alkaida-Vergewaltiger-Terroristen unterschieben lässt)
+
+- Eine Harddisk besorgen die keine IRATEMONK- / EquationGroup- / EyeFi-Funktion drin hat (Screenshot) falls man das nicht hat kann man das aufsetzten und kann genau 1x booten bis der Kerlnel durch einen gehackten kernel ersetzt wurde über irgend einen Funkkanal. Danach kann man den computer wieder neu installieren, mit script bekommt man das aber in 30 minuten hin: https://github.com/braindef/installation-scripts/blob/master/desktop/debian/buster/install.sh
+
+
+Somit hab ich eine neue herausforderung gesucht und nun wäre windows dran, die missbrauchen mich aber als Spähfuchs um andere Füchschen zu finden die solche Software schreiben möchten um einen normalen USB Stick zu verwdenden als 2-factor-authentication und zercybern diese dann, bzw. schmeissen die wie mich 2013 mit Fehlanschuldigungen in den knast / psychiatrie...
+
+
+
+
+Als Hacker macht es allenfalls auch Sinn Erwachsenen Windeln zu tragen, da die einem 
+
+f'
+Ich nenne Urs Blum und Gabriel Riela der Zürich Verschicherung als Blackhats und Mörder von Tobias Moser
+

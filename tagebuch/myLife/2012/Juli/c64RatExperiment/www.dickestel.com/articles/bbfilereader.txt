@@ -1,0 +1,57 @@
+THE WRITE STUFF:  Using BB File Reader
+
+by Dick Estel
+
+BB File Reader, a public domain program found on the original Write Stuff program disk, can be used
+with your own Write Stuff data files.  This allows you or any C64 or C128 owner to read these word
+processing files without having the TWS program.
+
+In order to be read with BB File Reader, your file name must begin with a hyphen (-).  Example:
+
+            -letter to mom
+
+When you have all the files that you want to use with the file reader completed and collected on a disk,
+load and run BB File Reader.
+
+If you have The Write Stuff, insert the program disk and type LOAD "BB FILE READER",8
+[RETURN].
+
+After you load the file reader, you will see a menu of the files on the disk it was loaded from.  Press the
+left arrow key and the menu will be blanked out.  Remove the disk and insert your own data disk.
+
+Press F2.  After a few moments, a new menu will appear, listing all the files on your disk that start with
+a hyphen.  You can then enter and read any of these files from the menu.
+
+IMPORTANT:  The BB File Reader will use about 35 blocks--be sure to allow for this when creating
+your data disk.
+
+If you have a directory manager, you can rename the BB File Reader file and/or move it to the
+beginning of the directory.  If you do the latter, you can load by typing  LOAD"*",8.
+
+One use I have found for BB File Reader is with the data files I have created for my record collection. 
+If I need to look something up, I can read the file with BB File Reader instead of going through the
+process of loading TWS.
+
+If you decide to add or delete files from the disk, you will have to go through the steps described above
+to change the menu.  If you go through these steps after changing the name of BB File Reader, the new
+menu program will again be named BB File Reader.
+
+If you have used a directory manager to create informational notes in your directory, any of these that
+start with a hyphen will be listed in the BB File Reader, even though they are not loadable files. 
+
+Example:
+
+          --game reviews--
+          -----------------
+
+The program is public domain, and will work with some other word processors as along as you start
+the file name with a hyphen.  I have tested it with Speedscript and Fontmaster 128.  Speedscript
+appears to be fully compatible with TWS.  Fontmaster files will load, but will have some extraneous
+garbage added at the top and the return characters will show up as a solid square.
+
+BB File Reader is a handy way to create a disk of text files that can then be shared with any
+Commodore user.  
+
+
+(From The Interface, newsletter of Fresno Commodore User Group, via the Commodore Information
+Center, http://home.att.net/~rmestel/commodore.html) 

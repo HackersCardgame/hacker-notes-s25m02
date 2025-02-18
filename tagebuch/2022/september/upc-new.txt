@@ -1,0 +1,113 @@
+Guten Tag
+
+@ Nico: ich hab Dich jetzt ausnahmsweise doch wieder in den Verteiler genommen weil es Ziknet allenfalls auch betrifft. Und einmal hab ich noch vergessen Dich raus zu nehmen, sorry dafür.
+
+ _____                      _     _                   _
+| ____|_  ___ __   ___ _ __| |_  | |   H A C K E R __| |
+|  _| \ \/ / '_ \ / _ \ '__| __| | |   / _ \ \ / / _ \ |
+| |___ >  <| |_) |  __/ |  | |_  | |__|  __/\ V /  __/ |
+|_____/_/\_\ .__/ \___|_|   \__| |_____\___| \_/ \___|_|
+           |_| 
+
+um es vor weg zu nehmen, alle die denken ich spönne müssen gar nicht weiter lesen, alle die jünger sind als ich oder schlecht sind in digitaler und psychologischer Selbstverteidigung lassen das Lesen besser auch. Das sind alles Baustellen die ich alleine sowiso nicht lösen kann, ich werde auch Dinge vergessen haben, also wenn Studenten sich ihren Rang verdienen möchten wäre das allenfalls etwas worüber man nachdenken darf / soll.
+
+
+ ____             _    _
+| __ )  __ _  ___| | _| |__   ___  _ __   ___
+|  _ \ / _` |/ __| |/ / '_ \ / _ \| '_ \ / _ \
+| |_) | (_| | (__|   <| |_) | (_) | | | |  __/
+|____/ \__,_|\___|_|\_\_.__/ \___/|_| |_|\___|
+
+System-Relevant:
+===============
+
+* Internet Knoten wie zB. Equinix Zürich Hardbrücke
+--> da wäre es allenfalls auch Sinnvoll wenn man zusätzlich zum 100kW Diesel auf dem Dach noch eine dedizierte Solar-Panel-Farm hätte, falls es so schlimm wird wie in den 1970er die Ölkrise
+
+* Internet Service Provider und Telefon Service Provider
+=> Dazu extra Abschnitt [Sunrise-UPC], gleichzeitig muss auch von CyberWar ausgegangen werden, unten beschrieben
+
+Bricht uns das Internet weg haben wir als Schweiz ein Problem
+
+- Finanzmärkte brechen zusammen weil wir nicht mehr an die Börse angeschlossen wären
+- Bricht Corona, Cholera (wie jetzt in Syrien) aus würde Patienten Tracking nicht mehr funktionieren
+- Menschen die nicht intelligent oder zu intelligent sind müssen psychisch stabil gehalten werden, dazu braucht man auch Kommunikations-Mittel
+
+GEFAHREN:
+Dieser Winter ist das Risiko, dass die ganze Stromversorgung in Europa kollabiert relativ gross
+=> https://media.ccc.de/v/32c3-7323-wie_man_einen_blackout_verursacht
+
+
+
+TODO:
+====
+* System Relevante Personen wie Ärzte, Polizei, Feuerwehr ... sollten mindestens DualWAN haben. Wer es sich leisten kann kann sich auch wie das UKBB von 4 Himmelsrichtungen mit Glasfaser anschliessen lassen. Da würde ich aber anders als die UKBB nicht alles von Swisscom nehmen sondern zwischen verschiedenen Anbietern diversifizieren
+
+* Ich bin zwar Informatiker und sehe mich für die anderen Dinge nicht als prädestiniert, dennoch wäre es wichtig, daran zu denken dass Pumpwerke Strom brauchen, allenfalls macht es da auch Sinn wenn vor Ort Solar installiert würde, dann könnte während des Tages Wasser ins Reservoire gepumpt werden
+
+* Kann ich mir selber mit IV nicht leisten, aber z.B. Starlink wäre allenfalls auch eine Option als eine der Leitungen am DualWAN Router. Da ist aber allenfalls auch zu erwarten, dass USA das per User abschalten könnte. Auch Elon Musk müsste sich dem Patriot Act beugen
+
+* Besser Laptop als Desktop, der braucht weniger Strom und hat Batterie. Ich selber habe mir ein faltbares Solar-Panel und ein Akku geleistet und wäre solange die Handy-Netze noch laufen weiterhin erreichbar auch wenn der Strom ganz ausfällt
+
+
+
+SCHLECHT:
+========
+Dass Firmen wie die Sunrise-UPC aus Profit-Gründen den Support nach Kosovo-Albanien ausgelagert haben ist mässig toll. Somit ist im Kriesenfall UPC nicht mehr brauchbar weil man keine Hilfe mehr bekommt. Temporär umgehen könnte man das Problem in dem man den Lokalen HFC Support als First-Level-Support verwendet. HFC Support sind die Elektriker die das mit den Kabeln machen
+
+
+ ____                   _                _   _ ____   ____
+/ ___| _   _ _ __  _ __(_)___  ___      | | | |  _ \ / ___|
+\___ \| | | | '_ \| '__| / __|/ _ \_____| | | | |_) | |
+ ___) | |_| | | | | |  | \__ \  __/_____| |_| |  __/| |___
+|____/ \__,_|_| |_|_|  |_|___/\___|      \___/|_|    \____|
+
+
+Die neue Sunrise-UPC ist ein riesen Schlammassel:
+
+- Der First Level Support ist jetzt im Kosovo-Albanien. Meldet sich ein SVP Wähler beim Support und wird mit einem Kosovo-Albaner verbunden wären Konflikte zu erwarten. Bzw. würde allenfalls so der Hass auf Ausländer grösser was dann schlimmsten Fall bei der nächsten Begegnung mit einem Kosovo-Albanern oder generell mit einem Ausländer entladen würde (Thema aufgebrachte Kunden)
+
+- vor ca. 3 Jahren hat mir der alte UPC Support gesagt das Signal sei auf 63DBµV, also eher knapp
+
+- jetzt haben die Mitarbeiter im Kosovo überhaupt keinen Zugriff mehr auf die Signalwerte, selbst wenn sie helfen möchten können sie das nicht
+--> Also Herumgefluche und Konflikt schon vorprogrammiert
+
+- Dann dürfen die Mitarbeiter auch nicht den Second Level kontaktieren ausser per Mail
+
+- Ausserdem Sprachbarriere
+
+- Die Schweizer Armee hockt mutmasslich auf dem Konfigurations-Server für die Cisco Geräte vermutlich mit proprietärer Malware vom NSA/CIA wie Vault7 2.0:
+also je nach dem wie es mit dem Moralischen Kompass, dem Moralischen Wertesystem bzw. mit dem Normativen Management bei der Armee aussieht. Selbst wenn der moralische Kompass der Armee über jeden Zweifel erhaben ist und die hätten das eingekauft wären wir Schach matt. Ich persönlich traue der Schweizer Armee keinen Millimeter weit.
+
+- Mit diesen Mitteln der Armee können Zeugen vom Internet getrennt werden in dem die einfach den Sendepegel für diesen Strang herunter schalten. Das kann man auf der UBR einstellen. 
+=> https://www.cisco.com/c/en/us/products/cloud-systems-management/configuration-engine/index.html
+
+- Rechtsfälle bringen nichts, Zeugen machen aber Sinn, denn Zeugen sind oft auch Analysten oder Hacker und sehen vielleicht kommende Probleme rechtzeitig so dass man Dinge verhindern kann. 
+
+- Allenfalls überträgt sich Malware vom UPC-Management-API wo der Frist und Second Level drüber zugreift
+ * stimmt das wäre das Büro in Kosovo gehackt
+ * stimmt das wären auch die HFC Techniker die vor Ort kommen gehackt (das sind ja jeweils so kleine lokale Firmen die das machen)
+
+- Das Arris Modem der UPC hat vermutlich einen SDR drin, der dann auf andere Geräte wie Bluetooth, Wifi, Funk oder worst case Herzschrittmacher oder Neuralink zugreifen könnten, das geht nicht über die öffentliche IP sondern über das Management Netzwerk 10.0.0.0/24 wo auch der Telefonie Teil dran hängt
+=> SDR: https://de.wikipedia.org/wiki/Software_Defined_Radio
+
+ ____                 _           _       _        _____    _ _
+|  _ \ ___ _   _  ___| |__   ___ | | __ _(_) ___  |_   _|__(_) |
+| |_) / __| | | |/ __| '_ \ / _ \| |/ _` | |/ _ \   | |/ _ \ | |
+|  __/\__ \ |_| | (__| | | | (_) | | (_| | |  __/   | |  __/ | |
+|_|   |___/\__, |\___|_| |_|\___/|_|\__, |_|\___|   |_|\___|_|_|
+           |___/                    |___/
+
+Falls wir als Schweiz -- wo es immer noch viel zu holen gibt -- wirklich zum Ziel der Amerikaner oder der Russen werden, dann ist davon auszugehen, dass man versuchen wird uns gegeninander auszuspielen. Also versuchen wird die Rechten und die Linken dazu zu treiben sich gegenseitig abzuschlachten. Da ist logischerweise nicht nur Psychologische Kriegsführung beteiligt, da ist auch Technik [1] beteiligt und für all diejenigen die bereits Dinge wie Neuralink haben würden da vermutlich Psychologische Kriegsführungs Design-Pattern drauf geladen, die dann im Autopilot Modus den Menschen zum Suizidanten oder Amokläufer umschalten würden. Da hilft eigentlich Trainig schon diesen "Stimmen" zu wiederstehen, noch besser aber wenn man das jeweils grad abschalten kann.
+
+[1] https://www.theguardian.com/technology/2014/jun/29/facebook-users-emotions-news-feeds
+
+Dann hat es bis zu 30% Drogen Konsumenten in der Schweiz. Erstens wäre zu erwarten, dass dann Lieferungen von Kokain mit zB. Asbest oder sonstigen Giftstoffen verunreinigt würden, zweitens würden Menschen die keine Drogen mehr bekommen ausrasten, Amok oder Suizid laufen. Das selbe ist mit Psychopharmaka. Dann auch Lieferungen mit z.B. Insulin und solchem wären allenfalls ein Problem. Die Schweiz hat es ja nicht mal geschafft Atemschutz-Masken selber zu produzieren bei CORONA.
+
+
+Sorry dass das nciht etwas ist, was einem das Leben leichter macht, und Sie kennen mich alle, ich wäre der erste der dann wenn es zu spät ist oder danach lauthals sagen wird "Ich habs Euch gesagt"
+
+
+
+
+

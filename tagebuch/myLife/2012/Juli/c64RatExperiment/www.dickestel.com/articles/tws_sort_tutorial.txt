@@ -1,0 +1,69 @@
+WRITE STUFF PRIMER: SORTING COLUMNS
+
+by Ruth Seibert
+
+This new "toy"called Write Stuff has been exciting and annoying at the same time.  Discovering new
+features is great!  Figuring out how the darn thing works is a pain. And trying to unlearn old habits, or in
+this case, commands, is frustrating.
+
+One of the new items that I found was what I needed just at that time.  It is the feature of sorting
+columns in your text.  This allows you to sort a list in alphabetical or numerical order, in ascending (A to
+Z) or descending (Z to A) order.
+
+In my case, I had to post a list of tennis players that had just finished a season of competition.  They had
+earned points with each match and their totals showed who had finished in what order.
+
+If you haven't used the sort feature, I'll cover it step by step so you can do it as I did (and it took me a
+little while to figure it out).
+
+The first thing is to type in your list or load it from your disk if you've already typed it.  I will use six
+names as an example.
+
+Polly Hunter   25
+Susan Percy    34
+Stacy Williams 29
+Nancy Duncan   31
+Fran Olmstead  33
+Eva Brooks     32
+
+NOW TO SORT:
+
+1. Place the cursor on the first character of the column (P of Polly).
+2. Tap CTRL key, then "e" to enter edit mode.
+3. Use F5 key or "p" to "eat" each "paragraph."
+4. Use CTRL "e" (or left arrow) to return from edit mode.
+5. Now tap CTRL, then SHIFT "R".  At the top of the screen you see:
+
+        "Restore &Sort <- A-->Z   Z-->A"
+
+Since a descending order is wanted, move the cursor to Z-->A and press RETURN
+
+Next you will see:
+
+
+        "Sort on Column: 1 2 3 4 5 6 7 8 9 10"
+
+Each group of characters is a column.  We have three: first name, last name and score.  The score is
+what is to be sorted, so move the cursor to 3 and press RETURN.  Presto! The list pops onto the
+screen with the scores in the order we want:
+
+Susan Percy    34
+Fran Olmstead  33
+Eva Brooks     32
+Nancy Duncan   31
+Stacy Williams 29
+Polly Hunter   25
+
+If an alphabetical list is wanted, the column of sort would be 2.  The "eat text" feature used in sorting
+places the data in a 9K buffer, so in the case of a very large list, you might have to do several partial
+sorts and combine them.  It's an exceptionally useful function.  I can think of many ways that I could
+have used this feature when I was teaching way back when.
+
+If I can just figure out how to work some of the other Write Stuff features or how did I get what I got,
+I'll have it conquered.
+
+(Sorting is covered on page 23 of The Write Stuff manual; eating/restoring text on pages 12, 19 and 23. 
+Every month or two the newsletter will publish instructional articles on using The Write Stuff.)
+
+(From The Interface, newsletter of Fresno Commodore User Group, August 1988, via the
+Commodore Information Center, http://home.att.net/~rmestel/commodore.html)

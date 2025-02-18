@@ -1,0 +1,1 @@
+javaw unterdrückt dos prompt

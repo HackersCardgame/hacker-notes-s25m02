@@ -1,0 +1,99 @@
+System log for account 962320 (icq) connected at 31.03.2007 17::31::22
+---- +++ 962320 hat sich angemeldet @ 2007-03-31 17:31:22 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 2007-03-31 17:31:22 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-03-31 17:31:22 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-03-31 17:31:22 ----
+---- dikyangel hat den Status von Offline zu Nicht verfügbar geändert @ 2007-03-31 17:31:23 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-31 17:32:59 ----
+---- dikyangel wurde tätig @ 2007-03-31 17:32:59 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-31 17:35:01 ----
+---- dikyangel wurde untätig @ 2007-03-31 17:35:01 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-31 17:35:15 ----
+---- dikyangel wurde tätig @ 2007-03-31 17:35:15 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-31 17:43:13 ----
+---- dikyangel wurde untätig @ 2007-03-31 17:43:13 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-31 17:43:19 ----
+---- dikyangel wurde tätig @ 2007-03-31 17:43:19 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-31 17:46:45 ----
+---- dikyangel wurde untätig @ 2007-03-31 17:46:45 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-31 17:53:31 ----
+---- dikyangel wurde tätig @ 2007-03-31 17:53:31 ----
+---- +++ 962320 wurde untätig @ 2007-03-31 17:46:58 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-31 17:58:55 ----
+---- dikyangel wurde untätig @ 2007-03-31 17:58:55 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-03-31 17:59:59 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-31 18:01:43 ----
+---- dikyangel wurde tätig @ 2007-03-31 18:01:43 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-31 18:07:33 ----
+---- +++ 962320 wurde untätig @ 2007-03-31 18:02:05 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-31 18:19:01 ----
+---- dikyangel wurde untätig @ 2007-03-31 18:19:01 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-31 18:22:54 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-31 18:25:44 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-03-31 18:29:28 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-31 18:38:01 ----
+---- dikyangel hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-31 18:38:03 ----
+---- dikyangel hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-31 18:42:57 ----
+---- dikyangel wurde tätig @ 2007-03-31 18:42:57 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-31 18:44:07 ----
+---- dikyangel wurde untätig @ 2007-03-31 18:44:07 ----
+---- FairyLady hat den Status von Verfügbar zu Offline geändert @ 2007-03-31 18:54:18 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-31 19:03:07 ----
+---- dikyangel hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-31 19:03:08 ----
+---- +++ 962320 wurde untätig @ 2007-03-31 18:59:52 ----
+---- shrike hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-31 19:13:30 ----
+---- shrike wurde untätig @ 2007-03-31 19:13:30 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-31 19:14:04 ----
+---- dikyangel hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-31 19:14:24 ----
+---- dikyangel wurde tätig @ 2007-03-31 19:14:24 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-31 19:24:04 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-31 19:30:39 ----
+---- dikyangel wurde untätig @ 2007-03-31 19:30:39 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-31 19:30:45 ----
+---- dikyangel wurde tätig @ 2007-03-31 19:30:45 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-03-31 19:32:24 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-31 19:34:04 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-31 19:40:15 ----
+---- dikyangel wurde untätig @ 2007-03-31 19:40:15 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-31 19:40:17 ----
+---- dikyangel wurde tätig @ 2007-03-31 19:40:17 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-31 19:53:03 ----
+---- dikyangel wurde untätig @ 2007-03-31 19:53:03 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-31 19:53:05 ----
+---- dikyangel wurde tätig @ 2007-03-31 19:53:05 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-31 19:54:04 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-31 19:55:13 ----
+---- dikyangel wurde untätig @ 2007-03-31 19:55:13 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-31 19:55:15 ----
+---- dikyangel wurde tätig @ 2007-03-31 19:55:15 ----
+---- shrike hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-31 20:00:26 ----
+---- shrike wurde tätig @ 2007-03-31 20:00:26 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-31 20:02:09 ----
+---- dikyangel wurde untätig @ 2007-03-31 20:02:09 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-31 20:02:15 ----
+---- dikyangel wurde tätig @ 2007-03-31 20:02:15 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-31 20:03:25 ----
+---- dikyangel wurde untätig @ 2007-03-31 20:03:25 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-31 20:04:04 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-31 20:05:47 ----
+---- dikyangel wurde tätig @ 2007-03-31 20:05:47 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-31 20:06:57 ----
+---- dikyangel wurde untätig @ 2007-03-31 20:06:57 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-31 20:07:01 ----
+---- dikyangel wurde tätig @ 2007-03-31 20:07:01 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-03-31 20:08:23 ----
+---- dikyangel wurde untätig @ 2007-03-31 20:08:23 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-31 20:13:17 ----
+---- Dominik wurde tätig @ 2007-03-31 20:13:17 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-31 20:18:44 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-31 20:18:47 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-03-31 20:20:01 ----
+---- dikyangel wurde tätig @ 2007-03-31 20:20:01 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 2007-03-31 20:20:30 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-31 20:22:58 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-31 20:23:22 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-31 20:26:31 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-03-31 20:33:39 ----

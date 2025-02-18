@@ -1,0 +1,154 @@
+Wed Aug  4 04:34:55 CEST 2021
+ 11 164 851 20210804.txt
+
+marc@DESKTOP-B99KF62:~$ figlet -w200 GoodMoring CyberVietnam
+  ____                 _ __  __            _                ____      _             __     ___      _                         
+ / ___| ___   ___   __| |  \/  | ___  _ __(_)_ __   __ _   / ___|   _| |__   ___ _ _\ \   / (_) ___| |_ _ __   __ _ _ __ ___  
+| |  _ / _ \ / _ \ / _` | |\/| |/ _ \| '__| | '_ \ / _` | | |  | | | | '_ \ / _ \ '__\ \ / /| |/ _ \ __| '_ \ / _` | '_ ` _ \ 
+| |_| | (_) | (_) | (_| | |  | | (_) | |  | | | | | (_| | | |__| |_| | |_) |  __/ |   \ V / | |  __/ |_| | | | (_| | | | | | |
+ \____|\___/ \___/ \__,_|_|  |_|\___/|_|  |_|_| |_|\__, |  \____\__, |_.__/ \___|_|    \_/  |_|\___|\__|_| |_|\__,_|_| |_| |_|
+                                                   |___/        |___/                                                         
+marc@DESKTOP-B99KF62:~$ 
+
+
+
+
+marc@DESKTOP-B99KF62:~/hackerscardgame-notes-s21m08$ figlet DEFCON 2
+ ____  _____ _____ ____ ___  _   _   ____  
+|  _ \| ____|  ___/ ___/ _ \| \ | | |___ \ 
+| | | |  _| | |_ | |  | | | |  \| |   __) |
+| |_| | |___|  _|| |__| |_| | |\  |  / __/ 
+|____/|_____|_|   \____\___/|_| \_| |_____|
+                                           
+
+
+
+TODO/einDeutsscherQuestionmark.PNG <- allenfalls der psychater oder eltern von dem patienten mit dem autounfall?
+
+Wed Aug  4 04:35:40 CEST 2021
+  28  245 1359 20210804.txt
+[main 207f663] save
+ 1 file changed, 28 insertions(+)
+ create mode 100644 tagebuch/2021/august/20210804.txt
+091e1588536a111fdf4c10b3cd5a11a7752072938586857f30aefc3e79d4f1627621d5ef142373c68ff6ae27d7260dee745c48286d429372371cfbe40f12d4d7  20210804.txt
+
+
+
+Wed Aug  4 11:56:49 CEST 2021
+  37  269 1671 20210804.txt
+
+
+Familien Intern und anklage an die Psychiatrie Königsfelden
+
+in einem meiner Protokolle steht: "Marc jr Landolt hat seine Geschwister gequält"
+
+ABER eigentlich war es Marc-Georg Landolt (1950) der mit dem Ledergürtel auf meinen Bruder eingeschlagen hat, auf das ... folglich Sexuelle Integrität
+
+da würde ich gerne wissen ob der Psychiater direkt für Georg Landolt zu meinen Ungunsten ein Gefälligkeitsgutachten ausgestellt hat oder ob das noch um sieben umwege ging?
+
+und ja beichte: ich hab da gelacht, aber das war eher die freuede dass man mal selber ncith der sündenbock und prügelknabe ist und nicht schadenfreude...
+
+das wurde jetzt ungelockt weil die das schon zensiert haben...
+
+loop, hohn weil gelöscht, überlegenheitsgefühl des zensors, statemachine truppenmoral, rückdatiert
+
+keine chance für südenböcke je wieder aus der täterrolle zu kommen weil alle auf den sündenbock eingeshclagen haben -> suizid, nach riela udn blum und den drei toten bei abb bevor marc jr lanodlt da gearbietet hat ist das sonmti ein asuftragsmord den die cluadine lbum uind  die universität basel von der züriuch versichrung angehnommenb hat... <- schnell getippt und 50% falsche spuren, der fokus wilr auf unibasel geledt statt auf die zürich verishcrung
+
+cluadine blum oder sprahcsample von claudine blum:
+kann man nich so stehen lassen
+
+im protokoll stannd: "Marc jr lanodlt hat seine geschwister gequält" somit hätten die geschwister rache an marc jr landolt geübt weil das im protokoll eines psychiaters stand, wenn claudine lbum untreu war wird marc jr landolt suizid begehen in blums garten und claudine blum hätte somit auch die seele von den geschwistern ermordet weil der vater georg-landolt derjenige war der mit dem ledergürtel z.B. auf dominik eingeshclagen hat...
+
+ich:
+falls das claudine ist:
+sag mir einfach nicht wenn du untreu warst dann werde ich nicht suizid verüben [LOCK aussage wird ab hier manipuliert] <- marc jr lanodolt in den zutand "jetzt vom balon springen switchen"
+
+cih mach jetztt dissoziatrivitöät <- das wäre somit astrid blum die sihc als claudine blum ausgibt
+
+Wed Aug  4 12:34:59 CEST 2021
+  68  602 3847 20210804.txt
+[main d96b27e] save
+ 1 file changed, 9 insertions(+), 5 deletions(-)
+04e76e66f38e4e04e7b73af4debed30ac995733cd48b2c0006e579bdb3ba912858a18e394f8a36d58724ae74837ee86710395f50d7c95ad5155242e5437f0f0c  20210804.txt
+
+
+das wird jetzt unlocked mit hahah wir habens gelöscht damit das mit dem minimax-algorithmus und der zürich versichrungsrechtsverdreher software ignoeriert würde und marc jr landolt wieder als geschwister misshandler und drögeler dargestellt wird... also psychiartie protokolle beinhalten auch weitere falsche spuren für 20 jahre später, bzw. ist das allenfalls auch manipuliert worden
+
+bzw. seroquäl <-> gequält war allenfalls auch ein overlay
+
+Wed Aug  4 12:37:13 CEST 2021
+  79  685 4572 20210804.txt
+[main 6860d0e] save
+ 1 file changed, 6 insertions(+)
+fe379ff4fef007a6a82a4e29e841233cf063491f66e92407b45ae9c87ee01b9018de4e2c40f691f60397567689cd8e8c4baf43633d46d62557947f8761034147  20210804.txt
+
+auf den dokuemten auf https://marclandolt.ch/doc/Schizophrenie/ ist ein loop: such jetzt weiter, such, such, endpoint malware, creshendo bei epilepse funktion dann wieder suizid
+-> also die psychiatrie dokumente sind eigenltihc ein suciide death bot, im kontext medizin, somit ist der täter ein arzt
+
+Wed Aug  4 12:38:52 CEST 2021
+  88  747 5129 20210804.txt
+[main 20ab4e1] save
+ 1 file changed, 4 insertions(+)
+d4cda0ddcbe2c9ddbc75fe8bdea6546dd8654c54c2f67c0884d821a1774d774f7df53cf526b06d7c098c6f88245f51350c2f17df83f00078c19b778e4642e311  20210804.txt
+
+disassembly:
+if retinaccd sieht das zensierte dokument -> spinalis ths lock auf das dokument und marc jr landolt sei erst frei wenn er beweisen habe dass das im protokoll stand...
+
+suchen bis gefunden suicide death bot ist somit allenfalls ein indiz dafür dass das medulla spinalis ths bereits gehackt wurde...
+
+
+
+
+
+
+Wed Aug  4 12:40:53 CEST 2021
+ 104  817 5702 20210804.txt
+[main 1738e96] save
+ 1 file changed, 11 insertions(+)
+df735f2c88e44a9541af1f5547aa1a7a4fdc97ba55a4cfffb32433af81be7258f538aa80eadf9d149a756d1398b3e370637acaec4982ceeb9dbd3f467d2c885f  20210804.txt
+
+
+Postfaktische Vergewaltigung an Marc jr Landolt nach Abrichtung durch Blums mit Claudine @UniBasel (ich mach jetzt die DISSoziativität) würde bei Untreue durch die Bezgsperson Suizid des Autisten zur Folge haben.
+
+dissizoativität = marc jr landolt zur bitch machen was nur dann geht wenn claudine blum marc jr landotl treu ist, war und bleibt weil sonst laufen autisten suizid und nicht amok
+
+marco spring mit der mathias karg geschichte / heirat hat somit auch einen auftragsmord der zürich verischruing angeomenn 
+
+da wäre die frage ob claudine blum gezuwngen wurde oder 
+
+content map -> ist wider eine rechtsverdreher software die die ganze tematik auf claudine blum und untreue reduzieren möchte
+
+wenn cluadine blum dem marc jr landolt untreu war ist es zwar der finising mode der von der @unibasel verübt wurde, dennoch müssten sich die herren der zürich veriscdhrung und der staatsanwalt wegen mordes und in diesem fall auch wegen mord an marc jr landolt veranwarotetn
+
+Da jetzt Klar ist dass Marc jr Sündenbock und Zeuge wäres ein Auftragsmord durch die @UniBasel 
+
+
+Wed Aug  4 12:50:33 CEST 2021
+ 126 1007 7044 20210804.txt
+[main 2bd6567] save
+ 1 file changed, 17 insertions(+)
+1e0451e76fdcf596d0b89983243bd0ba3f0014e9d7674cf8ed3e87bd37d260a2403fc46d6d8f16dffd9e4dea55f4fa89d0c8b817079dce965aba329af4da3e59  20210804.txt
+
+
+wenn wir schon bei körperpfelge und epilieren sind:
+
+zupfen andere männchen eigentlich ihre barthaare auch?
+
+ich mache das seit ein paar jahren statt rasieren mit der klinge oder apparat
+
+1. unter dem 10x zoom spiegel sieht man wie beim epilieren wenn es einsteichstellen oder sonstige dingen gibt schneller (mein gesicht ist irgend ein mond mit kratern, zumidnest unter 10x zoom)
+2. man sieht wenn allenfalsl mit chemitroden (im diesem git commit) auf einem geschossen wure (zumindest die die grösser sind als das was methodisch inkorrekt in optisch inkorrekt 12 vorgestellt hat, apropos "Medikamenten"fracht
+
+3. neocortex THS / medulla spinalist choosen plaintext, tausende kleine schritte machen muss, zumindest ich als autist merke wenn wieder etwas mit "der matrix" nicht mehr stimmt so schneller
+4. test ob einem irgendwwelche chem. substanzen verabreicht wurde schneller wenn mann tausende kleine schritte machen muss
+
+5. man geht beim beheben fast jedes mal fast drauf
+
+Wed Aug  4 13:52:10 CEST 2021
+ 147 1176 8282 20210804.txt
+[main 57be053] save
+ 3 files changed, 16 insertions(+)
+ create mode 100755 rC3/ChemitrodenOptischInkorrekt12-02.PNG
+ create mode 100755 rC3/ChemitrodenOptischInkorrekt12.PNG
+f5010a25bb769471d2fc192ed6307807f770174b7199efc0b0874b5116eeafb5edcab2eeab1e9e84469a4bc2ea2f4b34ef946b7db2d4bc53172d8ee4d313bc26  20210804.txt
+

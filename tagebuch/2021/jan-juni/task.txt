@@ -1,0 +1,52 @@
+
+Hello Fellow Hacker
+
+one can be whitehat hacker or blackhat hacker. one can not be grayhat hacker.
+
+even if you are the best hacker in the world, you would have no chance against 100'000 NSA hackers. so if you do blackhat stuff you will end up in hell where you will serve satan to kill little children in a country you maybe not even know. if you call yourself grayhat hacker, they would know what crime you commited. This crimes will be be stored for 100 Years in data retention center in Utha [1] and they blackmail you too to kill little kittens. one can confess sins and and fixing what one broke to get to the white side of the force again.
+
+If you do security training you would maybe find this [3] funny, in many countries it is legal to play red and blue team CTF with your friends. In some countries this is only alowed in your local networks, and in some countries not even this is allowed or you would need a permit.
+
+I don't know the situation in your country but i kindly suggest that you find i friend you can trust that studied law and can you show the articles so that you don't get caught by the darke side so the force. otherwise the would play card sequence: 
+
+⇨ m15-mod2
+⇨ m38
+⇨ m41
+⇨ m37 (this group would get dt1 card)
+⇨ ...
+
+that is one possibility, if you would calculate how many moves one can do with 4 cards [CARDS] out of 400 you would get 1050739900 possibilities [4]
+
+to find out if i told you the truth or not and if i am whitehat or blackhat there is a puzzle to solve:
+(hint: one can not only hack software, one can also hack hardware, one can also hack biology, one can also hack mindes, a23 Card)
+we use the definition in the book "The Art of Unix Programming" for the word hacking.
+
+[CARDS]
+
+mirror france: http://hackerscardgame.ch/jpg/EN/#a12
+mirror switzerland: https://0x8.ch/HackersCardgame23/jpg/EN/#a12
+
+
+with kind regards
+
+Marc jr. Landolt
+eidg. dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau
+Switzerland
+062 822 61 31
+078 674 15 32
+
+
+[1] Jacob Appelbaum 29C3 Keynote: Not My Department
+https://www.youtube.com/watch?v=QNsePZj_Yks
+
+
+[2] 30c3: To Protect And Infect, Part 2
+https://www.youtube.com/watch?v=U-JwjYd0-ZI
+
+[3] xkcd: Exploits of a Mom
+https://xkcd.com/327/
+
+[4] binomial(400,4)
+https://www.wolframalpha.com/input/?i=binomial%28400%2C4%29

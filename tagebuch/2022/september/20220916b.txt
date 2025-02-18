@@ -1,0 +1,104 @@
+
+  Modem und andere Infrastruktur zer-Cybert
+  |
+  |     ______________________________________________  Induzierte Angst dass die Polizei wieder kommt und mich in die Psychiatrie verschleppt
+  |    /______________________________________________  Vergiftungsängste
+  |   /_______________________________________________  Epilepsie
+  v  /________________________________________________  ISP am Hals der geownt wurde und jetzt denkt wenn er es mir anhängt würde ich das Problem für ihn lösen
+  . /_________________________________________________  BlackHat Hacking Team 1 das nervt
+    \_________________________________________________  BlackHat Psychologische Kriegsführung Team 1 das nervt
+     \________________________________________________  BlackHat Hacking Team 2 das nervt
+      \_______________________________________________  BlackHat Psychologische Kriegsführung Team 4 das nervt
+       \______________________________________________  BlackHat Hacking Team 3 das nervt
+        \_____________________________________________  permanente Morddrohungen über Microwave Hearing / Frey Effect
+
+===================================================================================================================================================================
+
+
+
+2022-09-16 18:46:00 
+
+es läuft jetzt auf dem neuralink loop recorder seit mehreren stunden mehrere loops die alle mich stabilisierenden gedanken und mantras negiert. dann werden mich stabilisierende mantras von claudine blum von der pädokriminellen margrit landolt nachgesprochen. also nicht nur männer mansplainen auch frauen tun das
+
+dann läuft nachts ein loop der mich wieder steuerbar / fremdbestimmbar macht, auch mit körper telemetrie, wie in der psychiatrie, das wäre sowieso nicht kosovo
+
+die arbeitsanweisungen der upc dei vermutlcih von der schweiz geschriben wurden für die mitarbeiter der upc im kosovo wären so wie eine archetypen theorie wo verschiedene menschen andere vorgänge hätten. protokoll wird schlecht gamcht oder verhindert. das hiesse, dass die shcweizer armee da auf das neuralink dieser mitarbeiter im kosovo zugriff hat
+
+dann würde ein mächtiger svp-nazi / ein mächtiger offizier einfach mit dem 20 Jährigen kosovo-albaner ein blutbad anstellen wenn die dort zugriff haben. da wäre die frage, sind die server dort von der schweiz oder ownt das management-API der UPC einfach dort alle computer udn neuralinks oder haben die z.B. Vault7 2.0 oder so irgend etwas
+
+dann organisatorisch wird man in den kosovo in den first level verbunden, die dürfen nur mit mail mit dem 2nd level support kommunizieren. organisatorisch besser wäre es wenn man früher zum second level durchtestellt wird. die wollen so verhidnern dass der second level (schweizer) erfahren was für cyber-war speile von der schweizer armee verübt werden
+
+somit die die montag wegen den signalen kommen sind auch zu schulen und dhimmas
+
+dann first level hat keine möglichkeit auf die signale zu schauen, der schweizer second level support hat da aber uach auf das UPC-API zugriff und sieht die signale
+
+also wenn das UPC-Management-API die computer hackt dann kann die UPC auch auf das neuralink der mitarbeiter zugreifen in der schweiz zugreifen
+
+dann wäre die frage "sunrise" und terrornetzwerk der schweizer armee, urs blum hatte einen sunrise anschluss vor 20 jahren
+
+dann vor paar jahern hat mir der alte upc support die signae gesagt, da war es um 63DBµV, also schon knapp, also vielleicht hat jemand in der nachbarschaft zusätzlich die dosen in der stammleitung sabotiert oder aus egoismus eine dose genommen mit weniger auskoppelungsdämpfung
+
+also da müsste man jetzt rasch in alle modem daten schauen udn dann vermutlcih bei mir auf ca 68dbµV schalten, das können die von der UBR aus, dann haben die allenfalls die signale auf der UBR remote gedämpft oder einen geownten neuralink eines second level supporters dazu getrieben diese zu senken weil die änderung würde vermutlich in den logfiles stehen.
+
+nach cisco ubr/cmts handbuch kann man pro leitung den sendepegel einstellen
+
+da ich selber als first und second level support mit kabel modem gearbeitet habe, müssen die mich mit solchen traumabased mindcontrol loops die mich destabilisieren unten halten weil das sonst wie hier gerade auffligt
+
+da machen wir somit einen artikel https://marclandolt.ch/upc.html
+
+dann mit der funktion den pegel runter zu stellen nehmen die modem kunden vom netz, das wäre vermutlcih der konfiurations-server von cisco der die miesten  geräte zugreift bei UPC
+
+also die Schweizer armee hockt im Configserver von cisco
+
+dann müssen die logischerweise schauen, dass die nicht andere kunden abschalten, also wäre meine wisi dose die auskoppelungsdämpfung eher zu gross
+
+
+
+ich bin grad mal Offline-Politiker, bzw. UPC ist kaputt, aber ich hab ja einen DualWAN Router mit einem Access Point mit dem ich auf's Handy bridge'n kann
+
+
+kleine Frage(n):
+
+* hast Du die Wisi-Dose in der Neuenburgerstrasse mal gewechselt? Meiner Meinung nach hätte diese eine zu grosse Auskoppelungsdämpfung.
+
+* weisst Du grad wieviel Auskoppelungsdämpfung diese hätte falls ja, dass ich das nicht aufschrauben muss?
+
+* Du hattest ja ein UMTS Modem, hattest Du damals auch Ärger mit UPC?
+
+
+
+Die neue Sunrise-UPC ist ein riesen Schlammassel:
+
+- Der First Level Support ist jetzt ims Kosovo-Albanien. Für SVP Wähler "perfekt" um den Konflikt zwischen rechten Schweizern und Kosovo-Albanern zu schüren wenn etwas nicht geht (Thema aufgebrachte Kunden)
+
+- vor ca. 3 Jahren hat mir der alte UPC Support gesagt das Signal sei auf 63DBµV, also eher knapp
+
+- jetzt haben die im Kosovo keinen Zugriff mehr auf die Signalwerte, also Herumgefluche und Konflikt schon vorprogrammiert weil die im Kosovo können nichts machen und würden dann einfach von Kunden angeflucht und die dürfen auch nicht den Second Level kontaktieren ausser per Mail. Ausserdem Sprachbarriere
+
+- Die Schweizer Armee hockt auf dem Konfigurations-Server für die Cisco Geräte:
+=> https://www.cisco.com/c/en/us/products/cloud-systems-management/configuration-engine/index.html
+
+- Damit können die Zeugen vom Internet trennen in dem die einfach den Sendepegel für diesen Strang herunter schalten. Das kann man auf der UBR einstellen.
+
+- Allenfalls überträgt sich Malware vom UPC-Management-API wo der Frist und Second Level drüber zugreift
+ * stimmt das wäre das Büro in Kosovo gehackt
+ * stimmt das wären auch die Techniker die vor Ort kommen gehackt (das sind ja jeweils so kleine lokale Firmen die das machen)
+
+- Das Arris Modem der UPC hat vermutlich einen SDR drin, der dann auf andere Geräte wie Bluethooth, Wifi, Funk oder worst case Herzschrittmacher oder Neuralink zugreifen könnten, das geht nicht über die öffentliche IP sondern über das Management Netzwerk 10.0.0.0/24 wo auch der Telefonie Teil drauf hockt.
+=> SDR: https://de.wikipedia.org/wiki/Software_Defined_Radio
+
+Sag das dem dem (s)Meili falls das bei Euch allenfalls auch gemacht würde ohne Euer wissen, Meili weiss dass ich gut bin, hab ja vor Dir schon in diesen Dingen gearbeitet sowohl für Ziknet als auch Yetnet. Netzwerk Security ist nicht Dein Job und Deine Aufgabe und nicht Deine Verantwortung falls da mal irgendjemand dumm kommen würde. Da müsste (s)maili dann schauen. wenn Du das Meili gemeldet hast bist Du sowieso aus der Verantwortung raus was Dein grosser Bruder so heraus gefunden hat. Kannst (s)meili grad diesen Text weiterleiten und ein Gruss von mir.
+
+Ich werde die heute die ganze Nacht einen ausführlichen Bericht schreiben, der wird dann so gegen 04:00 auf https://marclandolt.ch/upc.html verfügbar sein
+
+
+Sorry dass das etwas ist, was einem das Leben nicht gerade einfacher macht, aber schlussendlich ist das der Job von Meili und nicht von Dir.
+
+also falls Du das mit den drei fragen mit * gerade weisst gerne rasch Hilfe von Dir.
+
+Grüsschen
+Marc jr.
+
+
+
+

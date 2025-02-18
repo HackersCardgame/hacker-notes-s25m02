@@ -1,0 +1,36 @@
+System log for account 962320 (icq) connected at 30.04.2007 19::01::06
+---- +++ 962320 hat sich angemeldet @ 2007-04-30 19:01:06 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-04-30 19:01:06 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-04-30 19:01:06 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-04-30 19:01:06 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-04-30 19:01:06 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-04-30 19:07:20 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-30 19:14:28 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-30 19:15:54 ----
+---- Schööfli wurde untätig @ 2007-04-30 19:15:54 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-30 19:19:28 ----
+---- Schööfli wurde tätig @ 2007-04-30 19:19:28 ----
+---- michi wurde untätig @ 2007-04-30 19:19:28 ----
+---- stefan hat den Status von Verfügbar zu Offline geändert @ 2007-04-30 19:29:05 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-30 19:30:38 ----
+---- michi wurde tätig @ 2007-04-30 19:30:38 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-04-30 19:30:54 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-30 19:35:53 ----
+---- michi wurde untätig @ 2007-04-30 19:40:48 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-30 20:14:19 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-30 20:15:29 ----
+---- stefan hat den Status von Verfügbar zu Offline geändert @ 2007-04-30 20:15:44 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-04-30 20:15:58 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-30 20:16:13 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-30 20:22:48 ----
+---- Dominik wurde tätig @ 2007-04-30 20:22:48 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-30 20:33:58 ----
+---- michi wurde tätig @ 2007-04-30 20:33:58 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-30 20:43:32 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-04-30 20:54:22 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-04-30 20:56:52 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-04-30 20:57:15 ----
+---- Dominik wurde untätig @ 2007-04-30 20:58:31 ----
+---- +++ 962320 wurde untätig @ 2007-04-30 21:36:40 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-05-01 10:59:45 ----

@@ -1,0 +1,54 @@
+SID Music
+
+SID music is the term given music composed on a Commodore. SID stands for Sound Interface
+Device, which is the chip in the Commodore computer that produces sound.  The SID chip has three
+voices.  Because music is generally composed with four voices, it might be thought that music produced
+with three voices cannot possibly come near what would be called high quality compositions.  But a
+good SID arranger knows how to get around that limitation and compose music files that are full and
+professional sounding.  Besides that, a second SID chip can be added which allows six voice
+compositions.
+
+Most Commodore club public domain libraries contains hundreds of music files.  So do Bulletin Board
+Systems (BBS's), whether maintained by clubs or by individuals. For example, the SID area on CIVIC
+64 (Ventura-Oxnard CA) BBS is sort of a music collector's paradise, containing selections gathered
+from around the world via the Internet. And obviously, this latter source in the ultimate SID lover's
+paradise.
+
+In order to play SID music files, a player program is needed. There are several available for
+downloading from the Internet and most BBS's, as well as in club libraries. Some of these programs
+play music files only.  Others play music and, if the files are on the disk, also display words and/or a
+picture.  Among these is STEREOPLAYER 8.
+
+Most player programs look for files that have a .MUS (music) file extension following the name.  A file
+with words for the music will have the same name as the music file but with a file extension of .WDS.  A
+file with a picture to show while the music plays will have the same name as the music file but with a file
+extension of .PIC. So, when copying music files, also copy any files with the same name that contain the
+.WDS and/or .PIC extensions.
+
+Another file extension associated with music files is .STR.  An .STR file extension refers to music
+written to be played in Stereo. To sound right, music files having both the .MUS and .STR file
+extensions need a cartridge like SID SYMPHONY or an additional SID chip.  The reason is because
+the .MUS file contains the music for the left channel of the Stereo which the existing SID chip handles,
+and the .STR file contains the music meant for the right channel which the additional SID chip handles. 
+(With some slight modifications, an additional SID chip can be piggybacked onto the existing SID
+chip.)
+
+There are other music files which are "compacted" so that a single file can be sent by modem, such as
+from the BBS.  This also ensures that all the files intended by the author go together.  Files with .SAL
+.PIL .MSW, or .SLR extensions are compacted files and must be dissolved before the player program
+can use them.  Simply load like any BASIC program and run.
+
+An .SAL file is a sing-a-long file and it dissolves into its .MUS file and .WDS files.
+
+A .PIL file dissolves into a .PIC file and a .MUS file.
+
+A .MSW file dissolves into .MUS, .STR, and .WDS files.
+
+A .SLR file when dissolved becomes .MUS, .STR, .PGG, .ANI, and .WDS files.  The .ANI extension
+stands for animated picture and needs a player program that can show them.  The extensions of .PGG
+and .PJJ are for compressed versions of KOALA and DOODLE art that also need special or later
+versions of stereo player programs to display.
+
+From The Civic 64/128 Gazette, via the Commodore Information Center
+http://home.att.net/~rmestel/commodore.html
+

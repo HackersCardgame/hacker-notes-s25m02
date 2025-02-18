@@ -1,0 +1,96 @@
+System log for account 962320 (icq) connected at 28.05.2007 14::27::19
+---- +++ 962320 hat sich angemeldet @ 2007-05-28 14:27:19 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-05-28 14:27:19 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-05-28 14:27:19 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 2007-05-28 14:27:19 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 14:31:34 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 14:31:41 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 14:37:29 ----
+---- tdr-timon hat den Status von Offline zu Unsichtbar geändert @ 2007-05-28 14:39:01 ----
+---- tdr-timon hat den Status von Unsichtbar zu Verfügbar geändert @ 2007-05-28 14:39:01 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 14:39:44 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 14:43:42 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 14:44:16 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 14:45:51 ----
+---- tdr-timon hat den Status von Verfügbar zu Offline geändert @ 2007-05-28 14:48:18 ----
+---- Dominik wurde untätig @ 2007-05-28 14:59:50 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 15:00:36 ----
+---- Schööfli wurde untätig @ 2007-05-28 15:00:36 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 15:00:37 ----
+---- Schööfli wurde tätig @ 2007-05-28 15:00:37 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 15:07:23 ----
+---- Dominik wurde tätig @ 2007-05-28 15:07:23 ----
+---- +++ 962320 wurde untätig @ 2007-05-28 14:59:17 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 15:10:22 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 15:10:24 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 15:17:01 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 15:18:08 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 15:30:55 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- michi wurde untätig @ 2007-05-28 15:35:55 ----
+---- +++ 962320 wurde untätig @ 2007-05-28 15:32:48 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 15:55:55 ----
+---- michi wurde tätig @ 2007-05-28 15:55:55 ----
+---- Dominik hat den Status von Verfügbar zu Offline geändert @ 2007-05-28 15:56:33 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 2007-05-28 15:56:35 ----
+---- vortex hat den Status von Offline zu Verfügbar geändert @ 2007-05-28 16:01:03 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 16:01:43 ----
+---- Schööfli wurde untätig @ 2007-05-28 16:01:43 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 16:01:46 ----
+---- Schööfli wurde tätig @ 2007-05-28 16:01:46 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 16:11:19 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 16:12:01 ----
+---- vortex hat den Status von Verfügbar zu Offline geändert @ 2007-05-28 16:32:10 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 16:34:27 ----
+---- Dominik wurde untätig @ 2007-05-28 16:48:26 ----
+---- shrike hat den Status von Offline zu Nicht verfügbar geändert @ 2007-05-28 16:53:16 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 16:53:44 ----
+---- Schööfli wurde untätig @ 2007-05-28 16:53:44 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 16:53:46 ----
+---- Schööfli wurde tätig @ 2007-05-28 16:53:46 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 17:03:05 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 17:03:48 ----
+---- Schööfli wurde untätig @ 2007-05-28 17:03:48 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 17:03:51 ----
+---- Schööfli wurde tätig @ 2007-05-28 17:03:51 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 17:04:33 ----
+---- Dominik wurde tätig @ 2007-05-28 17:04:33 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 17:07:13 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 17:07:14 ----
+---- michi wurde untätig @ 2007-05-28 17:08:05 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 17:10:03 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 17:10:51 ----
+---- michi wurde tätig @ 2007-05-28 17:10:51 ----
+---- Dominik wurde untätig @ 2007-05-28 17:24:02 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 17:38:24 ----
+---- Schööfli wurde untätig @ 2007-05-28 17:38:24 ----
+---- shrike wurde untätig @ 2007-05-28 17:39:12 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 17:44:26 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 17:48:13 ----
+---- Dominik wurde tätig @ 2007-05-28 17:48:13 ----
+---- michi wurde untätig @ 2007-05-28 17:49:26 ----
+---- Schööfli hat den Status von Abwesend zu Nicht verfügbar geändert @ 2007-05-28 17:58:25 ----
+---- Schööfli hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-28 18:00:58 ----
+---- Schööfli wurde tätig @ 2007-05-28 18:00:58 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 18:09:07 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 18:13:23 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 18:14:30 ----
+---- Schööfli wurde untätig @ 2007-05-28 18:14:30 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 18:15:17 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 18:16:20 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 18:16:30 ----
+---- Schööfli wurde tätig @ 2007-05-28 18:16:30 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 18:19:04 ----
+---- Dominik wurde untätig @ 2007-05-28 18:33:04 ----
+---- shrike wurde tätig @ 2007-05-28 18:42:01 ----
+---- +++ 962320 wurde untätig @ 2007-05-28 18:35:08 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-28 19:02:08 ----
+---- Schööfli wurde untätig @ 2007-05-28 19:02:08 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-28 19:11:55 ----
+---- Schööfli wurde tätig @ 2007-05-28 19:11:55 ----
+---- shrike wurde untätig @ 2007-05-28 19:27:30 ----
+---- +++ 962320 wurde untätig @ 2007-05-28 19:43:47 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-05-28 20:14:47 ----

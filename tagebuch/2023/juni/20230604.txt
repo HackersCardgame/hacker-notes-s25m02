@@ -1,0 +1,34 @@
+Sun Jun  4 17:52:13 CEST 2023
+
+
+Hallo Markus 
+
+p1: Du sagst "nicht ionisierende Strahlung ist kein Problem"
+p2: Du sagst "ein Golddraht im Gehirn wäre wie eine Antenne"
+
+p3: 50mV Aktionspotential reicht um im Gehirn Einfluss zu nehmen
+p4: es gibt Chemische Subtanzen mit metallischen Anteilen, die man einem Patienten spritzen könnte, die auch mit Elektromagnetismus wechselwirken
+
+p1 + p2 + p3 + p4 = p5
+
+p5: wie berechne ich die benötigte Sendeleistung eines mutmasslichen Rogue Devices um diese 50mV irgendwo im Körper induzieren zu können?
+
+so abgeschätz käme ich darauf, dass eine 5G Antenne nicht reicht, aber z.B. ein RAGEMASTER mit bis zu 1kW der in den Snowden Leaks war würde meiner subjektiven Abschätzung reichen. Also kannst Du oder jemand der sein Physik-Studium abgeschlossen hat mal für mich ausrechnen wenn das nicht zu viele Umstände macht?
+
+
+
+Nächste Baustelle
+
+p1: Man sagst "nicht ionisierende Strahlung ist kein Problem"
+p2: Man sagst "ein Golddraht im Gehirn wäre wie eine Antenne"
+
+p3: 50mV Aktionspotential reicht um im Gehirn ein Neuron anzusprechen
+p4: es gibt Chemische Subtanzen mit metallischen Anteilen, die man einem Patienten spritzen könnte, die auch mit Elektromagnetismus wechselwirken
+
+p1 + p2 + p3 + p4 = p5
+
+p5: wie berechne ich die benötigte Sendeleistung eines mutmasslichen "Rogue Devices" um diese 50mV irgendwo im Körper induzieren zu können?
+
+So abgeschätz käme ich darauf, dass eine 5G Antenne nicht reicht, aber z.B. ein RAGEMASTER mit bis zu 1kW der in den Snowden Leaks war würde meiner subjektiven Abschätzung reichen. Also kannst Du oder jemand der sein Physik-Studium abgeschlossen hat mal für mich ausrechnen wenn das nicht zu viele Umstände macht?
+
+

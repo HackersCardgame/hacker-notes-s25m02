@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+22:46:19	1007/1007	---M--	200	added ('OK')	text/html	date:Sat,%2024%20Aug%202013%2020:45:51%20GMT	https://www.inofix.net/cgi-bin/awstats.pl?config=ml.buzzernet.com	www.inofix.net/cgi-bin/awstatsff65.html	(from )
+22:46:20	182/182	---M--	404	error ('Not%20Found')	text/html	date:Sat,%2024%20Aug%202013%2020:45:52%20GMT	https://www.inofix.net/robots.txt		(from )

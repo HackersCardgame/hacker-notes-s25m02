@@ -1,0 +1,59 @@
+THE ADVANCED OCP ART STUDIO 
+
+Review by Paul Hughes
+
+Advanced Art Studio from Firebird Licensees; imported from Rainbird in England (as the 21st Century
+begins, most programs like this are available only on the used market). 
+
+
+Advanced Art Studio is an incredible art package for the price, power and value. It can be found at
+some mail order houses as low as $26.95. It comes with attractive packaging, two user manuals and
+two diskettes. This art package will become the standard for many years to come. It has almost every
+command or function that any computer graphic artist could ask for in ONE package. 
+
+Among its many AMIGA-like features that are standard in both the high resolution and multicolor
+modes are windows, icons, pull-down menus, and pointing devices. There is full control over attributes
+of color. All information is on screen - no need to repeatedly switch between the picture and a menu
+screen. Art Studio is compatible with multiple input devices - keyboard, joystick, mouse in joystick
+mode, and Koala pad. It supports Commodore and Epson compatible printers plus a user-defined
+printer driver option. 
+
+Save, load and merge pictures to or from cassette or disk. There are 16 pens, 8 random sprays and 16
+user-definable brushes to draw with. Window areas can be cleared, inverted, cut and pasted, enlarged,
+reduced, squashed, stretched, flipped and rotated. Solid and textured fill option, with 32 user-definable
+patterns and a wash texture feature. 
+
+Three levels of magnification (2x,4x, 8x) with pan and zoom, pixel clear and plot. Text in 9 character
+sizes, 2 directions, bold and rotate with a comprehensive Font Editor with clear, invert, flip, rotate
+characters or whole font, copy ROM, and capture font from window. 
+
+Standard shapes like: lines, points, rectangles, triangles, circles and rays with point or elastic
+rubber-band facility. Hires mode has snap into color grid. Undo facility for last operation. 
+
+Enhanced facilities in the Multicolor version of the program are as follows: 48 sizes of grey scale dump,
+continuous display of cursor, coordinates. Cursor speed control, and cursor may reflect the current ink
+color, current pattern or pen or may be shown as a cross-hair to aid alignment. Color priority and
+exclusion lists, enabling powerful manipulation of all colors, such as drawing behind areas of the screen
+and ignoring any colors during cut and paste operations. 
+
+Multicolored patterned fills, 12 user-definable patterns from 1 x 1 up to 12 x 16 can be saved to and
+loaded from cassette or disc with Comprehensive Pattern Edit Facility. There are 12 user-definable
+multicolor brushes. Windows may be saved to disc, enabling libraries of picture elements to be
+compiled and called up onto the screen at any time for rapid picture creation. Windows allow color
+change facility. Program setups may be saved to cassette or disk and reloaded automatically. 
+
+Automatic loading of specific character fonts and patterns on program startup. Multicolor version has in
+Text mode 9 character sizes, 4 directions, bold and italic with variable spacing. 91 User-definable font
+characters with comprehensive editor. Fonts may be load from and saved to disk. 
+
+The two very well-written and profusely illustrated manuals, which accompany each disk for each
+mode, will have you becoming a computer graphics artist in no time. The manuals wonderfully explain
+the different resolution modes and their inherent limitations as well as what is a pixel and color blocks
+for the novice. 
+
+I highly recommend this Advanced Oxford Computer Publishing Art Studio Package for the first time
+computer graphics artist as well as the experienced computer user. It cannot be beat on price, value,
+power and ease of use. You get two disks, two manuals for the price of one and almost very feature a
+computer graphics artist could ask for in one comprehensive art package. 
+
+(From The Commodore Information Center web site (http://home.att.net/~rmestel/commodore.html) 

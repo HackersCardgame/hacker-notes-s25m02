@@ -1,0 +1,28 @@
+System log for account 962320 (icq) connected at 16.03.2007 22::05::27
+---- +++ 962320 hat sich angemeldet @ 2007-03-16 22:05:27 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-03-16 22:05:27 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 2007-03-16 22:05:27 ----
+---- shrike hat den Status von Offline zu Verfügbar geändert @ 2007-03-16 22:05:27 ----
+---- michi hat den Status von Verfügbar zu Offline geändert @ 2007-03-16 22:05:51 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 2007-03-16 22:14:42 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-16 22:15:34 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-16 22:16:21 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-16 22:17:47 ----
+---- +++ 962320 wurde untätig @ 2007-03-16 22:09:40 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-16 22:24:24 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-16 22:27:15 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-16 22:33:55 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-16 22:34:59 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik wurde untätig @ 2007-03-16 22:48:58 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-16 22:52:18 ----
+---- Dominik wurde tätig @ 2007-03-16 22:52:18 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-16 22:55:56 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-16 22:56:59 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-16 23:02:45 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-16 23:13:53 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-03-16 23:19:01 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-03-16 23:19:53 ----
+---- +++ 962320 wurde untätig @ 2007-03-16 23:27:25 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-03-17 11:31:13 ----

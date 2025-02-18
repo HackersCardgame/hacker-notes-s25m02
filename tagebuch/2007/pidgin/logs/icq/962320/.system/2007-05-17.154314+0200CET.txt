@@ -1,0 +1,105 @@
+System log for account 962320 (icq) connected at 17.05.2007 15::43::14
+---- +++ 962320 hat sich angemeldet @ 2007-05-17 15:43:14 ----
+---- Dominik hat den Status von Offline zu Abwesend geändert @ 2007-05-17 15:43:14 ----
+---- dikyangel hat den Status von Offline zu Verfügbar geändert @ 2007-05-17 15:43:14 ----
+---- dikyangel wurde tätig @ 2007-05-17 15:43:14 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-05-17 15:50:22 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-17 16:14:46 ----
+---- dikyangel wurde untätig @ 2007-05-17 16:14:46 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-17 16:17:28 ----
+---- dikyangel wurde tätig @ 2007-05-17 16:17:28 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-05-17 16:22:42 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-17 16:22:50 ----
+---- dikyangel wurde untätig @ 2007-05-17 16:22:50 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-17 16:31:55 ----
+---- Schööfli wurde untätig @ 2007-05-17 16:31:55 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-17 16:34:15 ----
+---- Schööfli wurde tätig @ 2007-05-17 16:34:15 ----
+---- Schööfli hat den Status von Verfügbar zu Offline geändert @ 2007-05-17 16:37:25 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-17 16:37:50 ----
+---- dikyangel hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-17 16:37:51 ----
+---- dikyangel hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-17 16:38:02 ----
+---- dikyangel wurde tätig @ 2007-05-17 16:38:02 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-17 17:06:10 ----
+---- dikyangel wurde untätig @ 2007-05-17 17:06:10 ----
+---- Schööfli hat den Status von Offline zu Verfügbar geändert @ 2007-05-17 17:10:36 ----
+---- michi hat den Status von Offline zu Verfügbar geändert @ 2007-05-17 17:11:11 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-17 17:18:48 ----
+---- dikyangel wurde tätig @ 2007-05-17 17:18:48 ----
+---- stefan hat den Status von Verfügbar zu Offline geändert @ 2007-05-17 17:21:50 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-05-17 17:25:05 ----
+---- shrike hat den Status von Offline zu Nicht verfügbar geändert @ 2007-05-17 17:37:40 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-17 17:46:35 ----
+---- Schööfli wurde untätig @ 2007-05-17 17:46:35 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-17 17:46:36 ----
+---- Schööfli wurde tätig @ 2007-05-17 17:46:36 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-17 17:51:27 ----
+---- stefan hat den Status von Verfügbar zu Offline geändert @ 2007-05-17 17:52:51 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-05-17 17:52:58 ----
+---- michi wurde untätig @ 2007-05-17 17:56:26 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-17 17:56:30 ----
+---- dikyangel wurde untätig @ 2007-05-17 17:56:30 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-17 17:56:34 ----
+---- dikyangel wurde tätig @ 2007-05-17 17:56:34 ----
+---- shrike wurde untätig @ 2007-05-17 17:58:32 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-17 18:01:10 ----
+---- Schööfli wurde untätig @ 2007-05-17 18:01:10 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-17 18:01:34 ----
+---- dikyangel wurde untätig @ 2007-05-17 18:01:34 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-17 18:01:36 ----
+---- dikyangel wurde tätig @ 2007-05-17 18:01:36 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-17 18:09:10 ----
+---- dikyangel wurde untätig @ 2007-05-17 18:09:10 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-17 18:09:14 ----
+---- dikyangel wurde tätig @ 2007-05-17 18:09:14 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-17 18:14:26 ----
+---- dikyangel wurde untätig @ 2007-05-17 18:14:26 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-17 18:14:28 ----
+---- dikyangel wurde tätig @ 2007-05-17 18:14:28 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-17 18:14:53 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-17 18:18:07 ----
+---- Schööfli wurde tätig @ 2007-05-17 18:18:08 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-17 18:19:28 ----
+---- dikyangel wurde untätig @ 2007-05-17 18:19:28 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-17 18:19:30 ----
+---- dikyangel wurde tätig @ 2007-05-17 18:19:30 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-17 18:24:32 ----
+---- dikyangel wurde untätig @ 2007-05-17 18:24:32 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-17 18:24:36 ----
+---- dikyangel wurde tätig @ 2007-05-17 18:24:36 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-17 18:31:30 ----
+---- dikyangel wurde untätig @ 2007-05-17 18:31:30 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-17 18:31:38 ----
+---- dikyangel wurde tätig @ 2007-05-17 18:31:38 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-17 18:36:40 ----
+---- dikyangel wurde untätig @ 2007-05-17 18:36:40 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-17 18:40:30 ----
+---- Schööfli wurde untätig @ 2007-05-17 18:40:30 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-17 18:41:26 ----
+---- dikyangel wurde tätig @ 2007-05-17 18:41:26 ----
+---- shrike wurde tätig @ 2007-05-17 18:44:21 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-17 18:49:22 ----
+---- dikyangel wurde untätig @ 2007-05-17 18:49:22 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-17 18:52:16 ----
+---- dikyangel wurde tätig @ 2007-05-17 18:52:16 ----
+---- Schööfli hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-17 18:56:50 ----
+---- Schööfli wurde tätig @ 2007-05-17 18:56:51 ----
+---- dikyangel hat den Status von Verfügbar zu Nicht verfügbar geändert @ 2007-05-17 19:09:44 ----
+---- dikyangel wurde untätig @ 2007-05-17 19:09:44 ----
+---- dikyangel hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-05-17 19:09:48 ----
+---- dikyangel wurde tätig @ 2007-05-17 19:09:48 ----
+---- Schööfli hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-17 19:10:32 ----
+---- Schööfli wurde untätig @ 2007-05-17 19:10:32 ----
+---- dikyangel hat den Status von Verfügbar zu Offline geändert @ 2007-05-17 19:19:40 ----
+---- Schööfli hat den Status von Abwesend zu Nicht verfügbar geändert @ 2007-05-17 19:30:32 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-17 19:53:47 ----
+---- michi wurde tätig @ 2007-05-17 19:53:47 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-17 20:03:27 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-17 20:04:07 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-17 20:13:22 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-17 20:13:43 ----
+---- michi hat den Status von Verfügbar zu Abwesend geändert @ 2007-05-17 20:18:50 ----
+---- michi wurde untätig @ 2007-05-17 20:23:47 ----
+---- michi hat den Status von Abwesend zu Verfügbar geändert @ 2007-05-17 20:26:28 ----
+---- michi wurde tätig @ 2007-05-17 20:26:28 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-05-17 20:33:50 ----

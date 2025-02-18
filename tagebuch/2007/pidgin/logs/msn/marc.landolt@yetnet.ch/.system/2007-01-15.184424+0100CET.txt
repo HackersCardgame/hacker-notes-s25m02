@@ -1,0 +1,9 @@
+System log for account marc.landolt@yetnet.ch (msn) connected at 15.01.2007 18::44::24
+---- +++ marc.landolt@yetnet.ch hat sich angemeldet @ 15.01.2007 18::44::24 ----
+---- gizembakgor@hotmail.com hat den Status von Offline zu Verfügbar geändert @ 15.01.2007 19::44::25 ----
+---- gizembakgor@hotmail.com hat den Status von Verfügbar zu Offline geändert @ 15.01.2007 19::45::27 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 15.01.2007 19::52::34 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ marc.landolt@yetnet.ch wurde untätig @ 15.01.2007 21::12::08 ----
+---- +++ marc.landolt@yetnet.ch wurde tätig @ 01.01.1970 01::00::00 ----
+---- +++ marc.landolt@yetnet.ch hat sich abgemeldet @ 16.01.2007 20::24::42 ----

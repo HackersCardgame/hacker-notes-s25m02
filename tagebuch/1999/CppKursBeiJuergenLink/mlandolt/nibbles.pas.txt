@@ -1,0 +1,130 @@
+program Nibbles;
+
+
+uses Crt;
+
+
+(****************** Typen und Objektdefinitionen ****************)
+
+type
+   Schlange = object
+
+      constructor Inizialisieren();                                (*Allgemeiner Konstruktor*)
+      destructor Loeschen();                                       (*Allgemeiner Destruktor*)
+      procedure bewegen(Richtung : integer);                       (*Methode für Steuerung der Schlange*)
+      zustand  = (lebend,tod,essen);                               (*Enumerierung für eindeutigen Zustand der Schlange*)
+      AktZustand : zustand;                                        (*zustand der Schlange*)
+
+      private                                                      (*Private Objektdaten*)
+         pos = record                                              (*Benutzerdefinierter Datentype für Positionen*)
+            x, y = byte;
+         end;
+         neuePosition : pos;                                       (*Temporäre Position*)
+         Aussehen : array [1..400] of pos;                         (*1.dimension: länge; 2.dimension: x/y position*)
+         laenge   : integer;                                       (*länge der Schlange : anfangszustand=1*)
+   end;
+(****************** Typen und Objektdefinitionen ****************)
+
+
+(********************** Variabeldefinitionen ********************)
+
+var   Spieler1        : Schlange;
+      Spieler2        : Schlange;
+      Spielfeld       : Array [1..20,1..20] of byte;
+      TasteSpieler1   : byte;                                      (*Für Tastaturabfrage Spieler 1*)
+      TasteSpieler2   : byte;                                      (*Für Tastaturabfrage Spieler 2*)
+      LaufVarX        : byte;                                      (*Laufvariabel für x-Koordinaten*)
+      LaufVarY        : byte;                                      (*Laufvariabel für y-Koordinaten*)
+
+(********************** Variabeldefinitionen ********************)
+
+
+(******************** Funktionen und Prozeduren *****************)
+
+constructor Schlange.Inizialisieren();
+
+var init : integer;                                                (*Laufvariable*)
+
+begin
+   for init := 1 to 400 do                                         (*Array Schlange.Aussehen rücksetzen*)
+      begin
+         Schlange.Aussehen[init].x := -1;
+         Schlange.Aussehen[init].y := -1;
+      end;
+   Schlange.AktZustand := lebend;                                    (*Schlange lebendig machen*)
+end;
+
+procedure Schlange.bewegen(richtung : integer var KopfX, KopfY, SchwanzX, SchwanzY : byte);
+
+var i  : integer;
+
+begin
+   case richtung of
+      72: Schlange.neuePosition.y := Schlange.Aussehen[1].y - 1;
+      80: Schlange.neuePosition.y := Schlange.Aussehen[1].y + 1;
+      75: Schlange.neuePosition.x := Schlange.Aussehen[1].x - 1;
+      77: Schlange.neuePosition.x := Schlange.Aussehen[1].x + 1;
+   end;
+   if Spielfeld(Schlange.neuePosition.x, Schlange.neuePosition.y) <> 0 then
+   begin
+      if Spielfeld(Schlange.neuePosition.x,Schlange.neuePosition.y)=1 then
+         Schlange.aktZustand:=tod;
+      else
+         begin
+            Schlange.laenge:=Schlange.laenge+1;
+            Schlange.aktZustand:=essen;
+         end;1
+   end;
+   i=Schlange.laenge;
+   while i > 0 do
+      begin
+         Schlange.aussehen[i+1]:=Schlange.aussehen[i];
+         i := i-1;
+      end;
+   schlange.aussehen[1]:=neuePosition;
+   KopfX := schlange.Aussehen[1].x;
+   KopfY := schlange.Aussehen[1].y;
+   SchwanzX := schlange.Aussehen[Schlange.Laenge].x;
+   SchwanzY := schlange.Aussehen[Schlange.Laenge].y;
+end;
+
+
+
+destructor Loeschen();
+
+begin
+
+end;
+
+(******************** Funktionen und Prozeduren *****************)
+
+
+
+(************************** Hauptprogramm ***********************)
+
+begin
+   Spieler1.Inizialisieren();
+
+   for LaufVarY := 1 to 20 do                                       (*Spielfeld inizialisieren*)
+      for LaufVarX := 1 to 20 do
+         begin
+            Spielfeld[LaufVarX,LaufVarY] := 0;
+         end;
+
+   while (Spieler1.aktZustand = lebend) do                                                               
+      if keypressed:=true then
+         begin
+            TasteSpieler1:=ReadKey;
+         end;
+   Spieler1.bewegen(TasteSpieler1);
+   Spielfeld[KopfX,KopfY]:=1;
+   Spielfeld[SchwanzX,SchwanzY]:=0;
+   Delay(500);
+   end;
+end;
+
+
+
+
+
+(************************** Hauptprogramm ***********************)

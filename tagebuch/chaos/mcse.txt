@@ -1,0 +1,52 @@
+MCSE
+
+Man gebe in google mal folgende Suchwörter an:
+
++neurotic-mcse      ->0     +neurotic-doctor    ->   6470
++idiotic-mcse       ->2     +idiotic-doctor     ->   4400
++psychotic-mcse     ->0     +psychotic-doctor   -> 28'100
++mcse-zombi         ->0     +
+
++microsoft-zombi    ->141   obwohl es ja schätzungseweise etwa
+                            20Mio Windows Kisten gibt welche gekapert wurden
+
+gut fairerwesie muss man sagen, dass es auch keinen hit gibt wenn man
++idiotic-actc   (Apple Certified Technical Coordinator)
+
+sucht vergleicht man aber "+mcse microsoft" (ca. 7Mio)  mit "+actc apple" (ca. 43'200)
+muss das im prinzip so herauskommen.
+
+Interessanterweise findet man praktisch null einträge, mit einem
+negativen adjektiv vor oder nach MCSE schlussfolgerung wäre
+ein MCSE ist unfehlbar. Das ist er aber nicht, denn grad kürzlich
+hat unser MCSE den www A Record auf eine unserer wichtigen Domänen
+gelöscht. Gut es war halt ein BSD Server und kein Windows, A-Records
+löscht man dennoch nicht.
+
+Worauf ich eigentlich hinaus will, im Grunde muss jeder dem MCSE
+gegenüber als Bittsteller auftreten, das würde ja noch gehen
+aber wenn diese dann noch so dekadent sind ist das doch eher lästig.
+und im grunde lernt ein MCSE nicht wie ein System funktioniert
+er weiss allenfalls wo er klicken muss, weil es für alles eine
+schöne Maske gibt, wie eine Pralinenschachtel wo man sich bedienen
+kann, vorausgesetzt man hat das Admin Passwort.
+
+Also kann es sogar so weit kommen, dass einer das Passwort hat
+und jemand der Fähiger wäre muss auf Kniehen darum betteln, dass
+man ihm doch etwas freischaltet.
+
+ergo muss ich so eine MCSE Ausbildung, bzw nur die Prüfung machen.
+womit dann der beweis erbracht wäre, dass jemand der Linux etc. bedienen
+kann auch mit windows zurecht kommt. aber nicht umgekehrt.
+
+idiotic-penguin     -->42
+
+aber schlecht über andere reden ist auch schlecht also lassen wir es
+einfach hier in meinem Privaten Tagebuch.
+
+MCSE=Minesweeper Consultant and Solitaire Expert
++mcse +minesweeper +solitair-expert -> 4350
+
+und laut heise hat ja ms schon wieder eine kartell klage am hals...
+eine gute firma würde gar nie eine klage haben weil sie ethisch handlen
+würde.

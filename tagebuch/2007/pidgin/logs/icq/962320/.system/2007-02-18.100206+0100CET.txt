@@ -1,0 +1,44 @@
+System log for account 962320 (icq) connected at 18.02.2007 10::02::06
+---- +++ 962320 hat sich angemeldet @ 2007-02-18 10:02:06 ----
+---- stefan hat den Status von Offline zu Abwesend geändert @ 2007-02-18 10:02:08 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 2007-02-18 10:02:08 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-18 10:04:00 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-18 10:04:34 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-18 10:12:41 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-18 10:24:05 ----
+---- +++ 962320 wurde untätig @ 2007-02-18 10:16:26 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-18 10:27:56 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-18 10:28:02 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-18 10:31:43 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-18 10:32:47 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-18 10:39:48 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-18 10:42:33 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-18 10:42:55 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-18 10:50:37 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-18 10:50:40 ----
+---- +++ 962320 wurde untätig @ 2007-02-18 10:41:15 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-18 10:51:33 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-18 10:51:43 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-18 10:52:08 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-18 10:54:22 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-02-18 10:55:03 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-02-18 10:56:14 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik wurde untätig @ 2007-02-18 11:10:12 ----
+---- +++ 962320 wurde untätig @ 2007-02-18 11:07:50 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-02-18 11:25:57 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-18 11:40:54 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-18 11:40:58 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 wurde untätig @ 2007-02-18 11:46:14 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-18 11:56:24 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-18 12:17:31 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-18 12:23:08 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-18 12:32:02 ----
+---- spam? hat den Status von Offline zu Verfügbar geändert @ 2007-02-18 12:32:08 ----
+---- spam? hat den Status von Verfügbar zu Offline geändert @ 2007-02-18 12:39:18 ----
+---- stefan hat den Status von Abwesend zu Offline geändert @ 2007-02-18 12:47:17 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-02-18 12:57:03 ----

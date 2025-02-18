@@ -1,0 +1,99 @@
+Tagebuch So 27 Mai 2012 18:39:18 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+prime-zettel:
+warscheinlichkeit über ein Fehlerhalftes rollback bei
+einer windows 2003 FTP install rollback zu stolpern *M*
+->resultierende, navision abgeschossen
+
+1. software für die chefetage abschiessen
+2. support mitarbeiter peinigen
+->zuber hat aber gesehen, dass es am rollback liegt, mine sweeper
+
+ausserdem problematischer remote webarbeitsplatz, konfigurationen über
+ihn dann deaktiviert das setup den remote webarbeitsplatz.
+
+somit für die kleinen
+entweder physikalisch an der windows maschine beim core komponenten installieren
+oder via teamviewer von einem client, problematisch auch der isa server
+der auf dem serlben server ist und allenfalls sogar die internet verbindugn
+deaktiviert... somit best case, am server direkt (zumindest für windows maschinen)
+
+-->begleitet von diese problem reagiert mein resonanzkeim in der brust
+so, wie wenn mir jemand in die Brust schiessen würde, somit höchstwarscheinlich
+ein vorgefertigtes desingpattern
+
+->aber per "zufall" ruf grad hr hüppin an für etwas anderes und ich kann
+mit teamviewer session den remote webarbetisplatz neu starten
+
+code hüppin arche
+
+für linux user:
+screen
+sudo ifdown eth0 && sudo ifup eth0
+
+ausserdem war da gerade die sache mit dem mensch, der meiner meinung nach
+mit gewisser warscheinlichkeit einen amok lauf macht, christian vogel...
+
+prime-zettel:
+FHA zitat: die bekriegen sich in der schweiz
+RADIC REICH
+
+stimme1:
+ich solle mich schämen, dass ich kritische fragen richtung obrigkeit schicke
+
+stimme2:
+das sei gut, und jemand der berechtigt da oben sein will, hat diese klausur
+zu überstehen
+
+
+
+
+bruno franz:
+schule wisse er nciht aber werkstatt sei ausgeglichen gewesen
+
+hypothese: schule a-klassen: neurointerface bewusstsein
+---------         b-klassen: neurointerface kein bewusstsein
+                  ->anwendung und test in der Werkstatt
+                   ->allenfalls weitere indizien für werkstatt experimente
+
+ein bestehendes netzwerk in der stahl und elektroindustrie
+würde implizieren, dass dort höchstwarscheinlich auch solches
+knowhow vorhanden ist, denn solche technik wäre benötigt
+damit keine unfälle passieren, und jemand aus einem ganz anderen
+fachgebiet wüsste gar nciht wo die gefahren sind...
+
+
+
+voice:
+vergebung!
+->+du sollst nicht töten, somit kann ich nicht vergeben, bis niemand
+mehr von der unter oder oberschicht mehr wahnsinnig wird oder amok
+läuft weil er um seine existenz fürchten muss, denn vergebung ist
+wichtig, aber dafür zu sorgen, dass sich die menshcen nciht wegen
+mangelnden ressourcen bekriegen und töten ist wichtiger, und solange
+irgend ein reicher noch 3 porsches fährt und irgendwo ein armer verhungert
+*M* kann ihc dem reichen nicht vergeben, denn er könnte ein menschenleben
+retten, aber er nimmt lieber die 3 porsches...
+
+prime-zettel:
+im Schweizer Informatik markt werden die Junginformatiker gejagt,
+bis sie einen genug grossen sündenkathalog haben, wodurch die 
+finanzwirtschaft sie als werkzeug erpresserisch einsetzen kann
+
+Machtausübung
+a) gegen schwächere <- schlecht
+b) gegen leute die macht gegen schwächere ausüben
+c) nicht verwechseln mit dem versuch die leute zu erläuchten, das braucht 
+   eine gewissen dominanz
+
+ABSTRAJT
+die wehrlosigkeit der kinder stärkt das ego des vaters
+END ABSTRAKT
+
+
+
+
+
+

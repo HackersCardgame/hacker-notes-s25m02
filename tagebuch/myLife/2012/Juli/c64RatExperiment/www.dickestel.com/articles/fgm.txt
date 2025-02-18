@@ -1,0 +1,42 @@
+FunGraphics Machine V6.6
+
+By Jack Blewitt, Commodore User's Public Information Discourse
+
+For users of The FunGraphics Machine the first update in over two years was recently released and
+should be available in your local club library. FGM is perhaps the best graphic manipulator available to
+the Commodore enthusiasts and now prints even faster than ever. What does this new update do?
+Actually, there are two options on this revision.
+
+First, if you use any Epson compatible or Gemini 10X printer, you can now use the GEOcable with
+your FunGraphics Machine for vastly increased speed and reliability. Previously, this cable could only
+be used with GEOS and (as I understand) some specialized fast load cartridges. The GEOcable
+actually replaces your parallel interface and sends data directly from your favorite computer to the
+printer's Centronics connection.
+
+To insure your printer is compatible with all of your software you may wish to be able to select either
+your standard parallel printer interface or the GEOcable. You may want to add an A/B Data switch
+box to your configuration. This is a simple process and relatively inexpensive. A simple switch rotation
+will instantly select your print path. GEOcable may be purchased from Creative Micro Designs, Inc. for
+$29 plus $5 shipping (CMD 800 638 3263). One good source for the switch box and connecting cable
+would be JDR Micro-devices (800 538 5000). The Data Switchbox (#RSP) is only $9.95 and the six
+foot CEN36P to CEN36P cable (#CBL-CNT- MM) runs $14.95. Shipping is about $5 for the two
+items.
+
+The second option of the FGM update V6.6 is designed for the Epson 24-pin printers. It allows
+multi-printing which gives you an option of up to nine passes. This removes the "jaggies" and makes for
+an exceptionally dense printout. Results are much like the GEOS Perfect Print program and take
+additional time for each pass. Use of the GEOcable is highly recommended. Best results are obtained
+using a weak ribbon or moving the print head out to its furthest position. This will help prevent ink
+bleed-through caused by the multiple passes.
+
+Another excellent feature of the Multi-Pass option is the selection of vertical density. Ron Hackley has
+done an exhaustive study to determine which pins should strike the paper to produce the best results for
+each vertical density. Normally, the pins are selected to emulate the 8-pin printer. Ron's selection
+provides a clear, concise output. You can even select a l/72" density so the print is not elongated by
+20% and gives the same dimensions as the 8-pin printer. Other vertical densities are available for
+unique applications. It is well worth the few minutes it takes to update your pay version V6.x if you
+have any use for the above options, or may be contemplating purchasing any of the hardware in the
+future. Ron Hackley is one of the very few programmers still supporting the Commodore 8-bit users.
+Watch for additional new innovations to keep the Commodore alive and growing. 
+
+Via The Commodore Information Center web site (http://home.att.net/~rmestel/commodore.html)

@@ -1,0 +1,2 @@
+Conversation with 974875 at 10.02.2007 10::53::24 on 962320 (icq)
+(10:53:27) landev: In C we had to code our own bugs. In C++ we can inherit them.

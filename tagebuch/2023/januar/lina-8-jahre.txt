@@ -1,0 +1,40 @@
+Tue Jan  3 07:13:18 AM CET 2023
+
+Halli Hallo Hallö nach Aarau Rohr
+
+ich hätte schon eine Idee für den 8. Geburtstag von Lina:
+
+= = = = = = = = = = = = = = =
+Einen PC selber zusammenbauen
+= = = = = = = = = = = = = = =
+
+Pädagogisch-didaktische Ziele:
+==============================
+- Angst vor Technik / Computer nehmen oder mindestens abbauen
+- Darauf hinweisen man am PC alles selber machen kann, AUSSER dass man aber z.B. das Netzteil nicht auseinander nehmen darf weil da 230V
+- Lernen Betriebssystem zu installieren, Dualboot Linux/Winodws
+- Lernen Software zu installieren
+- ...
+
+=> und dafür muss ich ein bisshen ausholen
+
+Viele Menschen haben Hemmungen vor Technik, insbesondere wenn etwas an der Hardware gemacht werden muss. Deshalb würde ich gerne mit Lina einen Desktop ganz zusammen bauen um ihr schon möglichst früh diese Angst zu nemen. "Hands on" wie die Hacker-Ethik sagt.
+
+Also günstigen CPU für 100.--, Mainboard, Grafikkarte, Gehäuse, Netzwerkkarte, Tastatur, Maus, Festplatte, Monitor...
+
+Das wäre allenfalls auch etwas was man mit dem @DOMINIK - Papi machen könnte als Spiele-Idee, bzw. spielerisch lernen wenn Zeit vorhanden.
+
+Ausserdem hab ich ja wegen dem Anatomie-Atlas mit @Kathi Teamviewer gemacht, also allenfalls hat Kathi da auch noch Hemmungen die man abbauen könnte aber logischerweise kein Muss sondern komplett freiwillig. Was man da bei Klein und Gross richtig machen muss ist dass man den "Auszubildenden" nicht die Dinge aus den Händen nimmt und selber macht sondern dass man nur Hilfestellung gibt beim selber machen.
+
+Das würde mehrere Stunden lernen in Anspruche nehmen, auch müsste man da allenfalls berücksichtigen, dass Lina eine Aufmerksamkeitsspanne von ca. 30 Minuten, also müsste man das vermutlich in mehrere Teile unterteilen. Das könnte man bei mir im Computer Raum machen, mit oder ohne Kathi, oder das könnte man auch bei Euch machen und die Komponenten gleich zu Euch bestellen falls Ihr das auch für eine gute Idee haltet.
+
+Eben das ist erst mal eine Idee, und falls Ihr das auch eine gute Idee findet müsste man da auch Dinge vorbereiten für Kindgerechte Schulung. Wenn man so im Internet sucht findet man Programmier-Kurse für Kinder so ab 8 Jahren. Die sind dann aber oft auch gleich 500.- bis 1000.- Fr. für nur eine Woche, und weshalb so viel für einen Kurs ausgeben wenn der Onkel das sowieso besser kann als Klassenbester in der Technikerschule und ich hab ja auch 3-4 Lehrjahr Lehrlinge unterrichtet, also mit Pädagogik und Didaktik kenne ich mich auch ein bisschen aus.
+
+
+also sagt mal Eure Meinung ob Ihr das auch für eine gute Idee haltet, und was ihr generell von Computer Nutzung haltet, also vermutlich wäre es pädagogisch zu früh für einen Computer im Kinder Zimmer, aber einen im Allgemeinschaftsraum oder Hobbyraum wie in Küttigen denke ich wäre etwas. Wir hatten ja damals den C64 als ich 6 und Dominik 3 Jahre alt war und beide haben bezüglich Computern eher keine Hemmungen.
+
+Gruss
+Marc jr.
+
+
+

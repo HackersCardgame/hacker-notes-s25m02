@@ -1,0 +1,25 @@
+System log for account 962320 (icq) connected at 05.06.2007 20::04::11
+---- +++ 962320 hat sich angemeldet @ 2007-06-05 20:04:11 ----
+---- Schööfli hat den Status von Offline zu Abwesend geändert @ 2007-06-05 20:04:11 ----
+---- Schööfli wurde tätig @ 2007-06-05 20:04:11 ----
+---- FairyLady hat den Status von Offline zu Verfügbar geändert @ 2007-06-05 20:04:11 ----
+---- stefan hat den Status von Offline zu Verfügbar geändert @ 2007-06-05 20:04:11 ----
+---- Dominik hat den Status von Offline zu Verfügbar geändert @ 2007-06-05 20:04:11 ----
+---- Dominik wurde tätig @ 2007-06-05 20:04:11 ----
+---- shrike hat den Status von Offline zu Nicht verfügbar geändert @ 2007-06-05 20:04:11 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-05 20:09:48 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-05 20:10:50 ----
+---- stefan hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-05 20:14:20 ----
+---- stefan hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-05 20:15:55 ----
+---- FairyLady hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-05 20:16:06 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-05 20:29:24 ----
+---- +++ 962320 wurde untätig @ 2007-06-05 20:23:00 ----
+---- FairyLady hat den Status von Abwesend zu Nicht verfügbar geändert @ 2007-06-05 20:36:07 ----
+---- Dominik wurde untätig @ 2007-06-05 20:42:51 ----
+---- Dominik hat den Status von Abwesend zu Verfügbar geändert @ 2007-06-05 20:47:28 ----
+---- Dominik wurde tätig @ 2007-06-05 20:47:28 ----
+---- +++ 962320 wurde tätig @ 1970-01-01 01:00:00 ----
+---- FairyLady hat den Status von Nicht verfügbar zu Verfügbar geändert @ 2007-06-05 20:53:57 ----
+---- Dominik hat den Status von Verfügbar zu Abwesend geändert @ 2007-06-05 21:00:22 ----
+---- +++ 962320 hat sich abgemeldet @ 2007-06-05 21:08:11 ----

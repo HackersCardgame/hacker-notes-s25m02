@@ -1,0 +1,47 @@
+Tagebuch Mit Jan 21 19:33:56 CET 2009 @ ns2.ignored.ch
+
+es ist wieder einmal halb 8 eigentlich relativ früh, (HEUL)
+
+dann hab ich was herausgefunden.
+
+Türkischer Kunde, dem ich heute das türkische paket aufgeschaltet habe
+
+eine masche ist ein geschlossener komplex oder so
+
+1. schlechte aura, unfreundlich oder böse, fordernd
+2. wirkt auf mich unfreundlcih, ich bin auch eher distanziert
+3. kunde vermutlich eine art verfolgungswahn merkt das nonverbale und schaltet auf agressiv
+4. ich denke mir, so nicht und vielleicht auch ein bisschen, leck mich (obwohl ich das eher schlecht finde)
+5. kunde fühlt sich bestätigt in seiner paranoia, da ihm scheinbar nciht bewusst ist, dass er das selber auslöst
+6. er geht mit der gleichen haltung an den nächsten schalter, goto 1
+
+lösung: z.B. durchbrechen mit freundlichkeit
+also z.B. an punkt 1 mit humor oder übermässig zuvorkommend sein, so dass er erstaunt ist wie freundlich schweizer sein können.
+
+unter uns, er hat gesagt, "ich müsse das sofort tun", was ich ja normalerweise immer tue, da ich zu faul bin etwas später zu machen, doch dank seiner unfreundlichkeit habe cih gedacht:
+SO, dieser Antrag lege ich zuunterst in den stapel, der hat es verdient, dann aber, da ich die kundendaten noch offen hatte hab ichs dann trozdem gleich gemacht.
+
+wer hat den so komplett falsch programmiert...
+
+dann kundenadministration statt störungsbehebugn, bzw natürlich beides und noch so "teilweise" überflüssige sitzung / schulung, das nächste mal hüte ich den schalter...
+das mit der sihcerheit von jke war gut, vorallem für die Monteure bezüglich den gefahren mit strom oder auch bei sauberkeit bei den wasserleitungen etc. finde ich es 
+gut zwischendurch ein bisschen an das bewusstsein zu apellieren und auf ein paar alltägliche situationen zu verankern, so dass es repetiert wird.
+
+naja für ziknet eher nciht relevant, was soll passieren, den finger in der tastatur einklemmen, ok beim mitagessen habe ich mein brötchen mit dem sackmesser verschnitten, und daran gedacht.
+es würde allenfalls eine "schnattere" geben. andererseits hab ich ja bei der einen box das kabel ausgetauscht, aus 2 kaputt mach eine ganz +$(preisEinerSdBox) in 10 minuten
+wobei zu beachten ist, dass ich ja elektromechaniker bin.
+
+an einen hausanschluss würde ich mich jedoch nciht wagen \ vollschutzkleitung, das schiesst afaik schon recht fest dort.
+
+dann hat (naja ich nenn jetzt keine namen) er einen vortrag gehalten über QM, naja QM ist im prinzip richtig gelebt bestimmt eine gute sache, doch als dann der arbeitskollege etwas gesagt hat wie
+"der hat einen knall und es hätten sich schon alle über das ausgelassen" habe ich gedacht, ok, es liegt wohl nicht an mir, wenn ich solche gedanken habe.
+
+dann müsste er sich besser vorbereiten, damit es selbstsicherer wirkt unser "SE" (sarkasmus) {ja ich weiss ich bin böse} oder noch ein paar kurse in präsentationsfähigkeiten belegen.
+wobei wieder die frage kommt: "welche fähigkeiten muss ein vorgesetzter haben, damit er ernst genommen wird?, denn laut aussage haben sich auch höhere über ihn ausgelassen und vorgänger...
+
+
+was war sonst noch, naja es hat einen switch "verchlöpft" das kann es halt geben, und dabei hat sich herausgestellt, dass redundanz!=redundanz.
+ich hoffe wir werden mit dem neuen coolen dozenten für BSU (müller) ein bisschen mailserver, High Avalability, und so durchnehmen, habe schon mit dem gedanken gespielt mal zu fragen
+was bei ihm der Privatunterricht kosten würde...
+
+

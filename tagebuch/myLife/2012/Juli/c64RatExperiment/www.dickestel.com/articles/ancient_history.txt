@@ -1,0 +1,97 @@
+The Ancient History of Computers
+
+by Richard Axtell
+
+Let's go back in time about two thousand years to the time when the first computing device was
+invented. Do you know what this device was called? The answer is the ABACUS. This device is still in
+use to this day in Japan and China. These use equally spaced wires or rods with beads to represent
+digits.
+
+Now we move forward in time and meet the man who invited the first adding/subtracting device. His
+name was Blaise Pascal (1623-1662). At the age of 19, he constructed this device and gave Louis
+XIV, King of France, a copy. This device used gears, rods and dials for computing answers to
+problems. Most people introduced to this device refused to use it because they feared it would
+eliminate the need for human calculators someday (sound familiar?) 
+
+The first commercially used adding machines appeared nearly 200 years later, in about 1820. In 1822
+Charles Babbage (1792-1871), a British mathematician, designed and built a prototype of the
+difference machine. This machine was to generate mathematical tables and could perform repetitive
+calculations to make these tables. In 1833 Babbage redesigned the machine radically, calling his new
+design the analytical engine. Babbage never built this machine, but the design used a steam engine and
+cogged cylinders to perform calculations. The engine would use punched cards for inputting data and
+instructions. The Countess of Lovelace (Lord Byron's daughter), who was a mathematician, called
+Babbage's analytical engine a machine that would weave algebraic patterns just as a Jacquard loom
+weaves flowers and leaves. The countess was considered the first to write computer programming for
+this machine.
+
+In 1890, Herman Hollerith (1860-1929) developed the first electric machine that could read punched
+cards. At this time he worked for the U.S. Census Bureau and his device was used to help with census
+information. The machine was used in other countries, like Canada and Russia, for the same purpose.
+Hollerith formed a company in 1896 called Tabulating Machine Company. This company was one of
+the companies that later joined to form the company familiar to us all as IBM in 1924. 
+
+In 1928 astronomers Wallace J. Eckert from the U.S. and John Cromie of England devised punch card
+machines for calculating astronomical and nautical tables.
+
+Moving to 1943, J. Presper Eckert and John W. Mauchly and associates designed a machine called
+Electrical Numerical Integrator and Calculator (ENIAC). The machine was built in 1944. It used
+18,000 vacuum tubes and 180,000 watts of electricity. It also required space equal to a two bedroom
+house. This machine could calculate in 20 seconds ballistic problems that would take one person 20
+hours using a desk calculator. ENIAC was also used for calculations to develop the first atomic bomb.
+
+Also in 1944, the Harvard Mark I was finished. This electro-mechanical device could perform the
+calculations planned for the analytical engine by Babbage some 111 years before. The Mark I was
+designed by Howard Aiken and Associates. This machine was 8 feet tall by 55 feet long and had
+around 750,000 parts. The Mark I could handle numbers with 23 digits and do all arithmetic operations
+along with logarithms and trigonometric functions.
+
+By 1945, John von Neumann proposed the idea of stored memory and designed his EDVAC
+(Electronic Discrete Variable Automatic Computer). The design was completed in 1952. Von
+Neumann is considered the father of the modern electronic computer.
+
+Construction of UNIVAC was ordered in 1947 for use by the U.S. Census Bureau. Eckert and
+Mauchly completed the work in 1951. This and other computers similar in design to UNIVAC used
+delay-line memory and performed multiplication by repetitive addition.
+
+The decade of the 50's was a time of great change for computers. The use of ferrite core memory
+began and the transistor was to replace the vacuum tube.
+
+Technological development was not the only thing to take leaps in the 50's. The idea of assembly
+language to translate the binary codes used by computers to more easily understood instructions was
+introduced in that decade. Some of the higher-level languages that more closely resemble terminology,
+such as COBOL, ALGOL and FORTRAN, were developed in the 50's and early 60's.
+
+The early 60's focused on building larger memories and more functions into computers. Photo printing
+of circuits to make computers smaller and faster was started in the early 60's. The LARC computer
+from Sperry-Rand Corp, and Sterch, built by IBM, were two of the new computers of the early 60's.
+
+Business started using computers at that time also. In 1963, The Daily Oklahoman in Oklahoma City
+became the first newspaper to use computers to set all classified and editorial text. One year later
+American Airlines and IBM joined forces to build the first airlines reservation system, called SABRE.
+The APOLLO lunar project is another example of use of computers in science and engineering.
+Without the computer it would not have been possible to land men on the moon.
+
+This brings us to the decade of the 1970's which was when size and cost of computers took a leap
+forward and backward too. Hand held calculators became an item in the 70's. Their prices and size
+began to decrease and their popularity began to grow in leaps and bounds. This was the decade of the
+super computer, where we saw huge computers that affected our lives in ways that are still all around us
+today. Super computers were used for forecasting weather, astrophysics, nuclear engineering and
+oceanographic research.
+
+Onward to the good old 80's and we see home computers that for a short time had sky high price tags
+come down in price so much they would give them to you. Texas Instruments closed out the TI-99
+computers at $50 and they would give you a rebate of $50 when you bought them. Now hand-held
+calculators are hand-held computers and desk-top computers are becoming laptop computers. In the
+60's they set text for newspapers with computers. Now we print pictures generated with computers.
+The 180,000 tubes of a few years ago have been replaced by silicon chips with a million transistors in
+the space of a quarter inch by quarter inch square as thin as a piece of paper.
+
+In the next decade we will see computers like the one dreamed up called TABLET that will read your
+handwriting and convert it to text--as well as a few other nice things our fathers didn't even dream of.
+
+Will it be a 19-year old person who brings us into a new era of these machines which started out using
+gears, rods and dials? Don't wait too long to answer that question--it may happen before you finish
+reading this sentence!
+
+(from Greater Oklahoma Commodore Club Newsletter, 10/88; reprinted from an earlier issue of The
+Interface, via the Commodore Information Center, http://home.att.net/~rmestel/commodore.html)

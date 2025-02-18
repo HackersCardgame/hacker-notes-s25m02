@@ -1,0 +1,50 @@
+THE ONE MEG COMMODORE: A User Review
+
+by Dick Estel
+
+After I had purchased my C64 in November of 1987, I read a book on buying a computer (I always
+was a little backward). The book was out of date but highly entertaining; and in it the author mentioned
+the lust for more memory. His system was up to 48K, but he was pretty sure he was going to have to
+upgrade, although he was hesitant about whether he NEEDED more memory or just WANTED it.
+
+When the C64 came out one of its selling point was the whopping 64K memory, unprecedented in an
+affordable computer at that time. Now (1990) of course, anything less than one megabyte is considered
+old fashioned by business or professional users.
+
+We in the Commodore field left the 64/128K limit behind several years ago when CBM introduced the
+1700, 1764 and 1750 RAM expanders. Now the megabyte barrier has been broken for Commodore,
+thanks to a circuit designed by Andrew E. Mileski (Recursion on Q-Link).
+
+A number of technically adept people have upgraded their own REU's to one, one and a half or two
+megabytes. Two Q-Link subscribers have offered an upgrade service at prices starting at $60.
+
+As soon as I could live without my REU for a few days, I sent it off to Raymond Day in Michigan; and
+a couple of weeks later it arrived and was immediately plugged in for a test.
+
+One of the limitations of this upgrade is that there are not many programs that allow you to make use of
+the extra memory. However, for GEOS users, it is probably the ultimate, because it allows the use of a
+1581 RAM disk.
+
+To explain briefly, in GEOS the REU simulates a real disk drive. The amount of information that can be
+copied into the REU is held within the limits of the existing drives that the REU can emulate-165K for a
+1541 RAMDISK and 330 for a 1571. The maximum 512K memory of the 1750 (or its clones) allows
+only the 1571 (the rest of the memory is used for some file handling and screen updating chores).
+
+The expansion to one megabyte (1024K) allows for a RAM 1581, with 790K of usable memory. For
+my usage, I have found the the 330K 1571 RAMDISK to be almost adequate. However, there are
+often times I would like to have programs and data files available in RAM, but I run out of room. 
+
+With the 1024 upgrade, I have loaded all the major applications (geoWrite, geoPaint, geoPublish), plus
+many accessories, fonts, photo albums and data files, and have always had over 100K left unused.
+With the 1581 RAMDISK, I can put all the files for an issue of the newsletter in the REU at once,
+instead of doing it in three sections as I used to do. There is room left for several photo albums and
+other miscellaneous programs that I can use, but could not make room for before. I used to think that
+the 512K REU was heaven, so this must be Nirvana.  
+
+The modification includes addition of a slide switch and two LED's, very neatly installed. The switch
+allows changing back to a 512K REU for those programs that do not work with the expanded version.
+For example, I have the Write Stuff configured to load the dictionary into the REU, but with it in 1024
+mode, it would not work.
+
+(From The Interface, October 1990, newsletter of Fresno Commodore User Group, via the
+Commodore Information Center, http://home.att.net/~rmestel/commodore.html)
