@@ -31,3 +31,28 @@ also ich vermute da gibt es
 
 Wed Feb 19 00:25:37 CET 2025
 
+[main 5ef589e] ...
+ 3 files changed, 17 insertions(+)
+ create mode 100644 BUG_REPORTs/debian/allenfalls..ein.ganzes.subset.an.sabotagen.ev.koordiniert.Screenshot From 2025-02-19 00-24-01.png
+ create mode 100644 tagebuch/2025/februar/.20250218b.txt.swp
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+
+5ef589e85086545da5f61d453508fe3a36337919
+[main 28d6815] ...
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:HackersCardgame/hacker-notes-s25m02.git        
+To github.com:HackersCardGame/hacker-notes-s25m02.git
+   e730fd0..28d6815  main -> main
+28d68152c3b86eafb069031b984cc32802d7f78a
+
+dann scheint ein ziel des system zu sein mich mit einem regelkreis nicht nur psychotisch sondern auch leicht dissoziativ machen zu wollen
+
+
+
+
