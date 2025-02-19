@@ -1,3 +1,26 @@
 
+Wed Feb 19 01:59:04 CET 2025
 
+
+* remote origin
+  Fetch URL: git@github.com:HackersCardGame/hacker-notes-s25m02.git
+  Push  URL: git@github.com:HackersCardGame/hacker-notes-s25m02.git
+  HEAD branch: main
+  Remote branch:
+    main tracked
+  Local branch configured for 'git pull':
+    main merges with remote main
+  Local ref configured for 'git push':
+    main pushes to main (fast-forwardable)
+f839564987f74e9abfa1c4102aa8462e73fe23e5
+[main 9bacff4] ...
+ 2 files changed, 2 insertions(+)
+ create mode 100644 tagebuch/2025/februar/.20250219.txt.swp
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:HackersCardgame/hacker-notes-s25m02.git        
+To github.com:HackersCardGame/hacker-notes-s25m02.git
+   a12eec0..9bacff4  main -> main
+9bacff404aba034b7c0d1d06584427a0c621e26b
+
+da frage ich mich auch ob ich jetzt da das git@ entfernen muss
 
