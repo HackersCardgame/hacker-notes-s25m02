@@ -56,3 +56,13 @@ dann scheint ein ziel des system zu sein mich mit einem regelkreis nicht nur psy
 
 
 
+Wed Feb 19 01:29:42 CET 2025
+
+28d68152c3b86eafb069031b984cc32802d7f78a
+[main 2f71cc0] ...
+ 2 files changed, 25 insertions(+)
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:HackersCardgame/hacker-notes-s25m02.git        
+To github.com:HackersCardGame/hacker-notes-s25m02.git
+   28d6815..2f71cc0  main -> main
+2f71cc06622e3c4d1ecd5879eaf511d169151e9a
