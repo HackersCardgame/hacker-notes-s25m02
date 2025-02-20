@@ -1,0 +1,30 @@
+
+Thu Feb 20 10:08:27 CET 2025
+
+
+06f71da78dc9627ebde5d3db22dfb2ddc5ef23d9
+
+
+Rechtlich vorerst Spekulation:
+
+Die Intel Hardware Backdoors haben eine default-einstellung, dass sie nur ca. 10 Minuten zugriff gewähren auf den Comptuer eines ZEugen welcher von urs blum [1] ermordet werden soll
+
+
+
+
+[1]  (ESKALATION; TOP SECRET WISSEN: automatsiche abschaltung der Sendeinfrasrukt=> dre Zürich Versichrung => Der Schwe4izer Arenme)
+
+[2] urs blum droht jetzt wirde mit sprengfaellebn 
+
+
+marc@debian:~/hacker-notes-s25m02/tools$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+Konzeptwissen: Maximale Nutzungsdauer der INTEL Hardware backdoors mutmasslich built in 
+
+
+
