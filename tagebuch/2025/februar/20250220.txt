@@ -60,3 +60,27 @@ da kann man ganz einfahc mit einem Lügendetektor oder einem MRI rausfinden, ob 
 
 Thu Feb 20 10:27:35 CET 2025
 
+
+total 3x der identische Feher
+
+3 von diesen forensischen NETAC USB Sticks
+
+zuerst partitionstabelle erstellen -> geht
+partition erstellen -> geht
+ext4 filesystem erstellen -> blockiert udn bindet mcih ca 1h am computer fest
+
+dann 2. versuch
+
+alle der 3 sticks sind dann writeprotected mit weiss der teufel was da ncoh drauf geladen wurde
+
+3x den selben identischen technischen fehler ist kein technischer fehler, das ist eine vorsätzlihce STatemachine, vermutlich etwas wie IRATEMONK oder Equation Group malware, aber nciht für festplatten sondern für USB Sticks
+
+hiesse dann aber somit, wenn ich da die Malware wieder ab dem MCU des USB sticks bekomme muss ich diese nicht fortwerfen (gut für die Umwelt) und allenfalls finde ich dann raus ob die wirklcih noch irgendwelchen inhalte drauf geladen haben
+
+urs blum:
+wenn dann das z.B. inhalte wären, welche bei matthias berner schon gesichert wurde wäre berner überführt
+
+urs blum:
+bzw. hat man überprüft ob bei den 2200 Pädophilie fällen der Kantonspolizei aargau zufällig imer ungefäher die selben inahte gefunden hat? 
+
+urs liefert einfach eiskalt den fehlbaren polizi.sten berner ans messer?P
