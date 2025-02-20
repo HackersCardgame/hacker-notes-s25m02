@@ -33,3 +33,27 @@ somit hätte ein nachbar diese INTEL hardware backdoor infrastruktur, versteckt 
 
 
 
+dann Fehleranalyse der NETAC USB Sticks mit so halb forensischem schreibschutz schlater
+
+da wurde vermutlich (allenfalls sogar auf dem postweg) etwas wie IRATEMON auf die Firmware (nciht auf den Speicher) geladen
+
+
+State-Machine
+
+1. Blockerrors
+2. irgendwann meldet der MCU dass das schreibgeschützt sei
+ -> vermutlcih hat urs blum [1] noch irgendwelche pädo inhalte drauf geladen
+3. ich würde das fortwerfen
+4. irgend ein retter-held der polziei findet das im abfall
+5. dann wird die MCU firmware wieder repariert
+6. dann würde man pädo-inhalte auf dem stick mit meinen fingerabdrücken finden
+
+EUER Problen Herren Blum und Berner:
+da kann man ganz einfahc mit einem Lügendetektor oder einem MRI rausfinden, ob ich diese Inhalte schon mal gesehnen hab
+
+
+ 
+ [1] urs blum verratet den mathias berner <-- also die 2200 pädophilie fälle in der aargauerzeitung wären ein honey pot um rauszufiden wer gemerkt hat dass der Morno Borno Porno-Fahnder Mathias BErner auftrags urs lbum und der zürich vrishcrung pädophilie auf computer von zheugen läd welch urs lbum (urs blum: oder gernell die wirtschaftsrkimiellen) mit mord in verbindung bringen kann zu vernichte
+
+
+
