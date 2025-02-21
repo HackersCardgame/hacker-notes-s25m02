@@ -10,7 +10,9 @@ es sei ein Zeitzünder software welche den Transmitter zerstört hätte
 2. multiarch, udn verscheidene beriebssysteme, sowohl linux und arm64 als auch intel und windows
 3. wenn auf dem arm audio-server eine zeitzünder software drauf wäre dann würde der audioserver jetzt auch gecrasht sein
   -> ist er aber nicht
-4.
+4. [DELETED] bei Logitech unifying usb sender für tastatur und maus kann man die firmware updaten, somit kann man bei logitech lightspeed auch davon ausgehen, dass man das kann, bzw. findet man auf redit sogar einen link um software selber zu flashen für logitech lightspeed. ABER die Logitech lightspeed software macht einen auf hohn, schaltet ICD10 G40.2 bei mir ein und man kann dort weder den kopfhörer neu pairen, noch die firmwere des sticks überprüfen oder neu flashen
+
+-> somit hat urs blum die logitech verraten, bzw. damit auch die RUAG AG um dort weitere Terroristen mit Offizierstitel dazu zu zwingen mich zu ermorden und ist mit der Zürich vericherung jetzt "behilflich beim vertuschen des problems" vermutlich auch ncoh gegen kohle
 
 dann weitere datenpunkte aus meinem mail welche noch spekulativ sind
 
