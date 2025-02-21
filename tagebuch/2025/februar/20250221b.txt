@@ -270,9 +270,11 @@ Annahmen:
 [3]
 5. was heissen würde dass viel mehr straftaten von kokain-delaern oder kokain-dealern mit offiziers-titel gemeldet würde, was dann eine akute überlast bei den Mitarbetiern in der Justiz verursachen würde welche nicth schmiergelder von der Army oder dem Kokain-Ring nehmen
 
-[3] -> MODIFIED, GRAMMATIK PARSER -> 5. was heissen würde es > folgen < sehr viele bisher immer vertuschte leaks zu straftaten von offizieren, kokain-delaern oder kokain-dealern mit offiziers-titel
 
 [2] jemand grätscht drein um 2. zu löschen: amerika dekatiivert diese aus rache
 
+[3] -> MODIFIED, GRAMMATIK PARSER -> 5. was heissen würde es > folgen < sehr viele bisher immer vertuschte leaks zu straftaten von offizieren, kokain-delaern oder kokain-dealern mit offiziers-titel
+
+dann ausserdem so wie es aussieht ist meine Intel i7 8xxx mit debian Trixie und mein Audio-Server grad stabil
 
 
