@@ -37,6 +37,22 @@ Auch der Herr Gabriel Riela da gab es ca 1999 eine Szene wo er so dass ich mir d
 
 Urs Blum hat ca. 2001 immer so ein bisschen demonstrativ nonverbal mit seinen (vermutlich teuren) Dorckers-Kleidern angegeben. Das wäre somit nicht nur das geheime Zeichen, dass er Drogen von den Docks / Hafen besorgen kann, sondern da man in Zeitungsartikeln liest, dass es in Drogenlieferungen oft auch Waffen und Sprengstoff dabei hat wäre das bereits 2001 ein insgeheimes Bekenntnis von Urs Blum gewesen dass er Sprengstoff-Terrorist ist. Dazu würde auch das angeberische "hahaha, ganz Aarau flucht über Blums" passen was der Urs unaufgefordert mal am Essenstisch gesagt hat.
 
+Und Urs Blum ist ja Informatiker, und Sprengstoff bräuchte sowohl Zünder, als auch einen entsprechenden Backbone womit die ausgelöst werden könnten. Ich VERMUTE das C4-ISR System heisst genau so, weil wir alle aus dem TV Wissen, dass C4 Sprengstoff ist. Die Armee würde das dem Steuerzahler verrechnen "Wir Offiziere brauchen das um Terrorismus zu verhindern", aber de facto würde das schon lange zum Machtmittel umgebaut worden sein durch straffällige Offiziere.
+
+
+
+Dann für die anständigen Nerds im Verteiler:
+             =================
+
+
+* Audio Server scheint grad nicht mehr hackbar zu sein, ich VERMUTE die D-Link USB-Hubs von der Firma Brack.ch [5.18] haben auch einen Funk-Kanal um dann das USB System zu dDos'sen. Ausserdem D-Link tönt so nach Deutschland, also der selbe Schachzug wie schweizer Offiziere welche sich einen Hitler-Bart wachsen lassen um DE zu bezichtigen für Verbrechen der Schweizer Armee.
+
+* Dann die MUTMASSLICHEN INTEL [5.19] Hardware Backdoors, bzw. die entsprechenden Geräte hätten eine Funktion, dass man diese maximal z.B. nur 30Minuten aktivieren kann. Selbst wenn die Dinger Fast Frequenz Hopping hätte würde man deren Standort finden. Da hat VERMUTLICH irgend einer meiner Nachbarn so ein Ding, diese Dinge dürfen Vermutlich nur verwendet werden, wenn der Zeuge, Opfer oder Autist seine Informatik sichern konnte um wieder ein neues anderes Loch ins Systzem zu machen. Auch wäre das ALLENFALLS der Grund, weshalb dann Apple irgendwann neulich angefangen hat ihre eigenen Prozessoren zu produzieren
+
+* dann das hab ich schon auf Telegram verpetzt, die IRATEMONK Malware welche sich in der Firmware der MCU z.B einer Festplatte einnistet wäre mittlerweile auch erweitert worden um USB Sticks oder SD-Karten MCU's. zB. dass 3 "forensiche" USB Sticks mit Hardware-Schreibschutz-schalter alle den selben Fehler / Verhalten aufzeigen wäre da so ein Indiz dafür. Diese Erweiterung gibt es vermutlich noch nicht lange. Bis vor 6 Monaten hatte ich nie Probleme mit diesen NETAC USB Sticks
+
+
+
 
 0fc05563784673b68bb8a87582564a88d67d7e7d
 
@@ -66,5 +82,12 @@ Urs Blum hat ca. 2001 immer so ein bisschen demonstrativ nonverbal mit seinen (v
 5.16 welcher wie Urs Blum bei der Zürich Versicherung in der Informatik gearbeitet hat [5.17]
 5.17 unbekannt: marc jr lügt
      ich: nö zumindest auf seinem Xing / LinkedIN Profil stand das, kann ich sonst auch raussuchen, und falls Herr "Gabriel" Riela das gelöscht hätte wäre er UND Urs Blum umsomehr verdächtig
+5.18 gemäss Aussage von Simon Härdi ist Herr Brack ein Studien Kollege / Verbindungsbrudi(?) von Härdi
+5.19 Der Herr Gabriel [5.20] Riela hat bei INTELsat gearbeitet <- ich: was nichts mit INTEL zu tun hat, und ab Sattelit würde man nicht genug Sendeleistung haben um auf einen einzelnen CPU zuzugreifen, das soll die Aussage verschleiern [5.21]
+5.20 unbekannt: Habermass, Habermass, Habermass
+5.21 unbekannt: Star-LINK und Neura-LINK wäre der selbe Schachzug, also da würde einfach der middle-layer geheim gehalten [5.22]
+5.22 Sprachsample Ruedi Müller: In einer ersten und dritten Phase [5.23]
+5.23 Unbekannt: der Offizier Ruedi Müller hat im Kommando-Kurs der Schweizer Armee gelernt [deleted auf EEG: zivile] Telefone anzuzapfen [5.24]
+5.24 Unbekannt: Herr Ruedi Müller hat im Rombachtäli schon Menschen ermordet bzw. in den Suizid getrieben
 
 
