@@ -292,4 +292,4 @@ Annahmen:
 
 dann ausserdem so wie es aussieht ist meine Intel i7 8xxx mit debian Trixie und mein Audio-Server grad stabil
 
-
+88cd4a4a1a17ad9bf6e2568a9fd4ab1130c8530d
