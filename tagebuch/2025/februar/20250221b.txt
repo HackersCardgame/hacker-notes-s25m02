@@ -52,5 +52,7 @@ INSERTED: also schlussendlich verraten die > schwiezert offiziere < dann morde v
 
 
 
+Druck abgefangen worden
 
+[CTRL-P]
 
