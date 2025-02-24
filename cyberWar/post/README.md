@@ -15,4 +15,7 @@ also in diesem fall wäre es ein offenslichticher und wirst case ein vorsätzlic
 Mon Feb 24 13:35:14 CET 2025
 gerade jetzt wurde das schmerzimplantat in meinem linken unter und oberarm aktiviert und es blendet jetzt ein dass ich dort einen judenstern hätte
 
+cyberWar/post/lieferung.in.arbeit.hab.ich.auch.noch.nie.gesehen.und.post.seite.weist.das.nicht.aus.png
+-> verschlüselte meldung an z.B. auftragskiller?
+
 
