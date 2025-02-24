@@ -19,3 +19,7 @@ cyberWar/post/lieferung.in.arbeit.hab.ich.auch.noch.nie.gesehen.und.post.seite.w
 -> verschlüselte meldung an z.B. auftragskiller?
 
 
+diese dinge sind oft ein (mutmasslich vorsätzlicher stressor) dass ich dann schon wenn ich das holen gehe paranoid gemacht wurde
+
+
+
