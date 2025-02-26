@@ -143,7 +143,13 @@ marc@debian:~$ figlet FEDPOL
                                      
 
 
-es gibt mittlerweile fast täglich zeiten wo ich mit epilepsie gegrillt werde, die herren mit sprengfallen drohen und ein bisher nicht aufgeflogenes blackhat team mich über das C4ISR syste dazu steuern versuche "selber" sicherheitslöcher in meine informatik zu machen
+es gibt mittlerweile fast täglich zeiten wo ich mit epilepsie gegrillt werde, die herren mit sprengfallen drohen und ein bisher nicht aufgeflogenes blackhat team mich über das C4ISR syste dazu steuern versuche "selber" sicherheitslöcher in meine informatik zu machen. 
+
+=====================================================================
+Dieses KonzeptWissen zu wissen wäre allenfalls von globaler Bedeutung
+===================================================================== 
+
+ICD10 G40.2 + dauerbedrohung mit sprengfallen durch mutmasslich die Zürich Verischerung um Zeugen, Nerds, Autisten und Opfer zu fehelr zu treiben um dann deren Informatik-Mittel zu sabotieren
 
 marc@debian:~$ figlet FEDPOL
  _____ _____ ____  ____   ___  _     
@@ -152,4 +158,5 @@ marc@debian:~$ figlet FEDPOL
 |  _| | |___| |_| |  __/| |_| | |___ 
 |_|   |_____|____/|_|    \___/|_____|
                                      
+
 
