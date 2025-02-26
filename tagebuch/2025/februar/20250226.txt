@@ -192,3 +192,7 @@ somit sollte bei jeder befragung von FEHLBAREN Offizieren durch Zivile Ermittler
 
 
 
+dann scheint es auch irgend ein aktuelles 0day zu geben für debian trixie weil parallel verabschiedet sich meine telegram VM, und telegram wäre nur userland
+
+
+
