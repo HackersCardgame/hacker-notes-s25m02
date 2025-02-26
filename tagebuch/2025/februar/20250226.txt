@@ -166,4 +166,8 @@ marc@debian:~$ figlet FEDPOL
 |_|   |_____|____/|_|    \___/|_____|
                                      
 
+unbekannt:
+
+das müsste man allenfalls als "geheime öffentliche ausschreibung" bezeichnen
+
 
