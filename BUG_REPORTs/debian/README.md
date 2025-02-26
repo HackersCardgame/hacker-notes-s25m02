@@ -11,3 +11,13 @@ remote:   git@github.com:HackersCardgame/hacker-notes-s25m02.git
 To github.com:HackersCardGame/hacker-notes-s25m02.git
    78616e2..a027a31  main -> main
 
+
+
+[main 4ff6d4d] undelete
+ 3 files changed, 13 insertions(+)
+ create mode 100644 BUG_REPORTs/debian/README.md
+ create mode 100644 BUG_REPORTs/debian/Screenshot From 2025-02-26 18-42-53.png
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:HackersCardgame/hacker-notes-s25m02.git        
+To github.com:HackersCardGame/hacker-notes-s25m02.git
+   a027a31..4ff6d4d  main -> main
