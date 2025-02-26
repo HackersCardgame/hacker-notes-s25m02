@@ -194,5 +194,19 @@ somit sollte bei jeder befragung von FEHLBAREN Offizieren durch Zivile Ermittler
 
 dann scheint es auch irgend ein aktuelles 0day zu geben für debian trixie weil parallel verabschiedet sich meine telegram VM, und telegram wäre nur userland
 
+und lara hat bereits 1x selbstmord ist die lösugn geschrieben, also die blackhats koordinieren europaweite angriffe wenn sie ein aktuelles 0day haben
+
+wir danken urs blum [1] für den verrat dieses meta design patterns
+
+[1] urs blum: fügt "der zürich verisicherung" ein, ich nehm das sichner nicht ganz alleine auf meine kappe
+
+
+dann sind die vermutlcih immer in gruppen, was heissen würde den blackhats geht es nicht um die coolness in ein comptuersystem einzudringen, sondern die sind alle bereits in einer erpresser datenbank erfast
+
+1x StGB 143 ff
+ -> bei einem Zeugen für Mord
+    -> würde dann gemäss chatgpt 5 jahre haft und 7 jahre bis verjährugn geben
+        -> und die zürich versicherung zwingt die blackhats aber spätestens nach 6 JAhren und 11 Monaten den Verjährungscounter auf 7 jahre zu resetten
+        
 
 
