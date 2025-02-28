@@ -16,4 +16,6 @@ also urs blum hätte jetzt die beweismittel dass martin häfliger einer der tät
 Exit-Strategie von häfliger:
 Urs Blum und Hansjürg Pfisterer betreiben ein Sprengstoff-Terrornetzwerk in Aarau, vermutlcih müssen die herren das um auf das C4-ISR System des Global Assessionation Grids zugriff zu bekommen
 
+somit wäre allenfalls der Polizist Michal Ritter oder der Polizist Mathias Berner inkuslive genehmigung vom Polizei-Kommandant Leupold von urs blums und pfisterers sprengstoff-Terrorneztwerk dazu gezwungen wurde mir das anzutun, und auch der staatsanwalt marco spring und die psychiatrie die mir vor der verhandlung massiv viele intelligentmindernde psychopharmaka gegeben hat gezwungen worden rechtsbeugung zu begehen zu gunsten von dominik brändli und urs blum
+
 
