@@ -65,8 +65,10 @@ Analyse der Übermittlung:
 
 3. wird dann das sprachsample von Martin Häfliger welcher mir immer "Meister" gesagt hat abgespieilt
 -> da dran wird mehreres auch noch dran gehängt
-  "chaos panic desaster my work is done here" 2000 was mir am Computer des Kantons zuge[LOCK]
+  "chaos panic desaster my work is done here" 2000 was mir am Computer des Kantons zuge[LOCK]stellt wurde
+  [DELETED] man hätte mich als einen der begabtesteren Informatiker meiner Jahrgangsklasse der Bezirksschule Aarau ausgewählt, weil wenn man jemanden als Meister darstellen möchte kann man keinen 20 Järhigen aussuchen [dw] der offensichtlich komplett in informatik unbegabt ist
 
 
-fliger meister
+[dw] übermittlung: daniel weber
+ 
 
