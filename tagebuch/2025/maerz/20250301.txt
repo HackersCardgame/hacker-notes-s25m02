@@ -43,4 +43,18 @@ dann posts auf Twitter: die Psychiatrie Königsfelden wäre somit das KZ im Aarg
 
 was dann auch zu dem verschwundenen Zeitungsartikel passen würde, welcher ungefähr gesagt hat dass "Verdingkinder zuerst in der Psychiatrie gelandet sind und dann im knast" (was niemand öffentlcih schreibt oder zensiert wird, dass die Psychiatrie massiv auf den Autisten einwirkt bis er psychotisch ist bzw gemacht wurde, und deswegen suizid oder amok läuft
 
+marc@debian:~/hacker-notes-s25m02$ figlet KZ
+ _  __ _____
+| |/ /|__  /
+| ' /   / / 
+| . \  / /_ 
+|_|\_\/____|
+            
+marc@debian:~/hacker-notes-s25m02$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
 
