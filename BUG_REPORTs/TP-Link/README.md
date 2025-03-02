@@ -22,4 +22,8 @@ jetzt wird G40.2 psychotisch eingeschaltet und ich solle den chatgpt deswegen fr
 
 und irgendwer benutzt induziertes ICD10 G40.2 dass ich das selber dort eintrage, wie früher in google
 
+dann wurde weiter gelöscht, dass diese Oculus Rift Menschen automatisch aufgeboten werden wenn menschen router konfigurieren welche noch nicht mit vault7 infizert sei
+
+dann grillt mich schon wieder jemant mit icd10-g40.2, falls das FEDPOL zeit hat, allenfalls diese person/en grad verwahren, weil egal ob amoklauf von michale boeringer oder hapte avaye mit mutmasslich mobilem c4isr system oder der feuerwehrmann gautschi der mutter mit kind im kleinwagen getötet hat, solche menschen mit solchen cyber-waffen sind eine gefahr für die allgemeinheit und gehören verwahrt
+
 
