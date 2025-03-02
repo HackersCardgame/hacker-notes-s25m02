@@ -12,3 +12,9 @@ dann wird auch über die webseite geleakt, dass es eine Oculus Rift 3D Welt-Kart
 Rechtlich: unbestätigte übermittlung über die community.tp-link.com webseite auf entsprehenden supprot thema
 
 
+PROTOKOLL auf EEG abgefangen und sabpotiert worden, somit ADDENDUM: da wurde noch gelöscht:
+
+beim Router unten steht gross: man darf nicht den WAN1 einfach wieder deaktivieren, weil dann würde man die halbe konfiguration verlieren
+
+
+
