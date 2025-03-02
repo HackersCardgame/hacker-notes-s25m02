@@ -15,3 +15,21 @@ dann die Melanie Blum wurde von Astrid Blum gesteuert sich am FirmenComputer von
 
 
 [1] [hat sie ... um sich geschaart] nicht eine formulierung welche ich marc jr verwenden würde, "um sich scharen"
+
+
+
+marc@debian:~$ figlet KonzeptWissen
+ _  __                         _ __        ___                    
+| |/ /___  _ __  _______ _ __ | |\ \      / (_)___ ___  ___ _ __  
+| ' // _ \| '_ \|_  / _ \ '_ \| __\ \ /\ / /| / __/ __|/ _ \ '_ \ 
+| . \ (_) | | | |/ /  __/ |_) | |_ \ V  V / | \__ \__ \  __/ | | |
+|_|\_\___/|_| |_/___\___| .__/ \__| \_/\_/  |_|___/___/\___|_| |_|
+                        |_|  Komplexitäts management
+
+Die wussten bereits 1995, wenn sie den Raub bei ABB auf mehr als 30 einzelne Puzzleteile / Personen verteilen ist jeder der das puzzle löst zwar hochintelligent, für meschen die das nicht sind wirkt es dann aber wie wild zusammmen gewürftelte zufällige Puzzleteile.  Sprich "Conspiracy Guy"-Meme oder die Szene im Film "A Beautiful Mind" wo er der John forbes nash scheinbar zufällige zeitungsartikel miteinander vernetzt auf einem whiteboard mit faden und magneten oder pinwand stecknadeln
+
+ChatGPT wäre vermutlcih ncith in der lage mit so vielen Datenpunkten gleichzeitig sinnvolle antwoirten zu geben sondern nur kozeptionell und verwaschen
+--> ABER dies zu wissen würde den Entwicklern von ChatGPT helfen das ding besser zu machen und das ist meine idee und für Menschen welche alles rechtschaffend machen und gemeinheiten unterlassen soll diese idee spezifisch auf die Anzahl der "Verabreitungs Register eAX, eBX, eCX .... eQX, eRX" (um eine CPU als Gleichniss zu nehmen) Open Source sein
+
+
+
