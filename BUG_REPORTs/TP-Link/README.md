@@ -17,4 +17,9 @@ PROTOKOLL auf EEG abgefangen und sabotiert worden, somit ADDENDUM: da wurde noch
 beim Router unten steht gross: man darf nicht den WAN1 einfach wieder deaktivieren, weil dann würde man die halbe konfiguration verlieren
 
 
+jetzt wird G40.2 psychotisch eingeschaltet und ich solle den chatgpt deswegen fragen mit url
+--> also der ChatGPT warnt täter wenn sie aufgeflogen sind?
+
+und irgendwer benutzt induziertes ICD10 G40.2 dass ich das selber dort eintrage, wie früher in google
+
 
