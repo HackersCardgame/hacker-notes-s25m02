@@ -173,4 +173,47 @@ urs blum redet seinen kleinen fehlbaren polizisten ein "das mit dem sprengstoff 
 unbekannt:
 urs blum hat alle schläfer aktiviert. viele von urs blum sprengstoff terroristen udn sprengfallen leger haben eine rolle als amtsperson
 
+t
+   ab95864..a949b3f  main -> main
+a949b3fe2bf854a73fbd710b098e770b213c4a5a
+marc@debian:~/hacker-notes-s25m02/tagebuch/2025/maerz$ date
+Mon Mar  3 09:36:00 CET 2025
+marc@debian:~/hacker-notes-s25m02/tagebuch/2025/maerz$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s25m02/tagebuch/2025/maerz$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+
+
+Mon Mar  3 09:36:00 CET 2025
+somit denke ich dass die Frage durchaus BERECHTIGT ist, ob es bereits beim Tod von Cornelia Utz gar nicht um Drogen-Liefer-Routen sondern um den Sprengstoff welcher oft bei Drogen-Lieferungen dabei ist ging?
+
+t
+   ab95864..a949b3f  main -> main
+a949b3fe2bf854a73fbd710b098e770b213c4a5a
+marc@debian:~/hacker-notes-s25m02/tagebuch/2025/maerz$ date
+Mon Mar  3 09:36:00 CET 2025
+marc@debian:~/hacker-notes-s25m02/tagebuch/2025/maerz$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s25m02/tagebuch/2025/maerz$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
 
