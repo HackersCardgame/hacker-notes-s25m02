@@ -195,7 +195,7 @@ marc@debian:~/hacker-notes-s25m02/tagebuch/2025/maerz$ figlet INTERPOL
 
 
 Mon Mar  3 09:36:00 CET 2025
-somit denke ich dass die Frage durchaus BERECHTIGT ist, ob es bereits beim Tod von Cornelia Utz gar nicht um Drogen-Liefer-Routen sondern um den Sprengstoff welcher oft bei Drogen-Lieferungen dabei ist ging?
+somit denke ich dass die Frage durchaus BERECHTIGT ist, ob es bereits beim Tod der 14 Jährigen Cornelia (ca 1994) Utz gar nicht um Drogen-Liefer-Routen sondern um den Sprengstoff welcher oft bei Drogen-Lieferungen dabei ist ging?
 
 t
    ab95864..a949b3f  main -> main
