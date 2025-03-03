@@ -33,3 +33,25 @@ selbst eine gruppe von 100 rumänen hätte keine chance in aarau [3] das c4isr s
 [3] wo es mindestens 100 offiziere und entsprechendes budget und personal hat 
 
 
+                                     
+marc@debian:~/hacker-notes-s25m02/tagebuch/2025/maerz$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+marc@debian:~/hacker-notes-s25m02/tagebuch/2025/maerz$ 
+marc@debian:~/hacker-notes-s25m02/tagebuch/2025/maerz$ figlet HILFE
+ _   _ ___ _     _____ _____ 
+| | | |_ _| |   |  ___| ____|
+| |_| || || |   | |_  |  _|  
+|  _  || || |___|  _| | |___ 
+|_| |_|___|_____|_|   |_____|
+                             
+
+
+eine nachbarin hält das guckloch bei meiner haustüre zu und bedrolht mich nach dem ich in meiner wohnung protkolliert ahbe per audio
+"Vernichtung von Zeugen durch die Kantonspolizei Aargau auftrags der zürcih versichrung mit fälschlicher bezichtrung als ladendieb"
+
+zuvor 
