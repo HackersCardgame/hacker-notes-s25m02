@@ -42,4 +42,14 @@ diese Virtuelle Maschine welche ich nicht updated habe (auch mit debian Trixie) 
 
 dann screenshot problem besteht immer noch, wäre aber nicht in audio, somit wirkt das fast bisschen wie eine vorsätzliche Sabotage
 
+da haben pakete gefehlt,
+
+ein apt-get install gnome gnome-shell ...
+
+installiert die pakete
+
+ gnome-core gnome-remote-desktop pipewire-alsa wireplumber
+
+Deinstalliert gnome-remote-desktop schon wieder
+und rebootet nochmals
 
