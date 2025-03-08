@@ -19,3 +19,11 @@ ausserdem Scans: f14c552a696273792e6dbd37128570cdcd323d40
 create mode 100644 tagebuch/2025/maerz/20250308.txt
 
 Sat Mar  8 01:52:05 CET 2025
+
+ausserdem debian trixie ist immer noch krank... 
+
+ich mache jetzt nohcmals ein dist-upgrade, ausserdem die virtuelle soundkarte in meiner virtuellen maschine hat sich irgendwie auch verabschiedet. dann der CODEC macht ja probleme, wäre dort allenfalls im Audio-Teil (auch im Video Codec)
+
+
+
+
