@@ -37,3 +37,9 @@ bei diesem ding ist dsa parameter vermutlcih so, dass bei jedem erfolgreichen ab
  :/
  
 ausserdem in mein medulla spinalis neuralink saut immer noch jemand mit typos (tippfehler) drein :/
+
+diese Virtuelle Maschine welche ich nicht updated habe (auch mit debian Trixie) geht audio noch
+
+dann screenshot problem besteht immer noch, wäre aber nicht in audio, somit wirkt das fast bisschen wie eine vorsätzliche Sabotage
+
+
