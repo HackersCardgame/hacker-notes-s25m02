@@ -26,4 +26,14 @@ ich mache jetzt nohcmals ein dist-upgrade, ausserdem die virtuelle soundkarte in
 
 
 
+dist-upgrade hilft nicht, audio immer noch weg in qemu
 
+dann dieser fehler scheint einen "weg maximierer algorihtmus / malware drauf zu haben" also das haben vermutlich shcon viele versucht zu reapreriren und jeder gescheriterte fall ergänzt dann die malware
+
+so bisschen wie das neuro evolving robot operatives von der uni texax, aber für malware und viren statt für bot's welche mit genetischen algrithmen bei jedem erfolgreichen überleben neue generationen davon erstellt
+
+bei diesem ding ist dsa parameter vermutlcih so, dass bei jedem erfolgreichen ableben oder rage-quitten davon neue generatonen erstellt werden damit die herren welche diese cyberwaffen missbruachen sich freuen wenn nerds oder kinder halb drauf gehen
+
+ :/
+ 
+ 
