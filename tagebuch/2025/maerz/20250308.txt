@@ -35,7 +35,7 @@ so bisschen wie das neuro evolving robot operatives von der uni texax, aber für
 bei diesem ding ist dsa parameter vermutlcih so, dass bei jedem erfolgreichen ableben oder rage-quitten davon neue generatonen erstellt werden damit die herren welche diese cyberwaffen missbruachen sich freuen wenn nerds oder kinder halb drauf gehen
 
  :/
- 
+ y
 ausserdem in mein medulla spinalis neuralink saut immer noch jemand mit typos (tippfehler) drein :/
 
 diese Virtuelle Maschine welche ich nicht updated habe (auch mit debian Trixie) geht audio noch
@@ -56,3 +56,9 @@ und rebootet nochmals
 ok, audio issue behoben
 
 screenshot problem besteht noch
+
+
+
+
+
+
