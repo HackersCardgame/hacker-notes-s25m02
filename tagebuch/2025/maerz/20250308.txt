@@ -53,3 +53,6 @@ installiert die pakete
 Deinstalliert gnome-remote-desktop schon wieder
 und rebootet nochmals
 
+ok, audio issue behoben
+
+
