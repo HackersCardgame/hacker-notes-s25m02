@@ -65,3 +65,6 @@ dann FALLS die KAPO oder das FEDPOL noch andere Akten zu Telli Bewohnen hatte w�
 dann würde man sich als Frau aus der Telli-Unterschicht einem Offizier aus der Oberschicht Gönhard/Zelgli vergewaltigen lassen, dann hätte man allenfalls ruhe vor dem terror oder sogar schutz, aber vermtlcih nur so lange bis man berechtigte kritik an dem offizier üben würde
 
 ein weiterer Faktor für den Wunsch den StGB 190 zu ändern ???
+create mode 100644 psychological/bourdieuHabitusAusbreitung/*
+
+
