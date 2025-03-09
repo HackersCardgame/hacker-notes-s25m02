@@ -10,3 +10,13 @@ loop
 { 
   sprgenfallendorhugn durch urs blum
 }
+
+also urs blum und astrid blum haben einen zeitzünder welcher aktiveirt wird sobald marc jr landolt rechnungen bezahlen möchte
+
+dann vermeidungsverhalten
+
+rechnugnen nicht bezahlt
+
+dann behauptet die zürich vershcurng: "marc jr landolt ist ein zechpreller und somit sind die aussagen von marc jr lanodlt welche urs blum, gabriel riela und philipp lüchemit 3 morden bei abb nichtig
+
+
