@@ -112,5 +112,5 @@ es wirkt wie wenn die UBS App genau ab dem ersten fehler die offline sonny kamer
 
 mit einem anderen Programm sieht man dass das video 2 minuten lang ist, aber audio fehlt und sonst auch das bild
 
-
+also die UBS app hat den auftrag zu morden, und auch eine funktion wirst case wohnungsweit alle Geräte welhce das beweisen könnten mit eine Aufzeichung zu deaktivieren. aslo so etwas wie militärischer abschirmdiesnt für Gerät welche grad versuchen einen zeugen zu ermorden
 
