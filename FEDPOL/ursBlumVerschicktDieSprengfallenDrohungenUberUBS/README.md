@@ -58,4 +58,6 @@ nö, panik wegen dem geld habe ich nicht, das haben die erst eingeschaltet als i
 
 also herr urs blum wäre kein so richtiger informatiker, urs blum wäre offizier und auftragskiller mit dem auftrag alle zeugen abzuschlachten, somit wäre jetzt endlcih klar weshalb urs blum kein wort verstanden hat als ich als 20 jähriger ca 2001 angefangen habe von assembler und debugger zu reden
 
+also somit wäre viele informatik-abteilungen in konzernen von der schweizer Armee zur Basis für Auftragskiller umfunktioneirt worden und diese vermutlcih bereits vor 1999
+
 
