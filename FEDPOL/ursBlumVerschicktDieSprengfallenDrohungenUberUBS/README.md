@@ -102,3 +102,5 @@ Das video war 2 minuten lang, wurde von jemandem sabotiert
 
 der beweis teil wo man sieht was die ebanking app so treibt wurde gelöscht, jetzt auch auf der sd karte, das begünstigt primär täter welche bei der UBS arbeiten
 
+also die haben ein schnelles team für video sabotage, der herr gabriel riela (welcher auch bei der zürich versichzfrubng gearbeitet hat) hatte ca 1999 schon irgend ein video-bearbeitungs team
+
