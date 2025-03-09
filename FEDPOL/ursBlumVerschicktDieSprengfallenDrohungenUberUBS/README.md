@@ -19,4 +19,12 @@ rechnugnen nicht bezahlt
 
 dann behauptet die zürich vershcurng: "marc jr landolt ist ein zechpreller und somit sind die aussagen von marc jr lanodlt welche urs blum, gabriel riela und philipp lüchemit 3 morden bei abb nichtig
 
+also statischer sprengfallenzünder über die UBS ebanking app, 1x im monat um den zeugen marc jr landolt zu vernichten dass urs blum mit seinen 3 morden davon kommt
+
+FRAGEN:
+weshalb sprengt urs blum zeugen beim rechnungen zahlen in die luft
+wie geht das technisch
+inwiefern ist UBS ein militärbetrieb welhcer zeugen für wirtshcaftskriminelle ermordet
+
+
 
