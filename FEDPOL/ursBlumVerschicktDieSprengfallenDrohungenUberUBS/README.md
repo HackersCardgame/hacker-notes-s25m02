@@ -108,5 +108,9 @@ sabotage software allenfalls im codec, auf der sd-karte wie eye-fi aber nicht wi
 
 ABER das hiesse, FALLS das FEDPOL da jeweils zeit hat kann man da allenfalls ganz viele Täter, Wirtschaftskriminelle und Mörder erwischen, apropos IMSI-Catcher auf 2 Beinen aber nicht für imsis sondern für doofe cyber-waffen
 
+es wirkt wie wenn die UBS App genau ab dem ersten fehler die offline sonny kamera oder die SD-Karte sabotiert
+
+mit einem anderen Programm sieht man dass das video 2 minuten lang ist, aber audio fehlt und sonst auch das bild
+
 
 
