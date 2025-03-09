@@ -11,3 +11,6 @@ jetzt kann man den verdammten countdown stellen bis die Wirtschaftskriminellen d
 
 find /etc/cron* -type f -exec cat '{}' \; >>20_00.txt
 BUG_REPORTs/20_00.txt
+
+Linux debian 6.12.12-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.12-1 (2025-02-02) x86_64 GNU/Linux
+
