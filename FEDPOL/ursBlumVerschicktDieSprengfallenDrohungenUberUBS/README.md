@@ -26,5 +26,12 @@ weshalb sprengt urs blum zeugen beim rechnungen zahlen in die luft
 wie geht das technisch
 inwiefern ist UBS ein militärbetrieb welhcer zeugen für wirtshcaftskriminelle ermordet
 
+marc jr landolt hat das handy meist ausgeschaltet, urs blum braucht einen korrditantions plan um zeugen zu ermorden
 
+schnitmenge aller zeughen welche von urs blum und der zürich veriscurngun ermordet werden sollen wäre der rechnugnslauf / ebanking
+
+somit muss davon ausgegangen werden dass
+
+A) die Zürich verischerung alle ebanking in der schweiz gehackth hat
+B) dass es militlärische zugägne des C4-ISR Systems auf alle BAnkensysteme der schweiz gibgt
 
