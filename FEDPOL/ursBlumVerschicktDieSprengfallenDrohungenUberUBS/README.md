@@ -79,7 +79,13 @@ das ganze ist ein weiteres indiz dafür, nicht nur dass urs blum die 3 ABB Admin
 für alle jüngeren nerds, wenn ihr in der informatik meneschen begegnet welche sich gar nicht für nerd-kram interessieren seid vorsichtig, weil allenfalls wärt ihr als sündenböcke vorgesehen worden von denen
 
 
+17:30: in 2 h kannst du wieder sagte die webseite: vorbereitung des auftragskiller-teams de ubs und von urs blum der zürich verischerung auf diesen zeitpunkt
+
+da wurde jetzt von der UBS webseite eine sprengfalle an diese ungebraucht Virtuelle Maschine ausgerollt, ich habe absichtlich geschuat, dass ich nur die ubs webseite öffne und sonst gar nichts und auch keine andere internetverbindung
 
 
+ubs hat eine funktion den ubs taschenrechner bei der eingabe fder 5. ziffer z uresetten, und belndet auf neuralink ein, dass ich seldber auf die X taste gekommen sei, was ich aber 100% ixhcer nciht bin beim 2. mal
 
+ubs ist somit überführ dass sie auftragsmorde im kontext finanzen für die zürich verisvhuenrg verübt
 
+fall mollath, mollath wäre somit nihct nur ein zeuge für raube, sondern auch für genozid
