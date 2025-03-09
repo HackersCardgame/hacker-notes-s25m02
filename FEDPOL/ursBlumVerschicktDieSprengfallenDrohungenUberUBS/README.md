@@ -60,4 +60,26 @@ also herr urs blum wäre kein so richtiger informatiker, urs blum wäre offizier
 
 also somit wäre viele informatik-abteilungen in konzernen von der schweizer Armee zur Basis für Auftragskiller umfunktioneirt worden und diese vermutlcih bereits vor 1999
 
+unbekannt: Urs Blum hat den wichtigsten NDA auf Todesstrafe verletzt ...
+
+
+
+also zusammenfassend
+
+Herr Urs Blum ist KEIN INFORMATIKER, Herr Urs Blum ist Auftragskiller der Schweizer Armee getarnt mit einem Informatik-Job.
+
+Somit war ich als 20 jähriger naiver Nerd ganz verkehrt an das Puzzle gegangen, ich hab den Fehler immer bei mir gesucht, immer verucht mich zu verbessern udn meine Fehler zu korrigieren.
+
+Somit auch das mit der Einladung, dem Paaren mit Claudine Blum, der Orangen Giesskanne und die Metabotschaft ich hätte die ABB ausgenommen wäre vorstätzlich von Blums gepalnt gewesen einen Sündenbock zu programmieren der sich einreden liess dass er schuld sei.
+
+der Testlauf war das mit dem Sturm Lothar wo david utz und markus belser mir erfolgreihc eingeredet haben weil ich XTC konsumiert hätte hätte ich den sturm ausgelöst und menshen seien deswegne gestorben. Dabei hatten herren utz und belser einfahc geschaut wann das nächste grössere Wettereriengis ist und mir dann drogen verpasst
+
+das ganze ist ein weiteres indiz dafür, nicht nur dass urs blum die 3 ABB Adminstratoren ermordet hat, sondern auch dass es ein vorsätlzlich geplanter kaltblütiger mord zwecks vorbereitung von wirtshcaftsspionage in den abb netzwerken durch urs Blum, Gabriel Riela und vermutlich weitere (ex)mitarberiter der Zürich verischrung war
+
+für alle jüngeren nerds, wenn ihr in der informatik meneschen begegnet welche sich gar nicht für nerd-kram interessieren seid vorsichtig, weil allenfalls wärt ihr als sündenböcke vorgesehen worden von denen
+
+
+
+
+
 
