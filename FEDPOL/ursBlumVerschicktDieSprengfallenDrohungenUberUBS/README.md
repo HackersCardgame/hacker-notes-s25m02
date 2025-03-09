@@ -104,3 +104,9 @@ der beweis teil wo man sieht was die ebanking app so treibt wurde gelöscht, jet
 
 also die haben ein schnelles team für video sabotage, der herr gabriel riela (welcher auch bei der zürich versichzfrubng gearbeitet hat) hatte ca 1999 schon irgend ein video-bearbeitungs team
 
+sabotage software allenfalls im codec, auf der sd-karte wie eye-fi aber nicht wifi ferquenzen, die täter sind psychotisch und schiesse alle blackhats welche sie haben jeweils beim rechnugnslauf auf mich
+
+ABER das hiesse, FALLS das FEDPOL da jeweils zeit hat kann man da allenfalls ganz viele Täter, Wirtschaftskriminelle und Mörder erwischen, apropos IMSI-Catcher auf 2 Beinen aber nicht für imsis sondern für doofe cyber-waffen
+
+
+
