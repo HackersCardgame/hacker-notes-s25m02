@@ -100,4 +100,5 @@ die pdf's der ubs scheinen oft probleme zu machen, weizters indiz dass die schwe
 
 Das video war 2 minuten lang, wurde von jemandem sabotiert
 
+der beweis teil wo man sieht was die ebanking app so treibt wurde gelöscht, jetzt auch auf der sd karte, das begünstigt primär täter welche bei der UBS arbeiten
 
