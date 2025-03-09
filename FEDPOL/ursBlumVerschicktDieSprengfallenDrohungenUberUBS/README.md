@@ -97,3 +97,7 @@ somit muss es einer der ubs sein der einen code mit taste 7 erzwingt
 ausdruck geht ncith
 
 die pdf's der ubs scheinen oft probleme zu machen, weizters indiz dass die schweizer armee auch dort auftragskiller hat, getarnt mit einem informatiker titel 
+
+Das video war 2 minuten lang, wurde von jemandem sabotiert
+
+
