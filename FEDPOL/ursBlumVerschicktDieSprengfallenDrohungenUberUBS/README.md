@@ -35,3 +35,11 @@ somit muss davon ausgegangen werden dass
 A) die Zürich verischerung alle ebanking in der schweiz gehackth hat
 B) dass es militlärische zugägne des C4-ISR Systems auf alle BAnkensysteme der schweiz gibgt
 
+
+also ein schlechter informatiker würde rausgeschmissen werden AUSSER er verübt als nebengeschäft auftragsmorde zB für die Zürich Versichrung damit die Zürich Versichrung Morder aus der reichen oberschicht vor legitimer strafverfolgung schützen kann weil alle zeugen tod sind
+
+Sun Mar  9 14:41:36 CET 2025
+dann will jemadn das herunterhandeln auf "die ubs ebanking app wurde gehackt" was aber eine schutzbehauptung wäre welche offensichtlich von ubs selber kommt
+
+
+
