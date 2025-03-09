@@ -54,4 +54,8 @@ Meine Meinung / EMPFEHLUNG an das FEDPOL, den herrn urs blum solange verwahren b
 da ich aber infomratik und nicht rechtswissenschaftsstudent bin müssen das dann irgenwie andere Menschen entscheiden
 
 
+nö, panik wegen dem geld habe ich nicht, das haben die erst eingeschaltet als ich das schon kontrolliert und den kontostand aufgechrieben habe, ist irgendwo auf den scans der handnotizen drauf
+
+also herr urs blum wäre kein so richtiger informatiker, urs blum wäre offizier und auftragskiller mit dem auftrag alle zeugen abzuschlachten, somit wäre jetzt endlcih klar weshalb urs blum kein wort verstanden hat als ich als 20 jähriger ca 2001 angefangen habe von assembler und debugger zu reden
+
 
