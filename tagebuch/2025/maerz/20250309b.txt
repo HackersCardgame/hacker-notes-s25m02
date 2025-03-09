@@ -7,3 +7,7 @@ jetzt kann man den verdammten countdown stellen bis die Wirtschaftskriminellen d
 
 
 19:34 BEVOR sich mein Computer jetzt dann VERMUTLICH grad wieder verabschiedet, der Zeitzünder ist kein Timeout, sondern jeweils ca. um 20:00 wo irgend etwas den computer freezen tun tut
+
+
+find /etc/cron* -type f -exec cat '{}' \; >>20_00.txt
+BUG_REPORTs/20_00.txt
