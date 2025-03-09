@@ -41,5 +41,17 @@ also ein schlechter informatiker würde rausgeschmissen werden AUSSER er verübt
 Sun Mar  9 14:41:36 CET 2025
 dann will jemadn das herunterhandeln auf "die ubs ebanking app wurde gehackt" was aber eine schutzbehauptung wäre welche offensichtlich von ubs selber kommt
 
+somit wäre die banken kriese, cum ex, die vergealtigung des bankers david utz an der lehrtochter sabrina lüthi auch ein afutragsmord gewesen
+
+ich muss da ech selber mal diesen brainwash loswerden dass ich nach all diesen vorkommnissen welche mit banken zu tun haben in den letzten 10 oder eher 20 jahren nicht mehr FNORD glaube dass banken lieb sind
+
+zusammenfassend, die meisten grösseren konzerne in der schweiz bzw deren informatik abteilung hat es offiziere welchen hauptamtlich zeugen ermorden
+
+POSITIVIES: Herr Urs Blum hat mit hoher wahrscheiniklciheket viele der namen dieser Täter oder mindestens die Kontaktnummer / sinle point of contact für auftragsmorde
+
+Meine Meinung / EMPFEHLUNG an das FEDPOL, den herrn urs blum solange verwahren bis er alle diese Auftragsmörder verraten hat
+
+da ich aber infomratik und nicht rechtswissenschaftsstudent bin müssen das dann irgenwie andere Menschen entscheiden
+
 
 
