@@ -14,3 +14,5 @@ BUG_REPORTs/20_00.txt
 
 Linux debian 6.12.12-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.12-1 (2025-02-02) x86_64 GNU/Linux
 
+und ja ja ja man könnte das schöner repporten, ABER zuerst muss ich die Ordnung welche in meiner Wohnung wieder mal in die luft gesprengt wurde wieder reparieren, sonst hab ich einne haushaltunfall und nicke mir das gebrech, ähm breche mir das genick
+
