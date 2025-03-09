@@ -114,3 +114,7 @@ mit einem anderen Programm sieht man dass das video 2 minuten lang ist, aber aud
 
 also die UBS app hat den auftrag zu morden, und auch eine funktion wirst case wohnungsweit alle Geräte welhce das beweisen könnten mit eine Aufzeichung zu deaktivieren. aslo so etwas wie militärischer abschirmdiesnt für Gerät welche grad versuchen einen zeugen zu ermorden
 
+dann ohne beweismittel oder mindestens forensischen indizien bin ich ja wieder nur ein schizophrener spinner, also:
+FEDPOL/ursBlumVerschicktDieSprengfallenDrohungenUberUBS/Beweismittel.png
+
+
