@@ -1,0 +1,387 @@
+# /etc/cron.d/anacron: crontab entries for the anacron package
+
+SHELL=/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
+
+30 7-23 * * *   root	[ -x /etc/init.d/anacron ] && if [ ! -d /run/systemd/system ]; then /usr/sbin/invoke-rc.d anacron start >/dev/null; fi
+# DO NOT EDIT OR REMOVE
+# This file is a simple placeholder to keep dpkg from removing this directory
+30 3 * * 0 root test -e /run/systemd/system || SERVICE_MODE=1 /usr/libexec/e2fsprogs/e2scrub_all_cron
+10 3 * * * root test -e /run/systemd/system || SERVICE_MODE=1 /sbin/e2scrub_all -A -r
+#! /bin/sh
+
+set -e
+
+UPDATEDB=/usr/sbin/updatedb.plocate
+
+# Skip if systemd timer is available.
+if [ -d /run/systemd/system ]; then
+    exit 0
+fi
+
+[ -x $UPDATEDB ] || exit 0
+
+if which on_ac_power >/dev/null 2>&1; then
+    ON_BATTERY=0
+    on_ac_power >/dev/null 2>&1 || ON_BATTERY=$?
+    if [ "$ON_BATTERY" -eq 1 ]; then
+        exit 0
+    fi
+fi
+
+# See ionice(1).
+IONICE=
+if [ -x /usr/bin/ionice ] &&
+    /usr/bin/ionice -c3 true 2>/dev/null; then
+    IONICE="/usr/bin/ionice -c3"
+fi
+
+# See nocache(1).
+NOCACHE=
+if [ -x /usr/bin/nocache ]; then
+    NOCACHE="/usr/bin/nocache"
+fi
+
+flock --nonblock /run/plocate.daily.lock $NOCACHE $IONICE nice $UPDATEDB
+#!/bin/sh
+#
+# anacron's cron script
+#
+# This script updates anacron time stamps. It is called through run-parts
+# either by anacron itself or by cron.
+#
+# The script is called "0anacron" to assure that it will be executed
+# _before_ all other scripts.
+
+test -x /usr/sbin/anacron || exit 0
+anacron -u cron.daily
+#!/bin/sh
+#
+# man-db cron daily
+
+set -e
+
+if [ -d /run/systemd/system ]; then
+    # Skip in favour of systemd timer.
+    exit 0
+fi
+
+# This should be set by cron, but apparently isn't always; see
+# https://bugs.debian.org/209185.  Add fallbacks so that start-stop-daemon
+# can be found.
+export PATH="$PATH:/usr/local/sbin:/usr/sbin:/sbin"
+
+iosched_idle=
+# Don't try to change I/O priority in a vserver or OpenVZ.
+if ! grep -Eq '(envID|VxID):.*[1-9]' /proc/self/status && \
+   { [ ! -d /proc/vz ] || [ -d /proc/bc ]; }; then
+    iosched_idle='--iosched idle'
+fi
+
+if ! [ -d /var/cache/man ]; then
+    # Recover from deletion, per FHS.
+    install -d -o man -g man -m 0755 /var/cache/man
+fi
+
+# expunge old catman pages which have not been read in a week
+if [ -d /var/cache/man ]; then
+  cd /
+  # shellcheck disable=SC2086
+  start-stop-daemon --start --pidfile /dev/null --startas /bin/sh \
+	--oknodo --chuid man $iosched_idle -- -c \
+	"find /var/cache/man -type f -name '*.gz' -atime +6 -print0 | \
+	 xargs -r0 rm -f"
+fi
+
+# regenerate man database
+if [ -x /usr/bin/mandb ]; then
+    # --pidfile /dev/null so it always starts; mandb isn't really a daemon,
+    # but we want to start it like one.
+    # shellcheck disable=SC2086
+    start-stop-daemon --start --pidfile /dev/null \
+		      --startas /usr/bin/mandb --oknodo --chuid man \
+		      $iosched_idle \
+		      -- --no-purge --quiet
+fi
+
+exit 0
+# DO NOT EDIT OR REMOVE
+# This file is a simple placeholder to keep dpkg from removing this directory
+#! /bin/sh
+
+set -e
+
+# cron script to update the `locatedb' database.
+#
+# Written by Ian A. Murdock <imurdock@debian.org> and 
+#            Kevin Dalley <kevin@aimnet.com>
+
+# Please consult updatedb(1) and /usr/share/doc/locate/README.Debian
+
+[ -e /usr/bin/updatedb.findutils ] || exit 0
+
+# skip in favour of systemd timer if called from cron.daily
+if [ -d /run/systemd/system ] && [ "$1" != "systemd-timer" ]; then
+	exit 0
+fi
+
+if [ "$(id -u)" != "0" ]; then
+	echo "You must be root."
+	exit 1
+fi
+ 
+# Global options for invocations of find(1)
+FINDOPTIONS='-ignore_readdir_race'
+# filesystems which are pruned from updatedb database
+PRUNEFS="NFS nfs nfs4 afs binfmt_misc proc smbfs autofs iso9660 ncpfs coda devpts ftpfs devfs mfs shfs sysfs cifs lustre_lite tmpfs usbfs udf ocfs2"
+# paths which are pruned from updatedb database
+PRUNEPATHS="/tmp /usr/tmp /var/tmp /afs /amd /alex /var/spool /sfs /media /var/lib/schroot/mount"
+# netpaths which are added
+NETPATHS=""
+# run find as this user
+LOCALUSER="nobody"
+# cron.daily/find: run at this priority -- higher number means lower priority
+# (this is relative to the default which cron sets, which is usually +5)
+NICE=10
+
+# I/O priority
+# 1 for real time, 2 for best-effort, 3 for idle ("3" only allowed for root)
+IONICE_CLASS=3
+# 0-7 (only valid for IONICE_CLASS 1 and 2), 0=highest, 7=lowest 
+IONICE_PRIORITY=7
+
+# allow keeping local customizations in a separate file
+if [ -r /etc/updatedb.findutils.cron.local ] ; then
+	. /etc/updatedb.findutils.cron.local
+fi
+export FINDOPTIONS PRUNEFS PRUNEPATHS NETPATHS LOCALUSER
+
+# Set the task to run with desired I/O priority if possible
+# Linux supports io scheduling priorities and classes since
+# 2.6.13 with the CFQ io scheduler
+# Skip if running from systemd-timer, there are native settings there.
+if [ -x /usr/bin/ionice ] && [ "${UPDATDB_NO_IONICE}" = "" ] && \
+	[ "$1" != "systemd-timer" ]; then
+	# don't run ionice if kernel version < 2.6.13
+	KVER=$(uname -r)
+	case "$KVER" in
+		2.[012345]*) ;;
+		2.6.[0-9]) ;;
+		2.6.[0-9].*) ;;
+		2.6.1[012]*) ;;
+		*)
+		# Avoid providing "-n" when IONICE_CLASS isn't 1 or 2
+		case "$IONICE_CLASS" in
+			1|2) priority="-n ${IONICE_PRIORITY:-7}" ;;
+			*) priority="" ;;
+		esac
+		ionice -c $IONICE_CLASS $priority -p $$ > /dev/null 2>&1 || true
+		;;
+	esac
+fi
+
+if getent passwd $LOCALUSER > /dev/null ; then
+  cd / && nice -n ${NICE:-10} updatedb.findutils 2>/dev/null
+else
+  echo "User $LOCALUSER does not exist."
+  exit 1
+fi
+#!/bin/sh
+
+# Skip if systemd is running.
+if [ -d /run/systemd/system ]; then
+  exit 0
+fi
+
+/usr/libexec/dpkg/dpkg-db-backup
+#!/bin/sh
+
+# skip in favour of systemd timer
+if [ -d /run/systemd/system ]; then
+    exit 0
+fi
+
+# this cronjob persists removals (but not purges)
+if [ ! -x /usr/sbin/logrotate ]; then
+    exit 0
+fi
+
+/usr/sbin/logrotate /etc/logrotate.conf
+EXITVALUE=$?
+if [ $EXITVALUE != 0 ]; then
+    /usr/bin/logger -t logrotate "ALERT exited abnormally with [$EXITVALUE]"
+fi
+exit $EXITVALUE
+#!/bin/sh
+
+set -e
+
+# Systemd systems use a systemd timer unit which is preferable to
+# run. We want to randomize the apt update and unattended-upgrade
+# runs as much as possible to avoid hitting the mirrors all at the
+# same time. The systemd time is better at this than the fixed
+# cron.daily time
+if [ -d /run/systemd/system ]; then
+    exit 0
+fi
+
+check_power()
+{
+    # laptop check, on_ac_power returns:
+    #       0 (true)    System is on main power
+    #       1 (false)   System is not on main power
+    #       255 (false) Power status could not be determined
+    # Desktop systems always return 255 it seems
+    if command -v on_ac_power >/dev/null; then
+        if on_ac_power; then
+            :
+        elif [ $? -eq 1 ]; then
+            return 1
+        fi
+    fi
+    return 0
+}
+
+# sleep for a random interval of time (default 30min)
+# (some code taken from cron-apt, thanks)
+random_sleep()
+{
+    RandomSleep=1800
+    eval $(apt-config shell RandomSleep APT::Periodic::RandomSleep)
+    if [ $RandomSleep -eq 0 ]; then
+	return
+    fi
+    if [ -z "$RANDOM" ] ; then
+        # A fix for shells that do not have this bash feature.
+	RANDOM=$(( $(dd if=/dev/urandom bs=2 count=1 2> /dev/null | cksum | cut -d' ' -f1) % 32767 ))
+    fi
+    TIME=$(($RANDOM % $RandomSleep))
+    sleep $TIME
+}
+
+# delay the job execution by a random amount of time
+random_sleep
+
+# ensure we don't do this on battery
+check_power || exit 0
+
+# run daily job
+exec /usr/lib/apt/apt.systemd.daily
+# DO NOT EDIT OR REMOVE
+# This file is a simple placeholder to keep dpkg from removing this directory
+#!/bin/sh
+#
+# anacron's cron script
+#
+# This script updates anacron time stamps. It is called through run-parts
+# either by anacron itself or by cron.
+#
+# The script is called "0anacron" to assure that it will be executed
+# _before_ all other scripts.
+
+test -x /usr/sbin/anacron || exit 0
+anacron -u cron.monthly
+# DO NOT EDIT OR REMOVE
+# This file is a simple placeholder to keep dpkg from removing this directory
+#!/bin/sh
+
+[ ! -d /run/systemd/system -a -x /usr/bin/wtmpdb ] || exit 0
+
+exec /usr/bin/wtmpdb rotate
+#!/bin/sh
+#
+# anacron's cron script
+#
+# This script updates anacron time stamps. It is called through run-parts
+# either by anacron itself or by cron.
+#
+# The script is called "0anacron" to assure that it will be executed
+# _before_ all other scripts.
+
+test -x /usr/sbin/anacron || exit 0
+anacron -u cron.weekly
+#!/bin/sh
+#
+# man-db cron weekly
+
+set -e
+
+if [ -d /run/systemd/system ]; then
+    # Skip in favour of systemd timer.
+    exit 0
+fi
+
+# This should be set by cron, but apparently isn't always; see
+# https://bugs.debian.org/209185.  Add fallbacks so that start-stop-daemon
+# can be found.
+export PATH="$PATH:/usr/local/sbin:/usr/sbin:/sbin"
+
+iosched_idle=
+# Don't try to change I/O priority in a vserver or OpenVZ.
+if ! grep -Eq '(envID|VxID):.*[1-9]' /proc/self/status && \
+   { [ ! -d /proc/vz ] || [ -d /proc/bc ]; }; then
+    iosched_idle='--iosched idle'
+fi
+
+if ! [ -d /var/cache/man ]; then
+    # Recover from deletion, per FHS.
+    install -d -o man -g man -m 0755 /var/cache/man
+fi
+
+# regenerate man database
+if [ -x /usr/bin/mandb ]; then
+    # --pidfile /dev/null so it always starts; mandb isn't really a daemon,
+    # but we want to start it like one.
+    # shellcheck disable=SC2086
+    start-stop-daemon --start --pidfile /dev/null \
+		      --startas /usr/bin/mandb --oknodo --chuid man \
+		      $iosched_idle \
+		      -- --quiet
+fi
+
+exit 0
+# DO NOT EDIT OR REMOVE
+# This file is a simple placeholder to keep dpkg from removing this directory
+#!/bin/sh
+
+# Disabled by default
+exit 0
+
+/usr/sbin/virt-sanlock-cleanup -q
+exit 0
+#!/bin/sh
+#
+# anacron's cron script
+#
+# This script updates anacron time stamps. It is called through run-parts
+# either by anacron itself or by cron.
+#
+# The script is called "0anacron" to assure that it will be executed
+# _before_ all other scripts.
+
+test -x /usr/sbin/anacron || exit 0
+anacron -u cron.yearly
+# DO NOT EDIT OR REMOVE
+# This file is a simple placeholder to keep dpkg from removing this directory
+# /etc/crontab: system-wide crontab
+# Unlike any other crontab you don't have to run the `crontab'
+# command to install the new version when you edit this file
+# and files in /etc/cron.d. These files also have username fields,
+# that none of the other crontabs do.
+
+SHELL=/bin/sh
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+
+# Example of job definition:
+# .---------------- minute (0 - 59)
+# |  .------------- hour (0 - 23)
+# |  |  .---------- day of month (1 - 31)
+# |  |  |  .------- month (1 - 12) OR jan,feb,mar,apr ...
+# |  |  |  |  .---- day of week (0 - 6) (Sunday=0 or 7) OR sun,mon,tue,wed,thu,fri,sat
+# |  |  |  |  |
+# *  *  *  *  * user-name command to be executed
+17 *	* * *	root	cd / && run-parts --report /etc/cron.hourly
+25 6	* * *	root	test -x /usr/sbin/anacron || { cd / && run-parts --report /etc/cron.daily; }
+47 6	* * 7	root	test -x /usr/sbin/anacron || { cd / && run-parts --report /etc/cron.weekly; }
+52 6	1 * *	root	test -x /usr/sbin/anacron || { cd / && run-parts --report /etc/cron.monthly; }
+#
