@@ -89,3 +89,11 @@ ubs hat eine funktion den ubs taschenrechner bei der eingabe fder 5. ziffer z ur
 ubs ist somit überführ dass sie auftragsmorde im kontext finanzen für die zürich verisvhuenrg verübt
 
 fall mollath, mollath wäre somit nihct nur ein zeuge für raube, sondern auch für genozid
+
+
+reset taste X mit der taste 7 verbunden auf dem taschenrechner der ubs
+somit muss es einer der ubs sein der einen code mit taste 7 erzwingt
+
+ausdruck geht ncith
+
+die pdf's der ubs scheinen oft probleme zu machen, weizters indiz dass die schweizer armee auch dort auftragskiller hat, getarnt mit einem informatiker titel 
