@@ -9,10 +9,4 @@ Wie bereits erwähnt sind für mich Menschen mit Autismus / Altruismus wie Julia
 
 Dann habe ich auch "Anne Franks Tagebuch" gelesen, somit ist es gerecht, wenn ich meine Tagebücher gegenüber jüngeren Menschen offenlege, ich habe aber nie das Tagebuch von Jüngeren gelesen. Mir ist klar dass sich so etwas nicht einklagen lässt weil grosse Teile der Aargauer Justiz pädokriminell sind und so in einem Schneeball-System von irgendwelchen militärnahen Organisationen gelandet sind. Diese sollten lernen die Privatsphäre von Jüngeren zu respektieren, vorallem diese welche Suizid induzieren können.
 
- starke induzierte epilepsie und loop 
  
- loop
- 
- { stichwaffe offen$
-   sprengfallendrohung durch urs blum
-   
