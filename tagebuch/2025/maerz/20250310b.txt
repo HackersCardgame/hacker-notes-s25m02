@@ -196,4 +196,6 @@ Algorithmen welche kinder als schutzschild vor offiziere stellt unschädlich mac
 
 
 
-somit gehe ich davon aus
+allenfalls wurde bei den dateien "nur" der header geschrottet ...
+
+... analyse in progrtess
