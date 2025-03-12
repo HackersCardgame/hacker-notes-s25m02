@@ -70,4 +70,7 @@ urs blum aktiviert Sprengfallendrohungen sind immer dann wenn man den fehler bew
 
 [2] der medizinischen fakultät der uni basel
 
- 
+
+Echt mühsam, die ernetute sprengfallen drohung hat jetzt verhindert, dass ich mal spekultaiv protokolliere, dass diese dinge extern gesteuert werden mit etwas wie einem c4isr system, also das müsste ja meine Positions-Daten kennen um zu wissen wann ich da etwas an den kabeln geändert habe. ausserdem hat es eine leuchtdiode, welche anzeigen sollte das der splitter funktioniert, aber die ist auch rigendwie manchmal eingeschaltet udn manchmal nicht
+
+sprengfallendrohungen sind urs blums trumpf um blackhat dinge zu verschleiern
