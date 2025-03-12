@@ -57,3 +57,7 @@ bzw. immer noch an der fehlersuche, allenfalls eine statemachine, habe noch nich
 für die jüngeren, bei fehlersuche änder ich immer möglischst wenig parameter auf ein mal, dann stelle ich das parameter zurück um so zu sagen die ganze "game"-map aufzudecken, bzw. die Statemachine der malkware oder der sabotage heraus zu finden
 
 2ecee7ab4398d8ad9d6f596b8f7d7f4eb14faf50
+
+dann hab ich jetzt nochmals den computer vom strom genommen mit dem netzteil für den Displaylink splitter, dann funktioniert das wieder nicht. also da wäre eine statemachine in der firmware der display link splitters welche verhindert dass das beim ersten boot funktionert
+
+
