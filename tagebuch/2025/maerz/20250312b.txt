@@ -35,6 +35,13 @@ Danm FRAGE am das FEDPOL / Bundesamt für Informatik / BSI ...
 
 21:53
 
-dann wird die mögliche Sabotage mit Funk-Kanälen der Hardware von galaxus jetzt scheinbar von einer zweiten stufe von sabotage allenfalls im Betribssystem verschleiert
+dann wird die mögliche Sabotage mit Funk-Kanälen der Hardware von galaxus jetzt scheinbar von einer zweiten stufe von sabotage allenfalls im Betribssystem verschleiert weil beim boot scheint es zu funktionieren
 
+die herren 
 
+* Urs Blum
+* Astrid Blum 
+* Ruedi Müller
+* David Utz 
+
+sprengen informatik dinge (mehrstufig, scheinbar auch mit hardware backdoors direkt vom hersteller?) um von fragestellungen zur Suizid-Trigger-Datenbank der Schweizer armee abzulenken und marc jr landolt mit computer-reparatur arbeiten zu spammen?
