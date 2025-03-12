@@ -87,28 +87,41 @@ dann für die kleinen wäre technisch relevant
 Fehler welche sich auf verschieden komponenten verteilen sind mühsam zu finden
 
  Mühsamkeits-Severity 1:
+ =======================
   hat man einen fehler dann findet man den als begabter nerd einigermassen schnell
  
  Mühsamkeits-Severity 2:
+ =======================
   sind es zwei fehler gelichzeitig geht das auch noch, also z.B. Firewall falsch und etwas mit dem webserver dienst falsch
  
  Mühsamkeits-Severity 3:
+ =======================
   sind es intermitierende fehler, also fehler welche sich gegenseitig beeinflussen wird es nochmlas mühsamer
 
  Mühsamkeits-Severity 4:
+ =======================
   ist das absichtlich von blackhats so produziert worden dass die fehlersuche maximiert wird ist es nochmals müshmer
      ... da wäre es einfach ein hürdenlauf wo man meiner SUBJEKTIVEN Meinung nach am schnellsten ist wenn man einzelne teil-komponenten prüft, dann wieder zurück stellt um den fehler einzukreisen, oder die fehler (plural)
 
  Mühsamkeits-Severity 5:
+ =======================
   wird zeitgleich noch ICD10 G40.2 oder induzierter Muskel-Tremor aktiviert wird es nochmals mühsam, Muskeltremor, also induziertes Zittern was man z.B. auch Gift bzw Psychopharamka wie Clopixol oder Haldol kennt suggeriert dass man angst hat, angst und zittern verbinden die meisten menschen miteinander
  
  Mühsamkeits-Severity 6:
+ =======================
   alles wie bis 5 aber noch Suizid-Trigger bei mir immer im Kontext zur Paarung und anschliessender Trennung zu Claudine Blum ist ein Suizid-Verusch zu erwarten, bzw. Suizid-Versuch zu sagen wäre Victim-Bashing, eigentlich ein INDUZIERTER Suizid-Versuch [1], ein indizierter Suizid-Versuch kann aber auch einen Amoklauf auslösen, in beiden fällen müsste man von "INDUZIERTEM Mord" oder "INDUZIERTEM [1] SUIZID" reden, also eigentlich eher getarnter mord. Und bei einem Amoklauf mit Toten MUSS der unfreiwillige Roboter auf 2 Beinen schon verwahrt werden zur Sicherheit der Bevölkerung, ABER solange man den Täter welchen den Menschen abgerichtet hat nicht verwahrt, wird der einfach den nächsten Amokläufer produzieren, also dieser psychoater bzw. neurologen und weiterer täter welche z.B bei informaitk behilfe lesten gehören alle auch verwart ZUR SICHERHEIT der Zivil-Bevölkerung
  
- Mühsamkeits-Severity 6: 
+ Mühsamkeits-Severity 7:
+ ======================= 
   Der Event-Trigger ist extern ausserhalb des einflussbereichs eines nerds oder adminsstratoren auf z.B. einem militärsichen c4isr system, udn so programmiert dass ich das ding mühe gibt möglichst die einwirkugnsdauer zu erhöhen insbesondere wenn dann ncoh induzierte Epilepsie (ICD10 G40.2) und/oder suizid trigger aktiviert werden dann schauen dass man wenn man noch jügner ist jemanden ältern findet welcher da viellicht schon erfahrung damit hat
   
   bzw. Kinder einfach sagen "bei solchen Dingen Mami oder Papi holen" ... ausser Papi hat z.B wegen verbrechen intrapersonelle brobleme, dann würde papi dann amok laufen vermutlich
  
  
  [1] da versucht der volldeppen-psyhcater das jetztr mit "es ist training und therapie" schön zu reden, um den rest des satzes zu vertuschen
+ 
+ ich vermute das mit den "Mühsamkeits-Severities" schon mal zu wissen hilft bisschen den Druck zu nehmen, auch gerne sagen falls jemand es besser weiss, ich hatte mit 30 keine Problem damit dass der 16 Jährige autistische Lehrling etwas besser wusste als ich, also wirklich besser wusste, und ich hab ihn auch dafür gelobt [2]
+ 
+ [2] da sagte der leider an Krebs verstorbene Gunnar Kaiser (aber das wäre dann die Philosophie-Vorlesung), dass man als "Kaiser" auch mal seine Untertanen loben soll. bzw. meiner Meinung nach ist zu viel lob oder gehäucheltes lob kontraproduktiv.
+ 
+ 
