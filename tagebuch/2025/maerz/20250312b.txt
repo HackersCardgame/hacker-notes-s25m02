@@ -52,4 +52,8 @@ nicht so super. Da dürfte das FEDPOL bzw. das Bundesgericht meiner SUBJEKTIVEN 
 
 dann geht es plötzlich wieder, also allenfalls funkkanal und hohn (überlegenheitsgeüfhl wegen einem sprengzünder den die herren besitzen aber technisch keine ahnung haben wie das im detail funkioniert) 
 
+bzw. immer noch an der fehlersuche, allenfalls eine statemachine, habe noch nicht alle sequenzen durhprobiert
+
+für die jüngeren, bei fehlersuche änder ich immer möglischst wenig parameter, dann stelle ich das parameter zurück um so zu sagen die ganze "game"-map aufzudecken, bzw. die Statemachine der malkware oder der sabotage heraus zu finden
+
 
