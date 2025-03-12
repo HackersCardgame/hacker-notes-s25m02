@@ -139,5 +139,7 @@ Frehner und Dominic Zschocke waren fürher als das alte pärklein in der stadt n
 UBS hat sich ausgeschlichen und es wird übermittelt:
 die Infomration dass man die App einfach über den webbrowser instalieren könne implziert dass es täter hat bei der [BUS] [UBS] Cornercard, weil andere Mensche würden diese "Map"(landkarte) von möglichen vorgängen gar nciht so gut kennen
 
+dann das ganze Cornercard problem ist als "stop and go" implementiert, da wird immer wieder eine mögliche variante wie man das problem umgehen kann eingeblendet => soll (wie gestern ereits aufgefallen) die Einwrkungsdauer vergrössern, und das wurde jetzt auf "etwas freischalten bei cornercard" gestellt damit ich chatGPT nciht frage
 
+Dass Banking Apps zwischendurch mal gehakct werden ist ja dokumentiert, gib es dokumentierte Fäll wo die Bank ider ein Blackhat team welche die Bank eingenommen hat über die Banking APP dann malware auf das ganze hand installiert? NSO Zero Click ist ja nicht die einziige malware die es gab
 
