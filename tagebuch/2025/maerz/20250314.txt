@@ -65,8 +65,14 @@ Lock A      |      unlock A                   |
 ----------------------------------------------------------------> t(days)
    Zeitachse
    
-alle die wichtigen Dinge welche ich unbedingt erledigen möchte oder erledigung muss wie zB Rechnugnen zahlen, werden allenfalls sogar automatisiert blockert und sabotiert, bzw verhindert dass ich diese erledige. dann werden in eine ArrayList [3] abgefüllt und erst dann freigeschaltet wenn man mich von etwas relevanterem ablenken möchte
+alle die wichtigen Dinge welche ich unbedingt erledigen möchte oder erledigung muss wie zB Rechnugnen zahlen, werden allenfalls sogar automatisiert blockert und sabotiert, bzw verhindert dass ich diese erledige. dann werden in eine ArrayList [3] abgefüllt und erst dann freigeschaltet wenn man mich von etwas relevanterem ablenken möchte.
+
+Die häufigkeit wie oft solche Dinge gesperrt werden wäre ein Indikator dafür, wie zwnagsneurotisch Täter schon sind einen bestimmten autisten vor dem Aussagen dem FEDPOL gegenüber abzuhalten
 
 [1] DELETED
 [2] müller postitch
 [3] tage gschtole
+[4] lockhead martin
+
+
+
