@@ -52,3 +52,21 @@ als verschieden stufen der Cyber-Sprengfallen [1]
 [1] und dann bie soclhen dingen wird immer Ladung 1, Ladung 2, Ladung 10 eingelblendet, etwas was man bei Panzer Haubizen braucht, wieviel sprengstoff man derin tut, aber das ist dort meiner meinung nach je nach dem wie weit man mit diesen Mordinstrumenten bzw. "Kriegsgeräten" schiessen will, das ist dann immer der [DELETED: simon] Härdi den es einblendet weil glaub er derjenige war welcher mir das mit ladung 1 ladung 2... erklärt hat, aber nicht mehr 100% sicher, nicht so wirklich informatik wissen, da speichert mein gehirn autmoatisch weniger genau
 
 
+Dann dass jetzt das mit der Kreditkarte doch noch ferigeschaltet wurde oder funktioniert hat wäre zwecks spammen des obigen, da konnte ich ungefähr den algorithmus rausfinden welcher verwendet wird
+
+            ___________________________________
+            |                                 |
+  __________|_____________                    |
+  |         |            |                    |
+  |         |            |                    |
+Lock A      |      unlock A                   |
+         Lock B                          unlock B     
+         
+----------------------------------------------------------------> t(days)
+   Zeitachse
+   
+alle die wichtigen Dinge welche ich unbedingt erledigen möchte oder erledigung muss wie zB Rechnugnen zahlen, werden allenfalls sogar automatisiert blockert und sabotiert, bzw verhindert dass ich diese erledige. dann werden in eine ArrayList [3] abgefüllt und erst dann freigeschaltet wenn man mich von etwas relevanterem ablenken möchte
+
+[1] DELETED
+[2] müller postitch
+[3] tage gschtole
