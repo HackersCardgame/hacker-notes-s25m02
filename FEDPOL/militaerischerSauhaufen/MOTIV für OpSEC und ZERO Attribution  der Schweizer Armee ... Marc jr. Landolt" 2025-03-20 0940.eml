@@ -1,0 +1,186 @@
+Return-Path: <marc.jr@landolts.ch>
+Delivered-To: mail@marclandolt.ch
+Received: from mail-lb1.adm.hostpoint.ch ([10.4.2.215])
+	by popimap055.mail.hostpoint.internal with LMTP
+	id ONXHFpfU22dWqQAA9BAvQA:P1
+	(envelope-from <marc.jr@landolts.ch>)
+	for <mail@marclandolt.ch>; Thu, 20 Mar 2025 09:40:55 +0100
+Received: from mxin015.mail.hostpoint.ch ([10.4.2.215])
+	by mail-lb1.adm.hostpoint.ch with LMTP
+	id ONXHFpfU22dWqQAA9BAvQA
+	(envelope-from <marc.jr@landolts.ch>)
+	for <mail@marclandolt.ch>; Thu, 20 Mar 2025 09:40:55 +0100
+Authentication-Results: mxin-hosts.mail.hostpoint.ch;
+	iprev=pass (mxout017.mail.hostpoint.ch) smtp.remote-ip=2a00:d70:0:e::317;
+	spf=pass smtp.mailfrom=landolts.ch;
+	dmarc=none header.from=landolts.ch
+Received-SPF: pass (mxin015.mail.hostpoint.ch: domain of landolts.ch
+	designates 2a00:d70:0:e::317 as permitted sender)
+	client-ip=2a00:d70:0:e::317; envelope-from=marc.jr@landolts.ch;
+	helo=mxout017.mail.hostpoint.ch;
+Received: from mxout017.mail.hostpoint.ch ([2a00:d70:0:e::317])
+	by mxin015.mail.hostpoint.ch with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.98 (FreeBSD))
+	(envelope-from <marc.jr@landolts.ch>)
+	id 1tvBSR-0000000035g-1LTI;
+	Thu, 20 Mar 2025 09:40:55 +0100
+Received: from [10.0.2.44] (helo=asmtp014.mail.hostpoint.ch)
+	by mxout017.mail.hostpoint.ch with esmtps  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.98 (FreeBSD))
+	(envelope-from <marc.jr@landolts.ch>)
+	id 1tvBSQ-000000000ck-0hU0;
+	Thu, 20 Mar 2025 09:40:54 +0100
+Received: from 31-10-139-175.cgn.dynamic.upc.ch ([31.10.139.175] helo=[192.168.0.110])
+	by asmtp014.mail.hostpoint.ch with esmtpsa  (TLS1.3) tls TLS_AES_256_GCM_SHA384
+	(Exim 4.98 (FreeBSD))
+	(envelope-from <marc.jr@landolts.ch>)
+	id 1tvBSP-00000000Ik2-3r7y;
+	Thu, 20 Mar 2025 09:40:54 +0100
+X-Authenticated-Sender-Id: marc.jr@landolts.ch
+Message-ID: <1fb2d525-970c-4169-a784-6f61629dfbf6@landolts.ch>
+Date: Thu, 20 Mar 2025 09:40:00 +0100
+MIME-Version: 1.0
+User-Agent: Mozilla Thunderbird
+From: "Marc jr. Landolt" <marc.jr@landolts.ch>
+Subject: =?UTF-8?Q?MOTIV_f=C3=BCr_OpSEC_=5B1=5D_=22ZERO_Attribution=22_=5B2?=
+ =?UTF-8?Q?=5D_der_Schweizer_Armee_=2E=2E=2E?=
+To: info@fedpol.admin.ch, info@kapo.ag.ch, 2009@marclandolt.ch
+Cc: marc.landolt@0x8.ch, Bauhofer Elisabeth GKAOG <Elisabeth.Bauhofer@ag.ch>,
+ Jordi Beatrice GKAOG <Beatrice.Jordi@ag.ch>,
+ Schleusener Samer <Samer.Schleusener@pdag.ch>, marc.walter@pdag.ch,
+ lukas.cotti@ag.ch, lenke.galambos@pdag.ch, EPD.Aarau@pdag.ch,
+ Leitung ZPPA <leitung.zppa@pdag.ch>,
+ Spring Marco DVISTABAD <marco.spring@ag.ch>, Katrin.Hanno@pdag.ch,
+ reto.leiser@ag.ch, info@mfgroup.ch, info@mfhealth.ch,
+ Postmaster-VBS@gs-vbs.admin.ch, kommunikation@gs-vbs.admin.ch,
+ ict-warrioracademy.fub@vtg.admin.ch, direktion@bger.ch, Kanzlei@bger.ch,
+ dirk.floerchinger@pdag.ch
+References: <d087db72-6724-4801-a37f-6c41d98c7dd1@landolts.ch>
+Content-Language: en-US
+Disposition-Notification-To: "Marc jr. Landolt" <marc.jr@landolts.ch>
+In-Reply-To: <d087db72-6724-4801-a37f-6c41d98c7dd1@landolts.ch>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Whitelisted-By: dnswl.hostpoint.dnslist
+X-Vs-State: 0
+X-Forwarded-Original-Recipient: 2009@marclandolt.ch 
+X-Original-To: 2009@marclandolt.ch
+X-Hostpoint-Spambox: NO
+
+Guten Morgen
+
+
+[1] OpSEC bedeutet Operational Security (sich nicht erwischen lassen)
+
+[2] ZERO Attribution oder non-attribution bedeutet, dass es nicht mit 
+der Armee in Verbindung gebracht werden soll
+
+
+Und ich VERPETZE auch nicht deren OpSEC und die ICT Cyber-Warrior 
+Academy der CH-Army zu verraten, aber FALLS ich richtig liege sollte man 
+die ICT Cyber-Warrior in eine ICT Cyber-Worrier Accademy abändern.
+
+Und da ich nicht einfach selber da darn Änderungen machen darf sondern 
+nur herumnölen darf wäre das vermutlich sinnvollerweise eine Aufgabe für 
+das FEDPOL, Bundesjustiz, Parlament
+
+
+
+
+Zum MOTIV der Schweizer Armee für ZERO Attribution:
+===================================================
+
+Sich nicht erwischen lassen bedeutet oft, dass man illegitimes tut und 
+dass wenn das aufföiegen würde diese Sorte von Offizieren dann 
+HOFFENTLICH von zivilen Behörden verhört, verhaftet und verwahrt werden.
+
+Das Konzept kennt man seit tausenden von Jahren. Sowohl die Ninja als 
+auch die Samurai waren dem japanischen Kaiser unterstellt, ABER zu den 
+Ninja's hat sich der Kaiser nicht bekannt um mit den Ninja's die 
+Drecksarbeit erledigen zu können welche auch gegen die eigenen Bürger 
+gerichtet waren.
+
+Dann durften die Saumrai die "Retter-Helden" sein.
+
+Konkret spreche ich von Vorkomnissen seit Bleuler welcher unter Anderem 
+im Burghölzli (der Uni Zürich) gearbeitet hat und massgeblich für die 
+Erfindung der Diagnose "Schizophrenie" beigetragen hat.
+
+mutmassliches DESIGN PATTERN:
+=============================
+1. Meschen welcher allenfalls schon Zeuge ist für 
+Wirtschaftskriminalität durch einige Militärs bei ABB diskreditiern mit 
+zB einer Schizophrenie Diagnose. Dies machen meist mächtige reiche 
+Menschen mit viel Symbolischen Kapital, den mit genug Sozialem, 
+Symbolischem und Ökonomischen Kapital kann man sich leider die 
+Deutungshoheit kaufen
+
+2. Menschen mit Informatik, Medikamenten, Medizinal-Technologie und 
+Psychologie abrichten
+
+3. Menschen isolieren
+
+4. Menschen seinen Beissreflex verschlimmern, z.B. auf mich in dem man 
+den Beissreflex (Psychologie + Medizinal-Technologie) aktivieren immer 
+wenn die Zielperson thematisiert wird. Also wenn ich ein Mail schreibe 
+oder eine Aussage vor Gericht beschwöre
+
+5....
+
+6.... weitere Dinge, Einwirkungsdauer, Schuldbewusstsein ist ein Bonus
+
+7....
+
+8. Den Roboter oder die Drohne auf 2 Beinen am Ziel-Ort oder bei der 
+Zielperson "zünden"
+
+     * VERPETZ *
+     ===========
+   -> und hier WÄRE deren OpSEC und ZERO Attribution WICHTIG ...
+
+... denn sobald man nur ein einziges Gerät am Tatort findet welches zB. 
+Indizierte Epilepsie auslösen kann (THS/DBS allenfalls als Prärequisit) 
+wäre es sehr naheliegend, dass der Täter schon der Täter ist und zum 
+Schutz der Zivil-Bevölkerung VERWAHRT gehört, ABER dass es weitere Täter 
+gibt welche AUCH VERWAHRT gehören, denn diese Herren Offiziere würden 
+dann einfach den nächsten 20 Jährigen zur Drohne auf 2 Beinen abrichten.
+
+Da der Stimoceiver von Dr. J.R.M. Delgado der University Yale schon 1950 
+erfunden wurde sind vermutlich alle Verdingkinder seit 1950 so etwas wie 
+unfreiwillige Ninjas der CH-Army
+
+
+
+* Für SINNVOLLE Fragen stehe ich gerne Rede und Antwort
+
+* Wer AUCH SO LESEFAUL ist wie ich, ich lasse mir das immer mit 
+eSpeak-ng vorlesen, bzw. die meisten eBook Reader oder das 
+Browser-Pluging "Read Aloud" kann auch vorlesen. Dann kann man wärend 
+dem "Lesen" noch Fenster putzen oder Gromogon-Gorgnonzola-Pizza kochen.
+
+* Wer aus dem Verteiler ausgetragen werden möchte gerne sagen, dann 
+trage ich in/sie/es aus (auf Verteiler wie Vorstand @ Piraten (Aargau) 
+habe ich selber keinen Einfluss
+
+* Falls Euer/Ihr Computer Ihnen einredet, ich hätte Viren in die 
+Attachements getan wäre das eine Lüge. Dass aber unterwegs jemand Viren 
+drein tut kann durchaus sein, seit die Schweiz mit dem 
+"Glücksspiel-Gesetz" Teile der DNSSEC aufgebrochen hat wäre das mit 
+einer Schweizer Variante von qFire (siehe NSA-Snowden Leaks) selbst bei 
+Verbindungen mit TLS denkbar.
+
+* Falls sie aber Angst haben jemand würde sie über Inhalte von mir mit 
+Viren infizieren kaufen Sie einfach auf zB. Ebay oder Riccardo einen 
+gebrauchten Laptop, richten sie einen zweiten Mail Account ein und 
+senden das an den zweiten Laptop und drucken sie es von dort.
+
+
+
+Mit freundlichen Grüssen
+
+Marc jr Landolt
+eidg. dipl. Informatiker HF
+Neuenburgerstrasse 6
+5004 Aarau
+
+
