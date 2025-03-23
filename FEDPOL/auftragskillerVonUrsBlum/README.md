@@ -31,4 +31,6 @@ wichtigstes wäre nicht der trottel robert oder derjenige welcher ihn fernsteuer
 
 ... wichtig wäre allenfalls eine software / verhaltensbasiertes intrusion-detections-system zu programmieren welche an hand des verhaltens eines benutzers z.B. in telegram kanälen warscheinlichkeiten dass der auftragskiller ist voraussagen kann
 
+also der herr offizier [3] urs blum [DELETED mit 3]
 
+[3] unbekannt: ersetzt das durhc "herr offiziersfamilei urs blum" <- rechsverdreher design pattern der zürich verishunrfg?
