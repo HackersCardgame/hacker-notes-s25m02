@@ -14,4 +14,9 @@ seit wochen aufdringlich penetrant in diesem kanal, ich habe ihn bisher nciht zu
 
 somit wäre allenfalls ein SELECT * from USER welche sich in dieser weise in telegram kanälen verhalten spannend für ermittlungsbehörden
 
+Sun Mar 23 19:05:49 CET 2025
+irgendwer zwingt mich jetzt mit einer klage wegen bezichtigungb zu schreiben dass dieser user nur als durchlauferheitzt [1] gebrauicth werde [2]
 
+a[1] missbruach
+
+[2] durhc urs blum <- gelöscht
