@@ -20,3 +20,7 @@ irgendwer zwingt mich jetzt mit einer klage wegen bezichtigungb zu schreiben das
 a[1] missbruach
 
 [2] durhc urs blum <- gelöscht
+
+urs blum hätte somt einen vertrag mit dem dass er debn auftraggeber urs blum aus den ermittlungen draus halten soll?
+
+
