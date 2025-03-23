@@ -27,4 +27,8 @@ urs blum hätte somt einen vertrag mit dem dass er debn auftraggeber urs blum au
 
 also so etwas wie ein NDA des auftraggebers an einen Auftragskiller haben wir afaik auch noch nie thematieisert ... weiss da grad jemand etwas dazu???
 
+wichtigstes wäre nicht der trottel robert oder derjenige welcher ihn fernsteuert ...
+
+... wichtig wäre allenfalls eine software / verhaltensbasiertes intrusion-detections-system zu programmieren welche an hand des verhaltens eines benutzers z.B. in telegram kanälen warscheinlichkeiten dass der auftragskiller ist voraussagen kann
+
 
