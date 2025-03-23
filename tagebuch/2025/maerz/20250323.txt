@@ -1,0 +1,34 @@
+07:57:
+
+Wort zum Sonntag:
+================
+
+Ich bin zwar evangelisch, aber bei den Katholoiken ist Faulheit eine Todsünde.
+
+Dennoch finde ich das Konzept fleissig zu sein eigentlich sinnvoll
+
+-> Spiele Ideen
+
+Hallo ███████
+
+ein Still-Leben was ich eigentlich primär für Dich gemacht habe, aber allenfalls interessiert das auch andere.
+
+In Deinem alter habe ich spielerisch viel gelernt
+
+* C++
+
+* Windows Server (ich mag wie Du auch lieber Linux, aber dnenoch macht es allenfalls Sinn ein bisschen über den Teller-Rand zu schauen, für Studenten oder Bildungsinstitute gab es mindestens damals 30 Tage gratis Testversionen welche uns von der ABB Technikerschule ausgehändigt wurde
+
+* dann bist Du auch Kreativ, apropos LMMS, allenfalls ist auch Ubuntu Studio Live DVD spannend
+
+* dann viele Menschen haben mühe Grafiken, Graphen (Mathematik) und Statistiken zu verstehen. Da empfiehlt es sich auch z.B ein paar Wochen z.B. mit Maple (Mathematik Programm, kostenpflichtig, gibt günstigere StudentenVersionen), mit Mathlab (kostenpflichtig) oder mit Octave (gratis, Open Source) zu spielen.
+
+Einige Beispiele für den Einstieg
+plot (y=x)
+plot (y=x²)
+plot (y=sin(x)
+plot (y=cos(x))
+
+
+Allenfalls macht es auch Sinn eine Offline-Version von zB Wikipedia, Brockhaus oder Microsoft Encarta hast, falls das Internetz mal kaputt ist. Wikipedia gab es zumindest 2005 versionen welche man herunter laden konnte und auf Dual-Layer DVD brennen konnte.
+
