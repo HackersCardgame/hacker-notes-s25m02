@@ -24,3 +24,7 @@ a[1] missbruach
 urs blum hätte somt einen vertrag mit dem dass er debn auftraggeber urs blum aus den ermittlungen draus halten soll?
 
 
+
+also so etwas wie ein NDA des auftraggebers an einen Auftragskiller haben wir afaik auch noch nie thematieisert ... weiss da grad jemand etwas dazu???
+
+
