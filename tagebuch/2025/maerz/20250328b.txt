@@ -20,4 +20,10 @@ bei fehlersuchte aktiviert ICD10 G40.2, somit ist zu erwarten dass das am Terror
 weiteres Subjektive meinung:
 bei allen kunden der SALT welche Suzizid oder amok gelaufen sind oder eine Amok-Fahrt gemahct haben sollte das FEPDOL mal genauer fragen stelle bei SALT udn auf die nicht ausgeweisenen Logfiles beharren
 
+weitere SUBJEKTIVE Empfelung von mir
+
+ich hab ja damals bei der ABB an hand der Festplatten Geräusche welche bei 95% der Computer identisch waren aber bei 5% nicht rückscklüsse machen können, dass da etwas nicht kosher ist. Praktisch alle computer waren mit dem Selben northon ghost image aufgesetzt wordne, also hätten es 100% sein müssen 
+
+wenn man jetzt anderen nerds sagt sie sollen explizit auf das Verhalten von Messaging Queues Schauen wie die SMS Messaging Queue bei SALT, dann würden das andere Menschen oder mindestsn nerds auch rausfinden und weitere indizien liefern können
+
 
