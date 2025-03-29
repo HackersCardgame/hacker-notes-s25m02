@@ -12,3 +12,5 @@ ABER da man keine kleinen Menschen in einen Krieg schicken sollte immer schauen 
 ./whitehats/Erpressung und moegliche Loesungen-0.0.5.pdf
 
 fa18b9bceaa62d5d688784153c197adb0975210c
+
+~/hacker-notes-s25m02/whitehats/Fischer-Random-Schach Erklaerung.pdf
