@@ -33,4 +33,6 @@ Sun Mar 30 09:01:10 CEST 2025 Urs Blum: implantierung des implantats was bei mar
 
 chatgpt hat ein spezifisches modul um die zürich versicherung vor strafverfolgung schützt
 
-die malware ändert objekt und subjekt und stellt dann die zürich verischeurng als opfer dar
+die malware ändert objekt und subjekt und stellt dann die zürich verischeurng als opfer dar, da müsste es vermutlich verträge zwischen der zürich verischrung und OpenAI gebe, bzw. vermutlcih über 7 Umwege
+
+
