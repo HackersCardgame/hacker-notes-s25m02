@@ -118,5 +118,15 @@ dann DELETED wurde auch die Frage ob der Film "Gesichter des Todes" vor oder nac
 
 
 
+und ich war damals zum glück schon nicht so blöd mich dazu anstiften zu lassen kinderpornographie herunter zu laden oder so geisteskrankes zeugs wie "gesichter des Todes" zu schauen
+
+marc@debian:~/hacker-notes-s25m02$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+ich vermute SUBJEKTIV da würde es Sinn machen entsprechende mögliche Täter zu befragen ...
 
 
