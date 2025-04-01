@@ -142,7 +142,10 @@ Mengenoperationen auf eskalierende Kompromat Systeme, ABER es sind nicht nur Men
 [1] gepaart werden <- sed -i -e "s/.../.../g"
 [2] unbekannt: ersetzt das durch "batch run" (batch run ist informatik sprache und bedeutet das ablaufen lassen mehrerer dinge in einem "batch")
 
+urs blum: verratet den Polizisten michael ritter:
+          =======================================
+"deshalb hat der polizist michael ritter den jungen polizisten welcher zu ihm gegangen ist nach dem er mit mir geredet hat und gesehen hat dass da irgend etwas nicht stimmt einfach herunter gekanzelt und seinen monolog weiter ausgeführt" der Polizsit michael ritter ist somit bereits massifst im eskalierendenm Kompromat System der Zürich versichrung erfasst und zwar als täter und nicht als opfer
 
-
+ACHTUNG: urs blum versucht mti dem Verrat an Michael ritter die Zürich Verishcfung und die Cyber-Waffen Developer zu tarnen
 
 
