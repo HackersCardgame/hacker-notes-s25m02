@@ -32,4 +32,6 @@ egal ob sprachynthese oder echt, das wäre ein EEG was mitgehört hat und beim e
 
 technisch betrachtet wären es Mengen-Operationen auf EEG Schnippsel / Named Entity Regognition des EEG und EventTrigger mit fragwürdigen inhalten eher fragwürdigen aussagen eher fragwürdigen menschen welche VORSICHTIG AUSGEDRÜCKT sehr nihilistisch sind
 
+somit wurde mein Neuralink auf einen anderen Server umgehängt, bzw mein Neuralink in einen anderen Neuralink-Teamspeak server gehängt
+
 
