@@ -139,8 +139,10 @@ dann wurde ich ja kurz bevor der Michael Boeringer Amok gelaufen ist in die Psyc
 
 Mengenoperationen auf eskalierende Kompromat Systeme, ABER es sind nicht nur Menschen welche mit selbstverschuldeten eigenne Taten kompromitiert wurden, sondern auch opfer welche zB über die Sexuelle Integrität, Vergewaltigungen und/oder Beziehguns-Ebene kompromitiert wurden
 
-[1] gepaart werdenb <- 
+[1] gepaart werden <- sed -i -e "s/.../.../g"
 [2] unbekannt: ersetzt das durch "batch run" (batch run ist informatik sprache und bedeutet das ablaufen lassen mehrerer dinge in einem "batch")
+
+
 
 
 
