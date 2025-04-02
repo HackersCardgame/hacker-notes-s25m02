@@ -39,3 +39,8 @@ dann die Scans der Handnotizen welche auch teilweise Herleitung sind
 wuups, falsches tag beim git commit ...
 
 23d8f1c1324ddd3c765b471ec597256f41a89c1a
+
+dann wieder mal apt-get dist-upgrade gemacht
+
+marc@debian:~$ uname -a
+Linux debian 6.12.20-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.20-1 (2025-03-23) x86_64 GNU/Linux
