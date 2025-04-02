@@ -38,4 +38,4 @@ dann die Scans der Handnotizen welche auch teilweise Herleitung sind
 
 wuups, falsches tag beim git commit ...
 
-
+23d8f1c1324ddd3c765b471ec597256f41a89c1a
