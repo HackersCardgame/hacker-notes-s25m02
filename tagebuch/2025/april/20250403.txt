@@ -87,8 +87,18 @@ sequenz:
 2001 Suizid tobias moser
 ca 2005 Fall Feuerwehrmann gautschi
 2013 fall michael boeringer (amoklauf)
-2019 fall hapte avaya (amoklauf im AUsland aktiviert worden)
+2019 fall hapte avaya (amoklauf im Ausland aktiviert worden)
 
 also die software wurde somit seit ca 20 jahren immer mehr erweitert
+
+dann vorhin, im bett, ca 1h "portscanning meines gehirns" (also etwas wie eeg biofeedback) auf vulnerabilities
+
+dann werdne die einzelnen möglichen erkannten vulnerabiliteis irgendwelchen gruppen von leuten zugeordnet (welche vermutlcih auch ähnlcihe wohnungen haben wie ich)
+
+dann wenn ein versuch über eine vulnerability in einer sackgasse geendet ist wegen offensichtichen wiedersprücen dann wird grad auf die nächste gruppe umgeschaltet welche die nächste psychologsichge vulerability versucht auszuweiten
+
+Dann durchläuft das jeweils auch einen genetischen algorihtmus wie im N.E.R.O Game der Textas university udn die versuchen bei jedem einzelnen dieser druchgänge die software ncoh schlimmer zu machnen 
+
+diese Meta-design-pattern wäre aber prone zu code fingerprinting und zeigt einen spezifisxhen programmierstil auf welcher allenfalls zur täterschaft führt oder mindestens auf einen täterkreis hinweisen könnte
 
 
