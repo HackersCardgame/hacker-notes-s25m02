@@ -46,8 +46,50 @@ dann darauf so etwas wie ein streu-leak, also eine streubombe mit leaks
 
 * was hat philipp lüscher mit dem vershcwundenen CIM Center an der HTL Brugg zu tun
 * CIM Center wundversorgungs anti-aimbot (ein aimbot ist in games um besser zu zielen, bei wundversorgung würde unterstüzende infrastruktur nützlich sein, aber wenn die täter das auf sabotage der wundversorugn umschalten können dann nicht so super. also in der robotik redet man von "tool center point", also der Greifer dort wo der greifer greift, udn da wird einfach wenn man mit zB. der Pinzette den richtigen greiferwinkel hat mit dem medulla spinalis neuralink diese korrekte greiferposition wieder sabotiert
+
+To github.com:HackersCardGame/hacker-notes-s25m02.git
+   a58efda..1c660b9  main -> main
+1c660b9c605c62c685fec5be37b02dbe40c93c06
+marc@debian:~/hacker-notes-s25m02$ vim EUROPOL
+marc@debian:~/hacker-notes-s25m02$ figlet EUROPOL
+ _____ _   _ ____   ___  ____   ___  _     
+| ____| | | |  _ \ / _ \|  _ \ / _ \| |    
+|  _| | | | | |_) | | | | |_) | | | | |    
+| |___| |_| |  _ <| |_| |  __/| |_| | |___ 
+|_____|\___/|_| \_\\___/|_|    \___/|_____|
+                                           
+marc@debian:~/hacker-notes-s25m02$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@debian:~/hacker-notes-s25m02$ 
+
 * frau dr. cathrin römer, rombachtäli 13/2, allenfalls als sie weinend von der arbeit zurück kam weil sie einen patienten im operationssaal nicht retten konnte waren allenfalls auch solche "anti-aimbot's" der HTL CIM Center aktiv...
- -> deutsche ärzte werden zB von Pfisterers in die schweiz gelockt, weil dieser Malware, dieser sabotage und anti-aimbot parametrisiert werden muss, der amoklauf hapte avaya wäre nur der laute einzelne fall gegen"beweis"
+ -> deutsche ärzte werden zB von Pfisterers in die schweiz gelockt, weil dieser Malware, dieser sabotage und anti-aimbot parametrisiert werden muss, der amoklauf hapte avaya wäre nur der laute einzelne fall gegen"beweis" (dominic zschocke legt mit seinem "blablabla haschaschinen blablabla" was dominic zschocke unaufgefordert mal an einem piratenpartei stammtisch gesagt hat genau den fokus auf low-qualified arbeitskräfte um high-qualified-brainjacking wie das an kathrin römer zu spammen
+
+To github.com:HackersCardGame/hacker-notes-s25m02.git
+   a58efda..1c660b9  main -> main
+1c660b9c605c62c685fec5be37b02dbe40c93c06
+marc@debian:~/hacker-notes-s25m02$ vim EUROPOL
+marc@debian:~/hacker-notes-s25m02$ figlet EUROPOL
+ _____ _   _ ____   ___  ____   ___  _     
+| ____| | | |  _ \ / _ \|  _ \ / _ \| |    
+|  _| | | | | |_) | | | | |_) | | | | |    
+| |___| |_| |  _ <| |_| |  __/| |_| | |___ 
+|_____|\___/|_| \_\\___/|_|    \___/|_____|
+                                           
+marc@debian:~/hacker-notes-s25m02$ figlet INTERPOL
+ ___ _   _ _____ _____ ____  ____   ___  _     
+|_ _| \ | |_   _| ____|  _ \|  _ \ / _ \| |    
+ | ||  \| | | | |  _| | |_) | |_) | | | | |    
+ | || |\  | | | | |___|  _ <|  __/| |_| | |___ 
+|___|_| \_| |_| |_____|_| \_\_|    \___/|_____|
+                                               
+marc@debian:~/hacker-notes-s25m02$ 
+
 
 * dominic zschocke redet von haschaschinen um davon abzulenken dass pfsiterer aarau mit seinen oberschicht mittätern versuchen möglichst viele universitäten zu unterwandern, philpp lüscher hatte danach den auftrag FH's und Unis zu unterwandern
 * nächster
@@ -55,4 +97,4 @@ dann darauf so etwas wie ein streu-leak, also eine streubombe mit leaks
 
 parametrisieren
 
-zshcocke
+
