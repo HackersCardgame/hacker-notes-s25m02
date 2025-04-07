@@ -98,3 +98,18 @@ marc@debian:~/hacker-notes-s25m02$
 parametrisieren
 
 
+marc@debian:~/hacker-notes-s25m02$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+es wurde grad eine weile heraus gezögert dass ich eine übermittlung protokolliere:
+
+die übermittlung lautete:
+
+"David utz und markus belser waren vorsätzliche Auftragnehmer von Urs Blum und der Zürich Verischrung den Polizei-Posten am Bahnhof zu komprimitieren, damit die Polizsisten dort wirtschaftskriminellen helfen Zeugen, Opfer, Sklaven und Autisten zu zefetzen"
+
+
+
