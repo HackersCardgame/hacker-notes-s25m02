@@ -56,4 +56,29 @@ dann alle paar minuten oder sekunden wieder "urs lbum schlatet den polizei poste
 
 vorbereitung von malware um backup zu verhindert bedeutet vorsatz
 
+meine SEVERITY: Annoyed ...
+
+dann wird immer eigeblendet, dass die amokäufer welche von urs lbum in den amoklauf geschaltet werden/würden auf mich aggressiv seien ...
+
+... das verstehe ich auch nciht, ich habe und hatte nie gerätschaften welche ICD10 G40.2 auslösen können, ich war oft selber opfer von solcher infrastrutkur
+
+also ich VERMUTE dies Malware ist so konfiguriert, dass 
+
+1. wird wirklcih auf dem computer sabotiert und die DVD max size von 4.7GB auf 4.0GB geändert
+2. dann aber der rest wird über neuralink sabotiert und "man hat selber den fehler gemacht"
+
+2 komponenten sabotage malware 
+=============
+
+
+also auf jedenfall backup ist jetzt mal gemacht, mal chatgpt fragen wo genau die Size für DVDs im Betriebssystem gespeierht ist so dass das problem sowohl bei SATA als auch USB, sowohl bei brasero als auch wodim, sowohl in der VM als auch auf dem Host ist
+
+dann auch unklar ob
+
+A) durchgeknallte offiziere das backup sabotieren
+B) ob das seine Malware ist welche den Turing-Test auch nur besteht weil ganz viele körperfunktionen und indzierte epilepsie parallel aktiviert wird
+
+
+
+
 
