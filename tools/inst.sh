@@ -132,6 +132,7 @@ apt-get update -y
 apt-get upgrade -y
 apt-get install -y vim
 apt-get install -y git
+apt-get install -y easyeffects
 apt-get install -y screen
 #apt-get install -y gdm3
 #apt-get install -y xfwm4 
