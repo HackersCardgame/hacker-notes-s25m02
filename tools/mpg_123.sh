@@ -9,11 +9,11 @@
 #find /media/marc/77*/Music.merged/ -name "*cl*" -type f -print0 | shuf -z | xargs -0  mpg123  
 #find /media/marc/77*/Music.merged/ -name "*282*" -type f -print0 | shuf -z | xargs -0  mpg123 -v 
 #find /media/marc/77*/Music.merged/ -name "*inse*" -type f -print0 | shuf -z | xargs -0  mpg123 -v 
-find /media/marc/77*/Music.merged/ -name "*es*" -type f -print0 | shuf -z | xargs -0  mpg123 -v 
+#find /media/marc/77*/Music.merged/ -name "*es*" -type f -print0 | shuf -z | xargs -0  mpg123 -v 
 
 #find /media/marc/77*/Music.merged/ -name "*20.03.2021*" -type f -print0 | shuf -z | xargs -0  mpg123 -v -k 159000  
 
-#find /media/marc/77*/Music.merged/ -name "*Zonne*" -type f -print0 | shuf -z | xargs -0  mpg123 -v 
+find /media/marc/77*/Music.merged/ -name "*Zonne*" -type f -print0 | shuf -z | xargs -0  mpg123 -v 
 
 
 
