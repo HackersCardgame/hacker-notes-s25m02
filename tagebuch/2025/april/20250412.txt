@@ -126,8 +126,21 @@ madeleine Truffer usa -> riela -> m163
 [3] ...
 
 [6] übermittlung: urs blum aktiviert einen autolenker in eine amokfahrt grad jetzt 
-
-
--> amokfahrt testlauf an der unfreiwilligen laborratte marc jr landolt druch urs+Martin Blum, protokolliert von dr. claudine blum in einem offiziellen protokoll an die Psychiatrie königsfelden
+      => [6.1] amokfahrt testlauf an der unfreiwilligen laborratte marc jr landolt druch urs+Martin Blum, protokolliert von dr. claudine blum in einem offiziellen protokoll an die Psychiatrie königsfelden
 
 sequenz geändert worden, bereits korrigiert
+
+
+Verschachteltes JakShaving 
+===========================
+
+[2] => [2.1, 2.2, 2.3, ...] 
+[3] => [3.1, 3.2, 3.3, ...] 
+[4] => [4.1, 4.2, 4.3, ...] 
+[5] => [5.1, 5.2, 5.3, ...] 
+
+
+dann jakshaving wäre das falsche wort, es wäre ein eskalierendes Kompromat-System was grad gegen marc jr landolt aktiviert wurde, und da das mit rechtlichen Dingen zu [7] anzunehmen dass das zB Rechtsverdreher der Zürich Versichrung sind wäre vermutlich nicht komplett eine falsche Annahme
+
+[7] trun run run ruhen ruhen ruhen ruhen  <- das wäre die Zürich versicherung welche das bereits vor dem protokoll bei [7] auf marc jr landolöts EEG Abgefangen hat und vertuschen möchte
+
