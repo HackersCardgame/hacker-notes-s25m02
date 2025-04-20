@@ -70,7 +70,7 @@ sobald die psychiatrie nur einmal einen zeugen ermordet hat und urs blum hat zug
 
 
 
-scans:$
+scans:
 scans/35/BRN3C2AF421298E_060727--551-580.pdf
 
 FEDPOL/Verdingkinder/qFire-der-Zuerich-Versichrung-oder-der-CH-Army-um-UPC-chef-Oberstleutnant-WalterBrigger-05.png
