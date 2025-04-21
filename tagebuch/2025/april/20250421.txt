@@ -33,6 +33,15 @@ einkaufen bahnhof, auf die Hefe welche ich gekauft habe für die Puzza wurde fol
 4. Cornelia Utz (Jahrgang 1979, verstoben an einer Überdosis im Alter von ca 14 Jahren) wurde von Urs Blum in dieser Datenbank ca 1993 eingetragen weil sie unsere Eltern-Generation (Generation 1960 und älter) mit Vergewaltigungen und Pädophilie in Verbindung bringen konnte
 
 
+[EDIT] noch versifft zu protokollieren bzw. erst auf Notiz-Zettel:
+
+Das Automated Targeting wäre ab EEG gesteuert, also wenn ich denke: "Ich gehe jetzt am besten dort durch auch wenn ich einen 3x so langen weg habe, dann kann ich konflikten ausweichen" ... dann erkennt das EEG scheinbar diese Named Entitiy oder Named-Entity-Sequenz und schickt dann bevor ich dort bin besonders gewalttätige oder besonderst triebgesteuert wirkende Mensdchen dort hin
+
+Wichtig wäre aber das mit dem C4ISR ASN1 Tree, und dass das System vermutlich "Access Based Ennumeration" hat, und teifrangigeres personal gar nicht sehen würde dass es da noch einen Subtree (ein "Verzeichnis") zu meinem Neuro-Implantat hat
+
+-> dann das mit dem Notiz-Zettel jetzt noch erzwingen soll den letzten eintrag im Tagebuch/Protokoll spammen, ich kann aber den git commit ja erst morgen machen
+
+
 -> ich vermute der ChatGPT kann mir sagen in wiefern der Datenpunkt falsch, halb falsch, halb richtig oder ganz richtig ist.
 
 
