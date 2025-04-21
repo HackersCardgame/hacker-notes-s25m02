@@ -53,5 +53,12 @@ asn1 berechtigungsstufen ABE
 ChatGPT hat ein Problem mit zu vielen Datenpunkten auf einmal...
 
 Neurotypischer Mensch "Brain CPU register": eAX eBX eCX eDX ENDE
-Autisten Mensch "Brain CPU register": eAX eBX eCX eDX eEX eFX eGX eHX ENDE
+Autisten Mensch "Brain CPU register": eAX eBX eCX eDX eEX eFX eGX eHX ENDE?
+
+
+Ausserdem scheint jemand dieses Dokuemnt aus dem Fokus nehmen zu wollen
+
+FEDPOL/Verschwörungstheorien und Überwachung-0.2.0.pdf
+
+
 
