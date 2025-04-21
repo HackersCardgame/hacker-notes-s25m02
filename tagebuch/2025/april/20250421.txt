@@ -51,4 +51,7 @@ isis osiris agora lovecruft hat in USA ähnliche Dinge herausgefunden, deshalb m
 asn1 berechtigungsstufen ABE
 
 ChatGPT hat ein Problem mit zu vielen Datenpunkten auf einmal...
-AX BX CX DX ENDE
+
+Neurotypischer Mensch "Brain CPU register": eAX eBX eCX eDX ENDE
+Autisten Mensch "Brain CPU register": eAX eBX eCX eDX eEX eFX eGX eHX ENDE
+
