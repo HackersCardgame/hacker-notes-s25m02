@@ -2,6 +2,12 @@
 
 exit # not working yet
 
+adduser --system --no-create-home --group zoneminder
+vim /usr .... /zoneminder.service
+    User=zoneminder
+
+chown -R zoneminder: /var/cache/zoneminder /var/log/zm (/etc/zm)
+
 sudo apt install zoneminder
 sudo a2enconf zoneminder
 sudo systemctl reload apache2
@@ -33,6 +39,7 @@ sudo systemctl enable mariadb
 sudo mysql -u root -p
 
 CREATE DATABASE zm;
+CREATE USER zmuser;
 GRANT ALL PRIVILEGES ON zm.* TO 'zmuser'@'localhost' IDENTIFIED BY 'zmpass';
 FLUSH PRIVILEGES;
 EXIT;
