@@ -51,5 +51,7 @@ DELETED: der Zeitungsartikel "Sprengstoff von Waffenplatz Aarau weggekommen" der
 
 fliegt urs blum und sein terrornetzwerk komplett auf wird sehr schnell mit sprengstoff gedroht durch urs blums terrornetzwerk. der zeitungsartikel "sprengstoff von waffenplatz aarau weggekommen" nutzt insbeonsere Menschen welche Sprengstoff systematsich gegen zivilisten missbrauchen
 
+mit dem sprenstoff in den unterschicht quartieren erzwingt urs blum die herausgabe von neuralink und sonstigen access codes
+
 
 
