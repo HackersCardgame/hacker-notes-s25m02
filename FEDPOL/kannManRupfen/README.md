@@ -18,4 +18,10 @@ immer wenn marc jr landolt solche verarschungen merkt soll es so wirken dass mar
 
 urs blum: dann halt alle strafakten der Telli bewohner über marc landolts internet leitung leaken
 
+dann ab dem zeipunkt wo marc jr landolt geschwächt wurde schaltet urs blum den loop
+
+loop
+{
+  sprengfallendrohung gegen ganz aarau ein 
+  (was vermutlich der Verkaufshypnose dient)
 
