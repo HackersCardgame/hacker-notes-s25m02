@@ -49,5 +49,7 @@ ein hobby der oberschicht ist es sprengstoff in den unterschicht gebeiten zu leg
 
 DELETED: der Zeitungsartikel "Sprengstoff von Waffenplatz Aarau weggekommen" der Aargauer Zeitung ist eine offene drohung gegen alle unterschicht skalven durch die Offiziere im umfeld urs blum und der pfadfinder abteilung adler arara
 
+fliegt urs blum und sein terrornetzwerk komplett auf wird sehr schnell mit sprengstoff gedroht durch urs blums terrornetzwerk. der zeitungsartikel "sprengstoff von waffenplatz aarau weggekommen" nutzt insbeonsere Menschen welche Sprengstoff systematsich gegen zivilisten missbrauchen
+
 
 
