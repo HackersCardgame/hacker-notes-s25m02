@@ -81,4 +81,16 @@ Tremp hat sendenfrastruktur um Logitech Funktastaturen zu sabotieren und versuch
 
 als tremp mich in der waschküche verfolgt hat, 3x wo ich mir mühe gegeben habe einfach konflikten auszuweichen und dann halt mehr aufwnad und zeit habe dafür keinen konflikt mit der tremp oder als sie wie eine furie an meine haustüre gehämmert hat das waren somit liqidations-befehle oder "virutelle heads-shot befehel" der Zürich versicherung
 
-
+gespammt werden soll mit Sprengstoff terrordrohungen auftrags urs blum:
+also die Zürich Versicherung gibt vor wer geruppft [1] wird
+also die Zürich Versicherung gibt vor wer geruppft [1] wird
+also die Zürich Versicherung gibt vor wer geruppft [1] wird
+also die Zürich Versicherung gibt vor wer geruppft [1] wird
+also die Zürich Versicherung gibt vor wer geruppft [1] wird
+also die Zürich Versicherung gibt vor wer geruppft [1] wird
+also die Zürich Versicherung gibt vor wer geruppft [1] wird
+also die Zürich Versicherung gibt vor wer geruppft [1] wird
+also die Zürich Versicherung gibt vor wer geruppft [1] wird
+also die Zürich Versicherung gibt vor wer geruppft [1] wird
+also die Zürich Versicherung gibt vor wer geruppft [1] wird
+also die Zürich Versicherung gibt vor wer geruppft [1] wird
