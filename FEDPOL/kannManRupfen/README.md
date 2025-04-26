@@ -31,3 +31,9 @@ schädelverletzung gegen marc jr landolt aktiviert wordne: urs blum besietzt som
 rechtlich gilt das als straftatbestand versuchter mord und dieser mensch hat jetzt den straffälligen tellianer keinen gefallen getan, weil zusätzlich auf deren strafakte kommt "behilfe und nutzniesser an mordversuch"
 
 
+urs blum, philipp blum, david utz ...
+
+
+... aber auch ruedi müller damals bevor marc jr landolt im rombachtäli gewohnt hat haben sprengstoff in im Rombachtäli gelegt
+
+den unterschichtgebieten paltziert und der zeitungsartikel ist eine terrordrohung gegen die untershcicht
