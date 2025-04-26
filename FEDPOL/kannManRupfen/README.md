@@ -2,7 +2,7 @@
 
 bei allen Dingen was Marc jr Landolt  braucht um zB Aussagen oder Beweismittel zu druchen wird dieses Gut auf der Auftragskiller Datenbank markiert so dass marc jr landolt das nicht holen kann
 
-also die Zürich Versicherung gibt vor wer geruppft [1]
+also die Zürich Versicherung gibt vor wer geruppft [1] wird
 
 [1] de-sg für Ausnehmen, Zerstümmeln, Freiwild
 
@@ -52,6 +52,14 @@ DELETED: der Zeitungsartikel "Sprengstoff von Waffenplatz Aarau weggekommen" der
 fliegt urs blum und sein terrornetzwerk komplett auf wird sehr schnell mit sprengstoff gedroht durch urs blums terrornetzwerk. der zeitungsartikel "sprengstoff von waffenplatz aarau weggekommen" nutzt insbeonsere Menschen welche Sprengstoff systematsich gegen zivilisten missbrauchen
 
 mit dem sprenstoff in den unterschicht quartieren erzwingt urs blum die herausgabe von neuralink und sonstigen access codes
+
+dann FALLS es sonst niemandem aufgefallen ist
+
+mit der Sprengstoff Drohnung durch urs blum wurde gespammt:
+
+" Urs Blum und die zürich versichrung gibt die Aufträge heraus welcher mieter in der telli zerfetzt wird "
+
+dominik brändli: es ist somit naheliegend dass urs blum den Befehl gegeben hat den Michael Boeringer zum Amokläufer abzurichten
 
 
 
