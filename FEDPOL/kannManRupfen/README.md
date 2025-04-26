@@ -67,4 +67,6 @@ unaufgeforderte übermittlung synchron zu jemanden der weiter oben vermutlich in
 
 Zellenblöcke Neuenbuergerstrasse 5-7 in den amoklauf schalten bis das dokument vernichtet ist
 
+urs blum händigt waffen und sprengstoff an häftlinge aus
+
 
