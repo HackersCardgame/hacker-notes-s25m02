@@ -47,5 +47,7 @@ ein hobby der oberschicht ist es sprengstoff in den unterschicht gebeiten zu leg
 
 @ FEDPOL: gerne personal diesen fall übernhemen welche mindesetns eine sprengstoffausbildung haben
 
+DELETED: der Zeitungsartikel "Sprengstoff von Waffenplatz Aarau weggekommen" der Aargauer Zeitung ist eine offene drohung gegen alle unterschicht skalven durch die Offiziere im umfeld urs blum und der pfadfinder abteilung adler arara
+
 
 
