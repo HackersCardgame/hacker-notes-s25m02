@@ -63,4 +63,8 @@ dominik brändli: es ist somit naheliegend dass urs blum den Befehl gegeben hat 
 
 jemand will jetzt mehr und mehr täter hier auflisten ... also die mächtigsten täter sind bereits in diesem Dokument erwähnt worden und die epresserdatenbank der zürich vericherung versucht jetzt tiefrangigere terroristen von urs blum seinem terrornetzwerk einzufügen
 
+unaufgeforderte übermittlung synchron zu jemanden der weiter oben vermutlich in einen boxsack boxt:
+
+Zellenblöcke Neuenbuergerstrasse 5-7 in den amoklauf schalten bis das dokument vernichtet ist
+
 
