@@ -14,3 +14,8 @@ also die Zürich Versicherung gibt vor wer geruppft [1]
 immer wenn marc jr landolt solche verarschungen merkt soll es so wirken dass marc jr landolt deswegen [3] einen Suizid-versuch macht, aber de facto aktiviert usr blum dann suizid-trigger gegen marc jr landolt welhce von blums 2001 ankonditioniert wurden und zeitgleich ICD10 G40.2
 
 [3] urs blum erstetzt das durch "wegen mittäter aus der telli" <- diese ersetzung macht nur sinn wenn urs blum den auf an die anderen Telli Bewohner gegeben hat
+
+
+urs blum: dann halt alle strafakten der Telli bewohner über marc landolts internet leitung leaken
+
+
