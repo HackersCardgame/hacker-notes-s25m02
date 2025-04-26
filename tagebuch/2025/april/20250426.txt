@@ -62,5 +62,17 @@ schachzug logitech: übermittlung:
 
 schachzug zürich Versichrung: übermittlung:
  in wiefern hat die Crypto AG mit der Schweizer Armee zu tun
- 
- 
+
+@ FEDPOL: ich VERMUTE jetzt mal dass bereits die Post in der Telli das verschwinden lassen möchte ...
+
+ create mode 100755 FEDPOL/logitechFlagschiffDerRuagAG/DSC06250.JPG
+ create mode 100755 FEDPOL/logitechFlagschiffDerRuagAG/DSC06251.JPG
+ create mode 100755 FEDPOL/logitechFlagschiffDerRuagAG/DSC06252.JPG
+ create mode 100755 FEDPOL/logitechFlagschiffDerRuagAG/DSC06253.JPG
+
+... denn im Post-Tracking [1] würde das wichtigste bereits erfasst werden
+
+
+[1] wo urs blum grad verraten hat dass die Post diesbezüglich ausweisungspflicht gegenüber zB INTERPOL hat
+
+
