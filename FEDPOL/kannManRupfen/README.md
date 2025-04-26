@@ -24,4 +24,10 @@ loop
 {
   sprengfallendrohung gegen ganz aarau ein 
   (was vermutlich der Verkaufshypnose dient)
+}
+
+schädelverletzung gegen marc jr landolt aktiviert wordne: urs blum besietzt somit in der telli einen terroristen welcher die anderen täter in der telli vor dm leak schürtz in dem marc jr landolt schädelverletzungen verübt werdne
+
+rechtlich gilt das als straftatbestand versuchter mord und dieser mensch hat jetzt den straffälligen tellianer keinen gefallen getan, weil zusätzlich auf deren strafakte kommt "behilfe und nutzniesser an mordversuch"
+
 
