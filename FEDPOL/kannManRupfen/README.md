@@ -61,5 +61,6 @@ mit der Sprengstoff Drohnung durch urs blum wurde gespammt:
 
 dominik brändli: es ist somit naheliegend dass urs blum den Befehl gegeben hat den Michael Boeringer zum Amokläufer abzurichten
 
+jemand will jetzt mehr und mehr täter hier auflisten ... also die mächtigsten täter sind bereits in diesem Dokument erwähnt worden und die epresserdatenbank der zürich vericherung versucht jetzt tiefrangigere terroristen von urs blum seinem terrornetzwerk einzufügen
 
 
