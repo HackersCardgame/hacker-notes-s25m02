@@ -94,3 +94,8 @@ also die Zürich Versicherung gibt vor wer geruppft [1] wird
 also die Zürich Versicherung gibt vor wer geruppft [1] wird
 also die Zürich Versicherung gibt vor wer geruppft [1] wird
 also die Zürich Versicherung gibt vor wer geruppft [1] wird
+
+
+dann sobald ich das auf der post abgegeben habe wurde das als "obsolet" markiert von galaxus.ch
+
+
