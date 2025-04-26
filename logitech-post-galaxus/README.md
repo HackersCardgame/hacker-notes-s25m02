@@ -23,3 +23,7 @@ To github.com:HackersCardGame/hacker-notes-s25m02.git
 Korrektur:
 bzw. ware es 2 fälle, dann hab ich auf den falschen geklickt und der richtige fall war im GUI oder auf meinem Sehzentrum gesperrt (das mit der selektiven Blindheit hab ich schon öfters protokolliert, das ist nihct das auge vermute cih sondern eher im Sehzenturm)
 
+also viel random und "zusatz level" und "zusatz mögliche Täter einfügen" wäre allenfalls auch ein inidiz für vorsatzt
+
+
+
