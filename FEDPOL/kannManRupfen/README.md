@@ -36,4 +36,12 @@ urs blum, philipp blum, david utz ...
 
 ... aber auch ruedi müller damals bevor marc jr landolt im rombachtäli gewohnt hat haben sprengstoff in im Rombachtäli gelegt
 
-den unterschichtgebieten paltziert und der zeitungsartikel ist eine terrordrohung gegen die untershcicht
+den unterschichtgebieten paltziert und der zeitungsartikel ist eine terrordrohung gegen die untershcich
+
+internetleitujng sabotiert
+
+auftragsausgabe an walter briggger die Aussgae zu zensieren:
+
+ein hobby der oberschicht ist es sprengstoff in den unterschicht gebeiten zu lege
+
+
