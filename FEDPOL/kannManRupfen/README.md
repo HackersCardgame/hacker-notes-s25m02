@@ -45,3 +45,7 @@ auftragsausgabe an walter briggger die Aussgae zu zensieren:
 ein hobby der oberschicht ist es sprengstoff in den unterschicht gebeiten zu lege
 
 
+@ FEDPOL: gerne personal diesen fall übernhemen welche mindesetns eine sprengstoffausbildung haben
+
+
+
