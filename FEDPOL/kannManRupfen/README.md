@@ -69,4 +69,11 @@ Zellenblöcke Neuenbuergerstrasse 5-7 in den amoklauf schalten bis das dokument 
 
 urs blum händigt waffen und sprengstoff an häftlinge aus
 
+das sagt ja chatgpt was ich gar nicht wusste:
+
+verischrungen bekommen oft zugriff auf gerichtsdokumente, somit bekommen die Anwälte von versichrungen auch zugriff auf haftanstalten, uhaft, oder menschen die von der polizei als verdächtige (red flag) überwacht werden.
+
+dieser überwahcungskanal der zürich versicherung ist nicht nur lesend, und mit nur 10% von häftlingen oder zu überwachenden UND einem Befehlskanal kann urs blum ganze quartiere in die luft sprengen lassen
+
+
 
