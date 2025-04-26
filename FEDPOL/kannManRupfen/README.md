@@ -75,5 +75,10 @@ verischrungen bekommen oft zugriff auf gerichtsdokumente, somit bekommen die Anw
 
 dieser überwahcungskanal der zürich versicherung ist nicht nur lesend, und mit nur 10% von häftlingen oder zu überwachenden UND einem Befehlskanal kann urs blum ganze quartiere in die luft sprengen lassen
 
+Tremp hat sendenfrastruktur um Logitech Funktastaturen zu sabotieren und versucht grad diese aussage abzufangen, logitech hat nur wenige meter sendereichweite was ein weiteres indiz ist
+
+
+
+als tremp mich in der waschküche verfolgt hat, 3x wo ich mir mühe gegeben habe einfach konflikten auszuweichen und dann halt mehr aufwnad und zeit habe dafür keinen konflikt mit der tremp oder als sie wie eine furie an meine haustüre gehämmert hat das waren somit liqidations-befehle oder "virutelle heads-shot befehel" der Zürich versicherung
 
 
