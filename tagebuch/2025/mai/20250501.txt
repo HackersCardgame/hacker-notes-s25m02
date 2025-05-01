@@ -12,3 +12,12 @@ herr offizier urs blum baut sein implantate-Terrornetzwerk jeden tag (bzw. jede 
 dann gehe ich davon aus dass die Schweizer armee mit dem glücksspiel-gesetz dinge macht wie drucker-firmware austauschen mit solcher welche zensur funktion hat oder eine funktion menschen bei wichtigen drucken in den suizid oder amoklauf zu triggern
 
 drucker macht ein update, aber die versionsnummer belibt unverändert
+
+BUG_REPORTs/macht-update-versions-nummer-nach-update-unveraendert.png
+
+dann aber wenn man das update nochmals durchlaufen lässt ändert sich auch die versionsnummer
+
+
+also die schweizer armee fügt so wirst case "Search-to-Exploit"-Fallen ein. und offiziere welche nicht gut in englisch wären würden sich freuen "hahaha den zeugen explodieren lassen
+
+[LOCK: massenamoklauf durch purs blum aktiviewrt worden]
