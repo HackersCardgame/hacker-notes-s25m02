@@ -1,0 +1,26 @@
+13:01
+
+marc@debian:~/hacker-notes-s25m02$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+
+
+also aus irgend einem Grund hätte urs blum bereits ca 1997 beschlossen mich und meine halbe oder ganze familie abzuschlachten ...
+
+WESHALB ??? ich war damals kaum 20 Jahre alt.
+
+Weiss da jemand mehr ???
+
+
+marc@debian:~/hacker-notes-s25m02$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+
