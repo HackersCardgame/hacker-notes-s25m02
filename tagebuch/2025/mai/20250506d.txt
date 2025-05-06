@@ -88,5 +88,7 @@ der datenträger scheint auch zerstört zu werden, die daten wären weg (wenn ma
 
 zerstörung des datenträgers und eine clustersprengfalle für alle zugreifbaren anderen geräte als abelnkungsmanöver => impliziert vorbereitung => vorbereitung impliziert vorsatz
 
+es sind alle virutellen maschinen welche virtmanager abstürzen lassen, also das ist auf dem host selber
+
 
 
