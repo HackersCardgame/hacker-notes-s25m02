@@ -92,5 +92,15 @@ es sind alle virutellen maschinen welche virtmanager abstürzen lassen, also das
 
 und das spricht dann auch wieder eher für etwas wie intel hardware backdoors
 
+15:39:
+philipp blum welcher mir gegenüber unaufgefordert ausgesagt hat "hahaha wir gehen / wir haben einen computer gespengt" hätte vorsätzlich eine falsche spur gelegt um zu verschleiern dass die Täterschaft den computer nie ganz zerstört, sondern malware darauf lädt welche den zeugen in den suizid oder amoklauf treibt
+
+* fälle zuger attentat?
+* fälle hapte avaya
+* fälle michael boerigner
+* fälle feuerwehrmann gautschi
+
+---> nur dass grad niemand von denen an einem comptuer war heisst nicht, dass das nicht die selbe software des selben herstellers ist
+
 
 
