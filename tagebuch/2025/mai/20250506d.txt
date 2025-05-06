@@ -90,5 +90,7 @@ zerstörung des datenträgers und eine clustersprengfalle für alle zugreifbaren
 
 es sind alle virutellen maschinen welche virtmanager abstürzen lassen, also das ist auf dem host selber
 
+und das spricht dann auch wieder eher für etwas wie intel hardware backdoors
+
 
 
