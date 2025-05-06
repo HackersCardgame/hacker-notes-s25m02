@@ -133,4 +133,6 @@ ich geh jetzt mal pennen und schaue ob das ein persistenter bug ist
 
 audio ist rückkanal für die täter, deshalb wurde der logitech kopfhörer mit logitech hardware backdoors sabotiert, dann fallback solution auf funkkopfhörer für den TV
 
+auch die midi steuerung für mixxx scheint sabotiert worden zu sein, das wäre ein weiteres indiz für etwas was auf der Southbridge hock wo afaik usb dran angeschlossen ist...
+
 
