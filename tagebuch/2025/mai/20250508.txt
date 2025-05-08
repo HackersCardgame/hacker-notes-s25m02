@@ -100,3 +100,30 @@ somit hat dominik brändli grad [8] die kompromat-daten zu vergewaltigungen durc
 [8] unbekannt will an dieser stelle die ganze aussage abfangen mit "wenn hier jetzt nicht mutmasslcih eingefügt wird verhaften wir dich wegen verleumdnung marc jr landolt"
 
 
+marc@debian:~/hacker-notes-s25m02$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+
+
+dann wird wieder mit ICD10 G40.2 auf mich eingewirkt, priorisiert werden [1] sollte:
+                                                      ===========
+* Anwaltilch begleiteter Rechtsbruch durch Polizisten
+* Parallel Struktur in der Justiz im Kanton Aargau mutmasslich aufgebaut worden durch die Zürich Versichrung und die Universität zürich
+
+marc@debian:~/hacker-notes-s25m02$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+
+
+
+[1] Thu May  8 13:55:18 CEST 2025
+zeitgleich telegram message und der herr 1-2 stockwerke weiter oben mit bohrhammer
+
