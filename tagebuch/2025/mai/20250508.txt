@@ -113,6 +113,7 @@ dann wird wieder mit ICD10 G40.2 auf mich eingewirkt, priorisiert werden [1] sol
                                                       ===========
 * Anwaltilch begleiteter Rechtsbruch durch Polizisten
 * Parallel Struktur in der Justiz im Kanton Aargau mutmasslich aufgebaut worden durch die Zürich Versichrung und die Universität zürich
+  ===============================
 
 marc@debian:~/hacker-notes-s25m02$ figlet FEDPOL
  _____ _____ ____  ____   ___  _     
@@ -133,5 +134,5 @@ dass das grad jetzt wieder anfängt mit dem bohrhammer, grad an dieser stelle im
 
 * Universität Zürich und die Zürich Versichrung aus dem Fokus von rechtschaffende Ermittlungsbehörden halten
 
-
+dann wird versucth mit der telegram meldung zu verhidnern dass ich den git commit grad mache
 
