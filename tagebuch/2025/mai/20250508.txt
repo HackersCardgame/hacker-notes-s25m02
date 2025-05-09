@@ -224,7 +224,7 @@ dann wird wieder mit ICD10 G40.2 auf mich eingewirkt, priorisiert werden [1] sol
 * Parallel Struktur in der Justiz im Kanton Aargau mutmasslich aufgebaut worden durch die Zürich Versichrung und die Universität zürich
   ===============================
   
-  HINZUGEFÜGT WORDEN: " Fall Hapte Avaya und FEDPOL XPLAIN Breach gehören zusammen "
+  HINZUGEFÜGT WORDEN: " Fall Hapte Aövaya und FEDPOL XPLAIN Breach gehören zusammen "
 * Nicht komplett auszuschliessen dass Pfisterer mit dem FEDPOL XPLAIN Breach zu tun hat und es Pfisterer um Brainjacking an Diplomaten geht
 
 marc@debian:~/hacker-notes-s25m02$ figlet FEDPOL
