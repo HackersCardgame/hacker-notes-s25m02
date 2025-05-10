@@ -1,0 +1,9 @@
+STREAM: Hr. Laube habe geren sollbruchstellen
+
+Reflexionsebene
+
++
+einfacher abschuss bei ¬abs(n)
+
+-
+keine Stabilität?

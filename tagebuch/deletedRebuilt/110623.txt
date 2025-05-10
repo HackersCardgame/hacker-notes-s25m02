@@ -1,0 +1,208 @@
+Tagebuch Do 23 Jun 2011 21:02:03 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+
+Fieses überwachungskonzept
+
+Elektrotechniker  (nachträglich in den sinn gekommen)
+|
+V
+Informatiker      (nachträglich in den sinn gekommen)
+|
+v
+Psychiater  (allenfalls informatik und elektrotechnik skills eingebaut, one System, stud personal sigma)
+|       |Anfüttern von Sünden a) als test um zu lernen diese nicht zu nehmen  b) um den arbeiter ins matt zu stellen
+v       |
+Anwalt  |Generiert Backlog (weiss ev. nichts von den Psychiaterskills) hat somit eine liste von straftaten die er dem arbeiter vor die nase halten kann um diesen Finanziell produktiv zu halten
+|       |
+v       v
+Arbeiter   <-- macht über arbeiter a) gutling -> straftaat b) evil -> allenfalls nutzbar um ihn von der dunkeln seite der macht auf die helle seite der macht zu ziehen
+
+Konzept verstösst gegen diverse Gesetze  ->dennoch scheint dies auf meine Person angewandt zu werden / worden zu sein
+
+überwachung
+a) plump mit dem computer
+b) überwachungsdisplay nur auf dem Visuellen kortex mit dem nadelarray chip im sehzentrum oder dem nipkow resonanzkeim im sehzentrum
+
+stimme: das mache marc torretti illegalerweise und deshalb begehe er jetzt einen suizidversuch
+ich: bin prinzipiell gegen gewalt
+
+system.trace(suizidanfütterer)
+
+ich solle aufhören zu schreiben, das werde nur schlimmer so
+->ich kann nihct, ich werde gefoltert wenn ich nicht schreibe
+
+
+eine russische stimme sagt: ich könne aufhören zu schreiben, man werde die die mich peinigen mit einer schweren krankheit belegen solange bis sie mich nicht mehr zwingen, dumont
+->stimme: das hätte bei marc torretti nichts gebracht, der fuchtle immer noch mit der maus herum und besuche exploit seiten
+
+ich: ich sehe keinen lösungsansatz
+
+wenn das stimmt:
+1. warum fuchtelt er
+ a) schmerz
+ b) gier
+ c) seine geschichte erzählen
+ d) respektlosigkeit
+ e) geheimdienst/mafia auftrag und er hat dem system 
+  i) aus versehen
+  ii) absichtlich 
+  seine seele verkauft
+ e) weiteres...
+
+
+resultierendes:
+-der arbeiter kann paranoja entwickeln
+  =>kosten für krankenkasse
+  =>a)auftrag für psychiater
+  =>b)sorgen für psychiater
+
+Motiv:
+überlebenstrieb nach dem man einen fehler begangen hat <- anwalt klagt fröhlich weiter, angeklagter oder kläger begeht mord/selbstmord
+=>justizsystem allenfalls recht kontraproduktiv, finde christlichen ansatz von nächstenliebe und helfen besser
+wild stimme: eben
+->er meine damit das mail von mir an die rechtsschutz
+->reakton auf existenzangst weil diversemale verbal und nonverbal die kündigung angedroht wurde, nerophon, ich bin arm, kündigung bedeutet allfälliger tod durch suizid, deshalb habe ich reagiert
+==>ausserdem bin ich nicht der meinung, dass man einem mitarbeiter immer mit kündigung drohen muss oder soll, oder dass man die unterste schicht der mitarbeiter gegeneinander ausspielen sollte
+
+ich: dann möchte ich wissen wer meine überwachung bei ziknet genehmigt hat
+stimme: strebel, eth
+ich: folglich missbrauch der berechtigung
+
+ABSTRAKT
+überwachungsmöglihckeit werde immer missbraucht
+1. geheimbewilligung zur überwachung <- schon mal sündig da mitzumachen, besser mit dem individuum genug lang reden bis man sicher ist mit ihm eineindeutige kommunikation zu haben
+2. überwachung fliegt so leicht auf, man ist aber zu geheimhaltung verpflichtet
+3. man muss die geheimhaltung am leben halten, sonst verstösst man gegen vertragliche abmachung
+4. man greift allenfalls zu illegalen mitteln (Mental dDoS Attack etc.)
+5. man geht ins matt
+END ABSTRAKT
+
+Rollentausch (danke an die FHA für das Zauberwort: rollenflexiblität)
+
+irgend ein hacker problem
++eine offesichtlich verdächtige person <- pfisterer stimme: blöd anzunehmen, dass ein pro hacker gleich so auffällig ist
+request for survillance
+der richtige hacker biegt die beweise so hin dann hat man einen täter, wärend man ihm kündigt, geht man ein bisschen diskreter vor als eben der hacker und bleibt eine weile still, der gehackte wiegt sich in sicherheit
+non hardened windows systems: nach 100Minuten im freine netz gehackt, linux/unix systeme nach 1800Minuten gehackt <- genaue quelle ITS vorlesung FFHS, potenzielle täter: 1Milliarde menschen, warscheinlichkeit dass es der
+Mitarbeiter ist der sich für dieses fachgebiet interessiert und das nciht verheimlicht, klein
+
+gegenmassnahmen: system hardenen, verschiedene zonen, lan, dmz...
+->aufwand nutzen, steigt exponential: quelle: meine meinung
+
+=>allenfalls wurde ich auch einer Mental dDoS attacke unterzogen, weil mir unstimmigkeiten im netz aufgefallen sind, und wenn dieses netz von hackern besetzt ist, müsste man dafür sorgen, dass man mich schnellst möglichst
+unglaubwürdig macht und loswird, ev. sogar verklagt, angriff beste verteidigung.
+
+=>Projektion auf aktuelle situation, now consulting
+meiner meinung gibt es auch unstimmigkeiten
+meiner meinung ist es im interesse des schweizer volkes, wenn eine firma wie die now consulting, welche an sehr vielne orten logins, zugriffe und installierte software hat (auch beim bund) dass diese firma 
+keine malware vertreibt
+
+Massnahmen:
+c^4 assessment
+netzwerk monitoring
+aufklären was die SIP denial of services sind welche im sekundentakt im netz herumgeistern -> bin ich noch zu wenig profi, ergo spezialisierte firma
+->einzig legaler weg wäre wohl, wenn ich das dem chef sagen würde, dass er doch mal die c^4 firma anstelld und die mal die snort logs ansieht etc
+-Trennung privates und geschäftliches netz
+ =>schon mal darauf hingewiesen, Wirtschaftlihcer nutzen? ->klage abwenden bei grösserem schaden
+
+pfisterer stimme: ob ich vor gericht bezeugen würde dass ich auf sicherheitsmängel hingewiesen hätte
+=>ich: nciht gerade lösungsorientiert
+stimme: doch eben schon
+=>stimme: damit drohe man im normalfall damit eine schlechte ist situation in eine gute soll situation übergeführt werden könne
+
+ich: leicht sarkastisch, das stellt das konzept ganz oben in diesem tagebucheintrag komplett auf den kopf
+
+
+wenn effektiv was faul ist in dem netz, mögliche motive:
+SafeCom, da geht es um sicherheit, das installiert man wenn man heikle daten schützen will, mögliche institutionen wie geheimdienste / mafia würden das allenfalls früher oder später merken und zielgerichtet
+gegen nowcon vorgehen um das kleine firmennetz zu rooten
+
+counter measures:
+1) schweizer legaler geheimdienst mit bewilligung rootet es zuerst
+2) firma schliessen
+3) weiteres
+
+
+
+zettel blabla:
+allfälliges motiv meiner verklagung auf L8 sei zu schauen wie weit er seine mitarbeiter ausbeuten kann, wie der herr rompietti (hören sagen)
+
+
+stimme:
+M$ böte mir eine 
+a) mitgliedschaft
+b) bestechung an
+->ich mag kein closed source, wenn eine vertrauenswürdige schweizer institution den kompletten source bekommt und die cd's in der schweiz / für die schweiz selber kompillieren kann kann man allenfalls darüber reden
+
+reandbemerkung: man müsste einige tausend programmierer haben, die jeweils einen teil des codes im aktiven gedächtnis haben
+
+zettel heul:
+ich sei nur ein auftrag von claudine gewesen für das schweizer militär -> sowas bringt mich auch heute noch ins grab
+=>das ist/wäre komplett daneben und eine gott verdammte schweinerei
+stimme: und sexualdispositiv und eine straftat
+
+weitere ausarbeitung dieses patterns:
+claudine sei terroristin
+CAPI2 <- irgend in einem log
+
+meine reaktion eher kriegerisch -> rootet dieses verdammte militär wenn sie über leichen gehen
+->und ja natürlich ohne tote
+
+
+zettel: wieder mal mit failnui ein BF zokken
+
+zettel:
+Installation IDS hat lange gedauert
+->allenfalls sollte ich das wie RIG handhaben und überwachungssystem und IDS gleich am ersten tag installieren, was aber nicht ganz einfach wäre solange man die infrastruktur nicht kennt und die passwörter
+nicht hat
+
+
+->ausserdem hält mich irgend ein Mind dDoS von solchem eigentlihc nützlichem ab
+
+
+
+
+
+Do 23 Jun 2011 22:42:15 CEST
+randbemerkung
+katze von frau reinhard: 1
+maus: 0
+->wollte sie abhalten vom morden, aber sie hat sich mit der maus verdrückt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

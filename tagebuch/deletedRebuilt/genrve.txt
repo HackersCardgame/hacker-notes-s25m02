@@ -1,0 +1,40 @@
+@UPC_Switzerland
+ach nö,nicht noch mehr virtuelle Untote[BILD] mit Schamanischem Interface in meinem D-Raum(Daniel Surez Daemon/Darknet)
+1/
+
+@UPC_Switzerland
+...also das geht grundsätzlich bei @UPC_Switzerland? Um es geschwollen um zu formulieren "die Primären Netzebenen" [1]
+2/
+
+@UPC_Switzerland
+[1] http://marclandolt.ch/doc/KoaxialeAnlagen0.5.7.pdf#page=9 
+
+sind also nicht isolierte Segmente, 
+3/
+
+@UPC_Switzerland
+sondern auf der Ebene der authorization [2] alle gleich bereichtigt
+[2] https://de.wikipedia.org/wiki/Triple-A-System
+4/
+
+@UPC_Switzerland
+und nicht gegenseitig isoliert (isolierte CMTS Zonen)?
+
+<redeschwall> (klassischer RANT im Fachgebiet des Spezialisten)
+5/
+@UPC_Switzerland
+
+. womit sie dann auch irgendwie sagen, dass es wohl mindestens einen Single Point of Failure (der Provisioning-Server) [BILD]
+6/
+@UPC_Switzerland
+. gibt bei UPC in der schweiz und /suggeriert/ ausserdem, dass die Modem nicht Autonom ihre Position melden würden
+7/
+@UPC_Switzerland
+. oder über Laufzeitversichebungen auf dem QAM64 [BILD] in Strecken ungefähre Position errechnen könn(t)en™?
+8/
+@UPC_Switzerland
+. also würde der NSA auf dem Management Netzwerk hocken, kann er jeden UPS Kunden nach belieben targeten?
+
+</redeschwall>
+9/
+

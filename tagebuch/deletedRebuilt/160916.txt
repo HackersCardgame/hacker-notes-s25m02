@@ -1,0 +1,190 @@
+Tagebuch Fri Sep 16 22:00:35 CEST 2016 @
+
+Schachnovelle Teil 2 ( die PC Variante )
+<mansplain>
+
+tagebuch modus, auch wenn eigentlich alle anderen mieter immer noch in zimmerlautstärke reden, aber mir wird ja sonst wieder der 
+nachtruhe-terrorist angehängt selbst wenn ich in halber zimmerlautstärke rede...
+
+marc jr lanodlt ist komplett geräuschlos...
+
+
+Tagebuch Fri Sep 16 22:13:17 CEST 2016 @
+
+Schachnovelle Teil 2 ( die PC Variante )
+<mansplain>
+
+gebuch Fri Sep 16 22:00:35 CEST 2016 @
+
+Schachnovelle Teil 2 ( die PC Variante )
+<mansplain>
+
+tagebuch modus, auch wenn eigentlich alle anderen mieter immer noch in zimmerlautstärke reden, aber mir wird ja sonst wieder der
+nachtruhe-terrorist angehängt selbst wenn ich in halber zimmerlautstärke rede...
+
+marc jr lanodlt ist komplett geräuschlos...
+
+dann der generalisierungsgradient mit der briefkasten sprengfalle die es immer in mienem briefkasten einblendet wenn ich 3m oder häher am briefkasten
+bin / drauf schaue (augmented reality) oder die virtuelle "email"-sprengfallen wäre
+
+GENERALISIERUNGS-GRADIENT: Einkommende Messages => vermeidungsverhalten erzeugen infromationen entgegen zu nehmen und zu verarbeiten
+
+also so irgendwie den cpu vom daten/address/steuerbus abtrennen weil er zu schnell die antworten errechnet?
+
+irgendwer:
+technische implementierung:
+jedes 10 mail blendet auf dem wo2005055579A1 ein bild des briefkastens
+ein und aktiviert das actvie denial system
+=>icedove oder schlüsselwort im betriebssystem / CPU selber (IntelME?)?
+
+generalisiert wird es ausserdem auf papier im generellen, auf das verarbeiten
+von notizen / papier etc...
+
+Linux debian 3.16.0-4-amd64 #1 SMP Debian 3.16.36-1+deb8u1 (2016-09-03) x86_64 GNU/Linux
+
+acer i/ E1-771
+
+[01;31m*[00m No device configured for user "marc".
+Get:1 http://security.debian.org jessie/updates InRelease [63.1 kB]
+Get:2 http://security.debian.org jessie/updates/main Sources [161 kB]
+Ign http://httpredir.debian.org jessie InRelease
+Get:3 http://security.debian.org jessie/updates/contrib Sources [1,439 B]
+Get:4 http://httpredir.debian.org jessie-updates InRelease [142 kB]
+Get:5 http://security.debian.org jessie/updates/main amd64 Packages [304 kB]
+Hit http://httpredir.debian.org jessie Release.gpg
+Get:6 http://security.debian.org jessie/updates/contrib amd64 Packages [2,506 B]
+Get:7 http://security.debian.org jessie/updates/contrib Translation-en [1,211 B]
+Hit http://httpredir.debian.org jessie Release
+Get:8 http://security.debian.org jessie/updates/main Translation-en [162 kB]
+Get:9 http://httpredir.debian.org jessie-updates/main Sources [15.5 kB]
+Get:10 http://httpredir.debian.org jessie-updates/contrib Sources [32 B]
+Get:11 http://httpredir.debian.org jessie-updates/main amd64 Packages/DiffIndex [5,440 B]
+Get:12 http://httpredir.debian.org jessie-updates/contrib amd64 Packages [32 B]
+Get:13 http://httpredir.debian.org jessie-updates/contrib Translation-en [14 B]
+Get:14 http://httpredir.debian.org jessie-updates/main Translation-en/DiffIndex [2,704 B]
+Hit http://httpredir.debian.org jessie/main Sources
+Hit http://httpredir.debian.org jessie/contrib Sources
+Hit http://httpredir.debian.org jessie/main amd64 Packages
+Hit http://httpredir.debian.org jessie/contrib amd64 Packages
+Hit http://httpredir.debian.org jessie/contrib Translation-en
+Hit http://httpredir.debian.org jessie/main Translation-en
+Fetched 861 kB in 3s (221 kB/s)
+Reading package lists...
+Reading package lists...
+Building dependency tree...
+Reading state information...
+The following packages will be upgraded:
+  chromium libmysqlclient18 mysql-common
+3 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+Need to get 42.7 MB of archives.
+After this operation, 7,168 B disk space will be freed.
+Do you want to continue? [Y/n] Get:1 http://security.debian.org/ jessie/updates/main mysql-common all 5.5.52-0+deb8u1 [80.1 kB]
+Get:2 http://security.debian.org/ jessie/updates/main libmysqlclient18 amd64 5.5.52-0+deb8u1 [674 kB]
+Get:3 http://security.debian.org/ jessie/updates/main chromium amd64 53.0.2785.113-1~deb8u1 [42.0 MB]
+
+
+Fri Sep 17 22:12:37 CEST 2016
+dann ist wochenende, es wäre zu erwarten dass einer der 1950er geisteskranken
+wieder kinder bedroht und sich so einen root account erpresst
+
+empfehlung: erhöhte wachsamkeit der wachschäfchen 
+
+nö das schreibe ich weil es schon hunderte male so war... und 
+wir davon ausgehen müssen, dass wenn die 1950er pädo sind diese auch
+dekadent somit unflexibel sind und somit immer wieder die selben 
+angriffsvektoren "benutzen" werden...
+
+
+Fri Sep 16 22:17:38 CEST 2016
+marc jr landolt macht sich jetzt einen pulver kaffe, wir hoffen das ist kein
+grund für eine kündingungs-terror-androhung...
+
+
+Fri Sep 16 22:23:19 CEST 2016
+die haben jetzt angefange bei freundlichen gedanken an marcel rüegg
+(eeg, stimoceiver/openBCI PatternRecognition) automatisierten marcel rüegg
+belastenden spam einzuspeisen... also satan hat etwas gegen "benutze (alleged) russiges gleichaltriges mit virtuellem bleichmittel" damit es wieder weiss wird
+
+satan will vermutlcih nicht dass es mehr weisse schäfchen gibt die
+nciht mehr über den russ fremdsteuerbar sind?
+
+
+Fri Sep 16 22:40:01 CEST 2016
+
+Fri Sep 16 22:40:27 CEST 2016
+
+
+Fri Sep 16 22:57:47 CEST 2016
+irgendwer: ist mal klar dass die 1980er sündenböcke waren
+und der marc jr landolt war bei abb wo 4Mia "abflossen"
+und der kollege von marc jr war bei ubs/alsoComsyt wo 8Mia abflossen
+=> dann wäre das problem dann vermutlcih eine stufe höher, denn marc jr
+landolt hatte nicht mit der ubs zu tun auch war er nie im also oder im
+bank >julius bär< gebäude....
+
+ausserdem finden wir nirgends die 12Mia die marc jr landolt geraubt haben
+soll, also seine mindestens 5 luxus jachten etc...
+
+
+
+Fri Sep 16 22:59:57 CEST 2016
+marc jr ladnolt gröhlt liese
+vermutlich aus dme erfolgsgefühl die 5 jachten unauffindbar im bermuda dreieck versteckt zu haben....
+
+
+
+Fri Sep 16 23:20:21 CEST 2016
+cyber attacke, server rebooten, cyberattacke....
+Suicide Death Bot gegen Marc jr Landolt aktiviert worden, Kontext der Vergewaltigung durch Blums, WaltermerzWeg6 Aarau, 2002 nach dem
+(1/2)
+ MarcJr nach Entdeckungen bei ABB von Astrid B "zufällig" passend auf PsyProfil eines autistischen Nerd mit Computerkurs angelockt wurde
+(2/2)
+
+
+da wäre zu erwarten, dass astrid und urs blum schon relativ mti dem rücken
+an der wand stehen oder dass z.B. der cia die schmiergelder zurück fordert
+denn das cAPI zu verwenden führt eineindeutig zu blums und zur pfadi adler 
+aarau...
+
+sieht aus als ob das erste active denial system deaktiviert wurde
+TNX
+
+
+responsible disclosure
+philipp blum scheint vom verhalten her ein "fork" von patrick maurer zu sein
+-sprache
+-bewegungsmuster
+-körperbau
+... => GIT Repo irgendwo in der pfadi adler aarau
+
+also das A-TEAM (4er gruppe) wurde irgendwie als rotherdam-terror-core 
+re-instsanziert?
+
+hiesse der philipp blum hätte z.B. auch im OXA verkerhrt....
+
+war es da an der energy wirklich der >philipp< im VIP bereich im mainfloor vorne rechts...?
+
+immer noch responsible disclosure
+und hat dominik landolt an der galay party aarau allenfalls auch zeugs geschmissen oder wurde ihm etwas verabreicht?
+
+STATDARD-FEHLER: allenfalls warens bei den 2 einfach auch nur plazebos
+und es LANKT VOM GIT REPOSITORY zur Telemetrie, Verhalten von Patrick Maurer und Philipp Blum ab....!!!!!!!!
+
+
+nö so weit ich marc jr landolt weiss bin ich weiterhin komplett geräuschlos 
+und so weit ich sehen kann alleine in meiner wohnung...
+
+ausserdem mach ich immer wenn ich frauen vergewaltige die ich nicht wirklich
+kenne tagebuch einträge on dhe fly und backups... </zynismus>
+
+Schmerz implantat bei marc jr landolt rechter eck oder schneidezahn oben&&unten aktiviert worden...
+Fri Sep 16 23:34 CEST 2016
+
+
+also der obama wäre eine cia drohung
+irgendwer: ein präsident in amerika ist ein besserer statist => google bilder suche "obama techno party"
+
+und jetzt loopt es permanent "bush: i messed up everything, but thank you for blaming the black guy" => doppelt umgekehrte psychologie => 
+da würde dann der bush den hanbial lecter award für "so einfach kann es ja nicht sein" gewinnen...
+
+

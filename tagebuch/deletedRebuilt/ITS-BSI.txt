@@ -1,0 +1,174 @@
+
+
+------------------
+1. datensicherheit
+------------------
+
+privat:
+versucht mal all meine sicherheitskopien zu bekommen...
+->ich denke privat würde auch kevin mitnik nicht all meine kopien in die finger bekommen
+
+
+geschäft:
+noch nicht so super
+
+
+->ich mach mir immer sorgen um die kosten
+wenn geld keine rolle spielt hätte ich gerne ein zweites bandlaufwerk und irgendwo (z.B. im lager) einen offline computer
+1. sichern in der firma auf band
+2. ins offline netz einspeisen und kurz ein paar dateine überprüfen und checksummen md5deep diff
+3. das band in einen safe oder ins bankschliessfach
+->dann könnte man allenfalls auch kevin mitnik einladen...
+
+im moment würde das angriffszenario so aussehen
+ins netz eindringen, z.B. internet explorer 0-day exploit, dann sind alle domainadmins also kann man sich das root exploit sparen
+gemäss bastard operator from hell vorgehen
+
+mäni stimme: ich müsse ja nicht gleich kevin mitnik als whrist case szenario annehmen
+
+
+------------------
+2. virenbefall
+------------------
+
+privat:
+virenscanner auf desktop mac
+
+kein virenscanner auf linux
+->question: ich weiss dass es auch viren gibt, aber man sagt, die seine spährlich, wie sieht es wirklich aus?
+
+-shellscript viren
+meist nur software aus dem debian repository
+wenn shell dinge übernommen werden mach ich einen review
+
+-perl script
+dito
+
+produkt zenoss, virtualbox 4.0 und der nvidia grafikkartentreiber sind meines wissens die einzigen fremdkörper
+=>würden diese firmen viren verteilen wäre es allenfalls auf heise zu lesen.
+
+-----------------------------------
+in zukunft noch md5 sum überprüfen
+-----------------------------------
+
+
+
+-makro viren
+Star office, open office
+ ->verwende ich nicht oder sehr sehr selten
+ =>einmal reicht
+  ->
+
+-elf viren
++kaliv, der sich überall rein kompilliert <- scanner wäre gut, oder gescheites programm, dass die grösse und die md5 werte der wichtigsten systemdateien kennt
+  ->md5 tool modifizieren, wenn bestimmte escapesequenz dann den md5 aus dem virenteil auslesen so wie er früher war
+   ->festplatte mit offlinesystem scannen
+    ->offline system keven mitnik system like rooten
+     ->selbstschussanlage bei offline system installieren, oder alternativ wachpersonal, also selbstschuss anlage... :)
+
+virenscanner + tripwire
+-----------------------
+->tripwire hatte ich mal, wieso ist der wieder geflogen?
+=>ist wieder installiert, hypothese: wenn ich mir das über hostpoint geschickt habe (den repport) weiss der potentielle angreifer das, ev. auf L8 wieder deaktivieren lassen
+
+->ausserdem noch snort installiert 
+=>der war auch wieder weg
+
+windows:
+virenscanner
+->aber viele proprietäre software
+Battlefield
+steam
+->absichtlich sollten sie das nicht einbauen, aber exploits sind vorstellbar, irgendwie auch noch ein game als admin button installiert, wieso eigentlich?
+=>spiel hat keine zugriff auf ping, per desing muss so als administrator gestartet werden, absicht oder haftung entwickler
+
+-------------------------------
+bonuslevel kiner computerspiele
+-------------------------------
+der virenscanner sollte es eigentlich entdecken
+
+aussage avira support: jedes gefundene exemplar wird zum scanner hinzugefügt ->heisst soviel wie, es gibt ungefundene exemplare
+->für den fall dass jemand langfristig zugriff auf einen rechner will muss er
+a) bei jedem virenscanner einen agenten haben
+ a) das aufnehmen des viruses in die datenbank verhindert
+ b) rechtzeitig informiert, dass auf den nächsten unbekannten virus gewechselt werden kann
+b) je eine vm für jeden virenscanner und update im minuten takt, ersichtlich bei betreiber von antivirus update server (stimme: da schickt man dann am besten jemanden vorbei) <- juhui da denkt jemand mit.
+c) bildschirm ocr der virenscanner meldungen erkennt und sich löscht oder seinen nachfolger bestellt
+
+
+Geschäft: virenscanner der häufig mal spinnt
+
+4. ausfall von mir
+privat: gentleman agreement mit stefan ott, meine daten bekommt meine schwester
+
+
+geschäft
+mehrere admins vorhanden
+
+
+5. innentäter
+privat
+->rüegg hat einen schlüssel, meine eltern haben einen schlüssel
+=>ich wollte eine alarmanlage kaufen aber just dann wurde mir der geldhahn abgedreht <-
+->ich könnte die daten verschlüsseln, aber mit z.B. tempest würde man wieder an meinen text kommen. aufwand?
+a) mit schlüssel in meine wohnung gehen
+b) tempest attacke
+
+ich hoffe das vertrauen beruht auf gegenseitigem vertrauen.
+
+
+
+
+
+geschäft
+ich hätte gesagt martin ist der maulwurf, denn er hat zugegeben, dass er eine dll vom virenscanner umbenannt hat.
+
+a) dummheit
+b) unbewusster auftrag neurophon
+c) bewusster auftrag neurophon
+d) reales designpatter mit allfälliger sollbruchstelle des virenscanners
+e) fehlinformation von webseite oder irgend einem techniker / menschen ...
+
+schwöre dass er etwas wie: das könnte ich gewesen sein, gesagt hat.
+
+->weshalb ich nciht der maulwurf sein könne:
+-->ich habe luhmann gelesen, da steht der systemerhalt ist wichtig, system erhatl ist sicheres system
+er ist studiert und weiss es besser und wenn ich über die nichtswissenden einfachen mitarbeiter () motze dann muss ich ja einen dr prof respktieren und das tun was er sagt
+
+und weil ich sonst übelste qualen durchleben müsse
+a) mmm sado maso spiele
+b) L8 security
+
+->auch recht gut fände ich eine überwachung der (metadaten) verbindungsaufbaus von systemen zu anderen systemen, z.b. ein internet wurm könnte so entdeckt werden.
+
+zuständigkeit für it security
+rechtlich haftet der cheff
+
+technisch verantwortlich müsste der mit dem besten geekcode sein
+->sicherheitsvorgaben sollten dokumentiert sein
+==>sicherheitsrichtlinie, gibt es diese vorgefertigt?
+--->da war doch etwas auf moodle
+
+
+7. richtlinien für die mitarbeiter -> technische mittel ev besser
+
+8. ristriktive rechte vergabe
+privat:
+arbeite nur wenn nötig mit damin rechten
+
+
+geschäft
+FAIL: alle domain admin
+
+8. it systeme schlecht konfiguriert
+privat: gehe den fehlermeldungen nach
+->im idealfall keine >warning fehlermeldungen, sonst nachgehen und beheben, braucht viel zeit.
+
+geschäft: hat fehlermeldungen von früher die aufwändig sind "auszubeindeln"
+
+
+
+
+
+
+

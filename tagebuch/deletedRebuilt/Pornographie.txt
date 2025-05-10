@@ -1,0 +1,14 @@
+eigentlich sollte man mal schauen, in wie weit es die beh”rden treiben
+und harte pornographie, die ja unter stgb 197 verboten ist oder so
+herunterladen oder besser noch einen algorithmus schreiben, der suchmaschinen
+spezifisch entsprechende bilder herunterl„dt programmieren und diesen so lange
+laufen lassen bis sich irgendjemand meldet... w„re interessant, in wie fern
+berhaupt daten zwecks auswertung erfasst und verarbeitet werden, projekt
+inwiefern es technisch m”glich w„re an hand von blacklists gekoppelt
+mit einem scanner auf layer 5-7 des iso osi modells so zu m”glichen kandidaten
+von harter-pronographie konsumierenden leuten zu kommen.
+
+TO BE CONTINUED
+
+als spielerei für die justitz müsste man dies natürlich direkt ins /dev/nul herunterladen
+da man sich ja sonst strafbar macht

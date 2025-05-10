@@ -1,0 +1,15 @@
+Tagebuch Fr 4 Mai 2012 14:25:59 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+prime-Zettel.
+Diverse 2003 Server haben probleme, z.B. mit dem Reboot
+-->zentraler punkt könnte das lumention sein, da z.B. der KBxxxxxxx für
+das Remote desktop auf sehr vielen Server nicht eingespielt wurde
+-->der Lumention rote balken sollte auf null und nicht auf 300 fehlende patches sein
+SYSTEM.SENDMESSAGEtoPrimeVision(take the lumention patching serious!!!!)
+
+Re(x): du thomas^2 [kindchenschema] sollte der rote balken da nicht irgendwie auf null sein
+
+
+

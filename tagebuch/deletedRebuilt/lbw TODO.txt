@@ -1,0 +1,16 @@
+Register1 label aufnahme  --> Aufnahmedatum
+
+öffnen, register1.select...
+
+leave auf zahlenfelder trap entfernen, messagebox nur einmal...
+
+alt f4 abfangen
+
+bewertungsstichtag festlegen beim neu ...
+
+letzte bearbeitung.init
+
+
+augenschein "" --> dann auf anderer registerkarte...
+
+Foto Tab

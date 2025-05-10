@@ -1,0 +1,416 @@
+Tagebuch So 31 Jul 2011 12:59:22 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+
+0. Warship   <- der der das ganze anzettelt
+1. Täter
+2. Opfer
+
+
+der 0. startet das ganze
+
+dann geht der täter gegen das opfer und das opfer gegen den täter, somit gibt es ein selbstläufer und 0 kann weiter in ruhe arbeiten
+
+now-zettel:
+einen friedlichen menschen zum terroristen umprogrammieren
+BOFH API, straftäter -> haft
+
+now-zettel:
+Meinrad Baur (L8) sagt ich soll mir mit dem Hammer auf den kopf hauen, +das werde programmiert
+verankerung eines gedankens
+in Re() = problem  => kaltblüteger mord
+
+
+selber zettel: 
+Hierarchisches system hp->safeCom->nowConsulting->Drucker Firmen
+SafeCom sei der terrorist
+
+selber zettel schon mal: COUNT:2
+
+
+now-zettel:
+Voice: "du (also ich) bist nichts wert" + repetition, und tautologien
+BREAKPOINT
+
+
+selber zettel:
+
+       /\
+      /  \ 
+     /    \   Saus und Brauhs
+    /      \
+   __________
+  /          \
+ /            \ Sterben
+/______________\
+
+Misstrauensantrag an IT Landschaft CH
+Misstrauensantrag an BIT  <- keine antwort auf Frage mit Yetnet und FC Aarau
+->mail heinz müller
+
+
+now-zettel:
+switch / Apoc
+->das abhängen eines menschen vom grossen gesammtsystem -> folge, der mensch hat probleme bis allenfalls zum tod
+
+now-zettel:
+the centroid is the problem
+->Meinrad Baur gehört aber auch die firma, er kann machen was er will
+=>ein mitarbeiter erleidet aber körperverletzungen
+
+fokusieren aufs knuddeln -> nicht auf das angreifen und kriegen -> resultierende, viel wengier probleme gesammtschweizerisch
+
+
+  
+ \o  X
+  |\
+ / \ 
+     \
+      \  1. Attack, say it was A
+       \
+        \
+A            B
+ \o/      \o/
+  |  <---  |
+ / \ ---> / \
+
+  A <-vs-> B   Loop until someone of the both gets more wise
+
+anwendbar auf personen aber auch auf systeme (z.B. Länder)
+
+
+
+now-zettel:
+geschlossene ambulant
+-disconnect von meinen stimmen
+-depression ein (serotoninhemmer)
+-anklagen gegen mich ->recht fadenscheinige
+-AI deaktiviert
+
++Tautologien des selbigen
+-Stimme: FFE
+-Wahrheit sei sicherheit
+-ich hätte leute ausgegrenzt
+
+A&O
+Depression bei der Arbeit -> Frustration  -> unproduktiv -> Mehr frustration
+gegenmassnahme, Flow Algorithmus
+
+erkenntnis: ein böses wort von Meinrad Baur bringt mich vom "Human State" Flow in den "Human State" Depression
+->kontraprodutkiv für seine eigene Firma
+==>depression allenfalls auch Endokrin/Elektrochemisch begünstigt
+
+now-zettel
+Neuer Virus
+visual von Claudine mit einem anderen mann zeigen + lachen darüber = Qualen für mich
+-->wenn sie schon einen Anderen hat / hätte, dann müsst ihr es mir nicht noch unter die nase binden
+
+stimme: das sei eine Therapie
+->meine liebe zu claudine ist nicht therapierbar
+
+meine monogame Programmierung müsste man therapieren, wenn man --im fall dass claudine nie mehr zurück kommt-- mir helfen wollte
+1. Konzept: BDSM spiel (Was ist stärker, meine liebe zu claudine oder der gwunder auf BDSM)
+2. Claudine übergibt mich an eine andere frau und ist dabei und gibt mir eine schriftliche erklärung, dass sie mir nie das forwerfen würde wenn ich dann (was ich nicht erwarte --mangeldes selbstvertrauen--)
+   eine andere finden würde
+3. sie sagt mir, ja auch wenn du eine andere hast, bist du in meinem herzen oder bei problemen oder wenn du knuddel brauchst immer willkommen
+
+now-zettel:
+man hätte mich im schachbrett des lebens wieder ein Brett nach weiter oben getan, da ihc schon wieder alles aufgefressen hätte was man hätte fressen können
+
+now-zettel:
+ziel sei nun meine kündigung  -> mäni müsse dies bezahlen <- (steht auf dem zettel) -> wäre aber ein angriff und würde zu gegenreaktionen führen und höchstwarscheinlich wieder mich treffen
+
+Begleitend: depression  ->wieder "Depression -> Flow" skizze
+wieder stimme: Diskriminierende menge mit dem "arbeit verrichten"
+
+DET: Kündigungs design pattern
+
+Motiv sei menschen zu zerstören
+Motiv sei das Kartell zu beschützen
+Motiv sei den Konsum / Kartell Bot zu beschützen
+
+WeCraveSustenance - play psy co
+
+
+WICHTIG
+now-zettel:
+Mattierendes Design Pattern, wenn nicht mitgeschrieben  --> generell alles Mattierend wenn nciht mitgeschrieben --> ich muss beweisen, dass ich unschuldig bin, eigentlihc sollte man doch "in dubio pro reo" gelten lassen
+in dubio pro reo ist gestorben
+
+1. ich stosse auf etwas was eine sicherheitslücke sein könnte in einer applikation von uns (AutoStore) Speicher passworte verschlüsselt, aber man kann sie mit einer software zum passwörter anzeigen hervor holen, nach dem
+   man die configdatei in einen anderen server geladen hat
+
+ Bundesamt für informatik nötigt mich dazu etwas mit einem Xerox Treiber auszuprobieren (und das ist glaub der wichtige zettel der verschwinden sollte)
+  \
+   Now-Consulting  (ich)
+    \
+     Drucker <- gespeicherter ausdruck, passwort geschützt
+ 
+ich wähle damals (massiv atypisch für mich) ein komplett merkwürdiges passwort 27****, ich will ausprobieren, wie die passwortstruktur ist, 1234 wäre für safecom gewesen, somit wäre 27 ganz normal, NEIN, 23456, wäre dann
+meine erste wahl, um den Druckauftrag löschen zu können muss ich so eine software haben, die die verborgenen passworte wieder anzeigt, es wird mit visuals am computer versucht mir das finden einer solchen software
+zu erschweren, es wird dann neurophon behauptet, dass ich so einen virus eingeschleppt hätte
+
+ABSTRAKT informatiker ins matt setzen, PsyCo.
+1. Arbeitsplatz
+2. passwörter geben -> arbeitsplatz ist noch so installiert, wie es der installiert hat der einem in die firma einführt
+3. man solle dies und das installieren -> sollte sicher sein, denn man hält ja den virenscanner aktuell
+4. Virenscanner wird deaktiviert
+5. man kontaktiert den Antiviren hersteller
+6. der findet ncihts
+7. man lässt den mitarbeiter seinen laptop anschliessen -> somit kann man behaupten er hätte einen virus eingeschläust
+ ->der meldet sich aber nicht an der windows domäne an
+8. man versucht über hacking bezogene software den mitarbeiter einen virus einschläusen lassen
+ ->der virenscanner ist bei mir so konfiguriert, dass er vor bösen seiten schützen sollte
+
+->notiz, bei now consulting sind schon recht von anfang an merkwürdige dinge vorgegangen, ohne dass ihc software installiert habe
+
+
+
+MISSTRAUENSANTRAG: Hr. Wagner@BundesamtFürInformatik.ch
+=>und schon werde ich wieder selbstverletzend, ist ja reizend
+
+Metaanalyse: wird bei einem misstrauensantrag gewalt als antwort eingesetzt, ist höchstwarscheinlich etwas nicht in ordnung, denn in einem funktionierenden system sagt der beschuldigt
+"Los unterzieht mich einer prüfung ich bin sauber."  -> erschwerend könnte dazu kommen, dass er selber sauber ist aber sein background der ihn beeinflusst alles andere als sauber ist.
+
+-->zu beachten ist, dass das mental (neurointerface) spam aufkommen in den letzten Tagen massiv gestigen ist.
+
+
+now-zettel:
+gesetz des falles, das mit den Drucker zeugs und PJL sprache ist wirklich nebenbei als VoiceRecognition API auf dem Echelon / Onyx system eingetragen, dann würde das entdecken allenfalls probleme geben
+->pcl6 ist keine lesbare sprache mehr, somit könnte man davon ausgehen, dass dieses system eh gegen das ende zugeht, denn ein richtig funktionierendes system würde nicht sagen PCL5 und nach uns die sindflut
+->license terminated <- irgend eine voice ->ich:meine? ->voice, nein die von mäni baur
+==>und schon habe ihc wieder schmerzen in der brust, und claudine scheinbar auch, armes du :(
+
+     HP  (PCL/PJL)
+    /\
+   /  \
+  /    Drucker Firmen     1000e "Mitarbeiter" auf dem Spiel
+ /  
+Drucker software firmen   1000e "Mitarbeiter" auf dem Spiel
+
+->also dann gehe ich davon aus, dass diese "Mitarbeiter" auch entsprechend bewaffnet sind und rückhalt haben und somit keine motivation ihre skills weiter zu entwickeln
+ folglich wird dieses System mittel bis langfristig kollabieren
+
+ich hab plötzlcih das dringende bedürfnis einen tamdem sprung zu machen
+->hab mal ein vorsichtiges mail gemacht wegen unfallstatistik und so...
+
+dann steht noch Pension auf dem zettel und "20 Jahre Medical", keine ahnung was das heisst
+
+now-zettel:
+usv macht geräusche wie der kardiograph oder wie das ding heisst, davon werde ich wahnsinnig
+->es wird neurophon gesagt, dass mathiass claudine mehr verdient habe, weil er mehr ertragen muss im leben
+claudine: intensivstation sei das eine, richtig schlimm sei aber der operationssal, da sei es schlimm und da könne auch mehr schief gehen als nach der operation <- ich kann das nicht beurteilen, ich kenn mich damit nicht aus
+frage über meine reaktion
+a) sagen dass ich sie mehr verdient habe weil ich schon viel leid ertragen musste
+b) aufgeben und den schwanz einziehen -> deeskalierend
+
+->allenfalls in abhängigkeit des klimas im operationssahls, klima in realer und in transzendenter hinsicht.
+
+->ich würde allenfalls so einfluss nehmen, dass die Mitarbeiter im operationssahl möglichst ruhig und besonnen handeln können, allenfalls diskriminierende menge mit performance
+
+internetseite: claudine archetyp: "Das ist leider unsere zukunft" (heirat)  ->+einblendung von claudine mit mathias, das leid im spital verbinde die zwei
+ich solle jetzt schreiben, mein leid werde dadurch nicht besser werden +druck auf der brust +angst +trauer  <- das sei für die androhung eines tamdem sprungs, was wenn sie mich über alles liebt und ich dabei drauf gehe?
+böse böse stimme: dann hätte sie ja ihren mathias
+
+
+
+
+   | claudine stimme, die aber nicht nach claudine tönt
+   | sie würde mir nicht das messer in den rücken stecken
+   | ausserdem seien wir zwei der wichtigste faktor für tobias mosers tod gewesen
+   | 1. sie mit quala bei ihm zuhause
+   | 2. seine macht mit ihm schluss
+   | 3. er sieht, dass ich mit ihr zusammen bin
+   | 4. er schliesst darauf, dass somit die welt nicht monogam ist
+   | 5. wichtiger faktor bei seinem entschluss zu gehen
+   | ->wir hätten 10 jahre trennung dafür aufgebrummt bekommen, 10 jahre trennung, wenn es nach astrid gehe sogar 14
+   | =>interessant (mitfühlend betont), genau dieser umstand treibt mich immer in den wahnsinn bis suizid versuch.
+F  | -->das ist für einen jungen glaub der wichtigste faktor für solche gedanken
+   | 
+   | a) alle verantwortung abschieben und sagen es sei jeder selbst verantwortlich für sein leben
+   | b) versuchen solches zu erkennen und positiv einfluss zu nehmen
+   | c) mich als täter definieren, obwohl ich ja genau so monogam bin
+   |
+   | ->empirisches ermitteln, um solches zu verhindern
+   | 1. ein toter wegen nichteinhaltung der monogamie
+   | 2. detaillierte nachgehen der sache ->dafür brauche es einen monogamen
+
+9 jahre: es scheint sich nicht verhindern zu lassen -> folglich monogam leben, oder zumindest im umgang mit monogam erzogenen menschen ein psychohygiene gesetz, dass alles monogam ist.
+->http://www.welt.de/vermischtes/partnerschaft/article12615460/Warum-die-Monogamie-Liebe-und-Sex-zerstoert.html
+ ->von definitiv nciht monogamem geschrieben, bis 30 hätten die meisten leute schon 3 partner gehabt
+
+
+google: suizid +monogamie +studie
+
+-------------------- meine probleme lösen
+        \
+         \__________ pfistere stimme, meine probleme weiter erhalten, da menschenexperiment
+
+->pfisterer stimme: ich sei nicht suizidal wegen claudine die einen anderen hätte, es sei so, dass man mich wenn ich etwas wichtiges (oder etwas geheimes) entdeckt hätte über diesen umstand
+  CAPI kontrolliere und mich in die beziehungsebene ableite
+
+
+Relativ mechanisch, eraser tissue:       ->designpattern optionen für mögliche untreue
+Optionen, Claudine will
+a) möglichst viele männer unter ihrer kontrolle haben um ausweichen zu können und lebt in partnerschaft jeweils nur mit dem gut aussehendsten
+b) sie ist lesbisch und froh, wenn ein mann weniger eine frau braucht
+c) es ist ein menschenexperiment und empirische ermittlung wie man seine noch jungfräulichen / monogamen kinder am leben erhält
+d) da die frau kinder wolle und mehr am wohlergehen von kindern als dem eines mannes interessiert ist
+
+experiment am leben erhalten
+
+Metastruktur
+
+internet meint etwas schlaues:
+Ein Nachteil der "normalen" Kleinfamilie fällt mir spontan ein. 
+Habe da ein anderes Buch, einer amerikanischen Psychologin, die von der 
+Familienfestung spricht. Also dem Hang der Kleinfamiele, sich gegen andere abzugrenzen. 
+---------------
+
+Ich könnte mir das als Keimzelle der fehlenden Soidarität in unserer Gesellschaft vorstellen,
+                       ----------------------------------
+weil ja ALLE ANDEREN immer als Fremde wahrgenommen werden. Das Schicksal dieser Fremden intressiert
+uns nicht wirklich. Nur was in der eigenen Familie passiert geht uns etwas an.
+
+
+
+
+claudine stimme (tönt eher nach wacki oder sabrina)
+wenn ich bereit sei mich auf Sex mit einer anderen frau einzulassen, dann sei auch claudine dazu bereit
+->oder sie wäre gut im sich nicht erwischen lassen
+
+Partnerschaft:
+Variante 1
+M  -----   †
+F  -----------------
+M2         ---------
+
+Variante 2
+M  -------- Arbeit Arbeit Arbeit Arbeit †
+F  -----------------spass spass spass 
+M2         ---------spass spass spass
+
+Variante 3
+F2  =============
+M   -------======
+F   -------------
+M2  *******------
+
+
+Liebe
+F1 ---------------
+M1 ---------------
+F2      ----------
+M2           -----
+
+stimme sagt ich soll "Flotter dreier" googlen, was ihc effektiv glaub nohc nie gemacht habe
+
+hallo claudine, ich habe nächstenliebe gelernt und versuche wirklich zu helfen wo es geht, wäre es da nicht nett wenn ich auch mal etwas (claudine stimme: sex) zuneigung hätte
+
+
+alles egos ausser:
+Jasmin Keller
+Nicole Keil
+Stefan und Claude
+aramis
+...
+
+alternative erklärung:
+ich gehe allen auf die nerven und durch meine isolation werde ich nur noch nerviger
+
+
+
+Zwei Talmud-Studenten kommen zum Rabbi, und der eine fragt: "Du Rabbi, darf man beim Beten rauchen?"
+Der Rabbi ist empört: "Was? Wie kommst du auf die Idee? Natürlich nicht!"
+Darauf meint der andere Talmud-Student: "Warte, du hast falsch gefragt."
+Er wendet sich an den Rabbi: "Rabbi, darf man beim Rauchen beten?"
+Darauf der Rabbi entspannt: "Natürlich! Beten ist in jeder Situation gut
+
+->was eigentlich gemeint war: dass ich besser beten soll anstatt zu rauchen
+weiteres visual: weil ich nicht bete müsste ich rauchen
+
+
+trias, drei visuals (ev nur 2)
+
+
+link kette
+ ->zöllibat  vs.  flotter dreier
+   -> Geweihte Jungfrau
+     -> Geweihtes Leben 
+ trias
+ talmund
+
+
+bewachte heiligtümer
+
+->neue hypotheses:
+pornographie ist in der kirche komplett ein no go, somit kann man die leute die man nicht drinn haben will mit entsprechenden visuals auf porno seiten führen und dann sogar fordern oder anfüttern, dass sie selber
+bilder von sich machen.
+->insbesondere kinder die spielerisch dazu gebracht werden wären dann die opfer und würden so (obwohl unschuldig wie ein kind) in der ewigen hölle schmoren
+==>hypothese: so würden sie zu golems der leute werden die ein geweihtes leben führen, das aber dann auf kosten der sogenannten "Perversen" *MIND BLOCKER* die eigentlich nur kinder sind und spiele treiben
+
+->aramis habe auch ihren bauch öffentlich (halböffentlihc dargestellt) sie sei somit ein absolutes No go <- notiz, hilft aber menschen beim überleben in der dritten welt mit viel einsatz (aramis: schick mal wieder einen einzahlungsschein!)
+
+knuddel aramis stimme meint folgendes:
+das foto wo sie auf ihren bauch zeige hätte heissen sollen "mach mich schwanger", da ich in sie verliebt gewesen sei und (aramis stimme: auch knuddelig)  ->so etwas konnte ich mir damals und auch heute eigentlich
+nicht vorstellen, da sie so gut aussieht udn ich so ein gnom bin.
+dann sei man und auch alle anderen club leute, sauer auf mich gewesen, weil aramis auch in mich verliebt war, und ich hätte die taube auf dem dach haben können. +astrid stimme von damals: du hättest sie haben können.
+->dann hätte man symbolisch mit dem adler (lat. aquila) lampion am bachfischet claudine zu grabe getragen
+->mit giftgrünen leuchtstabflüssigkeiten augen
+==>ich: notiz, aquila ist ganz ganz fest knuddelig, aber sie verteidigt sich nach aussen weil sie warscheinlich so oft (wie ich auch) verletzt wurde
+aramis stimme: und man könne weder flöppu noch aquila einen vorwurf machen, denn die eltern hätten massiv einfluss genommen
+des weitern hätte man ein scherbengericht gemacht mit uns beiden und wir seine bis zum nächsten bachfischet verbannt
+
+würde plausibel tönen, aber ich kann mir wirklich nicht vorstellen dass mich je eine frau geliebt hat (ausser claudine)
+psychologievorlesung: mangelndes selbstvertrauen bezüglich dem anderen geschlecht
+
+ich sei eine wichtige person in aarau, goto psychologievorlesung: mangeldes selbstvertrauen
+
+psychologievorlesung für fortgeschrittene: selbstvertrauen --> fettbauch
+folglich, wie hält man in einem soziologischen system wie aarau die leute auf der "nicht-selbstvertrauensseite" so dass sie sich weiter entwickeln (sprach aristoteles zur meinung des sokrates über die philosophierkünste von plato)
+
+
+zorro stimme:
+mach mi ned schwanger -> sei auch gegen mich gemeint gewesen (aramis stimme: würde das pferdchen zorro bitte die schnauze halten, +züchtigung) *GrÖHL*
+
+aramis stimme:
+so jetzt weisches aquila du hesch em (mir) s läbe versaut, und wenn ned zrogg chonsch s ganze läbe.
+chlaph stimme:
+hey aquila, was hesch met em flöppu gmacht
+ich stimme:
+aquila, ich liebe dich über alles, bitte komm zurück zu mir
+
+aramis stimme: gute führung, das scherbengericht sei damit aufgehoben.
+irgendwer stimme: ob sowas überhaupt legitim ist
+aramis stimme: wir hätten brändli, der werde schon so argumentieren können, dass es legitim ist <-- mmmh, anwalts stereotype
+
+notiz für die die mitschreiben, wie will claudine mein leben zerstört haben, wenn eigentlich die eltern einfluss genommen haben.
+->wie will man damit leben, man hat dennoch einfluss gehabt
+=>ich: die kenntniss, dass man einen menschen zu allem bringen kann mit der nötigen "zauberei"
+
+
+
+
+anderers topic, monogamie austreiben in dem man mit freund ins puff geht und
+a) flotter 3er macht
+b) hand hälten im puff *GRÖHL*
+c) einfach dabei ist uns sagt es ist i.O.
+-------------------------------------------------------------------------------------------------
+wenn man das dann wolle und ihn nicht egoistisch (sehr christlich) für sich gefangen halten wolle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

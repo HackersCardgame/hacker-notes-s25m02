@@ -1,0 +1,7 @@
+Folglich:
+
+10 Load "Pädagogik" ,8,1		10 Load "Informatik" ,8,1
+20 RUN					20 RUM
+30 Load "Informatik" ,8,1		30 Print "Hacker: <Das system", $A, "funktioniert.>"
+40 RUN					40 Print "PL-Avatar: <Aber steh dem mal auf die Füsse...>"
+50 PRINT "Goto Nachbarprogramm" ,8,1

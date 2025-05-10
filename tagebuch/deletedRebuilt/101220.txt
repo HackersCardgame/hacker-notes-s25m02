@@ -1,0 +1,31 @@
+Tagebuch Mo 20 Dez 2010 01:42:36 CET @ Marc-Landolts-MacBook-Pro.local
+
+ABSTRAKT
+Hypothese:
+standard designpatterns für test
+->leider hat jemand mit zugriff auf das system einen modd geladen
+der den agressionsschub verzehnfacht (mein finger meint es sei nur fünffach) 
+ und somit den eindruck erweckt
+dass ich von sinnen sei, in fact ....
+
+->liesse sich allenfalls sogar analog implementieren mit
+einer empfänger  und einem op mit fc auf besagter frequenz.
+
+
+END ABSTRAKT
+
+
+Tagebuch Mo 20 Dez 2010 04:18:56 CET @ Marc-Landolts-MacBook-Pro.local
+
+merkwürdig: INVENTARtempNeu.xls
+->da wurden daten raus gelöscht
+-> jemand hat es vor meiner sicherung der eigentlich privaten daten gelöscht
+-> word bietet eine möglichkeit daten privat abzulegen die nur sichtbar
+   werden wenn man in der richtigen domäne ist
+-> jede datei ist mit einer uuid versehen und es lassen sich nachträglich daten
+   löschen in dokumenten.
+
+
+
+
+

@@ -1,0 +1,10 @@
+
+
+jede bibliothek hat eine einigermassen vernünftige struktur
+
+das TEKO Verzeichnis ist einfach ein verdammtes chaos...
+-->Top down vorgeben.
+-->ev best practices
+
+
+

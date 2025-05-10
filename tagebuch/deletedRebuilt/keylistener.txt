@@ -1,0 +1,47 @@
+001 /* Listing2802.java */
+002 
+003 import java.awt.*;
+004 import java.awt.event.*;
+005 
+006 public class Listing2802
+007 extends Frame
+008 implements KeyListener
+009 {
+010   public static void main(String[] args)
+011   {
+012     Listing2802 wnd = new Listing2802();
+013   }
+014 
+015   public Listing2802()
+016   {
+017     super("Nachrichtentransfer");
+018     setBackground(Color.lightGray);
+019     setSize(300,200);
+020     setLocation(200,100);
+021     setVisible(true);
+022     addKeyListener(this);
+023   }
+024 
+025   public void paint(Graphics g)
+026   {
+027     g.setFont(new Font("Serif",Font.PLAIN,18));
+028     g.drawString("Zum Beenden bitte ESC drücken...",10,50);
+029   }
+030 
+031   public void keyPressed(KeyEvent event)
+032   {
+033     if (event.getKeyCode() == KeyEvent.VK_ESCAPE) {
+034       setVisible(false);
+035       dispose();
+036       System.exit(0);
+037     }
+038   }
+039 
+040   public void keyReleased(KeyEvent event)
+041   {
+042   }
+043 
+044   public void keyTyped(KeyEvent event)
+045   {
+046   }
+047 }

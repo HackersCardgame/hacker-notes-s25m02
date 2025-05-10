@@ -1,0 +1,36 @@
+Tagebuch Mi 31 Aug 2011 21:54:07 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+
+Merkwürdige Dämonen bei den Kaplans
+Grafikkarte geht nicht
+
+1. Monitor und kabel getausch --> geht nicht
+2. grafikkarte getauscht --> geht
+3. alten monitor an neuer Grafikkarte --> geht
+4. alte Karte in anderem Computer --> geht
+5. alte Karte in altem Komputer und alter Monitor --> geht <-- sehr merkwürdig.
+6. neue karte in neuem computer --> geht nicht <-- noch merkwürdiger, der fehler ist von kaplans computer auf meinen übergesprungen
+    ->->∑F=const.  -->summe der fehler konstant
+
+
+anderes ding
+
+JAVA Lernen
+
+B B B    L         U       U    E E E E        J J
+B    B   L         U       U    E                J
+B B B    L         U       U    E E E            J
+B    B   L         U       U    E                J
+B    B   L         U       U    E          J     J
+B B B    L L L L    U u U U     E E E E     J J J
+
+-->ist super für den einstige finde ich!!!!
+
+---->nicht zu viel funktionalität 
+==>später allenfalls problem dass man mit den vielen compilierparameter nicht klar kommt.
+
+
+
+

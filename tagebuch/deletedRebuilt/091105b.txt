@@ -1,0 +1,41 @@
+Tagebuch 15::29 09.11.2005
+
+Erkenntniss zur Datenbanken Beziehungsebene.
+
+Plan A.
+1. Aufbau für einen guten Zweck
+2. Verteidigung
+3. Schachbrett Reiskorn, Fremdzugriff im schlimmsten fall durch räuberische Erpressung
+4. Missbrauch der (mit prädikat gut versehenen) Datenbank für die eigenen Zwecke
+
+
+Plan B.
+1. Aufbau für einen guten Zweck
+2. Verteidigung und Erfolg
+3. Faulheit und Gebrauch der Datenbank für die eigenen Zwecke
+
+
+Plan C.
+1. Aufbau einer Datenbank für einen schlechten Zweck
+2. Geheimhaltung
+3. Sicher
+4. Lan-dolt + Worms2
+5. wird kontrolliert und verglichen
+
+
+Plan D.
+aeleis'
+1. Sammlung von algemeinen Verhaltensmuster
+2. Erkenntniss dass jegliche Reibung Verluste mit sich bringt
+3. Logische Schlussfolgerung: "im Sinne einer Schnittmenge als Hauptschlüssel"
+
+trace schlange, int schlange, dis schlange if erfolglos --> verfüttere schlange an die anderen Schlangen
+					   if not erfolglos --> ebenda
+					   if not erfolglos --> verstecke Schlange damit sie nicht getötet wird
+					   if not erfolglos --> int dis schlange nocheinmal
+									--> erkenntnis schlangen haben ein einfacheres leben
+Creed: Schlangen sind (seien) einfach zu Kontrollieren
+me: zumindest auf psychologisch metaphysikalischer Ebene
+
+Creed TOE: naturalisierung zum Schlangenproduzieren --> me: 50 schlange  50 nichtschlange ich will neutral sein
+--> ich will eine aeleis'

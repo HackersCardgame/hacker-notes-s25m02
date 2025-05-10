@@ -1,0 +1,3 @@
+6768ca07da471fad5b8f11075f79740d  /home/marc/Daten.2017/myLife/Tagebuch/2017/april/tagebuch.sh
+cbdaf6a4424cea2a43624ce75fb85351  /home/marc/Daten.2017/myLife/Tagebuch/2017/april/Adressen.ods
+ab9f5db56bc837de1e6c05c43da18d4e  /home/marc/Daten.2017/myLife/Tagebuch/2017/april/170423.txt

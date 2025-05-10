@@ -1,0 +1,11 @@
+CTrying to hack this Router will be prosecuted.
+uBR7246AG.geissacher.ch
+
+User Access Verification
+
+Login:
+% Login: timeout expired!
+
+Verbindung zu Host verloren.
+
+C:\Dokumente und Einstellungen\Marc Jr. Landolt\Desktop>

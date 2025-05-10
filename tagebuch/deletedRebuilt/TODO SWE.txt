@@ -1,0 +1,9 @@
+[12:24:55] Michael Ruflin : na wenn du das willst musst du eben direkt auf dem stream mit read() arbeiten und so 1 byte nach dem anderen lesen
+[12:25:05] Michael Ruflin : damit sparst du dir das enter...
+[12:25:20] Marc Landolt : das hat eben irgendwie nicht funktioniert...
+[12:25:32] Marc Landolt : also du meinst system.in.read?
+[12:25:35] Michael Ruflin : hm, sollte eigentlich schon
+[12:25:43] Michael Ruflin : system.in ist ein InputStream
+[12:25:57] Michael Ruflin : schau dir mal die Klasse an - die hat ne read() methode
+[12:26:07] Michael Ruflin : die dir ein byte zurückgibt
+[12:26:19] Michael Ruflin : wenn du code hast kannst du den sonst auch einfach mal schicken

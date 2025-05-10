@@ -1,0 +1,103 @@
+Tagebuch So 6 Mär 2011 16:34:43 CET @ Marc-Landolts-MacBook-Pro.local
+
+Spezialisten:
+wer entscheidet eigentlich ob sich jemand spezialisieren darf und dann einen sniper turm erhält
+oder ob jemand generaist wird und von pontius zu pilatus geschickt wird
+
+spezialisten sind gut bezahlt, haben lange arbeitsanstellungen, können gärtchen bauen, sind schwer ersetzbar
+
+ABSTRAKT
+Google-query: AI Delgado
+END ABSTRAKT
+
+ABSTRAKT
+Lässt sich am reisbrett eine "verkettung von unglücklichen zufällen" zeichnen???
+END ABSTRAKT
+
+ABSTRAKT
+Existiert einen Virtuelle Realität die mit der Realen verknüpft ist liessen sich interessante spiele programmieren
+->stimme: vogel games
+          tacier games
+und es wäre allenfalls das spiel der reichen und die armen wären nur schachfiguren, affen, ratten etc.
+END ABSTRAKT
+
+ABSTRAKT
+Es ist schwierig ein bestehendes Computer / Serversystem zu reparieren oder die Performance zu verbessern wenn man nihct weiss was der
+ursprüngliche System Engeneer noch alles für tretminien (fallstricke, ungenauigkeiten, unachtsamkeiten) plaziert hat und das im laufenden produktiven betrieb.
+
+Vorgehen: 1. Sicherung erstellen
+	  2. Dienste deaktivieren die die performance zusammenreissen (z.B. WSUS, SharePoint, andere DB Applikationen)
+	   ->so kann wieder normal gearbeitet werden und der druck der mitarbeiter und der chefs auf den der das zu lösen hat entfällt wodurch schon mal besser gearbeitet werden kann
+	  3. analyse ergibt: bottleneck bei der festplattenkonfiguration, schnelle raid kombination 3 5 9 disks 2^n+1, unseres hat 6 platten und somit eine write penalty
+	  4. Pagefile deaktivieren, da dies rege gebraucht wird (Sieht man im Performance editor aus dem taskmanager (kleiner button)
+	  5. unnötiges deinstallieren
+	  6. weiteres problem, bei so viel benötigten vm's für testzwecke zwingend mehr ram nötig
+	  7. check, system ist jetzt wieder performant
+
+->wenn jemand fragt ich hab einfach ein misschen mit dem server herumgespielt :)
+
+->SBS Server auf VMWare eher ungünstig hätte ich gesagt... der macht mit exchangen, wsus, sharepoint und AD diensten eine rechte last.
+
+->backup am besten unabhängig durch zwei oder mehrer personen erstellen lassen, jeder muss hinstehen können und sagen JA, ich kann einen restore fahren und stehe hinter meinem backup.
+
+
+END ABSTRAKT
+
+nachtrag: meiner meingung nach hat es ein backdoor bei now
+a) per bekanntem login, alle MA sind Domainadmin, eher ungeschickt
+B) obere 20% backdoor der ffhs.80-20% regel
+
+
+auch wurde die ccwkrlib.dll umbenannt, ev. martin... zess zess zess...
+->das meine ich mit tretminen...
+
+auch schlecht: dann wenn man das system aufgesetzt hat dem neuen sagen, du hast die verantwortung, martin, zess zess zess
+auch schlecht: das sieht wie rosinen picken aus: die einfachen netzwerksachen erledigt man, dann die schwierigen, marc mach mal, ich hab keine zeit... (mein tagebuch, ich schreib doch nicht von hand bei meiner handschrift, ausserdem
+kann man handgeschriebene tagebücher so schlecht oder nur mühsam bakcupen.)
+
+ev. mäni stimme: martin künden,
+
+ich: komplett falscher ansattz
+ist, soll, diff, patch, und ich schwöre den computer hypokartischen eid und bringe es den leuten bei was sie benötigen um ihre aufgabe erfüllen zu können
+->hypothese, lackmuss windows business
+ :: alle windows administratoren sind absolute idioten die nur wissen wo sie klicken müssen im microsoft layer aber davon was darunter abläuft haben sie keinen plan -> add HF, add FH, add UNI
+  ->und so eine kleine kalssenbasierte .net applikation (mit Forms oder so) sollte man schon mal geschrieben haben für das verständnis, aber das sind ca 3 Semester programmierung.
+
+
+
+JA, ich kann ein restore fahren.
+
+
+->der mäni weiss was ein parser ist, stichwort pjl, da hab ich schon das gefühl er sieht durch den windows layer durch, aber man muss auch den windowslayer updaten. elender permutierender windows layer
+->könnte MS nicht die oberfläche gelich belassen, das ist ewigs und 3 mal mühsahm wenn das immer wieder wechselt.
+
+->sagt einfach ich sei ein arsch, ich sei ein profilierungsneurotiker, oder ein hofnarr... oder schlangenzunge
+ich: schlangenzunge möchte ich weit von mir schieben.... 
+
+nicol keil meint dazu (kleines phi) sobald man so weit ist, dass man den leuten die idee so verkaufen könne dass es ihre idee war sei man meister...
+
+ABSTRAKT
+apropos martin und windows leute: werden die daran gemessen wie viele teure produkte sie einer firma aufschwatzen können anstelle der technischen skills?
+END ABSTRAKT
+
+aufbau windows Druckersystem
+Treiber -> Queue -> print prozessor (Was ist der unterschied zum treiber) -> PortMonitor ->  I/O -> Widnows TCP/IP Stack -> drucker port 9100 ->  Voter (pjl?)  -> PCL5/6 / PS -> laser mit spiegel abgelenkt -> statische trommel -> heizelement -> papier
+  (mit konstantem vorschub, oder per piezoelementen im tintenstrahldrucker oder mit nadeln, oder mit irgendwelchen schreibmaschinen rundkopf mechaniken
+
+layer 8 der das papier am drucker abholt...
+:)
+
+
+
+ziknet 3 Produkte
+nowconsulting 30 produkte, mühsamer, ausserdem neue produkte für mich, ich kenne diese noch nicht, nicht selber damit herumgespielt, aber ich krieg das schon auf die reihe.
+
+
+
+hab grad das bauchzeigende foto von aramis gefunden und bin mit dem gedanken am spielen ob ich es dominik zschokke ins buch das ich ihm schenken soll legen soll ??? :)
+*GRINS*
+
+könnte aber falsch verstanden werden, erpressung etc... wäre es aber nciht, ich hätte es ja dann nciht mehr...
+
+
+

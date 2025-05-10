@@ -1,0 +1,13 @@
+f(x)
+
+Keys = Deprivation
+-Accustics: tschilp with spoken key & Metaphysics & Insulin Power
+-Visuals: "tschilp" with visual key & Metaphysics & Insulin Power (one BYTE)
+
+--> further calculation in /relationship model/ ER-model
+
+-schuld
+-masturbation
+-blasphemy
+-psychiatrie
+-

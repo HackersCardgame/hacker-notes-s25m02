@@ -1,0 +1,36 @@
+Tagebuch Mi 4 Jan 2012 05:37:51 CET @ Marcs-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+
+anleitungen zu transparenten firewalls shceinen speziell mit visuals bewacht
+zu sein
+
+sie nutzen die leseverhalten parameter des subjektes
+
+grundalgorithmus
+
+1. aha so visuals, weg der visuals folgen, visuals verschwinden ins leere
+2. aggressionsfrequenz
+3. andere stressoren
+4. schlecht dokumentiert im netz
+    a) eingeschworene gruppe und verschwörung
+    b) wenig leute die zeit zum dokimentieren haben für solches
+       ->in demfall cisco NEF
+    c) es braucht es niemand
+5. repetitives accoustics von yves lüthi, steaht firewall, transparent firewall
+ -->allfälliger rückschluss auf täterkreis
+    ABBTS relation
+
+
+ABSTRAKT
+was ich bis jetzt herausgefunden hab
+
+mit einem transparenten firewall und zugriff auf die den dhcpd
+aller internetservice provider kann man per abonnent z.B. botnetz
+filter anwenden
+END ABSTRAKT
+
+
+
+

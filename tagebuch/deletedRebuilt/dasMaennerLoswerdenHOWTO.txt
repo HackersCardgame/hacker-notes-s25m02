@@ -1,0 +1,20 @@
+
+
+1. dazu bringen gewalt gegen die frau zu üben
+2. anklagen knast
+
+1. in den wahnsinn treiben
+2. der psychiatrie überlassen.
+3. er setzt die medikamente ab und landet wieder bei dir
+
+if(meta)
+  if(meRoot)
+    if(someoneLeftBehind f/m)
+    {
+      feed the leaver a while
+      destroy the leftBehind a while
+      bring they back together
+    }
+
+
+

@@ -1,0 +1,172 @@
+Tagebuch Di 5 Jul 2011 22:26:45 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+
+now-Zettel:
+1. Sparen bei der Anzahl Mitarbeiter um mehr Profit für sein neues Auto zu haben (parallele zu Wild Nico?)
+2. (neuer) Mitarbeiter hat keine Zeit eine Dokumentation zu erstellen
+3a. Mitarbeiter hat ein Burnout (count: 1 @ nowcon) Mitarbeiter hat Kardio Probleme (count: 1 @ nowcon) Mitarbeiter hat jeden Abend viele Zettel die den Tag durch Materialisieren
+3b. Mitarbeiter kündigt
+4. Neuer Mitarbeiter
+5. es gibt keine Dokus der installationen des Vorherigen Mitarbeiters
+
+Einzel Unternehmen
+
+      ^                   ^
+     / \                 / \
+    / 1 \               / 2 \
+   /_____\             /_____\
+
+
+Partner
+      ^                   ^
+     / \                 / \
+    / 1 \               / 2 \
+   /_____\             /_____\
+  /       \           /       \
+ /    1    \         /    1    \    <- arme Sau
+/___________\       /___________\
+
+in diesem Staidum könnte z.B. der Cheff sich bereits auf den Verkauf des Produktes fokussieren
+und der Mitarbeiter (z.B. Support) muss sich um die Reklamationen etc. kümmern
+-->allenfalls aufträge einholen auch schwierig und mühsahm (andere perspektive)
+Supportmitarbeiter allenfalls keine zeit zum Dokumentieren / Sauber Arbeiten
+
+
+Mehrere Untergeordnete
+      ^                   ^
+     / \                 / \
+    / 1 \               / 2 \
+   /_____\             /_____\
+  /       \           /       \
+ /    2    \         /    2    \   
+/___________\       /___________\
+neuer Mitarbeiter wird eingestellt damit man nicht weitere mitarbeiter einem Burnout aussetzt (notiz, martin hatte subjektiv am anfang noch mehr augenringe als jetzt)
+->durch das vernachlässigen der Dokumentation gibt es noch hinterlassenschaften, die zusätzlich den untergeordneten zeit kostet
+-->Mitarbeiter allenfalls auch schon wieder kurz vor Kündigung
+
+Temporäre Situation um das kollabieren der firma zu verhindern
+      ^                   ^
+     / \                 / \
+    / 1 \               / 2 \           Cheff zettelt irgend ein Projekt an, behält viel geld für sich
+   /_____\             /_____\          und die probleme werden alle sammt dem supporter angeheftet
+  /       \           /       \         IT-Lehrlinge: Psy-Immunologie -> folglich schulung informatik recht
+ /    3    \         /    3    \        ->altbekanntes problem: techniker muss ausbaden was der verkäufer verkauft hat  (bitte alles konjunktiv interpretieren)
+/___________\       /___________\
+
+dann wieder einer weniger
+
+->alternativ situation Mehrere Untergeordnete: und der unterste ist hart im nehmen <- rauchstopp allenfalls unmöglich wärend dieser stressigen zeit
+
+
+---------------------------
+       IMMOBILIEN        <----
+---------------------------  |
+          Büro               | Marketing bot um 1. Leute zu finden die den teuren Immo Preis Zahlen, ausbeutung der Informatiker mit der Androhung diese zu vergiften
+                             | und somit allfällige gewährung der verwendung der IT Systeme für Marketingschweinereien
+---------------------------  |
+           IT            <----
+---------------------------
+         Fabrik
+---------------------------
+
+notiz zum Büro Menschen, da scheint eine Immunologie zu existieren, der sieht aus, als wäre er zwar zwischendurch schon gestresst (konjunktiv) aber
+dass er sich abgrenzen kann
+
+now-Zettel
+wie now consulting gewachsen sei
+1. Mitarbeiter eines weltkonzerns
+2. zugriff auf systeme, datenbank, konzernBOT etc
+3. verselbständigung, allenfalls konzern im hintergrund planend um illegalle (konjunktiv) aktivitäten tätigen zu können ohne dass der konzern selber
+   eine klage riskiert  ->stimme: ob es zu viel daten sind, dass sie von einer einzelnen person kommen könne (naja sicher zu viel um von einer faulen person kommen zu können)
+4. konzern bot / login / networking für kleine firma brauchen
+5. Nischenprodukt auf basis der PCL5 sprache
+6. End of life phase des produktes
+7a. so weit aufgebaut, dass kleiner selber stehen kann
+7b. abhänigkeit vom nischenprodukt -> firma geht konkurs
+
+Small Busines Start Up basierend auf Produkt eines Big Business Partners
+
+a) rettungsplan,    <- Besseres Klima für alle, Mehr informationsaustausch, weniger frustration weil hilflos / fehlendes wissen, keine paranoiden gedanken herbeiführen
+b) notbremse
+
+nebenläufig: spontan grad einige telefonate
+
+DET: konzept: teuer absahnen oben und unten support verheizen
+
+->nebenläufig: mänis geist (L8 Technik) droht mit terror attentat über die APS gruppe die in westeuropa tätig ist
+->realer teil: telefonat von ihm mit aps partner im ausland
+
+Mental dDoS sie dafür da mich jeweils zu beschäftigen wenn ein attentat geplant würde, mouse gestures, visueller kortex cheff bzw. anderer Mitarbeiter
+a) VLW weint
+b) Bildung: allenfalls lehrreich
+Ev. auch Psy-Immunologie
+
+
+Nathalie (buchhalterin)
+zerreist vor meinen augen demonstrativ einen brief und blickt mich tief an, das sei für mich
+ist überladenes (im c++ sinne) visual
+a) zerreissen meines arbeitsvertrages
+b) zerreissen torrettis Arbeitsvertrages
+c) zerreissen mänis firma
+d) zerreissen der liebe zu claudine
+e) zerreissen meiner krankenkassenmeldung
+   a) zum schutz der firma
+   b) um nicht entdeckt zu werden
+   c) weiteres
+f) mäni einen dolch in den rücken stossen
+->ich sei gemeint: ich finde irgend etwas stimmt in sarmenstorf nicht mit der "zauberei" (sprich mit den antennen und dem neurointerface)
+
+
+stimme:
+Claudes TTL (Zeit zu leben) bei HP sei somit abgelaufen   <- wäre ein indiz für die kartell / konzern geschichte mit einem terror ableger für die dreckarbeit
+a) er hat keine ausbildung somit gerechtfertigt 
+b) Drohung des konzernbots
+
+konzern integriere ∫ kontrollierbare und des seinen im normalfall sünder die sich ihrer sünden bewusst sind diese aber nicht beichten
+
+->marketing sei kriegsführung
+
+klage ich sei ein spion
+1. ich habe nie meine daten freigegeben, aber ich habe einigen freundien auf L8 gesagt, ich hätte nichts dagegen wenn sie meine tagebücher lesen
+ ->aber real freigegeben habe ich sie nicht.
+ ->und wer jetzt mich verklagt ich hätte sie auf L8 freigegeben der muss wissen, dass somit bewiesen ist, dass man einen menschen fernsteuern kann und somit bekomme ich etwa 10Millionen
+   schmerzensgeld und eine geflickte beziehung mit claudine da ich sonst früher oder später selbstmord begehen werde aus frustration
+
+geschichte mit dem not billable butten im safecom
+->wir sollen einen business case machen, sorry, gebt mir den source und das ist in 5 minuten umprogrammiert und nach einem abend ist es mehrsprachig wenn nicht ein teil
+  der meldungen noch auf dem server abgelegt sind
+-->aber nein, macht einen businescase der viel geld kostet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WICHTIGER:
+lorenz von der Baustelle der immer im zug ist (nett) und mit dem ich heute etwas am bahnhof getrunken habe hatte einen unfall der nicht gemeldet wurde
+wo ihn ein 25kg beton stütze für die absperr gitter getroffen hat
+wunsch, falls logfile schauen, dass man das in zukunft vermeiden kann, gemäss ihm hätte der ältere Mitarbeiter (chauffeur) etwas nicht richtig befestigt / geladen gehabt
+->klage will ich nicht, aber allenfalls ist das eine aufgabe für die physiker wie man das verhindern kann, ev kontrollblick des seiles das nicht gehalten hat,
+befestigung in einer stabilen lage und nicht in einer labilen
+
+
+
+
+
+
+
+

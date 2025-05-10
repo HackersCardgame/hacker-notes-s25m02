@@ -1,0 +1,19 @@
+complexe klasse
+
+abs(z)
+z*
+Im(z)
+Re(z)
+phi = arg(z)
+
+mac laurinsche reihe von e^x für x=j phi
+
+quadranten bei der phi berechnung
+
+
+
+
+
+trigonometrische rechnung
+
+sin^2+cos^2=1 etc... tan=sin/cosdc

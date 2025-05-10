@@ -1,0 +1,7 @@
+TODO: wieviele logische Partitionen?
+
+grub man suchen --> grub-doc package
+
+wann GENAU wird das K10sshd ausgeführt?
+
+mail.Warning; mail.err; mail.crit;	-@log.abbts.ch	

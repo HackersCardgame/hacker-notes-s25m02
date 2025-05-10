@@ -1,0 +1,18 @@
+
+                     ?
+ Pfeil              /
+   |              Chr
+   |              /\
+   |             /  \
+   v            /    \
+               /      Andere
+Redundant ->  Cl-->mathias      
+             /  \
+            /    \
+           /      \
+status?-> Qu      Fl <-arme sau
+       Militär
+
+
+martin + quala am selben tag im ziknet und beide im militär
+

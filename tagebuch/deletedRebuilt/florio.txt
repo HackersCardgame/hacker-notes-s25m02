@@ -1,0 +1,702 @@
+
+
+21:58Montag, 29. Dezember 2008
+Romino Florio
+21:58
+nein.
+ich will und muss es korrigieren.
+jeder sein teil, schon vergessen.
+ich HTML und DB, Jenni JSP, du die Schnittstelle.
+
+Marc Landolt
+21:58
+jaja
+00:09Dienstag, 30. Dezember 2008
+
+Marc Landolt
+00:09
+das ist der überbringer einer schlechten nachricht an den könig und für das bringen der nachricht wird er gehängt
+oder geköpft
+also anders gefragt, wer sagt es jenni
+Romino Florio
+00:11
+das mache ich natürlich. ich telefonieren mit ihm morgen. soll ich direkt mit ihm was abmachen wenn ich am 2. nicht kommen würde? bei dir oder aarau oder so?
+
+Marc Landolt
+00:12
+also von mir aus kannst du ihm sagen, er könne mit mir im chat das interface definieren..
+Romino Florio
+00:12
+finde ich schlecht.
+zusammensitzen geht viel besser.
+
+Marc Landolt
+00:13
+naja 1h nach irgendwo und noch 1h zürck ist erstens umwelttechnisch mist udn zweitens könnte man in dieser zeit einiges erledigen...
+00:13Romino Florio ist zurück
+Romino Florio
+00:14
+meinst du das ernst?
+dann müsste von dir aus die ganze welt anstatt sitzungen zu haben alles per MSN machen?
+man muss sich doch gegenüber sitzen um dinge zu definieren. das geht nicht per msn. man muss die leute sehen, die gesten die körpersprache.
+
+Marc Landolt
+00:16
+naja um ein technisches problem zu lösen ist körpersprache eher hinderlich...
+um zwischenmenschliches zu regeln muss man klar miteinander reden...
+aber ich hab lieber technik, da so viele menschen sich nur eine goldige nase verdienen wollen, und das ist vorallem zwischenmenschlich...
+Romino Florio
+00:17
+also darüber diskutiere ich nicht. alle machens so, nur der marc will nicht.
+dann komme ich halt am 2. und wir sitzen alle drei zusammen.
+
+Marc Landolt
+00:17
+hehe...
+Romino Florio
+00:21
+verstehe ich dich richtig. wenn ich nicht dabei wäre würdest du alles per msn machen wollen?
+ich spreche morgen mit jenni, mal schauen was er dazu meint. wenn er das auch per msn will, dann muss ich mir mal ein bisschen gedanken machen.
+
+Marc Landolt
+00:22
+ich meine die ganze linux community schafft es ein komplettes betriebssystem zu etwickeln ohne je zusammen an einem tisch gesessen zu haben, und unmengen an co2 für das herumreisten produziert zu haben...
+Romino Florio
+00:24
+jaja, das kenne ich jetzt langsam. für mich hat MSN einen grossen Nachteil. Man muss seinen Teammitgliedern nicht in die Augen schauen wenn man was sagt oder abmacht.
+Ich klinke mich jetzt lansam aus.
+gute nacht.
+
+Marc Landolt
+00:24
+naja
+eines noch
+menschen neigen dazu ihre fäden zu stricken, zwischenmenschlicher natur, schlüssiges verhalten (OR Art. XY) und sobald man sich nonverbal einig ist werden allenfalls andere übergangen, nämlcih die mit weniger ausgereiften fähigkeiten im nonverbalen bereich... udn das ist nicht in ordnugn...
+Romino Florio
+00:30
+ok. und was konkret willst du damit sagen?
+was ändert msn daran. oder anders gefragt was wäre daran so schlecht wenn wir eine normale sitzung hätten?
+oder noch anders gefragt: welchen nachteil ergibt sich daraus für dich?
+
+Marc Landolt
+00:32
+hierarchsches systeme aufgebaut auf schlüssigem verhalten, die neigen dazu sich zu viel heraus zu nehmen, wenn ich nun nur technische kommunikation habe, dann muss ich mich nicht darum herumplagen, plagen deshalb, weil ich es dann nciht mitbekommen, wenn ich es mitbekomme gebietet es mir mein kodex dies zu korrigieren.
+kannst mir sonst robin hood sagen, ok besser nciht das wäre hochmut...
+Romino Florio
+00:32
+und so dass ich es auch verstehe? welches problem hast du wenn du dich mit uns treffen musst.
+
+Marc Landolt
+00:33
+ich habe jetzt generell gesprochen...
+ich finde es in diesem speziellen fall ein bisschen overkill...
+Romino Florio
+00:33
+ich, jenni und bonto finde das ganz und gar nicht.
+
+Marc Landolt
+00:34
+und deshalb füge ich mich ja auch der mehrheit...
+Romino Florio
+00:34
+und ehrlich gesagt glaube ich nicht dass das der grund ist. warum all dieser text? nur um mich zu belehren???
+was stört dich daran?
+traust du uns nicht?
+
+Marc Landolt
+00:35
+naja, ich habe das gefühl du strebst in der gruppe nach macht, ich kann mcih täuschen, aber leute die nach macht streben sollten sie nciht haben.
+ehrliche meinung, ich hoffe du drehst mir keinen strick daraus...
+Romino Florio
+00:36
+marc, wenn ich macht möchte, hole ich sie mir dort wo sie mir was bringt.
+
+Marc Landolt
+00:36
+cih denke wir brauchen keine hierarchie...
+eben, die formulierung: "hole ich mir ..."
+Romino Florio
+00:36
+ok. dann musst aber auch DU deinen anspruch zurückschrauben.
+
+Marc Landolt
+00:36
+das stört mich
+ich versuche eine technisch gute lösung zu generieren... das hat ncihts mit macht zu tun
+Romino Florio
+00:37
+doch marc. das ist genau das gleiche du drückst und deinen willen auf. eine technisch gute lösung kann auch mal nicht nach dem willen von marc gehen.
+und sie kann auch kleiner im umfang sein
+und trotzdem gut.
+du übst in dieser hinsicht die wohl grösste macht aus. bisher haben wir uns nicht dagegen gewehrt.
+
+Marc Landolt
+00:38
+wenn das deine meinung ist.
+Romino Florio
+00:39
+das ist sie, ja. du hast bisher in unserer gruppe den grössten teil der bestimmung übernommen. mit dem vorwand einer guten note und guter technischer umsetzung. die situation ist aber unterdessen anders. es geht nicht mehr nur um die technische realisierung. es gibt jetzt auch noch andere aspekte.
+
+Marc Landolt
+00:41
+naja wie du vielleicht gemerkt hast mit den fragen über psychiatrie ist mir klar, dass die anderen aspekte auch sehr wichtig sind, aber an einer technikerschule will ich vorallem meine technischen fähigkeiten weiterentwickeln,
+das andere wäre dann eher eine management schule oder so
+Romino Florio
+00:42
+also, dann stell dir jetzt einfach mal vor, der technische aspekt zählt nur noch 25%
+was ist mit dem rest?
+genau diesen rest versuchen ich und zum teil auch jenni hin zu bekommen.
+
+Marc Landolt
+00:42
+an einer technikerschule sollte die technik eigentlich eher zu 75% als zu 25% bewertet sein, sonst ist es vorspiegelung falscher tatsachen..
+und ein bildungsinstitut das falsche tatsachen vorspieglet beschädigt die bildung im allgemeinen --> sic transit gloria mundi
+aber ich will es nciht vernichtigen, was hättet ihr denn gerne anders?
+Romino Florio
+00:45
+naja, ich denke das haben wir jetzt schon ein paar mal gesagt.
+
+Marc Landolt
+00:45
+konkret?
+meines wissens sind es immer eher wage aussagen...
+nichts konkretes wie wir im 1. semester bei brugherr gelernt haben...
+Romino Florio
+00:46
+ok, ich versuche es konkret zu sagen.
+00:46Romino Florio ist zurück
+
+Marc Landolt
+00:47
+mir kommt es wie ein psycho-soz addon vor
+Romino Florio
+00:49
+verlasse dich auf mich und jenni. lass uns unseren teil selber realisieren und drücke uns nicht deine technischen vorstellungen auf. werde erst aktiv wenn wir dich konkret nach hilfe fragen. wir sind ja nicht allwissend also brauchen wir ev. auch mal deine hilfe. aber es ist wichtig uns unseren teil machen zu lassen und zwar selbstständig. aus diesem grund lasse auch zu dass wir
+schnittstellen definieren. diese ermöglichen uns dass jeder selbstständig an seinem teil arbeiten kann.
+ich denke das trifft das wesentliche.
+
+Marc Landolt
+00:50
+ich kann meinen abstrakten teil nicht realisieren ohne über die grenzen zu schauen, das wusste der bonto auch
+Romino Florio
+00:51
+genau das hat uns bonto eben vorgeschlagen
+
+Marc Landolt
+00:51
+die db definieren, geht alleine
+das html machen geht alleine
+das jsp integrieren, ok das ist schon komplexer
+Romino Florio
+00:52
+das sehe ich auch so. db und html sind das einfachste.
+
+Marc Landolt
+00:52
+aber dann die schnittstelle zu sein, dass alles miteinander funktioniert, diese verantwortung muss cih tragen...
+Romino Florio
+00:52
+ich bin aber der meinung dass zwischen dir und jenni auch ganz klar ein interface definiert werden kann.
+
+Marc Landolt
+00:52
+und dies soll ich tun ohne einfluss zu nehmen, also verantwortung tragen ohne einflussmöglcihkeit.
+interface definieren, ist eine recht abstrakte aussage, wir haben nicht nur einen berührungspunkt, wir haben mehrere...
+da lässt sich nciht so einfach EIN interface definieren...
+Romino Florio
+00:53
+ja, das ist jetzt vielleicht gerade krass ausgefallen weil du genau den kritischen teil dazwischen hast.
+
+Marc Landolt
+00:54
+vielleicht verstehst du jetzt meinen standpunkt, das fängt irgendwo an und hört mit design patterns...
+aber das ist vermutlich zu abstrakt
+Romino Florio
+00:54
+technisch hab ich ja keine ahnung, aber ich bin der meinung dass muss sich definieren lassen können.
+00:55Romino Florio ist zurück
+
+Marc Landolt
+00:55
+ja, da mach ich die ganze arbeit, dann definiere ich an hand der erkenntnisse eine schnittstelle, die jenni dann einfach implementieren kann
+Romino Florio
+00:56
+wir haben doch im java mal gelern dass man dafür eben intefaces verwendet.
+
+Marc Landolt
+00:56
+also ich muss damit ich das interface definieren kann die lösung kennen, sonst schreibe ich ein interface welches unbrauchbar ist.
+Romino Florio
+00:56
+was verstehst du unter lösung?
+die lösung ist bekannt.
+00:57Romino Florio ist abwesend
+
+Marc Landolt
+00:58
+eben der teufel steckt im detail, und wenn du im interface etwas vergisst, dann kannst du danach vielleicht die aufgabe nicht lösen... soll schon vorgekommen sein... beim computer wie auch bei anderen dingen... hingegen gutes beispiel die concorde....
+00:58Romino Florio ist zurück
+Romino Florio
+00:59
+ja aber so läuft es nun mal. es werden interfaces definiert wo man sich trifft. wenn dann was nicht klappt, gibts ein update vom interface. und diese interfaces definiert man am runden tisch.
+
+Marc Landolt
+00:59
+naja mein motto ist ganz oder garnicht...
+Romino Florio
+01:00
+sorry marc, aber das ist doch schwachsinn. es gibt nie ganz oder gar nicht.
+
+Marc Landolt
+01:00
+und ich will nägel mit köpfen
+Romino Florio
+01:01
+so funktionierts nun mal nicht. ganz oder gar nicht gibts äusserst selten.
+
+Marc Landolt
+01:01
+naja zumindest beim computer gibt es 0 und 1
+Romino Florio
+01:01
+genau. aber hast du schon mal eine software gesehen die absolut bugfrei ist?
+
+Marc Landolt
+01:02
+naja wenn man fehler sucht wird man immer welche finden...
+Romino Florio
+01:02
+stell dir vor die würden alle sagen ganz oder gar nicht. dann hätten wir heute kein linux und auch sonst keine software
+
+Marc Landolt
+01:02
+naja
+Romino Florio
+01:03
+zurück zum interface.
+das ist doch dasselbe. wir machen einen ersten wurf. und wenn der nicht ok ist machen wir einen zweiten.
+um so besser die vorgängige definition
+desto weniger fehler
+
+Marc Landolt
+01:04
+richtig, dann gibt das wieder viel aufwand und viele leute müssen zeit aufwenden, wenn ich jetzt aber das interface so mache dass es auf anhieb stimmt dann entfällt dieser aufwand aber dafür habe ich den grösseren aufwand...
+Romino Florio
+01:04
+ok, aber wer sagt uns dass du es fehlerfrei machst wenn du alles selber machst?
+
+Marc Landolt
+01:05
+aber du kannst nicht ein interface für eine maschine definieren wenn du nicht weisst wie die maschiene einmal funktionieren soll
+Romino Florio
+01:05
+marc, wir wissen wie die maschine funktioniert.
+
+Marc Landolt
+01:05
+zum teil, sie funktioniert ein bisschen anders...
+Romino Florio
+01:05
+wir wissen genau welche abfragen auf der db stattfinden müssen. wir wissen genau welche daten eingegeben werden und wir wissen genau was gelöscht wird.
+
+Marc Landolt
+01:06
+ja aber das ganze jsp ist doch relativ neu für mich und für dich ja auch.
+Romino Florio
+01:07
+was macht dir denn daran die meisten sorgen? eigentlich müsste es ja laufen wie java. und das hatten wir ja zur genüge.
+
+Marc Landolt
+01:07
+nein es ist bei weitem nicht so koherent wie java
+es ist eben verteilt und das macht das ganze eher komplex und unübersichtlich wenn man nicht die technologie gut kennt.
+wenn ich das jsp so gut kennen würde, dann liesse sich vielleicht schon einfach ein interface definieren, doch so gut kenne ich es nicht...
+also kann ich zwei dinge tun, 1. hoffen dass es dann schon läuft, 2. mich damit auseinander setzen udn halt einen funktionalene prototyp machen.
+wie wir das gelernt hatten...
+Romino Florio
+01:10
+ok. das verstehe ich habe auch nichts gegen einen funktionalen prototypen. von denen kannst du soviele machen wie du willst.
+
+Marc Landolt
+01:10
+und ich bin halt nicht der mensch der hofft, weil das leben oft grausam zu mir war...
+Romino Florio
+01:10
+die kommen aber nicht ins projekt rein.
+denn diese werden verworfen und die erkentnisse daraus im projekt angewendet.
+
+Marc Landolt
+01:10
+deshalb nehme ich es lieber selber in die hand... und seit ich das so mache läuft es.
+deshalb werde ich das auch weiter so machen....
+ausserdem habe ich so die kontrolle, und von mir weiss ich dass ich mir vertrauen kann 
+also im technischen sinne...
+Romino Florio
+01:12
+ja, aber mit einschränkungen. du kannst von mir aus soviel testen und machen wie du willst. in dieser zeit ändert sich aber an unserem projekt genau nichts. weil daran nicht getestet wird. testen kannst du eben mit einem funktionalen prototypen. die erkentnisse daraus nimmst du dann mit an den tisch mit uns und dann wird darüber diskutiert wie das interface auszusehen hat.
+kannst du das nachvollziehen?
+verstehst du was ich meine?
+
+Marc Landolt
+01:13
+naja ich habs schon im projekt, sonst muss ich es doppelt führen aber unter anderem nahmen, dies wäre sonst schikane...
+und das wollen wir ja alle vermeiden....
+Romino Florio
+01:14
+marc. aber genau das wäre der richtige weg. wir können auch nicht bei unseren kunden die erfahrungen sammeln und es dann bei anderen umsetzen. wir bauen dazu testumgebungen, eben funktionale prototypen.
+das problem ist eben folgendes: wenn du das in unserem projekt machst, drückst du uns schon wieder gewisse dinge auf.
+
+Marc Landolt
+01:15
+ich denke das ist nicht das problem... solange das separat ist stört es ja niemanden ausserdem habe ich so eine sicherung falls mein pc crasht, was ist der wahre grund dafür?
+Romino Florio
+01:17
+der ware grund: eben wie schon gesagt. es kann nicht angehen, dass Du dinge programmierst und uns dann quasi als die lösung aufzwingst. ich will das interface zusammen mit jenni definieren können. zusammen an einem tisch. dabei können deine gesammelten infos einfliessen.
+
+Marc Landolt
+01:17
+naja dazu gehört entsprechender code, und der ist meiner meinung in einem netbeans einiges übersichtlicher und für alle einsehbar als irgendwie sonst...
+Romino Florio
+01:18
+was du jetzt schon machst kannst du dann später von mir aus für deinen teil verwenden, wenn definiert ist wie das interface auszusehen hat. aber kann nicht sein, dass du schon teile für jenni definierst, auf denen er dann aufbauem muss. jenni soll sich nur am interface orientieren können.
+
+Marc Landolt
+01:19
+und mit dem interface drücke ich ihm ncihts auf?
+???
+Romino Florio
+01:20
+nein, weil das interface definieren wir gemeinsam, alle drei zusammen. dein einfluss wird dabei wohl eher grösser sein als meiner, weil du die meiste ahnung hast. aber erst wenn wir es zusammen definiert haben kannst du deine seite programmieren und jenni seine.
+verstehst du wie ich meine?
+
+Marc Landolt
+01:21
+ich sehe es ist eher ein zwischenmenschliches problem als ein technisches...
+Romino Florio
+01:21
+ja. das ist es zum teil auch.
+
+Marc Landolt
+01:21
+aha
+Romino Florio
+01:22
+es geht darum dass du uns vertraust und uns unseren teil machen lässt. dazu müssen wir aber die schon so viel erwähnte schnittstelle definieren.
+
+Marc Landolt
+01:22
+ich vertraue eh keinem ausser mir, zu viele schleh
+schlechte erfahrungen...
+Romino Florio
+01:23
+ok, damit ist mir und jenni aber nicht geholfen.
+
+Marc Landolt
+01:23
+aber das jetzt psychologisch zu analysieren würde zu weit führen
+Romino Florio
+01:24
+wenn du uns nicht vertrauen kannst, dann musst du dich eben damit abfinden. wir machen unseren teil
+und treffen tun wir uns bei der gemeinsam definierten schnittstelle = interface
+
+Marc Landolt
+01:25
+richtig, und dazu mache ich entsprechende vorarbeit, dass wir uns beim definieren der schnittstelle nicht verhauen, wo liegt dann das prblem?
+Romino Florio
+01:25
+dass du mir uns jenni nicht traust ist auch nicht gerade einfach. so kann man in einem team nicht arbeiten.
+ich hab nie gesagt du darfst keine vorarbeit leisten. in den letzten arbeiten hast du uns aber eben deine vorarbeit aufgezwungen.
+
+Marc Landolt
+01:26
+naja ich bin mir ziemlich sicher dass es jenni hinkriegt, aber nur wenn ich mit dem interface nicht eine vorgabe mache die es dem jenni verunmöglicht das problem zu lösen
+also siehst du ich versuche im wohle unseres teams zu arbeiten
+Romino Florio
+01:26
+aha. da haben wirs. darum müssen wir eben genau das interface gemeinsam definieren.
+
+Marc Landolt
+01:27
+ich meins doch nur gut.
+Romino Florio
+01:27
+ich weis jetzt nicht ob wir nun schon seit 3h aneinander vorbei geredet haben oder ob sich an deiner position jetzt was verändert hat. das ist doch genau das was ich schon lange sage.
+01:28Romino Florio ist zurück
+
+Marc Landolt
+01:29
+und wenn es nicht klappt werde ich so oder so die schuld bei mir suchen, und vermutlich daran zu grunde gehen, deshalb versuche ich das zu vermeiden.
+aber das wirst du wohl eher nicht verstehen.
+Romino Florio
+01:30
+ich kanns versuchen. aber ich meine wir sind ein team. wenns in die hosen geht, kannst du nicht zu mehr als einem drittel schuld sein. bei dieser arbeit kannst du eigentlich nur für deinen teil schuld sein. ich sehe nicht warum du für alles schuld sein könntest.
+versuchs mal zu erklähren.
+
+Marc Landolt
+01:31
+wie auch immer......
+Romino Florio
+01:31
+ne, ist doch wichtig zu wissen wie das bei dir abläuft.
+
+Marc Landolt
+01:31
+ich habe mit der ersten arbeit im prinzip die verantwortung für die gruppe übernommen, und das lösst sich nicht so einfach abstreifen.
+Romino Florio
+01:32
+die mit et?
+01:36Romino Florio ist zurück
+
+Marc Landolt
+01:36
+klar, es war auch nicht anders möglich, da ich den überblick hatte (technisch) aber auch von dort her, dass ihr beide mir vertraut habt, und wir hatten immer über einer 5 also habe ich euch auch nicht im stich gelassen.
+aber ich vertraue auch neimandem, deshalb irgendwie ein schwanzbeisser...
+Romino Florio
+01:37
+ich verstehe nicht ganz was das jetzt mit der aktuellen arbeit zu tun hat.
+es erwartet ja nimand einen 6 von dir.
+
+Marc Landolt
+01:37
+ich versuche die verantwortung für das ganze zu tragen...
+Romino Florio
+01:38
+aber marc.
+das geht nicht
+
+Marc Landolt
+01:38
+weil ich weiss, dass wenn ich sie abgebe kommt es schlecht raus.
+ich weiss es
+Romino Florio
+01:38
+dann lass das doch zu
+finde dich damit ab wenn du uns nicht vertraust.
+
+Marc Landolt
+01:38
+und meine intuition (um dieses üble wort zu gebrauchen) lässt mich meist nicht im stich
+Romino Florio
+01:38
+weisst du was ich befürchte
+
+Marc Landolt
+01:39
+was?
+ich werde vermutlich mal einen herzinfarkt haben, aber damit habe ich mich abgefunden
+Romino Florio
+01:39
+dass jenni uns ich es drehen können wie wir wollen, du wirst mit der note die wir bekommen nicht zufrieden sein und es auf diese arbeitsweise zurückführen.
+nur wenn wir dich machen lassen wie du willst, nur dann wirst du die note akzeptieren.
+
+Marc Landolt
+01:40
+das hab ich nie gesagt und christlich wäre dies auch nicht gerade...
+aber korrekt, ich habe hohe ansprüche
+Romino Florio
+01:41
+also indirekt sagst du das genau. wenn man deine aussagen interpretiert
+du willst die alleinige verantwortung weil du uns nicht vertraust. du sagst du weisst es genau dass es so wie wir es wollen nicht gut kommt und wir keine gute note bekommen.
+steht alles weiter oben.
+
+Marc Landolt
+01:42
+naja
+01:43Romino Florio ist zurück
+Romino Florio
+01:44
+oder verstehe ich das falsch?
+
+Marc Landolt
+01:44
+nein nicht weil ich euch nicht vertraue, aber weil ich das gefühl habe, dass es besser rauskommt wenn ich "euch meine lösung aufzwinge" was jetzt natürlich sarkastisch gemeint ist.
+was ich damit sagen will ist dass zumindest die noten in den letzten vier semstern mir das bestätigen.
+Romino Florio
+01:45
+vertraust du uns jetzt oder nicht?
+
+Marc Landolt
+01:45
+und noten sind objektive fakten
+Romino Florio
+01:45
+was bestätigen sie?
+
+Marc Landolt
+01:45
+sagen wir es so ich vertrau mir mehr als euch, euch aber einiges mehr als irgend ein paar fabrikarbeitern die ich kennen gelernt habe in der abb
+mit ausnahme
+ihr seid i.O.
+wirklich.
+Romino Florio
+01:46
+was bestätigen die noten der letzten la's?
+
+Marc Landolt
+01:46
+nein sonst der zeugnisse..
+Romino Florio
+01:47
+ok. was bestätigen dir diese noten?
+
+Marc Landolt
+01:47
+aber du gibst nicht die kontrolle ab wenn es bis anhin so funktioniert hat...
+das wäre wieder jeglicher vernunft
+Romino Florio
+01:47
+es funktioniert eben immer schlechter so wie es ist.
+stell dir vor wir hätten ein riesiges projekt.
+da kannst du auch nicht alles selber überblicken.
+und sag noch schnell was die noten bestätigen. das habe ich nicht geschnallt.
+
+Marc Landolt
+01:48
+auch dort müsste wohl der, der die besten technischen fähigkeiten hat den überblick behalten, wie bei der gruppe von weber, wo er geführt hat, weil er im alltagsleben software entwickelt.
+und das hat dort sogar sehr gut funktioniert...
+aber das könnte auch jenni sein, der ist nämlich auch wirklich interessiert.
+Romino Florio
+01:49
+marc, du weichst ab.
+
+Marc Landolt
+01:49
+aber du disqualifizierst dich eigentlich mit der aussage, dass es dich nciht interessiert.
+Romino Florio
+01:50
+also eins ums andere
+
+Marc Landolt
+01:50
+siehe oben
+
+Romino Florio
+01:50
+das ist jetzt ein anderes thema.
+
+Marc Landolt
+01:50
+hehe...
+Romino Florio
+01:50
+was bestätigen dir die noten?
+
+Marc Landolt
+01:50
+das ich auf dem richtigen weg bin.
+ich lerne fleissig, investiere meine ganze frezeit und erhalte gute noten
+Romino Florio
+01:51
+das meinst du nicht ernst oder? du hast x andere defizite welche durch die noten nicht erfasst werden.
+
+Marc Landolt
+01:51
+naja oder ich hab einfach eine andere meinung... frage des standpunktes...
+Romino Florio
+01:52
+so und nun zum thema weber:
+hast du das gefühl er zwingt seinen beiden kollegen dermassen alles auf wie du es machst?
+ich denke die arbeiten sehr viel strukturierter als wir es tun. sie definieren zum beispiel gewissen schnittstellen.
+
+Marc Landolt
+01:53
+ich zwinge euch nichts auf, ich kann nur einfach meinen teil nicht lösen wenn ich nicht über die grenze schau
+Romino Florio
+01:53
+marc und ob du das machst. wenn mein html code nicht deinen vorstellungen entspricht bist du nicht zufrieden. und wenn das oder dieses feature nicht eingebaut ist bist du auch nicht zufrieden.
+und
+wir habens oben schon rausgefunden
+
+Marc Landolt
+01:54
+und wenn es zu viele </a> tags drinn hat ist es bei der korrektur einfach falsch. punkt.
+Romino Florio
+01:54
+du kannst machen soviel du willst. testen, experimentieren, alles möglich.e
+
+Marc Landolt
+01:54
+und wenn ich das dann nicht korrigieren darf, dann ist es wohl eher merkwürdig
+Romino Florio
+01:54
+aber am schluss sitzen wir zusammen und definieren wie es aussehen muss. und das haben wir bisher nicht gemacht.
+liest du eigentlich meinen text?
+
+Marc Landolt
+01:55
+ja
+sogar sehr aufmerksam
+zwischenfrage: liest du meinen?
+Romino Florio
+01:55
+ja. es geht auch nicht konkret um die tags.
+
+Marc Landolt
+01:56
+also ich sehe verhertete fronten und wir müssen einen konsens finden, was schlägst du vor
+Romino Florio
+01:56
+moment. habs schon geschrieben.
+
+Marc Landolt
+01:57
+*such3
+*
+Romino Florio
+01:57
+verlasse dich auf mich und jenni. lass uns unseren teil selber realisieren und drücke uns nicht deine technischen vorstellungen auf. werde erst aktiv wenn wir dich konkret nach hilfe fragen. wir sind ja nicht allwissend also brauchen wir ev. auch mal deine hilfe. aber es ist wichtig uns unseren teil machen zu lassen und zwar selbstständig. aus diesem grund lasse auch zu dass wir 
+schnittstellen d
+
+Marc Landolt
+01:57
+war das jetzt eine copy paste aktion, sowas hab ich glaub schonmal gelesen...
+aber konkret, es braucht supervision bei uns...
+Romino Florio
+01:58
+ermöglichen uns dass jeder selbstständig an seinem teil arbeiten kann.$
+also.
+dann vertraue darauf dass ich die supervision im griff habe.
+oder wenn du nicht vertrauen kannst dann finde dich damit ab.
+
+Marc Landolt
+01:59
+hast du dafür die technischen fähigkeiten?
+ctf
+Romino Florio
+01:59
+ja. soweit ich sie brauche habe ich sie.
+ich kenne die konzepte die angewendet werden. ich kenne nur die details nicht.
+aber die kennt kein projektleiter
+in der regel haben projektleiter bei grossen projekten nicht mal einen technischen hintergrund.
+
+Marc Landolt
+02:00
+naja, der projektleiter muss aber auch die detail probleme lösen können
+Romino Florio
+02:00
+nein. ein projektleiter arbeitet nie an den details.
+
+Marc Landolt
+02:01
+eben wir sind aber nciht an einer projektleiter schule sondern an einer techniker schule... ok mit projektmanagement als nebenfach
+also ich werde in dem falle mit jenni zusammen zusammenhocken udn das interface definieren...
+Romino Florio
+02:02
+das haben wir schon diskutiert. merkst du das eigentlich nicht? seit wir LA's haben ist der fokus immer weniger auf der technischen realisation. es geht immer mehr um andere aspekte
+in dieser wird die doku als solches sogar zu einem viertel gewichtet.
+ok. ich werde mit jenni telefonieren.
+
+Marc Landolt
+02:04
+ok dann schöne ferien in dem falle...
+Romino Florio
+02:04
+danke.
+und mach auch mal ferien.
+skiferien oder so.
+gute nacht.
+
+Marc Landolt
+02:05
+cu
+

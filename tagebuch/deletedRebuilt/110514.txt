@@ -1,0 +1,516 @@
+Tagebuch Sa 14 Mai 2011 20:08:00 CEST @ Marc-Landolts-MacBook-Pro.local
+
+
+heute it Security vorlesung: telweise gelangweilt, zu wenig hacker details, alles auf management ebene betrachtet, strukturelle vorkehrungen etc.
+
+
+
+notizen zu Now-Consulting gemacht
+frage von mir: was ist wenn eine firma (zitat Meinrad Baur:) nur das macht was geld bringt?
+geld bringt z.B. ein konsumbot der diskret oder mit einem holzhammer die leute dazu nötigt dinge zu kaufen die dann einfach in der garage herumliegen
+oder einem die gesundheit kaputt machen wie das rauchen.
+
+ |XXXXXXXXXXXXXXXX ablenkung zum verhör in zürich XXXXXXXXXXXXXXXXXXXXXXX
+ | 
+ | hypothese: claudine hat in mir katholische gedanken gezüchtet nur mit dem umstand, dass ich nirgends beichten kann.
+ |  ->folge, ich muss alle sünden die von irgendwem auf irgend jemanden anderen gehen oder auf mich oder von mir nicht vergeben sondern lösen
+ |   ->allenfalls sogar ein produkt, jemand geht beichten und bei mir materialisiert ein zettel mit einem problem + allfällige aggressionsschübe
+ |    ->und das tue ich gratis in meiner freizeit
+ |      =>internetseite materialisiert, die sagt es brauche alles vom papst bis zum priester nicht, einzig die verbindung zu gott müsse da sein.
+ | 
+ | was aber das materialisieren der zettel immer noch nicht erklärt
+ | 
+ | a) versuch meine psyche zu beschädigen
+ | b) test meiner stärke
+ | c) terrorismus
+ | d) reicher sack der gerne auf schwache einprügelt
+ | e) schwäche meiner psyche und verarbeitung damit ich nicht zu grunde gehe
+ | f) internetangriff auf das neurointerface
+ | g) resultierende der geheiminfos die ich herausgebe <- wer hat das bei mir angefüttert?
+ | 
+ | 
+ | 
+ | ABSTRAKT
+ | Darstellung meines geistes
+ | 
+ | jeweils grosse grundstrukturen und dann bei jedem punkt bis ins letzte detail gehen
+ | ->zeitaufwendig
+ | ->anstrengend
+
+ich habe auf das papier geschrieben:
+now-consulting besitze einen datenbestand von autostore konfigurationsdateien die auch passwörter enthalten können z.B. von einem LDAP server, diese sind als klartext wieder hervor holbar
+ ->responsible disclusure, ich habs dem hersteller bereits gemeldet, afaik hr. friedrich
+
+dann habe ich geschrieben, dass meiner meinung nach die safecom controller offen sind, z.B. läuft da drauf ein FTP server, mit z.B. standardpasswort oder gar kein passwort
+ ->meine >subjektive< meinung ist, dass SafeCom nur ein sicherheits gefühl vermittelt, aber weit davon entfernt ist sicher zu sein
+
+der bund setzt es ein
+ich schätze mäni baur so ein, dass er
+a) selber glaubt das sei sicher 
+b) einfach die kunden mit überzeugung anlügt um profit zu machen
+
+->tragweite: der bund setzt diese ein, somit besteht eine gefahr für das land, deshalb dachte ich, allenfalls wäre es noch sinnvoll dies bei einer staatlichen isnstitution
+  wie einer anerkannten Fachhochschule zu petzen
+
+vernünftigerweise würde man mal jemandem der zeit und knowhow im hacken hat so eine safecom installation hinstellen, und im falle von lücken z.B. im safecom controller
+ein code review mit den entwicklern machen
+
+ | 
+ | ich sei das sicherheitsproblem mit meinem mac
+ | 1. ich habe ein starkes passwort und dieses nirgends aufgeschrieben
+ | 2. ich habe einen aktuellen kostenpflichtigen virenscanner
+ | 3. ich mache fleissig backup
+ |  ->das backup auf linux server im keller hinter firewall, und ein bisschen gehardenet
+ |     fail2ban, nur wenige ports gegen aussen offen, login meist mit DSA zertifikat, snort installiert ->aber keine zeit für auswertung (da wäre ein reicher klar im vorteil) und somit wäre es eine gefahr, dass
+ |               nur die reichen sich mit IT security auseinandersetzen dürften
+ | 4. wenn ich versuche meine nachbarn ins andere vlan zu verbannen werde ich daran gehindert <-- ev. reicher der zeit für das hat
+ |  ->für die die das gefühl haben ein schachspiel gegen mich spielen zu müssen, sie geben ihren gesammten reichtum ab, leben in einer einzimmerwohnung, bekommen täglich tonnenweise zettel materialisiert, sind 10 jahre alleine
+ |   ->dann wäre es ein faires spiel
+ | 
+
+weitere sicherheitsprobleme
+der download bei safecom ist als http gemacht, somit kann jeder internetservice provider mit z.B. etterCAP like tool die nach dem 3. mal bekannte datei durch eine mit virus gepatchte datei ersetzen
+  ->einige dateien sind ohne dateizertifikat, z.B. scPopup.dll, schande über safecom
+
+der SAFEcom controller (man merkt die suggestion auf SICHER) hat defaultmässig kein passwort
+1. portscan
+2. ftp verzeichnis
+3. ...
+
+
+mein urteil, um kosten zu spahren beim drucken i.O. um abrechnungen an schulen etc zu mache OK, für militärisch sichere zwecke, NEIN DANKE.
+->szenario 1, Land A (DK) welches die software programmiert speist beim bund über den ftp update in der software autonomen schadcode ein
+  =>ftp sei zu
+
+->szenario 2, martin geissbühler macht update über nowcon und speist die dll die er auf dem usb stick hat in die firma ein
+  =>im militär werde kein consultant an den server gelassen
+
+->szenario 3, der safecom controller wurde bei uns upgedated mit neuer software und wieder an den bund zurück gegeben, leider handelt es sich bei der software um einen autonomen virus
+  =>schach
+  =>das IDS würde es merken, leider sind schon wichtige daten abhanden gekommen, da leider der ausdruck durch dieses device geht.
+  =>z.B. ein stück software, das 1 monat nur den text der ausdrucke konsolidiert und dies dann einmalig zu einem server schickt.
+   ->ev noch mit berücksichtigung des schlüsselwortes "GEHEIM", etc...
+
+somit stünde die wirtschaft über dem bund und über dem militär
+
+
+dann habe ich, das gefühl dass in unserem netzwerk bei der now ein trojaner dafür sorgt, dass sich tasks beenden, dass sich der tastaturstack verhaedert etc...
+
+->der physikalische zugriff auf meinen server im keller sei sehr einfach
+ =>ja der steht leider da, weil ich eine einzimmerwohnung habe und man mit server im raum nicht schlafen kann
+  =>2 oder 3 zimmer wohung wäre im interesse der security bei mir
+
+
+ | 
+ | dann die geschichte mit der hypothese dass rockwell eine zielgerichtete soziale interaktion gegen abb flexible automation gemacht hat
+ | ->das sicherungsband dass ich pflichtgetreu dezentral bei meinen eltern im kleinen tresor deponiert habe -> allenfalls wäre das gut wenn es ein passwort darauf hätte und im bankschliessfach aufbewahrt würde
+ | ->stimme: meine eltern hätten mir extra den schlüssel gegeben und noch einen behalten um zu schauen was ich wertvolles habe
+ | ->des weiteren ausschaltung durch chemische substanz
+ | ->des weiteren könne man mir über die zigaretten eine chemische substanz zufügen, die mich dazu bringt das passwort zu verraten
+ |  ->geht auch ohne suchtverhalten, z.B. durch foltern mit mikrowellen und allenfalls fiesen visuals auf dem visuellen kortex
+ | ->marktanalyse von z.B. werner erismann würde die grundlage bieten für solch eine zielgerichtete soziale interaktion
+ |___ execute $smokeMatt (mit autovervollständigung)
+   ->aggressionsschub
+
+      execute $yourWholeFamilyHatesYou
+      execute $yourSisterDoesNotLikeYou
+
+
+      notiz für schwesterchen, ich hab dich gern
+
+
+weiteres problem, secure printing kommt dort zum einsatz wo es für z.B. geheimdienste interessante daten gibt, eben geheimes, somit müsste abgeklärt werden ob safecom
+allenfalls nciht auch unter dem einfluss irgend eines geheimdienstes steht
+
+
+ | van essen stimme: es sei eben doch so, dass meine familie mich ausgegrenzt habe, und nun drohe der vater die schwester zu töten, damit ich mich weiter ausnehmen lasse
+ | da es wirklich so sei, dass meine grossmutter meine eltern über mich kontrolliert habe und sie so einen immensen hass entwickelt hätten auf mich als ausführender der deprivation
+ | vater stimme: aber das könne ich nicht beweisen
+ | pfisterer stimme: so die medikamente für den senior würden verschärft werden
+ |  ->zweimal hupen draussen
+ | 
+ | mutter droht am tisch: es solle nicht meine beiden geschwister belasten, eltern brauchen die geschwister die ich liebe als druckmittel, wobei ja klar ist, dass ich sie liebe
+ | 
+ | sie lieben sie auch ich müsse mir keine sorgen machen
+ | 
+ | 
+ | 
+ | 
+ | 1. 4 zusammen 1 aussenseiter im keller
+ | 2. aussenseiter findet kollegen und hilfe
+ | 3. diese kollegen sehen, dass er aussenseiter ist und greifen die rädelsführer (eltern) an
+ | 
+ | 
+ | hypothese: schmerz auf vater wegen schuld auf leid meiner schwester verlinkt
+ | ->somit bin ich mundstumm gemacht
+ | 
+ | beziehungsnetzwerk der eltern: explizit mich zum feind gemacht, damit man jemanden hat worauf man fokusieren kann für sein leid und die eigentlichen peiniger (die eltern) getarnt bleiben
+ | van essen: das sei aber nicht bei allen eltern so
+ | 
+ | psychosoziale dimension:
+ | 1. vater landolt hat eine liebe
+ | 2. er kämpft für sie
+ | 3. er gibt auf und wird so zum sklaven seiner mutter
+ | 4. er ist hasserfüllt und fremdbestimmt, verschiedene szenen in meinem leben die das bestätigen
+ | 
+ | ...
+ | 
+ | 
+ | 8. er will mir das selbe antun und sagt dinge wie, es ist unmöglich dass ich claudine retour bekomme (Re()) was komplett nicht unmöglich ist aber es führt allenfalls dazu dass ich aufgebe
+ | 
+ |  Motiv, mich zum aufgeben zu bringen: eine gefahr für ein dunkles system
+ | 
+ | visual: mein vater am durchdrehen
+ | 
+ | visual: meine mutter am deprivieren meines cousins weil er aufgegeben hat und jetzt fröhlich sex hat mit der zweiten.
+ |  ->Motiv: macht meiner mutter über meinen cousin, macht meiner tante über meinen cousin, allenfalls transitiv macht der eltern meiner eltern und nun das subjektive empfinden, dass meine eltern das auch dürfen
+ |    ->kettenbrief druchbrechen
+ | 
+ | 
+ | 
+ | einfluss der schwiegermutter auf die familile
+ | hypothese:
+ | würde ich claudine retour bekommen würde ich überhaupt keine probleme haben mich von meinen eltern loszusagen
+ |  ->woher kommt das
+ |   ->tief /eingeprägtes/ bild dass meine eltern mich absichtlich im stich gelassen hat
+ |    -diskreditierung vor meiner familie durch einen ausraster mit seroquel induziert, meine eltern haben mich zum psychiater gebracht, ausgrenzung aus der familie, EINPRÄGSAM
+ |    -lüge meiner mutter, ich müsse eine Therapie machen dann bekäme ich claudine retour
+ |    -visual der brennessel und dem auslachen
+ |    -visual meines vaters der nonverbal mich in der familie ausgrenzt
+ | 
+ | rollentausch
+ | ich grenze ein kind (wechselbalg) in der familie aus weil ich über es als bote depriviert werde
+ |   --quelle: ich der liebend meinem vater hinter her laufe und er der mich anschreit, was läufst du mir nach wie ein hund
+ |     ->bessere antwort wäre: knuddel
+ |  ->das resultiert darin, dass ich lieber im keller bin als bei der familie, konflikt vermeidung, somit fühle ich mich wohler im keller
+ | 
+ | vater stimme: was ich machen wolle, ob ich ihn töten wolle?
+ | ->luke ich bin dein vater
+ | 
+ | konzept: sich als alpha tier behaupten durch das (common sense) ausgrenzen eines aussenseiters, profilierung
+ | 
+ | 
+ | objektiv: mit meiner mutter kann man gut diskutieren
+ | objektiv: mein vater hat eine ahnung von elektronik
+ | 
+ | also man will mich wirklich zwingen einen krieg zu führen
+ | 
+ | Motiv:
+ | a) geheimdienst, damit ich beschäftigt und kontrollierbar bin
+ | b) hass auf meinen vater
+ | c) hass auf mich
+ | d) weiteres
+ | 
+ | also beim verabschieden hat mein vater mir zu verstehen gegeben, dass er mich hasst und irgend etwas wie TSCHAU in einer bösen stimme gesagt obwohl ich am flennen war
+ | 
+ | 
+ | also wie bringt man dark vather dazu wieder auf die weisse seite zu gehen
+ | was wenn er sich auf der dunkeln seite wohl füht
+ | was wenn er so oft sich über den gutling lustig gemacht hat, dass er vor sich selber das gesicht verliert?
+ | was wenn mein vater markus belser beauftragt hat mich mit drogen ruhig zu stellen
+ | was wenn meine mutter claude henchoz dazu genötigt hat mich zum kiffer und zum raucher zu machen
+ | 
+ | 
+
+ Irgendwie sieht der algorithmus so aus, dass ich mich auf mich und meine familienproblem konzentrieren soll
+ ev. wird geld dafür bezahlt, z.B. ein geheimdienst hätte genug geld um leute anzustellen um mich damit zu beshcäftigen
+
+ | geschister: ich liebe euch über alles, ausserdem seid ihr warscheinlich opfer des dunkeln systems, lea und luke
+ | ->ich gehe auch in den tod für euch, und das ist mein ernst.
+ | claudine: danke dass du mir zumindest 1 jahre Re() gegeben hast, mein armer bruder hat seine unschuld in einem one night stand verloren :( knuddel an dominik, ausserdem request an das system zur peinigung dieser dame.
+ | ->ja was wir dann mit dieser dame machen sollen ich: vierteilen und dann in kleine würfelstücke hacken, ähm ich meine sie soll sich ein leben lang ihrer tat bewusst sein!!!!! 
+ | elstern: mit euch will ich einfach auskommen, aber ich habe keine liebesgefühle gegenüber euch
+
+
+Do what i say
+a) gute person die das sagt
+b) schlechte person die das sagt   <-- hate yourselve with style
+
+ | fehlbarkeiten in der kindheit -> kontrollinstrument im erwachsenen alter
+ | goldenes kind dass immer nur opfer war -> kontrollierendes instrument
+ | a) gute pläne, z.B. Systemerhalt -> leider negativ für das wohlsein der gesellschaft, da die gesellschaft gerne auf kosten von schwächeren lebt
+ | b) dunkle pläne, konrollierbar
+ | ->motiv für den exogenen terrorismus von mir die gesellschaft davon zu überzeugen dass ich dunkle pläne habe, hilfsmittel, im einfachsten fall ein gerät dass das adrenalinmolekül auf distanz stimuliert, im kompliziertesten fall
+ |  selbiges gerät, doch anbindung (multihack) an das neurointerface netz und den visuellen kortex
+
+simultanpartie?
+und ich muss solange weiter spielen bis ich verloren habe?
+ihr habt gewonnen...
+->allenfalls würde gruppensex in der selben generation das problem lösen wenn alle beteiligten mitmachen würden
+ich müsste dominik mit claudine paaren
+selber müsste ich es mit sonja treiben
+ursula müsste mit ...
+
+->somit wäre es nicht mehr die grosse liebe der man nacheifern muss, das sexualdispostiiv der eltern wäre nutzlos
+
+
+Sa 14 Mai 2011 22:30:22 CEST
+Zettel-now:
+Erleuchteter mit viel einfluss in der gesellschaft
++ein satan der ihm ein elektroschock halsband angelegt hat um ihn für seine zwecke zu missbrauchen
+->inverse, das elektroshok halsband ausbauen und dem satan anmachen zwecks leuterung
+
+
+Zettel-now:
+Layer 8 sagt
+Meinrad baur habe zugriff auf meine resonanzkeime, er wolle entweder geld oder löschung seiner einträge
+
+selber zettel:
+Constraint 1: niemanden angreifen, denn angriff -> gegenangriff -> never ending story
+
+
+Zettel-now:
+blockierung des support mitarbeiters (mich) durch
+alternierendes präsentieren dreier verschiedener probleme, und verschlimmerung des problem n-1 wenn man am problem n ist
+inverse: ein problem komplett abschliessen und dann das nächste angehen
+ ->es klingelt just das telefon, und verlangt doch das am problem n+1 gearbeitet wird
+->ist simultanpartie
+
+Zettel-now:
+Cheff der firma N greift die firma B an
+firma B rächt sich am supporter der firma N
+
+
+Zettel-now:
+Prädisposition: fleissig, schlau, ehrgeizig, 
+1. Einarbeiten
+2. langjährigeren überholen weil nuss
+3. visionen
+4. andere frustriert
+5. kündigung
+
+
+Zettel-now:
+hypothese:
+1. ich werde immer performanter bei meinen tätigkeiten
+2. Natalie die insgehiem zuschaut denkt sich, das geht nicht, ist ein mitarbeiter sehr fleissig, schnell und gut förder das sein selbstvertrauen und er hat einfluss auf die anderen mitarbeiter
+3. natalie schiesst mich ab
+4. mäni kommt mötzeln weshalb ich nciht performant bin und grinst sich einen hin weil er ja sooooo viel besser ist
+5. ich bin traurig
+
+Natalie: ziel einer firma müsste es sein, dass alle mitarbeiter sich wie der konjunkturzyklus verhalten und eine schwingende aufwärtsbewegung machen
+
+
+Zettel-now:
+in short, Ricoh Go manual korrigieren, z.B. S33 für die neuen geräte
+
+
+zettel-now:
+Pizzetria Rombach
+Kiosk Aarau
+der Zigaretten automat lockt süchtige kunden an   -> lockstoff
+
+
+
+
+zettel-now:
+schöne frau hält kommisar von arbeit ab
+patch: kommissar muss schöne kommisarin sein
+
+
+
+shots without brain
+shots with brain
+
+zettel-now
+windows secret doors
+microsoft permutiert sein windos so dass die funktionen neu zu suchen ist, so haben die leute vorteil, die zeit haben und die die im stress sind für die wird es schlimmer
+->ev kartell
+
+das filesystem ist allenfalls einen layer nach oben gewandert
+dateien erscheinen im safecom trace erst, wenn man den explorer öffnet
+
+marketing / non-techie 
+  |
+   -----kartell als einzige überlebenschance, wachstum ungesund für gaja
+
+  techie oder handwerker kann güter erstellen / immateriellen wert schaffen
+
+
+
+
+Sa 14 Mai 2011 23:21:01 CEST
+
+
+der marketing bot der mich zum kaufen eines donuts im coop bahnhof wohlen anstiftet meldet sich
+1. ca. 2 kilometer vor dem ziel zum ersten mal
+2. wird auch wahrgenommen wenn man die augen geschlossen hat, somit ist es keine externer visueller reiz der das verhalten verursacht
+->allenfalls benutzt coop AG ein botnetz welches auch heimrechner betrifft
+
+
+
+
+Zettel-now:
+Software PRoblem
+a) überzeugend leugnen				->nur finanzielle interessen
+b) schauen ob race condition und lösen		->interesse an funktionierendem system
+
+hypothese:
+wenn man reich ist hat man ruhe vor der mafia denn ist man reich hat man geld und beziehungen für nachforschungen
+
+zettel-now:
+warum ist ein ungelernter wie claude so gut bezahlt
+->hat zigaretten angefüttert, ist er allenfalls von der zigaretten industrie gefördert worden?
+
+
+
+ist windows und die davon abhängigen firmen ein kartell?
+
+
+
+wie kann man nur glücklich mit jemandem leben wenn man das herz und die seele eines anderen gestolen und gefangen hält?
+
+
+repetitiv:
+hätte ich tobias moser retten können wenn ich nicht mit claudine zusammen gewesen wäre?? :(
+->sachebene:
+wer hat die neurointerface installation gemacht in seinem hobby raum?
+wer hat ihm eine waffe überlassen
+
+
+SafeChaos: chaos developper???
+
+hypothese:
+hat ein mensch zuviel macht in der weltpolitik (z.B. Julian Assange) wird das sexualdispositiv hervor geholt und im z.B. ein sexualdelikt an kindern oder frauen vorgeworfen
+->somit wird dieses konditionierte stimuli in der bevölkerung aktiviert und er verschwindet von der bühne
+
+
+repetitiv (ev schlüssel)
+claudine als fehlbarer richter
+waage <-> relation <-> sternzeichen <-> relation rot
+
+
+
+
+1. Integrität  (Der integere idiot)
+2. Soundrüml
+3. psychiatrie
+4. aussenseiter
+5. lernen, lesen etc.
+6. wieder integritet, mit viel wissen dahinter
+
+
+als admin arbeiten
+ ->keine probleme
+ ->keine sicherheit
+
+ev. gibt es zwei arten von informatikern, die die nach vorgabe (best practice) arbeiten und das mit präzision tun aber keine ahnung vom gesammtsystem haben
+die die nach dem chaos prinzip arbeiten und so mehr verständnis vom system haben
+
+
+allenfalls kultiviert das marketing leute die spezifische fehlinformation einspeisen um auf grund dieser fehlinformation produkte verkaufen zu können
+->networking, z.B. über die offiziersmesse eingespeister doofer spruch wie, nach dem essen sollst du rauchen oder eine frau gebrauchen +zwerchfell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

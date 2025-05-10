@@ -1,0 +1,58 @@
+Tagebuch Mon Feb 2 12:12:29 CET 2009 @ ns2.ignored.ch
+
+gedanken zur ordnung in der Informatik
+
+Ein System ist im prinzip ein Fraktal an han dessen was das System
+alles koennen soll.
+
+Auf ebene der Benutzer soll dieses System aber ordentlich und intuitiv sein
+
+schlussfolgerung. irgendwer muss eine middleware schreiben um die
+chaos welt mit der benutzerwelt zu verknuepfen.
+
+fuer windows gilt das wohl gleich wie fuer unix system, jedoch
+ist bei windows applikationen vieles in eine Benutzermaske integriert
+jedoch nicht immer alles so kommt man zwischendurch auch dazu, dass man
+etwas an einer config datei machen muss, bei unix systemen gibt es auch
+grafische oberflaechen wie webmin etc. jedoch kann man die ganzen einstellunen
+auch in den konfigurationsadteien selber machen. ausserdem erhaelt man durch
+die konfiguration faehigkeiten die einem im falle eines fehlers hilft
+diesen zu lokalisieren. bei windows systemen kennt man dann einfach
+die oberflaeche, aber nicht wirklich das innenleben. womit aber MS und co
+sicherstellen, dass die meisten benutzer auch benutzer bleiben und nicht
+selber beginnen software zu etwickeln. aber ist schon ein bisschen so.
+Bei unix config files hat man aber teilweise bereits die variabelnamen
+in den config files, was es im falle von debugging erleichtern wuerde.
+naja windows laesst sich eh nicht debuggen da kein src vorhanden
+abgesehen von rebmaennern und so.
+
+
+Tagebuch Mon Feb 2 12:21:03 CET 2009 @ ns2.ignored.ch
+
+Tagebuch Mon Feb 2 19:07:25 CET 2009 @ ns2.ignored.ch
+
+spezialfaelle und kundenadministration
+
+meta (st(b)')' devil, durchsichtig.
+Tagebuch Mon Feb 2 22:33:55 CET 2009 @ ns2.ignored.ch
+
+spezielles und sonderfälle in zusammenhang mit beschäftigung der beiden anderen, so dass man nicht fragen kann, ich lasse mich meist fragen,
+verursacht noch eine handlungsblockade bei mir, die routinen sachen gehen auch schon schnell
+dann problematisch sind die dinge, die längerfristige abhängigkeiten von anderen leuten benötigen, die kann man nicht erledigen
+also muss man irgend ein tool haben welches einem dann erinnert (z.B. kalender) dass man noch das nachhaken sollte...
+
+dann: an gott glaben kann nur vorteile bringen:
+
+nächstenliebe --> d.H. man ist nie sauer auf jemanden --> d.H. man ist immer glücklich bzw eben nie sauer und auch nicht sauer
+das man sauer auf jemanden anderer war. wow. hätte nicht gedacht, dass sich das so ausbezahlt... das gute ist 
+es war wirklich lieb gemeint... und deshalb lässt gott mich wohl trotz situationen die es durchaus erlaubten, auszurasten
+im zweifelsfalle sind es die medikamente die mich davon abhalten....
+
+stress habe ich trozdem, aber hätte ich stress und müsste noch hassen oder so dann wärs um micht geschehen. zum glück aber ist das unmöglich.
+mister QED: FRESSE. (humor <-- tragik das anzuschreiben)
+
+
+Tagebuch Mon Feb 2 22:39:14 CET 2009 @ ns2.ignored.ch
+
+dann bin ich denn von damoklessen und medusen und zyklopen und kassandern umgeben, eigentlich müsste man seine mitarbeiter mit sochen
+griechischen monstern umgeben, damit man sie "händeln" kann. wäre aber nicht gerade christlich....:

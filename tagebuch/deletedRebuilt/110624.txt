@@ -1,0 +1,145 @@
+Tagebuch Fr 24 Jun 2011 22:39:31 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+
+auf dem firmennetzwerk bei nowcon wandern merkwürdige SIP pakete herum
+ich habe mit grep die uhrzeiten der pakete gefiltert und dies im excel linear dargestellt
+
+->dabei kommt graphisch heraus, dass sich die SIP protokoll aktivität merklich ändert und zwar bevor der erste mitarbeiter bei nowcon eingecheckt ist
+
+=>hypothese: bin ich aber zu wenig der profi: es könnte sihc dabei um ein geschäftsrelevantes bot netz und allenfalls um command and control infrastruktur handeln
+->ich habe es dem cheff gemeldet, und gesagt, es wäre allenfalls sinnvoll wenn es nciht zu teuer wäre, diesen traffic mal von einem profi analysieren zu lassen
+
+=>der rest des tages ist die kurve mehr oder weniger linear und die steigung der kurve konstant
+
+=>traurigerweise hat es diese protokolle bei mir auch, mache das selbe hier zuhause
+
+
+->analyse bei mir zuhause
+SIP floods scheinen teilweise von meinem server in frankreich zu kommen
+
+dabei stosse ich auf die antwort von olivier müller: die antwort ist 42, also 20 jahre knast für mich für den angeblichen mord an tobias moser
+
+fakt ist aber scheinbar folgender
+
+das SIP voip netz kann dazu verwendet werden (z.B. mörderin mörderin mörderin algorithmus) einen menschen zum suizid zu bringen, ich denke genau das ist mit tobias moser passiert
+SIP sagt: es sei wirklich härdi gewesen der seinen tod befohlen habe, das ganze funktioniere so, dass diejenigen mit waffen, sprich das militär etc. in diesem SIP botnetz
+befehlsgewalt hätten. natürlich brauche man für das beziehungsnetz wo man drinn lebt einen sündenbock
+
+ABSTRAKT
+Zitate härdi: *MIND BLOCKER* wotsch min eunuch werde
+Zitat härdi: soseli seit s groseli und biist is graas, also besteht auch die möglichkeit dass meine grossmutter die wahrheit herausgefunden hat und er sie somit mit bauchspeicheldrüsenkrebs infiziert hat, elektrochemisch.
+
+SIP: er droht nun damit claudine zu erschiessen
+->heisst er liest meine daten
+->heisst er ist ein typ mörder und geht über leichen <- das muss gestoppt werden
+END ABSTRAKT
+
+->ich muttiere in den kriegerischen modus <- aber geist ist noch da: das ist kontraproduktiv
+
+wenn das stimmt solle der härdi folgendes tun um seine sünden zu büssen
+
+20 jahre systemerhalt für den mord an tobias moser
++20 jahre systemerhalt für den mord an meiner gorssmutter
++10 jahre für das unterschieben des mordes an mir im beziehungsnetzwerk
+->mit neuzig wäre er wieder draussen => folge: er wird terror machen, also müsste man das irgendwie anders lösen.
+
+
+
+es wird jetzt noch wieder gesagt ich hätte ihn getötet, aber im normalfall ist jemand der so kalt ist einen menschen zu ermorden schon darauf vorbereitet eine passende begründung (z.B. leidenschaft) zu bringen
+aber in fact sind es elektronische pulse interpretiert vom gehirn
+
+resonanzkeim Breakpoint.
+
+
+im systemerhalt denken:
+bekannter mörder mit waffe hochrangig militär, massnahmen
+1. entwaffnen -> sonst mordet er wieder
+ ->waffe konditionierende auf relation, waffe=fordern
+
+2. einem kind eine waffe geben -> mittlerweile glaub korrigiert, waffen können im militärdepot gelassen werden
+stimme: ->waffenträger sollen sich untereinander ausmerzen und die friedliebenden leute in frieden lassen  <- problem forderung
+
+
+
+waffen = macht = ungleichgewicht
+wird die waffe eingezogen besteht eine grosse warscheinlichkeit, dass die gepeinigten sich danach blutig am ex Alphatier rächen, je nach dem wie fest sie gelitten haben
+
+
+stimme: ist der Laptop eine waffe?
+        ist die feder eine waffe?
+*MIND BLOCKER* = irgendwer verhindert das weiterdenken mit strahlung
+
+ein laptop in den händen eines kompromiss menschen, eines menschen der wirklich gutes erreichen will für alle seine mitmenschen ist in diesem falle eher keine waffe so wie oben definiert, macht, profit, etc.
+->er kann aber zur waffe gemacht werden wie die feder auch, deshalb wäre vernünftiges SYSTEMENGENEERING so, dass genügend Vernunftmenschen die macht haben und sich gegenseitig helfen, wenn einer grad
+freiwillig oder unfreiwillig einen verhaltensschaden (da sei ich gemeint) hätte.
+
+
+notiz: wenn ich ein kind habe, wird das gsoa anhänger, oder bekommt im militär nur ein holzgewehr mit holz lauf und ohne abzugsmechanik, denn irgendwelches katastrphenzeugs aufräumen ist gut finde ich
+und die rettungstruppen kann man auch brauchen, und ev. die eichhörnchen bekämpfenden richstrahler (wenn ein vernünftiger wissenschaftler darüber steht auch)
+
+zusammenfassung: Designpattern: man hat ein familienmitglied von dir ermordet, jetzt raste aus und lauf amok -> kontraproduktiv
+->aber den mörder in den knast stecken wäre schon das richtige
+
+polizeiarbeit:
+allenfalls ist es ganz schlecht, wenn man irgendwo klingeln geht und der frau oder familie sagt, dein mann / frau / kind wurde von dem und dem erschossen
+Elektrochemische reaktion
+a) Aggressionsschub triggern, ev. direkter amok lauf
+b) Tränen triggern, mit jemandem knuddeln den man lieb hat bis man es verarbeitet hat
+c) weiteres verhalten
+
+"reaktion von claudine auf mein sms nach dem getriggerten code: mörderin mörderin mörderin"
+
+stimme: feel / think
+gruppe: pro feel
+gruppe: pro think
+gruppe: mitte
+
+
+
+killen der gruppe: pro feel
+->dem mensch einen ganz wichtigen anderen menschen nehmen
+
+killen der gruppe: pro think
+->sie einem schweren denkfehler (den man allenfalls sogar selber geplant hat) bezichtigen
+
+killen der gruppe: pro mitte
+(kleine randbemerkung, nein ich will niemanden killen, ich versuche aus der social engeneering perspektive herauszufinden wo man sihc am besten befinden sollte)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

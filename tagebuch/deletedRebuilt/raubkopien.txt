@@ -1,0 +1,64 @@
+
+So 13 Mär 2011 18:31:49 CET
+
+
+hypothese:
+
+
+Wie werde ich als Medieninhaber (Lable/Softwarehersteller) reich
+
+1.  Ich fütter bei den Jungen Kindern / Jugendlichen das Raubkopieren an. Ich wähle den angesehendsten Schüler des aktuellen Jahrgans aus.
+2.  Ich lasse den Dingen freien lauf, da ich mir bewusst bin, dass das Raubkopieren ohne Einflussnahme anderer gedeihen wird.
+3.  Ich warte bis die Kinder / Jugendlichen vor dem Rechtsstaat schuldfähig sind
+4.  Ich miete mir ein illegales Botnetz, z.B. Zeuss um an hand des Facebook kontaktes den Besitzer des Computers zu ermitteln, und an Hand der MD5 Summe aller MP3 Dateien eine Liste der Sünden zu generieren
+5.  Ich nutze technologien wie z.B. das einblenden von einzelbildern oder Bilder mit einem grossen Alpha wert (Durchsichtigkeitsfaktor) um dem individuum mitzuteilen, er müsse jetzt die Songs die er besitzt kaufen
+   
+ a) tut er das gibt es kein Problem, der Medieninhaber hat was er wollte, Ertragssteigerung durch das anfüttern von Songs.
+ b) tut er das nicht geht es weiter
+
+6.  Der Medieninhaber versucht das Geld zuerst bei den Eltern einzutreiben und Droht mit Klage
+
+ a) lieben die ihr Kind werden sie das Geld bezahlen
+ b) lieben sie ihr Kind nicht oder haben sie die Mittel nicht geht es weiter
+
+7.  Es wird eine Liste vom Beziehungsnetz erstellt, man schenkt dem gerade Erwachsen gewordenen Kind einen Palm oder ein Smartphone, wo der kleine natürlich all seine Kollegen einträgt
+8.  Man quervergleicht die Liste mit seiner Liste von Leuten die
+   a) durch Sünden bereits fremdbestimmt sind
+   b) leuten die ihre Dienstleistungen für Mafiatätigkeiten anbieten
+
+9.  Man sorgt dafür, dass fremdbestimmte bzw. Dienstleistungsanbieter dem gerade Erwachsen gewordenen Kind harte Drogen gibt.
+10. Dieser durchlebt eine Verhaltensänderung.
+11. Man fordert nochmals bei den Eltern
+   a) sie zahlen, der Medieninhaber hat seinen Umsatz gesteigert
+   b) sie zahlen nicht, dem gerade erwachsen gewordenen wird eine Droge/Substanz verabreicht, die die Synapsen schädigt, er Entwickelt eine Geisteskrankheit
+
+12. Man sagt den Eltern (natürlich immer über einen nicht beweisbaren Kanal, wie z.B. kurze Einzelbildeinblendungen am Eltern PC) dass das Kind nun lebenslang an dieser Geisteskrankheit leben muss weil sie nicht aufgepasst hätten.
+13. Die Eltern zahlen für das zweite Kind mit garantie, Der Medieninhaber hat seinen Umsatz gesteigert. Er hatte bei einer Marketing Firma "Werbung" lassen machen.
+14. Es gilt nun die Spuren zu verwischen, man schwärzt den gerade Erwachsen gewordene beim Staat an, in dem ihm der Dienstelistungserbringer dazu überredet Drogen in Zürich zu nehmen und ihn bittet zu fahren.
+ ->der betroffene denkt vielleicht nicht so weit dass er wenn er in ZH Drogen nimmt und mit dem Auto fährt danach unter Drogen zurück fahren muss.
+15. Danach wird der Staat aktiv mit dem Fokus auf die Drogen wodurch die Geschichte mit dem Medieninhaber völlig vergessen wird.
+16. Der Junge Erwachsene ist 10 Jahre mit seiner Schizophrenie und mit den Drogen geschichten beschäftigt, kommt da nicht mehr raus oder schreibt 10 Jahre später einen solchen Artikel
+
+
+Ein Verkäufer hat mir mal gesagt: Marketing ist Kriegsführung.
+
+Botnetz Überwachungen:
+http://www.abuse.ch/
+http://www.shadowserver.org/
+
+Wie weit Malware in Systeme Eindringen kann und wie Zielgenau diese bestimmte Teilsysteme angrefen können haben wir bei Stuxnet gesehen
+
+Neulich habe ich mit Avira Deutschland gesprochen, jedes Exemplar von Virus / Trojaner dass sie erwischen würden würde danach in den Virenscanner eingebunden, wieviele jedoch nicht erwischt wurden, da sie sich
+sehr gut im system zu verstecken wissen weiss keiner.
+
+wer eine Verdächtige Datei erhalten hat kann diese in einer Sandbox laufen lassen, um zu sehen was sie tut
+http://www.threatexpert.com/ >Submit Sample<
+
+wer eine Verdächtige Datei von allen Bekannten Virenscannern durchsuchen lassen will kann diese auch hochladen:
+http://www.virustotal.com/index.html
+
+Ich wurde von jemanden aus dem Bundesamt für Informatik  gewarnt, dass es sich dabei um reale Internet Mafia handelt,
+und dass diese Leute auch schon Leute die Botnetze aufdecken bedroht haben, aber es ist mir egal, ich habe durch das ganze auch noch
+meine Freundin verloren und bin seit 10 Jahren alleine, sollen sie mich doch töten, es ist mir egal.
+
+

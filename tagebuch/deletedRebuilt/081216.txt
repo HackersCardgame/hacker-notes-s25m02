@@ -1,0 +1,183 @@
+Tagebuch Die Dez 16 12:18:04 CET 2008 @ ServerLandev
+
+ich solle mich für TBS oder Improware entscheiden hat Patrik gesagt, ich habe ihm dann gesagt, dass ich mich für die einen noch 
+für die anderen entescheid, dass ich aber dennoch stets meinem arbeitgeber loyal gegenüber war...
+
+ich meine wenn zwei parteien miteinander krach haben dann ist das letzte was man tun sollte sich für die eine zu entscheiden...
+
+ich als angehender techniker sehe das so, dass man dann am besten MITEINANDER! das Problem sucht, was wir dann doch auch ncoh irgendwie
+getan haben.
+
+der teufel in mir versucht mich etwas wie: "haben alle mcse so einen dachschaden" zu sagen, doch muss ich dann natürlich gleich intervenieren
+da dies auch nicht die lösung ist, 
+
+fakt ist, dass per default ein windows administrator einer domäne ein starker beeinflusser ist, und ich im prinzip weil ich ihm
+nicht wiedersprechen wollte einfach mal ja zum filter gesagt habe, klar ist dies eine verbesserung doch ob es das schule-xyz.ch und xyz.ch
+problem löst denke ich nicht.
+
+beide seinten (deucht mich manchmal) sind daran es der anderen mit gleicher münze heimzuzahlen, ohne wirklich daran interesse zu haben
+das problem zu lösen.
+
+couter measure: man muss vermutlich das problem auf beiden seiten selber lösen.... wobei der herr guelat hat mir eigentlich sehr
+kompetent getönt, aber scheinbar liegt der fehler im mxgate, dennoch hat patrik auch fehler gemacht, programmierskills sind essenziell
+
+patrick:
+TODO insmod ctrl-a
+insmod tab separated data + excel
+insmod look at your confiugration and help solving the problem instead of bashing...
+TODO insmod god exists <-- naja wäre nicht bibelkonform...
+TODO insmod z.b. im koran ist es nciht erlaubt schlecht über andere menschen zu reden, und nächstenliebe ist das auch nicht  SCHNITTMENGE
+
+Der klassiker: ImproWare schlecht, und dann wird einfach darauf rumgehackt anstelle die DATEN zu SAMMELN, damit man das Problem LÖSEN könnte.
+und ich hab nicht die improware seite gewählt, sondern ich setze mich dafür ein, dass keiner an den Galgen gehänt wird. Das kostet dann sonst
+auch diverse öffentliche institutionen, wenn z.B. eine ganze firma hops geht. oder psychiater kosten
+
+hypotehes: ms intruder, bashing non buyable persons, costs social security institutions
+
+any idea? --> geduld, verständnis, vermittlungsfähigkeiten und den richtigen abs(x) am rechten ort.
+
+psychologisches profile eines mcse (generalisierung, depmod marketing und monopol)
+
+Tagebuch Die Dez 16 14:21:57 CET 2008 @ ServerLandev
+
+zu einem ganz anderen Thema
+Dozent Strenfeld, am schwarzmahlen bezüglich wirtschaftskrise, berechtigt, unberechtigt, die zeit wird es zeigen
+bei mir reflexionsebene und tbs bilder, optimierung, wertschöpfung mehr gewinn für firma und obere leute
+positives: das lernende objekt strengt sich mehr an, und leistet mehr / besser, gut für den ruf der schule
+
+in 10 monaten wird es in die schweiz kommen, meta: jetzt in den nächsten 10 monaten müsst ihr euch anstrengen
+was wäre das pendant für die guten zeiten? sollte es sich wirklich um kontrollinsturument handeln müsste es ein pendant für gute zeiten geben
+in der Produktion wäre das ja die aufträge immer rechtzeitig erledigen zu können....
+
+
+Tagebuch Die Dez 16 14:31:47 CET 2008 @ ServerLandev
+zurück zu psychologischem profil mcse (mit allefälliger Generalisierung)
+eigenens Mindmap : Netzwerk
+aufgebaut durchblick
+redundanz, austauschbarkeit? / filz --> und auch gleich reflexionseben
+
+Tagebuch Die Dez 16 15:16:19 CET 2008 @ ServerLandev
+
+mindcontrol: schlüssel mit buch setzen
+
+Tagebuch Die Dez 16 17:33:24 CET 2008 @ ServerLandev
+
+so kurz nach 1600 übermannt mich auf grund eines telefonates und entprechendem group-policy" ein angstgefühl, amygdalla
+gepaart mit fokus auf telefonat und ncihterreichbarkeit ziknet und sitzungsflag ---> reflexionsebene
+
+so sitzte ich nun hier und reflektiere und komme dennoch zum schluss, dass nicht gelästert werden soll, weil ¬nächstenliebe
+
+aber leider müsste man wieder einmal schönpflug hervornhemen: denken in gruppen, wenn nciht improware das opfer ist, oder ich sie in schutz nehme werde cih vermutlihc das opfer sein...
+
+der hund bringt dem herrchen den knochen, auf dem knochen steht: "improware ist schlecht"
+
+lösung:
+eine möglichkeit, wir müssen alle probleme probleme lösen, dann gibt es keinen grund zu fluchen.
+somit muss ich mir auch der sache bewusst sein, dass wohl irgendwann ich an der stelle von improware der sündenbock sein werde...
+
+folglich wissen anhäufen um alle probleme lösen zu können.
+
+
+Tagebuch Die Dez 16 20:56:36 CET 2008 @ ServerLandev
+
+gehen / bleiben
+schrecken ohne ende / ende mit schrecken
+drogen um es besser zu ertragen? ich meine meist ist es ja ok, doch in den letzten tagen stehe ich massiv unter druck, ein bisschen überall
+server von jenni, ok hat im 2. anlauf geklappt und ich "bin en"
+Mailserver, no access, no influce, or little influence
+patrick der mich vor die wahl stellt, gott oder teufel, also sprich tbs oder improware, oder doch ziknet oder microsoft, oder bsd, mann hab ich'n
+chaos im kopf, so muss sich unser mail server bei einer spam attacke wohl fühlen, kernel panik, seg fault
+
+rebooten ala florio?
+rebooten ala ferine?
+rebooten ala neuer job?
+shutdonw?
+rebooten ala mal schauen wie lang ich machen kann was ich will, bei laube gings etwa 8 monate <-- da war ich schon...
+-dont-care-feld da vermutlich bug in mxgate und ich eh nichts machen kann?
+
+
+
+ich verstehe marc wyttenbach
+
+vermeidungsverhalten ist schwer löschbar, so muss ich um meinen job bangen, dass ich ja auch bleibe, und einen gruss an die psyops...
+dies ist missbrauch der metaebene...
+
+ob wohl die ganze wirtschaft so ist, dass alle so dermasen unter druck stehen
+
+
+kontrolle <--> informatik  (Zielkonflikt)
+
+counter measures, meta missbrauch um informatik zu kontrollieren mit hilfe von informatik
+sobald entdeckt und zugriff informatiker in der lage stündlichen bash cron zu starten
+
+counter measures, cluster, answer mla: if the cluster is evil it will be banned out of the world forever. and then the cluster is self bashing...
+
+blick in die bibel: andere wange hinhalten --> win win, verlierer verlieren weiter, böse nehmen sich immer mehr raus, 3 Pilz
+
+stressmanagement kurs...
+
+also zäumen wir das pferd mal von hinten auf:
+
+ich stehe unter stress
+patrick steht unter stress
+
+gemeinsamer "feind" improware, solidaritätsgefühl, gruppengefühl, 
+
+
+ich muss es wieder einmal besser wissen: man soll nicht gemeinsam auf einen einzelnen gehen!!!!
+
+jünger der sich gegen seinen führer wendet, sehr unerwartet, misstrauen, angst, kurzzeitiges fehlverhalten 
+
+transitiver imp bash
+last denies
+middle confused
+
+
+ob es da drausen wohl leute gibt, die den ganzen krampf haben und als dankeschon noch unterbezahlt und ausgestossen sind?
+oder gebe ich einfach zu viel für meine it infrastruktur aus?
+komplementärbedürfnisse...
+
+
+fakt ist, dass sobald ich ein login habe und spätestens wenn ich ein einmal ein sudo ALL =(ALL) ALL habe dann wird es a) schlimmer oder
+b) ich kann die probleme schneller lösen... so oder so man bräuchte rückhalt und müsste sich entsprechend auch mit der bsd entwicklung
+auseinander setzen --> ich habe gar keine freizeit mehr, hab ich ja eh schon nciht mehr..., wann war ich das letzte mal mit meinen 
+
+-
+kollegen im ausgang? vor 3Monaten
+wann hatte ich das letzte mal sex? vor 7 jahren
+wann war ich das letzte mal richtig glücklich? vor 7 jahren
+...
+wann habe ich das letzte mal harte drogen genommen? vor 7-8 jahren
+wann habe ich das letzte mal eine richtig wilde party mitgefeiert? vor 3 jahren, energy
+
+mal ehrlich, ist mein leben überhaupt ncoh lebenswert?
+
+nützliche teil der gesellschaft HR FR
+
++
+
+
+das problem ist, wenn ich in den ausgang gehe fehlen mir schon wieder 5h, stressbeweltigung tagebuch
+
+spezialisieren, auf das wesentliche konzentrieren...
+
+improware hat afaik für jedes problem einen spezialisten...
+ich versuche das ganze isp business einzuverleiben
+
+ns
+apache
+mail
+
+entsprechende kurse...
+
+5. Semester unix unterreicht, und dozenten die entsprechenden fragen stellen = abkürzung
+
+weitere abkürzungen?
+-gute howtos
+-leute an die man anfragen machen kann, z.B. ott, notfalls, honegger und heuer..., improware
+ -irc, braucht zu viel zeit..., aber irg.lugs.ch#lugs ist irgendwie heimelig...
+ 
+
+
+
+

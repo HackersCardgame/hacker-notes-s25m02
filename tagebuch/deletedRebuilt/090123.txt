@@ -1,0 +1,194 @@
+Tagebuch Fre Jan 23 15:58:29 CET 2009 @ ns2.ignored.ch
+
+2h andreas fehler mit imp ausgebuegelt telefnie...
+und allenfalls ist es eine laktose intoleranz die mihc in den wahnsinn treibt.
+Tagebuch Fre Jan 23 16:20:29 CET 2009 @ ns2.ignored.ch
+dafuer hat er mir jetzt grad 10 pendenzen erledigt....
+Tagebuch Fre Jan 23 18:52:12 CET 2009 @ ns2.ignored.ch
+
+
+wieder ein tag vorbei, wieder hatte ich druck auf der brust.
+ich bin ein mensch der gerne agiert, und bei überlast kann ich nicht mehr agieren sondern nur noch reagieren.
+
+ich bin mir fast sicher, dass dass meine tagebücher gelesen werden, dies wäre aber nur möglich wenn man das gesetz bricht.
+wenn man es benutzt um um zu helfen ist das ja ok. aber wenn einem dann allenfalls ein strick aus seinen gedanken, die man ehrlich aufschreibt, dann wäre das ja schon
+nciht in ordnugn.
+
+dann bin ich irgendwo zwischen dirnn.
+ich bin ja eben ein mensch der gerne agiert, wie soll das aber gehen, wenn man die informationen nicht bekommt
+
+da war die situation im büro von 1/1 mit 1/3 und mir und dann war es so
+dass mir 1/3 eigtenlcih eingebleut hat, dass der mensch von gps ein guter sei
+
+er sagt, es läge am dhcp server, der nicht mehr errichbar war, aber das kann ich ja auf meinem router überprüfen im log... leider nichts gefunden
+
+achten wir auf das problem und versuchen es zu lösen, "solve the problem"
+
+das kann ich nicht alleine
+
+das netz muss defragmentiert und dokumentiert werden
+die dienste müssen aufgelistet werden, offene karten
+guelat, scheint mir ein freundlciher und auch kompetenter imp mensch zu sein,
+
+1/3 sagt, von improware wolle niemand mit uns reden und auch mit 1/n nicht
+er sugeriert damit, dass improware das knowhow nicht herausrücken will, lustigerweise funktioniert das bei einer anderen genossenschaft wo selber am idms mitentwickelt wird
+
+hypothese 1
+ man hat in der vergangenheit versucht mit druck auf die firma imp zu arbeiten und die hat auf blockade gestellt
+sie reagiert ihrerseits mit negativen gefühlen, ich denke techniker arbeiten ungerne auf dieser ebene, zumindest ist es bei mir so
+
+hypothese 2
+es ist wirklich so, dass die firma imp das knowhow mutmasslich zurück hält
+
+hypothese 3
+imp hat chaotisch gearbeitet und ist jetzt in der misslichen lage, dass sie das zugeben müsste, was natürlich ein "nicht-erleuchteter" mensch im normalfall nciht macht
+
+fakt:
+es braucht von beiden seiten her einen aufwand und jemanden der den durchblick hat
+imp weiss z.b. nicht ob idms1 in suhr oder in schönenwerd steht, bzw. zumindest gewisse mitarbeiter der imp wissen das nicht
+
+fakt: (privat class)
+unsere systeme sind nicht oder zumindest teilweise nicht redundant --> was ich tun kann, allenfalls privatunterricht bei müller semester 5 (high avalability)
+
+fakt:
+so wie es aussieht hat niemand die regie und niemand die verantwortung
+
+fakt:
+die zusammenarbeit kiztey' könnte besser sein
+
+fakt:
+es gibt gewisse leute interne leute die ein gewohnheitsrecht haben, ich habe nicht die kapazität kundenadministration, störung, aufräumen, puffer für zwischenmenschliches und dann auch
+noch einfluss zu nehmen, dass wir das problem gelöst kriegen
+
+fakt:
+es ist förderlich wenn ich die störungen mache, so habe ich messwerte vom ganzen system die dann vielleicht zu einem gesammtbild zusammengesetzt werden können
+
+fakt:
+ich habe mindestens grundlegende fähigkeiten bezüglich unix systemen und mit einem read only login könnte das bild erweitert werden, ausserdem würden dabei kosten gespahrt in form 
+von tickets an imp für diverses.
+
+fakt:
+wenn ich das gesammtbild habe bin ich auch eine gefahr für das system, da ich dann auch die schwachstellen kenne
+
+fakt:
+ich lese die bibel und versuche es allen recht zu machen und könnte es im prinzip nicht mit meinem charakter vereinbaren, wenn ich solches missbrauche
+ich erinnere, ich habe immer noch das login für den einstein3 server bei der firma laube, welches vermutlich immer ncoh nicht geändert wurde und bis auf ein
+login zwecks downloadversuch eines tools welches ich im internet nicht mehr fand habe ich nie etwas gemacht. schon gar nicht sabotage.
+
+
+
+technisch
+GPS und improware müssen miteinander reden
+
+es muss am besten eine komplette netzwerkdokumentation erstellt werden, alternaiv kann eine dokumentation allenfalls erstellt werden in dem man einlogt und "ennumeration" macht
+besser wäre es aber geführt durch imp
+desasterrecovery sollte einmal durchgespielt werden
+backups kontrolliert
+überwachung eingerichtet
+
+
+
+kosten überlegungen:
+ich: 80/h inklusive neben und sozialkosten, alleine schaffe ich es nicht.
+impMA: 180/h
+GPS: 180/h
+
+1 tag würde somit etwa 4000.-- kosten, ja
+
+benefits:
+grundlagen für eine (marketing) gerichtete und strategische weiterentwicklung unseres netzes
+
+
+verantwortung:
+jetzt: netz gps, server: imp ?? hardware: itris
+
+
+
+NS System brächte ich wieder hoch, wenn ich den default gateway noch irgendwie bekommen würde
+zu tun ist: backup der zonen, ist nirgens so richtig dokumentiert, da hat wyttenbach versagt, insbesondere bei kunden mit fixer ip und allfälligen einträgen für mx und so weiter.
+--> rsync des verzeichnisses mit den zonendateien nach wo auch immer...
+ich vermute auch, dass dies allenfalls so jemand wie der guelat macht, da er wohl auch kein idiot ist, doch solange wir das nicht wissen müssen wir annehmen, dass es nirgends gesichert ist.
+
+
+
+
+
+eine idee:
+ich bau das ganze system mit normalen desktop rechnern 600.-- / stück nach
+
+
+ich setze als erstes einen nameserver auf
+
+debian etch R6 installieren
+apt-get install bind9
+wget webmin.deb
+dpkg --install $_
+add webmin bind  cluster functionality over ssh
+
+
+dann fehlt mir komplett das knowhow über provisionierung cmts und dhcpd, also einen dhcpd werde ich wohl zum laufen kriegen, aber betrachtet man es objektiv ist das idms
+ein gelies tool. vermutlich ist es gar nciht so eine hexerei, doch leider fehlt mir die testumgebung (wobei das stichwort testumgebung mir sagt: hey, da liegt doch noch eine ubr rum)
+--> also das krieg ich nciht hin
+
+webserver
+debin etch... copy paste /etc/apache2
+apt-get install mysql php5 apache2* 
+mysqldump mysql server
+cp -pur /var/www ...
+zu beachten allenfalls benutzer in einer datenbank und nicht als unix user, das wäre allenfalls entweder mit handarbeit verbunden, chmod, adduser, passwd >>serienbrief.txt
+																	sinnvollerweise idms benutzer mit adresse --> goto idms
+das läuft zwar zur zeit auch noch manuell...
+wäre somit einfach durch eine vorgefertigte hoster lösung zu ersetzen, mit geilieren funktoinen und wohl einfacher zu managen, das problem dort ist, dass es dann wieder eine
+weitere applikation gibt, die wir nicht im griff haben. somit finde ich eigentlich die variante mit dem manuellen erfassen "more reliable"
+
+bekommt man hin
+
+
+mailserver + filter
+simpler mailserver mit einer domain, ja
+mailserver mit virtual domains, hoffe ich das nehmen wir zumindest oberflächlich noch dieses semster durch
+
+mx gate funktionalität, zentraler punkt, funktionsfehler, viele betroffene, wenn gleich mein krankes gehirn mir sagt, dass nur böse mails von diesem teil verschluckt werden.
+
+filter --> einlesen in milter, steht zumindest sowas im sendmail buch...
+ausserdem weshalb nicht postfix, das ist von  einem ibm security esperten entwickelt...
+
+überwachung
+nagios + torrus
+fehler + auslastung punkt an gps...
+
+könnte nicht gps mit imp fusionieren?
+
+ich frage mich was das war mit rothenbühler, der hatte server und vermutlich hat man da alles auf imp server verschoben
+-der sei scheinbar kriminell gewesen
+-die firma wird vermutlich nicht wollen, dass ein interner die server im griff hat (firmen-paranoja)
+
+anderer gedanke:
+software lösung von anderer firma, ja da kommen scheinbar negative schwingungen, also grüsse an die ucs... 
+
+
+
+dann ist da noch die sache mit den Technikern und dem kader
+die technik wird immer die hintertüren kennen in computersystemen, und einer des kaders wird sich nie sicher sein (ausser er ist selber ein technik crack) ob da nicht noch irgend
+ein hintertürchen offen ist.
+
+rollentausch:
+ich habe den gelien job mit dem vielen lohn und muss nur ein bisschen die leute einschüchtern
+a) vertrauen aufbauen
+b) mit repressalien drohen (Gesetz)
+c) zusammen mit dem techniker den weg gehen <-- ja das wäre mit aufwand verbunden goto viel lohn...
+
+also wäre die einzige möglichkeit sicher zu sein, sich in der technik genau sogut oder besser  wie der techniker auszukennen, sonst muss man es outsourcen, und kann sich mit
+verträgen absichern..., also sind wohl die SLA's für imp wohl eigentlich mehr handschellen (techie sicht)
+
+
+den respekt eines techies erwirbt man durch technik knowhow und nur durch technik knowhow. klar man kann ihn einschüchtern, meistens, aber das führt zu svn.
+den respekt eines christen und wohl auch seine liebe erwirbt man durch frömmigkeit.
+den respekt eines sceners durch credits.
+den respekt eines idioten durch idiotie?
+den respekt eines guten arztes durch die anzahl der geretteten patienten.
+
+
+
+Tagebuch Fre Jan 23 23:39:21 CET 2009 @ ns2.ignored.ch
+

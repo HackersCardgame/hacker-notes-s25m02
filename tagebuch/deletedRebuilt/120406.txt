@@ -1,0 +1,47 @@
+Tagebuch Fr 6 Apr 2012 12:50:45 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+ABSTRAKT
+Layer 8 Virus für Cisco geräte entdeckt
+obfuscation für konfiguration
+netzwerkhoheit, selbst im eigenen netz
+strafklage gegen cisco eröffnen
+
+allenfalls abstrakte klasse für sämtlihce netzwerk hardware
+soap/xml oder über die telnet schnittstelle die die meisten geräte bieten
+->daus wird es automatisch geholfen beim konfigurieren,
+leuten die es genauer wissen wollen werden geblockt
+
+
+
+END ABSTRAKT
+
+Tagebuch Fr 6 Apr 2012 19:37:56 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+Tagebuch Fr 6 Apr 2012 19:38:17 CEST @ Marc-Landolts-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+ABSTRAKT
+1. Wacki kacki will nicole los werden
+2. er benutzt das microwafe auditory system um beziehungen und intrigen
+   anzuzetteln
+3. nicole keil allenfalls suizidal, da kindheitstrauma von der beziehung
+   von olivia schütt und wägi zurück geholt wird
+    ->abstrakte klasse verlustangst
+4. bitte mal wacki verhören, von seiner familie wissen wir dass sie
+   manipulativ sind und mit intrigen schaffen.
+    ->ausserdem beantwortet er die die freundschaftsanfrage in facebook nicht
+
+---->freundschaftsanfrage nicht beantworten = sünde oder intrige
+select * from unbeantwortete freundschaftsanfrage
+tag requester as possible victim
+tag denier as possible sneak
+END ABSTRAKT
+
+
+
+
+

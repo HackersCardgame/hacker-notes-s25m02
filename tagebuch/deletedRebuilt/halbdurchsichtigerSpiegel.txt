@@ -1,0 +1,25 @@
+
+
+halbdurchsichtiger Spiegel
+
+
+ 
+ A               B
+  o      |      o
+ \|/ ->  |<->  \|/ 
+  |      |      |
+ / \     |     / \
+
+1. A stiftet unfrieden an
+2. B gibt zurück, doch es trifft nur ihn selber
+
+
+Motive für A
+
+
+
+Wer hat den spiegel konstruiert?
+Der Spiegel wird von A benutzt, da es immer nur B trifft
+
+
+

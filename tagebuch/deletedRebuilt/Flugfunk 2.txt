@@ -1,0 +1,27 @@
+Kapazitätsdiode
+funk früher (rohren)
+wellenfortpflanzung --> erde rund --> wie weit kann man funken?
+entstörung
+mittelfrequenz -> zwischenfrequenz
+hf-verstärkung
+
+
+Was ist ein Funkgerät?
+Woher kommt es?
+ -Erfinder
+ -Rören
+Wie funktioniert es?
+ -Schwingkreis, Trägerfrequenz
+ -Modulation
+ -Kapazitätsdiode
+ -Schwinkreis mittelfrequenz
+ 
+
+DEMODULATION: 
+ http://www.elektronik-kompendium.de/sites/kom/0401181.htm
+
+Frequenzen
+ http://mitglied.lycos.de/flugberge/info/funkfreq.htm
+
+AM/(fm)
+ http://de.wikipedia.org/wiki/Amplitudenmodulation

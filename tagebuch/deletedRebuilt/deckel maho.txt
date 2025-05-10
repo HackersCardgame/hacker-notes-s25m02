@@ -1,0 +1,59 @@
+deckel maho
+
+dmc 63v
+
+dmg schwiz
+
+01 824 4848
+
+dressler
+
+01 824 48 16
+
+kei problem masch läuft noch...
+
+for backup purpose
+
+
+service menu
+
+curser 1 zeile runter 
+enter
+service menu
+
+cd steuerschrank
+
+nc speicher
+
+
+
+problem allenfalls welt für sich , ausgrenzung...
+
+addr
+
+parameter
+
+dienste
+nc
+plc
+mnc
+
+
+file alloc table
+
+mft
+
+dd
+
+
+sämtliche sichern entladen
+
+one copy
+
+laden entladen
+
+3
+
+8'
+
+ENABLE RAID ON WINDOWS XP PROFESSIONAL...

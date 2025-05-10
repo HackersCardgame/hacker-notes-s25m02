@@ -1,0 +1,2 @@
+Creed: object based access.
+Da frage ich mich als informatiker ob das auch fuer exploits und race conditions gilt???

@@ -1,0 +1,33 @@
+Tagebuch Mo 19 Dez 2011 04:56:02 CET @ Marcs-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
+
+*Mind Blocker* auf etwas was ich vom internet habe, PolicyBasedRoute
+-->ich würde copyright verletzen
+
+ich hab zwei cisco geräte gekauft und somit wohl auch die lizenz
+für das was so vorgesehen ist.
+
+trivialpatent 
+
+system.trace(blocker)
+
+es ist ja vermutlich klar, dass man irgendwie entscheiden muss wie
+geroutet wird wenn
+
+a: keine
+b: wan1
+c: wan2
+d: beide links up sind
+
+x: Routing
+y: NAT
+
+(A:abcd)R(X:xy)
+
+
+
+
+Tagebuch Mo 19 Dez 2011 21:44:36 CET @ Marcs-MacBook-Pro.local
+
+Schachnovelle Teil 2 ( die PC Variante )
