@@ -29,4 +29,15 @@ somit lässt die zürich versichrung sich grüssen und weiss von früheren verbr
 das würde erklären weshalb mein monitoring immer sabotiert wird
 weshalb die passwörter (vault 7 ähnliche malware) von routern wo ich auch sehen würde wenn jemand an meinem netzwerk herumfummelt wieder nicht mehr funktionieren 
 
+marc@debian:~/hacker-notes-s25m02$ figlet FEDPOL
+ _____ _____ ____  ____   ___  _     
+|  ___| ____|  _ \|  _ \ / _ \| |    
+| |_  |  _| | | | | |_) | | | | |    
+|  _| | |___| |_| |  __/| |_| | |___ 
+|_|   |_____|____/|_|    \___/|_____|
+                                     
+falls dieser vorerst spekulative Schachzug stimmt, wäre es wünschenswert, wenn das fedpol und das bundesgericht all diese fehlbaren polizisten und ihre blackhat gehülfen einlochen würde
+
+
+
 
