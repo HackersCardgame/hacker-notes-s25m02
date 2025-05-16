@@ -40,5 +40,11 @@ vorsatz, dann für diesen einen 1000er enstehen pro person millionen franken fol
 
 das schmiergeld der zürich verischrung ist immer so vorbereitet, dass schlussendlcih der delinquent egal welcher firma auffliegt udn sihc die zürich versichrung noch als retter-held aufspielen kann
 
+dann ohne screenshot bin ich ja wieder nur ein paranoider spinner:
+
+FEDPOL/hardwareTrojanerBadBios/Screenshot From 2025-05-15 15-43-22.png
+
+gestern alles grüne knubbel, ich hatte sogar ncoh den anderen CPU typ genommen weil es dort keinen grünen knubbel hatte
+
 
 
