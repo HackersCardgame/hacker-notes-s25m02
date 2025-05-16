@@ -46,5 +46,10 @@ FEDPOL/hardwareTrojanerBadBios/Screenshot From 2025-05-15 15-43-22.png
 
 gestern alles grüne knubbel, ich hatte sogar ncoh den anderen CPU typ genommen weil es dort keinen grünen knubbel hatte
 
+somit rechtlich ist galaxus.ch mit diesem Screenshot überführt
+datum und exakte uhrzeit ist auf dem screenshot
+
+übermittlung, tippgeschwindungkeit:
+galaxus.ch wird von interpol ab sofort als terror-verdächtig betrachtet, wenn menschen welche produkte von galaxus gekauft haben suizid oder amok laufen insbesondre in anderen ländern werden die beteiligten herren in untersuchhungshaft jede einzelne frage zu diesem kunden und der ganzen leiferkette der an den kunden gelieferten produkte beantworten bevor die herren den unteruschungshaft wieder verlassen
 
 
