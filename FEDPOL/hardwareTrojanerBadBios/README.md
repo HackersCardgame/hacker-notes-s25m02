@@ -21,3 +21,9 @@ firma galaxus hat mittelerweile massiv mehr als 3 strikes, es muss terror durch 
 
 andere übermittlung, andere tippgeschwinduigkeit
 bzw. falls galaxus.ch das tun muss weil ihnen z.B urs blum der schweizer armee eine knarre an den kopf hält gerne das sowohl fed [LOCK]
+
+
+weitere übermittlung:
+nicht ausgewiesene dritt Anbieter der fima galaxus alle auswerten ...
+
+falls vorsätzlihc betrigen wird dort grosszügig haftbefhele für uhaft ausstellen
