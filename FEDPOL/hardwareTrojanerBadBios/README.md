@@ -15,4 +15,9 @@ somit spätestens wenn da malware drauf ist begründeter verdacht gegen galaxus 
 
 ich: siegel kontrolliere ich jeweils genau, aber mit 1-2 wochen zusätzlicher wartezeit welche gestern als ich das bestellt habe ncoh nicht dort war kann man vermutlciuh schon auch ein Siegel fälschen
 
+apropos 3 strikes system: 
 
+firma galaxus hat mittelerweile massiv mehr als 3 strikes, es muss terror durch INTERPOL verdacht gegen die firma galaxus.ch eröffnet werden, nicht dass die durch INTERPOL eröffnet werden, nicht dass die beteiligten herren dort selber amok laufen, aber menschen wie Hapte Avaya zu amokläufern abrichten und in deutschland 8 jährige kinder ermorden
+
+andere übermittlung, andere tippgeschwinduigkeit
+bzw. falls galaxus.ch das tun muss weil ihnen z.B urs blum der schweizer armee eine knarre an den kopf hält gerne das sowohl fed [LOCK]
