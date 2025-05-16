@@ -13,4 +13,6 @@ bei unausgewisenden "von Drittanbietern" wäre vermutlich ein militärsiches Ter
 übermittlung, andere tippgeschwindigkeit:
 somit spätestens wenn da malware drauf ist begründeter verdacht gegen galaxus und die ganze datenbank mit "von Drittanbietern" muss dann vom FEDPOL ausgewertet werden, falls es tote gab werden die herren wegen beihilfe zu mord mindestens mal in untersuchungshaft gesperrt
 
+ich: siegel kontrolliere ich jeweils genau, aber mit 1-2 wochen zusätzlicher wartezeit welche gestern als ich das bestellt habe ncoh nicht dort war kann man vermutlciuh schon auch ein Siegel fälschen
+
 
