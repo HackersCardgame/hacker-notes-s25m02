@@ -31,5 +31,14 @@ falls vorsätzlihc betrigen wird dort grosszügig haftbefhele für uhaft ausstel
 
 SOLLTE sich herausstellen dass personal bei galaxus.ch beiteiligt ist oder war den hapte avaya zum amokläufer abzurichten MÜSSEN diese Personen und alle beteiligten Personen ZUR SICHERHEIT der Zivilbevölkerung FÜR IMMER verwhart werden
 
+unbekannt der sich als galaxus.ch verwaltungsrat ausgibt:
+
+ist nru ein business, wir bekommen 1000.-- für diese manipulationen der lieferkette
+
+ich:
+vorsatz, dann für diesen einen 1000er enstehen pro person millionen franken folgekosten, das fliegt sowieso auf, spätenstens wenn die Zürcih versichrung welche die Rechtsverdreheung für die fehlbaren und mordenden offiziere macht selber auffleigen würde dann wird diese "falsche champagner für 1000.--" geöffnet udn dann tragen die herren sowieso die folgekosten für diese dinge welche dann in den millionen ist
+
+das schmiergeld der zürich verischrung ist immer so vorbereitet, dass schlussendlcih der delinquent egal welcher firma auffliegt udn sihc die zürich versichrung noch als retter-held aufspielen kann
+
 
 
