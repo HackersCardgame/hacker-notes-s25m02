@@ -8,4 +8,9 @@ da wäre zusätzliches Tracking allenfalls sinnvoll, bzw. haben die vermutlcih e
 
 also da hat das FEDPOL allenfalls wieder die Chance ein paar blackhats zu fangen welche bewusst, vorsätzlich und bereits gemordet haben
 
+bei unausgewisenden "von Drittanbietern" wäre vermutlich ein militärsiches Terrornetzwerk dahinter ...
+
+übermittlung, andere tippgeschwindigkeit:
+somit spätestens wenn da malware drauf ist begründeter verdacht gegen galaxus und die ganze datenbank mit "von Drittanbietern" muss dann vom FEDPOL ausgewertet werden, falls es tote gab werden die herren wegen beihilfe zu mord mindestens mal in untersuchungshaft gesperrt
+
 
