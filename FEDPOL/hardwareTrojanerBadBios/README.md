@@ -27,3 +27,9 @@ weitere übermittlung:
 nicht ausgewiesene dritt Anbieter der fima galaxus alle auswerten ...
 
 falls vorsätzlihc betrigen wird dort grosszügig haftbefhele für uhaft ausstellen
+
+
+SOLLTE sich herausstellen dass personal bei galaxus.ch beiteiligt ist oder war den hapte avaya zum amokläufer abzurichten MÜSSEN diese Personen und alle beteiligten Personen ZUR SICHERHEIT der Zivilbevölkerung FÜR IMMER verwhart werden
+
+
+
