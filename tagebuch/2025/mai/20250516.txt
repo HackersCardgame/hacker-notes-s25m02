@@ -36,5 +36,35 @@ dann als das marc jr landolt protokolliert versucth man das mit dem "sorry updat
 DSC06445.JPG
 
 
+also technisch können die Herren der HTL einfach mehr sendepegel aktivieren, bzw. haben da ncoh weitere access codes ...
+
+Fälle
+* tödlicher Verkehrsunfall von Hanspeter Müllers Frau
+* feuerwehrmann gautschi tötet Mutter mit Kind im Kleinwagen
+* amoklauf Michael boeringer
+* amoklauf Hapte Avaya (da hätte die HTL allenfalls zusätzliche mobile Sendeinfrastruktur in Frankfurt am Bahnhof aufgestellt gehabt)
+
+... sollten somit auch unter dieser Perspektive analysiert werden
+
+
+marc@debian:~$ figlet Kleineren
+
+Für die ...
+ _  ___      _                           
+| |/ / | ___(_)_ __   ___ _ __ ___ _ __  
+| ' /| |/ _ \ | '_ \ / _ \ '__/ _ \ '_ \ 
+| . \| |  __/ | | | |  __/ | |  __/ | | |
+|_|\_\_|\___|_|_| |_|\___|_|  \___|_| |_|
+                                         
+... hilft es als Coping-Strategie allenfalls zu wissen, dass die Steueramt Software scheinbar
+
+1. mehr Sendeleistung / Sendeberechtigungen für induzierte Epilepise
+2. dazu bereits viel Sabotage vorbereitet wurde, allenfalls während eines ganzen Jahres seit der letzten Verwendung von EasyTax
+3. dass parallel dass man veruscht den/die Zeugen/in zu ermorden noch Klagen vorausgerendert hat, zB. das ERROR Symbol was wie ein Stopp-Schild im Strassenverkehr aussieht würde dann loopen "es ist weil du dort und dort ein Stoppschild missachtet hast" [1]
+
+[1] hat es auch bei mir geloopt, aber ich habe ja schon seit jahren keinen führerschein mehr und fahre mit dem Fahrrad sowieso nie mehr hauptstrasse sondern wenn es geht fahrradwege, feldwege, waldwege
+
+Sincerely HackersCardgame.org
+welches sich zu 100.000% Whitehat Hacktivismus bekennt
 
 
