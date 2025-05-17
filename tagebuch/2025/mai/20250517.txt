@@ -19,3 +19,15 @@ FALLS meine Annahme stimmt wird urs blum und die zürich versicherung versuchen 
 
 also FALLS ich das Puzzle richtig gelöst hätte wäre schutzhaft sinnvoll
 
+
+13:52:
+
+seit einigen minuten läuft der loop
+
+loop
+{
+  grillen-hirni    (de-sg: ein kleines Gehirn wie eine Grille)
+  hirin-grillen    (de-sg: das Gehrin Grillen)
+}
+
+
